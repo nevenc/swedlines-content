@@ -6,14 +6,22 @@
   "guid": "59a2be72-30c4-436c-acd8-9e7539668c4c",
   "published_at": "2026-11-14T00:18:05+01:00",
   "fetched_at": "2026-11-14T14:36:04+01:00",
-  "category": "general",
+  "category": "world",
   "image_url": "https://static.bonniernews.se/ba/d4d4fd96-8415-4b95-ba82-9d3982b77e56.jpg?width=600",
   "sv": {
     "title": "Flygstopp utfärdat i hela USA: ”Säkerhetsskäl”",
     "summary": "USA:s flygmyndighet FAA stoppar tills vidare alla flygplan i landet från att lyfta på grund av kommunikationsproblem. Chefen för USA:s myndighet för landets inre säkerhet säger att det ännu inte finns några indikationer på hot mot USA och federala polisen FBI misstänker inte en cyberattack.",
     "summary_origin": "feed"
   },
+  "en": {
+    "title": "Ground stop issued across the whole US: 'Safety reasons'",
+    "summary": "The US aviation authority FAA is halting all planes in the country from taking off until further notice because of communication problems. The head of the US Department of Homeland Security says there are as yet no indications of threats against the US, and the federal police FBI does not suspect a cyberattack."
+  },
   "translation": {
-    "status": "pending"
+    "status": "done",
+    "provider": "claude-code",
+    "model": "claude-fable-5-1",
+    "prompt_version": "2026-11-14",
+    "translated_at": "2026-11-14T14:56:57+01:00"
   }
 }

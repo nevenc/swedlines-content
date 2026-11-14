@@ -6,13 +6,21 @@
   "guid": "10666fad-71c5-48d9-a7cf-cebcfd09a284",
   "published_at": "2026-11-14T14:07:25+01:00",
   "fetched_at": "2026-11-14T14:36:04+01:00",
-  "category": "general",
+  "category": "sports",
   "sv": {
     "title": "Sporten Direkt",
     "summary": "Följ nyhetsflödet i Sporten Direkt. Först med det senaste i sportens värld.",
     "summary_origin": "feed"
   },
+  "en": {
+    "title": "Sporten Direkt",
+    "summary": "Follow the news flow in Sporten Direkt. First with the latest from the world of sport."
+  },
   "translation": {
-    "status": "pending"
+    "status": "done",
+    "provider": "claude-code",
+    "model": "claude-fable-5-1",
+    "prompt_version": "2026-11-14",
+    "translated_at": "2026-11-14T14:53:03+01:00"
   }
 }

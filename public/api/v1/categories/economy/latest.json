@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-14T14:42:16+01:00",
-  "count": 20,
+  "generated_at": "2026-11-14T14:57:13+01:00",
+  "count": 37,
   "items": [
+    {
+      "id": "12c15247f1bc",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/R1x3K8/sa-mycket-kostar-bostaderna-vid-din-tunnelbanestation",
+      "guid": "https://www.svd.se/a/R1x3K8/sa-mycket-kostar-bostaderna-vid-din-tunnelbanestation?utm_medium=rss",
+      "published_at": "2026-11-14T14:27:37+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/91c73b01-86f7-3823-8e1e-2f1a71b66490?format=auto&s=ddb55ff7abbc28cbb6d20e722950eaf11b675159&w=1000",
+      "sv": {
+        "title": "Här stiger priset fyra miljoner på fem minuter",
+        "summary": "Nästan fyra miljoner kronor. Så stor kan prisskillnaden vara för en lägenhet på 70 kvadratmeter…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here the price rises by four million in five minutes",
+        "summary": "Almost SEK 4 million. That is how big the price difference can be for a 70-square-metre flat…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:53:03+01:00"
+      }
+    },
+    {
+      "id": "8425ce3de07f",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/texas-longhorn-pa-sodertull-i-konkurs",
+      "guid": "415e8bd9-1501-4acd-8e64-9dffa7bc3a18",
+      "published_at": "2026-11-14T13:55:04+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a160808e-2ab3-41e4-a766-3947ea456de5.jpeg?width=600",
+      "sv": {
+        "title": "Köttrestaurang i Malmö i konkurs efter 15 år på Södertull",
+        "summary": "Köttrestaurangen Texas Longhorn på Södertull har gått i konkurs efter 15 år vid kanalen. Ägaren Peter Reinholdsson menar att det har varit svårt att få fart på affärerna efter de tunga pandemiåren. – Man fick med sig en ryggsäck, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Steakhouse in Malmö bankrupt after 15 years at Södertull",
+        "summary": "The steakhouse Texas Longhorn at Södertull has gone bankrupt after 15 years by the canal. Owner Peter Reinholdsson says it has been hard to get business going again after the heavy pandemic years. – You were left carrying a backpack, he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:53:03+01:00"
+      }
+    },
     {
       "id": "37948e7af1db",
       "schema_version": 1,
@@ -17,8 +71,69 @@
         "summary": "Om Centern väljer M-ledaren Ulf Kristersson i stället för de rödgröna kommer Socialdemokraterna att gå ihop med V och MP om budgeten, säger ekonomisk-politiske talespersonen Mikael Damberg. ”En Tidö 2-regering kommer att vara fullständigt beroende av SD i varenda fråga”, säger han.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Damberg: We will stop a centre-right budget",
+        "summary": "If the Centre Party chooses M leader Ulf Kristersson instead of the red-greens, the Social Democrats will join forces with V and MP on the budget, says economic policy spokesperson Mikael Damberg. 'A Tidö 2 government will be completely dependent on SD on every single issue,' he says."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:53:03+01:00"
+      }
+    },
+    {
+      "id": "6abd2eee40de",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/ekonomi/sa-kan-datacenter-paverka-din-elrakning",
+      "guid": "https://www.svt.se/nyheter/ekonomi/sa-kan-datacenter-paverka-din-elrakning",
+      "published_at": "2026-11-14T13:45:32+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Så kan datacenter påverka din elräkning",
+        "summary": "Ett datacenter i storlek med Googles planerade anläggning utanför Sundsvall kan höja hushållens elräkning med mellan 100 och 1 000 kronor om året – om ingen ny elproduktion tillkommer. Det visar en beräkning av elmarknadsanalytikern Christian Holtz.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "How data centres could affect your electricity bill",
+        "summary": "A data centre the size of Google's planned facility outside Sundsvall could raise household electricity bills by between SEK 100 and 1,000 a year – if no new electricity generation is added. That is shown by a calculation by electricity market analyst Christian Holtz."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:53:03+01:00"
+      }
+    },
+    {
+      "id": "d38bf8d29784",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/pensionsfonder-tunga-i-ai-bolag-miljarder-upp-i-rok",
+      "guid": "https://www.dn.se/ekonomi/pensionsfonder-tunga-i-ai-bolag-miljarder-upp-i-rok/",
+      "published_at": "2026-11-14T13:22:26+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/988f88df-0452-428d-a7df-965a039b6eae.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Pensionsfonder tunga i AI-bolag – miljarder upp i rök",
+        "summary": "Spioneri, otrohet och AI blev en giftig mix för pensionsfonder i veckan. När Nvidias börskurs fortsatte att pressas i fredags försvann nya miljarder. – Det här är en väldigt stor skandal, säger ekonomen Maria Landeborn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pension funds heavy in AI companies – billions go up in smoke",
+        "summary": "Espionage, infidelity and AI became a toxic mix for pension funds this week. When Nvidia's share price continued to be squeezed on Friday, new billions disappeared. – This is a very big scandal, says economist Maria Landeborn."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:53:03+01:00"
       }
     },
     {
@@ -36,8 +151,16 @@
         "summary": "Omsättning per anställd har blivit ett av investerarnas viktigaste nyckeltal för mjukvarubolag. Nu vill musikbolaget Soundtrack (tidigare Soundtrack Your Brand) fördubbla sin siffra på tre år genom att låta omsättningen växa medan antalet anställda står still.",
         "summary_origin": "truncated"
       },
+      "en": {
+        "title": "Investors' new favourite metric",
+        "summary": "Revenue per employee has become one of investors' most important metrics for software companies. Now the music company Soundtrack (formerly Soundtrack Your Brand) wants to double its figure in three years by letting revenue grow while headcount stands still."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:53:03+01:00"
       }
     },
     {
@@ -55,8 +178,42 @@
         "summary": "USA:s president kommer inte att lyfta Nvidia och spionmisstankarna när han i veckan träffar Kinas ledare, rapporterar amerikanska medier. Elon Musk följer med Trump på resan.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Nvidia not on the agenda when Trump and Xi meet",
+        "summary": "The US president will not raise Nvidia and the espionage suspicions when he meets China's leader this week, American media report. Elon Musk is accompanying Trump on the trip."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:53:03+01:00"
+      }
+    },
+    {
+      "id": "58fe132834a4",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9340576",
+      "guid": "rss:sr.se/article/9340576",
+      "published_at": "2026-11-14T12:43:00+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nvidia pressas hårt – frågetecken kring intäkter från Kina",
+        "summary": "Det har varit en mycket skakig vecka för den amerikanska chipjätten Nvidia. Vd Jensen Huang har avgått efter flera påstådda otrohetsaffärer, varav en med en misstänkt kinesisk spion. Även nästa vecka väntas bjuda på dramatik.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Nvidia under heavy pressure – questions over revenue from China",
+        "summary": "It has been a very shaky week for the American chip giant Nvidia. CEO Jensen Huang has resigned after several alleged affairs, one of them with a suspected Chinese spy. Next week is also expected to bring drama."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:53:03+01:00"
       }
     },
     {
@@ -74,8 +231,43 @@
         "summary": "USA har för första gången lyft frågan om att ge Ukraina Natomedlemsskap i utbyte mot landområden, enligt landets president Volodymyr Zelenskyj. En sådan lösning skulle Ryssland sannolikt säga blankt nej till.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Zelensky: US has raised the NATO question",
+        "summary": "The US has for the first time raised the question of giving Ukraine NATO membership in exchange for territory, according to the country's President Volodymyr Zelensky. Russia would most likely say a flat no to such a solution."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:53:03+01:00"
+      }
+    },
+    {
+      "id": "30c478cd325b",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/z0G5QK/sa-paverkar-arbetstidsforkortning-svenskarnas-matvanor",
+      "guid": "https://www.svd.se/a/z0G5QK/sa-paverkar-arbetstidsforkortning-svenskarnas-matvanor?utm_medium=rss",
+      "published_at": "2026-11-14T10:45:35+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/b5981a47-faed-3946-814b-c05287e377f6?format=auto&s=e398a36916c9b51cebab187eea9dd0f16a08f6d2&w=1000",
+      "sv": {
+        "title": "Kortare arbetstid ger snabbare lunch",
+        "summary": "Fackets krav kan förändra svenskarnas matvanor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Shorter working hours mean quicker lunches",
+        "summary": "The union's demand could change Swedes' eating habits."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:53:03+01:00"
       }
     },
     {
@@ -93,8 +285,52 @@
         "summary": "Börsveckan har dominerats av dramatiken i chipjätten Nvidia. På Stockholmsbörsen blev bostadssajten Hemnet veckans stora förlorare, samtidigt som index steg.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Hemnet's nightmare continues",
+        "summary": "The stock market week has been dominated by the drama at chip giant Nvidia. On the Stockholm stock exchange, property site Hemnet was the week's big loser, while the index rose."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:53:03+01:00"
+      }
+    },
+    {
+      "id": "f2fc946f1db2",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/ekonomi/efter-varslet-lindex-soker-tio-toppchefer.58ca10ff-215a-5147-a5c4-2889761e6558",
+      "guid": "58ca10ff-215a-5147-a5c4-2889761e6558",
+      "published_at": "2026-11-14T10:05:22+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi",
+        "Tagg: Ekonomi",
+        "Tagg: Rekrytering",
+        "Tagg: Detaljhandel",
+        "Tagg: Varsel",
+        "Tagg: Kläder",
+        "Tagg: Susanne Ehnbåge"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/04676de0-ae31-36b8-99b0-02aa6b597639",
+      "sv": {
+        "title": "Lindex både varslar och nyanställer",
+        "summary": "Göteborgskedjan: Två separata processer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lindex both gives notice of layoffs and hires",
+        "summary": "The Göteborg chain: Two separate processes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:53:03+01:00"
       }
     },
     {
@@ -112,8 +348,16 @@
         "summary": "Patrik Hjelte hoppade av gymnasiet för att börja på Karlstads första McDonald’s. 35 år senare driver han över 30 restauranger och når en ny milstolpe – att spränga miljardvallen. ”Det roligaste som finns är att ge människor möjligheter.”",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Dropped out of upper secondary school – became burger king",
+        "summary": "Patrik Hjelte dropped out of upper secondary school to start at Karlstad's first McDonald's. 35 years later he runs more than 30 restaurants and reaches a new milestone – breaking the billion-kronor barrier. 'The most fun there is, is giving people opportunities.'"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:53:03+01:00"
       }
     },
     {
@@ -131,8 +375,16 @@
         "summary": "Kärnkraftsreaktorn Forsmark 3 har stoppats helt och hållet, rapporterar Aftonbladet. Orsaken är en kortslutning i ett kablage.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Total shutdown at nuclear power plant",
+        "summary": "The nuclear reactor Forsmark 3 has been shut down completely, Aftonbladet reports. The cause is a short circuit in a cable harness."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -150,8 +402,43 @@
         "summary": "De stora störningar som har drabbat Microsoft-användare sedan torsdagskvällen är nu lösta, meddelar företaget.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Microsoft's problems solved – 'no connection to AI'",
+        "summary": "The major disruptions that have affected Microsoft users since Thursday evening have now been resolved, the company announces."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
+      }
+    },
+    {
+      "id": "cef61c4f938b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/6Pn2WL/tuffare-ekonomi-slar-alltid-tillbaka",
+      "guid": "https://www.aftonbladet.se/nyheter/a/6Pn2WL/tuffare-ekonomi-slar-alltid-tillbaka?utm_medium=rss",
+      "published_at": "2026-11-14T08:23:52+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/95c5ceaa-0a47-3246-9ed2-468e58b9eec4?format=auto&s=5a55c454b85e962acb36b7e2f234532769c26f88&w=1000",
+      "sv": {
+        "title": "Maria, 44, fick jobb – då förlorade sonen stöd: ”Slår alltid tillbaka”",
+        "summary": "Tillväxten har skjutit i höjden i Sverige. Men nu kommer baksmällan med räntehöjning och inflation.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Maria, 44, got a job – then her son lost support: 'Always hits back'",
+        "summary": "Growth has soared in Sweden. But now comes the hangover with interest rate rises and inflation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -169,8 +456,99 @@
         "summary": "Bolaget har defensiva kvaliteter och en proppfull kassa. Trots det har aktien nu ovanligt goda förutsättningar att klå index. Di ser köpläge i en bortglömd aktie med stor rabatt.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Buy the perfect hiding place at a bargain price",
+        "summary": "The company has defensive qualities and a cash pile full to the brim. Despite that, the share now has unusually good prospects of beating the index. Di sees a buying opportunity in a forgotten share at a big discount."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
+      }
+    },
+    {
+      "id": "777b78437ab8",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/facket-hemarbete-far-fler-att-jobba-heltid",
+      "guid": "27183bb0-6791-4243-a686-4238e5d2471f",
+      "published_at": "2026-11-14T07:31:16+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0d72fb1e-9574-401b-beda-796294e1d634.jpg?width=600",
+      "sv": {
+        "title": "Facket: Hemarbete får fler att jobba heltid",
+        "summary": "Deltidsarbete bland kvinnor har minskat tydligt sedan pandemin, visar en undersökning från Sveriges Ingenjörer. Distansarbetet har gjort det möjligt för fler att jobba heltid. Men en ny trend kan vända utvecklingen igen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Union: Working from home gets more people working full-time",
+        "summary": "Part-time work among women has declined clearly since the pandemic, a survey by Sveriges Ingenjörer shows. Remote work has made it possible for more people to work full-time. But a new trend could reverse the development again."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
+      }
+    },
+    {
+      "id": "3a84d8b212fe",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/ez8Em9/facket-hemarbete-far-fler-att-jobba-heltid",
+      "guid": "https://www.svd.se/a/ez8Em9/facket-hemarbete-far-fler-att-jobba-heltid?utm_medium=rss",
+      "published_at": "2026-11-14T07:25:27+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/11042fc7-ab5b-36fc-b3c2-103d5b2861b7?format=auto&s=b004ae9d286e58dbe232b050fcb088c1518cc2be&w=1000",
+      "sv": {
+        "title": "Distansarbete gör att fler kvinnor jobbar heltid",
+        "summary": "Deltidsarbete bland kvinnor har minskat tydligt sedan pandemin, visar en undersökning från Sveriges…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Remote work means more women work full-time",
+        "summary": "Part-time work among women has declined clearly since the pandemic, a survey by Sveriges…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
+      }
+    },
+    {
+      "id": "5837e6c58fb2",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/tt-261114-distansarbete1-7a562446/facket-hemarbete-far-fler-att-jobba-heltid",
+      "guid": "tt-261114-distansarbete1-7a562446",
+      "published_at": "2026-11-14T07:25:26+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Arbete"
+      ],
+      "sv": {
+        "title": "Larmar: Kvinnor kan tvingas gå ner i tid när hemarbete stoppas",
+        "summary": "År 2019 jobbade 11 procent av de kvinnliga ingenjörerna deltid, bland männen var motsvarande siffra 4 procent. Sedan dess har deltidsarbetet framför allt hos kvinnor gått ner. Förra året jobbade 7 procent av kvinnorna deltid, visar undersökningen från fackförbundet Sveriges Ingenjörer.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Warning: Women may be forced to cut hours when working from home is stopped",
+        "summary": "In 2019, 11 per cent of female engineers worked part-time; among men the figure was 4 per cent. Since then part-time work has declined, above all among women. Last year 7 per cent of women worked part-time, the survey from the union Sveriges Ingenjörer shows."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -188,8 +566,16 @@
         "summary": "Två separata oljetankrar har fattat eld efter det att de gått på minor i Hormuzsundet. Det hävdar Revolutionsgardet i Iran enligt statliga medier.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Iran: Tankers have hit mines in the Strait of Hormuz",
+        "summary": "Two separate oil tankers have caught fire after hitting mines in the Strait of Hormuz. So claims Iran's Revolutionary Guard, according to state media."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -207,8 +593,16 @@
         "summary": "Riskerna med artificiell intelligens är det största hotet mot dagens finansiella system. Det uppger flera aktörer i en enkät gjord av den amerikanska centralbanken Federal Reserve.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Fed survey: AI threatens the financial system",
+        "summary": "The risks of artificial intelligence are the biggest threat to today's financial system. So say several players in a survey by the US central bank, the Federal Reserve."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -226,8 +620,16 @@
         "summary": "Efter ett landsomfattande flygstopp i USA som pågick i timmar har luftfartsmyndigheten FAA gett grönt ljus för flygplan att lyfta. Tiotusentals flyg – i och utanför USA – ställdes in eller försenades på grund av störningarna som uppges ha orsakats av ”gammal hårdvara”.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Ground stop lifted – old hardware blamed",
+        "summary": "After a nationwide ground stop in the US lasting hours, the aviation authority FAA has given the green light for planes to take off. Tens of thousands of flights – in and outside the US – were cancelled or delayed because of the disruptions, said to have been caused by 'old hardware'."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -245,8 +647,103 @@
         "summary": "Svensk skogsindustri pressas från två håll. Det är en av veckans viktigaste artiklar från Di:s nyhetstjänster. Läs också om att förskrivningen av adhd-läkemedel till unga har ökat med 900 procent och att Sverige säger nej till EU-krav på automatiskt godkända tillstånd för energiprojekt.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "The week's most important from Di's news services",
+        "summary": "The Swedish forest industry is being squeezed from two directions. That is one of the week's most important articles from Di's news services. Also read that prescriptions of ADHD medication to young people have increased by 900 per cent and that Sweden says no to EU demands for automatically approved permits for energy projects."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
+      }
+    },
+    {
+      "id": "e157a5e5b3e8",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9340793",
+      "guid": "rss:sr.se/article/9340793",
+      "published_at": "2026-11-14T06:07:00+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Pensionspengar kopplas till israeliska bosättningar",
+        "summary": "AP-fonderna, Sveriges allmänna pensionsfonder, har investerat uppemot nio miljarder kronor i bolag som enligt FN har verksamhet kopplad till israeliska bosättningar på ockuperad palestinsk mark.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Pension money linked to Israeli settlements",
+        "summary": "The AP funds, Sweden's national pension funds, have invested up to SEK 9 billion in companies that according to the UN have operations linked to Israeli settlements on occupied Palestinian land."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
+      }
+    },
+    {
+      "id": "9545e15e0d22",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/ekonomi/forslaget-sa-ska-ditt-elpris-sankas-losningen-fran-toppmotet-i-goteborg.8fa2160d-3b96-5ba0-8f19-a239e5bd4ce5",
+      "guid": "8fa2160d-3b96-5ba0-8f19-a239e5bd4ce5",
+      "published_at": "2026-11-14T06:04:21+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi",
+        "Tagg: Alexander Stubb",
+        "Tagg: Jacob Wallenberg",
+        "Tagg: Carl Bennet",
+        "Tagg: Göteborg",
+        "Tagg: Elpris"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/74b74a03-3f91-3d2d-b040-00b6059dcb6d",
+      "sv": {
+        "title": "Topparnas lista: Så ska elen bli billigare",
+        "summary": "Planerar enorma vindkraftparker • Planen för att göra Norden starkare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The leaders' list: How electricity will become cheaper",
+        "summary": "Planning enormous wind farms • The plan to make the Nordics stronger."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
+      }
+    },
+    {
+      "id": "cb24ef7b215a",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/googlechef-oppnar-for-karnkraft-for-el-till-datacentret-i-torsboda",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/googlechef-oppnar-for-karnkraft-for-el-till-datacentret-i-torsboda",
+      "published_at": "2026-11-14T05:30:09+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Googlechef öppnar för kärnkraft för el till datacentret i Torsboda",
+        "summary": "Att investera i små modulära kärnkraftsreaktorer – även i Sverige – kan bli ett sätt för Google att kompensera för den stora elförbrukningen vid företagets datacenter. Det säger Googles hållbarhetschef Adam Elman i en exklusiv intervju med SVT.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Google executive open to nuclear power for electricity to the data centre in Torsboda",
+        "summary": "Investing in small modular nuclear reactors – in Sweden too – could become a way for Google to compensate for the large electricity consumption at the company's data centres. So says Google's head of sustainability Adam Elman in an exclusive interview with SVT."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -264,8 +761,16 @@
         "summary": "All flygtrafik i USA har stoppats. Det meddelar USA:s flygmyndighet FAA, rapporterar CNBC. Ett kommunikationshaveri ligger bakom.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Ground stop across the whole US",
+        "summary": "All air traffic in the US has been halted. So announces the US aviation authority FAA, CNBC reports. A communications failure is behind it."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -282,8 +787,42 @@
         "summary": "I Lejlands Motor utmanar Volvos nya flaggskepp EX60 de tyska giganterna BMW iX3 och Mercedes GLC i ett test för att avgöra vilken som är den bästa stora el-suven på marknaden.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Di tests: Can Volvo's electric SUV beat the Germans?",
+        "summary": "In Lejlands Motor, Volvo's new flagship EX60 challenges the German giants BMW iX3 and Mercedes GLC in a test to decide which is the best large electric SUV on the market."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
+      }
+    },
+    {
+      "id": "0e8a49f7670c",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9340885",
+      "guid": "rss:sr.se/article/9340885",
+      "published_at": "2026-11-13T23:13:00+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Flygstopp i USA – SAS inväntar besked för fem plan",
+        "summary": "Ett nationellt flygstopp i USA stoppar utgående trafik och kan ge förseningar för tusentals flyg på fredagskvällen. SAS har fem flyg i luften på väg till USA, och enligt presschef Alexandra Lindgren Kaokji inväntar bolaget nu information om hur flighterna kommer att hanteras.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Ground stop in the US – SAS awaits word on five planes",
+        "summary": "A national ground stop in the US is halting outbound traffic and could cause delays for thousands of flights on Friday evening. SAS has five flights in the air on their way to the US, and according to press officer Alexandra Lindgren Kaokji the airline is now awaiting information on how the flights will be handled."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -301,8 +840,72 @@
         "summary": "Fredagen innebar ännu en tung handelsdag för AI-relaterade aktier på Wall Street. Nedgångarna dämpades dock av inflationssiffror som lugnade marknadens oro för aggressiva räntehöjningar från Federal Reserve. Vidare fortsatta Nvidia falla i kölvattnet av den sparkade vd:ns romantiska snedsteg.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Mostly red on Wall Street – Nvidia's worst week in over a year",
+        "summary": "Friday meant another heavy trading day for AI-related shares on Wall Street. The declines were tempered, however, by inflation figures that calmed the market's worries about aggressive rate rises from the Federal Reserve. Nvidia also continued to fall in the wake of the sacked CEO's romantic missteps."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
+      }
+    },
+    {
+      "id": "1aae3da00441",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/TKfMquiSx1vr2QRtl0qQ4/huangs-sista-kaostimmar-som-vd-kallade-sig-sjaelv-foer-en-skitstoevel",
+      "guid": "TKfMquiSx1vr2QRtl0qQ4",
+      "published_at": "2026-11-13T22:45:45+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Huangs sista kaostimmar som vd – kallade sig själv för en ”skitstövel”",
+        "summary": "Jensen Huangs självsäkra framtoning som Nvidias vd var som bortblåst när det stod klart att hans skandalomsusade affärer – däribland med en påstådd kinesisk spion – riskerade att kosta honom jobbet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Huang's last hours of chaos as CEO – called himself an 'asshole'",
+        "summary": "Jensen Huang's self-assured demeanour as Nvidia's CEO was gone when it became clear that his scandal-hit affairs – including with an alleged Chinese spy – risked costing him his job."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
+      }
+    },
+    {
+      "id": "33d8d20b988d",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/VxbbAl/smaspararna-rusar-in-i-nvidia-trots-vd-skandalen",
+      "guid": "https://www.svd.se/a/VxbbAl/smaspararna-rusar-in-i-nvidia-trots-vd-skandalen?utm_medium=rss",
+      "published_at": "2026-11-13T21:59:44+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/7ad7aaf4-8981-3d72-9c88-eb47b4b27b90?format=auto&s=ada9b0aeb73e6c9445063b61b2d38ed05739ecf3&w=1000",
+      "sv": {
+        "title": "Nvidia rasar – då flockas ”dippköparna”",
+        "summary": "Svenska småsparare rusar in i Nvidia när aktien faller efter vd-skandalen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia plunges – then the 'dip buyers' flock",
+        "summary": "Swedish retail investors rush into Nvidia as the share falls after the CEO scandal."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -319,8 +922,16 @@
         "summary": "Barclays har bytt fot när det gäller sin syn på investeringar i aktiemarknaden. För första gången sedan i mitten av mars i år har den brittiska storbanken en taktiskt positiv syn på amerikanska aktier, skriver Bloomberg.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Major bank positive on shares for the first time since March",
+        "summary": "Barclays has changed its stance on investing in the stock market. For the first time since mid-March this year, the British major bank has a tactically positive view of US shares, Bloomberg writes."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {

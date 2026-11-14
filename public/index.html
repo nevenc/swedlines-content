@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="sv">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Swedlines – svenska nyhetsrubriker</title>
+<title>Swedlines – Swedish news headlines</title>
 <meta name="description" content="Swedish news headlines from the ten largest Swedish news sites, in Swedish and English. Updated every 15 minutes.">
 <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
 <link rel="alternate" type="application/json" href="api/v1/latest.json">
@@ -58,28 +58,28 @@
     <div class="controls">
       <fieldset class="seg">
         <legend class="sr-only">Språk / Language</legend>
-        <button type="button" data-lang="sv" aria-pressed="true">sv</button>
-        <button type="button" data-lang="en" aria-pressed="false">en</button>
-        <button type="button" data-lang="both" aria-pressed="false">båda</button>
+        <button type="button" data-lang="en" aria-pressed="true">en</button>
+        <button type="button" data-lang="sv" aria-pressed="false">sv</button>
+        <button type="button" data-lang="both" aria-pressed="false">both</button>
       </fieldset>
-      <select id="source" aria-label="Källa / Source"><option value="">Alla källor</option></select>
+      <select id="source" aria-label="Källa / Source"><option value="">All sources</option></select>
       <button type="button" class="seg" id="refresh" style="padding:5px 10px;font:inherit;font-weight:600;background:var(--panel);color:var(--fg);cursor:pointer">↻</button>
     </div>
   </div>
   <div class="ticker-line"></div>
 </header>
-<main id="stream"><p class="empty">Laddar rubriker…</p></main>
+<main id="stream"><p class="empty">Loading headlines…</p></main>
 <footer>
-  Rubriker och ingresser tillhör respektive utgivare; varje länk går direkt till källan. Engelska texter är maskinöversatta.
-  <a href="api/v1/latest.json">JSON API</a> · uppdateras var 15:e minut.
+  Headlines and teasers belong to their publishers; every link goes straight to the source. English text is machine-translated.
+  <a href="api/v1/latest.json">JSON API</a> · updated every 15 minutes.
 </footer>
 <script>
 (() => {
   const stream = document.getElementById("stream");
   const sourceSel = document.getElementById("source");
   const langButtons = [...document.querySelectorAll("[data-lang]")];
-  let lang = "sv", source = "", data = null, sources = {};
-  try { lang = localStorage.getItem("lang") || "sv"; source = localStorage.getItem("source") || ""; } catch {}
+  let lang = "en", source = "", data = null, sources = {};
+  try { lang = localStorage.getItem("lang") || "en"; source = localStorage.getItem("source") || ""; } catch {}
 
   const WINDOWS = [
     [10 * 60, "Senaste 10 minuterna", "Last 10 minutes"],
@@ -87,27 +87,27 @@
     [4 * 3600, "Senaste 4 timmarna", "Last 4 hours"],
     [24 * 3600, "Tidigare i dag", "Earlier today"],
   ];
-  const dayFmt = new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Stockholm", weekday: "long", day: "numeric", month: "long" });
+  const dayFmt = () => new Intl.DateTimeFormat(lang === "sv" ? "sv-SE" : "en-GB", { timeZone: "Europe/Stockholm", weekday: "long", day: "numeric", month: "long" });
   const timeFmt = new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Stockholm", hour: "2-digit", minute: "2-digit" });
 
   function rel(d, now) {
     const s = Math.max(0, (now - d) / 1000);
-    if (s < 60) return "nu";
+    if (s < 60) return lang === "sv" ? "nu" : "now";
     if (s < 3600) return `${Math.floor(s / 60)} min`;
     if (s < 86400) return `${Math.floor(s / 3600)} h`;
     return timeFmt.format(d);
   }
   function groupKey(d, now) {
     const age = (now - d) / 1000;
-    for (const [sec, sv, en] of WINDOWS) if (age < sec) return lang === "en" ? en : sv;
-    return dayFmt.format(d);
+    for (const [sec, sv, en] of WINDOWS) if (age < sec) return lang === "sv" ? sv : en;
+    return dayFmt().format(d);
   }
 
   function render() {
     if (!data) return;
     const now = Date.now();
     const items = data.items.filter(a => !source || a.source === source);
-    if (!items.length) { stream.innerHTML = '<p class="empty">Inga rubriker.</p>'; return; }
+    if (!items.length) { stream.innerHTML = '<p class="empty">No headlines.</p>'; return; }
     const groups = new Map();
     for (const a of items) {
       const k = groupKey(new Date(a.published_at), now);
@@ -120,7 +120,7 @@
       for (const a of list) {
         const en = a.en && a.en.title;
         const primary = lang === "sv" ? a.sv.title : (en || a.sv.title);
-        const tag = lang !== "sv" && !en ? '<span class="untranslated">ej översatt</span>' : "";
+        const tag = lang !== "sv" && !en ? '<span class="untranslated">not yet translated</span>' : "";
         const orig = lang === "both" && en ? `<div class="orig" lang="sv">${esc(a.sv.title)}</div>` : "";
         html += `<li><span><a href="${esc(a.url)}" rel="noopener" lang="${lang === "sv" || !en ? "sv" : "en"}">${esc(primary)}</a>${tag}</span>` +
                 `<span class="meta"><span class="src">${esc(sources[a.source] || a.source)}</span> · ${rel(new Date(a.published_at), now)}</span>${orig}</li>`;

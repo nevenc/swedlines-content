@@ -6,7 +6,7 @@
   "guid": "2b40724c-7f36-5193-858f-87bce8f42251",
   "published_at": "2026-11-14T04:55:00+01:00",
   "fetched_at": "2026-11-14T14:36:04+01:00",
-  "category": "general",
+  "category": "culture",
   "feed_categories": [
     "Debatt",
     "Tagg: Språkspalten"
@@ -17,7 +17,15 @@
     "summary": "GP:s språkexpert Lars-Gunnar Andersson skriver om färger och dess symbolik i språket-",
     "summary_origin": "feed"
   },
+  "en": {
+    "title": "Yellow wind and red lines",
+    "summary": "GP's language expert Lars-Gunnar Andersson writes about colours and their symbolism in language."
+  },
   "translation": {
-    "status": "pending"
+    "status": "done",
+    "provider": "claude-code",
+    "model": "claude-fable-5-1",
+    "prompt_version": "2026-11-14",
+    "translated_at": "2026-11-14T14:56:57+01:00"
   }
 }

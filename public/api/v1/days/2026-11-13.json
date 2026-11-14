@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:42:16+01:00",
+  "generated_at": "2026-11-14T14:57:13+01:00",
   "count": 151,
   "items": [
     {
@@ -10,15 +10,23 @@
       "guid": "https://www.aftonbladet.se/nyheter/a/530G66/emil-drabbad-av-flygstoppet-i-usa?utm_medium=rss",
       "published_at": "2026-11-13T23:35:59+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "world",
       "image_url": "https://akamai.vgc.no/v2/images/04caff71-f769-3264-b5ef-0e159c99504d?format=auto&s=90f068da90ec3de2acb7b24c582b98af14de872e&w=1000",
       "sv": {
         "title": "Alicia fast på flygplatsen – resenärer bunkrar mat",
         "summary": "Emil är strandad i kaoset",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Alicia stuck at the airport – travellers stock up on food",
+        "summary": "Emil is stranded in the chaos"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -29,15 +37,23 @@
       "guid": "https://www.svd.se/a/pMLpQo/benjamin-ingrosso-pa-avicii-arena-recension?utm_medium=rss",
       "published_at": "2026-11-13T23:17:07+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "culture",
       "image_url": "https://akamai.vgc.no/v2/images/ccb7eeb3-1652-3a03-9af5-3a55a5c6e3cb?format=auto&s=da1a62a474f71a2caccf448cafcca6a19a750615&w=1000",
       "sv": {
         "title": "Varför bär Ingrosso ytterkläder?",
         "summary": "Under fredag- och lördagskvällen avslutas Benjamin Ingrossos Sverigeturné ”What’s next” på Avicii…",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Why does Ingrosso wear outdoor clothes?",
+        "summary": "On Friday and Saturday evening Benjamin Ingrosso's Swedish tour 'What's next' concludes at Avicii…"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -48,14 +64,22 @@
       "guid": "rss:sr.se/article/9340885",
       "published_at": "2026-11-13T23:13:00+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "economy",
       "sv": {
         "title": "Flygstopp i USA – SAS inväntar besked för fem plan",
         "summary": "Ett nationellt flygstopp i USA stoppar utgående trafik och kan ge förseningar för tusentals flyg på fredagskvällen. SAS har fem flyg i luften på väg till USA, och enligt presschef Alexandra Lindgren Kaokji inväntar bolaget nu information om hur flighterna kommer att hanteras.",
         "summary_origin": "truncated"
       },
+      "en": {
+        "title": "Ground stop in the US – SAS awaits word on five planes",
+        "summary": "A national ground stop in the US is halting outbound traffic and could cause delays for thousands of flights on Friday evening. SAS has five flights in the air on their way to the US, and according to press officer Alexandra Lindgren Kaokji the airline is now awaiting information on how the flights will be handled."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -73,8 +97,16 @@
         "summary": "Fredagen innebar ännu en tung handelsdag för AI-relaterade aktier på Wall Street. Nedgångarna dämpades dock av inflationssiffror som lugnade marknadens oro för aggressiva räntehöjningar från Federal Reserve. Vidare fortsatta Nvidia falla i kölvattnet av den sparkade vd:ns romantiska snedsteg.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Mostly red on Wall Street – Nvidia's worst week in over a year",
+        "summary": "Friday meant another heavy trading day for AI-related shares on Wall Street. The declines were tempered, however, by inflation figures that calmed the market's worries about aggressive rate rises from the Federal Reserve. Nvidia also continued to fall in the wake of the sacked CEO's romantic missteps."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -85,7 +117,7 @@
       "guid": "TKfMquiSx1vr2QRtl0qQ4",
       "published_at": "2026-11-13T22:45:45+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "economy",
       "feed_categories": [
         "/"
       ],
@@ -94,8 +126,16 @@
         "summary": "Jensen Huangs självsäkra framtoning som Nvidias vd var som bortblåst när det stod klart att hans skandalomsusade affärer – däribland med en påstådd kinesisk spion – riskerade att kosta honom jobbet.",
         "summary_origin": "truncated"
       },
+      "en": {
+        "title": "Huang's last hours of chaos as CEO – called himself an 'asshole'",
+        "summary": "Jensen Huang's self-assured demeanour as Nvidia's CEO was gone when it became clear that his scandal-hit affairs – including with an alleged Chinese spy – risked costing him his job."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -106,7 +146,7 @@
       "guid": "5ifDCDmZuDe0KFBL6jL15O",
       "published_at": "2026-11-13T22:38:19+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "world",
       "feed_categories": [
         "Utrikesnyheter"
       ],
@@ -115,8 +155,16 @@
         "summary": "Olyckan inträffade vid 12.30-tiden lokal tid, när tankfartyget Atlantic Asphalt körde in i American Cruise Lines kryssningsfartyg American Heritage, som låg förtöjt på Mississippifloden.",
         "summary_origin": "truncated"
       },
+      "en": {
+        "title": "No one seriously injured after ship collision in New Orleans",
+        "summary": "The accident happened at around 12.30 local time, when the tanker Atlantic Asphalt ran into American Cruise Lines' cruise ship American Heritage, which was moored on the Mississippi River."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -127,15 +175,23 @@
       "guid": "https://www.svd.se/a/kMJ3qA/alla-flygplan-stoppas-i-usa?utm_medium=rss",
       "published_at": "2026-11-13T22:37:03+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "world",
       "image_url": "https://akamai.vgc.no/v2/images/7f3e9c89-274e-330a-a6c9-3873f3289a00?format=auto&s=85ea79c083ce6875b0c995499364f0595991be18&w=1000",
       "sv": {
         "title": "Orsaken bakom USA:s flygstopp pekas ut",
         "summary": "All flygtrafik i USA stoppades på fredagen på grund av ”extraordinära omständigheter”.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "The cause behind the US ground stop identified",
+        "summary": "All air traffic in the US was halted on Friday because of 'extraordinary circumstances'."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -146,15 +202,23 @@
       "guid": "https://www.dn.se/varlden/flygstopp-i-hela-usa-sakerhetsskal/",
       "published_at": "2026-11-13T22:36:39+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "world",
       "image_url": "https://static.bonniernews.se/ba/490f122b-18c9-4508-96f0-fcd594a44d00.jpeg?io=1&width=1000",
       "sv": {
         "title": "Flygstopp i hela USA: ”Inga tecken på fientlig attack”",
         "summary": "Runt 10 000 flygavgångar har ställts in eller försenats till och från USA. Problem med flygledningens kommunikationssystem låg bakom det omfattande stoppet, som pågick inpå småtimmarna.",
         "summary_origin": "truncated"
       },
+      "en": {
+        "title": "Ground stop across the whole US: 'No signs of hostile attack'",
+        "summary": "Around 10,000 flight departures have been cancelled or delayed to and from the US. Problems with the air traffic control communications system were behind the extensive stop, which lasted into the small hours."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -165,14 +229,22 @@
       "guid": "rss:sr.se/article/9340872",
       "published_at": "2026-11-13T22:26:00+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "world",
       "sv": {
         "title": "Tankfartyg har krockat med kryssningsbåt i New Orleans",
         "summary": "Ett 30-tal personer har förts till sjukhus efter att ett lastfartyg körde in i ett kryssningsfartyg i New Orleans under kvällen. Ingen ska vara allvarligt skadad. Kryssningsfartyget med runt 130 personer ombord låg vid kaj i hamnen i New Orleans när det blev påkört och började sjunka.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Tanker has collided with cruise boat in New Orleans",
+        "summary": "Around 30 people have been taken to hospital after a cargo ship ran into a cruise ship in New Orleans during the evening. No one is said to be seriously injured. The cruise ship, with around 130 people on board, was at the quay in the port of New Orleans when it was hit and began to sink."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -183,15 +255,23 @@
       "guid": "https://www.aftonbladet.se/nyheter/a/aGwWrL/lastfartyg-krockar-med-kryssningsbat-i-new-orleans?utm_medium=rss",
       "published_at": "2026-11-13T22:17:52+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "world",
       "image_url": "https://akamai.vgc.no/v2/images/f47cfeb3-6239-3f6b-824e-0ae82b09f483?format=auto&s=54943e50bf68b58d7953c6a33030903eec8c40be&w=1000",
       "sv": {
         "title": "Alla räddade när hjulångare rammades i New Orleans",
         "summary": "Ett lastfartyg har kört in i ett kryssningsfartyg med omkring 180 passagerare och personal ombord i…",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "All rescued as paddle steamer rammed in New Orleans",
+        "summary": "A cargo ship has run into a cruise ship with around 180 passengers and crew on board in…"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -202,15 +282,23 @@
       "guid": "https://www.aftonbladet.se/nyheter/a/qOLRzE/flygstopp-i-hela-usa?utm_medium=rss",
       "published_at": "2026-11-13T22:08:34+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "world",
       "image_url": "https://akamai.vgc.no/v2/images/5f44db3b-aed1-3163-a65f-1b9695f9ba00?format=auto&s=3daacf6497aa3668817b1f97cb046a9f8ceb0fbc&w=1000",
       "sv": {
         "title": "Flygstopp utfärdat i hela USA: ”Säkerhetsskäl”",
         "summary": "USA:s flygmyndighet FAA stoppar tills vidare alla flygplan i landet från att lyfta på grund av…",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Ground stop issued across the whole US: 'Safety reasons'",
+        "summary": "The US aviation authority FAA is halting all planes in the country from taking off until further notice because of…"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -221,14 +309,22 @@
       "guid": "rss:sr.se/article/9340866",
       "published_at": "2026-11-13T22:06:00+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "world",
       "sv": {
         "title": "USA:s luftfartsmyndighet stoppar all flygtrafik",
         "summary": "USA:s luftfartsmyndighet FAA har stoppat alla avgående flyg i hela landet. Orsaken är kommunikationsproblem vid regionala flygledningscentraler, enligt transportminister Sean Duffy. Landsomfattande stopp av denna typ är extremt ovanliga i USA.",
         "summary_origin": "truncated"
       },
+      "en": {
+        "title": "US aviation authority halts all air traffic",
+        "summary": "The US aviation authority FAA has halted all departing flights across the country. The cause is communication problems at regional air traffic control centres, according to Transportation Secretary Sean Duffy. Nationwide stops of this kind are extremely rare in the US."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -239,14 +335,22 @@
       "guid": "https://www.svt.se/nyheter/utrikes/totalt-flygstopp-i-usa",
       "published_at": "2026-11-13T22:02:46+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "world",
       "sv": {
         "title": "Totalt flygstopp i USA",
         "summary": "Amerikanska myndigheter stoppade all flygtrafik i USA på grund av ”extraordinära omständigheter” och ”säkerhetsskäl” under fredagskvällen. Ett överbelastat system ligger bakom händelsen, och över 10 000 flyg har påverkats. Störningarna och förseningarna drabbar flygtrafiken även på lördagen.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Total ground stop in the US",
+        "summary": "US authorities halted all air traffic in the US because of 'extraordinary circumstances' and 'safety reasons' on Friday evening. An overloaded system is behind the event, and more than 10,000 flights have been affected. The disruptions and delays are hitting air traffic on Saturday as well."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -257,15 +361,23 @@
       "guid": "https://www.dn.se/varlden/oljetanker-har-kort-in-i-passagerarfartyg-i-new-orleans/",
       "published_at": "2026-11-13T22:02:11+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "world",
       "image_url": "https://static.bonniernews.se/ba/1073a1ac-6b90-4ef2-bcfb-645ff1cf5a3f.jpeg?io=1&width=1000",
       "sv": {
         "title": "Oljetanker har kört in i kryssningsfartyg i New Orleans",
         "summary": "En oljetanker har kört in i ett flodkryssningsfartyg med 129 passagerare på Mississippifloden i New Orleans hamn. Fartyget lade sig på sidan, men efter en stor insats är alla i säkerhet, enligt stadens borgmästare Helena Moreno.",
         "summary_origin": "truncated"
       },
+      "en": {
+        "title": "Oil tanker has run into cruise ship in New Orleans",
+        "summary": "An oil tanker has run into a river cruise ship with 129 passengers on the Mississippi River in the port of New Orleans. The ship keeled over, but after a major operation everyone is safe, according to the city's mayor Helena Moreno."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -276,15 +388,23 @@
       "guid": "https://www.aftonbladet.se/nyheter/a/r8AW0A/totalt-flygstopp-i-usa?utm_medium=rss",
       "published_at": "2026-11-13T22:01:14+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "world",
       "image_url": "https://akamai.vgc.no/v2/images/4496d0aa-268d-3064-be5b-2b576fcbd998?format=auto&s=5744c229e9abab568df62997624727ecfce6be35&w=1000",
       "sv": {
         "title": "Totalt flygstopp i USA: ”Extraordinära omständigheter”",
         "summary": "Allvarliga störningar",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Total ground stop in the US: 'Extraordinary circumstances'",
+        "summary": "Serious disruptions"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -295,15 +415,23 @@
       "guid": "https://www.svd.se/a/VxbbAl/smaspararna-rusar-in-i-nvidia-trots-vd-skandalen?utm_medium=rss",
       "published_at": "2026-11-13T21:59:44+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "economy",
       "image_url": "https://akamai.vgc.no/v2/images/7ad7aaf4-8981-3d72-9c88-eb47b4b27b90?format=auto&s=ada9b0aeb73e6c9445063b61b2d38ed05739ecf3&w=1000",
       "sv": {
         "title": "Nvidia rasar – då flockas ”dippköparna”",
         "summary": "Svenska småsparare rusar in i Nvidia när aktien faller efter vd-skandalen.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Nvidia plunges – then the 'dip buyers' flock",
+        "summary": "Swedish retail investors rush into Nvidia as the share falls after the CEO scandal."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -314,15 +442,23 @@
       "guid": "https://www.svd.se/a/qOLpB0/hybridkriget-sverige-forebild-i-krisberedskap?utm_medium=rss",
       "published_at": "2026-11-13T21:59:32+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "sweden",
       "image_url": "https://akamai.vgc.no/v2/images/be4e4409-b802-34a8-98e1-0dd1176be0d5?format=auto&s=d5a2bfc756ee09ca0733c6c1cc5b4bd9c51507db&w=1000",
       "sv": {
         "title": "”Inte rustade” – länder spanar in Sverige",
         "summary": "Utslagna frysar och bombhotade skolor. Cyberattacker skakar länder som blickar mot Sverige som…",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "'Not equipped' – countries look to Sweden",
+        "summary": "Knocked-out freezers and bomb-threatened schools. Cyberattacks shake countries that look to Sweden as…"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -333,7 +469,7 @@
       "guid": "2UzjW19IgOgKrziT2QCAYt",
       "published_at": "2026-11-13T21:58:03+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "crime",
       "feed_categories": [
         "Brott och straff"
       ],
@@ -342,8 +478,16 @@
         "summary": "Larmet om skottlossningen inkom vid 20:13 på fredagskvällen. Polisen har flera patruller på plats och det pågår en jakt efter förövaren. – Det finns ingen känd gärningsman och det pågår en jakt på gärningsman i nuläget, säger Robert Sennerdal.",
         "summary_origin": "truncated"
       },
+      "en": {
+        "title": "Shooting in central Stockholm",
+        "summary": "The alert about the shooting came in at 20:13 on Friday evening. Police have several patrols at the scene and a hunt for the perpetrator is under way. – There is no known perpetrator and a hunt for the perpetrator is under way at present, says Robert Sennerdal."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -354,14 +498,22 @@
       "guid": "https://www.svt.se/nyheter/utrikes/lastfartyg-har-kolliderat-med-kryssningsfartyg-over-100-ombord",
       "published_at": "2026-11-13T21:53:57+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "world",
       "sv": {
         "title": "Fartyg har kolliderat i New Orleans – över 100 ombord",
         "summary": "Ett lastfartyg har under fredagskvällen kolliderat med ett kryssningsfartyg utanför New Orleans. Över 100 personer var ombord – men alla klarade sig utan allvarliga skador. – Ett mirakel på Mississippi, säger Jeff Landry, guvernör i Louisiana.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Ships have collided in New Orleans – over 100 on board",
+        "summary": "A cargo ship collided with a cruise ship off New Orleans on Friday evening. More than 100 people were on board – but everyone escaped without serious injuries. – A miracle on the Mississippi, says Jeff Landry, governor of Louisiana."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -372,13 +524,20 @@
       "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79890&utm_medium=rss",
       "published_at": "2026-11-13T21:53:47+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "world",
       "image_url": "https://akamai.vgc.no/v2/images/f1cac6bc-c8bf-30fb-be0b-8c9c4a7260dc?format=auto&s=9284e77c4b5352e3b8a8f6b76c4cbb7debb520e3&w=1000",
       "sv": {
         "title": "Tanker i kollision med färja – i New Orleans"
       },
+      "en": {
+        "title": "Tanker in collision with ferry – in New Orleans"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {
@@ -395,8 +554,16 @@
         "summary": "Barclays har bytt fot när det gäller sin syn på investeringar i aktiemarknaden. För första gången sedan i mitten av mars i år har den brittiska storbanken en taktiskt positiv syn på amerikanska aktier, skriver Bloomberg.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Major bank positive on shares for the first time since March",
+        "summary": "Barclays has changed its stance on investing in the stock market. For the first time since mid-March this year, the British major bank has a tactically positive view of US shares, Bloomberg writes."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     },
     {

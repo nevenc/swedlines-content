@@ -6,13 +6,21 @@
   "guid": "https://www.expressen.se/tv/nyheter/varlden/putins-militara-flygbas-attackerad",
   "published_at": "2026-11-14T14:03:14+01:00",
   "fetched_at": "2026-11-14T14:36:04+01:00",
-  "category": "general",
+  "category": "world",
   "sv": {
     "title": "Putins flygbas attackerad",
     "summary": "Zelenskyjs dubbla slag mot ryska nyckelmål",
     "summary_origin": "feed"
   },
+  "en": {
+    "title": "Putin's air base attacked",
+    "summary": "Zelensky's double blow against key Russian targets"
+  },
   "translation": {
-    "status": "pending"
+    "status": "done",
+    "provider": "claude-code",
+    "model": "claude-fable-5-1",
+    "prompt_version": "2026-11-14",
+    "translated_at": "2026-11-14T14:53:03+01:00"
   }
 }
