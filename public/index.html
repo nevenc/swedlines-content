@@ -1,24 +1,161 @@
 <!doctype html>
-<html lang="en">
+<html lang="sv">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Swedlines</title>
+<title>Swedlines – svenska nyhetsrubriker</title>
+<meta name="description" content="Swedish news headlines from the ten largest Swedish news sites, in Swedish and English. Updated every 15 minutes.">
+<link rel="icon" href="/assets/logo.svg" type="image/svg+xml">
+<link rel="alternate" type="application/json" href="/api/v1/latest.json">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;800&display=swap">
 <style>
-  :root { --bg: #fff; --fg: #111; --muted: #666; }
-  @media (prefers-color-scheme: dark) { :root { --bg: #111; --fg: #eee; --muted: #999; } }
-  body { margin: 0; padding: 16px; background: var(--bg); color: var(--fg);
-         font: 16px/1.5 system-ui, -apple-system, sans-serif; }
-  main { max-width: 640px; margin: 20vh auto 0; }
-  h1 { font-size: 2rem; margin: 0 0 .5rem; }
-  p { color: var(--muted); margin: 0; }
+  :root {
+    --bg: #f7f8fa; --fg: #15202b; --muted: #5b6b7a; --line: #e1e6eb; --panel: #fff;
+    --blue: #006AA7; --blue-ink: #006AA7; --yellow: #FECC02; --hover: #eef4f9;
+    --font: "Manrope", "Helvetica Neue", Arial, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) { :root {
+    --bg: #0b1218; --fg: #e8edf2; --muted: #93a3b2; --line: #223140; --panel: #121c26; --blue-ink: #58a8e0; --hover: #16222e; color-scheme: dark;
+  } }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font-family: var(--font); font-size: 15px; line-height: 1.45; }
+  header { position: sticky; top: 0; background: var(--bg); border-bottom: 1px solid var(--line); z-index: 5; }
+  .bar { max-width: 960px; margin: 0 auto; padding: 10px max(16px, env(safe-area-inset-left)) 0; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+  .brand { display: inline-flex; align-items: center; gap: 10px; text-decoration: none; color: var(--blue-ink); font-weight: 800; font-size: 22px; letter-spacing: -0.04em; }
+  .brand svg { width: 28px; height: 28px; }
+  .ticker-line { height: 4px; margin-top: 8px; background: linear-gradient(90deg, var(--yellow) 0, var(--yellow) 40%, transparent); }
+  .controls { margin-left: auto; display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+  .seg button { background: var(--panel); color: var(--fg); border: 0; padding: 5px 10px; font: inherit; font-weight: 600; cursor: pointer; }
+  .seg button[aria-pressed="true"] { background: var(--blue); color: #fff; }
+  .seg button:focus-visible { outline: 2px solid var(--yellow); outline-offset: -2px; }
+  select { font: inherit; padding: 5px 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); color: var(--fg); }
+  main { max-width: 960px; margin: 0 auto; padding: 8px max(16px, env(safe-area-inset-left)) 48px; }
+  h2 { font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 22px 0 6px; font-weight: 700; }
+  ul { list-style: none; margin: 0; padding: 0; }
+  li { display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; padding: 7px 8px; margin: 0 -8px; border-radius: 6px; align-items: baseline; }
+  li:hover { background: var(--hover); }
+  li a { color: var(--fg); text-decoration: none; font-weight: 600; }
+  li a:hover { text-decoration: underline; }
+  .meta { color: var(--muted); font-size: 12px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .src { font-weight: 700; color: var(--blue-ink); }
+  .orig { grid-column: 1 / -1; color: var(--muted); font-size: 13px; font-weight: 500; }
+  .untranslated { font-size: 11px; color: var(--muted); border: 1px solid var(--line); border-radius: 4px; padding: 0 4px; margin-left: 6px; vertical-align: middle; }
+  .empty { color: var(--muted); padding: 40px 0; text-align: center; }
+  footer { max-width: 960px; margin: 0 auto; padding: 16px; color: var(--muted); font-size: 12px; border-top: 1px solid var(--line); }
+  footer a { color: var(--blue-ink); }
+  @media (max-width: 520px) { li { grid-template-columns: 1fr; } .meta { white-space: normal; } }
 </style>
 </head>
 <body>
-<main>
-  <h1>Swedlines</h1>
-  <p>Swedish news headlines, in Swedish and English. Coming soon.</p>
-  <p lang="sv">Svenska nyhetsrubriker, på svenska och engelska. Kommer snart.</p>
-</main>
+<header>
+  <div class="bar">
+    <a class="brand" href="/">
+      <svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#006AA7"/><rect x="14" y="17" width="36" height="8" rx="4" fill="#FECC02"/><rect x="14" y="28" width="26" height="8" rx="4" fill="#FECC02"/><rect x="14" y="39" width="18" height="8" rx="4" fill="#FECC02"/></svg>
+      swedlines
+    </a>
+    <div class="controls">
+      <div class="seg" role="group" aria-label="Språk / Language">
+        <button type="button" data-lang="sv" aria-pressed="true">sv</button>
+        <button type="button" data-lang="en" aria-pressed="false">en</button>
+        <button type="button" data-lang="both" aria-pressed="false">båda</button>
+      </div>
+      <select id="source" aria-label="Källa / Source"><option value="">Alla källor</option></select>
+      <button type="button" class="seg" id="refresh" style="padding:5px 10px;font:inherit;font-weight:600;background:var(--panel);color:var(--fg);cursor:pointer">↻</button>
+    </div>
+  </div>
+  <div class="ticker-line"></div>
+</header>
+<main id="stream"><p class="empty">Laddar rubriker…</p></main>
+<footer>
+  Rubriker och ingresser tillhör respektive utgivare; varje länk går direkt till källan. Engelska texter är maskinöversatta.
+  <a href="/api/v1/latest.json">JSON API</a> · uppdateras var 15:e minut.
+</footer>
+<script>
+(() => {
+  const stream = document.getElementById("stream");
+  const sourceSel = document.getElementById("source");
+  const langButtons = [...document.querySelectorAll("[data-lang]")];
+  let lang = "sv", source = "", data = null, sources = {};
+  try { lang = localStorage.getItem("lang") || "sv"; source = localStorage.getItem("source") || ""; } catch {}
+
+  const WINDOWS = [
+    [10 * 60, "Senaste 10 minuterna", "Last 10 minutes"],
+    [60 * 60, "Senaste timmen", "Last hour"],
+    [4 * 3600, "Senaste 4 timmarna", "Last 4 hours"],
+    [24 * 3600, "Tidigare i dag", "Earlier today"],
+  ];
+  const dayFmt = new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Stockholm", weekday: "long", day: "numeric", month: "long" });
+  const timeFmt = new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Stockholm", hour: "2-digit", minute: "2-digit" });
+
+  function rel(d, now) {
+    const s = Math.max(0, (now - d) / 1000);
+    if (s < 60) return "nu";
+    if (s < 3600) return `${Math.floor(s / 60)} min`;
+    if (s < 86400) return `${Math.floor(s / 3600)} h`;
+    return timeFmt.format(d);
+  }
+  function groupKey(d, now) {
+    const age = (now - d) / 1000;
+    for (const [sec, sv, en] of WINDOWS) if (age < sec) return lang === "en" ? en : sv;
+    return dayFmt.format(d);
+  }
+
+  function render() {
+    if (!data) return;
+    const now = Date.now();
+    const items = data.items.filter(a => !source || a.source === source);
+    if (!items.length) { stream.innerHTML = '<p class="empty">Inga rubriker.</p>'; return; }
+    const groups = new Map();
+    for (const a of items) {
+      const k = groupKey(new Date(a.published_at), now);
+      (groups.get(k) || groups.set(k, []).get(k)).push(a);
+    }
+    const esc = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+    let html = "";
+    for (const [title, list] of groups) {
+      html += `<h2>${esc(title)}</h2><ul>`;
+      for (const a of list) {
+        const en = a.en && a.en.title;
+        const primary = lang === "sv" ? a.sv.title : (en || a.sv.title);
+        const tag = lang !== "sv" && !en ? '<span class="untranslated">ej översatt</span>' : "";
+        const orig = lang === "both" && en ? `<div class="orig" lang="sv">${esc(a.sv.title)}</div>` : "";
+        html += `<li><span><a href="${esc(a.url)}" rel="noopener" lang="${lang === "sv" || !en ? "sv" : "en"}">${esc(primary)}</a>${tag}</span>` +
+                `<span class="meta"><span class="src">${esc(sources[a.source] || a.source)}</span> · ${rel(new Date(a.published_at), now)}</span>${orig}</li>`;
+      }
+      html += "</ul>";
+    }
+    stream.innerHTML = html;
+  }
+
+  async function load() {
+    const [latest, src] = await Promise.all([
+      fetch("/api/v1/latest.json", { cache: "no-cache" }).then(r => r.json()),
+      fetch("/api/v1/sources.json", { cache: "no-cache" }).then(r => r.json()),
+    ]);
+    data = latest;
+    sources = Object.fromEntries(src.sources.map(s => [s.key, s.name]));
+    if (sourceSel.options.length === 1) {
+      for (const s of src.sources) {
+        const o = document.createElement("option"); o.value = s.key; o.textContent = s.name; sourceSel.append(o);
+      }
+      sourceSel.value = source;
+    }
+    render();
+  }
+
+  for (const b of langButtons) b.addEventListener("click", () => {
+    lang = b.dataset.lang;
+    for (const x of langButtons) x.setAttribute("aria-pressed", String(x === b));
+    try { localStorage.setItem("lang", lang); } catch {}
+    render();
+  });
+  for (const b of langButtons) b.setAttribute("aria-pressed", String(b.dataset.lang === lang));
+  sourceSel.addEventListener("change", () => { source = sourceSel.value; try { localStorage.setItem("source", source); } catch {} render(); });
+  document.getElementById("refresh").addEventListener("click", load);
+  load().catch(err => { stream.innerHTML = `<p class="empty">Kunde inte ladda rubriker (${err.message}).</p>`; });
+  setInterval(load, 5 * 60 * 1000);
+})();
+</script>
 </body>
 </html>
