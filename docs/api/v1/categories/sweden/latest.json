@@ -1,7 +1,144 @@
 {
-  "generated_at": "2026-11-14T19:01:07+01:00",
-  "count": 81,
+  "generated_at": "2026-11-14T20:30:33+01:00",
+  "count": 86,
   "items": [
+    {
+      "id": "1d7ec8a032e3",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/vastsverige/en-dod-efter-rokutveckling-pa-bat.324d8d29-ecb6-5ee1-955e-9a70f32bff22",
+      "guid": "324d8d29-ecb6-5ee1-955e-9a70f32bff22",
+      "published_at": "2026-11-14T20:19:25+01:00",
+      "fetched_at": "2026-11-14T20:30:11+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Västsverige",
+        "Tagg: Segelbåt",
+        "Tagg: Skärhamn",
+        "Tagg: Hamnar",
+        "Tagg: Larm"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/2152b7fe-06bd-3b82-b11a-5af76a27c0d4",
+      "sv": {
+        "title": "Man död efter rökutveckling på båt",
+        "summary": "Man i Skärhamn död efter rökutveckling på båt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man dies after smoke develops on boat",
+        "summary": "Man in Skärhamn dies after smoke develops on boat."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "42e1450a3a13",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/R1xvVr/ett-ar-efter-bussolyckan-pa-valhallavagen-orealistiskt",
+      "guid": "https://www.svd.se/a/R1xvVr/ett-ar-efter-bussolyckan-pa-valhallavagen-orealistiskt?utm_medium=rss",
+      "published_at": "2026-11-14T20:02:37+01:00",
+      "fetched_at": "2026-11-14T20:30:09+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/0f8f19d0-646b-3210-b95c-42fab3bb9256?format=auto&s=33e2f7152f9951e655b93d74ad13116bd8875988&w=1000",
+      "sv": {
+        "title": "Han minns bussolyckan: ”Var orealistiskt”",
+        "summary": "Tre kvinnor dör vid Tekniska högskolan när en busschaufför tappar kontrollen till följd av ett…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "He remembers the bus accident: \"Was unrealistic\"",
+        "summary": "Three women die at the Tekniska högskolan when a bus driver loses control due to a…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "2f40655357ee",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=4cf5d91c-4087-499a-a4d3-ae812bc12aea",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4cf5d91c-4087-499a-a4d3-ae812bc12aea",
+      "published_at": "2026-11-14T19:39:20+01:00",
+      "fetched_at": "2026-11-14T20:30:10+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "En död efter båtbrand",
+        "summary": "Oklart vad som hänt på Tjörn",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "One dead after boat fire",
+        "summary": "Unclear what happened on Tjörn"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "76ba39f8ca64",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Pv94q7/person-avliden-efter-en-batbrand-i-tjorn",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Pv94q7/person-avliden-efter-en-batbrand-i-tjorn?utm_medium=rss",
+      "published_at": "2026-11-14T19:39:12+01:00",
+      "fetched_at": "2026-11-14T20:30:09+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/e5145cd1-7b1c-311f-a528-f5fc16c8f2c8?format=auto&s=ee888fe8316e5060cddd7f776fef118836a58800&w=1000",
+      "sv": {
+        "title": "Person avliden efter en båtbrand i Tjörn",
+        "summary": "En man i 60-årsåldern har avlidit efter att ha hittats ombord i samband med en rökutveckling på en…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Person dies after boat fire in Tjörn",
+        "summary": "A man in his 60s has died after being found on board in connection with smoke development on a…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "ae19d927063c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79914",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79914&utm_medium=rss",
+      "published_at": "2026-11-14T19:36:48+01:00",
+      "fetched_at": "2026-11-14T20:30:09+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "En död efter båtbrand"
+      },
+      "en": {
+        "title": "One dead after boat fire"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
     {
       "id": "b651a03d26c3",
       "schema_version": 1,

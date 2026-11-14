@@ -1,7 +1,222 @@
 {
-  "generated_at": "2026-11-14T19:01:07+01:00",
-  "count": 106,
+  "generated_at": "2026-11-14T20:30:33+01:00",
+  "count": 115,
   "items": [
+    {
+      "id": "68e005d71aaa",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/9ELvCUU3wvEiHSWGSHVDW/flygexperten-efter-kaoset-moderniseringen-kan-ha-gatt-foer-fort",
+      "guid": "9ELvCUU3wvEiHSWGSHVDW",
+      "published_at": "2026-11-14T20:06:39+01:00",
+      "fetched_at": "2026-11-14T20:30:10+01:00",
+      "category": "world",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Flygexperten: Moderniseringen kan ha gått för fort",
+        "summary": "USA:s transportminister Sean Duffy säger att flygstoppet orsakades av arbete med att byta ut gamla kopparledningar mot fiber. Exakt varför systemet havererade är däremot fortfarande inte klarlagt. Samtidigt riktas blickarna mot den pågående moderniseringen av flygledningssystemen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Aviation expert: Modernisation may have gone too fast",
+        "summary": "US Transport Secretary Sean Duffy says the flight stoppage was caused by work replacing old copper lines with fibre. Exactly why the system crashed is still not clarified. Meanwhile, attention is turning to the ongoing modernisation of air traffic control systems."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "e48445e15cb3",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/WmLnlG/giorgia-meloni-kan-fa-betala-for-sin-koppling-till-trump",
+      "guid": "https://www.svd.se/a/WmLnlG/giorgia-meloni-kan-fa-betala-for-sin-koppling-till-trump?utm_medium=rss",
+      "published_at": "2026-11-14T20:02:02+01:00",
+      "fetched_at": "2026-11-14T20:30:09+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/c353e830-46f3-3c47-a193-e128b9373e65?format=auto&s=1ce340dd24749b49a82e7f9fd284346387edf7e9&w=1000",
+      "sv": {
+        "title": "Melonis självmål kan stå henne dyrt",
+        "summary": "Får Giorgia Meloni nu betala priset för sin ideologiska koppling till president Trump?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Meloni's own goal could cost her dearly",
+        "summary": "Will Giorgia Meloni now have to pay the price for her ideological link to President Trump?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "ad0625ea41b9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9339492",
+      "guid": "rss:sr.se/article/9339492",
+      "published_at": "2026-11-14T20:02:00+01:00",
+      "fetched_at": "2026-11-14T20:30:07+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Över 60 000 avslöjade när hemliga polisens arkiv öppnas",
+        "summary": "Över 60 000 namn på ungrare som spionerade på personer i sin omgivning under kommunisttiden finns nu i en databas som alla kan läsa. Ungerns nya regering fullföljer därmed sitt vallöfte att öppna arkiven där den hemliga polisens angivare från kommunisttiden avslöjas.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Over 60,000 exposed as secret police archive opens",
+        "summary": "Over 60,000 names of Hungarians who spied on people around them during the communist era are now in a database that anyone can read. Hungary's new government is thereby fulfilling its election promise to open the archives where the secret police's informers from the communist era are exposed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "860d1447094c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/var-hamas-gisslan-larde-kanna-sin-fangvaktare",
+      "guid": "https://www.expressen.se/nyheter/varlden/var-hamas-gisslan-larde-kanna-sin-fangvaktare/",
+      "published_at": "2026-11-14T19:52:17+01:00",
+      "fetched_at": "2026-11-14T20:30:10+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Var Hamas gisslan – lärde känna sin fångvaktare",
+        "summary": "Som Hamas gisslan i Gaza förde Shoshan Hakan dagliga samtal med sin fångvaktare. En bisarr vänskap uppstod med en man som inte skulle tveka att döda henne. – Samtidigt hade han en slags emotionell intelligens, Att vi kunde prata med varandra ger mig trots allt hopp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Was Hamas hostage – got to know her captor",
+        "summary": "As a Hamas hostage in Gaza, Shoshan Hakan had daily conversations with her captor. A bizarre friendship arose with a man who would not hesitate to kill her. – At the same time he had a kind of emotional intelligence. That we could talk to each other gives me hope after all."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "a244224bd62b",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/usa-inforde-ai-teknik-i-trafikledningen-fore-flygkaoset",
+      "guid": "https://www.dn.se/varlden/usa-inforde-ai-teknik-i-trafikledningen-fore-flygkaoset/",
+      "published_at": "2026-11-14T19:51:46+01:00",
+      "fetched_at": "2026-11-14T20:30:08+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/d5c3ff8a-27dd-4736-8b8a-8991d2ec55a5.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "USA införde AI-teknik i trafikledningen före flygkaoset",
+        "summary": "USA kämpar med ett föråldrat flygledningssystem som man lappar och lagar och nu förser med AI-funktioner som ska underlätta för flygledarna. – Den här gången gick det bra att flygleda manuellt, men det här visar hur sårbart det är att lämna allt i händerna på tekniken, säger flygexperten Jan…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "USA introduced AI technology in air traffic control before flight chaos",
+        "summary": "The USA is struggling with an outdated air traffic control system that it patches and repairs and now equips with AI functions meant to ease the work of air traffic controllers. – This time it went well to control flights manually, but this shows how vulnerable it is to leave everything in the hands of technology, says aviation expert Jan…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "cd3e4da30441",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/politisk-strid-om-ansvaret-for-flygstoppet",
+      "guid": "https://www.dn.se/varlden/politisk-strid-om-ansvaret-for-flygstoppet/",
+      "published_at": "2026-11-14T19:28:39+01:00",
+      "fetched_at": "2026-11-14T20:30:08+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/055bd583-c765-42a0-98f6-e001c2d4383f.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Politisk strid om ansvaret för flygstoppet",
+        "summary": "Planen i USA flyger igen, men med kraftiga förseningar och tusentals inställda avgångar. På lördagen börjar orsakerna bakom flygstoppet att klarna, och anklagelserna haglar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Political fight over responsibility for the flight stoppage",
+        "summary": "Planes in the USA are flying again, but with major delays and thousands of cancelled departures. On Saturday the causes behind the flight stoppage are beginning to become clear, and accusations are flying."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
+      }
+    },
+    {
+      "id": "6f41eba803b7",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/alla-jagar-mannen-efter-blixtdraget",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/alla-jagar-mannen-efter-blixtdraget",
+      "published_at": "2026-11-14T19:27:36+01:00",
+      "fetched_at": "2026-11-14T20:30:10+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Alla jagar männen – efter blixtdraget",
+        "summary": "Ilskan efter plötsliga kuppen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Everyone is hunting the men – after the lightning coup",
+        "summary": "Anger after the sudden coup"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
+      }
+    },
+    {
+      "id": "f929e350b7fa",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ledare/max-hjelm-sa-manga-doda-for-en-maktgalen-gammal-mans-drommar-om-storryssland",
+      "guid": "https://www.dn.se/ledare/max-hjelm-sa-manga-doda-for-en-maktgalen-gammal-mans-drommar-om-storryssland/",
+      "published_at": "2026-11-14T19:05:30+01:00",
+      "fetched_at": "2026-11-14T20:30:08+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/ba167419-05b9-4491-a0fb-31d3813541b5.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Max Hjelm: Så många döda för en maktgalen gammal mans drömmar om Storryssland",
+        "summary": "Putin försöker febrilt censurera krigets krassa verklighet. Men vissa sanningar går inte att dölja.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Max Hjelm: So many dead for a power-mad old man's dreams of Greater Russia",
+        "summary": "Putin is frantically trying to censor the harsh reality of the war. But some truths cannot be hidden."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
+      }
+    },
     {
       "id": "2c60ecbb19ad",
       "schema_version": 1,
@@ -266,6 +481,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:58:49+01:00"
+      }
+    },
+    {
+      "id": "2b01acea4ac4",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/410598",
+      "guid": "https://tv.aftonbladet.se/video/410598?utm_medium=rss",
+      "published_at": "2026-11-14T15:41:27+01:00",
+      "fetched_at": "2026-11-14T20:30:09+01:00",
+      "category": "world",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/c6f792874bcb2ae5f53e469133766a40.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Radarbilderna avslöjar – himmeln tömdes",
+        "summary": "Ovanliga stoppet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Radar images reveal – the sky was emptied",
+        "summary": "Unusual stoppage"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
       }
     },
     {

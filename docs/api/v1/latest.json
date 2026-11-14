@@ -1,7 +1,1030 @@
 {
-  "generated_at": "2026-11-14T19:01:07+01:00",
+  "generated_at": "2026-11-14T20:30:33+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d9c00b9162bd",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ec759b2a-5033-4609-8916-e3d25d1db410",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ec759b2a-5033-4609-8916-e3d25d1db410",
+      "published_at": "2026-11-14T20:28:31+01:00",
+      "fetched_at": "2026-11-14T20:30:10+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Anderssons förtydligande efter artikeln",
+        "summary": "Magdalena Anderssons klargörande om V",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Andersson clarifies after article",
+        "summary": "Magdalena Andersson's clarification on V"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "8a7464826122",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/nya-studien-fiberrik-diet-kan-rensa-bort-plast-i-tarmen-hos-moss.18dd9cac-6a19-5b62-a05e-0f6d8998a5c3",
+      "guid": "18dd9cac-6a19-5b62-a05e-0f6d8998a5c3",
+      "published_at": "2026-11-14T20:23:15+01:00",
+      "fetched_at": "2026-11-14T20:30:11+01:00",
+      "category": "science_tech",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Mikroplast",
+        "Tagg: Diet",
+        "Tagg: Fiber"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/f8742f48-9f79-35ff-913e-467b4e75271b",
+      "sv": {
+        "title": "Nya studien: Fiberrik diet kan rensa bort plast i tarmen",
+        "summary": "En ny studie som gjorts på möss visar att ett högt fiberintag kan komma med en oväntad hälsoeffekt: nämligen att rensa kroppen på mikroplast.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New study: High-fibre diet may flush plastic from the gut",
+        "summary": "A new study conducted on mice shows that high fibre intake may have an unexpected health effect: namely cleansing the body of microplastics."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "c524d09a9649",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6tL6DWOkMl1orgWGAdC6bF/haer-utbildas-jultomtarna-maste-ta-det-pa-allvar",
+      "guid": "6tL6DWOkMl1orgWGAdC6bF",
+      "published_at": "2026-11-14T20:21:52+01:00",
+      "fetched_at": "2026-11-14T20:30:10+01:00",
+      "category": "other",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Här utbildas jultomtarna: ”Måste ta det på allvar”",
+        "summary": "I södra London är det bråda dagar för alla tomtar och nissar. Inför helgerna är det många som nu behöver fräscha upp sina kunskaper under en dag på tomteskolan. För tomteläraren Matt Grist handlar utbildningen om ansvaret i rollen som jultomte.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Here Santas are trained: \"Have to take it seriously\"",
+        "summary": "In south London it is a busy time for all Santas and elves. Ahead of the holidays, many need to refresh their skills during a day at Santa school. For teacher Matt Grist, the training is about the responsibility of the Santa role."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "79b50291be82",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/pM6aGw/nathan-fielder-staller-varlden-till-ratta",
+      "guid": "https://www.svd.se/a/pM6aGw/nathan-fielder-staller-varlden-till-ratta?utm_medium=rss",
+      "published_at": "2026-11-14T20:20:00+01:00",
+      "fetched_at": "2026-11-14T20:30:09+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/889041a7-4900-3500-a4b0-7f3b14969721?format=auto&s=16776ee4655d2cab91179ff68d4947cf8259a8c0&w=1000",
+      "sv": {
+        "title": "Nathan Fielder ställer verkligheten till rätta",
+        "summary": "Strax före sitt fängelsestraff bjöd Elizabeth Holmes in komikern Nathan Fielder att dokumentera…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nathan Fielder sets the record straight",
+        "summary": "Shortly before her prison sentence, Elizabeth Holmes invited comedian Nathan Fielder to document…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "1d7ec8a032e3",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/vastsverige/en-dod-efter-rokutveckling-pa-bat.324d8d29-ecb6-5ee1-955e-9a70f32bff22",
+      "guid": "324d8d29-ecb6-5ee1-955e-9a70f32bff22",
+      "published_at": "2026-11-14T20:19:25+01:00",
+      "fetched_at": "2026-11-14T20:30:11+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Västsverige",
+        "Tagg: Segelbåt",
+        "Tagg: Skärhamn",
+        "Tagg: Hamnar",
+        "Tagg: Larm"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/2152b7fe-06bd-3b82-b11a-5af76a27c0d4",
+      "sv": {
+        "title": "Man död efter rökutveckling på båt",
+        "summary": "Man i Skärhamn död efter rökutveckling på båt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man dies after smoke develops on boat",
+        "summary": "Man in Skärhamn dies after smoke develops on boat."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "bd5301a60cca",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/elsa-sommarstrom-har-kampat-mot-sorg-tvivel-och-droger-nu-kliver-hon-fram-som-artisten-river.5836310f-0ef5-5f8d-9142-1f0f30d53a54",
+      "guid": "5836310f-0ef5-5f8d-9142-1f0f30d53a54",
+      "published_at": "2026-11-14T20:12:37+01:00",
+      "fetched_at": "2026-11-14T20:30:11+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: Madonna",
+        "Tagg: Mexico City",
+        "Tagg: Prince",
+        "Tagg: Stockholm",
+        "Tagg: Artister",
+        "Tagg: Musik",
+        "Tagg: Mexiko",
+        "Tagg: Anonyma Alkoholister",
+        "Tagg: Hannes Råstam",
+        "Tagg: Scen",
+        "Tagg: Göteborg"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/e6669b42-8cf9-3a48-94b6-5e5afd8be9f9",
+      "sv": {
+        "title": "Elsa skapade alter ego för att våga vara sexig artist",
+        "summary": "Flydde från Göteborg till Mexiko när pappan dog i cancer – ”Jag var så själsligt trasig”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elsa created alter ego to dare to be a sexy artist",
+        "summary": "Fled Göteborg to Mexico when her father died of cancer – \"I was so spiritually broken\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "68e005d71aaa",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/9ELvCUU3wvEiHSWGSHVDW/flygexperten-efter-kaoset-moderniseringen-kan-ha-gatt-foer-fort",
+      "guid": "9ELvCUU3wvEiHSWGSHVDW",
+      "published_at": "2026-11-14T20:06:39+01:00",
+      "fetched_at": "2026-11-14T20:30:10+01:00",
+      "category": "world",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Flygexperten: Moderniseringen kan ha gått för fort",
+        "summary": "USA:s transportminister Sean Duffy säger att flygstoppet orsakades av arbete med att byta ut gamla kopparledningar mot fiber. Exakt varför systemet havererade är däremot fortfarande inte klarlagt. Samtidigt riktas blickarna mot den pågående moderniseringen av flygledningssystemen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Aviation expert: Modernisation may have gone too fast",
+        "summary": "US Transport Secretary Sean Duffy says the flight stoppage was caused by work replacing old copper lines with fibre. Exactly why the system crashed is still not clarified. Meanwhile, attention is turning to the ongoing modernisation of air traffic control systems."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "7c5b06e61eb7",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/haaland-bakom-norges-viktiga-seger",
+      "guid": "c81a03dd-951f-4216-8c3c-e1d75f32a594",
+      "published_at": "2026-11-14T20:04:15+01:00",
+      "fetched_at": "2026-11-14T20:30:12+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/e86f0fdd-eb51-446e-b931-a3a42e3b09a3.jpg?width=600",
+      "sv": {
+        "title": "Haaland bakom Norges viktiga seger",
+        "summary": "Ett mål och en assist för Erling Braut Haaland Norge besegrade Wales med 3–1 på Ullevål i Nations League-fotbollen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Haaland behind Norway's important win",
+        "summary": "One goal and one assist for Erling Braut Haaland as Norway beat Wales 3–1 at Ullevål in Nations League football."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "4480ec613034",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/VxbPe1/fick-inget-rum-pa-hotellet-i-kista-chock",
+      "guid": "https://www.aftonbladet.se/nyheter/a/VxbPe1/fick-inget-rum-pa-hotellet-i-kista-chock?utm_medium=rss",
+      "published_at": "2026-11-14T20:03:33+01:00",
+      "fetched_at": "2026-11-14T20:30:09+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/aaea9b15-5b3c-3b46-bb2d-b877c6698081?format=auto&s=0745f22370c529507edc696c64f7ecb2088f1288&w=1000",
+      "sv": {
+        "title": "Ainas hotellchock: ”Ingenstans att sova”",
+        "summary": "Hade bokat drömmen i förväg",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Aina's hotel shock: \"Nowhere to sleep\"",
+        "summary": "Had booked the dream in advance"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "42e1450a3a13",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/R1xvVr/ett-ar-efter-bussolyckan-pa-valhallavagen-orealistiskt",
+      "guid": "https://www.svd.se/a/R1xvVr/ett-ar-efter-bussolyckan-pa-valhallavagen-orealistiskt?utm_medium=rss",
+      "published_at": "2026-11-14T20:02:37+01:00",
+      "fetched_at": "2026-11-14T20:30:09+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/0f8f19d0-646b-3210-b95c-42fab3bb9256?format=auto&s=33e2f7152f9951e655b93d74ad13116bd8875988&w=1000",
+      "sv": {
+        "title": "Han minns bussolyckan: ”Var orealistiskt”",
+        "summary": "Tre kvinnor dör vid Tekniska högskolan när en busschaufför tappar kontrollen till följd av ett…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "He remembers the bus accident: \"Was unrealistic\"",
+        "summary": "Three women die at the Tekniska högskolan when a bus driver loses control due to a…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "e48445e15cb3",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/WmLnlG/giorgia-meloni-kan-fa-betala-for-sin-koppling-till-trump",
+      "guid": "https://www.svd.se/a/WmLnlG/giorgia-meloni-kan-fa-betala-for-sin-koppling-till-trump?utm_medium=rss",
+      "published_at": "2026-11-14T20:02:02+01:00",
+      "fetched_at": "2026-11-14T20:30:09+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/c353e830-46f3-3c47-a193-e128b9373e65?format=auto&s=1ce340dd24749b49a82e7f9fd284346387edf7e9&w=1000",
+      "sv": {
+        "title": "Melonis självmål kan stå henne dyrt",
+        "summary": "Får Giorgia Meloni nu betala priset för sin ideologiska koppling till president Trump?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Meloni's own goal could cost her dearly",
+        "summary": "Will Giorgia Meloni now have to pay the price for her ideological link to President Trump?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "ad0625ea41b9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9339492",
+      "guid": "rss:sr.se/article/9339492",
+      "published_at": "2026-11-14T20:02:00+01:00",
+      "fetched_at": "2026-11-14T20:30:07+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Över 60 000 avslöjade när hemliga polisens arkiv öppnas",
+        "summary": "Över 60 000 namn på ungrare som spionerade på personer i sin omgivning under kommunisttiden finns nu i en databas som alla kan läsa. Ungerns nya regering fullföljer därmed sitt vallöfte att öppna arkiven där den hemliga polisens angivare från kommunisttiden avslöjas.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Over 60,000 exposed as secret police archive opens",
+        "summary": "Over 60,000 names of Hungarians who spied on people around them during the communist era are now in a database that anyone can read. Hungary's new government is thereby fulfilling its election promise to open the archives where the secret police's informers from the communist era are exposed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "6b89a1811eeb",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/naringsliv/skanska-varldsstjarnan-tar-lundabolagets-produkt-i-forsvar",
+      "guid": "d9ef75f7-7378-405c-a860-ea7e4eba34b7",
+      "published_at": "2026-11-14T20:00:15+01:00",
+      "fetched_at": "2026-11-14T20:30:12+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/35fd7ef5-8eae-4c97-9e3a-298b7b841fc1.jpeg?width=600",
+      "sv": {
+        "title": "Skånska världsstjärnan tar Lundabolagets produkt i försvar",
+        "summary": "Skånska bordtennisstjärnan Truls Möregårdh försvarar samarbetet med den ifrågasatta förkylningssprejen Coldzyme. ”Jag skulle aldrig inleda ett sådant här samarbete utan att först göra en seriös bedömning”, skriver han i ett mejl till Sydsvenskan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Skåne world star defends Lund company's product",
+        "summary": "Skåne table tennis star Truls Möregårdh defends the collaboration with the questioned cold spray Coldzyme. \"I would never enter into such a collaboration without first making a serious assessment\", he writes in an email to Sydsvenskan."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "33ff2f700dbe",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/debatt/risk-for-lojalitetskonflikter-och-jav-nar-fa-personer-styr-idrottssverige",
+      "guid": "https://www.dn.se/debatt/risk-for-lojalitetskonflikter-och-jav-nar-fa-personer-styr-idrottssverige/",
+      "published_at": "2026-11-14T20:00:00+01:00",
+      "fetched_at": "2026-11-14T20:30:08+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/90319821-63e7-40e5-87b4-f1ab9424961a.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "DN Debatt. ”Risk för lojalitetskonflikter och jäv när få personer styr Idrottssverige”",
+        "summary": "DN DEBATT. När Rysslands deltagande i internationell ishockey avgörs är det inte första gången en svensk beslutsfattare visar sig ha dubbla lojaliteter. Idrottssverige är fullt av personer som innehar många poster samtidigt – trots att uppdragen krockar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "DN Debate. \"Risk of loyalty conflicts and conflicts of interest when few people run Swedish sport\"",
+        "summary": "DN DEBATE. When Russia's participation in international ice hockey is decided, it is not the first time a Swedish decision-maker has shown dual loyalties. Swedish sport is full of people who hold many positions at once – even though the assignments clash."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "dba7c6e8867b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/sa-startar-landslaget-mot-bosnien-hercegovina",
+      "guid": "8e9c9ede-6b75-4617-9f57-ba21d5a3b753",
+      "published_at": "2026-11-14T19:57:25+01:00",
+      "fetched_at": "2026-11-14T20:30:12+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/9754b062-da9a-4a43-8093-1d71f6ac157a.jpg?width=600",
+      "sv": {
+        "title": "Så startar landslaget mot Bosnien-Hercegovina",
+        "summary": "Graham Potter bjuder inte på några stora överraskningar i startelvan mot Bosnien-Hercegovina. Så här startar fotbollslandslaget i Solna:",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here is how the national team starts against Bosnia-Herzegovina",
+        "summary": "Graham Potter does not offer any major surprises in the starting line-up against Bosnia-Herzegovina. Here is how the football national team starts in Solna:"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "07626482480b",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/balsam-karam-en-film-om-fascism-och-trolldom-gjorde-mig-till-forfattare",
+      "guid": "https://www.dn.se/kultur/balsam-karam-en-film-om-fascism-och-trolldom-gjorde-mig-till-forfattare/",
+      "published_at": "2026-11-14T19:56:57+01:00",
+      "fetched_at": "2026-11-14T20:30:08+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/049ffeab-eadc-4dec-83a3-c5481a6e079c.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Balsam Karam: En film om fascism och trolldom gjorde mig till författare",
+        "summary": "I den 20-årsjubilerande ”Pans labyrint” såg jag min fars erfarenhet av tortyr och en saga om ett förlorat kungarike. Att båda rymdes i samma berättelse födde min skrivlust, skriver författaren Balsam Karam.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Balsam Karam: A film about fascism and witchcraft made me a writer",
+        "summary": "In the 20th-anniversary \"Pan's Labyrinth\", I saw my father's experience of torture and a fairy tale about a lost kingdom. That both fit in the same story gave birth to my desire to write, writes author Balsam Karam."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "860d1447094c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/var-hamas-gisslan-larde-kanna-sin-fangvaktare",
+      "guid": "https://www.expressen.se/nyheter/varlden/var-hamas-gisslan-larde-kanna-sin-fangvaktare/",
+      "published_at": "2026-11-14T19:52:17+01:00",
+      "fetched_at": "2026-11-14T20:30:10+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Var Hamas gisslan – lärde känna sin fångvaktare",
+        "summary": "Som Hamas gisslan i Gaza förde Shoshan Hakan dagliga samtal med sin fångvaktare. En bisarr vänskap uppstod med en man som inte skulle tveka att döda henne. – Samtidigt hade han en slags emotionell intelligens, Att vi kunde prata med varandra ger mig trots allt hopp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Was Hamas hostage – got to know her captor",
+        "summary": "As a Hamas hostage in Gaza, Shoshan Hakan had daily conversations with her captor. A bizarre friendship arose with a man who would not hesitate to kill her. – At the same time he had a kind of emotional intelligence. That we could talk to each other gives me hope after all."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "a244224bd62b",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/usa-inforde-ai-teknik-i-trafikledningen-fore-flygkaoset",
+      "guid": "https://www.dn.se/varlden/usa-inforde-ai-teknik-i-trafikledningen-fore-flygkaoset/",
+      "published_at": "2026-11-14T19:51:46+01:00",
+      "fetched_at": "2026-11-14T20:30:08+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/d5c3ff8a-27dd-4736-8b8a-8991d2ec55a5.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "USA införde AI-teknik i trafikledningen före flygkaoset",
+        "summary": "USA kämpar med ett föråldrat flygledningssystem som man lappar och lagar och nu förser med AI-funktioner som ska underlätta för flygledarna. – Den här gången gick det bra att flygleda manuellt, men det här visar hur sårbart det är att lämna allt i händerna på tekniken, säger flygexperten Jan…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "USA introduced AI technology in air traffic control before flight chaos",
+        "summary": "The USA is struggling with an outdated air traffic control system that it patches and repairs and now equips with AI functions meant to ease the work of air traffic controllers. – This time it went well to control flights manually, but this shows how vulnerable it is to leave everything in the hands of technology, says aviation expert Jan…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "a658c8390e05",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/tidigare-v-toppen-jens-holm-vill-se-s-regering",
+      "guid": "https://www.expressen.se/nyheter/sverige/tidigare-v-toppen-jens-holm-vill-se-s-regering/",
+      "published_at": "2026-11-14T19:48:12+01:00",
+      "fetched_at": "2026-11-14T20:30:10+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Tidigare V-toppen Jens Holm vill se S-regering",
+        "summary": "En S-regering som har stöd av V, C och MP. Det tror den tidigare V-toppen Jens Holm är vägen framåt för de rödgröna partierna. Han är inte imponerad av V:s förhandlingsstrategi. – Alternativet kan bli att man schabblar bort allting och att det blir Kristersson fyra år till.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Former Left Party leader Jens Holm wants a Social Democrat government",
+        "summary": "A Social Democrat government supported by the Left Party, the Centre Party and the Green Party. That is what former Left Party leader Jens Holm believes is the way forward for the red-green parties. He is not impressed by the Left Party's negotiating strategy. – The alternative may be that they mess everything up and it becomes Kristersson for four more years."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "22f1cf4005e2",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/XogbJo/3d-printad-skalle-visar-filosofens-plagor",
+      "guid": "https://www.aftonbladet.se/nyheter/a/XogbJo/3d-printad-skalle-visar-filosofens-plagor?utm_medium=rss",
+      "published_at": "2026-11-14T19:43:46+01:00",
+      "fetched_at": "2026-11-14T20:30:09+01:00",
+      "category": "science_tech",
+      "image_url": "https://akamai.vgc.no/v2/images/551382de-8b0b-3831-9977-71a7d1d32922?format=auto&s=0dc54288d321c18f9d3701a4f603ff51370d17d6&w=1000",
+      "sv": {
+        "title": "3D-printad skalle visar filosofens plågor",
+        "summary": "Jeremy Bentham led av kronisk tandvärk och hade svår artros i käken. Det visar en nyligen genomförd…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "3D-printed skull shows the philosopher's suffering",
+        "summary": "Jeremy Bentham suffered from chronic toothache and had severe arthrosis in his jaw. This is shown by a recently conducted…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "2f40655357ee",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=4cf5d91c-4087-499a-a4d3-ae812bc12aea",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4cf5d91c-4087-499a-a4d3-ae812bc12aea",
+      "published_at": "2026-11-14T19:39:20+01:00",
+      "fetched_at": "2026-11-14T20:30:10+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "En död efter båtbrand",
+        "summary": "Oklart vad som hänt på Tjörn",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "One dead after boat fire",
+        "summary": "Unclear what happened on Tjörn"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "76ba39f8ca64",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Pv94q7/person-avliden-efter-en-batbrand-i-tjorn",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Pv94q7/person-avliden-efter-en-batbrand-i-tjorn?utm_medium=rss",
+      "published_at": "2026-11-14T19:39:12+01:00",
+      "fetched_at": "2026-11-14T20:30:09+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/e5145cd1-7b1c-311f-a528-f5fc16c8f2c8?format=auto&s=ee888fe8316e5060cddd7f776fef118836a58800&w=1000",
+      "sv": {
+        "title": "Person avliden efter en båtbrand i Tjörn",
+        "summary": "En man i 60-årsåldern har avlidit efter att ha hittats ombord i samband med en rökutveckling på en…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Person dies after boat fire in Tjörn",
+        "summary": "A man in his 60s has died after being found on board in connection with smoke development on a…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "c5cb08c1ae29",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/nio-raka-utan-seger-for-lugi-maste-tro-pa-det",
+      "guid": "4eaee234-8d95-40c6-acf8-cab6242d006c",
+      "published_at": "2026-11-14T19:38:08+01:00",
+      "fetched_at": "2026-11-14T20:30:12+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Nio raka utan seger för Lugi: ”Måste tro på det”",
+        "summary": "Förlust med fyra mål hemma mot OV Helsingborg, 29–33. Nionde raka matchen utan seger för Lugi. – Vi måste tro på det och bara jobba vidare, det finns inget annat, sa Albin Sjögren i Lugi.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nine straight without a win for Lugi: \"Must believe in it\"",
+        "summary": "Four-goal home defeat against OV Helsingborg, 29–33. Ninth straight match without a win for Lugi. – We must believe in it and just keep working, there is nothing else, said Albin Sjögren of Lugi."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "ae19d927063c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79914",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79914&utm_medium=rss",
+      "published_at": "2026-11-14T19:36:48+01:00",
+      "fetched_at": "2026-11-14T20:30:09+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "En död efter båtbrand"
+      },
+      "en": {
+        "title": "One dead after boat fire"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "319fabef9bb9",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/sa-blev-berlin-oinvesterbart",
+      "guid": "6cda7e9c-da87-4c41-941b-6d396c3c2912",
+      "published_at": "2026-11-14T19:36:18+01:00",
+      "fetched_at": "2026-11-14T20:30:11+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e32a88c9-e47d-461d-aa62-a047f8b7ee59.jpeg?width=600",
+      "sv": {
+        "title": "Så blev Berlin ”oinvesterbart”",
+        "summary": "Heimstaden dömer ut tysk fastighetsmarknad som ”oinvesterbar” efter att Berlin vill förstatliga stora mängder bostäder. Förslaget är orimligt. Men både Heimstaden och Vonovia, Sveriges två största privata bostadsägare, har själva bäddat för de tyska problemen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How Berlin became \"uninvestable\"",
+        "summary": "Heimstaden dismisses the German property market as \"uninvestable\" after Berlin wants to nationalise large numbers of homes. The proposal is unreasonable. But both Heimstaden and Vonovia, Sweden's two largest private housing owners, have themselves paved the way for the German problems."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:22+01:00"
+      }
+    },
+    {
+      "id": "eb1ab9461c01",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/svaret-forbluffar-forskarna-darifran-kom-vikingarna",
+      "guid": "71adeed5-1afb-4bdb-8e74-adbb7f1407b7",
+      "published_at": "2026-11-14T19:33:00+01:00",
+      "fetched_at": "2026-11-14T20:30:12+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/6cde348c-27f6-4f94-b5c0-768fe5dacad4.jpg?width=600",
+      "sv": {
+        "title": "Svaret förbluffar forskarna – därifrån kom vikingarna",
+        "summary": "En tidigare okänd folkvandring och vikingarnas oväntade härkomst. Det är några av fynden i en stor studie som kombinerat dna, arkeologi och språkvetenskap. – Vi blev själva ganska förbluffade, säger Kristian Kristiansen, professor i arkeologi.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The answer baffles researchers – this is where the Vikings came from",
+        "summary": "A previously unknown migration and the Vikings' unexpected origins. These are some of the findings in a large study that combined DNA, archaeology and linguistics. – We were quite astonished ourselves, says Kristian Kristiansen, professor of archaeology."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
+      }
+    },
+    {
+      "id": "cd3e4da30441",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/politisk-strid-om-ansvaret-for-flygstoppet",
+      "guid": "https://www.dn.se/varlden/politisk-strid-om-ansvaret-for-flygstoppet/",
+      "published_at": "2026-11-14T19:28:39+01:00",
+      "fetched_at": "2026-11-14T20:30:08+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/055bd583-c765-42a0-98f6-e001c2d4383f.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Politisk strid om ansvaret för flygstoppet",
+        "summary": "Planen i USA flyger igen, men med kraftiga förseningar och tusentals inställda avgångar. På lördagen börjar orsakerna bakom flygstoppet att klarna, och anklagelserna haglar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Political fight over responsibility for the flight stoppage",
+        "summary": "Planes in the USA are flying again, but with major delays and thousands of cancelled departures. On Saturday the causes behind the flight stoppage are beginning to become clear, and accusations are flying."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
+      }
+    },
+    {
+      "id": "6f41eba803b7",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/alla-jagar-mannen-efter-blixtdraget",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/alla-jagar-mannen-efter-blixtdraget",
+      "published_at": "2026-11-14T19:27:36+01:00",
+      "fetched_at": "2026-11-14T20:30:10+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Alla jagar männen – efter blixtdraget",
+        "summary": "Ilskan efter plötsliga kuppen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Everyone is hunting the men – after the lightning coup",
+        "summary": "Anger after the sudden coup"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
+      }
+    },
+    {
+      "id": "51dbccb66a9a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/svenska-fastighetsagaren-under-attack",
+      "guid": "eb6f91e9-12e6-4873-88c8-363473a06a07",
+      "published_at": "2026-11-14T19:23:36+01:00",
+      "fetched_at": "2026-11-14T20:30:11+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/86857394-0f79-490b-a712-5db2c547a557.jpeg?width=600",
+      "sv": {
+        "title": "Svenska fastighetsägaren under attack",
+        "summary": "Bostadsbolaget Victoriahem pressas från flera håll. Det tyska ägarbolaget ligger i frontlinjen när Berlin vill förstatliga fastigheterna och i Sverige dömer en V-ledamot ut Victoriahem som en ”slumvärd” som bör sälja sina fastigheter. Victoriahems vd Per Ekelund slår tillbaka.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish property owner under attack",
+        "summary": "The housing company Victoriahem is being pressured from several directions. The German parent company is on the front line as Berlin wants to nationalise the properties, and in Sweden a V member has called Victoriahem a 'slum landlord' who should sell its properties. Victoriahem's CEO Per Ekelund hits back."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
+      }
+    },
+    {
+      "id": "b5a4c71e94eb",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/kopparledning-bakom-flygstoppet-i-usa",
+      "guid": "faf65897-2841-4390-9413-f1b8ab8ee317",
+      "published_at": "2026-11-14T19:21:14+01:00",
+      "fetched_at": "2026-11-14T20:30:11+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/4ab77db1-41d2-4625-b8f0-f543526af334.jpg?width=600",
+      "sv": {
+        "title": "Kopparledning bakom flygstoppet i USA",
+        "summary": "Tusentals flygresor ställdes in i USA under fredagen. Flygstoppet var det längsta sedan 11 september-attackerna 2001 och orsakades av ett byte från koppar till fiber.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Copper cable behind flight stoppage in USA",
+        "summary": "Thousands of flights were cancelled in the USA on Friday. The flight stoppage was the longest since the September 11 attacks in 2001 and was caused by a switch from copper to fibre."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
+      }
+    },
+    {
+      "id": "bfc6b19a791a",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/bmw-aterkallar-drygt-720-000-bilar-brandrisk",
+      "guid": "https://www.svt.se/nyheter/utrikes/bmw-aterkallar-drygt-720-000-bilar-brandrisk",
+      "published_at": "2026-11-14T19:07:19+01:00",
+      "fetched_at": "2026-11-14T20:30:06+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "BMW återkallar drygt 720 000 bilar: Brandrisk",
+        "summary": "Den tyska biltillverkaren BMW återkallar 720 796 fordon i Nordamerika på grund av brandrisk. Innan reparationen utförts bör bilarna parkeras utomhus samt långt från andra fordon och byggnader.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "BMW recalls just over 720,000 cars: Fire risk",
+        "summary": "German carmaker BMW is recalling 720,796 vehicles in North America due to fire risk. Before the repair is carried out, the cars should be parked outdoors and far from other vehicles and buildings."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
+      }
+    },
+    {
+      "id": "f929e350b7fa",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ledare/max-hjelm-sa-manga-doda-for-en-maktgalen-gammal-mans-drommar-om-storryssland",
+      "guid": "https://www.dn.se/ledare/max-hjelm-sa-manga-doda-for-en-maktgalen-gammal-mans-drommar-om-storryssland/",
+      "published_at": "2026-11-14T19:05:30+01:00",
+      "fetched_at": "2026-11-14T20:30:08+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/ba167419-05b9-4491-a0fb-31d3813541b5.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Max Hjelm: Så många döda för en maktgalen gammal mans drömmar om Storryssland",
+        "summary": "Putin försöker febrilt censurera krigets krassa verklighet. Men vissa sanningar går inte att dölja.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Max Hjelm: So many dead for a power-mad old man's dreams of Greater Russia",
+        "summary": "Putin is frantically trying to censor the harsh reality of the war. But some truths cannot be hidden."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
+      }
+    },
+    {
+      "id": "740138ddd58b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=919eef7b-4156-4c88-99c9-ff9765a51c0b",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=919eef7b-4156-4c88-99c9-ff9765a51c0b",
+      "published_at": "2026-11-14T19:05:02+01:00",
+      "fetched_at": "2026-11-14T20:30:10+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "BMW återkallar 700 000 bilar",
+        "summary": "BMW återkallar bilar • Brandrisk",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "BMW recalls 700,000 cars",
+        "summary": "BMW recalls cars • Fire risk"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
+      }
+    },
+    {
+      "id": "e86c70b14345",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/bmw-aterkallar-drygt-720-000-bilar-brandrisk",
+      "guid": "85e1b8b2-9f27-4162-99f0-ffb4dd99a57b",
+      "published_at": "2026-11-14T19:02:53+01:00",
+      "fetched_at": "2026-11-14T20:30:12+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d852b05b-ecd3-41de-96f2-0144fb6303d4.jpg?width=600",
+      "sv": {
+        "title": "BMW återkallar drygt 720 000 bilar: Brandrisk",
+        "summary": "Den tyska biltillverkaren BMW återkallar 720 796 fordon i Nordamerika på grund av brandrisk. Innan reparationen utförts bör bilarna parkeras utomhus samt långt från andra fordon och byggnader.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "BMW recalls just over 720,000 cars: Fire risk",
+        "summary": "German carmaker BMW is recalling 720,796 vehicles in North America due to fire risk. Before the repair is carried out, the cars should be parked outdoors and far from other vehicles and buildings."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
+      }
+    },
+    {
+      "id": "3265334be491",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/fotbollsherrarna-jagar-gruppseger",
+      "guid": "f9ff35c4-c164-4e74-b723-8ae4c03396c5",
+      "published_at": "2026-11-14T19:00:00+01:00",
+      "fetched_at": "2026-11-14T20:30:12+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Fotbollsherrarna jagar gruppseger",
+        "summary": "Fortsätter succén för Graham Potters landslag? Sverige tar emot Bosnien-Hercegovina på Strawberry arena och kan säkra uppflyttning till Nations Leagues A-division.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The men's national team chases group win",
+        "summary": "Will Graham Potter's national team's success continue? Sweden welcomes Bosnia-Herzegovina at Strawberry arena and can secure promotion to the Nations League A division."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
+      }
+    },
+    {
+      "id": "250e89eee772",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/bil/bmw-aterkallar-720-796-bilar-brandrisk",
+      "guid": "207c72cc-c572-4b00-8686-569ba9644849",
+      "published_at": "2026-11-14T18:59:06+01:00",
+      "fetched_at": "2026-11-14T20:30:11+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c6c13233-c76e-4874-842e-61d0643a44a0.jpg?width=600",
+      "sv": {
+        "title": "BMW återkallar 720.796 bilar – brandrisk",
+        "summary": "Den tyska biltillverkaren BMW återkallar 720.796 fordon i Nordamerika på grund av brandrisk. Innan reparationen utförts bör bilarna parkeras utomhus samt långt från andra fordon och byggnader.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "BMW recalls 720,796 cars – fire risk",
+        "summary": "German carmaker BMW is recalling 720,796 vehicles in North America due to fire risk. Before the repair is carried out, the cars should be parked outdoors and far from other vehicles and buildings."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
+      }
+    },
+    {
+      "id": "658c11553e7d",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/ishockey/frolunda/efter-nollan-han-far-garna-vara-sjuk-mer.72e35b5b-dfa4-59be-84d1-87a64503f0da",
+      "guid": "72e35b5b-dfa4-59be-84d1-87a64503f0da",
+      "published_at": "2026-11-14T18:54:59+01:00",
+      "fetched_at": "2026-11-14T20:30:11+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Frölunda",
+        "Tagg: Samuel Fagemo",
+        "Tagg: Frölunda HC",
+        "Tagg: Rögle",
+        "Tagg: Tre Kronor"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/ae0e2b88-1ed5-335d-88f6-a53ac3acce31",
+      "sv": {
+        "title": "Efter nollan: ”Han får gärna vara sjuk mer”",
+        "summary": "Lasse Johansson räddade 37 skott för utspelat Frölunda.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After the shutout: 'He's welcome to be sick more often'",
+        "summary": "Lasse Johansson saved 37 shots as Frölunda was outplayed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
+      }
+    },
     {
       "id": "0aa40d3264db",
       "schema_version": 1,
@@ -1825,6 +2848,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:58:49+01:00"
+      }
+    },
+    {
+      "id": "2b01acea4ac4",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/410598",
+      "guid": "https://tv.aftonbladet.se/video/410598?utm_medium=rss",
+      "published_at": "2026-11-14T15:41:27+01:00",
+      "fetched_at": "2026-11-14T20:30:09+01:00",
+      "category": "world",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/c6f792874bcb2ae5f53e469133766a40.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Radarbilderna avslöjar – himmeln tömdes",
+        "summary": "Ovanliga stoppet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Radar images reveal – the sky was emptied",
+        "summary": "Unusual stoppage"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-14T20:30:32+01:00"
       }
     },
     {
@@ -4448,1063 +5498,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "74f3d6a81599",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/kMJ65a/idrottsledare-domd-for-valdtakt-mot-barn",
-      "guid": "https://www.aftonbladet.se/nyheter/a/kMJ65a/idrottsledare-domd-for-valdtakt-mot-barn?utm_medium=rss",
-      "published_at": "2026-11-14T11:19:33+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/7b6416a2-8353-3c39-9fda-1840056c394d?format=auto&s=f23f56cab0672e1a7bcabf6b95c197eb84b7e82f&w=1000",
-      "sv": {
-        "title": "Idrottsledare dömd för våldtäkt mot barn",
-        "summary": "En man som varit ledare i en idrottsförening i Västmanland har dömts för våldtäkt mot barn och…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sports leader convicted of child rape",
-        "summary": "A man who was a leader in a sports club in Västmanland has been convicted of raping children and…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "197b6e9bcaaa",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1RkQZ605hynvQroo9P7xit/zelenskyj-putin-laer-ta-upp-sverige-i-samtalen",
-      "guid": "1RkQZ605hynvQroo9P7xit",
-      "published_at": "2026-11-14T11:18:19+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "Zelenskyj: ”Putin kommer att tala om Finland och Sverige”",
-        "summary": "Varnar: Vill rita om säkerhetskartan i Europa • ”Jag är övertygad”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Zelenskyy: \"Putin will talk about Finland and Sweden\"",
-        "summary": "Warns: Wants to redraw the security map of Europe • \"I am convinced\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "2dc0e2e4e171",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/zelenskyj-putin-lar-ta-upp-sverige-i-samtalen",
-      "guid": "https://www.dn.se/varlden/zelenskyj-putin-lar-ta-upp-sverige-i-samtalen/",
-      "published_at": "2026-11-14T11:13:19+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/674a099d-c720-4591-9098-8239cb9ec42b.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Zelenskyj: Putin lär ta upp Sverige i samtalen",
-        "summary": "Vladimir Putin vill rita om säkerhetskartan i Europa och lär då ta upp både Finland och Sverige, enligt Ukrainas president Zelenskyj. Av de uppgifter som når ut från de senaste förhandlingarna tycks Ryssland stå fast vid de krav som lades fram före storinvasionen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Zelenskyy: Putin likely to raise Sweden in talks",
-        "summary": "Vladimir Putin wants to redraw the security map of Europe and is likely to raise both Finland and Sweden, according to Ukraine's president Zelenskyy. From the information emerging from the latest negotiations, Russia appears to stand firm on the demands it made before the full-scale invasion."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "b72514d804ec",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79900",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79900&utm_medium=rss",
-      "published_at": "2026-11-14T11:12:14+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Elvira Öberg krossade alla i premiären"
-      },
-      "en": {
-        "title": "Elvira Öberg crushed everyone in the opener"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "3a5d07b27047",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/recension-en-innerlig-jul-med-tareq-taylor-och-andreas-aleman-13-november.25a6d432-5f23-582b-8cad-a17927b364fd",
-      "guid": "25a6d432-5f23-582b-8cad-a17927b364fd",
-      "published_at": "2026-11-14T11:08:55+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Kultur",
-        "Tagg: Scenrecension"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/d9475b27-8940-3886-9a48-566eb8dc56de",
-      "sv": {
-        "title": "Tareq Taylors julshow kan vara årets sämsta",
-        "summary": "Den ljuvliga TV-kocken borde tyvärr undvika sång och dans, skriver GP:s recensent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tareq Taylor's Christmas show may be the year's worst",
-        "summary": "The charming TV chef should unfortunately avoid singing and dancing, writes GP's reviewer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "d57eed42955e",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/1vk1Re/granslos-teater-om-krigens-eviga-offer",
-      "guid": "https://www.svd.se/a/1vk1Re/granslos-teater-om-krigens-eviga-offer?utm_medium=rss",
-      "published_at": "2026-11-14T11:06:05+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/fa9e07cc-1b03-3a25-b28c-62e35983fa1f?format=auto&s=f015721809b95d7c3315aeb123566cdeab4322c0&w=1000",
-      "sv": {
-        "title": "Gränslös teater om krigens eviga offer",
-        "summary": "Flykt, konflikter och gränsdragningar är eviga europeiska teman som behandlas i scencollaget…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Borderless theatre about the eternal victims of war",
-        "summary": "Flight, conflict and border-drawing are eternal European themes addressed by the stage collective…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "6b43f6c749dd",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/skidskytte/elvira-obergs-uppvisning-i-sverigepremiaren-helt-overlagsen",
-      "guid": "https://www.svt.se/sport/skidskytte/elvira-obergs-uppvisning-i-sverigepremiaren-helt-overlagsen",
-      "published_at": "2026-11-14T11:05:15+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Elvira Öbergs uppvisning i Sverigepremiären: ”Helt överlägsen”",
-        "summary": "Elvira Öberg är i superform. Storstjärnan krossade allt motstånd i Sverigepremiären. – Jag blev nästan orolig över att jag gick för hårt, säger Öberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Elvira Öberg's display at the Swedish season opener: \"Completely dominant\"",
-        "summary": "Elvira Öberg is in superb form. The superstar crushed all resistance at the Swedish season opener. – I almost got worried that I went too hard, says Öberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "eb6b5d010b5f",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/ez8EpR/zelenskyj-putin-lar-ta-upp-sverige-i-samtalen",
-      "guid": "https://www.svd.se/a/ez8EpR/zelenskyj-putin-lar-ta-upp-sverige-i-samtalen?utm_medium=rss",
-      "published_at": "2026-11-14T11:00:29+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/bb5fc53b-dbe3-35cb-9d88-5254cf85cd64?format=auto&s=5b0d001edf46149748e43333bde918ce0d500967&w=1000",
-      "sv": {
-        "title": "Putins krav står fast: ”Han lär ta upp Sverige”",
-        "summary": "Vladimir Putin vill rita om säkerhetskartan i Europa och lär då ta upp både Finland och…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Putin's demands stand firm: \"He is likely to raise Sweden\"",
-        "summary": "Vladimir Putin wants to redraw the security map of Europe and is likely to raise both Finland and…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "c2f12b3388d9",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/bk5Gld/zelenskyj-putin-lar-ta-upp-sverige-i-samtalen",
-      "guid": "https://www.aftonbladet.se/nyheter/a/bk5Gld/zelenskyj-putin-lar-ta-upp-sverige-i-samtalen?utm_medium=rss",
-      "published_at": "2026-11-14T11:00:28+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/bb5fc53b-dbe3-35cb-9d88-5254cf85cd64?format=auto&s=5b0d001edf46149748e43333bde918ce0d500967&w=1000",
-      "sv": {
-        "title": "Putins krav står fast: ”Han lär ta upp Sverige”",
-        "summary": "Vladimir Putin vill rita om säkerhetskartan i Europa och lär då ta upp både Finland och…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Putin's demands stand firm: \"He is likely to raise Sweden\"",
-        "summary": "Vladimir Putin wants to redraw the security map of Europe and is likely to raise both Finland and…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "820a2fb265ed",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/striden-om-mon-amie-arvet--vardaren-fick-formogenhet",
-      "guid": "https://www.expressen.se/nyheter/sverige/striden-om-mon-amie-arvet--vardaren-fick-formogenhet/",
-      "published_at": "2026-11-14T10:58:56+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Striden om Mon Amie-arvet: Vårdaren fick förmögenhet",
-        "summary": "Hemtjänstmannen vårdade den äldre och funktionsnedsatta kvinnan i flera år. Nu visar det sig att han och hans familj ska få ärva 50 miljoner kronor. Förmögenheten kommer från kvinnans syster, formgivaren Marianne Westman, som låg bakom det älskade porslinsmönstret Mon Amie.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Dispute over Mon Amie inheritance: carer receives fortune",
-        "summary": "The home care worker looked after the elderly and disabled woman for several years. It now turns out that he and his family are to inherit SEK 50 million. The fortune comes from the woman's sister, designer Marianne Westman, who was behind the beloved Mon Amie porcelain pattern."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "0a2f07bd54b5",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wdPOoA/svaret-forbluffar-forskarna-darifran-kom-vikingarna",
-      "guid": "https://www.svd.se/a/wdPOoA/svaret-forbluffar-forskarna-darifran-kom-vikingarna?utm_medium=rss",
-      "published_at": "2026-11-14T10:58:09+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "science_tech",
-      "image_url": "https://akamai.vgc.no/v2/images/763eaf74-e754-3ff7-bbf5-141ee16c7d3f?format=auto&s=b4749c01b0fc525c866d5bef27aec842ffc92cc7&w=1000",
-      "sv": {
-        "title": "Svaret förbluffar forskarna – därifrån kom vikingarna",
-        "summary": "En tidigare okänd folkvandring och vikingarnas oväntade härkomst. Det är några av fynden i en stor…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The answer astonishes researchers – this is where the Vikings came from",
-        "summary": "A previously unknown migration and the Vikings' unexpected origins. These are some of the findings in a major…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "b31b5cdef46d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/z0G7or/svaret-forbluffar-forskarna-darifran-kom-vikingarna",
-      "guid": "https://www.aftonbladet.se/nyheter/a/z0G7or/svaret-forbluffar-forskarna-darifran-kom-vikingarna?utm_medium=rss",
-      "published_at": "2026-11-14T10:58:07+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "science_tech",
-      "image_url": "https://akamai.vgc.no/v2/images/763eaf74-e754-3ff7-bbf5-141ee16c7d3f?format=auto&s=b4749c01b0fc525c866d5bef27aec842ffc92cc7&w=1000",
-      "sv": {
-        "title": "Svaret förbluffar forskarna – därifrån kom vikingarna",
-        "summary": "En tidigare okänd folkvandring och vikingarnas oväntade härkomst. Det är några av fynden i en stor…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The answer astonishes researchers – this is where the Vikings came from",
-        "summary": "A previously unknown migration and the Vikings' unexpected origins. These are some of the findings in a major…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "8003f456a157",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4uFcuEtmXe349eW141tkTQ/pm-nilssons-ord-efter-dn-s-besked-den-borde-aldrig-publicerats",
-      "guid": "4uFcuEtmXe349eW141tkTQ",
-      "published_at": "2026-11-14T10:55:28+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "PM Nilssons ord efter DN:s besked: ”Den borde aldrig publicerats”",
-        "summary": "I en krönika i DN:s papperstidning och e-tidning spekulerar krönikören Catia Hultquist kring rykten på sociala medier om att Timbro-vd:n PM Nilsson använder kajal. ”Han har därmed gått från en ganska städad till en mer punkig look. Vad har hänt?”, skriver Hultquist i krönikan.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "PM Nilsson's words after DN's decision: \"It should never have been published\"",
-        "summary": "In a column in DN's print edition and e-paper, columnist Catia Hultquist speculates about rumours on social media that Timbro CEO PM Nilsson uses eyeliner. \"He has thus gone from a fairly neat look to a more punk one. What has happened?\", Hultquist writes in the column."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "af164f5ef24f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/skane/magproblem-tio-vanliga-sjukdomar-och-raden-som-kan-hjalpa",
-      "guid": "17534a87-1471-4743-83c9-ff2866d0dd42",
-      "published_at": "2026-11-14T10:55:23+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/8d54a75a-268e-45a5-bba2-978311790b17.png?width=600",
-      "sv": {
-        "title": "Magproblem? Tio vanliga sjukdomar – och råden som kan hjälpa",
-        "summary": "Det kan hända en del mellan gom och ändtarm. IBS, gallsten, halsbränna och divertikulit, till exempel. Men vad kan du själv göra för att minska risken – och vilken hjälp finns om du blir sjuk?",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Stomach trouble? Ten common conditions – and the advice that can help",
-        "summary": "Quite a lot can go wrong between the mouth and the rectum. IBS, gallstones, heartburn and diverticulitis, for example. But what can you do yourself to reduce the risk – and what help is available if you become ill?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "72cd0c45f482",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/litteratur/litteraturrecension/recension-for-ni-alskar-mig-valdigt-mycket-av-nina-hemmingsson.d8659d07-1ec1-5812-96be-67df958fcae6",
-      "guid": "d8659d07-1ec1-5812-96be-67df958fcae6",
-      "published_at": "2026-11-14T10:54:37+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Litteraturrecension",
-        "Tagg: Recension",
-        "Tagg: Nina Hemmingsson",
-        "Tagg: Diktsamling",
-        "Tagg: Poesi",
-        "Tagg: Psykisk ohälsa",
-        "Tagg: Humor"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/bd0cabd7-778b-39cb-a80f-5604eea6f6df",
-      "sv": {
-        "title": "Nina Hemmingsson dikter är slappa – men ger tröst och igenkänning",
-        "summary": "En röra av finurliga utsagor om kåthet, vindrickande och psykisk ohälsa enligt GP:s Katja Palo.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nina Hemmingsson's poems are limp – but offer comfort and recognition",
-        "summary": "A jumble of witty statements about lust, wine-drinking and mental ill health, according to GP's Katja Palo."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "4b4a00f976e2",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/damkronorna-tog-revansch-slog-schweiz-i-kvarten",
-      "guid": "ce2075ab-7e03-4290-b8e0-e407cd80db24",
-      "published_at": "2026-11-14T10:53:50+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/78dd2f9c-d705-4760-9abb-1e7d8c37193c.jpg?width=600",
-      "sv": {
-        "title": "Damkronorna tog revansch – slog Schweiz i kvarten",
-        "summary": "Sverige besegrade Schweiz med 1–0 i kvartsfinalen i ishockey-VM och tog revansch för förlusten i OS-bronsmatchen i vintras. Damkronorna kan därmed ta första mästerskapsmedaljen på 19 år. – Herregud, vilken match, säger forwarden Thea Johansson till SVT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Damkronorna get revenge – beat Switzerland in the quarter-finals",
-        "summary": "Sweden beat Switzerland 1–0 in the quarter-final of the ice hockey World Championship and avenged the loss in the Olympic bronze medal match last winter. Damkronorna can thereby win their first championship medal in 19 years. – Good heavens, what a match, says forward Thea Johansson to SVT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "005c5aacc8f9",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/nederlanderna-krossade-grekland-nara-slutspel",
-      "guid": "97d9f757-b23e-41d2-9484-9e9d31e6ec77",
-      "published_at": "2026-11-14T10:53:15+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/6f754863-0351-417e-a540-759fb18302a9.jpg?width=600",
-      "sv": {
-        "title": "Nederländerna krossade Grekland – nära slutspel",
-        "summary": "Nederländerna hade lekstuga med Grekland hemma i Amsterdam. Det blev hela 7–0 i Nations League-mötet – och Nederländerna är nu nära kvartsfinal.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Netherlands crush Greece – close to the knockout stage",
-        "summary": "The Netherlands had a field day against Greece at home in Amsterdam. It ended 7–0 in the Nations League match – and the Netherlands are now close to the quarter-finals."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "ae0f087d299b",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/argentina-forlorade-forsta-matchen-utan-messi",
-      "guid": "7746df48-5624-4d4a-ac73-438ef7091c68",
-      "published_at": "2026-11-14T10:52:50+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/1d18e074-cbee-42ed-bcf3-9eacf5b16800.jpg?width=600",
-      "sv": {
-        "title": "Argentina förlorade första matchen utan Messi",
-        "summary": "Nystarten utan Lionel Messi hade kunnat gå bättre för Argentina. Uruguay vann landskampen i Buenos Aires med 2–1.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Argentina lose first match without Messi",
-        "summary": "The restart without Lionel Messi could have gone better for Argentina. Uruguay won the international match in Buenos Aires 2–1."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "3e52c0d2b08c",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/9paL55/kronisk-borrelia-finns-inte-som-diagnos-i-sverige",
-      "guid": "https://www.aftonbladet.se/nyheter/a/9paL55/kronisk-borrelia-finns-inte-som-diagnos-i-sverige?utm_medium=rss",
-      "published_at": "2026-11-14T10:51:34+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/3f107d4a-e90d-3c6e-8b35-ac9aa58ad88f?format=auto&s=65633b10505ceb9e6eb87cb1d26b341b71d6ead8&w=1000",
-      "sv": {
-        "title": "Avfärdar diagnos: ”Finns inga vetenskapliga bevis”",
-        "summary": "Patienter upplever att de är sjuka i åratal – och betalar hundratusentals kronor för att bli friska utomlands.Men enligt svensk expertis finns inte sjukdomen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Dismisses diagnosis: \"No scientific evidence exists\"",
-        "summary": "Patients feel sick for years – and pay hundreds of thousands of kronor to get well abroad. But according to Swedish experts, the disease does not exist."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "50268bfe7f52",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/1oK0Ge/linnea-reste-till-tyskland-for-att-fa-vard-som-inte-erbjuds-i-sverige",
-      "guid": "https://www.aftonbladet.se/nyheter/a/1oK0Ge/linnea-reste-till-tyskland-for-att-fa-vard-som-inte-erbjuds-i-sverige?utm_medium=rss",
-      "published_at": "2026-11-14T10:51:22+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/1532da4a-6de9-3c22-bfcd-878b39149f20?format=auto&s=8e1cef22b1570a2a8f0c45e5fb2445f1ab017cd2&w=1000",
-      "sv": {
-        "title": "Linnea reste till Tyskland – för att få vård som inte erbjuds i Sverige",
-        "summary": "Linnea fick en diagnos av svensk sjukvård – men ingen behandling fungerade. Då valde hon och hennes mamma att gå en annan väg. I Tyskland fick de en ny diagnos – och en omstridd behandling.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Linnea travelled to Germany – for care not offered in Sweden",
-        "summary": "Linnea was given a diagnosis by Swedish health care – but no treatment worked. She and her mother then chose another path. In Germany they received a new diagnosis – and a controversial treatment."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "30c478cd325b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/z0G5QK/sa-paverkar-arbetstidsforkortning-svenskarnas-matvanor",
-      "guid": "https://www.svd.se/a/z0G5QK/sa-paverkar-arbetstidsforkortning-svenskarnas-matvanor?utm_medium=rss",
-      "published_at": "2026-11-14T10:45:35+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/b5981a47-faed-3946-814b-c05287e377f6?format=auto&s=e398a36916c9b51cebab187eea9dd0f16a08f6d2&w=1000",
-      "sv": {
-        "title": "Kortare arbetstid ger snabbare lunch",
-        "summary": "Fackets krav kan förändra svenskarnas matvanor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Shorter working hours mean faster lunch",
-        "summary": "Union demands could change Swedes' eating habits."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "fdbe4bf807db",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/hemnets-mardrom-fortsatter",
-      "guid": "6444178b-6f08-433a-8071-5fc5220a035f",
-      "published_at": "2026-11-14T10:44:02+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/d7c7c764-985f-4ec1-919c-c7864b99ce8d.jpeg?width=600",
-      "sv": {
-        "title": "Hemnets mardröm fortsätter",
-        "summary": "Börsveckan har dominerats av dramatiken i chipjätten Nvidia. På Stockholmsbörsen blev bostadssajten Hemnet veckans stora förlorare, samtidigt som index steg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hemnet's nightmare continues",
-        "summary": "The stock market week has been dominated by the drama at chip giant Nvidia. On the Stockholm Stock Exchange, property site Hemnet became the week's biggest loser, while the index rose."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "5fbb727e570d",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/motor/liten-bil-med-stil-hyundai-ioniq-3-sticker-ut-i-mangden",
-      "guid": "https://www.dn.se/motor/liten-bil-med-stil-hyundai-ioniq-3-sticker-ut-i-mangden/",
-      "published_at": "2026-11-14T10:35:59+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/e5af9e20-23ed-4d2d-842b-a3461b197aad.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Liten bil med stil – Hyundai Ioniq 3 sticker ut i mängden",
-        "summary": "Nya och fräcka former byggda på beprövad teknik – där har du Hyundais nya småbil Ioniq 3. En av kandidaterna i den blomstrande billiga elbilsklassen, dessutom en bil som sticker ut i mängden. Vi kör och reder ut om fåfänga har gått före förnuft.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Small car with style – Hyundai Ioniq 3 stands out from the crowd",
-        "summary": "New and daring design built on proven technology – there you have Hyundai's new small car, the Ioniq 3. One of the candidates in the booming cheap electric car segment, and a car that stands out from the crowd. We drive it and find out whether vanity has beaten reason."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "4540dd29fe42",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/finansministern-berattar-om-sin-adhd",
-      "guid": "https://www.expressen.se/nyheter/politik/finansministern-berattar-om-sin-adhd/",
-      "published_at": "2026-11-14T10:34:15+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Finansministern berättar om sin adhd",
-        "summary": "Finansminister Elisabeth Svantesson (M) har adhd. Nu berättar hon för första gången om hur diagnosen påverkar henne. – Man kan ha adhd och komma väldigt långt om man får hjälp, säger hon i TV4:s ”Nyhetsmorgon”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Finance minister talks about her ADHD",
-        "summary": "Finance Minister Elisabeth Svantesson (M) has ADHD. Now she speaks for the first time about how the diagnosis affects her. – You can have ADHD and go very far if you get help, she says on TV4's \"Nyhetsmorgon\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "638a0fa4164b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/JnoEJJ/jensen-huang-var-nationalhjalte-i-taiwan-besvikelse-efter-otrohetsskandal",
-      "guid": "https://www.svd.se/a/JnoEJJ/jensen-huang-var-nationalhjalte-i-taiwan-besvikelse-efter-otrohetsskandal?utm_medium=rss",
-      "published_at": "2026-11-14T10:25:08+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/5f030fbf-491e-3302-8faf-dfd5748932ea?format=auto&s=b904d6fadb91fd9b85fe6ac50cda1a0402354be0&w=1000",
-      "sv": {
-        "title": "Chock i Taiwan efter Jensen Huangs avgång",
-        "summary": "Jensen Huang var mer än en techmiljardär i Taiwan. Han var en nationalhjälte, vars ansikte prydde…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Shock in Taiwan after Jensen Huang's departure",
-        "summary": "Jensen Huang was more than a tech billionaire in Taiwan. He was a national hero, whose face adorned…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "1614570de1b6",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/dJOlko/kulusevski-far-storsta-jublet-nar-sverige-moter-bosnien-hercegovina",
-      "guid": "https://www.svd.se/a/dJOlko/kulusevski-far-storsta-jublet-nar-sverige-moter-bosnien-hercegovina?utm_medium=rss",
-      "published_at": "2026-11-14T10:24:58+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "image_url": "https://akamai.vgc.no/v2/images/58ce1a97-82ab-35a9-afda-212d062457bd?format=auto&s=8b91363a40b6c2e614bb3fbc7a4b27d54f82020b&w=1000",
-      "sv": {
-        "title": "Kulusevski lär få största jublet ikväll"
-      },
-      "en": {
-        "title": "Kulusevski likely to get the biggest cheer tonight"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "fe01693b647f",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/77b1XV/vansterpartiets-regeringskrav-maktspelarna-har-lart-sig-att-satta-press-pa-s",
-      "guid": "https://www.svd.se/a/77b1XV/vansterpartiets-regeringskrav-maktspelarna-har-lart-sig-att-satta-press-pa-s?utm_medium=rss",
-      "published_at": "2026-11-14T10:24:47+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/804fc002-ee18-3f36-b87f-4fc77ebb5875?format=auto&s=5a773904451fa3bdfb784547577706c8f2c6450b&w=1000",
-      "sv": {
-        "title": "”Ska vara oskönt att inte jobba med Vänsterpartiet”",
-        "summary": "”Om man väljer att inte skaka hand med oss får man det svårt.” V kommer att stå fast vid sitt…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"It will be uncomfortable not to work with the Left Party\"",
-        "summary": "\"If you choose not to shake hands with us, it becomes difficult for you.\" The Left Party will stand firm on its…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "7dbca16aa46f",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/orgryte-is/mikkel-rygaard-oppnar-for-att-stanna-i-goteborg-ois-ar-en-fin-klubb.639d2a06-34b6-5ff4-82e2-586ccf8fb089",
-      "guid": "639d2a06-34b6-5ff4-82e2-586ccf8fb089",
-      "published_at": "2026-11-14T10:20:37+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Örgryte IS",
-        "Tagg: Pontus Farnerud",
-        "Tagg: Mikkel Rygaard",
-        "Tagg: Örgryte",
-        "Tagg: Öis",
-        "Tagg: BK Häcken"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/08d65747-2fc3-353b-9173-28576ba1de05",
-      "sv": {
-        "title": "Rygaard öppnar för att stanna i Göteborg: ”Öis är en fin klubb”",
-        "summary": "Häckenstjärnan får inte vara kvar – hyllas av Örgrytes sportchef.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Rygaard open to staying in Göteborg: \"Öis is a fine club\"",
-        "summary": "The midfielder may not stay – praised by Örgryte's sporting director."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "163f9257a92c",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/lat-alla-barn-baka-lussebullar-i-forskolan",
-      "guid": "https://www.dn.se/insandare/lat-alla-barn-baka-lussebullar-i-forskolan/",
-      "published_at": "2026-11-14T10:19:39+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/4ecdad89-a0df-434c-a065-5cdf22fe04a3.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Låt alla barn baka lussebullar i förskolan",
-        "summary": "INSÄNDARE. Beslutet att stoppa lussebullsbaket på flera förskolor i Göteborg är illa underbyggt. Om man menar allvar med att både vilja främja hälsa och stärka traditioner ska alla barn få baka lussebullar redan i förskolan, skriver gymnasieläraren och föräldern Britt Almlid Ekman.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Letter. Let all children bake lussebullar in preschool",
-        "summary": "LETTER. The decision to stop the baking of lussebullar at several preschools in Göteborg is poorly founded. If one means seriously to both promote health and strengthen traditions, all children should be allowed to bake lussebullar already in preschool, writes upper secondary school teacher and parent Britt Almlid Ekman."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "fb9ac00c4f70",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/livsstil/extremt-lagintensiv-traning-ny-trend.d503832b-ec2d-52ef-88dc-0df2f2a70206",
-      "guid": "d503832b-ec2d-52ef-88dc-0df2f2a70206",
-      "published_at": "2026-11-14T10:18:37+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Livsstil",
-        "Tagg: Träning",
-        "Tagg: Cykling",
-        "Tagg: Forskning",
-        "Tagg: Styrketräning",
-        "Tagg: Hjälp mig - BEHOV"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/e886f3dc-b04f-31d8-a327-f5189bb09183",
-      "sv": {
-        "title": "Städa, laga mat och stretcha - nya träningstrenden",
-        "summary": "”Ett tillstånd strax ovanför total inaktivtet” – minimal ansträngning som knappt känns",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Cleaning, cooking and stretching – new workout trend",
-        "summary": "\"A state just above total inactivity\" – minimal exertion that barely feels like anything"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "1ee809e60dba",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/trump-ska-traffa-xi-och-putin-vill-prata-karnvapen",
-      "guid": "https://www.expressen.se/nyheter/varlden/trump-ska-traffa-xi-och-putin-vill-prata-karnvapen/",
-      "published_at": "2026-11-14T10:18:19+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trump ska träffa Xi och Putin – vill prata kärnvapen",
-        "summary": "Donald Trump ska träffa Xi Jinping och Vladimir Putin i ett historiskt trepartsmöte. USA:s president vill diskutera en minskning av kärnvapen. – President Trump anser att denna spridning är väldigt farlig, säger Vita husets presstalesperson Olivia Wales, enligt The Hill.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump to meet Xi and Putin – wants to talk nuclear weapons",
-        "summary": "Donald Trump is to meet Xi Jinping and Vladimir Putin in a historic three-way meeting. The US president wants to discuss a reduction of nuclear weapons. – President Trump considers this proliferation very dangerous, says White House press spokesperson Olivia Wales, according to The Hill."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "b0c590fe4ee7",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ekonomi/bussbolag-skrotar-julbord-for-chaufforer-blir-kanske-grill-i-var",
-      "guid": "https://www.dn.se/ekonomi/bussbolag-skrotar-julbord-for-chaufforer-blir-kanske-grill-i-var/",
-      "published_at": "2026-11-14T10:10:49+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/3bd5d727-89e2-4141-95c7-09f8bd6a83b0.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Bussbolag skrotar julbord för chaufförer – ”blir kanske grill i vår”",
-        "summary": "Det blir inget traditionellt julbord för busschaufförerna på Transdev i Norrtälje i år. Enligt ett meddelande från en depåchef beror det på att facket gick in med ett skyddsstopp av verksamheten, som blev dyr. I stället kan det bli ”en grilldag” i vår.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bus company scraps Christmas buffet for drivers – \"may be a grill in spring\"",
-        "summary": "There will be no traditional Christmas buffet for bus drivers at Transdev in Norrtälje this year. According to a message from a depot manager, this is because the union imposed a safety stoppage on operations, which became expensive. Instead, there may be \"a grill day\" in the spring."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "b6d01fb4fc6c",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/orattvist-att-invanare-i-samma-kommun-betalar-olika-mycket-for-taget",
-      "guid": "7c69c4bb-bdbf-4024-82c3-8925fac3de89",
-      "published_at": "2026-11-14T10:10:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Orättvist att invånare i samma kommun betalar olika mycket för tåget",
-        "summary": "Varför behöver två personer som bor i samma kommun betala olika mycket för sina resor med Skånetrafiken? Det undrar dagens insändarskribent, som efterlyser en ny och rättvisare taxa.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unfair that residents of the same municipality pay different amounts for the train",
-        "summary": "Why do two people living in the same municipality have to pay different amounts for their journeys with Skånetrafiken? So asks today's letter writer, who calls for a new and fairer fare."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "efd09885f44f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/fotbollsfest-med-timbuktu-pa-rosengard-vigde-mitt-liv-at-nagot-jag-alskar",
-      "guid": "843c6e60-5de5-489a-b685-ddbdc8b0d3ef",
-      "published_at": "2026-11-14T10:05:29+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/fc2e1bc3-a666-479e-88d3-c8ff0ad65b90.jpeg?width=600",
-      "sv": {
-        "title": "Fotbollsfest med Timbuktu på Rosengård: ”Vigde mitt liv åt något jag älskar”",
-        "summary": "Om man älskar fotboll eller musik spelar ingen roll. För Jason ”Timbuktu” Diakité är det viktigaste att man hittar något man brinner för. Därför arrangerade han en streetfotbollsturnering på Rosengård tillsammans med Skånes fotbollförbund.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Football festival with Timbuktu in Rosengård: \"Dedicated my life to something I love\"",
-        "summary": "Whether you love football or music doesn't matter. For Jason \"Timbuktu\" Diakité, the most important thing is finding something you are passionate about. That is why he organised a street football tournament in Rosengård together with Skåne Football Association."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "f2fc946f1db2",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/ekonomi/efter-varslet-lindex-soker-tio-toppchefer.58ca10ff-215a-5147-a5c4-2889761e6558",
-      "guid": "58ca10ff-215a-5147-a5c4-2889761e6558",
-      "published_at": "2026-11-14T10:05:22+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Ekonomi",
-        "Tagg: Ekonomi",
-        "Tagg: Rekrytering",
-        "Tagg: Detaljhandel",
-        "Tagg: Varsel",
-        "Tagg: Kläder",
-        "Tagg: Susanne Ehnbåge"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/04676de0-ae31-36b8-99b0-02aa6b597639",
-      "sv": {
-        "title": "Lindex både varslar och nyanställer",
-        "summary": "Göteborgskedjan: Två separata processer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lindex both lays off and hires",
-        "summary": "Göteborg chain: Two separate processes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "0eb926a4e041",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/fa-sjunger-modern-soul-som-snoh-aalegra",
-      "guid": "https://www.dn.se/kultur/fa-sjunger-modern-soul-som-snoh-aalegra/",
-      "published_at": "2026-11-14T10:01:49+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/9107905f-c9f9-497d-9bf1-ceab936d5ad9.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Få sjunger modern soul som Snoh Aalegra",
-        "summary": "Fem år efter förra albumet vrider Snoh Aalegra tillbaka klockan till 1980-talet med ”Legendary love”. På fullängdaren är det tydligt att den svenska soulstjärnan har en välkalibrerad känsla för det internationellt gångbara, skriver DN:s Gabriel Zetterström.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Few sing modern soul like Snoh Aalegra",
-        "summary": "Five years after her previous album, Snoh Aalegra turns the clock back to the 1980s with \"Legendary love\". On the full-length it is clear that the Swedish soul star has a well-calibrated sense of what works internationally, writes DN's Gabriel Zetterström."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "f7466653152e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/villabrand-i-stode-e14-avstangd-under-slackningsarbetet",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/villabrand-i-stode-e14-avstangd-under-slackningsarbetet",
-      "published_at": "2026-11-14T09:57:21+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Villabrand i Stöde: ”Får brinna ner”",
-        "summary": "Räddningstjänsten i Medelpad fick på lördagen larm om en brand i Stöde. Branden startade i en carport och spred sig därefter till boningshuset, som enligt räddningstjänsten var övertänt. Trafiken på E14 var under en tid helt avstängd.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "House fire in Stöde: \"Will burn down\"",
-        "summary": "The rescue service in Medelpad received an alarm on Saturday about a fire in Stöde. The fire started in a carport and then spread to the house, which according to the rescue service was fully engulfed. Traffic on the E14 was completely closed for a time."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "0cb83a7f980a",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1InZyEkbQi0mmssnBHMSrP/finansministern-om-sin-adhd-diagnos-man-far-kaempa-vaeldigt-mycket",
-      "guid": "1InZyEkbQi0mmssnBHMSrP",
-      "published_at": "2026-11-14T09:55:18+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "NPF-diagnos"
-      ],
-      "sv": {
-        "title": "Finansministern om sin adhd-diagnos: ”Hjärnan är på fullt tryck”",
-        "summary": "Genom att berätta öppet om sin diagnos hoppas Elisabeth Svantesson att hon kan hjälpa andra, inte minst barn och unga. – Jag har inget att tjäna på det här personligen. Att ha adhd är inte min personlighet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Finance minister on her ADHD diagnosis: \"The brain is running at full speed\"",
-        "summary": "By speaking openly about her diagnosis, Elisabeth Svantesson hopes she can help others, not least children and young people. – I have nothing to gain from this personally. Having ADHD is not my personality."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
       }
     }
   ]
