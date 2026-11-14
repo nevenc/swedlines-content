@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-11-14T15:17:28+01:00",
-  "count": 41,
+  "generated_at": "2026-11-14T15:27:45+01:00",
+  "count": 43,
   "items": [
+    {
+      "id": "864d1105beaf",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/VxbP1p/eu-kraver-att-israel-tillater-nodhjalp-till-gaza",
+      "guid": "https://www.aftonbladet.se/nyheter/a/VxbP1p/eu-kraver-att-israel-tillater-nodhjalp-till-gaza?utm_medium=rss",
+      "published_at": "2026-11-14T15:18:39+01:00",
+      "fetched_at": "2026-11-14T15:27:41+01:00",
+      "category": "general",
+      "image_url": "https://akamai.vgc.no/v2/images/dd52f4fc-bc21-3288-ac09-382b318587d9?format=auto&s=858be31b9411586f787356941c1f3a3a9498c552&w=1000",
+      "sv": {
+        "title": "EU kräver att Israel tillåter nödhjälp till Gaza",
+        "summary": "EU kräver att Israel släpper in nödhjälp till Gaza efter att den krigshärjade remsan drabbats av…",
+        "summary_origin": "feed"
+      },
+      "translation": {
+        "status": "pending"
+      }
+    },
     {
       "id": "cde7fe4db13c",
       "schema_version": 1,
@@ -10,15 +29,23 @@
       "guid": "https://www.aftonbladet.se/nyheter/a/KLvEy4/sa-kopte-efterlysta-knarkbossen-bolle-jos-ett-helt-land?utm_medium=rss",
       "published_at": "2026-11-14T15:13:52+01:00",
       "fetched_at": "2026-11-14T15:17:26+01:00",
-      "category": "general",
+      "category": "crime",
       "image_url": "https://akamai.vgc.no/v2/images/fa2deae8-2a67-3f7d-94eb-506bbef489a2?format=auto&s=dd3b1fcfed62d8cfe631f342fc599cb93103ed83&w=1000",
       "sv": {
         "title": "Så köpte knarkbossen ’Bolle Jos’ ett helt land",
         "summary": "Jagas över hela Europa ✓ Alias: Omar Sheriff",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "How drug boss 'Bolle Jos' bought an entire country",
+        "summary": "Hunted across Europe ✓ Alias: Omar Sheriff"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -29,15 +56,23 @@
       "guid": "https://www.aftonbladet.se/nyheter/a/pMLQA6/gabrielsson-v-s-krav-ligger-fast?utm_medium=rss",
       "published_at": "2026-11-14T14:55:12+01:00",
       "fetched_at": "2026-11-14T15:17:26+01:00",
-      "category": "general",
+      "category": "politics",
       "image_url": "https://akamai.vgc.no/v2/images/7521f335-bfbd-3ca6-b3a5-d67d9a035af8?format=auto&s=185b3a7d920334219bcc95e8f5adcafdd7425bba&w=1000",
       "sv": {
         "title": "Gabrielsson: V:s krav ligger fast",
         "summary": "Vänsterpartiets krav på att få ingå i en rödgrön regering står fast, understryker vice partiledaren…",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Gabrielsson: Left Party's demand stands",
+        "summary": "The Left Party's demand to be part of a red-green government stands, the deputy party leader stresses…"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -210,15 +245,23 @@
       "guid": "https://www.aftonbladet.se/nyheter/a/mMRrAO/andersson-da-kan-s-bilda-regering-med-m?utm_medium=rss",
       "published_at": "2026-11-14T12:50:33+01:00",
       "fetched_at": "2026-11-14T15:17:26+01:00",
-      "category": "general",
+      "category": "politics",
       "image_url": "https://akamai.vgc.no/v2/images/23eb1ce1-dc3e-3930-a481-f4b9b46ca958?format=auto&s=76e71189254a06efd9070135f650ebfc5554327e&w=1000",
       "sv": {
         "title": "Ordbråk om Anderssons artikel: ”Felaktigt”",
         "summary": "Bråket om regeringskravet växer",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "War of words over Andersson's article: \"Incorrect\"",
+        "summary": "The row over the government demand is growing"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -462,6 +505,25 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T14:56:57+01:00"
+      }
+    },
+    {
+      "id": "0378253ae0d4",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/xJP8pV/totalstopp-pa-forsmark-3-kortslutning",
+      "guid": "https://www.aftonbladet.se/nyheter/a/xJP8pV/totalstopp-pa-forsmark-3-kortslutning?utm_medium=rss",
+      "published_at": "2026-11-14T08:42:03+01:00",
+      "fetched_at": "2026-11-14T15:27:41+01:00",
+      "category": "general",
+      "image_url": "https://akamai.vgc.no/v2/images/36f20754-3894-3c72-9cdf-23230dbed13d?format=auto&s=4acc77fb8bbf5e7a6a5cf129eff59185f03896d4&w=1000",
+      "sv": {
+        "title": "Totalstopp på Forsmarks kärnkraftverk: ”Kortslutning”",
+        "summary": "Kortslutning på Forsmark 3",
+        "summary_origin": "feed"
+      },
+      "translation": {
+        "status": "pending"
       }
     },
     {

@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-11-14T15:17:28+01:00",
-  "count": 233,
+  "generated_at": "2026-11-14T15:27:45+01:00",
+  "count": 238,
   "items": [
+    {
+      "id": "4ad03130760d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/gabrielsson-v-s-krav-ligger-fast",
+      "guid": "92d8c875-f8a7-43f6-b8e9-d55aa58a809c",
+      "published_at": "2026-11-14T15:21:51+01:00",
+      "fetched_at": "2026-11-14T15:27:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e76f0d0e-1e18-49d1-9416-89fe7425c972.jpg?width=600",
+      "sv": {
+        "title": "Gabrielsson: V:s krav ligger fast",
+        "summary": "Vänsterpartiets krav på att få ingå i en rödgrön regering står fast, understryker vice partiledaren Ida Gabrielsson för Aftonbladet. Hon anser att S-ledaren Magdalena Andersson gjort en feltolkning.",
+        "summary_origin": "feed"
+      },
+      "translation": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "864d1105beaf",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/VxbP1p/eu-kraver-att-israel-tillater-nodhjalp-till-gaza",
+      "guid": "https://www.aftonbladet.se/nyheter/a/VxbP1p/eu-kraver-att-israel-tillater-nodhjalp-till-gaza?utm_medium=rss",
+      "published_at": "2026-11-14T15:18:39+01:00",
+      "fetched_at": "2026-11-14T15:27:41+01:00",
+      "category": "general",
+      "image_url": "https://akamai.vgc.no/v2/images/dd52f4fc-bc21-3288-ac09-382b318587d9?format=auto&s=858be31b9411586f787356941c1f3a3a9498c552&w=1000",
+      "sv": {
+        "title": "EU kräver att Israel tillåter nödhjälp till Gaza",
+        "summary": "EU kräver att Israel släpper in nödhjälp till Gaza efter att den krigshärjade remsan drabbats av…",
+        "summary_origin": "feed"
+      },
+      "translation": {
+        "status": "pending"
+      }
+    },
     {
       "id": "f926c2e16c81",
       "schema_version": 1,
@@ -10,14 +48,22 @@
       "guid": "a76eeb0d-54aa-4147-9627-e9c1e259a9e1",
       "published_at": "2026-11-14T15:16:45+01:00",
       "fetched_at": "2026-11-14T15:17:28+01:00",
-      "category": "general",
+      "category": "sports",
       "sv": {
         "title": "Redhawks Direkt",
         "summary": "Här sker all direktrapportering om Malmö Redhawks under säsongen. Följ och kommentera alla SHL-matcher med Theodor Bondestam här.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Redhawks Live",
+        "summary": "All live coverage of Malmö Redhawks during the season happens here. Follow and comment on every SHL match with Theodor Bondestam here."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -28,15 +74,23 @@
       "guid": "https://www.dn.se/sverige/sjukskoterskor-kan-forlora-tusenlappar-pa-nytt-avtal/",
       "published_at": "2026-11-14T15:14:44+01:00",
       "fetched_at": "2026-11-14T15:17:24+01:00",
-      "category": "general",
+      "category": "economy",
       "image_url": "https://static.bonniernews.se/ba/0dfc74af-d966-40c4-8309-04f338f4d8b1.jpeg?io=1&width=1000",
       "sv": {
         "title": "Sjuksköterskor kan förlora tusenlappar på nytt avtal",
         "summary": "Ett nytt avtal om ob-ersättningen väcker ilska bland privatanställda sjuksköterskor. Många får kraftigt sänkt ersättning – i en del fall med flera tusen kronor. – Vi kräver att avtalet hävs, säger Sara Hammarström, sjuksköterska inom Capio ASIH i Nacka.",
         "summary_origin": "truncated"
       },
+      "en": {
+        "title": "Nurses could lose thousands of kronor under new agreement",
+        "summary": "A new agreement on unsocial-hours pay is stirring anger among privately employed nurses. Many face sharply reduced compensation, in some cases by several thousand kronor. \"We demand that the agreement be revoked,\" says Sara Hammarström, a nurse at Capio ASIH in Nacka."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -47,15 +101,23 @@
       "guid": "https://www.aftonbladet.se/nyheter/a/KLvEy4/sa-kopte-efterlysta-knarkbossen-bolle-jos-ett-helt-land?utm_medium=rss",
       "published_at": "2026-11-14T15:13:52+01:00",
       "fetched_at": "2026-11-14T15:17:26+01:00",
-      "category": "general",
+      "category": "crime",
       "image_url": "https://akamai.vgc.no/v2/images/fa2deae8-2a67-3f7d-94eb-506bbef489a2?format=auto&s=dd3b1fcfed62d8cfe631f342fc599cb93103ed83&w=1000",
       "sv": {
         "title": "Så köpte knarkbossen ’Bolle Jos’ ett helt land",
         "summary": "Jagas över hela Europa ✓ Alias: Omar Sheriff",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "How drug boss 'Bolle Jos' bought an entire country",
+        "summary": "Hunted across Europe ✓ Alias: Omar Sheriff"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -66,14 +128,22 @@
       "guid": "https://www.svt.se/sport/fotboll/victor-nilsson-lindelof-njuter-sa-mycket-enklare",
       "published_at": "2026-11-14T15:11:46+01:00",
       "fetched_at": "2026-11-14T15:17:22+01:00",
-      "category": "general",
+      "category": "sports",
       "sv": {
         "title": "Victor Nilsson Lindelöf njuter: ”Så mycket enklare”",
         "summary": "Victor Nilsson Lindelöf förlängde nyligen kontraktet med Aston Villa. Den svenske lagkaptenen trivs. – Jag njuter av fotbollen, säger han.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Victor Nilsson Lindelöf is enjoying himself: \"So much easier\"",
+        "summary": "Victor Nilsson Lindelöf recently extended his contract with Aston Villa. The Swedish captain is thriving. \"I'm enjoying the football,\" he says."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -84,15 +154,23 @@
       "guid": "cb1b1248-57bc-4927-98e6-c61577d8ba4a",
       "published_at": "2026-11-14T15:11:17+01:00",
       "fetched_at": "2026-11-14T15:17:28+01:00",
-      "category": "general",
+      "category": "politics",
       "image_url": "https://static.bonniernews.se/ba/6fe6f5c6-6e99-4893-8b7c-f5aec2ee3d91.jpg?width=600",
       "sv": {
         "title": "Gabrielsson: V:s krav ligger fast",
         "summary": "Vänsterpartiets krav på att få ingå i en rödgrön regering står fast, understryker vice partiledaren Ida Gabrielsson för Aftonbladet. Hon anser att S-ledaren Magdalena Andersson gjort en feltolkning.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Gabrielsson: Left Party's demand stands",
+        "summary": "The Left Party's demand to be part of a red-green government stands, deputy party leader Ida Gabrielsson stresses to Aftonbladet. She believes Social Democrat leader Magdalena Andersson has misinterpreted it."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -110,6 +188,69 @@
         "summary": "Socialdemokraternas totalpaket som överlämnades till Centerpartiet i fredags innehåller vinstförbud mot skolor och slopat karensavdrag. Det rapporterar Expressen.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Social Democrats' package includes profit ban and scrapped sick-day deduction",
+        "summary": "The Social Democrats' full package, handed over to the Centre Party on Friday, includes a ban on profits in schools and the scrapping of the first-day sickness deduction. Expressen reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
+      }
+    },
+    {
+      "id": "3046f4bb8e1f",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/jurgen-klopp-ska-lyfta-tyskland-och-aterta-flaggan.9dee2bf1-b9d1-5192-9d79-0e74be41a76d",
+      "guid": "9dee2bf1-b9d1-5192-9d79-0e74be41a76d",
+      "published_at": "2026-11-14T14:55:48+01:00",
+      "fetched_at": "2026-11-14T15:27:43+01:00",
+      "category": "general",
+      "feed_categories": [
+        "Fotboll",
+        "Tagg: Jürgen Klopp",
+        "Tagg: Thomas Tuchel",
+        "Tagg: Liverpool",
+        "Tagg: Tyskland",
+        "Tagg: Fotboll",
+        "Tagg: Uefa Nations League"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/0a19a23f-c74b-3635-b1ee-c1e26398a177",
+      "sv": {
+        "title": "Klopps ultimatum: ”Om ni ger er på min familj så lämnar jag”",
+        "summary": "Den förre Liverpooltränaren sätter en tydlig gräns i sitt nya jobb.",
+        "summary_origin": "feed"
+      },
+      "translation": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "a9a2a72c19f1",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/ifk-goteborg-rustar-for-damallsvenskan-har-varvningslistan-redo.318ed65a-b408-5134-8ad0-0b265344428b",
+      "guid": "318ed65a-b408-5134-8ad0-0b265344428b",
+      "published_at": "2026-11-14T14:55:43+01:00",
+      "fetched_at": "2026-11-14T15:27:43+01:00",
+      "category": "general",
+      "feed_categories": [
+        "IFK Göteborg",
+        "Tagg: Beata Kollmats",
+        "Tagg: IFK Göteborg",
+        "Tagg: Damallsvenskan",
+        "Tagg: Elitettan",
+        "Tagg: Fokus sport"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/e7c560fe-4061-377f-aa16-8bcfebda7bdc",
+      "sv": {
+        "title": "Så kan Blåvitt se ut i damallsvenskan 2027: ”Det är vår marknad nu”",
+        "summary": "I november 2019 beslutade IFK Göteborg att starta ett damlag från grunden. Sju år senare är man framme vid det stora målet om damallsvenskan.Då utlovas en storsatsning.",
+        "summary_origin": "feed"
+      },
       "translation": {
         "status": "pending"
       }
@@ -122,15 +263,23 @@
       "guid": "https://www.aftonbladet.se/nyheter/a/pMLQA6/gabrielsson-v-s-krav-ligger-fast?utm_medium=rss",
       "published_at": "2026-11-14T14:55:12+01:00",
       "fetched_at": "2026-11-14T15:17:26+01:00",
-      "category": "general",
+      "category": "politics",
       "image_url": "https://akamai.vgc.no/v2/images/7521f335-bfbd-3ca6-b3a5-d67d9a035af8?format=auto&s=185b3a7d920334219bcc95e8f5adcafdd7425bba&w=1000",
       "sv": {
         "title": "Gabrielsson: V:s krav ligger fast",
         "summary": "Vänsterpartiets krav på att få ingå i en rödgrön regering står fast, understryker vice partiledaren…",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Gabrielsson: Left Party's demand stands",
+        "summary": "The Left Party's demand to be part of a red-green government stands, the deputy party leader stresses…"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -141,14 +290,22 @@
       "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/emilia-18-om-scoutboomen-ungdomar-ar-trotta-pa-det-uppkopplade",
       "published_at": "2026-11-14T14:53:55+01:00",
       "fetched_at": "2026-11-14T15:17:22+01:00",
-      "category": "general",
+      "category": "sweden",
       "sv": {
         "title": "Emilia, 18 om scoutboomen: ”Ungdomar är trötta på det uppkopplade”",
         "summary": "Intresset för scouting fortsätter att öka. Antalet medlemmar i scouterna har nu ökat tolv år i rad. I helgen träffades över 1 500 scouter i Jönköping. – Ungdomar i dag är trötta på det artificiella och det uppkopplade, man vill ta sig ut, säger 18-åriga Emilia Thomasson från Gotland som varit…",
         "summary_origin": "truncated"
       },
+      "en": {
+        "title": "Emilia, 18, on the scouting boom: \"Young people are tired of being connected\"",
+        "summary": "Interest in scouting continues to grow. The number of scout members has now risen for twelve years in a row. Over 1,500 scouts met in Jönköping this weekend. \"Young people today are tired of the artificial and the connected, they want to get outdoors,\" says 18-year-old Emilia Thomasson from Gotland, who has…"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -159,7 +316,7 @@
       "guid": "98db89e0-eca3-5d86-a579-b7aff8fbd2d0",
       "published_at": "2026-11-14T14:51:34+01:00",
       "fetched_at": "2026-11-14T15:17:27+01:00",
-      "category": "general",
+      "category": "sports",
       "feed_categories": [
         "IFK Göteborg",
         "Tagg: IFK Göteborg",
@@ -171,8 +328,16 @@
         "summary": "IFK Göteborg är klart för damallsvenskan. På straff sköt Marika Berman Lundin laget till det absoluta finrummet.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "IFK Göteborg secure promotion to the Damallsvenskan",
+        "summary": "IFK Göteborg have secured promotion to the Damallsvenskan. Marika Berman Lundin's penalty shot the team into the top flight."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -183,15 +348,23 @@
       "guid": "https://www.dn.se/varlden/efter-flygstoppet-i-usa-tusentals-sover-pa-flygplatserna/",
       "published_at": "2026-11-14T14:51:14+01:00",
       "fetched_at": "2026-11-14T15:17:24+01:00",
-      "category": "general",
+      "category": "world",
       "image_url": "https://static.bonniernews.se/ba/3bf801aa-8afb-4ead-94ae-aea0d4edea66.jpeg?io=1&width=1000",
       "sv": {
         "title": "Efter flygstoppet i USA: Tusentals sover på flygplatserna",
         "summary": "NEWARK. Tiotusentals flygpassagerare sitter fast på flygplatser över hela USA efter fredagens flygstopp. Flera dagar av inställda och försenade flyg väntar. På flygplatsen Newark utanför New York möts DN av frustrerade och trötta resenärer.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "After the US flight halt: Thousands sleeping at airports",
+        "summary": "NEWARK. Tens of thousands of air passengers are stranded at airports across the US after Friday's flight halt. Several days of cancelled and delayed flights lie ahead. At Newark airport outside New York, DN meets frustrated and tired travellers."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -202,15 +375,23 @@
       "guid": "https://www.svd.se/a/0vnQE0/v-slar-tillbaka-mot-s-efter-anderssons-debattartikel-felaktig-tolkning?utm_medium=rss",
       "published_at": "2026-11-14T14:47:47+01:00",
       "fetched_at": "2026-11-14T15:17:25+01:00",
-      "category": "general",
+      "category": "politics",
       "image_url": "https://akamai.vgc.no/v2/images/b87453f6-5a43-33d4-ba8c-c87f641240a4?format=auto&s=5bd41fc388956ec391a1bcb2fbb42f24a9689109&w=1000",
       "sv": {
         "title": "V slår tillbaka mot S: Felaktig tolkning",
         "summary": "Magdalena Andersson (S) skriver i en debattartikel att V är redo att förhandla om en regering med…",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Left Party hits back at Social Democrats: Incorrect interpretation",
+        "summary": "Magdalena Andersson (S) writes in an opinion piece that the Left Party is ready to negotiate on a government with…"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -248,7 +429,7 @@
       "guid": "642f0be2-6b01-5490-91e8-44fba35c90cd",
       "published_at": "2026-11-14T14:34:51+01:00",
       "fetched_at": "2026-11-14T15:17:27+01:00",
-      "category": "general",
+      "category": "politics",
       "feed_categories": [
         "Politik",
         "Tagg: Magdalena Andersson",
@@ -262,8 +443,16 @@
         "summary": "Ordbråk om Magdalena Anderssons regeringsförslag.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Left Party contradicts Andersson: \"The interpretation is incorrect\"",
+        "summary": "War of words over Magdalena Andersson's government proposal."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -1636,15 +1825,23 @@
       "guid": "https://www.aftonbladet.se/nyheter/a/mMRrAO/andersson-da-kan-s-bilda-regering-med-m?utm_medium=rss",
       "published_at": "2026-11-14T12:50:33+01:00",
       "fetched_at": "2026-11-14T15:17:26+01:00",
-      "category": "general",
+      "category": "politics",
       "image_url": "https://akamai.vgc.no/v2/images/23eb1ce1-dc3e-3930-a481-f4b9b46ca958?format=auto&s=76e71189254a06efd9070135f650ebfc5554327e&w=1000",
       "sv": {
         "title": "Ordbråk om Anderssons artikel: ”Felaktigt”",
         "summary": "Bråket om regeringskravet växer",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "War of words over Andersson's article: \"Incorrect\"",
+        "summary": "The row over the government demand is growing"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -1841,7 +2038,7 @@
       "guid": "DIgQR7gnm2hpuTk9nbrfw",
       "published_at": "2026-11-14T12:24:39+01:00",
       "fetched_at": "2026-11-14T15:17:26+01:00",
-      "category": "general",
+      "category": "sweden",
       "feed_categories": [
         "Nyhetsmorgon"
       ],
@@ -1850,8 +2047,16 @@
         "summary": "Det var i november förra året som Agnes var ute på en helt vanlig hästpromenad med sin lillasyster Alma, två vänner och tre hästar. En av hästarna blev skrämd av något och Agnes, som alltid varit van vid hästar, lade handen på djurets bakdel.",
         "summary_origin": "truncated"
       },
+      "en": {
+        "title": "After the horse accident, she has a new face made of titanium: \"Hard dealing with the stares\"",
+        "summary": "It was in November last year that Agnes was out on a perfectly ordinary horse walk with her little sister Alma, two friends and three horses. One of the horses was startled by something and Agnes, who had always been used to horses, placed her hand on the animal's hindquarters."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -3877,6 +4082,25 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T14:56:57+01:00"
+      }
+    },
+    {
+      "id": "0378253ae0d4",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/xJP8pV/totalstopp-pa-forsmark-3-kortslutning",
+      "guid": "https://www.aftonbladet.se/nyheter/a/xJP8pV/totalstopp-pa-forsmark-3-kortslutning?utm_medium=rss",
+      "published_at": "2026-11-14T08:42:03+01:00",
+      "fetched_at": "2026-11-14T15:27:41+01:00",
+      "category": "general",
+      "image_url": "https://akamai.vgc.no/v2/images/36f20754-3894-3c72-9cdf-23230dbed13d?format=auto&s=4acc77fb8bbf5e7a6a5cf129eff59185f03896d4&w=1000",
+      "sv": {
+        "title": "Totalstopp på Forsmarks kärnkraftverk: ”Kortslutning”",
+        "summary": "Kortslutning på Forsmark 3",
+        "summary_origin": "feed"
+      },
+      "translation": {
+        "status": "pending"
       }
     },
     {

@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-14T15:17:28+01:00",
-  "count": 19,
+  "generated_at": "2026-11-14T15:27:45+01:00",
+  "count": 21,
   "items": [
+    {
+      "id": "3046f4bb8e1f",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/jurgen-klopp-ska-lyfta-tyskland-och-aterta-flaggan.9dee2bf1-b9d1-5192-9d79-0e74be41a76d",
+      "guid": "9dee2bf1-b9d1-5192-9d79-0e74be41a76d",
+      "published_at": "2026-11-14T14:55:48+01:00",
+      "fetched_at": "2026-11-14T15:27:43+01:00",
+      "category": "general",
+      "feed_categories": [
+        "Fotboll",
+        "Tagg: Jürgen Klopp",
+        "Tagg: Thomas Tuchel",
+        "Tagg: Liverpool",
+        "Tagg: Tyskland",
+        "Tagg: Fotboll",
+        "Tagg: Uefa Nations League"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/0a19a23f-c74b-3635-b1ee-c1e26398a177",
+      "sv": {
+        "title": "Klopps ultimatum: ”Om ni ger er på min familj så lämnar jag”",
+        "summary": "Den förre Liverpooltränaren sätter en tydlig gräns i sitt nya jobb.",
+        "summary_origin": "feed"
+      },
+      "translation": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "a9a2a72c19f1",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/ifk-goteborg-rustar-for-damallsvenskan-har-varvningslistan-redo.318ed65a-b408-5134-8ad0-0b265344428b",
+      "guid": "318ed65a-b408-5134-8ad0-0b265344428b",
+      "published_at": "2026-11-14T14:55:43+01:00",
+      "fetched_at": "2026-11-14T15:27:43+01:00",
+      "category": "general",
+      "feed_categories": [
+        "IFK Göteborg",
+        "Tagg: Beata Kollmats",
+        "Tagg: IFK Göteborg",
+        "Tagg: Damallsvenskan",
+        "Tagg: Elitettan",
+        "Tagg: Fokus sport"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/e7c560fe-4061-377f-aa16-8bcfebda7bdc",
+      "sv": {
+        "title": "Så kan Blåvitt se ut i damallsvenskan 2027: ”Det är vår marknad nu”",
+        "summary": "I november 2019 beslutade IFK Göteborg att starta ett damlag från grunden. Sju år senare är man framme vid det stora målet om damallsvenskan.Då utlovas en storsatsning.",
+        "summary_origin": "feed"
+      },
+      "translation": {
+        "status": "pending"
+      }
+    },
     {
       "id": "de61ca60a5bd",
       "schema_version": 1,
@@ -10,7 +65,7 @@
       "guid": "98db89e0-eca3-5d86-a579-b7aff8fbd2d0",
       "published_at": "2026-11-14T14:51:34+01:00",
       "fetched_at": "2026-11-14T15:17:27+01:00",
-      "category": "general",
+      "category": "sports",
       "feed_categories": [
         "IFK Göteborg",
         "Tagg: IFK Göteborg",
@@ -22,8 +77,16 @@
         "summary": "IFK Göteborg är klart för damallsvenskan. På straff sköt Marika Berman Lundin laget till det absoluta finrummet.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "IFK Göteborg secure promotion to the Damallsvenskan",
+        "summary": "IFK Göteborg have secured promotion to the Damallsvenskan. Marika Berman Lundin's penalty shot the team into the top flight."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {
@@ -34,7 +97,7 @@
       "guid": "642f0be2-6b01-5490-91e8-44fba35c90cd",
       "published_at": "2026-11-14T14:34:51+01:00",
       "fetched_at": "2026-11-14T15:17:27+01:00",
-      "category": "general",
+      "category": "politics",
       "feed_categories": [
         "Politik",
         "Tagg: Magdalena Andersson",
@@ -48,8 +111,16 @@
         "summary": "Ordbråk om Magdalena Anderssons regeringsförslag.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Left Party contradicts Andersson: \"The interpretation is incorrect\"",
+        "summary": "War of words over Magdalena Andersson's government proposal."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {

@@ -1,7 +1,53 @@
 {
-  "generated_at": "2026-11-14T15:17:28+01:00",
-  "count": 47,
+  "generated_at": "2026-11-14T15:27:45+01:00",
+  "count": 49,
   "items": [
+    {
+      "id": "4ad03130760d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/gabrielsson-v-s-krav-ligger-fast",
+      "guid": "92d8c875-f8a7-43f6-b8e9-d55aa58a809c",
+      "published_at": "2026-11-14T15:21:51+01:00",
+      "fetched_at": "2026-11-14T15:27:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e76f0d0e-1e18-49d1-9416-89fe7425c972.jpg?width=600",
+      "sv": {
+        "title": "Gabrielsson: V:s krav ligger fast",
+        "summary": "Vänsterpartiets krav på att få ingå i en rödgrön regering står fast, understryker vice partiledaren Ida Gabrielsson för Aftonbladet. Hon anser att S-ledaren Magdalena Andersson gjort en feltolkning.",
+        "summary_origin": "feed"
+      },
+      "translation": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "901edaa193a0",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/sjukskoterskor-kan-forlora-tusenlappar-pa-nytt-avtal",
+      "guid": "https://www.dn.se/sverige/sjukskoterskor-kan-forlora-tusenlappar-pa-nytt-avtal/",
+      "published_at": "2026-11-14T15:14:44+01:00",
+      "fetched_at": "2026-11-14T15:17:24+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0dfc74af-d966-40c4-8309-04f338f4d8b1.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Sjuksköterskor kan förlora tusenlappar på nytt avtal",
+        "summary": "Ett nytt avtal om ob-ersättningen väcker ilska bland privatanställda sjuksköterskor. Många får kraftigt sänkt ersättning – i en del fall med flera tusen kronor. – Vi kräver att avtalet hävs, säger Sara Hammarström, sjuksköterska inom Capio ASIH i Nacka.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Nurses could lose thousands of kronor under new agreement",
+        "summary": "A new agreement on unsocial-hours pay is stirring anger among privately employed nurses. Many face sharply reduced compensation, in some cases by several thousand kronor. \"We demand that the agreement be revoked,\" says Sara Hammarström, a nurse at Capio ASIH in Nacka."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
+      }
+    },
     {
       "id": "517b5184caf9",
       "schema_version": 1,
@@ -17,8 +63,16 @@
         "summary": "Socialdemokraternas totalpaket som överlämnades till Centerpartiet i fredags innehåller vinstförbud mot skolor och slopat karensavdrag. Det rapporterar Expressen.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Social Democrats' package includes profit ban and scrapped sick-day deduction",
+        "summary": "The Social Democrats' full package, handed over to the Centre Party on Friday, includes a ban on profits in schools and the scrapping of the first-day sickness deduction. Expressen reports."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {

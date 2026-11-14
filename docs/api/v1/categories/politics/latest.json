@@ -1,7 +1,122 @@
 {
-  "generated_at": "2026-11-14T15:17:28+01:00",
-  "count": 53,
+  "generated_at": "2026-11-14T15:27:45+01:00",
+  "count": 58,
   "items": [
+    {
+      "id": "0c1a039d13c9",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/gabrielsson-v-s-krav-ligger-fast",
+      "guid": "cb1b1248-57bc-4927-98e6-c61577d8ba4a",
+      "published_at": "2026-11-14T15:11:17+01:00",
+      "fetched_at": "2026-11-14T15:17:28+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/6fe6f5c6-6e99-4893-8b7c-f5aec2ee3d91.jpg?width=600",
+      "sv": {
+        "title": "Gabrielsson: V:s krav ligger fast",
+        "summary": "Vänsterpartiets krav på att få ingå i en rödgrön regering står fast, understryker vice partiledaren Ida Gabrielsson för Aftonbladet. Hon anser att S-ledaren Magdalena Andersson gjort en feltolkning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gabrielsson: Left Party's demand stands",
+        "summary": "The Left Party's demand to be part of a red-green government stands, deputy party leader Ida Gabrielsson stresses to Aftonbladet. She believes Social Democrat leader Magdalena Andersson has misinterpreted it."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
+      }
+    },
+    {
+      "id": "eb5f2c9674ec",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/pMLQA6/gabrielsson-v-s-krav-ligger-fast",
+      "guid": "https://www.aftonbladet.se/nyheter/a/pMLQA6/gabrielsson-v-s-krav-ligger-fast?utm_medium=rss",
+      "published_at": "2026-11-14T14:55:12+01:00",
+      "fetched_at": "2026-11-14T15:17:26+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/7521f335-bfbd-3ca6-b3a5-d67d9a035af8?format=auto&s=185b3a7d920334219bcc95e8f5adcafdd7425bba&w=1000",
+      "sv": {
+        "title": "Gabrielsson: V:s krav ligger fast",
+        "summary": "Vänsterpartiets krav på att få ingå i en rödgrön regering står fast, understryker vice partiledaren…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gabrielsson: Left Party's demand stands",
+        "summary": "The Left Party's demand to be part of a red-green government stands, the deputy party leader stresses…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
+      }
+    },
+    {
+      "id": "e22fc8f4a79b",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/0vnQE0/v-slar-tillbaka-mot-s-efter-anderssons-debattartikel-felaktig-tolkning",
+      "guid": "https://www.svd.se/a/0vnQE0/v-slar-tillbaka-mot-s-efter-anderssons-debattartikel-felaktig-tolkning?utm_medium=rss",
+      "published_at": "2026-11-14T14:47:47+01:00",
+      "fetched_at": "2026-11-14T15:17:25+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/b87453f6-5a43-33d4-ba8c-c87f641240a4?format=auto&s=5bd41fc388956ec391a1bcb2fbb42f24a9689109&w=1000",
+      "sv": {
+        "title": "V slår tillbaka mot S: Felaktig tolkning",
+        "summary": "Magdalena Andersson (S) skriver i en debattartikel att V är redo att förhandla om en regering med…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Left Party hits back at Social Democrats: Incorrect interpretation",
+        "summary": "Magdalena Andersson (S) writes in an opinion piece that the Left Party is ready to negotiate on a government with…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
+      }
+    },
+    {
+      "id": "568b11f4fb83",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/andersson-vill-regera-med-c-och-mp-v-star-fast-vid-sitt-krav.642f0be2-6b01-5490-91e8-44fba35c90cd",
+      "guid": "642f0be2-6b01-5490-91e8-44fba35c90cd",
+      "published_at": "2026-11-14T14:34:51+01:00",
+      "fetched_at": "2026-11-14T15:17:27+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Politik",
+        "Tagg: Magdalena Andersson",
+        "Tagg: Ida Gabrielsson",
+        "Tagg: Centerpartiet",
+        "Tagg: Socialdemokraterna"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/de56f95e-6290-37ba-8b62-c106083534ce",
+      "sv": {
+        "title": "V säger emot Andersson: ”Tolkningen felaktig”",
+        "summary": "Ordbråk om Magdalena Anderssons regeringsförslag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Left Party contradicts Andersson: \"The interpretation is incorrect\"",
+        "summary": "War of words over Magdalena Andersson's government proposal."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
+      }
+    },
     {
       "id": "c9c13be3d244",
       "schema_version": 1,
@@ -402,6 +517,33 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T14:53:03+01:00"
+      }
+    },
+    {
+      "id": "49a81397fb06",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/mMRrAO/andersson-da-kan-s-bilda-regering-med-m",
+      "guid": "https://www.aftonbladet.se/nyheter/a/mMRrAO/andersson-da-kan-s-bilda-regering-med-m?utm_medium=rss",
+      "published_at": "2026-11-14T12:50:33+01:00",
+      "fetched_at": "2026-11-14T15:17:26+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/23eb1ce1-dc3e-3930-a481-f4b9b46ca958?format=auto&s=76e71189254a06efd9070135f650ebfc5554327e&w=1000",
+      "sv": {
+        "title": "Ordbråk om Anderssons artikel: ”Felaktigt”",
+        "summary": "Bråket om regeringskravet växer",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "War of words over Andersson's article: \"Incorrect\"",
+        "summary": "The row over the government demand is growing"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
       }
     },
     {

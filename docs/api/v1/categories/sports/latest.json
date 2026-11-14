@@ -1,7 +1,91 @@
 {
-  "generated_at": "2026-11-14T15:17:28+01:00",
-  "count": 42,
+  "generated_at": "2026-11-14T15:27:45+01:00",
+  "count": 45,
   "items": [
+    {
+      "id": "f926c2e16c81",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/redhawks-direkt-C95UW",
+      "guid": "a76eeb0d-54aa-4147-9627-e9c1e259a9e1",
+      "published_at": "2026-11-14T15:16:45+01:00",
+      "fetched_at": "2026-11-14T15:17:28+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Redhawks Direkt",
+        "summary": "Här sker all direktrapportering om Malmö Redhawks under säsongen. Följ och kommentera alla SHL-matcher med Theodor Bondestam här.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Redhawks Live",
+        "summary": "All live coverage of Malmö Redhawks during the season happens here. Follow and comment on every SHL match with Theodor Bondestam here."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
+      }
+    },
+    {
+      "id": "d9c057e7f82f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/fotboll/victor-nilsson-lindelof-njuter-sa-mycket-enklare",
+      "guid": "https://www.svt.se/sport/fotboll/victor-nilsson-lindelof-njuter-sa-mycket-enklare",
+      "published_at": "2026-11-14T15:11:46+01:00",
+      "fetched_at": "2026-11-14T15:17:22+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Victor Nilsson Lindelöf njuter: ”Så mycket enklare”",
+        "summary": "Victor Nilsson Lindelöf förlängde nyligen kontraktet med Aston Villa. Den svenske lagkaptenen trivs. – Jag njuter av fotbollen, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Victor Nilsson Lindelöf is enjoying himself: \"So much easier\"",
+        "summary": "Victor Nilsson Lindelöf recently extended his contract with Aston Villa. The Swedish captain is thriving. \"I'm enjoying the football,\" he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
+      }
+    },
+    {
+      "id": "de61ca60a5bd",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/ifk-goteborg-klart-for-damallsvenskan.98db89e0-eca3-5d86-a579-b7aff8fbd2d0",
+      "guid": "98db89e0-eca3-5d86-a579-b7aff8fbd2d0",
+      "published_at": "2026-11-14T14:51:34+01:00",
+      "fetched_at": "2026-11-14T15:17:27+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "IFK Göteborg",
+        "Tagg: IFK Göteborg",
+        "Tagg: Fokus sport"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/b145e1af-7f69-353c-8d45-0d3e7ba8618f",
+      "sv": {
+        "title": "IFK Göteborg klart för damallsvenskan",
+        "summary": "IFK Göteborg är klart för damallsvenskan. På straff sköt Marika Berman Lundin laget till det absoluta finrummet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "IFK Göteborg secure promotion to the Damallsvenskan",
+        "summary": "IFK Göteborg have secured promotion to the Damallsvenskan. Marika Berman Lundin's penalty shot the team into the top flight."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-code-headless",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:20:33+01:00"
+      }
+    },
     {
       "id": "3c5a01269e66",
       "schema_version": 1,
