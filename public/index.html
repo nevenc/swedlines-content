@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Swedlines – svenska nyhetsrubriker</title>
 <meta name="description" content="Swedish news headlines from the ten largest Swedish news sites, in Swedish and English. Updated every 15 minutes.">
-<link rel="icon" href="/assets/logo.svg" type="image/svg+xml">
-<link rel="alternate" type="application/json" href="/api/v1/latest.json">
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="alternate" type="application/json" href="api/v1/latest.json">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;800&display=swap">
 <style>
   :root {
@@ -25,7 +25,8 @@
   .brand svg { width: 28px; height: 28px; }
   .ticker-line { height: 4px; margin-top: 8px; background: linear-gradient(90deg, var(--yellow) 0, var(--yellow) 40%, transparent); }
   .controls { margin-left: auto; display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
-  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; margin: 0; padding: 0; min-width: 0; }
+  .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
   .seg button { background: var(--panel); color: var(--fg); border: 0; padding: 5px 10px; font: inherit; font-weight: 600; cursor: pointer; }
   .seg button[aria-pressed="true"] { background: var(--blue); color: #fff; }
   .seg button:focus-visible { outline: 2px solid var(--yellow); outline-offset: -2px; }
@@ -50,16 +51,17 @@
 <body>
 <header>
   <div class="bar">
-    <a class="brand" href="/">
+    <a class="brand" href="./">
       <svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#006AA7"/><rect x="14" y="17" width="36" height="8" rx="4" fill="#FECC02"/><rect x="14" y="28" width="26" height="8" rx="4" fill="#FECC02"/><rect x="14" y="39" width="18" height="8" rx="4" fill="#FECC02"/></svg>
       swedlines
     </a>
     <div class="controls">
-      <div class="seg" role="group" aria-label="Språk / Language">
+      <fieldset class="seg">
+        <legend class="sr-only">Språk / Language</legend>
         <button type="button" data-lang="sv" aria-pressed="true">sv</button>
         <button type="button" data-lang="en" aria-pressed="false">en</button>
         <button type="button" data-lang="both" aria-pressed="false">båda</button>
-      </div>
+      </fieldset>
       <select id="source" aria-label="Källa / Source"><option value="">Alla källor</option></select>
       <button type="button" class="seg" id="refresh" style="padding:5px 10px;font:inherit;font-weight:600;background:var(--panel);color:var(--fg);cursor:pointer">↻</button>
     </div>
@@ -69,7 +71,7 @@
 <main id="stream"><p class="empty">Laddar rubriker…</p></main>
 <footer>
   Rubriker och ingresser tillhör respektive utgivare; varje länk går direkt till källan. Engelska texter är maskinöversatta.
-  <a href="/api/v1/latest.json">JSON API</a> · uppdateras var 15:e minut.
+  <a href="api/v1/latest.json">JSON API</a> · uppdateras var 15:e minut.
 </footer>
 <script>
 (() => {
@@ -130,8 +132,8 @@
 
   async function load() {
     const [latest, src] = await Promise.all([
-      fetch("/api/v1/latest.json", { cache: "no-cache" }).then(r => r.json()),
-      fetch("/api/v1/sources.json", { cache: "no-cache" }).then(r => r.json()),
+      fetch("api/v1/latest.json", { cache: "no-cache" }).then(r => r.json()),
+      fetch("api/v1/sources.json", { cache: "no-cache" }).then(r => r.json()),
     ]);
     data = latest;
     sources = Object.fromEntries(src.sources.map(s => [s.key, s.name]));
