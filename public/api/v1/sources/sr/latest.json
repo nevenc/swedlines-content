@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:57:13+01:00",
+  "generated_at": "2026-11-14T15:02:05+01:00",
   "count": 20,
   "items": [
     {
@@ -452,14 +452,22 @@
       "guid": "rss:sr.se/article/9340838",
       "published_at": "2026-11-13T20:39:00+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "world",
       "sv": {
         "title": "Fem länder ska föra Europas talan om Ukraina",
         "summary": "EU:s ledare har enats om hur Europa ska företrädas i förhandlingar om Ukraina. Ingen enskild person får uppdraget. Fem länder: Tyskland, Frankrike, Storbritannien, Italien och Polen, ska tillsammans med EU:s institutioner föra Europas talan.",
         "summary_origin": "truncated"
       },
+      "en": {
+        "title": "Five countries to speak for Europe on Ukraine",
+        "summary": "EU leaders have agreed on how Europe is to be represented in negotiations on Ukraine. No single person gets the job. Five countries: Germany, France, the United Kingdom, Italy and Poland, will speak for Europe together with the EU's institutions."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
       }
     },
     {
@@ -470,14 +478,22 @@
       "guid": "rss:sr.se/article/9340658",
       "published_at": "2026-11-13T19:19:00+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "politics",
       "sv": {
         "title": "60 dagar utan ny regering – det här har hänt",
         "summary": "I dag har det gått 60 dagar utan en ny regering. Är det svårt att hänga med i regeringsbildningen? Ekot sammanfattar vad som har hänt de här två senaste månaderna i svensk politik.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "60 days without a new government – this is what has happened",
+        "summary": "Today marks 60 days without a new government. Hard to keep up with the government formation? Ekot sums up what has happened in Swedish politics over the past two months."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
       }
     },
     {
@@ -488,14 +504,22 @@
       "guid": "rss:sr.se/article/9340787",
       "published_at": "2026-11-13T19:03:00+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "science_tech",
       "sv": {
         "title": "Rockström om Trump: Paradoxalt nog en klimathjälte",
         "summary": "Utsläppen från fossila bränslen har minskat något i år, delvis som en konsekvens av Irankriget. ”Så man kan säga pradoxalt nog att president Trump är en klimathjälte”, säger miljövetaren professor Johan Rockström inför starten på FN:s klimatmöte nästa vecka.",
         "summary_origin": "truncated"
       },
+      "en": {
+        "title": "Rockström on Trump: Paradoxically a climate hero",
+        "summary": "Emissions from fossil fuels have fallen slightly this year, partly as a consequence of the Iran war. 'So one can say that, paradoxically, President Trump is a climate hero,' says environmental scientist Professor Johan Rockström ahead of the start of the UN climate meeting next week."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
       }
     }
   ]

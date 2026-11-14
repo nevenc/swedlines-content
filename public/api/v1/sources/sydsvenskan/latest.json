@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:57:13+01:00",
+  "generated_at": "2026-11-14T15:02:05+01:00",
   "count": 38,
   "items": [
     {
@@ -1002,15 +1002,23 @@
       "guid": "d6425058-6d8d-4841-b25f-02c2b3f16e57",
       "published_at": "2026-11-13T21:41:49+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "world",
       "image_url": "https://static.bonniernews.se/ba/faa4e783-754e-4d70-9e10-949ac8513615.jpg?width=600",
       "sv": {
         "title": "Bessent pekar ut Lutnick för AI-läckage till Kina",
         "summary": "Finansminister Scott Bessent pekar finger åt ministerkollegan Howard Lutnick i fråga om varför inte USA bättre lyckats stoppa utförsel av avancerade AI-chip till Kina. Frågan är kopplad till skandalen kring Nvidias tidigare vd Jensen Huang.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Bessent points at Lutnick over AI leak to China",
+        "summary": "Treasury Secretary Scott Bessent points the finger at fellow cabinet member Howard Lutnick over why the US has not been more successful in stopping exports of advanced AI chips to China. The question is linked to the scandal surrounding Nvidia's former CEO Jensen Huang."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
       }
     }
   ]

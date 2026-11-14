@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T14:57:13+01:00",
-  "count": 24,
+  "generated_at": "2026-11-14T15:02:05+01:00",
+  "count": 53,
   "items": [
     {
       "id": "c9c13be3d244",
@@ -644,6 +644,798 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T14:56:57+01:00"
+      }
+    },
+    {
+      "id": "48d8323601bc",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9340658",
+      "guid": "rss:sr.se/article/9340658",
+      "published_at": "2026-11-13T19:19:00+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "60 dagar utan ny regering – det här har hänt",
+        "summary": "I dag har det gått 60 dagar utan en ny regering. Är det svårt att hänga med i regeringsbildningen? Ekot sammanfattar vad som har hänt de här två senaste månaderna i svensk politik.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "60 days without a new government – this is what has happened",
+        "summary": "Today marks 60 days without a new government. Hard to keep up with the government formation? Ekot sums up what has happened in Swedish politics over the past two months."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
+      }
+    },
+    {
+      "id": "cb171425fc87",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/l-kalla-kristersson-regering-kommer-att-behova-samverka-med-sd",
+      "guid": "https://www.dn.se/sverige/l-kalla-kristersson-regering-kommer-att-behova-samverka-med-sd/",
+      "published_at": "2026-11-13T18:26:26+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/002568f1-a26f-426a-bb76-59dc52ac40cd.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "L-källa: Kristersson-regering kommer att behöva samverka med SD",
+        "summary": "Kristerssons paket till Centerpartiet har varit ett grupparbete mellan M, KD och L. Den svåraste knuten är inte sakpolitiken utan hur kontakterna med SD ska se ut den kommande mandatperioden. – En minoritetsregering kommer att behöva samtala med SD, säger en L-källa med god insyn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "L source: Kristersson government will need to cooperate with SD",
+        "summary": "Kristersson's package to the Centre Party has been a joint effort between M, KD and L. The hardest knot is not policy but what contacts with SD should look like in the coming term. – A minority government will need to talk to SD, says an L source with good insight."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
+      }
+    },
+    {
+      "id": "34beea3ec020",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/22xsNbYnBQ5hp1gsRfqpGm/huvudpersonernas-haelsningar-efter-totalpaketens-deadline",
+      "guid": "22xsNbYnBQ5hp1gsRfqpGm",
+      "published_at": "2026-11-13T18:23:36+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Huvudpersonernas hälsningar – efter ”totalpaketens” deadline",
+        "summary": "”Kommer gå igenom förslagen noggrant”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The main players' greetings – after the 'total packages' deadline",
+        "summary": "'Will go through the proposals carefully'"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
+      }
+    },
+    {
+      "id": "488bde2c7101",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/varnar-for-intern-splittring-i-c-vore-forodande-att-slappa-in",
+      "guid": "https://www.svt.se/nyheter/inrikes/varnar-for-intern-splittring-i-c-vore-forodande-att-slappa-in",
+      "published_at": "2026-11-13T17:52:34+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Varnar för intern splittring i C: ”Vore förödande att släppa in”",
+        "summary": "C-ledaren Elisabeth Thand Ringqvist har tagit emot totalpaketen från S och M. Nu står hennes parti inför ett vägval och flera personer varnar för intern splittring. – Det vore förödande att släppa in V, säger en C-källa.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Warns of internal split in C: 'Would be devastating to let in'",
+        "summary": "C leader Elisabeth Thand Ringqvist has received the total packages from S and M. Now her party faces a crossroads and several people warn of an internal split. – It would be devastating to let V in, says a C source."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
+      }
+    },
+    {
+      "id": "12f098ecfa6e",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/centerledaren-har-fatt-totalpaket-fran-s-och-m",
+      "guid": "https://www.dn.se/sverige/centerledaren-har-fatt-totalpaket-fran-s-och-m/",
+      "published_at": "2026-11-13T17:38:01+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/62c42407-975a-417a-b7fc-cad4a32a85ee.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Centerledaren har fått ”totalpaket” från S och M",
+        "summary": "C-ledarens statsministerkandidater har lämnat in varsitt ”totalpaket”. Magdalena Andersson (S) föreslår en regering med C, S och MP. Ulf Kristersson (M) föreslår en regering med C, M, KD och L.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre Party leader has received 'total packages' from S and M",
+        "summary": "The C leader's prime ministerial candidates have each handed in a 'total package'. Magdalena Andersson (S) proposes a government of C, S and MP. Ulf Kristersson (M) proposes a government of C, M, KD and L."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
+      }
+    },
+    {
+      "id": "85ee6c19d172",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/forsta-budgeten-for-nya-styret-sa-ska-sala-fa-ordning-pa-ekonomin",
+      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/forsta-budgeten-for-nya-styret-sa-ska-sala-fa-ordning-pa-ekonomin",
+      "published_at": "2026-11-13T17:11:47+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Första budgeten för nya styret – så ska Sala få ordning på ekonomin",
+        "summary": "Runt 90 miljoner underskott behöver återställas i Sala. Nu har det nya politiska styret presenterat sitt budgetförslag. – Det här är en budget med ett förändringstänk i grunden, säger Erik Hamrin (M), som föreslås bli kommunstyrelsens nya ordförande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "First budget for the new leadership – how Sala will get its finances in order",
+        "summary": "A deficit of around SEK 90 million needs to be restored in Sala. Now the new political leadership has presented its budget proposal. – This is a budget with a mindset of change at its core, says Erik Hamrin (M), who is proposed as the new chair of the municipal executive board."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
+      }
+    },
+    {
+      "id": "9d8d54f442b9",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/deadline-for-totalpaket-har-lopt-ut",
+      "guid": "https://www.svt.se/nyheter/inrikes/deadline-for-totalpaket-har-lopt-ut",
+      "published_at": "2026-11-13T17:06:23+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Deadline för ”totalpaket” har löpt ut – C har tagit emot förslagen",
+        "summary": "Nu har deadline löpt ut för när Moderaterna och Socialdemokaterna behöver lämna in sina ”totalpaket” till Centerpartiet. Centerpartiet meddelar på fredagskvällen att de har tagit emot båda paketen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Deadline for 'total packages' has passed – C has received the proposals",
+        "summary": "The deadline has now passed for when the Moderates and the Social Democrats needed to hand in their 'total packages' to the Centre Party. The Centre Party announced on Friday evening that it has received both packages."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
+      }
+    },
+    {
+      "id": "a0cd2ba5e6fc",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2qzSDs8cgT9qeuJP8WHdIZ/haer-aer-moderaternas-lockbeten-i-totalpaketet-till-centerpartiet",
+      "guid": "2qzSDs8cgT9qeuJP8WHdIZ",
+      "published_at": "2026-11-13T16:28:04+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Här är M:s lockbeten i totalpaketet till C",
+        "summary": "Enligt uppgifter till TV4 Nyheterna • M-källa: ”Mycket bra för C”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here are M's sweeteners in the total package for C",
+        "summary": "According to information given to TV4 Nyheterna • M source: 'Very good for C'"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
+      }
+    },
+    {
+      "id": "02c367b534f2",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/myra-ahbeck-ohrman-kvinnohat-fungerar-som-en-organiserande-kraft-i-ytterhogern-myra-ahbeck-ohrman",
+      "guid": "https://www.dn.se/kultur/myra-ahbeck-ohrman-kvinnohat-fungerar-som-en-organiserande-kraft-i-ytterhogern-myra-ahbeck-ohrman/",
+      "published_at": "2026-11-13T16:18:39+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/a1f2b085-d77d-4373-99a4-89798c44d4c3.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Myra Åhbeck Öhrman: Det handlar inte om enskilda mäns dåliga omdöme",
+        "summary": "Avslöjandet om sexuella trakasserier och ofredanden i Ungsvenskarna är förfärande läsning – men också obehagligt välbekant. Myra Åhbeck Öhrman, som under flera år granskat ytterhögern, skriver om berättelser hon aldrig glömmer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Myra Åhbeck Öhrman: It is not about individual men's poor judgement",
+        "summary": "The revelation of sexual harassment and molestation in Ungsvenskarna is horrifying reading – but also uncomfortably familiar. Myra Åhbeck Öhrman, who has scrutinised the far right for several years, writes about stories she never forgets."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
+      }
+    },
+    {
+      "id": "f1941843513c",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/podd/alskade-politik/har-centerledaren-en-hemlig-lonndorr",
+      "guid": "https://www.dn.se/podd/alskade-politik/har-centerledaren-en-hemlig-lonndorr/",
+      "published_at": "2026-11-13T16:17:32+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/gcs/bilder/podspace/aanhaexbqpr2ag6wh5oah2nc7j5idaad3yqfi52ni5ypxeczi7ea.png?io=1&width=1000",
+      "sv": {
+        "title": "Har Centerledaren en hemlig lönndörr?",
+        "summary": "Crunch time i regeringsfrågan när Centerledarens deadline infinner sig. Är kraven bara charader?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Does the Centre Party leader have a secret trapdoor?",
+        "summary": "Crunch time on the government question as the Centre Party leader's deadline arrives. Are the demands just charades?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
+      }
+    },
+    {
+      "id": "b449d956f884",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6vgWpFvKolNJ7vCawrGPlK/sd-politiker-avgar-efter-avsloejande-om-skulder",
+      "guid": "6vgWpFvKolNJ7vCawrGPlK",
+      "published_at": "2026-11-13T13:30:23+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "SD-politiker avgår efter avslöjande om skulder",
+        "summary": "När Kalla fakta publicerade sin stora kartläggning av landets över 21 000 folkvalda i kommuner, regioner och riksdag placerade sig Terese Wennerstrand (SD) på en tiondeplats över de med störst privata skulder hos Kronofogden. Hennes åtta olika skulder är på totalt 1,99 miljoner kronor.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "SD politician resigns after revelation about debts",
+        "summary": "When Kalla fakta published its major survey of the country's more than 21,000 elected representatives in municipalities, regions and the Riksdag, Terese Wennerstrand (SD) placed tenth among those with the largest private debts at the Enforcement Authority. Her eight different debts total SEK 1.99 million."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
+      }
+    },
+    {
+      "id": "872ca7d99682",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/MO2lNPXbK6hn9wuK9E7xr/c-tyckare-slaepp-in-v-i-regeringen",
+      "guid": "MO2lNPXbK6hn9wuK9E7xr",
+      "published_at": "2026-11-13T12:02:01+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Svensk politik"
+      ],
+      "sv": {
+        "title": "C-tyckare: Släpp in V i regeringen",
+        "summary": "”Mindre farligt att ge dem några ministerposter”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C commentator: Let V into the government",
+        "summary": "'Less dangerous to give them a few ministerial posts'"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:00:40+01:00"
+      }
+    },
+    {
+      "id": "c1fa052f98e1",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/frustrationen-okar-i-miljopartiet-inte-vi-som-ar-problemet",
+      "guid": "https://www.dn.se/sverige/frustrationen-okar-i-miljopartiet-inte-vi-som-ar-problemet/",
+      "published_at": "2026-11-13T11:21:05+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/524e6b29-b361-45d6-859b-97efd226e298.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Frustrationen ökar i Miljöpartiet: ”Inte vi som är problemet”",
+        "summary": "Frustrationen ökar lokalt i Miljöpartiet, enligt flera företrädare som DN har talat med. Det finns en oro över att regeringsmakten kan glida de rödgröna ur händerna – och över det hårda tonläget partierna emellan. – Risken är att man skapar låsningar som inte behöver finnas, säger en lokal MP-topp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Frustration grows in the Green Party: 'We are not the problem'",
+        "summary": "Frustration is growing locally in the Green Party, according to several representatives DN has spoken to. There is concern that government power could slip out of the red-greens' hands – and about the harsh tone between the parties. – The risk is that you create deadlocks that do not need to exist, says a local MP leader."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:00:40+01:00"
+      }
+    },
+    {
+      "id": "9e1d748f5b05",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/sa-har-det-svangt-i-jakten-pa-en-ny-regering",
+      "guid": "https://www.dn.se/sverige/sa-har-det-svangt-i-jakten-pa-en-ny-regering/",
+      "published_at": "2026-11-13T10:45:41+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/0d65e24d-4ad7-4b23-b43a-2bf69624177e.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Så har det svängt i jakten på en ny regering",
+        "summary": "Efter det jämna valresultatet har turerna i regeringsfrågan avlöst varandra. Sverige står fortfarande utan ny regering. Här är de viktigaste vändningarna sedan valet den 13 september.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How the hunt for a new government has swung back and forth",
+        "summary": "After the close election result, the twists in the government question have followed one after another. Sweden is still without a new government. Here are the most important turns since the election on 13 September."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:00:40+01:00"
+      }
+    },
+    {
+      "id": "4e9a43a8f5a6",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/i-dag-vill-c-ha-besked-fran-andersson-och-kristersson",
+      "guid": "https://www.dn.se/sverige/i-dag-vill-c-ha-besked-fran-andersson-och-kristersson/",
+      "published_at": "2026-11-13T10:45:34+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/1fa0ecea-5eb3-43b8-889f-838e0771e8b1.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "I dag vill C ha besked från Andersson och Kristersson",
+        "summary": "Sanningens minut väntar i regeringsfrågan. I alla fall för Centerpartiet. I dag klockan 17.00 har man satt tidsgränsen för Magdalena Andersson och Ulf Kristersson att lämna sina politiska alternativ för C att ta ställning till.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Today C wants answers from Andersson and Kristersson",
+        "summary": "The moment of truth awaits in the government question. At least for the Centre Party. Today at 17.00 is the deadline set for Magdalena Andersson and Ulf Kristersson to submit their political alternatives for C to consider."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:00:40+01:00"
+      }
+    },
+    {
+      "id": "fb49f297aea0",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/centerpartiets-valjare-ser-hellre-alliansregering-an-v-i-regering",
+      "guid": "https://www.svt.se/nyheter/inrikes/centerpartiets-valjare-ser-hellre-alliansregering-an-v-i-regering",
+      "published_at": "2026-11-13T10:25:11+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Centerpartiets väljare ser hellre alliansregering än V i regering",
+        "summary": "Centerpartiets väljare vill helst sitta i regering med Magdalena Andersson – förutsatt att Vänsterpartiet hålls utanför. Annars föredrar de en alliansregering som släpps fram av SD, visar en undersökning från Indikator opinion.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Centre Party voters would rather see an Alliance government than V in government",
+        "summary": "Centre Party voters would most like to sit in government with Magdalena Andersson – provided the Left Party is kept out. Otherwise they prefer an Alliance government tolerated by SD, a survey by Indikator opinion shows."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:00:40+01:00"
+      }
+    },
+    {
+      "id": "85fdbf9cf3e9",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/v-valjare-hellre-regering-utan-vansterpartiet-an-extraval",
+      "guid": "https://www.svt.se/nyheter/inrikes/v-valjare-hellre-regering-utan-vansterpartiet-an-extraval",
+      "published_at": "2026-11-12T21:07:45+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "V-väljare: Hellre regering utan Vänsterpartiet än extraval",
+        "summary": "V-väljare ser helst en rödgrön fyrpartiregering – men om valet står mellan ett extraval eller stå utanför en regering med S, MP och C, då föredrar de det senare. Det visar en mätning som Indikator opinion gjort för SVT:s räkning.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "V voters: Rather a government without the Left Party than a snap election",
+        "summary": "V voters would most like to see a red-green four-party government – but if the choice is between a snap election or standing outside a government of S, MP and C, they prefer the latter. That is shown by a poll Indikator opinion conducted for SVT."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:00:40+01:00"
+      }
+    },
+    {
+      "id": "de4d0814d674",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3UGLrSPkdj36757azJXISZ/ssu-s-vrede-mot-muf-taevlingen-drar-mot-en-trollfabrik",
+      "guid": "3UGLrSPkdj36757azJXISZ",
+      "published_at": "2026-11-12T20:43:08+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Svensk politik"
+      ],
+      "sv": {
+        "title": "SSU rasar mot Muf-tävlingen: ”Drar mot en trollfabrik”",
+        "summary": "TV4 Nyheterna kunde igår avslöja att Moderata ungdomsförbundet, Muf, hade en intern propagandatävling under valrörelsen. Syftet var att få medlemmarna att publicera filmklipp på sociala medier. Bäst genomslag belönades varje vecka med ett presentkort på tusen kronor.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "SSU rages at the Muf contest: 'Drifting towards a troll factory'",
+        "summary": "TV4 Nyheterna revealed yesterday that the Moderate Youth League, Muf, held an internal propaganda contest during the election campaign. The aim was to get members to publish video clips on social media. The best impact was rewarded each week with a gift card worth SEK 1,000."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:00:40+01:00"
+      }
+    },
+    {
+      "id": "7cbf1c8908ad",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/nastan-omojligt-forena-nyliberalism-och-kommunism",
+      "guid": "https://www.dn.se/insandare/nastan-omojligt-forena-nyliberalism-och-kommunism/",
+      "published_at": "2026-11-12T20:02:41+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/187444f6-46f1-4172-ae52-63c8cc16078a.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Nästan omöjligt förena nyliberalism och kommunism",
+        "summary": "INSÄNDARE. Om S-ledaren Magdalena Andersson lyckas bilda regering med stöd av både Vänsterpartiet och Centerpartiet kan hon att gå till historien. Det existerar en ekonomisk avgrund mellan dessa partier, och för att överbrygga den krävs förmodligen en närmast övernaturlig förmåga, skriver Lars…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Letter. Almost impossible to reconcile neoliberalism and communism",
+        "summary": "LETTER. If S leader Magdalena Andersson succeeds in forming a government with the support of both the Left Party and the Centre Party, she could go down in history. There is an economic chasm between these parties, and bridging it probably requires an almost supernatural ability, writes Lars…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:00:40+01:00"
+      }
+    },
+    {
+      "id": "e215b18f2460",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/debatt/sverige-leder-omstallningen-mot-nettonoll-aven-om-det-inte-later-sa",
+      "guid": "https://www.dn.se/debatt/sverige-leder-omstallningen-mot-nettonoll-aven-om-det-inte-later-sa/",
+      "published_at": "2026-11-12T20:00:00+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/b520c6b4-14d6-4e86-b5ec-58124c3a29c8.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "DN Debatt. ”Sverige leder omställningen mot nettonoll – även om det inte låter så”",
+        "summary": "DN DEBATT. Framöver bör tre principer utgöra Sveriges linje i EU:s klimatförhandlingar: billigare elektrifiering, ingen acceptans för att produktion flyttar utomlands och en utfasning av de nationella klimatmålen i förmån för den gemensamma utsläppshandeln, skriver André Nilsson, näringspolitisk…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "DN Debatt. 'Sweden leads the transition to net zero – even if it doesn't sound like it'",
+        "summary": "DN DEBATT. Going forward, three principles should form Sweden's line in the EU's climate negotiations: cheaper electrification, no acceptance of production moving abroad and a phasing out of the national climate targets in favour of the common emissions trading system, writes André Nilsson, industrial policy…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:00:40+01:00"
+      }
+    },
+    {
+      "id": "6135458dfd9a",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2aPkYi6aT6nYGgQxuZY0d4/sd-ledamot-avgar-efter-anklagelser-om-sexuella-oevertramp",
+      "guid": "2aPkYi6aT6nYGgQxuZY0d4",
+      "published_at": "2026-11-12T18:23:46+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "SD-ledamot avgår – anklagas för gränslöst sexuellt beteende",
+        "summary": "Dagens Nyheter har granskat hur unga kvinnor behandlas inom Sverigedemokraterna. I en första del av granskningen vittnar en stor del tjejer om hur de utsatts för oönskade närmanden och sexuellt våld av killar de träffat i Ungsvenskarna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "SD member resigns – accused of boundary-crossing sexual behaviour",
+        "summary": "Dagens Nyheter has investigated how young women are treated within the Sweden Democrats. In a first part of the investigation, a large number of girls testify to how they were subjected to unwanted advances and sexual violence by boys they met in Ungsvenskarna."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:00:40+01:00"
+      }
+    },
+    {
+      "id": "d2ab517f174f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/regeringens-morka-facit-sverige-langre-fran-att-na-klimatmalen",
+      "guid": "https://www.svt.se/nyheter/inrikes/regeringens-morka-facit-sverige-langre-fran-att-na-klimatmalen",
+      "published_at": "2026-11-12T10:43:17+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Gapet växer – klimatmålen allt längre bort",
+        "summary": "Sverige ser ut att missa alla klimatmål – och gapet till att nå målen har ökat senaste året. Det framgår av den övergångsbudget som regeringen presenterade idag. Både avståndet till målet för 2030 och målet till 2045 har ökat enligt regeringens bedömning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The gap grows – climate targets ever further away",
+        "summary": "Sweden looks set to miss all its climate targets – and the gap to reaching them has widened in the past year. That emerges from the transitional budget the government presented today. Both the distance to the 2030 target and to the 2045 target have increased according to the government's assessment."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:02:05+01:00"
+      }
+    },
+    {
+      "id": "24c0a0828571",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6fdHCUFfihxCWFjIA8WY3W/nu-presenteras-oevergangsbudgeten",
+      "guid": "6fdHCUFfihxCWFjIA8WY3W",
+      "published_at": "2026-11-12T08:05:30+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Ekonomi"
+      ],
+      "sv": {
+        "title": "Nya budgeten presenterad: ”Ett speciellt politiskt läge”",
+        "summary": "Eftersom Sverige ännu saknar en ny regering lägger finansministern fram en så kallad övergångsbudget. – Vi befinner oss i ett speciellt politiskt läge. Regeringsbildningen tar tid och vi behöver förhålla oss till det.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "New budget presented: 'A special political situation'",
+        "summary": "Since Sweden still lacks a new government, the finance minister is presenting a so-called transitional budget. – We are in a special political situation. The government formation is taking time and we need to deal with that."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:02:05+01:00"
+      }
+    },
+    {
+      "id": "11a24d981538",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/dyrare-diesel-kungligt-kalas-och-fangelseplatser-det-innehaller-budgeten",
+      "guid": "https://www.svt.se/nyheter/inrikes/dyrare-diesel-kungligt-kalas-och-fangelseplatser-det-innehaller-budgeten",
+      "published_at": "2026-11-12T08:00:04+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Dyrare diesel, kungligt kalas och fängelseplatser – det innehåller budgeten",
+        "summary": "Idag presenterar Elisabeth Svantesson (M) sin övergångsbudget. Den har tagits fram utifrån strikta regler, men finansministern har ändå gjort vissa undantag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dearer diesel, royal celebration and prison places – this is what the budget contains",
+        "summary": "Today Elisabeth Svantesson (M) presents her transitional budget. It has been drawn up under strict rules, but the finance minister has still made certain exceptions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:02:05+01:00"
+      }
+    },
+    {
+      "id": "1a2b6832b7c1",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/overgangsbudgeten-presenteras-idag-utan-partipolitiska-satsningar",
+      "guid": "https://www.svt.se/nyheter/inrikes/overgangsbudgeten-presenteras-idag-utan-partipolitiska-satsningar",
+      "published_at": "2026-11-12T06:00:22+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Övergångsbudgeten presenteras idag – utan partipolitiska satsningar",
+        "summary": "Sverige saknar fortfarande en regering. I och med detta presenterar idag finansminister Elisabeth Svantesson(M) en så kallad övergångsbudget – helt tom på partipolitik och nya satsningar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Transitional budget presented today – without party-political initiatives",
+        "summary": "Sweden still lacks a government. Because of this, Finance Minister Elisabeth Svantesson (M) today presents a so-called transitional budget – completely free of party politics and new initiatives."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:02:05+01:00"
+      }
+    },
+    {
+      "id": "12ad0c2c8d3a",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3duiwxGHRDQgs1XuDL4nu5/tidigare-partimedlem-trakasserade-sd-toppen-i-aratal",
+      "guid": "3duiwxGHRDQgs1XuDL4nu5",
+      "published_at": "2026-11-11T21:55:11+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Tidigare partimedlem trakasserade SD-toppen i åratal",
+        "summary": "Mannen som nu belagts med kontaktförbud var tidigare medlem i Sverigedemokraterna. När han uteslöts av partistyrelsen 2022 hade Tobias Andersson och andra partimedlemmar försökt nå fram till honom, säger Andersson i förhör.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Former party member harassed SD leader for years",
+        "summary": "The man who has now been placed under a restraining order was previously a member of the Sweden Democrats. When he was expelled by the party board in 2022, Tobias Andersson and other party members had tried to reach him, Andersson says in a police interview."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:02:05+01:00"
+      }
+    },
+    {
+      "id": "9d72e3280f90",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1eF5VvsYRDBKpVHg7OIr51/folkvalda-har-stora-skulder-laemnar-riksdagsuppdrag",
+      "guid": "1eF5VvsYRDBKpVHg7OIr51",
+      "published_at": "2026-11-11T20:19:37+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Folkvalda har stora skulder – lämnar riksdagsuppdrag",
+        "summary": "Under måndagen kunde TV4 Nyheterna och Kalla fakta avslöja att närmare 400 politiker i Sverige är skuldsatta hos Kronofogden. Den fortsatta granskningen visar att det också finns det tre folkvalda i riksdagen, alla ersättare, med skulder hos Kronofogden.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Elected representatives have large debts – leave Riksdag posts",
+        "summary": "On Monday TV4 Nyheterna and Kalla fakta revealed that close to 400 politicians in Sweden have debts registered with the Enforcement Authority. The continued investigation shows that there are also three elected members of the Riksdag, all substitutes, with debts at the Enforcement Authority."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:02:05+01:00"
+      }
+    },
+    {
+      "id": "ca342611ff5c",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/podd/spotlight/knull-och-suparkonferenser-vittnesmalen-inifran-ungsvenskarna",
+      "guid": "https://www.dn.se/podd/spotlight/knull-och-suparkonferenser-vittnesmalen-inifran-ungsvenskarna/",
+      "published_at": "2026-11-11T05:50:00+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/gcs/bilder/podspace/herabpdf65vqsf2ummspejuz2dnt4od6vpf5lv6qyuo6x3cfiota.png?io=1&width=1000",
+      "sv": {
+        "title": "”Knull- och suparkonferenser” – vittnesmålen inifrån Ungsvenskarna",
+        "summary": "De unga kvinnorna skulle bli framtidens SD-politiker. Varje år ses de med andra likasinnade på Ungsvenskarnas konferenser, där förbundet kan boka upp hela hotell och sportväskor packas fulla av spritflaskor.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "'Shagging and boozing conferences' – the testimonies from inside Ungsvenskarna",
+        "summary": "The young women were to become the SD politicians of the future. Every year they meet like-minded people at Ungsvenskarna's conferences, where the league can book entire hotels and sports bags are packed full of bottles of spirits."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:02:05+01:00"
+      }
+    },
+    {
+      "id": "0586047de522",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/podd/armstrong-sokolnicki/basta-losningen-ar-att-avskaffa-regeringen",
+      "guid": "https://www.dn.se/podd/armstrong-sokolnicki/basta-losningen-ar-att-avskaffa-regeringen/",
+      "published_at": "2026-11-10T01:00:00+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/gcs/bilder/podspace/qyfpdztc7qht4mkzodijecezjvfiru2taq6ksfflivdypn3u52la.png?io=1&width=1000",
+      "sv": {
+        "title": "”Bästa lösningen är att avskaffa regeringen”",
+        "summary": "Efter helgens politiska drama gör Amanda och Kirsty en djupdykning i de senaste utspelen i regeringskaosets Sverige. Ansvarig utgivare: Peter Wolodarski, Dagens Nyheter AB.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "'The best solution is to abolish the government'",
+        "summary": "After the weekend's political drama, Amanda and Kirsty take a deep dive into the latest moves in government-chaos Sweden. Responsible publisher: Peter Wolodarski, Dagens Nyheter AB."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:02:05+01:00"
       }
     }
   ]

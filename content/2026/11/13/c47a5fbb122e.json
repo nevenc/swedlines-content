@@ -6,7 +6,7 @@
   "guid": "3ryvewnTyEVgWIbF0eDY1c",
   "published_at": "2026-11-13T06:57:01+01:00",
   "fetched_at": "2026-11-14T14:36:04+01:00",
-  "category": "general",
+  "category": "weather",
   "feed_categories": [
     "Vädret"
   ],
@@ -15,7 +15,15 @@
     "summary": "”Kommer att vara besvärligt under dagen”",
     "summary_origin": "feed"
   },
+  "en": {
+    "title": "100 vehicles stuck in the snow – snowploughs cannot get through",
+    "summary": "'Will be difficult during the day'"
+  },
   "translation": {
-    "status": "pending"
+    "status": "done",
+    "provider": "claude-code",
+    "model": "claude-fable-5-1",
+    "prompt_version": "2026-11-14",
+    "translated_at": "2026-11-14T15:00:40+01:00"
   }
 }

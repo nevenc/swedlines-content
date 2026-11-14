@@ -6,7 +6,7 @@
   "guid": "7yx75GPR7FGmyd1XSFaflW",
   "published_at": "2026-11-13T21:01:14+01:00",
   "fetched_at": "2026-11-14T14:36:04+01:00",
-  "category": "general",
+  "category": "world",
   "feed_categories": [
     "/"
   ],
@@ -15,7 +15,15 @@
     "summary": "Svarar snabb: ”Inte förhandlingsbart”",
     "summary_origin": "feed"
   },
+  "en": {
+    "title": "Reports: Russia's demands on Finland during the negotiations",
+    "summary": "Quick reply: 'Not negotiable'"
+  },
   "translation": {
-    "status": "pending"
+    "status": "done",
+    "provider": "claude-code",
+    "model": "claude-fable-5-1",
+    "prompt_version": "2026-11-14",
+    "translated_at": "2026-11-14T14:58:58+01:00"
   }
 }

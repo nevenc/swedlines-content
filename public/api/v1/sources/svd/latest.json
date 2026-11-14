@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:57:13+01:00",
+  "generated_at": "2026-11-14T15:02:05+01:00",
   "count": 42,
   "items": [
     {
@@ -1089,12 +1089,19 @@
       "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79889&utm_medium=rss",
       "published_at": "2026-11-13T21:28:25+01:00",
       "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "general",
+      "category": "sports",
       "sv": {
         "title": "Sverige slår Schweiz i hockeykvartsfinalen"
       },
+      "en": {
+        "title": "Sweden beat Switzerland in the hockey quarter-final"
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
       }
     }
   ]

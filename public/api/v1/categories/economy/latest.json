@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T14:57:13+01:00",
-  "count": 37,
+  "generated_at": "2026-11-14T15:02:05+01:00",
+  "count": 46,
   "items": [
     {
       "id": "12c15247f1bc",
@@ -949,8 +949,16 @@
         "summary": "TOKYO. Japanska folkaktien Softbank har åkt berg-och-dalbana på Tokyobörsen under AI-turbulensen. Både bolaget och dess legendariske grundare Masayoshi Son väcker starka känslor hos invånare som Di talat med i den japanska huvudstaden.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Loved and hated – the pressured people's share that divides Tokyo",
+        "summary": "TOKYO. The Japanese people's share Softbank has been on a roller coaster on the Tokyo stock exchange during the AI turbulence. Both the company and its legendary founder Masayoshi Son stir strong feelings among residents Di has spoken to in the Japanese capital."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
       }
     },
     {
@@ -967,8 +975,16 @@
         "summary": "Facebookägaren Meta Platforms har internt börjat testa en app för så kallade prognosmarknader. Det uppger källor med insyn, enligt Wall Street Journal.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Facebook owner tests app for prediction markets",
+        "summary": "Facebook owner Meta Platforms has internally begun testing an app for so-called prediction markets. So say sources with insight, according to the Wall Street Journal."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
       }
     },
     {
@@ -986,8 +1002,258 @@
         "summary": "Vita husets ekonomiske rådgivare Kevin Hassett har omgetts av rykten att han kommer att tvingas lämna sitt sitt uppdrag. Det förnekas nu av huvudpersonen själv, skriver CNBC.",
         "summary_origin": "feed"
       },
+      "en": {
+        "title": "Trump's adviser denies he is leaving",
+        "summary": "White House economic adviser Kevin Hassett has been surrounded by rumours that he will be forced to leave his post. That is now denied by the man himself, CNBC writes."
+      },
       "translation": {
-        "status": "pending"
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
+      }
+    },
+    {
+      "id": "4d6237ddd37d",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/svenskt-naringsliv-fler-forstadagsintyg-om-karensen-slopas",
+      "guid": "https://www.dn.se/ekonomi/svenskt-naringsliv-fler-forstadagsintyg-om-karensen-slopas/",
+      "published_at": "2026-11-13T14:36:30+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0555f69f-78cc-4829-ab2b-4576b4f1c242.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Svenskt Näringsliv: ”Fler förstadagsintyg om karensen slopas”",
+        "summary": "Slopad karens kan leda till betydligt fler krav på förstadagsintyg. I Svenskt Näringslivs företagarpanel uppger 82 procent att de helt eller troligen skulle begära sådana oftare vid återkommande korttidssjukfrånvaro.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Confederation of Swedish Enterprise: 'More first-day certificates if the waiting day is scrapped'",
+        "summary": "Scrapping the sick-pay waiting day could lead to considerably more demands for first-day medical certificates. In the Confederation of Swedish Enterprise's business panel, 82 per cent say they would definitely or probably request them more often in cases of recurring short-term sick leave."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
+      }
+    },
+    {
+      "id": "ea61b5ebed6d",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/debatt/vi-vill-aterfora-flaskhalsinkomster-till-hart-drabbade-elkunder",
+      "guid": "https://www.dn.se/debatt/vi-vill-aterfora-flaskhalsinkomster-till-hart-drabbade-elkunder/",
+      "published_at": "2026-11-13T14:00:00+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/2611dd27-21be-4976-9f3b-e60eb3aaa342.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "DN Debatt. ”Vi vill återföra flaskhalsinkomster till hårt drabbade elkunder”",
+        "summary": "DN DEBATT. De höga elpriserna slår framför allt mot elkunderna i södra Sverige. Det är inte hållbart i längden. Därför kommer Svenska kraftnät att utmana regelverket med sikte på att återföra delar av flaskhalsinkomsterna – som i år väntas uppgå till minst 30 miljarder – till de hårdast drabbade…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "DN Debatt. 'We want to return congestion income to hard-hit electricity customers'",
+        "summary": "DN DEBATT. The high electricity prices hit electricity customers in southern Sweden above all. That is not sustainable in the long run. Svenska kraftnät will therefore challenge the regulations with the aim of returning parts of the congestion income – expected to amount to at least SEK 30 billion this year – to the hardest hit…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T14:58:58+01:00"
+      }
+    },
+    {
+      "id": "43d9341abd2e",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/330-miljoner-till-satsning-pa-biogasfabrik-i-norrkoping",
+      "guid": "https://www.svt.se/nyheter/lokalt/ost/330-miljoner-till-satsning-pa-biogasfabrik-i-norrkoping",
+      "published_at": "2026-11-13T11:42:19+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "330 miljoner till satsning på biogasfabrik i Norrköping",
+        "summary": "Lantmännen planerar att bygga Sveriges största biogasanläggning på Händelö i Norrköping. Nu har Naturvårdsverket beviljat 330 miljoner kronor i investeringsstöd genom Klimatklivet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SEK 330 million for biogas plant investment in Norrköping",
+        "summary": "Lantmännen plans to build Sweden's largest biogas plant at Händelö in Norrköping. The Swedish Environmental Protection Agency has now granted SEK 330 million in investment support through Klimatklivet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:00:40+01:00"
+      }
+    },
+    {
+      "id": "7d65da1a2407",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jamtland/ett-steg-mot-e-metanolfabrik-i-ostersund-uniper-ansoker-om-tillstand",
+      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/ett-steg-mot-e-metanolfabrik-i-ostersund-uniper-ansoker-om-tillstand",
+      "published_at": "2026-11-13T11:15:04+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Ett steg mot e-metanolfabrik i Östersund – Uniper ansöker om tillstånd",
+        "summary": "Nu har en ansökan om att få bygga en fabrik för ett fossilfritt fartygsbränsle i Lugnvik lämnats in till Mark-och miljödomstolen. Energibolaget Uniper hoppas på en snabb process.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "A step towards e-methanol plant in Östersund – Uniper applies for permit",
+        "summary": "An application to build a plant for a fossil-free shipping fuel in Lugnvik has now been submitted to the Land and Environment Court. The energy company Uniper hopes for a quick process."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:00:40+01:00"
+      }
+    },
+    {
+      "id": "780fe16747a8",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/ekonomi/mercedes-stoppar-alla-investeringar-i-tyskland",
+      "guid": "https://www.svt.se/nyheter/ekonomi/mercedes-stoppar-alla-investeringar-i-tyskland",
+      "published_at": "2026-11-13T04:45:18+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Mercedes stoppar alla investeringar i Tyskland",
+        "summary": "Den krisande tyska biltillverkaren Mercedes-Benz meddelar att alla investeringar i Tyskland stoppas och att stängningar av fabriker övervägs.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mercedes halts all investment in Germany",
+        "summary": "The crisis-hit German carmaker Mercedes-Benz announces that all investment in Germany is being halted and that factory closures are being considered."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:00:40+01:00"
+      }
+    },
+    {
+      "id": "dc3df61405dd",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4iIors9B26ocneRiyctxgr/privatleasning-av-bil-oekar-men-faellor-finns",
+      "guid": "4iIors9B26ocneRiyctxgr",
+      "published_at": "2026-11-12T19:28:45+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Privatleasning av bil ökar – fällorna att se upp med",
+        "summary": "Samboparet Helena Benedicks och Andreas Jansson i Östersund är inne på sin tredje bil som de leasar privat. De berättar att de är väldigt nöjda med den här lösningen jämfört med att köpa en bil.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Private car leasing on the rise – the traps to watch out for",
+        "summary": "Cohabiting couple Helena Benedicks and Andreas Jansson in Östersund are on their third privately leased car. They say they are very happy with this solution compared with buying a car."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:00:40+01:00"
+      }
+    },
+    {
+      "id": "7260b4451e45",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3fylF5DExEeMjvFlE3tYmj/ras-efter-otrohetsskandalen-marknaden-reagerar-chockartat",
+      "guid": "3fylF5DExEeMjvFlE3tYmj",
+      "published_at": "2026-11-12T17:05:24+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi"
+      ],
+      "sv": {
+        "title": "Ras efter otrohetsskandalen: ”Marknaden reagerar chockartat”",
+        "summary": "Efter ett extrainsatt styrelsemöte i Nvidia fick Jensen Huang på torsdagen gå. Han lämnar både sin vd-roll men också sin plats i styrelsen. – Det här är väldigt stort. Han har varit en visionär som många har lutat sig mot.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Plunge after the infidelity scandal: 'The market is reacting with shock'",
+        "summary": "After an extraordinary board meeting at Nvidia, Jensen Huang had to go on Thursday. He leaves both his CEO role and his seat on the board. – This is very big. He has been a visionary that many have leaned on."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:02:05+01:00"
+      }
+    },
+    {
+      "id": "3a83de9a67a0",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/smaland/hoga-elpriser-tvingade-bergdala-glashytta-att-halla-stangt",
+      "guid": "https://www.svt.se/nyheter/lokalt/smaland/hoga-elpriser-tvingade-bergdala-glashytta-att-halla-stangt",
+      "published_at": "2026-11-12T13:35:43+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Höga elpriser tvingade Bergdala glashytta att hålla stängt",
+        "summary": "Bergdala glashytta i Lessebo tvingades hålla stängt i tre dagar när elpriserna steg kraftigt. Nu riktar vd Roger Johansson kritik mot politikerna och menar att situationen slår hårt mot mindre företag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "High electricity prices forced Bergdala glassworks to close",
+        "summary": "Bergdala glassworks in Lessebo was forced to close for three days when electricity prices rose sharply. Now CEO Roger Johansson criticises the politicians and says the situation hits smaller companies hard."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:02:05+01:00"
+      }
+    },
+    {
+      "id": "75fd3c1b4cf6",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/smaland/lessebo-paper-tvingas-pausa-produktionen-pa-grund-av-elpriserna",
+      "guid": "https://www.svt.se/nyheter/lokalt/smaland/lessebo-paper-tvingas-pausa-produktionen-pa-grund-av-elpriserna",
+      "published_at": "2026-11-11T16:59:31+01:00",
+      "fetched_at": "2026-11-14T14:36:04+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Lessebo Paper tvingas pausa produktionen på grund av elpriserna",
+        "summary": "De höga elpriserna får konsekvenser för svensk industri. På Lessebo Paper har elkostnaderna blivit så höga att företaget tvingas pausa produktionen under hittills sex dagar. I måndags hade de ett så pass högt elpris som 390 000 kronor för en dags produktion.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lessebo Paper forced to pause production because of electricity prices",
+        "summary": "The high electricity prices are having consequences for Swedish industry. At Lessebo Paper the electricity costs have become so high that the company has been forced to pause production for six days so far. On Monday they faced an electricity price as high as SEK 390,000 for one day's production."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "claude-code",
+        "model": "claude-fable-5-1",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T15:02:05+01:00"
       }
     }
   ]
