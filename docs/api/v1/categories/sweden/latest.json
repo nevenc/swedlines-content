@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-11-14T15:32:54+01:00",
-  "count": 73,
+  "generated_at": "2026-11-14T17:07:54+01:00",
+  "count": 80,
   "items": [
+    {
+      "id": "b651a03d26c3",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/larm-om-bilbrand-emporia-utryms",
+      "guid": "b29698d3-4788-4b6c-8dfb-6666a1c70579",
+      "published_at": "2026-11-14T16:58:42+01:00",
+      "fetched_at": "2026-11-14T17:07:34+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/7f4c5d31-3f56-4eb6-adf0-f57aa84b670a.jpeg?width=600",
+      "sv": {
+        "title": "Branden i Emporiagaraget släckt – utrymningen avbryts",
+        "summary": "Polis och räddningstjänst är fortfarande på plats vid Emporia efter att en bil fattat eld inne i garaget. Branden är nu släckt och människor släpps återigen in i köpcentrat efter den tidigare utrymningen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fire at Emporia garage extinguished – evacuation called off",
+        "summary": "Police and rescue services are still on site at Emporia after a car caught fire inside the garage. The fire is now out and people are being let back into the shopping centre following the earlier evacuation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:47+01:00"
+      }
+    },
+    {
+      "id": "0178d3f446e2",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/KrVdvo/bricanyl-forsvinner-forlossningslakarens-oro",
+      "guid": "https://www.aftonbladet.se/nyheter/a/KrVdvo/bricanyl-forsvinner-forlossningslakarens-oro?utm_medium=rss",
+      "published_at": "2026-11-14T16:50:54+01:00",
+      "fetched_at": "2026-11-14T17:07:31+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/c8ab231d-f9ff-3826-9cbd-1ab5b59c72b1?format=auto&s=65082dbe77174990eca4423b540ae4e8bd9de401&w=1000",
+      "sv": {
+        "title": "Läkarens oro – livsviktig förlossningsmedicin försvinner",
+        "summary": "”Kan inte bedriva säker förlossningsvård”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Doctor's concern – vital obstetric medicine disappearing",
+        "summary": "\"Cannot provide safe obstetric care\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:47+01:00"
+      }
+    },
+    {
+      "id": "2a90094a9563",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9341024",
+      "guid": "rss:sr.se/article/9341024",
+      "published_at": "2026-11-14T16:47:00+01:00",
+      "fetched_at": "2026-11-14T17:07:30+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "FHM: Färre vaccinerade försvårar stopp av mässlingsutbrott",
+        "summary": "Utvecklingen i USA, med stigande antal mässlingsfall, visar hur snabbt mässling får fäste när vaccinationstäckningen sjunker, enligt Folkhälsomyndigheten. ”Det som händer är att det blir mycket svårare att stoppa utbrott”, säger statsepidemiolog Anders Johansson.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Public Health Agency: Fewer vaccinated makes it harder to stop measles outbreak",
+        "summary": "Developments in the USA, with rising numbers of measles cases, show how quickly measles takes hold when vaccination coverage falls, according to the Public Health Agency. \"What is happening is that it is becoming much harder to stop outbreaks,\" says state epidemiologist Anders Johansson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:47+01:00"
+      }
+    },
+    {
+      "id": "2bd9a1457cba",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/efter-larm-om-tafsande-i-sjobo-larare-anstalldes-pa-skola-i-lund",
+      "guid": "5013caba-2c17-4af1-80ea-384fd4f83f91",
+      "published_at": "2026-11-14T16:00:00+01:00",
+      "fetched_at": "2026-11-14T17:07:34+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Efter larm om tafsande i Sjöbo – lärare anställdes på skola i Lund",
+        "summary": "Elever larmade i åratal om att Lundaläraren var närgången och gjorde sexistiska uttalanden. Mannen har nu anmälts till Lärarnas ansvarsnämnd.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After alarm over groping in Sjöbo – teacher hired at school in Lund",
+        "summary": "Pupils raised the alarm for years that the Lund teacher was overly familiar and made sexist remarks. The man has now been reported to the Teachers' Responsibility Board."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:54+01:00"
+      }
+    },
+    {
+      "id": "96b29a8a2d4c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/batteriet-exploderar-familjens-hus-brinner-ner-",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/batteriet-exploderar-familjens-hus-brinner-ner-",
+      "published_at": "2026-11-14T15:53:37+01:00",
+      "fetched_at": "2026-11-14T17:07:32+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Cykelbatteriet exploderar – familjens hus brinner ner",
+        "summary": "Elcykelbatteriet exploderar • Familjens hus i lågor",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "E-bike battery explodes – family's house burns down",
+        "summary": "E-bike battery explodes • Family's house in flames"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:54+01:00"
+      }
+    },
+    {
+      "id": "c0cf1dd56dc2",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/12gitoteMZljwIpeErMPqk/mamman-sag-barnen-scrolla-i-staellet-foer-att-dansa-ett-dystopidisco",
+      "guid": "12gitoteMZljwIpeErMPqk",
+      "published_at": "2026-11-14T15:42:25+01:00",
+      "fetched_at": "2026-11-14T17:07:32+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Mamman såg barnen scrolla i stället för att dansa: ”Ett dystopidisco”",
+        "summary": "När Therése Berglin kom hem från dotterns skoldisco på fredagskvällen kunde hon inte släppa det hon hade sett. Hon satte sig och skrev ett inlägg på Instagram om barns skärmanvändning. ”Vi behöver inte mer forskning. Svaret är här, mitt framför ögonen på oss.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Mother watched children scroll instead of dance: \"A dystopia disco\"",
+        "summary": "When Therése Berglin came home from her daughter's school disco on Friday evening she could not let go of what she had seen. She sat down and wrote an Instagram post about children's screen use. \"We don't need more research. The answer is here, right in front of our eyes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:54+01:00"
+      }
+    },
+    {
+      "id": "459e8d5db702",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/tufft-jobb-att-leverera-mat-till-aldreboenden-i-umea-under-snokaoset",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/tufft-jobb-att-leverera-mat-till-aldreboenden-i-umea-under-snokaoset",
+      "published_at": "2026-11-14T15:37:25+01:00",
+      "fetched_at": "2026-11-14T17:07:29+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Tufft jobb att leverera mat till äldreboenden i Umeå under snökaoset",
+        "summary": "Att få ut rullvagnarna med mat till äldreboendena under snöstormen i norr var tufft. Men det måste göras. – Vi har ett jobb att sköta 365 dagar om året, vi åker i alla väder, säger chauffören Mathias Gerström.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tough job delivering meals to elderly care homes in Umeå amid snow chaos",
+        "summary": "Getting trolleys of food to elderly care homes during the snowstorm in the north was tough. But it had to be done. \"We have a job to do 365 days a year, we drive in all weather,\" says driver Mathias Gerström."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:54+01:00"
+      }
+    },
     {
       "id": "8c9528139010",
       "schema_version": 1,

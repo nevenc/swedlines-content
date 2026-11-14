@@ -1,7 +1,275 @@
 {
-  "generated_at": "2026-11-14T15:32:54+01:00",
-  "count": 49,
+  "generated_at": "2026-11-14T17:07:54+01:00",
+  "count": 61,
   "items": [
+    {
+      "id": "1ce813558abb",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/solsken-och-ljusinslapp-saljer-bostader-men-maklarfotografen-varnar",
+      "guid": "be82b4b8-12aa-4264-afc3-af2c58a0328a",
+      "published_at": "2026-11-14T17:00:00+01:00",
+      "fetched_at": "2026-11-14T17:07:34+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/56b86535-52dc-402e-89c2-e6b90b754794.jpeg?width=600",
+      "sv": {
+        "title": "Solsken och ljusinsläpp säljer bostäder – men mäklarfotografen varnar",
+        "summary": "Markus Linderoth har jobbat som bostadsfotograf på en av Malmös största mäklarbyråer i tretton år. Han tycker att användningen av AI-bilder i bostadsannonser har gått för långt. – Om jag fick bestämma så tycker jag att det inte ska vara någon AI-redigering alls, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sunshine and daylight sell homes – but the estate agency photographer warns",
+        "summary": "Markus Linderoth has worked as a property photographer for one of Malmö's largest estate agencies for thirteen years. He feels that the use of AI-generated images in property listings has gone too far. \"If I got to decide, I think there should be no AI editing at all,\" he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:47+01:00"
+      }
+    },
+    {
+      "id": "7b9eae4d9d7a",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9341046",
+      "guid": "rss:sr.se/article/9341046",
+      "published_at": "2026-11-14T16:51:00+01:00",
+      "fetched_at": "2026-11-14T17:07:30+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Risk för ännu högre elpriser efter reaktorstopp i Forsmark",
+        "summary": "Det kan bli något dyrare el för hushåll i södra Sverige nästa vecka på grund av stoppet i en reaktor i Forsmark. Men låga vattennivåer i älvarna och höga gaspriser på kontinenten påverkar mer, säger Christian Holz, elmarknadsanalytiker på Polite energy.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Risk of even higher electricity prices after reactor shutdown at Forsmark",
+        "summary": "Households in southern Sweden could face slightly higher electricity prices next week due to the shutdown of a reactor at Forsmark. However, low water levels in the rivers and high gas prices on the continent have a greater impact, says Christian Holz, electricity market analyst at Polite Energy."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:47+01:00"
+      }
+    },
+    {
+      "id": "e3e9c070957b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/forsmarkstopp-kan-ge-dubbel-effekt-pa-elpriset",
+      "guid": "6e400b78-60da-435e-9d91-8e247d4cc38b",
+      "published_at": "2026-11-14T16:43:33+01:00",
+      "fetched_at": "2026-11-14T17:07:34+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d852bd47-e0bf-4b34-8d9f-fcba275b3a56.jpg?width=600",
+      "sv": {
+        "title": "Forsmarkstopp – kan ge ”dubbel effekt” på elpriset",
+        "summary": "Kärnkraftsreaktorn Forsmark 3 har stoppats helt. Nu kan redan höga elpriser stiga ytterligare i nästa vecka. – Stoppet får stora konsekvenser för elpriset i södra Sverige framför allt, säger elmarknadsanalytikern Christian Holtz.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Forsmark shutdown – may have \"double effect\" on electricity price",
+        "summary": "Forsmark 3 nuclear reactor has been fully shut down. Already high electricity prices may now rise further next week. \"The shutdown will have major consequences for the electricity price mainly in southern Sweden,\" says electricity market analyst Christian Holtz."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:47+01:00"
+      }
+    },
+    {
+      "id": "c72fb04df586",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/di-testar-sa-bra-ar-apples-dyraste-mobil",
+      "guid": "c48656b8-0073-48ac-8c5b-6b17ef35087c",
+      "published_at": "2026-11-14T16:42:06+01:00",
+      "fetched_at": "2026-11-14T17:07:33+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/02781b96-50c5-4b47-bfc6-aa60bcc91185.jpeg?width=600",
+      "sv": {
+        "title": "Di testar: Så bra är Apples dyraste mobil",
+        "summary": "Apples dyraste telefon hittills är full av paradoxer. Den har både den största skärmen och den minsta skärmupplevelsen. Apple säger att den passar många. Vi tror att den passar väldigt få.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "We test: How good is Apple's most expensive phone",
+        "summary": "Apple's most expensive phone so far is full of paradoxes. It has both the largest screen and the smallest screen experience. Apple says it suits many people. We think it suits very few."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:47+01:00"
+      }
+    },
+    {
+      "id": "5f4c9945af36",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/kampen-om-elen-hardnar-nar-datacenter-vaxer",
+      "guid": "https://www.dn.se/ekonomi/kampen-om-elen-hardnar-nar-datacenter-vaxer/",
+      "published_at": "2026-11-14T16:39:51+01:00",
+      "fetched_at": "2026-11-14T17:07:30+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/22011e65-6fee-499d-9b3d-78bdd6a9e69c.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Kampen om elen hårdnar när datacenter växer",
+        "summary": "Kön av datacenter hos Svenska kraftnät växer. Samtidigt varnar experter för att kunskapen om datacentrens effekter är liten och ser en oro för skenande elpriser som kan slå mot industrin.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Battle over electricity intensifies as data centres grow",
+        "summary": "The queue of data centres at Svenska kraftnät is growing. At the same time, experts warn that knowledge about the effects of data centres is limited and see concern over runaway electricity prices that could hit industry."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:47+01:00"
+      }
+    },
+    {
+      "id": "291293779efe",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/forvaltaren-ser-inte-koplage-i-nvidia-vanta-och-se",
+      "guid": "5228e6f4-7d0c-42e9-bfc4-baaaaf64d128",
+      "published_at": "2026-11-14T16:39:27+01:00",
+      "fetched_at": "2026-11-14T17:07:33+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/7393c018-6f5a-437c-84c3-b88b1ece722a.png?width=600",
+      "sv": {
+        "title": "Förvaltaren ser inte köpläge i Nvidia: ”Vänta och se”",
+        "summary": "Efter den senaste tidens ras är Nvidia-aktien rekordbillig enligt bedömare. Globalfondsförvaltaren Niklas Lundin på Handelsbanken anser dock inte att det är köpläge än. ”Nu är det mer ett ”vänta och se”-läge”, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fund manager sees no buying opportunity in Nvidia: \"Wait and see\"",
+        "summary": "After the recent plunge, the Nvidia share is record-cheap according to analysts. Global fund manager Niklas Lundin at Handelsbanken does not, however, consider it a buying opportunity yet. \"It is more of a 'wait and see' situation now,\" he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:47+01:00"
+      }
+    },
+    {
+      "id": "cd97d0996ad0",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/motor/darfor-tvekar-svenskarna-kring-elbilskopet",
+      "guid": "https://www.dn.se/motor/darfor-tvekar-svenskarna-kring-elbilskopet/",
+      "published_at": "2026-11-14T16:31:53+01:00",
+      "fetched_at": "2026-11-14T17:07:30+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8bddc223-8882-463d-be8f-c3c2f0d02edf.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Därför tvekar svenskarna kring elbilsköpet",
+        "summary": "Begränsad räckvidd, batterioro och högt inköpspris får svenska bilköpare att tveka inför elbilsköpet. Men av dem som redan har gått den elektriska vägen är valet enklare. Sju av tio uppger att de skulle välja el nästa gång. Det visar en ny rapport från mobilitetsbanken Ziklo Bank.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is why Swedes hesitate over buying an electric car",
+        "summary": "Limited range, battery concerns and high purchase price make Swedish car buyers hesitate about buying an electric car. But among those who have already gone electric, the choice is easier. Seven in ten say they would choose electric next time. This is shown by a new report from mobility bank Ziklo Bank."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:47+01:00"
+      }
+    },
+    {
+      "id": "78e14b844f73",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/totalstopp-pa-karnkraftverk-kan-ge-dubbel-effekt-pa-elpriset",
+      "guid": "2f9054c5-9c95-4c94-8410-d43b17ac1211",
+      "published_at": "2026-11-14T16:31:23+01:00",
+      "fetched_at": "2026-11-14T17:07:33+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e1825ff0-8ae2-4c5d-9686-25ce2f0dec46.jpg?width=600",
+      "sv": {
+        "title": "Totalstopp på kärnkraftverk – kan ge ”dubbel effekt” på elpriset",
+        "summary": "Kärnkraftsreaktorn Forsmark 3 har stoppats helt. Nu kan redan höga elpriser stiga ytterligare i nästa vecka. ”Stoppet får stora konsekvenser för elpriset i södra Sverige framför allt”, säger elmarknadsanalytikern Christian Holtz.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Total shutdown at nuclear plant – may have \"double effect\" on electricity price",
+        "summary": "Forsmark 3 nuclear reactor has been fully shut down. Already high electricity prices may now rise further next week. \"The shutdown will have major consequences for the electricity price mainly in southern Sweden\", says electricity market analyst Christian Holtz."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:47+01:00"
+      }
+    },
+    {
+      "id": "c869fb22e7ee",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/italienska-miljardboter-for-meta",
+      "guid": "a7d7ac5a-800a-478c-b3b0-1a007df7c15c",
+      "published_at": "2026-11-14T16:15:28+01:00",
+      "fetched_at": "2026-11-14T17:07:33+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/11b32ff0-c0e7-4fc7-b700-ae4075cf2d01.jpg?width=600",
+      "sv": {
+        "title": "Italienska miljardböter för Meta",
+        "summary": "Italien bötfäller Facebookägaren Meta med motsvarande nästan 9 miljarder kronor för bolagets hantering av användares bilder.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Italian billion-kronor fine for Meta",
+        "summary": "Italy fines Facebook owner Meta the equivalent of nearly SEK 9 billion for the company's handling of users' images."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:47+01:00"
+      }
+    },
+    {
+      "id": "826275e97b77",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/italienska-miljardboter-for-meta",
+      "guid": "https://www.svt.se/nyheter/utrikes/italienska-miljardboter-for-meta",
+      "published_at": "2026-11-14T15:46:00+01:00",
+      "fetched_at": "2026-11-14T17:07:29+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Italienska miljardböter för Meta",
+        "summary": "Italien bötfäller Facebookägaren Meta med motsvarande nästan nio miljarder kronor för bolagets hantering av användares bilder.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Italian billion-kronor fine for Meta",
+        "summary": "Italy fines Facebook owner Meta the equivalent of almost SEK 9 billion for the company's handling of users' images."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:54+01:00"
+      }
+    },
     {
       "id": "4ad03130760d",
       "schema_version": 1,
@@ -469,6 +737,33 @@
       }
     },
     {
+      "id": "f5da4196162d",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Vxb9wl/totalstopp-pa-forsmark-3",
+      "guid": "https://www.svd.se/a/Vxb9wl/totalstopp-pa-forsmark-3?utm_medium=rss",
+      "published_at": "2026-11-14T09:13:06+01:00",
+      "fetched_at": "2026-11-14T17:07:31+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/a4acfc7c-f84a-3092-8dfe-327a3155ccac?format=auto&s=649e7697c1f5478c17ef151ba26a9f9cc67ec23e&w=1000",
+      "sv": {
+        "title": "Reaktorstopp kan ge ”dubbel effekt” på priset",
+        "summary": "Kärnkraftsreaktorn Forsmark 3 har stoppats helt. Nu kan redan höga elpriser stiga ytterligare i…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reactor shutdown could have \"double effect\" on price",
+        "summary": "The Forsmark 3 nuclear reactor has been fully shut down. Already high electricity prices could now rise further in…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:54+01:00"
+      }
+    },
+    {
       "id": "7e87631250b6",
       "schema_version": 1,
       "source": "di",
@@ -630,6 +925,33 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T14:56:57+01:00"
+      }
+    },
+    {
+      "id": "e4f42bbcbfc9",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/410531/nvidiaskandalen-haer-aer-nya-alice-huang-looken",
+      "guid": "https://tv.aftonbladet.se/video/410531/nvidiaskandalen-haer-aer-nya-alice-huang-looken?utm_medium=rss",
+      "published_at": "2026-11-14T07:24:54+01:00",
+      "fetched_at": "2026-11-14T17:07:31+01:00",
+      "category": "economy",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/e078b72675a4399d88c360b1de63232b.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Nvidiaskandalen: Här är nya ”Alice Huang-looken”",
+        "summary": "Huang-skandalen tar oväntad vändning",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia scandal: Here is the new \"Alice Huang look\"",
+        "summary": "The Huang scandal takes an unexpected turn"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T17:07:54+01:00"
       }
     },
     {
