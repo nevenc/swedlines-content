@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-14T17:07:54+01:00",
-  "count": 38,
+  "generated_at": "2026-11-14T18:42:21+01:00",
+  "count": 40,
   "items": [
+    {
+      "id": "fcd82f759ee6",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/sigtunaskolans-ledning-utbuad--pa-informationsdag-folk-skrek",
+      "guid": "https://www.expressen.se/nyheter/sverige/sigtunaskolans-ledning-utbuad--pa-informationsdag-folk-skrek/",
+      "published_at": "2026-11-14T18:21:44+01:00",
+      "fetched_at": "2026-11-14T18:42:03+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Sigtunaskolans ledning utbuad på informationsdag: ”Folk skrek”",
+        "summary": "Sex elever på Sigtunaskolan misstänks för grova brott mot andra elever. Skolan hade informationsdag på lördagen och föräldrar var mycket kritiska mot ledningen, erfar Expressen. – Folk skrek och buade, säger en person som var på plats.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sigtuna School leadership booed at information day: \"People screamed\"",
+        "summary": "Six students at Sigtunaskolan are suspected of serious crimes against other students. The school held an information day on Saturday, and parents were very critical of the leadership, Expressen reports. \"People screamed and booed,\" says a person who was there."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T18:42:16+01:00"
+      }
+    },
+    {
+      "id": "3dab57b9dc10",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/malmolakare-misshandlade-sin-hoggravida-fru-infor-ogonen-pa-barnen",
+      "guid": "3232eb6a-8742-4eec-898e-59c2e1aead15",
+      "published_at": "2026-11-14T18:00:00+01:00",
+      "fetched_at": "2026-11-14T18:42:05+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/e8eb3590-0d0a-41bc-9f02-5821f35d74ca.jpeg?width=600",
+      "sv": {
+        "title": "Malmöläkare misshandlade sin höggravida fru – inför ögonen på barnen",
+        "summary": "Under flera års tid slog och förnedrade en Malmöläkare sin fru – även när hon var höggravid. Till slut tog kvinnan med sig barnen och flydde. Nu döms läkaren till fängelse. Sannolikt kommer han även att bli av med sin läkarlegitimation.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Malmö doctor abused his heavily pregnant wife – in front of the children",
+        "summary": "For several years a Malmö doctor beat and degraded his wife, even when she was heavily pregnant. Eventually the woman took the children and fled. Now the doctor is sentenced to prison. He will likely also lose his medical licence."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T18:42:16+01:00"
+      }
+    },
     {
       "id": "1790dad0e8e3",
       "schema_version": 1,

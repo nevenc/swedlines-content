@@ -1,7 +1,93 @@
 {
-  "generated_at": "2026-11-14T17:07:54+01:00",
-  "count": 27,
+  "generated_at": "2026-11-14T18:42:21+01:00",
+  "count": 30,
   "items": [
+    {
+      "id": "293a59a8e4f6",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/har-demon-face-syndrome--ser-kattogon-hos-manniskor",
+      "guid": "https://www.expressen.se/nyheter/varlden/har-demon-face-syndrome--ser-kattogon-hos-manniskor/",
+      "published_at": "2026-11-14T18:02:21+01:00",
+      "fetched_at": "2026-11-14T18:42:03+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Har demon face syndrome – ser kattögon hos människor",
+        "summary": "En hjärnoperation räddade hans liv. Men den kom med ett pris. Karl har fått demon face syndrome och ser nu kattögon – hos människor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Has demon face syndrome – sees cat eyes in humans",
+        "summary": "Brain surgery saved his life. But it came at a price. Karl has developed demon face syndrome and now sees cat eyes – in humans."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T18:42:16+01:00"
+      }
+    },
+    {
+      "id": "e7097965ab31",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/sverige/cybersakerhetsexperten-efter-microsoft-strulet-en-bra-laxa.8b724f43-462a-5c50-aa16-0e9c7509fcf5",
+      "guid": "8b724f43-462a-5c50-aa16-0e9c7509fcf5",
+      "published_at": "2026-11-14T18:02:08+01:00",
+      "fetched_at": "2026-11-14T18:42:04+01:00",
+      "category": "science_tech",
+      "feed_categories": [
+        "Sverige",
+        "Tagg: breaking-GP"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/6a66266a-3950-3e67-962a-c6f0c0646cd5",
+      "sv": {
+        "title": "Experten efter strulet: ”Kan smälla hårt”",
+        "summary": "Cybersäkerhetsexpertens råd efter Microsoft-avbrottet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expert after the mess: \"Could hit hard\"",
+        "summary": "Cybersecurity expert's advice after the Microsoft outage."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T18:42:16+01:00"
+      }
+    },
+    {
+      "id": "994650c7a9da",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4xyijSaQxPqnSAtWiLOlCy/sjaelvkoerande-robotar-testas-kan-bli-viktiga-i-framtiden",
+      "guid": "4xyijSaQxPqnSAtWiLOlCy",
+      "published_at": "2026-11-14T17:51:13+01:00",
+      "fetched_at": "2026-11-14T18:42:04+01:00",
+      "category": "science_tech",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Självkörande robotar testas – kan bli viktiga i framtiden",
+        "summary": "Statens väg- och transportforskningsinstitut, VTI, undersöker nu om autonoma fordon i framtiden kan användas för att transportera ut förnödenheter till folk i glesbygd vid kriser. De testar flera olika typer av fordon. Ett av dem är en markrobot från estniska Milrem Robotics.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Self-driving robots tested – could become important in the future",
+        "summary": "The Swedish Road and Transport Research Institute, VTI, is studying whether autonomous vehicles could in the future be used to transport supplies to people in rural areas during crises. They are testing several different types of vehicles, one of which is a ground robot from Estonian company Milrem Robotics."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T18:42:16+01:00"
+      }
+    },
     {
       "id": "54a340530aea",
       "schema_version": 1,

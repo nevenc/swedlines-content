@@ -1,7 +1,124 @@
 {
-  "generated_at": "2026-11-14T17:07:54+01:00",
-  "count": 61,
+  "generated_at": "2026-11-14T18:42:21+01:00",
+  "count": 66,
   "items": [
+    {
+      "id": "6193f8d4b02a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/s-toppen-c-pa-vag-att-kliva-hogerut",
+      "guid": "5770e50e-064d-452b-ba78-30870fabb1e9",
+      "published_at": "2026-11-14T17:58:26+01:00",
+      "fetched_at": "2026-11-14T18:42:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e44456ac-a8d1-4c90-968e-a96db82f4ec1.jpg?width=600",
+      "sv": {
+        "title": "S-toppen: C på väg att kliva högerut",
+        "summary": "Enligt exministern Annika Strandhäll, S-kvinnors ordförande och adjungerad i partiets verkställande utskott, får Socialdemokraterna nu starka signaler om att C är på väg högerut.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Social Democrat leadership: C on the way to move to the right",
+        "summary": "According to former minister Annika Strandhäll, chair of the Social Democrat women and co-opted member of the party's executive committee, the Social Democrats are now receiving strong signals that the C is moving to the right."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T18:42:16+01:00"
+      }
+    },
+    {
+      "id": "304aff7b45b3",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/ekonomi/ar-det-ens-klokt-att-kopa-en-liten-elbil.5fe8342b-5919-5ec7-b534-633f5862931a",
+      "guid": "5fe8342b-5919-5ec7-b534-633f5862931a",
+      "published_at": "2026-11-14T17:49:59+01:00",
+      "fetched_at": "2026-11-14T18:42:04+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi",
+        "Tagg: Volkswagen",
+        "Tagg: Renault",
+        "Tagg: Kia",
+        "Tagg: Räckvidd",
+        "Tagg: Elbilar",
+        "Tagg: Bilar"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/d1494023-3345-3320-8a0b-f1aa2f2c216d",
+      "sv": {
+        "title": "Bästa lilla elbilen – en sak skaver",
+        "summary": "Är det ens klokt att köpa en liten elbil? frågar sig GP:s motorrecensent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Best small electric car – one thing grates",
+        "summary": "Is it even sensible to buy a small electric car? asks GP's motoring reviewer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T18:42:16+01:00"
+      }
+    },
+    {
+      "id": "5a53114459dd",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/0vE5wo/svenska-techbolag-drar-ned-pa-juniorer-nar-ai-effektiviserar",
+      "guid": "https://www.svd.se/a/0vE5wo/svenska-techbolag-drar-ned-pa-juniorer-nar-ai-effektiviserar?utm_medium=rss",
+      "published_at": "2026-11-14T17:28:34+01:00",
+      "fetched_at": "2026-11-14T18:42:02+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/4337a466-adde-3440-a9d8-d3545d1357d6?format=auto&s=f6c82c8b73e5fc6a2fc3a4f1211eea41f3837ca8&w=1000",
+      "sv": {
+        "title": "AI tar juniorjobben – fälla för företagen",
+        "summary": "”Redan nu rekryterar vi inga juniora utvecklare.” Så beskriver ett svenskt techbolag hur…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "AI takes the junior jobs – a trap for companies",
+        "summary": "\"We are not recruiting any junior developers right now.\" That is how a Swedish tech company describes how…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T18:42:21+01:00"
+      }
+    },
+    {
+      "id": "c43f442b5f8c",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/530ndE/jensen-huangs-sista-timmar-pa-nvidia",
+      "guid": "https://www.aftonbladet.se/nyheter/a/530ndE/jensen-huangs-sista-timmar-pa-nvidia?utm_medium=rss",
+      "published_at": "2026-11-14T17:22:23+01:00",
+      "fetched_at": "2026-11-14T18:42:03+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/11f04198-6ee8-3db4-95fa-06dc8de309b1?format=auto&s=e1cca7e9bfa45e465baf80af182fc16eafe89237&w=1000",
+      "sv": {
+        "title": "Jensen Huangs sista timmar på Nvidia",
+        "summary": "Vittnesmål om kaoset på Nvidia",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Jensen Huang's final hours at Nvidia",
+        "summary": "Testimony about the chaos at Nvidia"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T18:42:21+01:00"
+      }
+    },
     {
       "id": "1ce813558abb",
       "schema_version": 1,
@@ -734,6 +851,35 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T14:56:57+01:00"
+      }
+    },
+    {
+      "id": "b8a47855b587",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/tt-261114-forsmarkstopp1-3b546704/forsmarkstopp-kan-ge-dubbel-effekt-pa-elpriset",
+      "guid": "tt-261114-forsmarkstopp1-3b546704",
+      "published_at": "2026-11-14T09:13:06+01:00",
+      "fetched_at": "2026-11-14T18:42:04+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Norge"
+      ],
+      "sv": {
+        "title": "Ännu högre elpriser väntas: ”Stoppet får stora konsekvenser”",
+        "summary": "På lördagsmorgonen rapporterade Aftonbladet att kärnkraftsreaktorn Forsmark 3 stoppats. Därmed står fyra av landets sex reaktorer stilla. Enligt Holtz, elmarknadsanalytiker på Polite Energy, innebär stoppet dels mindre elproduktion i södra Sverige, och dels att det kan bli svårare att föra över el…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Even higher electricity prices expected: \"The shutdown will have major consequences\"",
+        "summary": "On Saturday morning, Aftonbladet reported that the Forsmark 3 nuclear reactor had been shut down. This leaves four of the country's six reactors offline. According to Holtz, an electricity market analyst at Polite Energy, the stoppage means both less electricity production in southern Sweden and that it may become more difficult to transfer electricity…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14",
+        "translated_at": "2026-11-14T18:42:21+01:00"
       }
     },
     {
