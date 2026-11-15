@@ -1,7 +1,135 @@
 {
-  "generated_at": "2026-11-15T08:30:14+01:00",
-  "count": 47,
+  "generated_at": "2026-11-15T10:06:16+01:00",
+  "count": 52,
   "items": [
+    {
+      "id": "a522ecb0b9f3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=c113ea7b-cfe8-435c-9c45-83b7c53f951c",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c113ea7b-cfe8-435c-9c45-83b7c53f951c",
+      "published_at": "2026-11-15T09:40:15+01:00",
+      "fetched_at": "2026-11-15T10:05:48+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Man påkörd – misstänkt mordförsök i Stockholm",
+        "summary": "Misstänkt mordförsök i centrala Stockholm",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man hit by car – suspected attempted murder in Stockholm",
+        "summary": "Suspected attempted murder in central Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T10:06:12+01:00"
+      }
+    },
+    {
+      "id": "e10adc89b79c",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Pv9pg6/tre-doms-till-doden-for-kyrkattack",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Pv9pg6/tre-doms-till-doden-for-kyrkattack?utm_medium=rss",
+      "published_at": "2026-11-15T09:06:19+01:00",
+      "fetched_at": "2026-11-15T10:05:48+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/80ef2bfb-22bb-34ee-8448-53844dd6cdf0?format=auto&s=edd4286c6a728f3fb466a668598cf44e6929f165&w=1000",
+      "sv": {
+        "title": "Tre döms till döden för kyrkattack",
+        "summary": "Tre män döms till döden för att ha skjutit ihjäl nio personer i en kyrka i Jordanien.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Three sentenced to death for church attack",
+        "summary": "Three men are sentenced to death for shooting dead nine people in a church in Jordan."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T10:06:12+01:00"
+      }
+    },
+    {
+      "id": "a29c69ad7f10",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordbrand-i-norrtalje-villa-overtand",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordbrand-i-norrtalje-villa-overtand",
+      "published_at": "2026-11-15T08:56:15+01:00",
+      "fetched_at": "2026-11-15T10:05:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Misstänkt mordbrand i Norrtälje – villa övertänd",
+        "summary": "Polis och räddningstjänst larmades under lördagsnatten till Norrtälje efter larm om en villabrand. Villan var övertänd och man misstänker att en person kan finnas kvar i huset.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspected arson in Norrtälje – house fully ablaze",
+        "summary": "Police and the rescue service were alerted during Saturday night to Norrtälje after an alarm about a house fire. The house was fully ablaze and a person is suspected to still be inside."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T10:06:12+01:00"
+      }
+    },
+    {
+      "id": "9f9799a0d523",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/man-pakord-i-centrala-stockholm-polisen-utreder-mordforsok",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/man-pakord-i-centrala-stockholm-polisen-utreder-mordforsok",
+      "published_at": "2026-11-15T08:46:33+01:00",
+      "fetched_at": "2026-11-15T10:05:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Man påkörd i centrala Stockholm – polisen utreder mordförsök",
+        "summary": "En man blev påkörd av en bil på Kungsgatan i centrala Stockholm under söndagsmorgonen. Polisen utreder händelsen som mordförsök.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man hit by car in central Stockholm – police investigate attempted murder",
+        "summary": "A man was hit by a car on Kungsgatan in central Stockholm on Sunday morning. Police are investigating the incident as attempted murder."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T10:06:15+01:00"
+      }
+    },
+    {
+      "id": "708089864631",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79926",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79926&utm_medium=rss",
+      "published_at": "2026-11-15T08:32:58+01:00",
+      "fetched_at": "2026-11-15T10:05:48+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Man påkörd i centrala Stockholm – förare smet"
+      },
+      "en": {
+        "title": "Man hit by car in central Stockholm – driver fled"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T10:06:15+01:00"
+      }
+    },
     {
       "id": "a90dbde7b6ab",
       "schema_version": 1,
