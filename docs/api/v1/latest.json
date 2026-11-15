@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-15T14:45:42+01:00",
+  "generated_at": "2026-11-15T14:51:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "904542d03fd2",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79934",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79934&utm_medium=rss",
+      "published_at": "2026-11-15T14:45:25+01:00",
+      "fetched_at": "2026-11-15T14:51:52+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisjakt efter Pokémonstöld i Danmark"
+      },
+      "en": {
+        "title": "Police chase after Pokémon theft in Denmark"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T14:51:58+01:00"
+      }
+    },
     {
       "id": "829ebad263e3",
       "schema_version": 1,
@@ -5433,32 +5456,6 @@
       "en": {
         "title": "Reign of terror before the bomb: Hope you die",
         "summary": "Reveals AI top ✓ \"Are you standing there grinning?!\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T01:26:27+01:00"
-      }
-    },
-    {
-      "id": "609e8fd48c1e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/turister-struntade-i-varning-tva-dog",
-      "guid": "https://www.expressen.se/nyheter/varlden/turister-struntade-i-varning-tva-dog/",
-      "published_at": "2026-11-14T23:56:52+01:00",
-      "fetched_at": "2026-11-15T01:26:20+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Turister struntade i varning – två dog",
-        "summary": "De två amerikanerna ignorerade varningen på semesterfavoriten Bahamas. Det blev turisternas död, skriver ABC News.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tourists ignored warning – two died",
-        "summary": "The two Americans ignored the warning at the holiday favourite Bahamas. It became the death of the tourists, writes ABC News."
       },
       "translation": {
         "status": "done",
