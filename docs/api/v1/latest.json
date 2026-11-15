@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-15T18:01:21+01:00",
+  "generated_at": "2026-11-15T18:15:46+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d91d1ae548d2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/flyr-i-panik-100-000-liter-farg-fattar-eld",
+      "guid": "https://www.expressen.se/tv/nyheter/flyr-i-panik-100-000-liter-farg-fattar-eld",
+      "published_at": "2026-11-15T18:02:59+01:00",
+      "fetched_at": "2026-11-15T18:15:40+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Flyr i panik – från eldinfernot",
+        "summary": "100 000 liter färg fattar eld • Stora explosioner",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fleeing in panic from the inferno",
+        "summary": "100,000 litres of paint catch fire • Large explosions"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T18:15:46+01:00"
+      }
+    },
+    {
+      "id": "7c0bd59e230a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/nvidia-och-nibe-rapporterar-detta-hander-i-veckan",
+      "guid": "a4ecc9a9-8fd8-4896-8e8e-b36b95e1de0b",
+      "published_at": "2026-11-15T18:02:18+01:00",
+      "fetched_at": "2026-11-15T18:15:42+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/80be28fa-576b-4bd4-a323-0a6c0a7fafeb.jpeg?width=600",
+      "sv": {
+        "title": "Nvidia och Nibe rapporterar – detta händer i veckan",
+        "summary": "Efter förra veckans turbulens ska Nvidia nu redovisa hur det går för bolaget. Även Nibe rapporterar i veckan, som också innehåller flera kapitalmarknadsdagar. Här en guide till veckans viktigaste händelser.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia and Nibe report – this is happening this week",
+        "summary": "After last week's turbulence, Nvidia is now set to report how the company is doing. Nibe also reports this week, which also includes several capital markets days. Here is a guide to the week's most important events."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T18:15:46+01:00"
+      }
+    },
+    {
+      "id": "d74285cea93a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/kustbevakningen-trumps-ryska-diesel-en-tickande-miljobomb",
+      "guid": "38ebdd57-ca4e-4440-bfe3-81633c40bd25",
+      "published_at": "2026-11-15T18:01:23+01:00",
+      "fetched_at": "2026-11-15T18:15:42+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8fdb0cf5-2f60-4550-bd52-c24041f0b876.jpeg?width=600",
+      "sv": {
+        "title": "Kustbevakningen: Trumps ryska diesel en ”tickande miljöbomb”",
+        "summary": "Dieselavtalet mellan USA och Ryssland innebär mer trafik på Östersjön och ökade risker för ”tickande miljöbomber”, varnar svenska Kustbevakningen. Efter vårens spektakulära bordningar laddar myndigheten för nya, banbrytande operationer till havs.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Coast Guard: Trump's Russian diesel a \"ticking environmental bomb\"",
+        "summary": "The diesel agreement between the USA and Russia means more traffic on the Baltic Sea and increased risks of \"ticking environmental bombs\", warns the Swedish Coast Guard. After this spring's spectacular boardings, the authority is preparing new, groundbreaking operations at sea."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T18:15:46+01:00"
+      }
+    },
     {
       "id": "4c0ea9da7c1f",
       "schema_version": 1,
@@ -5336,87 +5416,6 @@
       "en": {
         "title": "Expert: How to sabotage a climate summit",
         "summary": "Blame the money, point to the technology and promise without delivering. Countries can sabotage the UN's…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "ea4d3d5dfdc0",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/4EqBBq/experten-sa-sabbar-du-ett-klimattoppmote",
-      "guid": "https://www.aftonbladet.se/nyheter/a/4EqBBq/experten-sa-sabbar-du-ett-klimattoppmote?utm_medium=rss",
-      "published_at": "2026-11-15T08:07:39+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/7fadcdf1-5768-3802-a688-3083baa12fcc?format=auto&s=c8801b3b224765d5a6a65ba62ec01ee499bde2cc&w=1000",
-      "sv": {
-        "title": "Experten: Så sabbar du ett klimattoppmöte",
-        "summary": "Skyll på pengarna, hänvisa till tekniken och lova utan att leverera. Länder kan sabotera FN:s…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Expert: How to sabotage a climate summit",
-        "summary": "Blame the money, point to the technology and promise without delivering. Countries can sabotage the UN's…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "e1aef8bcc16a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/analys/kopradet-blev-ett-magplask-sFabj",
-      "guid": "3f1b0d6a-24a0-47cf-9e7d-fa366544d7b1",
-      "published_at": "2026-11-15T08:03:35+01:00",
-      "fetched_at": "2026-11-15T08:29:36+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/805e82e3-02a5-4d2f-90f5-35a38f45723a.jpeg?width=600",
-      "sv": {
-        "title": "Köprådet blev ett magplask",
-        "summary": "Vår köprekommendation av Volati blev ett riktigt magplask. Men bolaget fortsätter att gneta på. Förr eller senare spår vi att det även kommer att lyfta på börsen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The buy recommendation became a flop",
-        "summary": "Our buy recommendation of Volati became a real flop. But the company keeps on grinding. Sooner or later we predict it will also lift on the stock exchange."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "bfc7f00aef2e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/fjarrvarmen-lagras-i-berget-i-manader",
-      "guid": "b0865d62-a1f3-4a40-ab2b-a2d31f004980",
-      "published_at": "2026-11-15T07:48:13+01:00",
-      "fetched_at": "2026-11-15T08:29:36+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/38374a3c-4ee7-4729-b8e0-1b43a7fb2162.jpg?width=600",
-      "sv": {
-        "title": "Fjärrvärmen lagras i berget – i månader",
-        "summary": "Djupt under finländska Vanda ska spillvärme från sommaren sparas till vintern, när berget blir en jättelik termos. – Den här grottan är helt enorm, den rymmer 1 miljon kubik, säger Juha Luomala på Vantaan Energia.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "District heating stored in the rock – for months",
-        "summary": "Deep beneath Finland's Vanda, waste heat from summer is to be saved for winter, when the rock becomes a giant thermos. – This cave is completely enormous, it holds 1 million cubic metres, says Juha Luomala at Vantaan Energia."
       },
       "translation": {
         "status": "done",
