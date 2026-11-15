@@ -1,7 +1,198 @@
 {
-  "generated_at": "2026-11-15T01:26:28+01:00",
-  "count": 4,
+  "generated_at": "2026-11-15T03:31:51+01:00",
+  "count": 11,
   "items": [
+    {
+      "id": "0de6db466485",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/7P06b9/do-och-polisen-till-tingsratten-i-fallet-mohamed",
+      "guid": "https://www.aftonbladet.se/nyheter/a/7P06b9/do-och-polisen-till-tingsratten-i-fallet-mohamed?utm_medium=rss",
+      "published_at": "2026-11-15T03:17:25+01:00",
+      "fetched_at": "2026-11-15T03:31:42+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/9a0aef55-63a4-3b32-80fa-28c7ed7b8c8b?format=auto&s=1b8e013df5c678353df81f5ffa6419b4492525e7&w=1000",
+      "sv": {
+        "title": "DO och polisen till tingsrätten i fallet Mohamed",
+        "summary": "Polisens hantering av fallet 2023 med pojken Mohamed från Nässjö ska avgöras i tingsrätten, sedan…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "DO and police to district court in the Mohamed case",
+        "summary": "The police's handling of the 2023 case involving the boy Mohamed from Nässjö is to be decided in district court, after…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T03:31:50+01:00"
+      }
+    },
+    {
+      "id": "a36f756e580b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/XogbP7/saudiarabien-skjutit-ned-robotar-mot-huvudstaden",
+      "guid": "https://www.aftonbladet.se/nyheter/a/XogbP7/saudiarabien-skjutit-ned-robotar-mot-huvudstaden?utm_medium=rss",
+      "published_at": "2026-11-15T03:07:36+01:00",
+      "fetched_at": "2026-11-15T03:31:42+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/8f4ec534-c675-312e-8b8a-550913436227?format=auto&s=d33b13311a4f4f05ec1c894b6968cbfe0bdd2767&w=1000",
+      "sv": {
+        "title": "Saudiarabien: Skjutit ned robotar mot huvudstaden",
+        "summary": "Saudiarabien har skjutit ned två robotar som färdats i riktning mot dess huvudstad Riyad, uppger…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Saudi Arabia: Shot down robots heading for capital",
+        "summary": "Saudi Arabia has shot down two robots travelling towards its capital Riyadh, reports…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T03:31:50+01:00"
+      }
+    },
+    {
+      "id": "ef7b2032fa80",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9339368",
+      "guid": "rss:sr.se/article/9339368",
+      "published_at": "2026-11-15T03:00:00+01:00",
+      "fetched_at": "2026-11-15T03:31:39+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Forskare om C:s motstånd mot V: ”Handlar om väljarna”",
+        "summary": "Centerpartiets motstånd mot att samarbeta med Sverigedemokraterna handlar framförallt om olika människosyn. När det gäller motståndet mot att släppa in Vänsterpartiet i regeringen är det mer komplicerat, säger källor till Ekot.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Researcher on the Centre Party's opposition to the Left Party: \"It's about the voters\"",
+        "summary": "The Centre Party's opposition to cooperating with the Sweden Democrats is primarily about differing views of humanity. Opposition to letting the Left Party into government is more complicated, sources tell Ekot."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T03:31:50+01:00"
+      }
+    },
+    {
+      "id": "f83a8dfa210f",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/KL3noo/annu-en-soldat-dod-efter-militarolyckan-i-kanada",
+      "guid": "https://www.aftonbladet.se/nyheter/a/KL3noo/annu-en-soldat-dod-efter-militarolyckan-i-kanada?utm_medium=rss",
+      "published_at": "2026-11-15T02:35:35+01:00",
+      "fetched_at": "2026-11-15T03:31:42+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/c5cd97a3-f3df-387a-a165-e4f9f726109c?format=auto&s=e0c94a313cc9bd05b07cd1c365f5af07fa05d9a9&w=1000",
+      "sv": {
+        "title": "Ännu en soldat död efter militärolyckan i Kanada",
+        "summary": "Ytterligare en soldat har avlidit av sina skador efter den svåra branden på en militärbas i Kanada i…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Another soldier dies after military accident in Canada",
+        "summary": "A further soldier has died of injuries sustained in the severe fire at a military base in Canada in…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T03:31:50+01:00"
+      }
+    },
+    {
+      "id": "5b4a9b436cb3",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/dJOwyA/historisk-landning-av-rymdfarkost",
+      "guid": "https://www.svd.se/a/dJOwyA/historisk-landning-av-rymdfarkost?utm_medium=rss",
+      "published_at": "2026-11-15T02:28:08+01:00",
+      "fetched_at": "2026-11-15T03:31:41+01:00",
+      "category": "science_tech",
+      "image_url": "https://akamai.vgc.no/v2/images/2c1b8d9c-f486-3863-bb32-3c987796423d?format=auto&s=cf6c1e3bbbd2dc697189a674cb0abad64ce7df48&w=1000",
+      "sv": {
+        "title": "Historisk landning av rymdfarkost",
+        "summary": "Det amerikanska företaget Space X utförde på lördagskvällen, svensk tid, den första kontrollerade…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Historic spacecraft landing",
+        "summary": "The American company Space X carried out the first controlled…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T03:31:50+01:00"
+      }
+    },
+    {
+      "id": "da38e8daec8c",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/musik/konsertrecension/recension-miss-li-scandinavium-14-november.e0c698ba-ccd6-5ebd-8eaf-84724fc71904",
+      "guid": "e0c698ba-ccd6-5ebd-8eaf-84724fc71904",
+      "published_at": "2026-11-15T02:22:17+01:00",
+      "fetched_at": "2026-11-15T03:31:44+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Konsertrecension",
+        "Tagg: Konsertrecension"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/0ea90e06-d833-3ef3-8531-84e22e734d60",
+      "sv": {
+        "title": "Genuint artisteri – men Miss Li gör få riktiga avtryck",
+        "summary": "GP:s Daniel Claeson ser en megastjärna fylla Scandinavium och undrar varför alla sitter ner.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Genuine artistry – but Miss Li leaves few real marks",
+        "summary": "GP's Daniel Claeson sees a mega-star fill the Scandinavium and wonders why everyone is sitting down."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T03:31:50+01:00"
+      }
+    },
+    {
+      "id": "d9a5afebd59c",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9341151",
+      "guid": "rss:sr.se/article/9341151",
+      "published_at": "2026-11-15T02:09:00+01:00",
+      "fetched_at": "2026-11-15T03:31:39+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Israel: Har attackerat Hamastopp",
+        "summary": "Israel säger sig ha attackerat en högt uppsatt Hamasmedlem i Khan Yunis i södra Gaza. Sjukvårdare säger enligt Reuters att Hamasbefälhavaren ska ha dödats och att flera andra ska ha skadats i luftangreppet, som inträffade på en gata i staden.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Israel: Has attacked Hamas leader",
+        "summary": "Israel says it has attacked a senior Hamas member in Khan Yunis in southern Gaza. Paramedics tell Reuters that the Hamas commander is reported to have been killed and several others reportedly injured in the airstrike, which hit a street in the city."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T03:31:50+01:00"
+      }
+    },
     {
       "id": "74b57f5abe0d",
       "schema_version": 1,
