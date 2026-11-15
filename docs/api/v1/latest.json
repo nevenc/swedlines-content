@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-15T19:01:18+01:00",
+  "generated_at": "2026-11-15T19:15:46+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1b4639676d6a",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/darfor-far-en-halv-miljon-ryssar-turistvisum-till-eu-varje-ar",
+      "guid": "https://www.dn.se/varlden/darfor-far-en-halv-miljon-ryssar-turistvisum-till-eu-varje-ar/",
+      "published_at": "2026-11-15T19:04:07+01:00",
+      "fetched_at": "2026-11-15T19:15:38+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/054544cb-ca58-4071-a6a8-1cf28343e5c3.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Därför får en halv miljon ryssar turistvisum till EU varje år",
+        "summary": "Medan Ryssland fortsätter att bomba Ukraina semestrar hundratusentals ryssar i Europa. Men turistvisumen fungerar också som en väg in i EU för ryska agenter. Nu växer pressen på ett totalt visumstopp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Half a million Russians get tourist visas to the EU every year",
+        "summary": "While Russia continues to bomb Ukraine, hundreds of thousands of Russians are holidaying in Europe. But tourist visas also serve as a route into the EU for Russian agents. Pressure is now growing for a total visa stop."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T19:15:45+01:00"
+      }
+    },
+    {
+      "id": "5440c667132a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/volvo-cars-vd-samarbetet-med-nvidia-fortsatter",
+      "guid": "6ea200b9-9f46-4171-9192-9c3ba50ee8dc",
+      "published_at": "2026-11-15T19:03:48+01:00",
+      "fetched_at": "2026-11-15T19:15:40+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/fd4edc3a-70e4-4ad4-9351-d35a4f945349.jpeg?width=600",
+      "sv": {
+        "title": "Volvo Cars vd: ”Samarbetet med Nvidia fortsätter",
+        "summary": "Volvo Cars mångåriga relation med chipjätten Nvidia påverkas inte av Jensen Huangs hastiga sorti efter otrohetsskandalen. Det säger biltillverkarens vd Håkan Samuelsson. ”Det som har hänt är förvånande, men det äventyrar inte vårt samarbete”, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Volvo Cars CEO: \"The cooperation with Nvidia continues",
+        "summary": "Volvo Cars' long-standing relationship with chip giant Nvidia is not affected by Jensen Huang's abrupt exit following the infidelity scandal. That is what the carmaker's CEO Håkan Samuelsson says. \"What has happened is surprising, but it does not jeopardise our cooperation,\" he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T19:15:45+01:00"
+      }
+    },
     {
       "id": "51a7b415d791",
       "schema_version": 1,
@@ -27,6 +81,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T19:01:18+01:00"
+      }
+    },
+    {
+      "id": "d2ebf788cc18",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=c8e36c29-f109-4d77-b254-adf034d4c6f4",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c8e36c29-f109-4d77-b254-adf034d4c6f4",
+      "published_at": "2026-11-15T19:00:07+01:00",
+      "fetched_at": "2026-11-15T19:15:40+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-mötet pågår",
+        "summary": "Började klockan 14 – inte slut än, erfar Expressen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The C meeting is underway",
+        "summary": "Started at 14:00 – not yet over, Expressen learns"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T19:15:45+01:00"
       }
     },
     {
@@ -181,6 +261,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T19:01:18+01:00"
+      }
+    },
+    {
+      "id": "c138728eecc7",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/z0GOGr/varning-for-plotslig-ishalka",
+      "guid": "https://www.aftonbladet.se/nyheter/a/z0GOGr/varning-for-plotslig-ishalka?utm_medium=rss",
+      "published_at": "2026-11-15T18:48:37+01:00",
+      "fetched_at": "2026-11-15T19:15:39+01:00",
+      "category": "weather",
+      "image_url": "https://akamai.vgc.no/v2/images/54351fea-ddff-3999-bdee-d41cdce443cc?format=auto&s=8552b15cbe56f5655254518100553a53146ed01f&w=1000",
+      "sv": {
+        "title": "SMHI: Varning för plötslig ishalka",
+        "summary": "SMHI: Regn faller på kalla vägbanor",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI: Warning for sudden black ice",
+        "summary": "SMHI: Rain is falling on cold road surfaces"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T19:15:45+01:00"
       }
     },
     {
@@ -747,6 +854,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T17:45:49+01:00"
+      }
+    },
+    {
+      "id": "21a9c796eae8",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/man-haktad-misstanks-for-medhjalp-till-alvsjomordet",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/man-haktad-misstanks-for-medhjalp-till-alvsjomordet",
+      "published_at": "2026-11-15T17:37:55+01:00",
+      "fetched_at": "2026-11-15T19:15:37+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Man häktad – misstänks för medhjälp till Älvsjömordet",
+        "summary": "Under söndagen häktades en man misstänkt för medhjälp till mordet på en kvinna i Älvsjö. Det rapporterar P4 Stockholm.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man remanded in custody – suspected of aiding the Älvsjö murder",
+        "summary": "On Sunday a man suspected of aiding the murder of a woman in Älvsjö was remanded in custody. P4 Stockholm reports this."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T19:15:45+01:00"
       }
     },
     {
@@ -5283,137 +5416,6 @@
       "en": {
         "title": "Russian skier Sergey Volkov: “Our whole lives are about politics”",
         "summary": "Five Russian cross-country skiers have been given the green light by FIS to compete this season. One of them is Sergey Volkov, who is currently in Finland, where he has made his international comeback. For Yle, he describes an uncertain skiing life and the challenges of being a Russian athlete."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T10:06:12+01:00"
-      }
-    },
-    {
-      "id": "88eaa8d4be3b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/klarnas-nya-krav-sa-forandras-shoppingen",
-      "guid": "https://www.expressen.se/nyheter/sverige/klarnas-nya-krav-sa-forandras-shoppingen/",
-      "published_at": "2026-11-15T09:15:08+01:00",
-      "fetched_at": "2026-11-15T10:05:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Klarnas nya krav – så förändras shoppingen",
-        "summary": "Årsinkomst, antal barn och anställningsform. Det är uppgifter som nu ska lämnas till betalföretag som Klarna eller Qliro. Om inte riskerar du att stoppas från att handla på faktura.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Klarna's new requirements – how shopping changes",
-        "summary": "Annual income, number of children and type of employment. This is information that must now be provided to payment companies such as Klarna or Qliro. If not, you risk being blocked from buying on invoice."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T10:06:12+01:00"
-      }
-    },
-    {
-      "id": "3ea38d0fe886",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/nya-kreditlagen-lon-och-boende-maste-anges",
-      "guid": "0803f1f4-8af4-44d3-a316-6e8faa6ea37c",
-      "published_at": "2026-11-15T09:14:45+01:00",
-      "fetched_at": "2026-11-15T10:05:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b60aeceb-d60a-4cf6-aecc-b60d75306484.jpg?width=600",
-      "sv": {
-        "title": "Nya kreditlagen – lön och boende måste anges",
-        "summary": "Årsinkomst, antal barn och anställningsform. Det är uppgifter som nu ska lämnas till betalföretag som Klarna eller Qliro. Om inte riskerar du att stoppas från att handla på faktura.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New credit law – salary and housing must be declared",
-        "summary": "Annual income, number of children and type of employment. This is information that must now be provided to payment companies such as Klarna or Qliro. If not, you risk being blocked from buying on invoice."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T10:06:12+01:00"
-      }
-    },
-    {
-      "id": "fc9aa9d8004a",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/g37w3k/nya-kreditlagen-lon-och-boende-maste-anges",
-      "guid": "https://www.svd.se/a/g37w3k/nya-kreditlagen-lon-och-boende-maste-anges?utm_medium=rss",
-      "published_at": "2026-11-15T09:07:09+01:00",
-      "fetched_at": "2026-11-15T10:05:48+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/0906785a-6a61-3e12-a2bd-37876b7cd079?format=auto&s=37b569db353c5d2e61295c8905f73ed89795adeb&w=1000",
-      "sv": {
-        "title": "Nya kreditlagen – lön och boende måste anges",
-        "summary": "Årsinkomst, antal barn och anställningsform. Det är uppgifter som nu ska lämnas till betalföretag…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New credit law – salary and housing must be declared",
-        "summary": "Annual income, number of children and type of employment. This is information that must now be provided to payment companies…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T10:06:12+01:00"
-      }
-    },
-    {
-      "id": "e10adc89b79c",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Pv9pg6/tre-doms-till-doden-for-kyrkattack",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Pv9pg6/tre-doms-till-doden-for-kyrkattack?utm_medium=rss",
-      "published_at": "2026-11-15T09:06:19+01:00",
-      "fetched_at": "2026-11-15T10:05:48+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/80ef2bfb-22bb-34ee-8448-53844dd6cdf0?format=auto&s=edd4286c6a728f3fb466a668598cf44e6929f165&w=1000",
-      "sv": {
-        "title": "Tre döms till döden för kyrkattack",
-        "summary": "Tre män döms till döden för att ha skjutit ihjäl nio personer i en kyrka i Jordanien.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Three sentenced to death for church attack",
-        "summary": "Three men are sentenced to death for shooting dead nine people in a church in Jordan."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T10:06:12+01:00"
-      }
-    },
-    {
-      "id": "33c1f8db6ec1",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/chefredaktor-lena-philipson/ai-hittar-sparen-i-tusentals-sidor",
-      "guid": "4c1c1091-6e72-4123-93bd-2606fa538af6",
-      "published_at": "2026-11-15T09:00:00+01:00",
-      "fetched_at": "2026-11-15T10:05:50+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/04cb774b-efee-49ed-a536-c2ac3c7504b9.png?width=600",
-      "sv": {
-        "title": "AI hittar spåren i tusentals sidor"
-      },
-      "en": {
-        "title": "AI finds traces in thousands of pages"
       },
       "translation": {
         "status": "done",
