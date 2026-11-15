@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-16T00:01:15+01:00",
+  "generated_at": "2026-11-16T00:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "adc01660526f",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/ARdrX5/prins-harry-pa-besok-i-ukraina",
+      "guid": "https://www.svd.se/a/ARdrX5/prins-harry-pa-besok-i-ukraina?utm_medium=rss",
+      "published_at": "2026-11-16T00:07:12+01:00",
+      "fetched_at": "2026-11-16T00:15:42+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/332db060-9553-39fa-99da-21d002f5890a?format=auto&s=39677f9db5300557bde05f263d9cb1c1456e77e9&w=1000",
+      "sv": {
+        "title": "Prins Harry på besök i Ukraina",
+        "summary": "Storbritanniens prins Harry befann sig under helgen på ett oannonserat besök i Ukraina.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Prince Harry visits Ukraine",
+        "summary": "Britain's Prince Harry was on an unannounced visit to Ukraine over the weekend."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T00:15:51+01:00"
+      }
+    },
+    {
+      "id": "a4e4fd7d09b1",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/6Pjqye/prins-harry-pa-besok-i-ukraina",
+      "guid": "https://www.aftonbladet.se/nyheter/a/6Pjqye/prins-harry-pa-besok-i-ukraina?utm_medium=rss",
+      "published_at": "2026-11-16T00:07:11+01:00",
+      "fetched_at": "2026-11-16T00:15:43+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/332db060-9553-39fa-99da-21d002f5890a?format=auto&s=39677f9db5300557bde05f263d9cb1c1456e77e9&w=1000",
+      "sv": {
+        "title": "Prins Harry på besök i Ukraina",
+        "summary": "Storbritanniens prins Harry befann sig under helgen på ett oannonserat besök i Ukraina.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Prince Harry visits Ukraine",
+        "summary": "Britain's Prince Harry was on an unannounced visit to Ukraine over the weekend."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T00:15:51+01:00"
+      }
+    },
     {
       "id": "176db184ab11",
       "schema_version": 1,
@@ -5330,62 +5384,6 @@
       "en": {
         "title": "Johanna Frändén: Could a new French president simply take care of Putin in a judo bout?",
         "summary": "Ahead of a presidential election in France, everyone and their dog is putting themselves forward as a candidate. But now a name has surfaced that both shocks and delights the French: multiple judo champion and national icon Teddy Riner. Can he unite a divided nation?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "cccf5b1d1d78",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1NlB9jxLpudSMd7XhC4P1B/haer-raeddas-autistiske-william-17-efter-sex-dygn-i-vildmarken",
-      "guid": "1NlB9jxLpudSMd7XhC4P1B",
-      "published_at": "2026-11-12T21:30:55+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "Här räddas autistiske William, 17, efter sex dygn i vildmarken",
-        "summary": "Det var under fredagen, förra veckan, som den 17-årige pojken försvann i skogarna i östra Australien, drygt 185 kilometer öster om Melbourne, där han skulle campa tillsammans med en vän.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Here autistic William, 17, is rescued after six days in the wilderness",
-        "summary": "It was on Friday last week that the 17-year-old boy disappeared in the forests of eastern Australia, just over 185 kilometres east of Melbourne, where he was going camping with a friend."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "78c0e951a718",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/expert-valfiaskot-oppnar-dorren-for-ron-desantis",
-      "guid": "https://www.dn.se/varlden/expert-valfiaskot-oppnar-dorren-for-ron-desantis/",
-      "published_at": "2026-11-12T21:21:23+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/443723d4-b841-441a-9a59-e721aa4b0dd4.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Expert: Valfiaskot öppnar dörren för Ron DeSantis",
-        "summary": "Republikanernas valfiasko – ett underbetyg för Vita huset – kan försvåra sittande ministrars väg till att bli presidentkandidat 2028. I stället kan det öppna upp för andra inom partiet – som guvernören Ron DeSantis.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Expert: The election fiasco opens the door for Ron DeSantis",
-        "summary": "The Republicans' election fiasco – a poor grade for the White House – could make it harder for sitting cabinet members to become presidential candidates in 2028. Instead it could open the way for others in the party – such as Governor Ron DeSantis."
       },
       "translation": {
         "status": "done",
