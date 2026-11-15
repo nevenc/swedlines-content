@@ -54,6 +54,7 @@
   a { color: var(--blue-ink); }
   [hidden] { display: none !important; }
   footer { max-width: 960px; margin: 0 auto; padding: 16px; color: var(--muted); font-size: 12px; border-top: 1px solid var(--line); }
+  footer p { margin: 0 0 6px; }
 </style>
 </head>
 <body>
@@ -100,7 +101,7 @@
   <p class="muted">Headlines and teasers belong to their publishers. Publisher names and logos are used only to identify the source of each headline.</p>
 
   <h2>Support</h2>
-  <p>Swedlines is free to use. Hosting and machine translation cost money, and optional one-time contributions through <a href="https://ko-fi.com/swedlines" rel="noopener" target="_blank" data-support="ko-fi" data-placement="about">Ko-fi</a> help cover those costs. Nothing on the site is gated behind support.</p>
+  <p>Swedlines is free to use. Hosting and machine translation cost money, and optional one-time or monthly contributions through <a href="https://ko-fi.com/swedlines" rel="noopener" target="_blank" data-support="ko-fi" data-placement="about">Ko-fi</a> help cover those costs. Nothing on the site is gated behind support.</p>
 
   <h2 id="privacy">Privacy</h2>
   <p>Swedlines uses Umami to count page views and clicks on headlines, filters and the support link. It sets no cookies; visitors are counted with a rotating hash that uses the IP address but does not store it in the analytics records. Your language and source choices are saved only in this browser.</p>
@@ -134,7 +135,7 @@
   <p class="muted">Rubriker och ingresser tillhör respektive publicist. Publicisternas namn används bara för att visa varifrån varje rubrik kommer.</p>
 
   <h2>Stöd</h2>
-  <p>Swedlines är gratis att använda. Drift och maskinöversättning kostar pengar, och frivilliga engångsbidrag via <a href="https://ko-fi.com/swedlines" rel="noopener" target="_blank" data-support="ko-fi" data-placement="about">Ko-fi</a> hjälper till att täcka kostnaderna. Inget på sajten är låst bakom stöd.</p>
+  <p>Swedlines är gratis att använda. Drift och maskinöversättning kostar pengar, och frivilliga engångs- eller månadsbidrag via <a href="https://ko-fi.com/swedlines" rel="noopener" target="_blank" data-support="ko-fi" data-placement="about">Ko-fi</a> hjälper till att täcka kostnaderna. Inget på sajten är låst bakom stöd.</p>
 
   <h2 id="privacy-sv">Integritet</h2>
   <p>Swedlines använder Umami för att räkna sidvisningar och klick på rubriker, filter och stödlänken. Inga kakor används; besökare räknas med en roterande hash som använder IP-adressen utan att lagra den i statistiken. Dina val av språk och källa sparas bara i den här webbläsaren.</p>
@@ -143,12 +144,18 @@
   <p>Frågor, rättelser eller önskemål om publicister: <a href="mailto:swedlines@gmail.com">swedlines@gmail.com</a>. För att rapportera en felöversatt rubrik, använd länken ”Rapportera översättningsfel” som visas vid varje rubrik i läget ”Båda”; den förbereder ett mejl med artikelns uppgifter.</p>
 </section>
 </main>
-<footer><a href="../">swedlines.com</a> · <a href="../api/v1/latest.json">JSON API</a></footer>
+<footer>
+  <p><span data-i18n="footer_rights">Headlines and teasers belong to their publishers.</span> <span data-i18n="footer_updated">Updated every 15 minutes.</span></p>
+  <p><a href="./" data-i18n="about_link">About Swedlines</a> · <a href="#privacy" id="privacy-link" data-i18n="privacy_link">Privacy Policy</a></p>
+</footer>
 <script>
 (() => {
   // Show the section matching the saved site language (sv → Swedish, en/both → English).
   // The buttons only switch this page; they do not change the saved headline preference.
-  const T = { en: { back: "← Headlines" }, sv: { back: "← Rubriker" } };
+  const T = {
+    en: { back: "← Headlines", footer_rights: "Headlines and teasers belong to their publishers.", footer_updated: "Updated every 15 minutes.", about_link: "About Swedlines", privacy_link: "Privacy Policy" },
+    sv: { back: "← Rubriker", footer_rights: "Rubriker och ingresser tillhör respektive publicist.", footer_updated: "Uppdateras var 15:e minut.", about_link: "Om Swedlines", privacy_link: "Integritetspolicy" },
+  };
   let lang = "en";
   try { if (localStorage.getItem("lang") === "sv") lang = "sv"; } catch {}
   if (lang === "en") {
@@ -162,6 +169,7 @@
     for (const s of document.querySelectorAll("[data-lang-block]")) s.hidden = s.dataset.langBlock !== lang;
     for (const b of buttons) b.setAttribute("aria-pressed", String(b.dataset.pageLang === lang));
     for (const el of document.querySelectorAll("[data-i18n]")) el.textContent = T[lang][el.dataset.i18n];
+    document.getElementById("privacy-link").href = lang === "sv" ? "#privacy-sv" : "#privacy";
   }
   for (const b of buttons) b.addEventListener("click", () => { if (b.dataset.pageLang !== lang) { lang = b.dataset.pageLang; apply(); } });
   apply();
