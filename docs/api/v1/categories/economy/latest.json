@@ -1,7 +1,168 @@
 {
-  "generated_at": "2026-11-15T11:27:02+01:00",
-  "count": 97,
+  "generated_at": "2026-11-15T13:31:13+01:00",
+  "count": 103,
   "items": [
+    {
+      "id": "659db13e5263",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/nu-krymper-rantegapet",
+      "guid": "ab3ca65e-0103-44b4-afa1-38660f897188",
+      "published_at": "2026-11-15T13:03:41+01:00",
+      "fetched_at": "2026-11-15T13:30:55+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a32d73ab-59cc-4d1d-a5d1-4ad4fcdd09f0.jpeg?width=600",
+      "sv": {
+        "title": "Nu krymper räntegapet",
+        "summary": "Bolåneinstituten gör gemensam sak: höjer den rörliga tremånadersräntan. Samtidigt sänker två banker sina bundna bolåneräntor. Det är första gången på nio månader som räntegapet, alltså ränteskillnaden, mellan rörliga och bundna bolån minskar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Now the interest rate gap is shrinking",
+        "summary": "Mortgage institutions join forces: they raise the variable three-month rate. At the same time, two banks cut their fixed mortgage rates. It is the first time in nine months that the interest rate gap, meaning the difference between variable and fixed mortgage rates, is narrowing"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T13:31:07+01:00"
+      }
+    },
+    {
+      "id": "91a812df83c7",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/c-haller-odesmote-topparna-ska-traffas",
+      "guid": "cff36e07-5f52-4d9d-9088-dcd50e882801",
+      "published_at": "2026-11-15T12:57:39+01:00",
+      "fetched_at": "2026-11-15T13:30:55+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/46262ee0-4ec9-4bec-81bd-8cf500369aa1.jpeg?width=600",
+      "sv": {
+        "title": "C håller ödesmöte – topparna ska träffas",
+        "summary": "Centerpartiets partistyrelse och riksdagsgrupp har kallats till möte på söndagen för att fatta beslut om regeringsfrågan, erfar Dagens Nyheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C holds decisive meeting – leaders to meet",
+        "summary": "The Centre Party's party board and parliamentary group have been called to a meeting on Sunday to decide on the government question, Dagens Nyheter reports"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T13:31:07+01:00"
+      }
+    },
+    {
+      "id": "27f1346d9085",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/ekonomi/trots-kyla-och-billig-el-i-norr-datacenter-valjer-sodra-sverige",
+      "guid": "https://www.svt.se/nyheter/ekonomi/trots-kyla-och-billig-el-i-norr-datacenter-valjer-sodra-sverige",
+      "published_at": "2026-11-15T12:29:14+01:00",
+      "fetched_at": "2026-11-15T13:30:52+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trots kyla och billig el i norr – datacenter väljer södra Sverige",
+        "summary": "Norra Sverige skulle locka datacenter med sitt överskott på billig, grön el och naturlig kyla. Men siffror från Svenska kraftnät visar att det är i den södra halvan av Sverige som elintensiva datacenter vill vara.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Despite cold and cheap power in the north – data centres choose southern Sweden",
+        "summary": "Northern Sweden would attract data centres with its surplus of cheap, green electricity and natural cooling. But figures from Svenska kraftnät show that it is in the southern half of Sweden that energy-intensive data centres want to be"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T13:31:07+01:00"
+      }
+    },
+    {
+      "id": "0cb97090e074",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/orden-vi-anvander",
+      "guid": "67021d1f-0258-4c3e-af72-162a82166403",
+      "published_at": "2026-11-15T12:08:09+01:00",
+      "fetched_at": "2026-11-15T13:30:55+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a5812476-9d92-4b8d-b781-e881a8015960.jpeg?width=600",
+      "sv": {
+        "title": "Orden vi använder",
+        "summary": "Ett förväxlat samtal om en tårbit och en geting visar hur bräcklig kommunikation kan vara. Ändå är det orden vi använder, från juridiken till marknaden, som formar vår syn på människan och det heliga, skriver Di:s krönikör Martin Modéus.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The words we use",
+        "summary": "A muddled conversation about a meatball and a wasp shows how fragile communication can be. Yet it is the words we use, from law to the market, that shape our view of human beings and the sacred, writes Di columnist Martin Modéus."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T13:31:13+01:00"
+      }
+    },
+    {
+      "id": "b921fb07cab3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/uppgifter-tyskland-nobbas-i-stridsflygsprojekt",
+      "guid": "987423f8-26de-4ba6-bbcf-555adde2baf0",
+      "published_at": "2026-11-15T11:37:03+01:00",
+      "fetched_at": "2026-11-15T13:30:55+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/ad9506b0-f1e2-4fbe-a470-98465a1dda41.jpeg?width=600",
+      "sv": {
+        "title": "Uppgifter: Tyskland nobbas i stridsflygsprojekt",
+        "summary": "Italien stoppar tyskt inflytande i stridsflygsprojektet GCAP, rapporterar Financial Times med hänvisning till källor. Efter beskedet kan Tyskland komma att rikta blickarna mot Sverige.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: Germany snubbed in fighter jet project",
+        "summary": "Italy is halting German influence in the GCAP fighter jet project, Financial Times reports citing sources. Following the decision, Germany may turn its eyes toward Sweden."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T13:31:13+01:00"
+      }
+    },
+    {
+      "id": "811989da0d7c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/anthropic-till-borsen-stresstest-for-ai-marknaden",
+      "guid": "a3f3b0c5-bab2-4866-84cc-e219fd6b7e5c",
+      "published_at": "2026-11-15T11:34:04+01:00",
+      "fetched_at": "2026-11-15T13:30:56+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/7c1e53a5-63b1-4392-ae4f-36bd0fb22415.jpg?width=600",
+      "sv": {
+        "title": "Anthropic till börsen: Stresstest för AI-marknaden",
+        "summary": "Anthropics börsnotering närmar sig. AI-jättens intåg på Nasdaqbörsen i New York blir därmed en värdemätare för hela sektorn, menar Robert Oldstrand, aktiestrateg på Swedbank. – Det här blir lite av ett stresstest för marknaden, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic goes public: Stress test for the AI market",
+        "summary": "Anthropic's stock market listing is approaching. The AI giant's entry on the Nasdaq exchange in New York will therefore be a gauge for the whole sector, according to Robert Oldstrand, equity strategist at Swedbank. \"This will be a bit of a stress test for the market,\" he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T13:31:13+01:00"
+      }
+    },
     {
       "id": "7c35a61e99b9",
       "schema_version": 1,

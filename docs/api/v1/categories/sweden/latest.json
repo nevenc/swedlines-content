@@ -1,7 +1,113 @@
 {
-  "generated_at": "2026-11-15T11:27:02+01:00",
-  "count": 101,
+  "generated_at": "2026-11-15T13:31:13+01:00",
+  "count": 105,
   "items": [
+    {
+      "id": "9477e535cfba",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/mobilen-sparar-bilburna-lundabor-och-miljomedvetna-malmoiter",
+      "guid": "d2f39807-71e9-4a96-8a9f-db28c0ffd40c",
+      "published_at": "2026-11-15T13:20:07+01:00",
+      "fetched_at": "2026-11-15T13:30:56+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/61ed9277-8b7c-478e-8a3f-842a96fd120b.jpeg?width=600",
+      "sv": {
+        "title": "Mobilen avslöjar dina resvanor – kör du bil eller cyklar?",
+        "summary": "Boende på Vildanden i Lund och i Västra hamnen i Malmö har minskat sitt bilberoende sedan 2023. Med ny teknik kan man spåra mobilen och räkna ut var invånarna är mest bilburna – och var de i stället väljer att åka buss, cykla eller gå.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Your phone reveals your travel habits – do you drive or cycle?",
+        "summary": "Residents of Vildanden in Lund and Västra hamnen in Malmö have reduced their car dependence since 2023. With new technology, the phone can be tracked to calculate where residents are most car-dependent – and where they instead choose to take the bus, cycle or walk"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T13:31:07+01:00"
+      }
+    },
+    {
+      "id": "3eceda970dd0",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9341225",
+      "guid": "rss:sr.se/article/9341225",
+      "published_at": "2026-11-15T12:53:00+01:00",
+      "fetched_at": "2026-11-15T13:30:52+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Polisen Glenn har testat nya superradarn mot fortkörare",
+        "summary": "Polisen har fått en ny superradar i kampen mot fortkörarna. I norra Sverige har man fått fast 760 förare på ett halvår. En av de som använt systemet är Glenn Franklin, polisinspektör på trafikpolisen vid Polisregion Nord. ”Den är väldigt effektiv och enkel att använda”, säger han om pilotprojektet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police Glenn tested new super radar against speeders",
+        "summary": "Police have received a new super radar in the fight against speeders. In northern Sweden, 760 drivers have been caught in six months. One of those who has used the system is Glenn Franklin, police inspector with the traffic police at Police Region North. \"It is very effective and easy to use\", he says of the pilot project"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T13:31:07+01:00"
+      }
+    },
+    {
+      "id": "c0568b827c83",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/kritik-fran-flera-aktorer-mot-polisens-nya-sverige-id",
+      "guid": "https://www.dn.se/ekonomi/kritik-fran-flera-aktorer-mot-polisens-nya-sverige-id/",
+      "published_at": "2026-11-15T12:51:52+01:00",
+      "fetched_at": "2026-11-15T13:30:53+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/7dfeb6dc-cfc2-4a3e-8291-d1b8a44c394d.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Kritik från flera aktörer mot polisens nya Sverige-id",
+        "summary": "Polisens nya Sverige-id – som lanseras den 1 december – får kritik från flera håll. Att tunga myndigheter och privata aktörer står utanför samt brist på delaktighet i processen hålls fram som problem.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Criticism from several quarters of police's new Sweden ID",
+        "summary": "The police's new Sweden ID – launching on 1 December – is drawing criticism from several quarters. Heavyweight authorities and private actors being left out, and a lack of participation in the process, are cited as problems"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T13:31:07+01:00"
+      }
+    },
+    {
+      "id": "7b95fe88ae66",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=c10efa3a-3e71-411e-8556-a698c429b2b2",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c10efa3a-3e71-411e-8556-a698c429b2b2",
+      "published_at": "2026-11-15T12:09:20+01:00",
+      "fetched_at": "2026-11-15T13:30:54+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "E18 avstängd efter olycka",
+        "summary": "Olycka på E18",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "E18 closed after accident",
+        "summary": "Accident on E18"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T13:31:13+01:00"
+      }
+    },
     {
       "id": "03e8269aeb06",
       "schema_version": 1,
