@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-15T18:31:06+01:00",
+  "generated_at": "2026-11-15T18:45:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6d1bec0b0b52",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/hk-malmo-fick-bara-oavgjort-vi-gor-massa-dumma-grejer",
+      "guid": "ee01e4f2-1ed4-46bf-b52b-938feac7a392",
+      "published_at": "2026-11-15T18:32:46+01:00",
+      "fetched_at": "2026-11-15T18:45:45+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/afd14c51-1fa5-41e1-95a6-5cc60907cef5.jpeg?width=600",
+      "sv": {
+        "title": "HK Malmö fick bara oavgjort: ”Vi gör massa dumma grejer”",
+        "summary": "HK Malmö tappade poäng hemma i Baltiska hallen för första gången den här säsongen. 31–31 mot Önnered efter en riktig rysare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "HK Malmö only draws: \"We're doing a lot of stupid things\"",
+        "summary": "HK Malmö dropped points at home in the Baltiska hallen for the first time this season. 31–31 against Önnered after a real thriller."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T18:45:48+01:00"
+      }
+    },
+    {
+      "id": "e7fc1d7534b0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=5a9c4ec4-89a5-41dc-a8f3-221a2ea441c1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=5a9c4ec4-89a5-41dc-a8f3-221a2ea441c1",
+      "published_at": "2026-11-15T18:29:34+01:00",
+      "fetched_at": "2026-11-15T18:45:43+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Misstänkt mord i Göteborg – två gripna",
+        "summary": "Två gripna i Göteborg",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspected murder in Göteborg – two arrested",
+        "summary": "Two arrested in Göteborg"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T18:45:48+01:00"
+      }
+    },
     {
       "id": "b138d4124607",
       "schema_version": 1,
@@ -5378,58 +5431,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T10:06:15+01:00"
-      }
-    },
-    {
-      "id": "8bbbca4304b3",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/dalarna/ladugard-i-lagor-i-rattvik",
-      "guid": "https://www.svt.se/nyheter/lokalt/dalarna/ladugard-i-lagor-i-rattvik",
-      "published_at": "2026-11-15T08:26:35+01:00",
-      "fetched_at": "2026-11-15T10:05:46+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Ladugård i lågor i Rättvik",
-        "summary": "En ladugård norr om Vikarbyn i Rättviks kommun började brinna tidigt på söndagsmorgonen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Barn engulfed in flames in Rättvik",
-        "summary": "A barn north of Vikarbyn in Rättvik municipality started burning early on Sunday morning."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T10:06:15+01:00"
-      }
-    },
-    {
-      "id": "a90dbde7b6ab",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=cc5d6662-e012-4255-8e5b-8f5db391fd6f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cc5d6662-e012-4255-8e5b-8f5db391fd6f",
-      "published_at": "2026-11-15T08:24:39+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Stort krogbråk på Avenyn i Göteborg",
-        "summary": "Insats på Avenyn i natt",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Major bar brawl on Avenyn in Göteborg",
-        "summary": "Police called to Avenyn overnight"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
       }
     }
   ]
