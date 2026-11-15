@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-15T16:01:24+01:00",
+  "generated_at": "2026-11-15T16:15:45+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8302b00f9e43",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/estlands-stanger-gransen-mot-ryssland-i-december",
+      "guid": "https://www.svt.se/nyheter/utrikes/estlands-stanger-gransen-mot-ryssland-i-december",
+      "published_at": "2026-11-15T16:13:37+01:00",
+      "fetched_at": "2026-11-15T16:15:36+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Estland stänger gränsen mot Ryssland i december",
+        "summary": "Estland stänger alla gränsövergångar mot Ryssland den första december, rapporterar Reuters. Anledningen är ett ryskt sabotage mot ett estniskt försvarsföretag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Estonia closes border with Russia in December",
+        "summary": "Estonia will close all border crossings with Russia on 1 December, Reuters reports. The reason is Russian sabotage against an Estonian defence company."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T16:15:44+01:00"
+      }
+    },
+    {
+      "id": "f3fb73b04ba9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/darfor-ar-centerpartiets-lage-sa-knepigt",
+      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/darfor-ar-centerpartiets-lage-sa-knepigt/",
+      "published_at": "2026-11-15T16:11:52+01:00",
+      "fetched_at": "2026-11-15T16:15:40+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Därför är Centerpartiets läge så knepigt",
+        "summary": "Hur C än vänder sig har de rumpan bak och en röd linje framför tårna. De kan inte ens gå i opposition utan att det blir problem.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is why the Centre Party's situation is so tricky",
+        "summary": "Whichever way C turns, they are caught between a rock and a hard place, with a red line in front of their toes. They cannot even go into opposition without it causing problems."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T16:15:44+01:00"
+      }
+    },
     {
       "id": "a50e793361da",
       "schema_version": 1,
@@ -5385,59 +5437,6 @@
       "en": {
         "title": "\"In Malmö, older people and their relatives should feel security and trust\"",
         "summary": "Malmö's elderly care is a large operation where thousands of employees make important efforts every day. There is much to build on, but also much left to do, writes Malmö's new municipal commissioner responsible for health, care and welfare."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:14+01:00"
-      }
-    },
-    {
-      "id": "dd0c2747fa28",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/dumma-fragan-var-ar-utomjordingarna",
-      "guid": "https://www.dn.se/sverige/dumma-fragan-var-ar-utomjordingarna/",
-      "published_at": "2026-11-15T05:42:47+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/30f30370-9d6d-42d1-b494-9eab3086ebfe.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Dumma frågan: Var är utomjordingarna?",
-        "summary": "Om universum är oändligt borde intelligent liv ha utvecklats på fler ställen än här på jorden. Så varför har ingen utomjording tagit kontakt med oss? Det finns tre möjliga förklaringar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Silly question: Where are the aliens?",
-        "summary": "If the universe is infinite, intelligent life should have developed in more places than here on Earth. So why has no alien contacted us? There are three possible explanations."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:14+01:00"
-      }
-    },
-    {
-      "id": "fd18381960e6",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/mMRPgO/iran-attackerat-militarbas-i-bahrain",
-      "guid": "https://www.aftonbladet.se/nyheter/a/mMRPgO/iran-attackerat-militarbas-i-bahrain?utm_medium=rss",
-      "published_at": "2026-11-15T05:38:20+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Iran: Attackerat militärbas i Bahrain",
-        "summary": "Amerikanska radarsystem vid en militärbas i Bahrain har anfallits av Iran, hävdar Revolutionsgardet…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Iran: Military base in Bahrain attacked",
-        "summary": "American radar systems at a military base in Bahrain have been attacked by Iran, the Revolutionary Guard claims…"
       },
       "translation": {
         "status": "done",
