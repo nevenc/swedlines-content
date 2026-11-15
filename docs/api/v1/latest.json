@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-15T14:31:04+01:00",
+  "generated_at": "2026-11-15T14:45:42+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "829ebad263e3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=4b6e6b5b-e9ef-4f4e-8917-c58cbbf8fcd6",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4b6e6b5b-e9ef-4f4e-8917-c58cbbf8fcd6",
+      "published_at": "2026-11-15T14:29:47+01:00",
+      "fetched_at": "2026-11-15T14:45:38+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Tappade hjul – flög in i mötande bil",
+        "summary": "Flera bilar i olycka i Jönköping",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wheel comes off – flies into oncoming car",
+        "summary": "Several cars involved in a crash in Jönköping"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T14:45:42+01:00"
+      }
+    },
     {
       "id": "2b22311bb03e",
       "schema_version": 1,
@@ -5433,32 +5459,6 @@
       "en": {
         "title": "Tourists ignored warning – two died",
         "summary": "The two Americans ignored the warning at the holiday favourite Bahamas. It became the death of the tourists, writes ABC News."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T01:26:27+01:00"
-      }
-    },
-    {
-      "id": "b7706ec432c1",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=48500068-1afd-4ced-a737-56c1f259890e",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=48500068-1afd-4ced-a737-56c1f259890e",
-      "published_at": "2026-11-14T23:55:03+01:00",
-      "fetched_at": "2026-11-15T01:26:20+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "SpaceX fångade raket",
-        "summary": "”Kan ni fatta det?”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "SpaceX catches rocket",
-        "summary": "\"Can you believe it?\""
       },
       "translation": {
         "status": "done",
