@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-15T22:01:19+01:00",
+  "generated_at": "2026-11-15T22:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1cc06856a160",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2DSeKp4hx78WAVCUssVwCA/efter-en-veckas-klimatdiskussioner-dags-att-skruva-ner-foervaentningarna",
+      "guid": "2DSeKp4hx78WAVCUssVwCA",
+      "published_at": "2026-11-15T22:10:04+01:00",
+      "fetched_at": "2026-11-15T22:15:47+01:00",
+      "category": "world",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Är det dags att skruva ner förväntningarna på COP31?",
+        "summary": "Dubai, för tre år sedan. Efter långa förhandlingar nåddes ett historiskt genombrott: att världen ska röra sig bort från fossila bränslen. Sen dess har man försökt få fram en färdplan för hur det här ska gå till, men där har man hittills huggit i sten.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Is it time to lower expectations for COP31?",
+        "summary": "Dubai, three years ago. After lengthy negotiations, a historic breakthrough was reached: the world will move away from fossil fuels. Since then, efforts have been made to produce a roadmap for how this will happen, but so far there has been little progress."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T22:15:59+01:00"
+      }
+    },
     {
       "id": "7bcf9632bd6e",
       "schema_version": 1,
@@ -5361,32 +5390,6 @@
       "en": {
         "title": "General strike in Spain against the housing crisis",
         "summary": "A general strike has begun in Spain, for the first time in 14 years, and millions of Spaniards have taken to the streets. Activists and the country's two largest trade unions are demanding higher wages and measures against the country's housing crisis."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "45b805d8ffa6",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/detta-vet-vi-om-alice-huang",
-      "guid": "https://www.svt.se/nyheter/utrikes/detta-vet-vi-om-alice-huang",
-      "published_at": "2026-11-11T18:03:54+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Detta vet vi om Alice Huang",
-        "summary": "Nvidia-vd:ns otrohetsaffär har skakat om techvärlden sedan kvinnan som setts vid hans sida i flera år anklagats av de amerikanska myndigheterna för spioneri. Enligt de senaste uppgifterna går relationen längre bak i tiden än tidigare varit känt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is what we know about Alice Huang",
-        "summary": "The Nvidia CEO's affair has shaken the tech world since the woman seen at his side for several years was accused of espionage by the US authorities. According to the latest reports, the relationship goes further back in time than previously known."
       },
       "translation": {
         "status": "done",
