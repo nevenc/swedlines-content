@@ -16,6 +16,8 @@
 <meta name="twitter:card" content="summary">
 <link rel="alternate" type="application/json" href="api/v1/latest.json">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;800&display=swap">
+<!-- Umami: cookie-free aggregate analytics. data-domains keeps localhost/preview hosts out of the stats. -->
+<script defer src="https://cloud.umami.is/script.js" data-website-id="f35b5351-9870-43e2-8d79-785c1ceaf20b" data-domains="swedlines.com"></script>
 <style>
   :root {
     --bg: #f7f8fa; --fg: #15202b; --muted: #5b6b7a; --line: #e1e6eb; --panel: #fff;
@@ -96,7 +98,7 @@
       <button type="button" class="refresh" id="refresh" title="Refresh headlines" aria-label="Refresh headlines">
         <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12a8 8 0 1 1-2.34-5.66"/><path d="M20 4v5h-5"/></svg>
       </button>
-      <a class="kofi" href="https://ko-fi.com/swedlines" target="_blank" rel="noopener" title="Support Swedlines on Ko-fi">☕ Buy us a fika</a>
+      <a class="kofi" href="https://ko-fi.com/swedlines" target="_blank" rel="noopener" title="Support Swedlines on Ko-fi" data-support="ko-fi" data-placement="header">☕ Buy us a fika</a>
     </div>
   </div>
   <div class="ticker-line"></div>
@@ -108,7 +110,7 @@
       <h2 id="support-title">☕ Buy us a fika</h2>
       <p>Enjoying Swedlines? Help cover hosting and translation costs and keep the site free for everyone.</p>
     </div>
-    <a class="support-cta" href="https://ko-fi.com/swedlines" target="_blank" rel="noopener">Support us on Ko-fi
+    <a class="support-cta" href="https://ko-fi.com/swedlines" target="_blank" rel="noopener" data-support="ko-fi" data-placement="footer">Support us on Ko-fi
       <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7"/><path d="M8 7h9v9"/></svg>
     </a>
   </div>
@@ -116,6 +118,7 @@
 <footer>
   Headlines and teasers belong to their publishers; every link goes straight to the source. English text is machine-translated.
   <a href="api/v1/latest.json">JSON API</a> · updated every 15 minutes.
+  Cookie-free aggregate statistics (page views and clicks on headlines, filters and the support link) via <a href="https://umami.is" rel="noopener">Umami</a>; no personal data is collected.
 </footer>
 <script>
 (() => {
@@ -135,6 +138,22 @@
     source = localStorage.getItem("source") || "";
   } catch {}
   document.documentElement.lang = lang === "sv" ? "sv" : "en";
+
+  // Analytics (Umami). Fire-and-forget: if the tracker is blocked or not loaded yet, calls are
+  // dropped, never queued, and never affect navigation or rendering.
+  function track(name, props) {
+    const u = window.umami;
+    if (!u || typeof u.track !== "function") return;
+    try {
+      const r = u.track(name, props);
+      if (r && typeof r.catch === "function") r.catch(() => {});
+    } catch {}
+  }
+  function cleanUrl(href) {
+    try { const u = new URL(href, location.href); return u.origin + u.pathname; } catch { return ""; }
+  }
+  // Primary clicks (incl. modifier-clicks and Enter) arrive as "click"; middle-clicks only as "auxclick".
+  const isActivation = e => e.type === "click" || (e.type === "auxclick" && e.button === 1);
 
   const WINDOWS = [
     [10 * 60, "Senaste 10 minuterna", "Last 10 minutes"],
@@ -177,7 +196,7 @@
         const primary = lang === "sv" ? a.sv.title : (en || a.sv.title);
         const tag = lang !== "sv" && !en ? '<span class="untranslated">not yet translated</span>' : "";
         const orig = lang === "both" && en ? `<div class="orig" lang="sv">${esc(a.sv.title)}</div>` : "";
-        html += `<li><span><a href="${esc(a.url)}" rel="noopener" lang="${lang === "sv" || !en ? "sv" : "en"}">${esc(primary)}</a>${tag}</span>` +
+        html += `<li><span><a href="${esc(a.url)}" rel="noopener" lang="${lang === "sv" || !en ? "sv" : "en"}" data-id="${esc(a.id)}" data-source="${esc(a.source)}">${esc(primary)}</a>${tag}</span>` +
                 `<span class="meta"><span class="src">${esc(sources[a.source] || a.source)}</span> · ${rel(new Date(a.published_at), now)}</span>${orig}</li>`;
       }
       html += "</ul>";
@@ -224,14 +243,40 @@
   }
 
   for (const b of langButtons) b.addEventListener("click", () => {
+    if (b.dataset.lang === lang) return;
     lang = b.dataset.lang;
     for (const x of langButtons) x.setAttribute("aria-pressed", String(x === b));
     try { localStorage.setItem("lang", lang); } catch {}
     document.documentElement.lang = lang === "sv" ? "sv" : "en";
     render();
+    track("language_change", { language: lang });
   });
   for (const b of langButtons) b.setAttribute("aria-pressed", String(b.dataset.lang === lang));
-  sourceSel.addEventListener("change", () => { source = sourceSel.value; try { localStorage.setItem("source", source); } catch {} render(); });
+  sourceSel.addEventListener("change", () => {
+    source = sourceSel.value;
+    try { localStorage.setItem("source", source); } catch {}
+    render();
+    track("source_filter_change", { publisher: source || "all" });
+  });
+
+  // One delegated listener on the stable container: survives every re-render of the list.
+  const onHeadline = e => {
+    if (!isActivation(e)) return;
+    const a = e.target.closest("a[data-id]");
+    if (!a || !stream.contains(a)) return;
+    track("headline_click", { article_id: a.dataset.id, publisher: a.dataset.source, destination_url: cleanUrl(a.href), language: lang });
+  };
+  stream.addEventListener("click", onHeadline);
+  stream.addEventListener("auxclick", onHeadline);
+
+  for (const a of document.querySelectorAll("a[data-support]")) {
+    const onSupport = e => {
+      if (!isActivation(e)) return;
+      track("support_click", { platform: a.dataset.support, placement: a.dataset.placement, destination_url: cleanUrl(a.href) });
+    };
+    a.addEventListener("click", onSupport);
+    a.addEventListener("auxclick", onSupport);
+  }
   refreshBtn.addEventListener("click", () => load().catch(() => { status.textContent = lang === "sv" ? "kunde inte uppdatera" : "could not refresh"; }));
   load().catch(err => { stream.innerHTML = `<p class="empty">Kunde inte ladda rubriker (${err.message}).</p>`; });
   setInterval(() => load().catch(() => {}), 5 * 60 * 1000);
