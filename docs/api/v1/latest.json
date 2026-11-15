@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-15T21:32:24+01:00",
+  "generated_at": "2026-11-15T21:42:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7bcf9632bd6e",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/BrRxGg/ukraina-europa-ska-samlas-for-att-ena-fronten",
+      "guid": "https://www.aftonbladet.se/nyheter/a/BrRxGg/ukraina-europa-ska-samlas-for-att-ena-fronten?utm_medium=rss",
+      "published_at": "2026-11-15T21:36:23+01:00",
+      "fetched_at": "2026-11-15T21:42:16+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/c02f2c28-ced7-360a-a911-43300e36eae7?format=auto&s=52ce2eee04e8c355a374b4b861db495107d4a852&w=1000",
+      "sv": {
+        "title": "Ukraina: Europa ska samlas för att ena fronten",
+        "summary": "Ukraina hoppas på en stadig och gemensam europeisk hållning när man tar plats vid förhandlingsbordet…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ukraine: Europe to unite to consolidate the front",
+        "summary": "Ukraine hopes for a steady and united European stance as it takes its place at the negotiating table…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T21:42:21+01:00"
+      }
+    },
     {
       "id": "3df372db986a",
       "schema_version": 1,
@@ -84,6 +111,32 @@
       }
     },
     {
+      "id": "56e282e96453",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/ishockey/sverige-nollat-av-kanada-i-vm-semifinalen",
+      "guid": "https://www.svt.se/sport/ishockey/sverige-nollat-av-kanada-i-vm-semifinalen",
+      "published_at": "2026-11-15T21:29:00+01:00",
+      "fetched_at": "2026-11-15T21:42:14+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Sverige nollat av Kanada i VM-semifinalen",
+        "summary": "Kanada nollade Sverige i VM-semifinalen. För Damkronorna väntar nu bronsmatch mot Finland.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sweden shut out by Canada in World Championship semi-final",
+        "summary": "Canada shut out Sweden in the World Championship semi-final. Damkronorna now face Finland in the bronze medal match."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T21:42:21+01:00"
+      }
+    },
+    {
       "id": "82cb54f526e6",
       "schema_version": 1,
       "source": "dn",
@@ -132,6 +185,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T21:15:49+01:00"
+      }
+    },
+    {
+      "id": "af6a55160261",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/7P0p78/kristersson-ska-diskutera-nasta-steg-med-talmannen",
+      "guid": "https://www.aftonbladet.se/nyheter/a/7P0p78/kristersson-ska-diskutera-nasta-steg-med-talmannen?utm_medium=rss",
+      "published_at": "2026-11-15T21:11:25+01:00",
+      "fetched_at": "2026-11-15T21:42:16+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Kristersson: Dörren står öppen",
+        "summary": "Kristersson om C-beskedet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson: The door is open",
+        "summary": "Kristersson on the Centre Party's message"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T21:42:21+01:00"
       }
     },
     {
@@ -5335,88 +5414,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T13:31:13+01:00"
-      }
-    },
-    {
-      "id": "52236250f167",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/c-toppar-mots-i-dag-beslut-om-regeringsfragan",
-      "guid": "https://www.dn.se/sverige/c-toppar-mots-i-dag-beslut-om-regeringsfragan/",
-      "published_at": "2026-11-15T11:50:35+01:00",
-      "fetched_at": "2026-11-15T13:30:53+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/27eaeb2a-3877-4be5-8603-bbaf3ec64b7a.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "C-toppar möts i dag – beslut om regeringsfrågan",
-        "summary": "Partistyrelsen och riksdagsgruppen i Centerpartiet har kallats till möte i dag för att fatta beslut om vägvalet i regeringsfrågan, erfar DN. Partiledningen uppges också ha samtal med distrikten om vilket alternativ C ska välja.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "C leaders meet today – decision on government question",
-        "summary": "The party board and parliamentary group of the Centre Party have been called to a meeting today to decide on the choice of path in the government question, DN reports. The party leadership is reportedly also in talks with the districts about which option C should choose."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T13:31:13+01:00"
-      }
-    },
-    {
-      "id": "2a61ea4b78cd",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/seenthis/reaktionerna-pa-arets-julskyltning-harligt-alltsa",
-      "guid": "https://www.expressen.se/tv/seenthis/reaktionerna-pa-arets-julskyltning-harligt-alltsa",
-      "published_at": "2026-11-15T11:45:31+01:00",
-      "fetched_at": "2026-11-15T14:15:43+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "NK avslöjar julskyltning",
-        "summary": "Klassiska butiken avtäcker årets tema • ”Absolut min favorit”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "NK unveils Christmas window displays",
-        "summary": "The classic store unveils this year's theme • \"Absolutely my favourite\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T14:15:49+01:00"
-      }
-    },
-    {
-      "id": "47571cb3d01c",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4YT8FJsxRwIr3ivDwyjnOs/lennox-lever-med-ovanliga-sturge-webers-syndrom",
-      "guid": "4YT8FJsxRwIr3ivDwyjnOs",
-      "published_at": "2026-11-15T11:37:07+01:00",
-      "fetched_at": "2026-11-15T15:15:45+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Nyhetsmorgon"
-      ],
-      "sv": {
-        "title": "Sexåriga Lennox lever med ovanliga syndromet: ”Gör allt de kan”",
-        "summary": "Sturge-Webers syndrom kännetecknas av kärlförändringar som kan ge upphov till flera olika symtom. I Lennox fall innebär det ett synligt födelsemärke i ansiktet, glaukom, vilket innebär ett förhöjt tryck i ögat, samt kärlmissbildningar på hjärnans yta.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Six-year-old Lennox lives with rare syndrome: \"Does everything they can\"",
-        "summary": "Sturge-Weber syndrome is characterised by vascular changes that can cause several different symptoms. In Lennox's case, it means a visible birthmark on the face, glaucoma, which means raised pressure in the eye, and vascular malformations on the surface of the brain."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T15:15:50+01:00"
       }
     }
   ]
