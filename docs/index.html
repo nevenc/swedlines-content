@@ -3,17 +3,21 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Swedlines – Swedish news headlines</title>
-<meta name="description" content="Swedish news headlines from the ten largest Swedish news sites, in Swedish and English. Updated every 15 minutes.">
+<title>Swedlines – Swedish news in English and Swedish</title>
+<meta name="description" content="Headlines from leading Swedish publishers, in English and Swedish, updated every 15 minutes. English headlines are machine-translated; every link opens the original article.">
+<link rel="canonical" href="https://swedlines.com/">
 <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
 <link rel="icon" href="favicon.ico" sizes="16x16 32x32 48x48">
 <link rel="apple-touch-icon" href="assets/icon-180.png">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Swedlines">
-<meta property="og:title" content="Swedlines – Swedish news headlines">
-<meta property="og:description" content="Swedish news headlines in Swedish and English, updated every 15 minutes.">
-<meta property="og:image" content="https://swedlines.com/assets/icon-512.png">
-<meta name="twitter:card" content="summary">
+<meta property="og:url" content="https://swedlines.com/">
+<meta property="og:title" content="Swedish news. In English and Swedish.">
+<meta property="og:description" content="Headlines from leading Swedish publishers, together in one place. Updated every 15 minutes.">
+<meta property="og:image" content="https://swedlines.com/assets/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="alternate" type="application/json" href="api/v1/latest.json">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;800&display=swap">
 <!-- Umami: cookie-free aggregate analytics. data-domains keeps localhost/preview hosts out of the stats. -->
@@ -21,11 +25,11 @@
 <style>
   :root {
     --bg: #f7f8fa; --fg: #15202b; --muted: #5b6b7a; --line: #e1e6eb; --panel: #fff;
-    --blue: #006AA7; --blue-ink: #006AA7; --yellow: #FECC02; --hover: #eef4f9;
+    --blue: #006AA7; --blue-ink: #006AA7; --yellow: #FECC02; --hover: #eef4f9; --notice: #fff8dc;
     --font: "Manrope", "Helvetica Neue", Arial, sans-serif;
   }
   @media (prefers-color-scheme: dark) { :root {
-    --bg: #0b1218; --fg: #e8edf2; --muted: #93a3b2; --line: #223140; --panel: #121c26; --blue-ink: #58a8e0; --hover: #16222e; color-scheme: dark;
+    --bg: #0b1218; --fg: #e8edf2; --muted: #93a3b2; --line: #223140; --panel: #121c26; --blue-ink: #58a8e0; --hover: #16222e; --notice: #2a2612; color-scheme: dark;
   } }
   * { box-sizing: border-box; }
   body { margin: 0; background: var(--bg); color: var(--fg); font-family: var(--font); font-size: 15px; line-height: 1.45; }
@@ -48,21 +52,16 @@
   .refresh.busy { pointer-events: none; opacity: 0.7; }
   @keyframes spin { to { transform: rotate(360deg); } }
   @media (prefers-reduced-motion: reduce) { .refresh.busy svg { animation: none; } }
-  .status { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; white-space: nowrap; }
   .kofi { display: inline-flex; align-items: center; gap: 6px; padding: 5px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); color: var(--fg); text-decoration: none; font-weight: 600; white-space: nowrap; }
   .kofi:hover { background: var(--hover); }
   .kofi:focus-visible { outline: 2px solid var(--yellow); outline-offset: -2px; }
-  .support { max-width: 960px; margin: 32px auto 0; padding: 0 max(16px, env(safe-area-inset-left)); }
-  .support-box { border: 1px solid var(--line); border-radius: 12px; background: var(--panel); padding: 18px 20px; display: flex; gap: 16px 24px; align-items: center; flex-wrap: wrap; }
-  .support-box h2 { margin: 0 0 4px; font-size: 16px; text-transform: none; letter-spacing: 0; color: var(--fg); }
-  .support-box p { margin: 0; color: var(--muted); font-size: 14px; max-width: 60ch; }
-  .support-box .text { flex: 1 1 320px; min-width: 0; }
-  .support-cta { display: inline-flex; align-items: center; gap: 8px; padding: 9px 16px; border-radius: 8px; background: var(--blue); color: #fff; text-decoration: none; font-weight: 700; white-space: nowrap; }
-  .support-cta:hover { filter: brightness(1.08); }
-  .support-cta:focus-visible { outline: 2px solid var(--yellow); outline-offset: 2px; }
-  .support-cta svg { width: 14px; height: 14px; }
   select { font: inherit; padding: 5px 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); color: var(--fg); }
-  main { max-width: 960px; margin: 0 auto; padding: 8px max(16px, env(safe-area-inset-left)) 48px; }
+  main { max-width: 960px; margin: 0 auto; padding: 8px max(16px, env(safe-area-inset-left)) 24px; }
+  .intro { max-width: 960px; margin: 28px auto 0; padding: 16px max(16px, env(safe-area-inset-left)) 10px; border-top: 1px solid var(--line); }
+  .intro h1 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -0.02em; line-height: 1.2; text-wrap: balance; }
+  .intro .lede { margin: 4px 0 0; color: var(--fg); font-weight: 500; }
+  .intro .fine { margin: 6px 0 0; color: var(--muted); font-size: 13px; max-width: 70ch; }
+  .notice { margin: 12px 0 0; padding: 8px 12px; border-left: 3px solid var(--yellow); background: var(--notice); border-radius: 0 6px 6px 0; font-size: 13px; }
   h2 { font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 22px 0 6px; font-weight: 700; }
   ul { list-style: none; margin: 0; padding: 0; }
   li { display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; padding: 7px 8px; margin: 0 -8px; border-radius: 6px; align-items: baseline; }
@@ -72,11 +71,27 @@
   .meta { color: var(--muted); font-size: 12px; white-space: nowrap; font-variant-numeric: tabular-nums; }
   .src { font-weight: 700; color: var(--blue-ink); }
   .orig { grid-column: 1 / -1; color: var(--muted); font-size: 13px; font-weight: 500; }
+  .report { font-size: 11px; color: var(--muted); text-decoration: none; margin-left: 8px; white-space: nowrap; opacity: 0.85; }
+  .report::before { content: "⚑ "; }
+  .report:hover, .report:focus-visible { color: var(--blue-ink); text-decoration: underline; opacity: 1; }
   .untranslated { font-size: 11px; color: var(--muted); border: 1px solid var(--line); border-radius: 4px; padding: 0 4px; margin-left: 6px; vertical-align: middle; }
   .empty { color: var(--muted); padding: 40px 0; text-align: center; }
-  footer { max-width: 960px; margin: 0 auto; padding: 16px; color: var(--muted); font-size: 12px; border-top: 1px solid var(--line); }
+  .support { max-width: 960px; margin: 32px auto 0; padding: 0 max(16px, env(safe-area-inset-left)); }
+  .support-box { border: 1px solid var(--line); border-radius: 12px; background: var(--panel); padding: 18px 20px; display: flex; gap: 16px 24px; align-items: center; flex-wrap: wrap; }
+  .support-box h2 { margin: 0 0 4px; font-size: 16px; text-transform: none; letter-spacing: 0; color: var(--fg); }
+  .support-box p { margin: 0; color: var(--muted); font-size: 14px; max-width: 60ch; }
+  .support-box .text { flex: 1 1 320px; min-width: 0; }
+  .support-cta { display: inline-flex; align-items: center; gap: 8px; padding: 9px 16px; border-radius: 8px; background: var(--blue); color: #fff; text-decoration: none; font-weight: 700; white-space: nowrap; }
+  .support-cta:hover { filter: brightness(1.08); }
+  .support-cta:focus-visible { outline: 2px solid var(--yellow); outline-offset: 2px; }
+  .support-cta svg { width: 14px; height: 14px; }
+  footer { max-width: 960px; margin: 0 auto; padding: 8px 16px 24px; color: var(--muted); font-size: 12px; }
   footer a { color: var(--blue-ink); }
-  @media (max-width: 520px) { li { grid-template-columns: 1fr; } .meta { white-space: normal; } }
+  footer p { margin: 0 0 6px; }
+  @media (max-width: 520px) {
+    li { grid-template-columns: 1fr; } .meta { white-space: normal; }
+    .intro h1 { font-size: 19px; } .intro .fine { font-size: 12px; }
+  }
 </style>
 </head>
 <body>
@@ -88,43 +103,106 @@
     </a>
     <div class="controls">
       <fieldset class="seg">
-        <legend class="sr-only">Språk / Language</legend>
-        <button type="button" data-lang="en" aria-pressed="true">en</button>
-        <button type="button" data-lang="sv" aria-pressed="false">sv</button>
-        <button type="button" data-lang="both" aria-pressed="false">both</button>
+        <legend class="sr-only" data-i18n="lang_legend">Language</legend>
+        <button type="button" data-lang="en" aria-pressed="true" data-i18n="lang_en">English</button>
+        <button type="button" data-lang="sv" aria-pressed="false" data-i18n="lang_sv">Svenska</button>
+        <button type="button" data-lang="both" aria-pressed="false" data-i18n="lang_both">Both</button>
       </fieldset>
-      <select id="source" aria-label="Källa / Source"><option value="">All sources</option></select>
-      <span class="status" id="status" aria-live="polite"></span>
-      <button type="button" class="refresh" id="refresh" title="Refresh headlines" aria-label="Refresh headlines">
+      <select id="source" aria-label="Source" data-i18n-attrs="aria-label:source_label"><option value="" data-i18n="all_sources">All sources</option></select>
+      <span class="status sr-only" id="status" aria-live="polite"></span>
+      <button type="button" class="refresh" id="refresh" title="Refresh headlines" aria-label="Refresh headlines" data-i18n-attrs="title:refresh_label,aria-label:refresh_label">
         <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12a8 8 0 1 1-2.34-5.66"/><path d="M20 4v5h-5"/></svg>
       </button>
-      <a class="kofi" href="https://ko-fi.com/swedlines" target="_blank" rel="noopener" title="Support Swedlines on Ko-fi" data-support="ko-fi" data-placement="header">☕ Buy us a fika</a>
+      <a class="kofi" href="https://ko-fi.com/swedlines" target="_blank" rel="noopener" title="Support Swedlines on Ko-fi" data-i18n="kofi_short" data-i18n-attrs="title:kofi_title" data-support="ko-fi" data-placement="header">☕ Buy us a fika</a>
     </div>
   </div>
   <div class="ticker-line"></div>
 </header>
-<main id="stream"><p class="empty">Loading headlines…</p></main>
+<main>
+  <p class="notice" id="notice" role="status" hidden></p>
+  <div id="stream"><p class="empty" data-i18n="loading">Loading headlines…</p></div>
+</main>
 <section class="support" aria-labelledby="support-title">
   <div class="support-box">
     <div class="text">
-      <h2 id="support-title">☕ Buy us a fika</h2>
-      <p>Enjoying Swedlines? Help cover hosting and translation costs and keep the site free for everyone.</p>
+      <h2 id="support-title" data-i18n="support_h2">☕ Buy us a fika</h2>
+      <p data-i18n="support_p">Enjoying Swedlines? Help cover hosting and translation costs and keep the site free for everyone.</p>
     </div>
-    <a class="support-cta" href="https://ko-fi.com/swedlines" target="_blank" rel="noopener" data-support="ko-fi" data-placement="footer">Support us on Ko-fi
+    <a class="support-cta" href="https://ko-fi.com/swedlines" target="_blank" rel="noopener" data-support="ko-fi" data-placement="footer"><span data-i18n="support_cta">Support us on Ko-fi</span>
       <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7"/><path d="M8 7h9v9"/></svg>
     </a>
   </div>
 </section>
+<section class="intro">
+  <h1 data-i18n="intro_h1">Swedish news. In English and Swedish.</h1>
+  <p class="lede" data-i18n="intro_lede">Headlines from leading Swedish publishers, together in one place.</p>
+  <p class="fine" data-i18n="intro_note">English headlines are machine-translated. Links open the original publisher’s article, usually in Swedish. Some articles require a subscription.</p>
+</section>
 <footer>
-  Headlines and teasers belong to their publishers; every link goes straight to the source. English text is machine-translated.
-  <a href="api/v1/latest.json">JSON API</a> · updated every 15 minutes.
-  Cookie-free aggregate statistics (page views and clicks on headlines, filters and the support link) via <a href="https://umami.is" rel="noopener">Umami</a>; no personal data is collected.
+  <p><span data-i18n="footer_rights">Headlines and teasers belong to their publishers.</span> <span data-i18n="footer_updated">Updated every 15 minutes.</span></p>
+  <p><a href="about/" data-i18n="about_link">About Swedlines</a> · <a href="about/#privacy" data-i18n="privacy_link">Privacy Policy</a></p>
 </footer>
 <script>
 (() => {
+  // Interface strings. "both" mode uses the English interface. {time} is substituted by fmt().
+  const I18N = {
+    en: {
+      lang_legend: "Language", lang_en: "English", lang_sv: "Svenska", lang_both: "Both",
+      source_label: "Source", all_sources: "All sources", refresh_label: "Refresh headlines",
+      kofi_short: "☕ Buy us a fika", kofi_title: "Support Swedlines on Ko-fi",
+      intro_h1: "Swedish news. In English and Swedish.",
+      intro_lede: "Headlines from leading Swedish publishers, together in one place.",
+      intro_note: "English headlines are machine-translated. Links open the original publisher’s article, usually in Swedish. Some articles require a subscription.",
+      about_link: "About Swedlines",
+      loading: "Loading headlines…", empty: "No headlines.", load_error: "Could not load headlines. Please try again later.",
+      status_updated: "Updated {time}", status_checked: "checked {time}", status_unknown: "Update time unknown",
+      stale_notice: "These headlines were last updated {time}. The feed has not refreshed recently, so newer stories may be missing.",
+      refresh_failed: "Refresh failed. Showing the headlines from {time}.",
+      refresh_failed_unknown: "Refresh failed. Showing the previously loaded headlines.",
+      untranslated: "not yet translated",
+      report_link: "Report translation issue",
+      report_subject: "Swedlines translation issue: {id}",
+      report_body: "Article ID: {id}\nPublisher URL: {url}\nLanguage view: {lang}\n\nWhat is wrong with the translation?\n",
+      support_h2: "☕ Buy us a fika",
+      support_p: "Enjoying Swedlines? Help cover hosting and translation costs and keep the site free for everyone.",
+      support_cta: "Support us on Ko-fi",
+      footer_rights: "Headlines and teasers belong to their publishers.",
+      footer_updated: "Updated every 15 minutes.",
+      privacy_link: "Privacy Policy",
+    },
+    sv: {
+      lang_legend: "Språk", lang_en: "English", lang_sv: "Svenska", lang_both: "Båda",
+      source_label: "Källa", all_sources: "Alla källor", refresh_label: "Uppdatera rubrikerna",
+      kofi_short: "☕ Bjud oss på fika", kofi_title: "Stöd Swedlines på Ko-fi",
+      intro_h1: "Svenska nyheter. På engelska och svenska.",
+      intro_lede: "Rubriker från ledande svenska publicister, samlade på ett ställe.",
+      intro_note: "Engelska rubriker är maskinöversatta. Länkarna öppnar publicistens originalartikel, oftast på svenska. Vissa artiklar kräver prenumeration.",
+      about_link: "Om Swedlines",
+      loading: "Laddar rubriker…", empty: "Inga rubriker.", load_error: "Rubrikerna kunde inte laddas. Försök igen senare.",
+      status_updated: "Uppdaterad {time}", status_checked: "kontrollerad {time}", status_unknown: "Uppdateringstid okänd",
+      stale_notice: "Rubrikerna uppdaterades senast {time}. Flödet har inte uppdaterats på ett tag, så nyare nyheter kan saknas.",
+      refresh_failed: "Uppdateringen misslyckades. Visar rubrikerna från {time}.",
+      refresh_failed_unknown: "Uppdateringen misslyckades. Visar de senast laddade rubrikerna.",
+      untranslated: "inte översatt än",
+      report_link: "Rapportera översättningsfel",
+      report_subject: "Swedlines översättningsfel: {id}",
+      report_body: "Artikel-ID: {id}\nPublicistens URL: {url}\nSpråkläge: {lang}\n\nVad är fel i översättningen?\n",
+      support_h2: "☕ Bjud oss på fika",
+      support_p: "Gillar du Swedlines? Hjälp till att täcka kostnaderna för drift och översättning så att sajten förblir gratis för alla.",
+      support_cta: "Stöd oss på Ko-fi",
+      footer_rights: "Rubriker och ingresser tillhör respektive publicist.",
+      footer_updated: "Uppdateras var 15:e minut.",
+      privacy_link: "Integritetspolicy",
+    },
+  };
+
   const stream = document.getElementById("stream");
   const sourceSel = document.getElementById("source");
+  const notice = document.getElementById("notice");
+  const refreshBtn = document.getElementById("refresh");
+  const status = document.getElementById("status");
   const langButtons = [...document.querySelectorAll("[data-lang]")];
+
   // Language: a saved choice wins; otherwise follow the browser (Swedish if it is among the
   // preferred languages, else English). The choice is kept in localStorage via the buttons below.
   function browserLang() {
@@ -137,7 +215,20 @@
     if (saved === "sv" || saved === "en" || saved === "both") lang = saved;
     source = localStorage.getItem("source") || "";
   } catch {}
-  document.documentElement.lang = lang === "sv" ? "sv" : "en";
+
+  const ui = () => (lang === "sv" ? "sv" : "en");
+  const t = key => I18N[ui()][key] ?? I18N.en[key] ?? key;
+  const fmt = (key, vars) => t(key).replace(/\{(\w+)\}/g, (_, k) => (vars && k in vars ? vars[k] : ""));
+  function applyI18n() {
+    document.documentElement.lang = ui();
+    for (const el of document.querySelectorAll("[data-i18n]")) el.textContent = t(el.dataset.i18n);
+    for (const el of document.querySelectorAll("[data-i18n-attrs]")) {
+      for (const pair of el.dataset.i18nAttrs.split(",")) {
+        const [attr, key] = pair.split(":");
+        el.setAttribute(attr, t(key));
+      }
+    }
+  }
 
   // Analytics (Umami). Fire-and-forget: if the tracker is blocked or not loaded yet, calls are
   // dropped, never queued, and never affect navigation or rendering.
@@ -161,27 +252,39 @@
     [4 * 3600, "Senaste 4 timmarna", "Last 4 hours"],
     [24 * 3600, "Tidigare i dag", "Earlier today"],
   ];
-  const dayFmt = () => new Intl.DateTimeFormat(lang === "sv" ? "sv-SE" : "en-GB", { timeZone: "Europe/Stockholm", weekday: "long", day: "numeric", month: "long" });
-  const timeFmt = new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Stockholm", hour: "2-digit", minute: "2-digit" });
+  const TZ = "Europe/Stockholm";
+  const locale = () => (ui() === "sv" ? "sv-SE" : "en-GB");
+  const dayFmt = () => new Intl.DateTimeFormat(locale(), { timeZone: TZ, weekday: "long", day: "numeric", month: "long" });
+  const timeFmt = new Intl.DateTimeFormat("sv-SE", { timeZone: TZ, hour: "2-digit", minute: "2-digit" });
+  const dateTimeFmt = () => new Intl.DateTimeFormat(locale(), { timeZone: TZ, day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
+  // Time of day if within the last 20 hours, otherwise date and time (all in Stockholm time).
+  const when = d => (Date.now() - d < 20 * 3600 * 1000 ? timeFmt.format(d) : dateTimeFmt().format(d));
 
   function rel(d, now) {
     const s = Math.max(0, (now - d) / 1000);
-    if (s < 60) return lang === "sv" ? "nu" : "now";
+    if (s < 60) return ui() === "sv" ? "nu" : "now";
     if (s < 3600) return `${Math.floor(s / 60)} min`;
     if (s < 86400) return `${Math.floor(s / 3600)} h`;
     return timeFmt.format(d);
   }
   function groupKey(d, now) {
     const age = (now - d) / 1000;
-    for (const [sec, sv, en] of WINDOWS) if (age < sec) return lang === "sv" ? sv : en;
+    for (const [sec, sv, en] of WINDOWS) if (age < sec) return ui() === "sv" ? sv : en;
     return dayFmt().format(d);
+  }
+
+  const CONTACT = "swedlines@gmail.com";
+  // mailto: prepared report; nothing is sent until the visitor sends the email themselves.
+  function reportHref(a) {
+    const vars = { id: a.id, url: a.url, lang };
+    return `mailto:${CONTACT}?subject=${encodeURIComponent(fmt("report_subject", vars))}&body=${encodeURIComponent(fmt("report_body", vars))}`;
   }
 
   function render() {
     if (!data) return;
     const now = Date.now();
     const items = data.items.filter(a => !source || a.source === source);
-    if (!items.length) { stream.innerHTML = '<p class="empty">No headlines.</p>'; return; }
+    if (!items.length) { stream.innerHTML = `<p class="empty">${t("empty")}</p>`; return; }
     const groups = new Map();
     for (const a of items) {
       const k = groupKey(new Date(a.published_at), now);
@@ -194,44 +297,48 @@
       for (const a of list) {
         const en = a.en && a.en.title;
         const primary = lang === "sv" ? a.sv.title : (en || a.sv.title);
-        const tag = lang !== "sv" && !en ? '<span class="untranslated">not yet translated</span>' : "";
-        const orig = lang === "both" && en ? `<div class="orig" lang="sv">${esc(a.sv.title)}</div>` : "";
+        const tag = lang !== "sv" && !en ? `<span class="untranslated">${t("untranslated")}</span>` : "";
+        const orig = lang === "both" && en
+          ? `<div class="orig" lang="sv">${esc(a.sv.title)} <a class="report" lang="${ui()}" href="${reportHref(a)}">${t("report_link")}</a></div>`
+          : "";
         html += `<li><span><a href="${esc(a.url)}" rel="noopener" lang="${lang === "sv" || !en ? "sv" : "en"}" data-id="${esc(a.id)}" data-source="${esc(a.source)}">${esc(primary)}</a>${tag}</span>` +
                 `<span class="meta"><span class="src">${esc(sources[a.source] || a.source)}</span> · ${rel(new Date(a.published_at), now)}</span>${orig}</li>`;
       }
       html += "</ul>";
     }
     stream.innerHTML = html;
-    showStatus();
   }
 
-  const refreshBtn = document.getElementById("refresh");
-  const status = document.getElementById("status");
-  let lastLoaded = null;
+  // Freshness. generatedAt comes from the feed (api/v1/latest.json generated_at), never from the
+  // browser clock, so a manual refresh of unchanged data does not look like a new update.
+  const STALE_MS = 45 * 60 * 1000;
+  let generatedAt = null; // Date, or null when the feed has no valid timestamp
+  let lastChecked = null; // Date of the last fetch attempt (success or failure)
+  let lastFailed = false;
+  const parseTs = s => { const d = typeof s === "string" ? new Date(s) : null; return d && !Number.isNaN(d.getTime()) ? d : null; };
+
   function showStatus() {
-    if (!lastLoaded) return;
-    const s = (Date.now() - lastLoaded) / 1000;
-    if (lang === "sv") status.textContent = s < 60 ? "uppdaterad nyss" : `uppdaterad ${timeFmt.format(lastLoaded)}`;
-    else status.textContent = s < 60 ? "updated just now" : `updated ${timeFmt.format(lastLoaded)}`;
-  }
-
-  async function load() {
-    refreshBtn.classList.add("busy");
-    try {
-      await fetchAll();
-      lastLoaded = new Date();
-    } finally {
-      refreshBtn.classList.remove("busy");
-      showStatus();
-    }
+    if (!lastChecked) return;
+    let text = generatedAt ? fmt("status_updated", { time: when(generatedAt) }) : t("status_unknown");
+    if (lastChecked - (generatedAt || 0) > 60 * 1000) text += ` · ${fmt("status_checked", { time: timeFmt.format(lastChecked) })}`;
+    // Shown as the refresh button's tooltip; the live region is screen-reader only.
+    if (status.textContent !== text) status.textContent = text;
+    refreshBtn.title = `${t("refresh_label")} · ${text}`;
+    let msg = "";
+    if (lastFailed && data) msg = generatedAt ? fmt("refresh_failed", { time: when(generatedAt) }) : t("refresh_failed_unknown");
+    else if (generatedAt && Date.now() - generatedAt > STALE_MS) msg = fmt("stale_notice", { time: when(generatedAt) });
+    notice.textContent = msg;
+    notice.hidden = !msg;
   }
 
   async function fetchAll() {
     const [latest, src] = await Promise.all([
-      fetch("api/v1/latest.json", { cache: "no-cache" }).then(r => r.json()),
-      fetch("api/v1/sources.json", { cache: "no-cache" }).then(r => r.json()),
+      fetch("api/v1/latest.json", { cache: "no-cache" }).then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
+      fetch("api/v1/sources.json", { cache: "no-cache" }).then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
     ]);
+    if (!latest || !Array.isArray(latest.items)) throw new Error("bad feed");
     data = latest;
+    generatedAt = parseTs(latest.generated_at);
     sources = Object.fromEntries(src.sources.map(s => [s.key, s.name]));
     if (sourceSel.options.length === 1) {
       for (const s of src.sources) {
@@ -242,13 +349,30 @@
     render();
   }
 
+  // A failed refresh keeps the headlines already on screen; only the first load can leave the page empty.
+  async function load() {
+    refreshBtn.classList.add("busy");
+    try {
+      await fetchAll();
+      lastFailed = false;
+    } catch (err) {
+      lastFailed = true;
+      if (!data) stream.innerHTML = `<p class="empty">${t("load_error")}</p>`;
+    } finally {
+      lastChecked = new Date();
+      refreshBtn.classList.remove("busy");
+      showStatus();
+    }
+  }
+
   for (const b of langButtons) b.addEventListener("click", () => {
     if (b.dataset.lang === lang) return;
     lang = b.dataset.lang;
     for (const x of langButtons) x.setAttribute("aria-pressed", String(x === b));
     try { localStorage.setItem("lang", lang); } catch {}
-    document.documentElement.lang = lang === "sv" ? "sv" : "en";
+    applyI18n();
     render();
+    showStatus();
     track("language_change", { language: lang });
   });
   for (const b of langButtons) b.setAttribute("aria-pressed", String(b.dataset.lang === lang));
@@ -258,6 +382,7 @@
     render();
     track("source_filter_change", { publisher: source || "all" });
   });
+  refreshBtn.addEventListener("click", () => load());
 
   // One delegated listener on the stable container: survives every re-render of the list.
   const onHeadline = e => {
@@ -277,9 +402,10 @@
     a.addEventListener("click", onSupport);
     a.addEventListener("auxclick", onSupport);
   }
-  refreshBtn.addEventListener("click", () => load().catch(() => { status.textContent = lang === "sv" ? "kunde inte uppdatera" : "could not refresh"; }));
-  load().catch(err => { stream.innerHTML = `<p class="empty">Kunde inte ladda rubriker (${err.message}).</p>`; });
-  setInterval(() => load().catch(() => {}), 5 * 60 * 1000);
+
+  applyI18n();
+  load();
+  setInterval(load, 5 * 60 * 1000);
   setInterval(showStatus, 30 * 1000);
 })();
 </script>
