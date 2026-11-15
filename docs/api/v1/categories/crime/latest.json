@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-15T16:45:49+01:00",
-  "count": 62,
+  "generated_at": "2026-11-15T17:01:26+01:00",
+  "count": 64,
   "items": [
+    {
+      "id": "a829a2cc1c1e",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/skane/han-gick-emellan-brak-pa-oresundstaget-slogs-ned",
+      "guid": "3e81cf2e-9844-48b6-8077-ab82c4dd2569",
+      "published_at": "2026-11-15T17:00:00+01:00",
+      "fetched_at": "2026-11-15T17:01:11+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/0a9e0849-2013-4bb9-bc9f-116a60d8e9eb.jpeg?width=600",
+      "sv": {
+        "title": "Han gick emellan bråk på Öresundståget – slogs ned",
+        "summary": "Jonathan Pedersen ligger på tåggolvet medan två tonårskillar sparkar och slår honom. Bara minuter tidigare hade han gått emellan när de bråkade med en kvinna. Trots att han vet hur det slutade hade han gjort samma sak igen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "He stepped in between fighting on the Öresund train – beaten up",
+        "summary": "Jonathan Pedersen lies on the train floor while two teenage boys kick and hit him. Just minutes earlier he had stepped in when they were arguing with a woman. Even though he knows how it ended, he did the same thing again."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T17:01:25+01:00"
+      }
+    },
+    {
+      "id": "9e68dacea5c0",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/7P03eW/misstankt-haktad-for-medhjalp-till-alvsjomord",
+      "guid": "https://www.aftonbladet.se/nyheter/a/7P03eW/misstankt-haktad-for-medhjalp-till-alvsjomord?utm_medium=rss",
+      "published_at": "2026-11-15T16:50:45+01:00",
+      "fetched_at": "2026-11-15T17:01:08+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/44b28be4-7855-3bc6-b8a5-d5e22ea532d4?format=auto&s=f2693a92da76b8548534eb2cb090b7905defa331&w=1000",
+      "sv": {
+        "title": "Misstänkt häktad för medhjälp till Älvsjömord",
+        "summary": "En man i 25-årsåldern har häktats misstänkt för medhjälp till mordet på en 24-årig kvinna i Älvsjö i…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspect remanded in custody for aiding Älvsjö murder",
+        "summary": "A man in his mid-20s has been remanded in custody on suspicion of aiding the murder of a 24-year-old woman in Älvsjö in…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T17:01:25+01:00"
+      }
+    },
     {
       "id": "44c5a1b12ed3",
       "schema_version": 1,
