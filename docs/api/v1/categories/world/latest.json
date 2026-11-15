@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-15T22:45:45+01:00",
+  "generated_at": "2026-11-15T23:01:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "43d9e1c9de19",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/massiv-protest-mot-public-service-forandringar",
+      "guid": "6dc41e8f-6c7b-4dcd-82c7-7ddf68ec8627",
+      "published_at": "2026-11-15T22:48:23+01:00",
+      "fetched_at": "2026-11-15T23:01:10+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/cf73f6d3-8ae0-4580-81a0-062ca1dcaad5.jpg?width=600",
+      "sv": {
+        "title": "Massiv protest mot public service-förändringar",
+        "summary": "Hundratusentals människor samlades på den tjeckiska huvudstaden Prags gator för omfattande demonstrationer mot planerade nedskärningar av landets public service-bolag. Kritiker befarar att yttrande- och pressfriheten inskränks.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Massive protest against public service changes",
+        "summary": "Hundreds of thousands of people gathered on the streets of the Czech capital Prague for large-scale demonstrations against planned cuts to the country's public service broadcasters. Critics fear that freedom of expression and freedom of the press will be restricted."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T23:01:14+01:00"
+      }
+    },
     {
       "id": "47c3a1191bc2",
       "schema_version": 1,
@@ -5365,32 +5392,6 @@
       "en": {
         "title": "Death toll rises after building collapse in Brooklyn",
         "summary": "The death toll has risen to at least eight people since a three-storey building collapsed in Brooklyn, New York, on Wednesday afternoon, CNN reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "fa0de0ea3e1b",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/ryssland-dribblar-bort-europa",
-      "guid": "https://www.svt.se/nyheter/utrikes/ryssland-dribblar-bort-europa",
-      "published_at": "2026-11-11T22:23:07+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "”Ryssland dribblar bort Europa”",
-        "summary": "På fredsfronten intet nytt. Förväntningarna på trepartssamtalen i Abu Dhabi var låga och tonen efter att de avslutats försiktigt optimistisk – men vilken part har egentligen flyttat fram sina positioner?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "'Russia is dribbling past Europe'",
-        "summary": "All quiet on the peace front. Expectations for the three-party talks in Abu Dhabi were low and the tone after they ended cautiously optimistic – but which party has actually advanced its positions?"
       },
       "translation": {
         "status": "done",
