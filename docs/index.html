@@ -90,8 +90,19 @@
   const stream = document.getElementById("stream");
   const sourceSel = document.getElementById("source");
   const langButtons = [...document.querySelectorAll("[data-lang]")];
-  let lang = "en", source = "", data = null, sources = {};
-  try { lang = localStorage.getItem("lang") || "en"; source = localStorage.getItem("source") || ""; } catch {}
+  // Language: a saved choice wins; otherwise follow the browser (Swedish if it is among the
+  // preferred languages, else English). The choice is kept in localStorage via the buttons below.
+  function browserLang() {
+    const prefs = (navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || "en"]).map(l => String(l).toLowerCase());
+    return prefs.some(l => l === "sv" || l.startsWith("sv-")) ? "sv" : "en";
+  }
+  let lang = browserLang(), source = "", data = null, sources = {};
+  try {
+    const saved = localStorage.getItem("lang");
+    if (saved === "sv" || saved === "en" || saved === "both") lang = saved;
+    source = localStorage.getItem("source") || "";
+  } catch {}
+  document.documentElement.lang = lang === "sv" ? "sv" : "en";
 
   const WINDOWS = [
     [10 * 60, "Senaste 10 minuterna", "Last 10 minutes"],
@@ -184,6 +195,7 @@
     lang = b.dataset.lang;
     for (const x of langButtons) x.setAttribute("aria-pressed", String(x === b));
     try { localStorage.setItem("lang", lang); } catch {}
+    document.documentElement.lang = lang === "sv" ? "sv" : "en";
     render();
   });
   for (const b of langButtons) b.setAttribute("aria-pressed", String(b.dataset.lang === lang));

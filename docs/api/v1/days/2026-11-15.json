@@ -1,7 +1,735 @@
 {
-  "generated_at": "2026-11-15T10:06:16+01:00",
-  "count": 107,
+  "generated_at": "2026-11-15T11:27:02+01:00",
+  "count": 134,
   "items": [
+    {
+      "id": "199f9ba1ba8f",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5ZfKDIt2fp0T5Mfs5kRVCG/oedesdag-foer-c-hemligt-toppmoete-idag",
+      "guid": "5ZfKDIt2fp0T5Mfs5kRVCG",
+      "published_at": "2026-11-15T11:25:24+01:00",
+      "fetched_at": "2026-11-15T11:26:40+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Svensk politik"
+      ],
+      "sv": {
+        "title": "Ödesdag för C – hemligt toppmöte idag",
+        "summary": "Aftonbladet och DN erfar: Ska fatta beslut om riktning • Mobilförbud",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Doomsday for C – secret summit today",
+        "summary": "Aftonbladet and DN learn: Will decide on direction • Mobile ban"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "337dce4f1d29",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/magnus-carlsson-aterforenas-med-barbados",
+      "guid": "f3887ce6-17c6-4195-8c78-e6c0ddbe6c83",
+      "published_at": "2026-11-15T11:13:28+01:00",
+      "fetched_at": "2026-11-15T11:26:42+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/7b0fa48d-cdd3-4a9f-b3b2-06e617d9db33.jpg?width=600",
+      "sv": {
+        "title": "Magnus Carlsson återförenas med Barbados",
+        "summary": "Här är glädjenyheten för alla dansbandsfans: Barbados återförenas – med Magnus Carlsson. – Nu har vi fått till det, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Magnus Carlsson reunites with Barbados",
+        "summary": "Here is the good news for all dance band fans: Barbados is reuniting – with Magnus Carlsson. – We've managed it now, he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "7c35a61e99b9",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Vxbzer/anthropic-till-borsen-stresstest-for-ai-marknaden",
+      "guid": "https://www.svd.se/a/Vxbzer/anthropic-till-borsen-stresstest-for-ai-marknaden?utm_medium=rss",
+      "published_at": "2026-11-15T11:12:03+01:00",
+      "fetched_at": "2026-11-15T11:26:38+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/b5e46608-1cb3-3926-aa39-15bd78c7e2dc?format=auto&s=7b7d3fa7e26776c7ec9e619d6514c405aa89cc1b&w=1000",
+      "sv": {
+        "title": "Anthropic till börsen: Stresstest för AI-marknaden",
+        "summary": "Anthropics börsnotering närmar sig. AI-jättens intåg på Nasdaqbörsen i New York blir därmed en…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic goes public: stress test for the AI market",
+        "summary": "Anthropic's stock market listing is approaching. The AI giant's debut on the Nasdaq exchange in New York will therefore be a…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "f7380da5f052",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/burlov/sofia-53-har-sokt-tusentals-jobb-sonen-linkedin-inlagg-blev-vandningen",
+      "guid": "6e2c929d-e808-4413-a720-909dc6df5643",
+      "published_at": "2026-11-15T11:08:20+01:00",
+      "fetched_at": "2026-11-15T11:26:42+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/872e9e1e-b77c-4eca-a6e1-0cb46e86be00.jpeg?width=600",
+      "sv": {
+        "title": "Sofia, 53, har sökt tusentals jobb – sonens Linkedin-inlägg blev vändningen",
+        "summary": "Sofia Olsson, 53, sökte tusentals jobb utan att få komma på intervju. När hon ringde och grät över sin situation tog sonen Leo sociala medier till hjälp. Hans Linkedin-inlägg, där han efterlyser jobb till sin mamma, har nu närmare en halv miljon läsare – många av dem delar Sofia Olssons frustration.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sofia, 53, has applied for thousands of jobs – her son's LinkedIn post became the turning point",
+        "summary": "Sofia Olsson, 53, applied for thousands of jobs without getting an interview. When she called and cried over her situation, her son Leo turned to social media for help. His LinkedIn post, in which he appeals for work for his mother, now has nearly half a million readers – many of them share Sofia Olsson's frustration."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "3281be39f13a",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/linda-leopold-jag-alskar-ai-men-det-blir-allt-svarare-att-saga-hogt",
+      "guid": "https://www.dn.se/kultur/linda-leopold-jag-alskar-ai-men-det-blir-allt-svarare-att-saga-hogt/",
+      "published_at": "2026-11-15T11:06:29+01:00",
+      "fetched_at": "2026-11-15T11:26:37+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/b482ed69-0e1a-462b-8479-a76c79447fed.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Linda Leopold: Jag älskar AI, men det blir allt svårare att säga högt",
+        "summary": "Att artificiell intelligens kan förgöra oss vet vi redan. Men hur ser framtiden ut om tekniken faktiskt uppfyller sina löften? AI-strategen Linda Leopold prövar sin alltmer komplicerade kärlek till tekniken.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Linda Leopold: I love AI, but it's getting harder to say so out loud",
+        "summary": "That artificial intelligence could destroy us we already know. But what does the future look like if the technology actually fulfils its promises? AI strategist Linda Leopold tests her increasingly complicated love for the technology."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "03e8269aeb06",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jamtland/misstankt-plutonium-hittat-pa-aldreboende-i-ostersund",
+      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/misstankt-plutonium-hittat-pa-aldreboende-i-ostersund",
+      "published_at": "2026-11-15T11:05:45+01:00",
+      "fetched_at": "2026-11-15T11:26:35+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Misstänkt plutonium hittat på äldreboende i Östersund",
+        "summary": "Under söndagsförmiddagen ryckte räddningstjänsten ut till ett äldreboende i centrala Östersund efter larm om att en burk märkt med texten plutonium hittas.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspected plutonium found at care home in Östersund",
+        "summary": "On Sunday morning, the rescue service was dispatched to a care home in central Östersund after an alarm that a can labelled \"plutonium\" had been found."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "8b2a35c9a61a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/elvira-obergs-succe-fortsatter-vinner-igen",
+      "guid": "46c1c61b-7ce3-4cee-b547-06e38e3e029e",
+      "published_at": "2026-11-15T11:04:51+01:00",
+      "fetched_at": "2026-11-15T11:26:42+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/07f749fc-6f7e-4548-bb1b-530d515cdf15.jpg?width=600",
+      "sv": {
+        "title": "Elvira Öbergs succé fortsätter – vinner igen",
+        "summary": "Vilken start på säsongen, Elvira Öberg! Skidskyttestjärnan vann söndagens sprint över 7,5 kilometer i Idre.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elvira Öberg's success continues – wins again",
+        "summary": "What a start to the season, Elvira Öberg! The biathlon star won Sunday's 7.5-kilometre sprint in Idre."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "e12998951b63",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/sverige/nk-avslojar-julskyltningen-",
+      "guid": "https://www.expressen.se/tv/nyheter/sverige/nk-avslojar-julskyltningen-",
+      "published_at": "2026-11-15T11:04:09+01:00",
+      "fetched_at": "2026-11-15T11:26:39+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "NK avslöjar julskyltning",
+        "summary": "Klassiska NK avtäcker årets tema",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "NK unveils Christmas window display",
+        "summary": "The classic NK unveils this year's theme"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "19a97021ad56",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/ez1A5O/studentprotester-i-europa-visar-generation-z-s-missnoje-med-ekonomin",
+      "guid": "https://www.svd.se/a/ez1A5O/studentprotester-i-europa-visar-generation-z-s-missnoje-med-ekonomin?utm_medium=rss",
+      "published_at": "2026-11-15T11:03:20+01:00",
+      "fetched_at": "2026-11-15T11:26:38+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/45e8ee70-d88a-31ef-bbac-4dca7728a42d?format=auto&s=8c4c2f6335cd9fbab4942a3ba10c7aceb9f61818&w=1000",
+      "sv": {
+        "title": "68-generationen lämnar notan till barnbarnen",
+        "summary": "Boomers skuld och tillväxtkris driver Generation Z till protest.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The 68 generation leaves the bill to the grandchildren",
+        "summary": "Boomers' debt and growth crisis drive Generation Z to protest."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "357577765407",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79929",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79929&utm_medium=rss",
+      "published_at": "2026-11-15T10:58:18+01:00",
+      "fetched_at": "2026-11-15T11:26:38+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Öbergs succé fortsätter – vinner sprinten"
+      },
+      "en": {
+        "title": "Öberg's success continues – wins the sprint"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "e35ce97f0149",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/debatt/lrf-offra-inte-bonderna-i-forhandlingarna",
+      "guid": "5fb67763-a354-4ec7-a626-b26935f80c6f",
+      "published_at": "2026-11-15T10:55:02+01:00",
+      "fetched_at": "2026-11-15T11:26:40+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e905a88e-6a40-42de-b2d9-dcffa644a88b.jpeg?width=600",
+      "sv": {
+        "title": "LRF: Offra inte bönderna i förhandlingarna",
+        "summary": "När Centerpartiet efterlyser öppen budgivning och sakpolitiska paket från Socialdemokraterna och Moderaterna har vi bönder och skogsägare ett erbjudande: mer av det Sverige behöver. Buda inte bort den möjligheten, skriver Palle Borgström, förbundsordförande LRF.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "LRF: Don't sacrifice the farmers in the negotiations",
+        "summary": "When the Centre Party calls for open bidding and policy packages from the Social Democrats and the Moderates, we farmers and forest owners have an offer: more of what Sweden needs. Don't bid that opportunity away, writes Palle Borgström, chair of LRF."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "02de80fda5e6",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/skidskytte/elvira-obergs-uppvisning-vinner-sprinten-overlagset",
+      "guid": "https://www.svt.se/sport/skidskytte/elvira-obergs-uppvisning-vinner-sprinten-overlagset",
+      "published_at": "2026-11-15T10:52:47+01:00",
+      "fetched_at": "2026-11-15T11:26:35+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Elvira Öbergs uppvisning – vinner sprinten överlägset",
+        "summary": "Elvira Öberg glänste i Sverigepremiären. Hon var helt överlägsen i söndagens sprint. – 90 procent på vallen i dag. Jag är jättenöjd, säger Öberg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elvira Öberg's show – wins the sprint by a wide margin",
+        "summary": "Elvira Öberg shone at the Swedish season opener. She was completely dominant in Sunday's sprint. – 90 percent on the ski track today. I'm very pleased, says Öberg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "07d18b954ccc",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/LoAM9R/barbados-aterforenas-efter-25-ar-med-magnus-carlsson",
+      "guid": "https://www.svd.se/a/LoAM9R/barbados-aterforenas-efter-25-ar-med-magnus-carlsson?utm_medium=rss",
+      "published_at": "2026-11-15T10:45:06+01:00",
+      "fetched_at": "2026-11-15T11:26:38+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/0cac326c-fba1-3825-9cd6-05325db508d8?format=auto&s=318f2079edd85007916ca2a0ae95ee2bb638e9af&w=1000",
+      "sv": {
+        "title": "Barbados återförenas – med Magnus Carlsson",
+        "summary": "Här är glädjenyheten för alla dansbandsfans: Barbados återförenas – med Magnus Carlsson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Barbados reunites – with Magnus Carlsson",
+        "summary": "Here is the good news for all dance band fans: Barbados is reuniting – with Magnus Carlsson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "2d3498a68f5d",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/ekonomi/goteborgs-dyraste-bostadsforsaljningar-i-oktober.2b1c6693-6c29-5fa1-9e59-d049e00969f8",
+      "guid": "2b1c6693-6c29-5fa1-9e59-d049e00969f8",
+      "published_at": "2026-11-15T10:44:55+01:00",
+      "fetched_at": "2026-11-15T11:26:41+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/af1ec543-e3ff-36aa-b018-7f31cf4854f7",
+      "sv": {
+        "title": "Lyxig villa i Göteborg såld för 27 miljoner kronor",
+        "summary": "Här är oktobers dyraste bostadsförsäljningar",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Luxury villa in Göteborg sold for SEK 27 million",
+        "summary": "Here are October's most expensive home sales"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "7d01d358283a",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/kMJwKX/anfall-mot-industrin-i-ryska-tatarstan",
+      "guid": "https://www.aftonbladet.se/nyheter/a/kMJwKX/anfall-mot-industrin-i-ryska-tatarstan?utm_medium=rss",
+      "published_at": "2026-11-15T10:39:47+01:00",
+      "fetched_at": "2026-11-15T11:26:39+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Anfall mot industrin i ryska Tatarstan",
+        "summary": "Ukraina har gått till anfall i Tatarstan i Ryssland, meddelar myndigheterna där.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Attack on industry in Russia's Tatarstan",
+        "summary": "Ukraine has launched an attack in Tatarstan in Russia, the authorities there announce."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "fa1adae845e4",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/barbados-aterforenas-for-turne-2027.de748f33-1086-5f5f-98de-bb240b5cb28b",
+      "guid": "de748f33-1086-5f5f-98de-bb240b5cb28b",
+      "published_at": "2026-11-15T10:38:18+01:00",
+      "fetched_at": "2026-11-15T11:26:41+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: Kultur"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/1761176d-0725-355d-a320-56a8ec3b1e7f",
+      "sv": {
+        "title": "Ikoniska dansbandet gör comeback efter 25 år",
+        "summary": "Barbados återförering har premiär i Partille arena.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Iconic dance band makes comeback after 25 years",
+        "summary": "Barbados' reunion premieres at Partille Arena."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "84320452135e",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/svart-att-jazza-fram-odsligheten-i-kvarteret-korpen",
+      "guid": "https://www.dn.se/kultur/svart-att-jazza-fram-odsligheten-i-kvarteret-korpen/",
+      "published_at": "2026-11-15T10:37:14+01:00",
+      "fetched_at": "2026-11-15T11:26:37+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/22ef366c-7aa6-4088-9c1f-60aa63c2ffd9.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Svårt att jazza fram ödsligheten i ”Kvarteret Korpen”",
+        "summary": "Bo Widerbergs film ”Kvarteret Korpen” är en odödlig Malmöskildring. Som opera blir det en levande och underbart jazzig föreställning – men hopplösheten fäster inte, skriver DN:s Kristina Lindquist.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hard to jazz up the desolation in \"Kvarteret Korpen\"",
+        "summary": "Bo Widerberg's film \"Kvarteret Korpen\" is an immortal portrayal of Malmö. As an opera it becomes a lively and wonderfully jazzy performance – but the hopelessness doesn't land, writes DN's Kristina Lindquist."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "21152b7e750e",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7JsWwhfEM58da3vGvy7Nxc/dansbandet-barbados-aterfoerenas-med-alla-originalmedlemmar",
+      "guid": "7JsWwhfEM58da3vGvy7Nxc",
+      "published_at": "2026-11-15T10:35:41+01:00",
+      "fetched_at": "2026-11-15T11:26:40+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Nöje"
+      ],
+      "sv": {
+        "title": "Barbados återförenas – efter snart 25 år",
+        "summary": "Carlsson lämnade Barbados hösten 2002 för en internationell karriär med Alcazar och därefter som soloartist. Nu återförenas originalmedlemmarna för en rikstäckande arenaturné. – Det har varit på tal många gånger men det ska också funka med de liv vi lever, säger basisten Peter Samuelsson.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Barbados reunites – after nearly 25 years",
+        "summary": "Carlsson left Barbados in autumn 2002 for an international career with Alcazar and later as a solo artist. Now the original members are reuniting for a nationwide arena tour. – It's been discussed many times but it also has to work with the lives we live, says bassist Peter Samuelsson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "a7eb5c48fee8",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/bill-gates-tjanar-miljarder-pa-klimatforstorande-soptippar",
+      "guid": "https://www.dn.se/varlden/bill-gates-tjanar-miljarder-pa-klimatforstorande-soptippar/",
+      "published_at": "2026-11-15T10:33:24+01:00",
+      "fetched_at": "2026-11-15T11:26:37+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e75857d3-ffbd-4a5f-922b-862c10cbcd4a.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Bill Gates tjänar miljarder på klimatförstörande soptippar",
+        "summary": "Bill Gates har lyfts fram som en förkämpe för klimatet. Han har samtidigt investerat miljarder dollar i soptippar – som står för mängder av utsläpp, enligt Propublica.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bill Gates earns billions from climate-damaging landfills",
+        "summary": "Bill Gates has been held up as a champion of the climate. At the same time he has invested billions of dollars in landfills – which account for large amounts of emissions, according to ProPublica."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "57a7084bb501",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/kMJWnL/svd-s-litteraturpristagare-lida-starodubtseva-om-stalins-fordrivning-av-finska-minoriteten",
+      "guid": "https://www.svd.se/a/kMJWnL/svd-s-litteraturpristagare-lida-starodubtseva-om-stalins-fordrivning-av-finska-minoriteten?utm_medium=rss",
+      "published_at": "2026-11-15T10:30:40+01:00",
+      "fetched_at": "2026-11-15T11:26:38+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/16f8833e-39c3-35bc-bc55-0ad34ba02bb1?format=auto&s=09b00eceabcc0e9b08d142709338d459851f239b&w=1000",
+      "sv": {
+        "title": "”Jag minns att mamma blev helt vit i ansiktet”",
+        "summary": "Mormor anklagades för att vara spion – på grund av att hon kom från Finland.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"I remember Mum went completely white in the face\"",
+        "summary": "Grandmother was accused of being a spy – because she came from Finland."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "8edffcbb02fb",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/mM67W1/spionaffarerna-i-silicon-valley-skakar-bransch-som-delar-allt",
+      "guid": "https://www.svd.se/a/mM67W1/spionaffarerna-i-silicon-valley-skakar-bransch-som-delar-allt?utm_medium=rss",
+      "published_at": "2026-11-15T10:30:11+01:00",
+      "fetched_at": "2026-11-15T11:26:38+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/7b448451-c62e-3dc7-b12f-55104dc0fe42?format=auto&s=416c2d2ca3c2204a649d1bbb6fb2ff3849f05ee3&w=1000",
+      "sv": {
+        "title": "Hemligt toppmöte start för ”omöjlig” spionjakt",
+        "summary": "Silicon Valley är en av världens hetaste måltavlor för spionage. Men hur skyddar man världens…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Secret summit starts for \"impossible\" spy hunt",
+        "summary": "Silicon Valley is one of the world's hottest targets for espionage. But how does one protect the world's…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "20ac13689ca4",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/8Pml31/jazzen-ger-andrum-i-malmos-fattigkvarter",
+      "guid": "https://www.svd.se/a/8Pml31/jazzen-ger-andrum-i-malmos-fattigkvarter?utm_medium=rss",
+      "published_at": "2026-11-15T10:30:00+01:00",
+      "fetched_at": "2026-11-15T11:26:38+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/148fd2dc-3918-307f-abcb-bb36f04024f2?format=auto&s=3dffb3ac0f23ae59f845caa3490257f85b729991&w=1000",
+      "sv": {
+        "title": "Jazzen ger andrum i Malmös fattigkvarter",
+        "summary": "Bo Widerbergs ikoniska film ”Kvarteret Korpen” har blivit en nyansrik opera i Malmö.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Jazz brings breathing space to Malmö's poor district",
+        "summary": "Bo Widerberg's iconic film \"Kvarteret Korpen\" has become a nuanced opera in Malmö."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "fe77bb2ad437",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/0p33lG?pinnedEntry=79927",
+      "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=79927&utm_medium=rss",
+      "published_at": "2026-11-15T10:28:57+01:00",
+      "fetched_at": "2026-11-15T11:26:38+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/d260d5f0-de77-3dd0-82e5-8dfc7842f640?format=auto&s=02c5a089bcf7c9815ee96d4d9b0b4b136a492798&w=1000",
+      "sv": {
+        "title": "Uppgifter: C kallar alla distrikt till möten"
+      },
+      "en": {
+        "title": "Reports: C calls all districts to meetings"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "350c11eaac8b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/fotbollslandslaget-far-ledigt-efter-segern",
+      "guid": "640a4fec-20c1-4073-98d5-57808d0e414b",
+      "published_at": "2026-11-15T10:27:55+01:00",
+      "fetched_at": "2026-11-15T11:26:42+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/c72db725-2388-4802-9c16-5d3041108da1.jpg?width=600",
+      "sv": {
+        "title": "Fotbollslandslaget får ledigt efter segern",
+        "summary": "Sverige slog Bosnien-Hercegovina med 3–2 och säkrade gruppsegern i Nations League. På söndagen belönades spelarna med en ledig dag av landslagsledningen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Football national team gets day off after victory",
+        "summary": "Sweden beat Bosnia-Herzegovina 3–2 and secured the group win in the Nations League. On Sunday the players were rewarded with a day off by the national team management."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "73205a2f2328",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/centerpartiet-samlar-distrikten-till-mote-pressas-hart",
+      "guid": "https://www.expressen.se/nyheter/politik/centerpartiet-samlar-distrikten-till-mote-pressas-hart/",
+      "published_at": "2026-11-15T10:22:11+01:00",
+      "fetched_at": "2026-11-15T11:26:39+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Centerpartiet samlas till möte – pressas hårt",
+        "summary": "Centerpartiet närmar sig sitt ödesbeslut. Under dagen håller partiet möte på hög nivå, enligt uppgifter. – Det är press på partiet, säger statsvetaren Jenny Madestam.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre Party gathers for meeting – under heavy pressure",
+        "summary": "The Centre Party is approaching its fateful decision. During the day the party holds a high-level meeting, according to reports. – There is pressure on the party, says political scientist Jenny Madestam."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:26:59+01:00"
+      }
+    },
+    {
+      "id": "82a6266ba260",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/tre-doms-till-doden-for-kyrkattack",
+      "guid": "eeb838b9-3426-4d72-8e45-7a9d89855c39",
+      "published_at": "2026-11-15T10:12:21+01:00",
+      "fetched_at": "2026-11-15T11:26:42+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/d3c17e19-225b-4c2c-9e7e-63de10ce6d68.jpg?width=600",
+      "sv": {
+        "title": "Tre döms till döden för kyrkattack",
+        "summary": "Tre män döms till döden för att ha skjutit ihjäl nio personer i en kyrka i Jordanien.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Three sentenced to death for church attack",
+        "summary": "Three men are sentenced to death for shooting nine people dead in a church in Jordan."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:27:01+01:00"
+      }
+    },
+    {
+      "id": "15fff184ffe9",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/fullmaktiges-ordforande-bor-avga",
+      "guid": "9474da06-dcbe-4e84-a19f-f6800eef4f7f",
+      "published_at": "2026-11-15T10:10:00+01:00",
+      "fetched_at": "2026-11-15T11:26:42+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/4e617567-0467-4a29-b325-1a10cf9b3ef6.jpeg?width=600",
+      "sv": {
+        "title": "Fullmäktiges ordförande bör avgå",
+        "summary": "Kommunfullmäktiges ordförande Mats Helmfrid (M) bör snarast avgå, med anledning av vad som hänt kring p-bolaget LKP. Det menar en insändarskribent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Chair of the municipal council should resign",
+        "summary": "The chair of the municipal council, Mats Helmfrid (M), should resign immediately, in light of what has happened surrounding the parking company LKP. This is the view of a letter writer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T11:27:01+01:00"
+      }
+    },
     {
       "id": "a97cb6ad7ec7",
       "schema_version": 1,
