@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-15T15:45:48+01:00",
-  "count": 76,
+  "generated_at": "2026-11-15T16:01:24+01:00",
+  "count": 78,
   "items": [
+    {
+      "id": "2139f205ad5d",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5ceY2Z6aq1trT50SCVkGZD/intern-kritik-mot-muf-taevling-kaendes-ganska-sunkigt",
+      "guid": "5ceY2Z6aq1trT50SCVkGZD",
+      "published_at": "2026-11-15T15:58:01+01:00",
+      "fetched_at": "2026-11-15T16:01:12+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Intern kritik mot Muf-tävling: ”Kändes ganska sunkigt”",
+        "summary": "Kan utlösa skattesmäll: ”Väntar på svar”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Internal criticism of Muf competition: \"It felt rather sleazy\"",
+        "summary": "Could trigger a tax hit: \"Waiting for an answer\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T16:01:23+01:00"
+      }
+    },
     {
       "id": "7b643e0cb21b",
       "schema_version": 1,
@@ -2172,6 +2201,27 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T15:02:05+01:00"
+      }
+    },
+    {
+      "id": "70e28a5626b3",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1XuNYRTNMOgmBiQMmuwX67/muf-hade-propagandataevling-betalade-32-000-kronor-i-priser",
+      "guid": "1XuNYRTNMOgmBiQMmuwX67",
+      "published_at": "2026-11-11T19:17:05+01:00",
+      "fetched_at": "2026-11-15T16:01:12+01:00",
+      "category": "general",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Muf hade propagandatävling – betalade 32 000 kronor i priser",
+        "summary": "Korruptionsexperten: ”Kan urholka förtroendet”",
+        "summary_origin": "feed"
+      },
+      "translation": {
+        "status": "pending"
       }
     },
     {

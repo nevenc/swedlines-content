@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-15T15:45:48+01:00",
-  "count": 88,
+  "generated_at": "2026-11-15T16:01:24+01:00",
+  "count": 90,
   "items": [
+    {
+      "id": "243d42ba435a",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Xogjmg/dansk-butik-ranad-pa-pokemonkort-for-miljonbelopp",
+      "guid": "https://www.svd.se/a/Xogjmg/dansk-butik-ranad-pa-pokemonkort-for-miljonbelopp?utm_medium=rss",
+      "published_at": "2026-11-15T15:23:29+01:00",
+      "fetched_at": "2026-11-15T16:01:11+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/e815c141-3d8c-34d5-87d5-f4c878e977ff?format=auto&s=e0172752ea79e41d7ac082374b343896eeee001e&w=1000",
+      "sv": {
+        "title": "Rånbytet: Pokémon – för 1 miljon",
+        "summary": "Flera maskerade personer har rånat en butik i danska Lyngby som bland annat säljer…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Robbery haul: Pokémon – for 1 million",
+        "summary": "Several masked people have robbed a shop in Danish Lyngby that, among other things, sells…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T16:01:23+01:00"
+      }
+    },
     {
       "id": "904542d03fd2",
       "schema_version": 1,
@@ -23,6 +50,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T14:51:58+01:00"
+      }
+    },
+    {
+      "id": "e59e213379fe",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/R1Rzed/regeringsstyrkor-retirerar-fran-bab-al-mandab",
+      "guid": "https://www.svd.se/a/R1Rzed/regeringsstyrkor-retirerar-fran-bab-al-mandab?utm_medium=rss",
+      "published_at": "2026-11-15T14:18:38+01:00",
+      "fetched_at": "2026-11-15T16:01:11+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/2a74a52f-87c3-3d0d-9030-73bc67cfdc3e?format=auto&s=12a058c61df5eee7656045ab41a5765f58d5e34e&w=1000",
+      "sv": {
+        "title": "Regimen i Jemen ger upp viktigt sund",
+        "summary": "Styrkor allierade med regeringen i Jemen drar sig tillbaka från slagfälten vid det strategiska…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The regime in Yemen gives up important strait",
+        "summary": "Forces allied with the government in Yemen are withdrawing from the battlefields at the strategic…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T16:01:23+01:00"
       }
     },
     {
