@@ -1,7 +1,111 @@
 {
-  "generated_at": "2026-11-15T03:31:51+01:00",
-  "count": 113,
+  "generated_at": "2026-11-15T08:30:14+01:00",
+  "count": 117,
   "items": [
+    {
+      "id": "462e8c425b30",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/curling/eva-lund-om-os-skandalen-curlingen-har-gynnats-av-braket",
+      "guid": "https://www.svt.se/sport/curling/eva-lund-om-os-skandalen-curlingen-har-gynnats-av-braket",
+      "published_at": "2026-11-15T07:47:20+01:00",
+      "fetched_at": "2026-11-15T08:29:34+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Eva Lund om OS-skandalen: ”Curlingen har gynnats av bråket”",
+        "summary": "Curlingbråket mellan Sverige och Kanada under OS blev en världsnyhet. I årets OS-krönika minna SVT:s expert Eva Lund tillbaka till de omskakande scenerna och efterspelet. – Jag skulle säga att curlingen har gynnats av det här bråket, säger hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Eva Lund on the Olympic scandal: \"Curling has benefited from the fight\"",
+        "summary": "The curling fight between Sweden and Canada at the Olympics became world news. In this year's Olympic column, SVT expert Eva Lund looks back at the shocking scenes and the aftermath. – I would say curling has benefited from this fight, she says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T08:29:46+01:00"
+      }
+    },
+    {
+      "id": "d78665be7115",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/misstankt-mordforsok-pa-gotland-man-stickskadades",
+      "guid": "https://www.svt.se/nyheter/lokalt/ost/misstankt-mordforsok-pa-gotland-man-stickskadades",
+      "published_at": "2026-11-15T07:40:03+01:00",
+      "fetched_at": "2026-11-15T08:29:34+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Misstänkt mordförsök på Gotland – man stickskadad",
+        "summary": "Polis och ambulans kallades till ett hus söder om Visby efter att en man stickskadats. Två män i 40-45-årsåldern har anhållits.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspected attempted murder on Gotland – man stabbed",
+        "summary": "Police and ambulance were called to a house south of Visby after a man was stabbed. Two men in their 40s have been detained."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T08:29:46+01:00"
+      }
+    },
+    {
+      "id": "48035fcf036e",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sodertalje/lanthandel-i-sodertalje-brann-ner",
+      "guid": "https://www.svt.se/nyheter/lokalt/sodertalje/lanthandel-i-sodertalje-brann-ner",
+      "published_at": "2026-11-15T06:52:22+01:00",
+      "fetched_at": "2026-11-15T08:29:34+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Lanthandel i Södertälje brann ner",
+        "summary": "En brand rasade under natten mot söndagen i en lantbruksfastighet i Mölnbo i Södertälje kommun. Ett hus som innehöll en lanthandel gick inte att rädda, utan fick brinna ner.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Village shop in Södertälje burned down",
+        "summary": "A fire raged during the night to Sunday at an agricultural property in Mölnbo in Södertälje Municipality. A house containing a village shop could not be saved and was left to burn down."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T08:30:08+01:00"
+      }
+    },
+    {
+      "id": "4a0dcd04c9b2",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/flicka-utreds-for-valdtakt-mot-barn-traffade-ett-misstankt-offer-pa-roblox",
+      "guid": "https://www.svt.se/nyheter/inrikes/flicka-utreds-for-valdtakt-mot-barn-traffade-ett-misstankt-offer-pa-roblox",
+      "published_at": "2026-11-15T06:22:23+01:00",
+      "fetched_at": "2026-11-15T08:29:34+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Flicka utreds för våldtäkt mot barn – träffade ett misstänkt offer på Roblox",
+        "summary": "En svensk tonårsflicka häktades i somras misstänkt för bland annat våldtäkt mot barn. SVT har följt tonåringens digitala fotspår och kan koppla henne till det extremistiska nätverket Com. Hon misstänks ha utsatt ett norskt barn för brott, enligt SVT:s uppgifter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Girl investigated for rape of children – met a suspected victim on Roblox",
+        "summary": "A Swedish teenage girl was remanded in custody this summer on suspicion of, among other things, rape of a child. SVT has followed the teenager's digital footprints and can link her to the extremist network Com. She is suspected of having victimised a Norwegian child, according to SVT's information."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T08:30:08+01:00"
+      }
+    },
     {
       "id": "15dc80e9b399",
       "schema_version": 1,

@@ -1,7 +1,204 @@
 {
-  "generated_at": "2026-11-15T03:31:51+01:00",
-  "count": 75,
+  "generated_at": "2026-11-15T08:30:14+01:00",
+  "count": 82,
   "items": [
+    {
+      "id": "462e8c425b30",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/curling/eva-lund-om-os-skandalen-curlingen-har-gynnats-av-braket",
+      "guid": "https://www.svt.se/sport/curling/eva-lund-om-os-skandalen-curlingen-har-gynnats-av-braket",
+      "published_at": "2026-11-15T07:47:20+01:00",
+      "fetched_at": "2026-11-15T08:29:34+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Eva Lund om OS-skandalen: ”Curlingen har gynnats av bråket”",
+        "summary": "Curlingbråket mellan Sverige och Kanada under OS blev en världsnyhet. I årets OS-krönika minna SVT:s expert Eva Lund tillbaka till de omskakande scenerna och efterspelet. – Jag skulle säga att curlingen har gynnats av det här bråket, säger hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Eva Lund on the Olympic scandal: \"Curling has benefited from the fight\"",
+        "summary": "The curling fight between Sweden and Canada at the Olympics became world news. In this year's Olympic column, SVT expert Eva Lund looks back at the shocking scenes and the aftermath. – I would say curling has benefited from this fight, she says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T08:29:46+01:00"
+      }
+    },
+    {
+      "id": "89db819f2607",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/landslagshjaltar-hyllades-nar-publiken-lamnat",
+      "guid": "a11b3a99-9367-41f0-ab46-2d22a63f3f54",
+      "published_at": "2026-11-15T06:50:20+01:00",
+      "fetched_at": "2026-11-15T08:29:36+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/217acc7f-07aa-4994-86a7-1dfcab2f27fb.jpg?width=600",
+      "sv": {
+        "title": "Landslagshjältar hyllades – när publiken lämnat",
+        "summary": "51 049 åskådare kom till nationalarenan i Solna. Men när fem landslagshjältar skulle hyllas hade de flesta hunnit gå därifrån.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "National team heroes honoured – once the crowd had left",
+        "summary": "51,049 spectators came to the National Arena in Solna. But when five national team heroes were to be honoured, most had already left."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T08:30:08+01:00"
+      }
+    },
+    {
+      "id": "45ea5ae47471",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/gyokeres-efter-ny-malshow-jag-var-sugen",
+      "guid": "82d5c747-b3ce-46ca-aed9-7c4bc52c9713",
+      "published_at": "2026-11-15T06:49:09+01:00",
+      "fetched_at": "2026-11-15T08:29:36+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/e48374fa-5b95-4836-82a2-398e00b4b6be.jpg?width=600",
+      "sv": {
+        "title": "Gyökeres efter ny målshow: ”Jag var sugen”",
+        "summary": "Viktor Gyökeres hade ingen lust att ge bort en straff till Alexander Isak. I stället dunkade ”Göken” in båda själv – och har nu gjort tolv mål på sina tolv senaste landskamper. – Jag var sugen, säger Gyökeres efter 3–2 mot Bosnien-Hercegovina.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gyökeres after new goal show: “I felt like it”",
+        "summary": "Viktor Gyökeres had no desire to give a penalty to Alexander Isak. Instead “Göken” banged both in himself, and has now scored twelve goals in his twelve most recent national team matches. – I felt like it, says Gyökeres after the 3–2 win against Bosnia-Herzegovina."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T08:30:08+01:00"
+      }
+    },
+    {
+      "id": "9d5d68b5ede2",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/tackades-av-infor-tomma-laktare-trakigt.0e9a8b5d-1e21-5705-bf7a-9c4a1a29f864",
+      "guid": "0e9a8b5d-1e21-5705-bf7a-9c4a1a29f864",
+      "published_at": "2026-11-15T06:30:03+01:00",
+      "fetched_at": "2026-11-15T08:29:36+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Fotboll",
+        "Tagg: Martin Olsson",
+        "Tagg: Emil Forsberg",
+        "Tagg: Emil Krafth",
+        "Tagg: Robin Olsen",
+        "Tagg: Viktor Claesson",
+        "Tagg: Benjamin Nygren",
+        "Tagg: Victor Nilsson Lindelöf",
+        "Tagg: Dejan Kulusevski",
+        "Tagg: Niclas Carlnén"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/1669826e-a22b-3c56-b00d-83c5deb97186",
+      "sv": {
+        "title": "Floppen – tackades av inför tomma läktare",
+        "summary": "Fem tidigare landslagsspelare tackades av inför en liten publik på Strawberry Arena.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The flop – thanked in front of empty stands",
+        "summary": "Five former national team players were thanked in front of a small crowd at Strawberry Arena."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T08:30:08+01:00"
+      }
+    },
+    {
+      "id": "c7c2637f26f4",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/jubel-nar-kulusevski-byttes-in-det-ar-drommen",
+      "guid": "https://www.dn.se/sport/jubel-nar-kulusevski-byttes-in-det-ar-drommen/",
+      "published_at": "2026-11-15T06:11:58+01:00",
+      "fetched_at": "2026-11-15T08:29:35+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/548376b5-558f-4b89-bca4-00a62ebf5599.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Jubel när Kulusevski byttes in: ”Det är drömmen”",
+        "summary": "Det hade gått 725 dagar sedan Dejan Kulusevski senast spelade en landskamp. Mot Bosnien fick han äntligen springa ut på planen i blågul dress igen. – Jag kommer kanske inte komma ihåg den här matchen fotbollsmässigt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Cheers when Kulusevski came on: “It's the dream”",
+        "summary": "It had been 725 days since Dejan Kulusevski last played a national team match. Against Bosnia he finally got to run out onto the pitch in the blue-and-yellow kit again. – I may not remember this match football-wise."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T08:30:08+01:00"
+      }
+    },
+    {
+      "id": "d896a04414a1",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/BrR0Rw/gyokeres-efter-ny-malshow-jag-var-sugen",
+      "guid": "https://www.svd.se/a/BrR0Rw/gyokeres-efter-ny-malshow-jag-var-sugen?utm_medium=rss",
+      "published_at": "2026-11-15T06:10:40+01:00",
+      "fetched_at": "2026-11-15T08:29:35+01:00",
+      "category": "sports",
+      "image_url": "https://akamai.vgc.no/v2/images/80393b95-ab0e-3cc4-862c-c107092c99fb?format=auto&s=2607e7fa339572248cfee618e006d754fc4a6c31&w=1000",
+      "sv": {
+        "title": "Gyökeres efter ny målshow: ”Var sugen”"
+      },
+      "en": {
+        "title": "Gyökeres after new goal show: “Was keen”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T08:30:08+01:00"
+      }
+    },
+    {
+      "id": "3bc63bfb28fd",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/johan-esk-smallarna-gav-lika-mycket-som-den-svenska-segern",
+      "guid": "https://www.dn.se/sport/johan-esk-smallarna-gav-lika-mycket-som-den-svenska-segern/",
+      "published_at": "2026-11-15T06:00:40+01:00",
+      "fetched_at": "2026-11-15T08:29:35+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/f859613f-49c4-4319-b90b-a54aaa4b4e91.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Johan Esk: Smällarna gav lika mycket som den svenska segern",
+        "summary": "När matchen var slut hade svenskarna fått smällar som gjorde spelarna både gula och blå. Men de var ändå vinnande gruppsegrare. Därför var den här extra-allt-kvällen perfekt för Potters landslag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Johan Esk: The blasts gave as much as the Swedish victory",
+        "summary": "When the match was over, the Swedes had taken blows that left the players both yellow and blue. But they were still winning group winners. That is why this extra-everything evening was perfect for Potter's national team."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T08:30:14+01:00"
+      }
+    },
     {
       "id": "ffcd7706419a",
       "schema_version": 1,
