@@ -1,7 +1,193 @@
 {
-  "generated_at": "2026-11-15T17:01:26+01:00",
-  "count": 246,
+  "generated_at": "2026-11-15T17:15:53+01:00",
+  "count": 253,
   "items": [
+    {
+      "id": "03b36e9ba7f3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/iran-tankfartyg-sjonk-i-hormuzsunder",
+      "guid": "6b605a90-2e81-45bd-9ef6-60e28d7c66fc",
+      "published_at": "2026-11-15T17:13:25+01:00",
+      "fetched_at": "2026-11-15T17:15:42+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/152d7575-350a-4e9e-93ce-903edc13e4ca.jpg?width=600",
+      "sv": {
+        "title": "Iran: Tankfartyg sjönk i Hormuzsunder",
+        "summary": "Ett oljetankfartyg med över två miljoner fat olja har sjunkit i Hormuzsundet efter att ha gått på minor. Det uppger Revolutionsgardet i Iran på söndagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Iran: Oil tanker sinks in the Strait of Hormuz",
+        "summary": "An oil tanker carrying over two million barrels of oil has sunk in the Strait of Hormuz after hitting mines. Iran's Revolutionary Guard reported this on Sunday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T17:15:53+01:00"
+      }
+    },
+    {
+      "id": "6ae7f3a6df3d",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/gabrielsson-v-pikar-c-ledningen-sd-i-regering-2030",
+      "guid": "https://www.expressen.se/nyheter/politik/gabrielsson-v-pikar-c-ledningen-sd-i-regering-2030/",
+      "published_at": "2026-11-15T17:07:51+01:00",
+      "fetched_at": "2026-11-15T17:15:41+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Gabrielsson (V) pikar C-ledningen: SD i regering 2030",
+        "summary": "Andersson eller Kristersson? C-ledaren Elisabeth Thand Ringqvist uppges driva på för att partiet ska gå högerut. Då måste man ”ge SD ministerposter 2030”, hävdar V-toppen Ida Gabrielsson på plattformen X.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gabrielsson (V) takes a jab at the Centre Party leadership: SD in government by 2030",
+        "summary": "Andersson or Kristersson? Centre Party (C) leader Elisabeth Thand Ringqvist is reportedly pushing for the party to move rightward. The party must then \"give SD ministerial posts in 2030,\" claims Left Party (V) leader Ida Gabrielsson on the platform X."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T17:15:53+01:00"
+      }
+    },
+    {
+      "id": "8f0657131993",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/iran-tankfartyg-sjonk-i-hormuz",
+      "guid": "ce6d6e77-e475-44b4-b4fd-0d5a3cea5c64",
+      "published_at": "2026-11-15T17:06:50+01:00",
+      "fetched_at": "2026-11-15T17:15:43+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/966624bd-5627-4838-b381-27331cab32d1.jpg?width=600",
+      "sv": {
+        "title": "Iran: Tankfartyg sjönk i Hormuz",
+        "summary": "Ett oljetankfartyg med över två miljoner fat olja har sjunkit i Hormuzsundet efter att ha gått på minor, uppgav Irans Revolutionsgardet på söndagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Iran: Oil tanker sinks in Hormuz",
+        "summary": "An oil tanker carrying over two million barrels of oil has sunk in the Strait of Hormuz after hitting mines, Iran's Revolutionary Guard reported on Sunday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T17:15:53+01:00"
+      }
+    },
+    {
+      "id": "f54cf36f4c6d",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/estland-stanger-gransen-flera-gripna-for-sabotage",
+      "guid": "https://www.dn.se/varlden/estland-stanger-gransen-flera-gripna-for-sabotage/",
+      "published_at": "2026-11-15T17:06:21+01:00",
+      "fetched_at": "2026-11-15T17:15:39+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/038a53af-450f-46db-afc8-a37ec388de4f.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Estland stänger gränsen – flera gripna för sabotage",
+        "summary": "Estland stänger sina tre sista gränsövergångar mot Ryssland efter ett misstänkt sabotageförsök mot en drönarfabrik norr om Tallinn. Enligt estniska myndigheter utfördes attacken på uppdrag av den ryska militära underrättelsetjänsten GRU.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Estonia closes border – several arrested for sabotage",
+        "summary": "Estonia is closing its three remaining border crossings with Russia after a suspected sabotage attempt against a drone factory north of Tallinn. According to Estonian authorities, the attack was carried out on behalf of Russia's military intelligence service GRU."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T17:15:53+01:00"
+      }
+    },
+    {
+      "id": "75b9a3771875",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9341281",
+      "guid": "rss:sr.se/article/9341281",
+      "published_at": "2026-11-15T17:03:00+01:00",
+      "fetched_at": "2026-11-15T17:15:39+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "”Mycket möjligt att det kommer fram något under kvällen”",
+        "summary": "Efter att S och M i fredags lämnade över sina så kallade totalpaket, pågår just nu troligen det möte med Centerns partistyrelse och riksdagsgruppen, som Ekot har fått bekräftat ska äga rum under söndagen för att fatta ett beslut i regeringsfrågan.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "\"Very possible that something will come out during the evening\"",
+        "summary": "After the Social Democrats (S) and the Moderates (M) handed over their so-called total packages last Friday, the meeting of the Centre Party's board and parliamentary group is most likely taking place now. Ekot has confirmed that it will be held on Sunday to make a decision on the government question."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T17:15:53+01:00"
+      }
+    },
+    {
+      "id": "af31c7ec7d02",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/j3dQRo/iran-tankfartyg-sjonk-i-hormuz",
+      "guid": "https://www.aftonbladet.se/nyheter/a/j3dQRo/iran-tankfartyg-sjonk-i-hormuz?utm_medium=rss",
+      "published_at": "2026-11-15T17:01:15+01:00",
+      "fetched_at": "2026-11-15T17:15:41+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/a5fff4d7-affb-3884-865f-457b0dc642d8?format=auto&s=083a911e09ee8189ac81194c30d728eef85a540e&w=1000",
+      "sv": {
+        "title": "Iran: Tankfartyg sjönk i Hormuz",
+        "summary": "Ett oljetankfartyg med över två miljoner fat olja har sjunkit i Hormuzsundet efter att ha gått…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Iran: Oil tanker sinks in Hormuz",
+        "summary": "An oil tanker carrying over two million barrels of oil has sunk in the Strait of Hormuz after having…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T17:15:53+01:00"
+      }
+    },
+    {
+      "id": "97e580819726",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/krim/har-eldar-mordarna-upp-kroppen-efter-goran-74",
+      "guid": "https://www.expressen.se/nyheter/krim/har-eldar-mordarna-upp-kroppen-efter-goran-74/",
+      "published_at": "2026-11-15T17:00:00+01:00",
+      "fetched_at": "2026-11-15T17:15:41+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Här eldar mördarna upp kroppen efter Göran, 74",
+        "summary": "Göran Gotthold, 74, hyr ut ett hus på sin gård till en släkting, en kvinna i 50-årsåldern och hennes make – men när hyresgästerna attackerar honom försöker han få dem vräkta. Sedan mördas han.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Here the murderers burn the body after Göran, 74",
+        "summary": "Göran Gotthold, 74, rents out a house on his farm to a relative, a woman in her 50s, and her husband, but when the tenants attack him, he tries to have them evicted. Then he is murdered."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T17:15:53+01:00"
+      }
+    },
     {
       "id": "a829a2cc1c1e",
       "schema_version": 1,
