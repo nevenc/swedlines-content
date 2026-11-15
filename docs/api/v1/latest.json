@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T00:15:51+01:00",
+  "generated_at": "2026-11-16T00:30:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9f16a4256779",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/z0Lq8v/en-underskattad-markor-for-halsa",
+      "guid": "https://www.svd.se/a/z0Lq8v/en-underskattad-markor-for-halsa?utm_medium=rss",
+      "published_at": "2026-11-16T00:15:00+01:00",
+      "fetched_at": "2026-11-16T00:30:15+01:00",
+      "category": "science_tech",
+      "image_url": "https://akamai.vgc.no/v2/images/3451fe34-1ed3-3f16-a375-7825d2947a48?format=auto&s=8755c4bee009c586abe0c0fbfae855c59fdfe96a&w=1000",
+      "sv": {
+        "title": "En underskattad markör för hälsa",
+        "summary": "Det görs mycket reklam för olika fysiologiska tester. Vad är poängen med att mäta sin maximala…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "An underrated marker of health",
+        "summary": "A lot of advertising is done for various physiological tests. What is the point of measuring your maximal…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T00:30:20+01:00"
+      }
+    },
     {
       "id": "5eb5bc2de028",
       "schema_version": 1,
@@ -5378,33 +5405,6 @@
       "en": {
         "title": "Tariffs bring down Trump's Republicans",
         "summary": "Now the Democrats get a chance to save free trade."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T14:01:16+01:00"
-      }
-    },
-    {
-      "id": "ec0f9f398814",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/platt-och-utan-tontraff-nar-kvarteret-korpen-blir-opera",
-      "guid": "76f1f2c5-2fb6-4fc6-8124-2026079eae34",
-      "published_at": "2026-11-15T14:00:00+01:00",
-      "fetched_at": "2026-11-15T14:01:12+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/e297cc95-3fe1-4048-b3d0-d2f817d814a8.jpeg?width=600",
-      "sv": {
-        "title": "Platt och utan tonträff när Kvarteret Korpen blir opera",
-        "summary": "När Operaverkstan tar sig an den nyskrivna operaversionen av ”Kvarteret Korpen” blir resultatet platt. Recensenten lämnar föreställningen med en känsla av att ha blivit lurad.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Flat and without a single hit as Kvarteret Korpen becomes an opera",
-        "summary": "When Operaverkstan takes on the newly written opera version of \"Kvarteret Korpen\", the result is flat. The reviewer leaves the performance feeling deceived."
       },
       "translation": {
         "status": "done",
