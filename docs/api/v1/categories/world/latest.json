@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-15T22:31:02+01:00",
+  "generated_at": "2026-11-15T22:45:45+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "47c3a1191bc2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/ukraina-europa-ska-samlas-for-att-ena-fronten",
+      "guid": "17629230-fbbf-49e2-b880-c9ab4097d44f",
+      "published_at": "2026-11-15T22:44:02+01:00",
+      "fetched_at": "2026-11-15T22:45:41+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/3a0e1d00-f316-45c8-b382-769dcb0180a5.jpg?width=600",
+      "sv": {
+        "title": "Ukraina: Europa ska samlas för att ena fronten",
+        "summary": "Ukraina hoppas på en stadig och gemensam europeisk hållning när man tar plats vid förhandlingsbordet med den ryska invasionsmakten. – Det är ett viktigt möte och kan bli ett historiskt sådant, säger president Volodymyr Zelenskyj när han flaggar för ett Europamöte.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ukraine: Europe to rally to unite the front",
+        "summary": "Ukraine hopes for a steady and united European position as it takes its place at the negotiating table with the Russian invading power. – It is an important meeting and could become a historic one, says President Volodymyr Zelenskyy as he signals a European summit."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T22:45:45+01:00"
+      }
+    },
     {
       "id": "1cc06856a160",
       "schema_version": 1,
@@ -5364,32 +5391,6 @@
       "en": {
         "title": "'Russia is dribbling past Europe'",
         "summary": "All quiet on the peace front. Expectations for the three-party talks in Abu Dhabi were low and the tone after they ended cautiously optimistic – but which party has actually advanced its positions?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "bc00a50dc0b5",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/storstrejk-i-spanien-mot-bostadskrisen",
-      "guid": "https://www.svt.se/nyheter/utrikes/storstrejk-i-spanien-mot-bostadskrisen",
-      "published_at": "2026-11-11T20:43:06+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Storstrejk i Spanien mot bostadskrisen",
-        "summary": "En storstrejk har inletts i Spanien, för första gången på 14 år, och miljontals spanjorer har gett sig ut på gatorna. Aktivister och landets två största fackförbund kräver högre löner och åtgärder mot landets bostadskris.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "General strike in Spain against the housing crisis",
-        "summary": "A general strike has begun in Spain, for the first time in 14 years, and millions of Spaniards have taken to the streets. Activists and the country's two largest trade unions are demanding higher wages and measures against the country's housing crisis."
       },
       "translation": {
         "status": "done",
