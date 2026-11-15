@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-15T20:15:50+01:00",
-  "count": 118,
+  "generated_at": "2026-11-15T20:31:06+01:00",
+  "count": 120,
   "items": [
+    {
+      "id": "ecd864f03ede",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9341311",
+      "guid": "rss:sr.se/article/9341311",
+      "published_at": "2026-11-15T20:14:00+01:00",
+      "fetched_at": "2026-11-15T20:30:54+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "”Pressen kommer vara stenhård på Vänsterpartiet”",
+        "summary": "Centerpartiet väljer att gå vidare med Socialdemokraternas totalpaket – men med det fortsatta kravet att hålla Vänsterpartiet utanför en regering. Ekots politiska kommentator Fredrik Furtenbach säger att det av allt att döma kommer bli nya förhandlingar mellan de rödgröna: ”Då kommer pressen vara…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "\"The press will be ruthless on the Left Party\"",
+        "summary": "The Centre Party chooses to go ahead with the Social Democrats' full package – but with the continued demand to keep the Left Party out of a government. Ekot's political commentator Fredrik Furtenbach says that, by all indications, there will be new negotiations between the red-greens: \"Then the press will be…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T20:31:05+01:00"
+      }
+    },
     {
       "id": "064dc559fa1b",
       "schema_version": 1,
@@ -81,6 +107,37 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T20:01:22+01:00"
+      }
+    },
+    {
+      "id": "5e6a9427a9b6",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/sverige/centerpartiet-valjer-socialdemokraterna.95727d47-ed14-5bd0-84b1-68d200157396",
+      "guid": "95727d47-ed14-5bd0-84b1-68d200157396",
+      "published_at": "2026-11-15T19:59:45+01:00",
+      "fetched_at": "2026-11-15T20:31:01+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Sverige",
+        "Tagg: breaking-GP"
+      ],
+      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
+      "sv": {
+        "title": "Centerpartiet väljer Socialdemokraterna",
+        "summary": "Vill se Magdalena Andersson som statsminister – och regering utan V.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Centre Party chooses the Social Democrats",
+        "summary": "Wants to see Magdalena Andersson as prime minister – and a government without the V."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T20:31:05+01:00"
       }
     },
     {
