@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-15T14:51:59+01:00",
-  "count": 199,
+  "generated_at": "2026-11-15T15:01:11+01:00",
+  "count": 202,
   "items": [
+    {
+      "id": "234ca3edf0f4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/vodkabraket-med-lavrov-tvingade-mig",
+      "guid": "https://www.expressen.se/tv/nyheter/vodkabraket-med-lavrov-tvingade-mig",
+      "published_at": "2026-11-15T14:54:06+01:00",
+      "fetched_at": "2026-11-15T15:01:05+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Vodkabråket med Lavrov: ”Tvingade mig”",
+        "summary": "Brittiska vodkailskan efter mötet i Moskva: ”Tvingade mig”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Vodka row with Lavrov: \"Forced me\"",
+        "summary": "British vodka ... after the meeting in Moscow: \"Forced me\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T15:01:10+01:00"
+      }
+    },
+    {
+      "id": "1e1a4c72b09f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/splittring-i-c-infor-regeringsbeskedet-spelar-ett-hogt-spel",
+      "guid": "https://www.svt.se/nyheter/inrikes/splittring-i-c-infor-regeringsbeskedet-spelar-ett-hogt-spel",
+      "published_at": "2026-11-15T14:53:41+01:00",
+      "fetched_at": "2026-11-15T15:01:02+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Splittring i C inför regeringsbeskedet: ”Spelar ett högt spel”",
+        "summary": "Centerpartiet väntas i dagarna ge besked om vilken regering de kommer stötta. Just nu är partiet splittrat, enligt SVT:s politikreporter Erik Nilsson. – Det är väldigt intensiva dagar, säger han i SVT:s direktsändning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Split in the Centre Party ahead of government decision: \"Playing a high-stakes game\"",
+        "summary": "The Centre Party is expected to announce in the coming days which government it will support. The party is currently split, according to SVT political reporter Erik Nilsson. – It's very intense days, he says in SVT's live broadcast."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T15:01:10+01:00"
+      }
+    },
+    {
+      "id": "500d3b5c58d3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/debatt/bundna-rantor-inte-vagen-till-ekonomisk-stabilitet",
+      "guid": "9e004969-b8cc-49d1-b321-a32876868ca2",
+      "published_at": "2026-11-15T14:50:03+01:00",
+      "fetched_at": "2026-11-15T15:01:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a2107a03-b8ca-4c3d-ad73-6f7b89084cc8.jpeg?width=600",
+      "sv": {
+        "title": "Bundna räntor inte vägen till ekonomisk stabilitet",
+        "summary": "I debatten varnas återigen för att många har rörlig ränta. Men det finns inget stöd för att bunden ränta skull vara bättre, oavsett om man tittar på finansiell stabilitet, privatekonomi eller samhällsekonomin, skriver Robert Boije, chefsekonom på SBAB.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fixed rates are not the path to economic stability",
+        "summary": "The debate once again warns that many people have variable rates. But there is no support for the claim that a fixed rate would be better, whether one looks at financial stability, household finances or the economy as a whole, writes Robert Boije, chief economist at SBAB."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T15:01:10+01:00"
+      }
+    },
     {
       "id": "904542d03fd2",
       "schema_version": 1,

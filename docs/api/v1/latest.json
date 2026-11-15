@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-15T14:51:59+01:00",
+  "generated_at": "2026-11-15T15:01:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "234ca3edf0f4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/vodkabraket-med-lavrov-tvingade-mig",
+      "guid": "https://www.expressen.se/tv/nyheter/vodkabraket-med-lavrov-tvingade-mig",
+      "published_at": "2026-11-15T14:54:06+01:00",
+      "fetched_at": "2026-11-15T15:01:05+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Vodkabråket med Lavrov: ”Tvingade mig”",
+        "summary": "Brittiska vodkailskan efter mötet i Moskva: ”Tvingade mig”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Vodka row with Lavrov: \"Forced me\"",
+        "summary": "British vodka ... after the meeting in Moscow: \"Forced me\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T15:01:10+01:00"
+      }
+    },
+    {
+      "id": "1e1a4c72b09f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/splittring-i-c-infor-regeringsbeskedet-spelar-ett-hogt-spel",
+      "guid": "https://www.svt.se/nyheter/inrikes/splittring-i-c-infor-regeringsbeskedet-spelar-ett-hogt-spel",
+      "published_at": "2026-11-15T14:53:41+01:00",
+      "fetched_at": "2026-11-15T15:01:02+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Splittring i C inför regeringsbeskedet: ”Spelar ett högt spel”",
+        "summary": "Centerpartiet väntas i dagarna ge besked om vilken regering de kommer stötta. Just nu är partiet splittrat, enligt SVT:s politikreporter Erik Nilsson. – Det är väldigt intensiva dagar, säger han i SVT:s direktsändning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Split in the Centre Party ahead of government decision: \"Playing a high-stakes game\"",
+        "summary": "The Centre Party is expected to announce in the coming days which government it will support. The party is currently split, according to SVT political reporter Erik Nilsson. – It's very intense days, he says in SVT's live broadcast."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T15:01:10+01:00"
+      }
+    },
+    {
+      "id": "500d3b5c58d3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/debatt/bundna-rantor-inte-vagen-till-ekonomisk-stabilitet",
+      "guid": "9e004969-b8cc-49d1-b321-a32876868ca2",
+      "published_at": "2026-11-15T14:50:03+01:00",
+      "fetched_at": "2026-11-15T15:01:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a2107a03-b8ca-4c3d-ad73-6f7b89084cc8.jpeg?width=600",
+      "sv": {
+        "title": "Bundna räntor inte vägen till ekonomisk stabilitet",
+        "summary": "I debatten varnas återigen för att många har rörlig ränta. Men det finns inget stöd för att bunden ränta skull vara bättre, oavsett om man tittar på finansiell stabilitet, privatekonomi eller samhällsekonomin, skriver Robert Boije, chefsekonom på SBAB.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fixed rates are not the path to economic stability",
+        "summary": "The debate once again warns that many people have variable rates. But there is no support for the claim that a fixed rate would be better, whether one looks at financial stability, household finances or the economy as a whole, writes Robert Boije, chief economist at SBAB."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T15:01:10+01:00"
+      }
+    },
     {
       "id": "904542d03fd2",
       "schema_version": 1,
@@ -5377,85 +5456,6 @@
       "en": {
         "title": "Israel: Has attacked Hamas official",
         "summary": "Israel's military claims it has attacked a senior member of Hamas, which is designated as a terrorist organisation, writes de…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T01:26:27+01:00"
-      }
-    },
-    {
-      "id": "f6a68e80c893",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/z0GEmw/israel-har-attackerat-hamastopp",
-      "guid": "https://www.aftonbladet.se/nyheter/a/z0GEmw/israel-har-attackerat-hamastopp?utm_medium=rss",
-      "published_at": "2026-11-15T00:54:02+01:00",
-      "fetched_at": "2026-11-15T01:26:19+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Israel: Har attackerat Hamastopp",
-        "summary": "Israels militär hävdar att man angripit en högt uppsatt medlem i terrorstämplade Hamas, skriver de…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Israel: Has attacked Hamas official",
-        "summary": "Israel's military claims it has attacked a senior member of Hamas, which is designated as a terrorist organisation, writes de…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T01:26:27+01:00"
-      }
-    },
-    {
-      "id": "52e3fb59f198",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/putins-krav-om-europa-for-att--avsluta-kriget",
-      "guid": "https://www.expressen.se/nyheter/varlden/putins-krav-om-europa-for-att--avsluta-kriget/",
-      "published_at": "2026-11-15T00:47:50+01:00",
-      "fetched_at": "2026-11-15T01:26:20+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Putins krav om Europa för att avsluta kriget",
-        "summary": "Putin kräver att Storbritannien slutar försvara Europa med kärnvapen, skriver Telegraph. Det är ett måste för att det ska kunna bli fred i Ukraina, enligt den ryske presidenten. Men britterna avfärdar det ryska kravet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Putin's demand over Europe to end the war",
-        "summary": "Putin demands that Britain stop defending Europe with nuclear weapons, writes the Telegraph. It is a must for peace in Ukraine to be possible, according to the Russian president. But the British reject the Russian demand."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T01:26:27+01:00"
-      }
-    },
-    {
-      "id": "0f0aaaf8951d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/bk5gxe/skrackvaldet-innan-bomben-hoppas-du-dor",
-      "guid": "https://www.aftonbladet.se/nyheter/a/bk5gxe/skrackvaldet-innan-bomben-hoppas-du-dor?utm_medium=rss",
-      "published_at": "2026-11-14T23:58:08+01:00",
-      "fetched_at": "2026-11-15T01:26:19+01:00",
-      "category": "other",
-      "image_url": "https://akamai.vgc.no/v2/images/64936ba3-dd85-37e3-a479-bfe81a26b3ec?format=auto&s=e9e289f024a6ee33669629735251994dde330c17&w=1000",
-      "sv": {
-        "title": "Skräckväldet innan bomben: Hoppas du dör",
-        "summary": "Avslöjar AI-toppen ✓ ”Står du och flinar?!”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reign of terror before the bomb: Hope you die",
-        "summary": "Reveals AI top ✓ \"Are you standing there grinning?!\""
       },
       "translation": {
         "status": "done",
