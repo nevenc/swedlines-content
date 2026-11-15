@@ -1,7 +1,82 @@
 {
-  "generated_at": "2026-11-15T18:45:49+01:00",
-  "count": 105,
+  "generated_at": "2026-11-15T19:01:18+01:00",
+  "count": 108,
   "items": [
+    {
+      "id": "2c2f2577aca7",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/ryssland-stoppas-fran-jvm",
+      "guid": "8492722b-4bb9-4fdb-8eda-90eb79611b0b",
+      "published_at": "2026-11-15T18:59:13+01:00",
+      "fetched_at": "2026-11-15T19:01:13+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Ryssland stoppas från JVM",
+        "summary": "Ryssland stoppas från JVM. I stället får Norge tillbaka platsen, meddelar Internationella ishockeyförbundet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russia barred from the World Championship",
+        "summary": "Russia barred from the World Championship. Norway gets the spot back instead, the International Ice Hockey Federation announces."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T19:01:18+01:00"
+      }
+    },
+    {
+      "id": "084c830aabd5",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79941",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79941&utm_medium=rss",
+      "published_at": "2026-11-15T18:53:11+01:00",
+      "fetched_at": "2026-11-15T19:01:09+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Ryssland stoppas från junior-VM"
+      },
+      "en": {
+        "title": "Russia barred from the junior World Championship"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T19:01:18+01:00"
+      }
+    },
+    {
+      "id": "4809d4a528f7",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/ishockey/bekraftat-ryssland-stoppas-fran-jvm",
+      "guid": "https://www.svt.se/sport/ishockey/bekraftat-ryssland-stoppas-fran-jvm",
+      "published_at": "2026-11-15T18:51:51+01:00",
+      "fetched_at": "2026-11-15T19:01:06+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Bekräftat: Ryssland stoppas från JVM",
+        "summary": "Ryssland stoppas från JVM. Det bekräftar det internationella ishockeyförbundet (IIHF).",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Confirmed: Russia barred from the World Championship",
+        "summary": "Russia barred from the World Championship. The International Ice Hockey Federation (IIHF) confirms this."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-15T19:01:18+01:00"
+      }
+    },
     {
       "id": "6d1bec0b0b52",
       "schema_version": 1,
