@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T19:15:53+01:00",
+  "generated_at": "2026-11-16T19:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f08990bce80b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/jagar-svenska-bolag-med-50-miljarder-i-fickan",
+      "guid": "2d508c8e-9695-4e68-a1f2-8cf62489af27",
+      "published_at": "2026-11-16T19:09:52+01:00",
+      "fetched_at": "2026-11-16T19:31:15+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/60773ed3-44bb-404a-9d58-098fab645925.jpeg?width=600",
+      "sv": {
+        "title": "Jagar svenska bolag – med 50 miljarder i fickan",
+        "summary": "Med en ny Europafond på 50 miljarder kronor i ryggen jagar den amerikanska investeringsjätten PSG fler svenska techbolag. Men konkurrensen är hård och värderingarna höga. ”Ni har en av de mest färgstarka och spännande techscenerna i Europa”, säger PSG-chefen Edd Hughes i en intervju med Di.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hunting Swedish companies – with SEK 50 billion in its pocket",
+        "summary": "With a new European fund of SEK 50 billion behind it, the American investment giant PSG is chasing more Swedish tech companies. But competition is fierce and valuations are high. \"You have one of the most colourful and exciting tech scenes in Europe\", says PSG chief Edd Hughes in an interview with Di."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T19:31:20+01:00"
+      }
+    },
     {
       "id": "5e4ca40fe905",
       "schema_version": 1,
@@ -5316,33 +5343,6 @@
       "en": {
         "title": "Investors' new favourite key figure",
         "summary": "Revenue per employee has become one of investors' most important key figures for software companies. Now music company Soundtrack (formerly Soundtrack Your Brand) wants to double its figure over three years by letting revenue grow while the number of employees stays flat."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "c524bc28b517",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/nvidia-inte-pa-agendan-nar-trump-och-xi-mots",
-      "guid": "1b871da3-7d2d-4b83-9f87-7ac1b390619f",
-      "published_at": "2026-11-14T12:44:20+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/3e36e0ee-7c0d-499c-87f3-540e5471941c.jpeg?width=600",
-      "sv": {
-        "title": "Nvidia inte på agendan när Trump och Xi möts",
-        "summary": "USA:s president kommer inte att lyfta Nvidia och spionmisstankarna när han i veckan träffar Kinas ledare, rapporterar amerikanska medier. Elon Musk följer med Trump på resan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nvidia not on the agenda when Trump and Xi meet",
-        "summary": "The US president will not raise Nvidia and the espionage suspicions when he meets China's leader this week, American media report. Elon Musk is accompanying Trump on the trip."
       },
       "translation": {
         "status": "done",

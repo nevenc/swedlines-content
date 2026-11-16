@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T19:15:53+01:00",
+  "generated_at": "2026-11-16T19:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f08990bce80b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/jagar-svenska-bolag-med-50-miljarder-i-fickan",
+      "guid": "2d508c8e-9695-4e68-a1f2-8cf62489af27",
+      "published_at": "2026-11-16T19:09:52+01:00",
+      "fetched_at": "2026-11-16T19:31:15+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/60773ed3-44bb-404a-9d58-098fab645925.jpeg?width=600",
+      "sv": {
+        "title": "Jagar svenska bolag – med 50 miljarder i fickan",
+        "summary": "Med en ny Europafond på 50 miljarder kronor i ryggen jagar den amerikanska investeringsjätten PSG fler svenska techbolag. Men konkurrensen är hård och värderingarna höga. ”Ni har en av de mest färgstarka och spännande techscenerna i Europa”, säger PSG-chefen Edd Hughes i en intervju med Di.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hunting Swedish companies – with SEK 50 billion in its pocket",
+        "summary": "With a new European fund of SEK 50 billion behind it, the American investment giant PSG is chasing more Swedish tech companies. But competition is fierce and valuations are high. \"You have one of the most colourful and exciting tech scenes in Europe\", says PSG chief Edd Hughes in an interview with Di."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T19:31:20+01:00"
+      }
+    },
     {
       "id": "b5a7fb7fd3e9",
       "schema_version": 1,
@@ -5320,33 +5347,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T18:15:46+01:00"
-      }
-    },
-    {
-      "id": "03b36e9ba7f3",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/iran-tankfartyg-sjonk-i-hormuzsunder",
-      "guid": "6b605a90-2e81-45bd-9ef6-60e28d7c66fc",
-      "published_at": "2026-11-15T17:13:25+01:00",
-      "fetched_at": "2026-11-15T17:15:42+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/152d7575-350a-4e9e-93ce-903edc13e4ca.jpg?width=600",
-      "sv": {
-        "title": "Iran: Tankfartyg sjönk i Hormuzsunder",
-        "summary": "Ett oljetankfartyg med över två miljoner fat olja har sjunkit i Hormuzsundet efter att ha gått på minor. Det uppger Revolutionsgardet i Iran på söndagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Iran: Oil tanker sinks in the Strait of Hormuz",
-        "summary": "An oil tanker carrying over two million barrels of oil has sunk in the Strait of Hormuz after hitting mines. Iran's Revolutionary Guard reported this on Sunday."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T17:15:53+01:00"
       }
     }
   ]
