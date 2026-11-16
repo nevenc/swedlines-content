@@ -1,7 +1,89 @@
 {
-  "generated_at": "2026-11-16T15:40:28+01:00",
+  "generated_at": "2026-11-16T15:45:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "770b137319c2",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/sten-nygren-svenska-forfattare-ar-inte-langre-lars-noren-de-ar-willy-wonka",
+      "guid": "https://www.dn.se/kultur/sten-nygren-svenska-forfattare-ar-inte-langre-lars-noren-de-ar-willy-wonka/",
+      "published_at": "2026-11-16T15:42:33+01:00",
+      "fetched_at": "2026-11-16T15:45:40+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/1d0096b8-1a01-407f-9f64-360feb6317d8.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Kulturdebatt. Sten Nygren: Svenska författare är inte längre Lars Norén – de är Willy Wonka",
+        "summary": "Danskar brukar traditionellt ses som skojfriska provokatörer, medan svenskar står för stelhet och gravallvar. Nu har förhållandet blivit det omvända, menar Sten Nygren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Culture debate. Sten Nygren: Swedish authors are no longer Lars Norén – they are Willy Wonka",
+        "summary": "Danes have traditionally been seen as playful provocateurs, while Swedes stand for stiffness and solemnity. Now the relationship has become the reverse, Sten Nygren argues."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T15:45:48+01:00"
+      }
+    },
+    {
+      "id": "4854f7a8b595",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/41LUL5S2iFcp00GAVNlGgB/en-manad-sedan-svensken-greps-ud-saknar-fortfarande-besked",
+      "guid": "41LUL5S2iFcp00GAVNlGgB",
+      "published_at": "2026-11-16T15:39:02+01:00",
+      "fetched_at": "2026-11-16T15:45:43+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Utrikesnyheter"
+      ],
+      "sv": {
+        "title": "En månad sedan svensken greps – UD saknar fortfarande besked",
+        "summary": "Uppgifterna om gripandet kom den 15 oktober. Enligt den ryska underrättelsetjänsten FSB greps mannen, som är i 35-årsåldern, misstänkt för att ha ”planerat terrorattacker mot militära anläggningar” i Ryssland. I en video som FSB publicerade syns mannen förhöras.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "A month since Swede was arrested – Foreign Ministry still lacks clarity",
+        "summary": "The details of the arrest emerged on 15 October. According to the Russian intelligence service FSB, the man, who is in his mid-thirties, was arrested on suspicion of having \"planned terrorist attacks against military facilities\" in Russia. In a video published by the FSB, the man can be seen being interrogated."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T15:45:48+01:00"
+      }
+    },
+    {
+      "id": "2e754e2ea66e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/vem-ringer-telias-sista-samtal",
+      "guid": "https://www.expressen.se/nyheter/sverige/vem-ringer-telias-sista-samtal/",
+      "published_at": "2026-11-16T15:38:41+01:00",
+      "fetched_at": "2026-11-16T15:45:42+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Vem ringer Telias sista samtal?",
+        "summary": "Det har funnit i 150 år. Men sista november släcker Telia sitt nät – för alltid. Och du har chans att bli den som ringer sist av alla.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Who makes Telia's last call?",
+        "summary": "It has existed for 150 years. But on the last day of November, Telia switches off its network – for good. And you have a chance to be the one who makes the last call of all."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T15:45:48+01:00"
+      }
+    },
     {
       "id": "0ea3579ee8f8",
       "schema_version": 1,
@@ -5341,86 +5423,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T09:45:49+01:00"
-      }
-    },
-    {
-      "id": "e1d1cec1962e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/sverige-behover-en-nationell-planetradgivare",
-      "guid": "07fba5a5-45a0-40e6-91d2-54ef461b06ae",
-      "published_at": "2026-11-16T09:43:16+01:00",
-      "fetched_at": "2026-11-16T10:01:18+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/ce1a815f-b2eb-486b-ab77-7eb17b2c62f5.jpeg?width=600",
-      "sv": {
-        "title": "Sverige behöver en nationell planetrådgivare",
-        "summary": "Nu när klimattoppmötet COP31 pågår och Sverige snart får en ny regering måste vi inse att orostiderna inte bara är geopolitiska. Klimatet och ekosystemen skakar i sina grundvalar.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Sweden needs a national planetary adviser",
-        "summary": "With the COP31 climate summit under way and Sweden soon getting a new government, we must realise that the troubled times are not only geopolitical. The climate and ecosystems are shaking at their foundations."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:01:35+01:00"
-      }
-    },
-    {
-      "id": "c9d02cf00879",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/tva-miljoner-liter-diesel-lackte-ut-nu-atalas-lkab",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/tva-miljoner-liter-diesel-lackte-ut-nu-atalas-lkab",
-      "published_at": "2026-11-16T09:42:22+01:00",
-      "fetched_at": "2026-11-16T10:01:13+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Två miljoner liter diesel läckte ut – nu åtalas LKAB",
-        "summary": "Åklagare har väckt talan mot LKAB för grovt miljöbrott efter ett omfattande dieselutsläpp på bolagets industriområde i Kiruna. Enligt åklagaren läckte omkring två miljoner liter dieselolja ut under nio månader 2021. Nu yrkas en företagsbot på minst 180 miljoner kronor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Two million litres of diesel leaked – LKAB now charged",
-        "summary": "Prosecutors have brought charges against LKAB for aggravated environmental crime after a large diesel leak at the company's industrial area in Kiruna. According to the prosecutor, around two million litres of diesel oil leaked out over nine months in 2021. A corporate fine of at least SEK 180 million is now being sought."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:01:35+01:00"
-      }
-    },
-    {
-      "id": "0a04869ebfc7",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/lkab-kravs-pa-180-miljoner-for-oljelacka",
-      "guid": "d5f0e004-28bf-462b-99ac-13ff8e310891",
-      "published_at": "2026-11-16T09:42:08+01:00",
-      "fetched_at": "2026-11-16T10:01:18+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/5d048e51-d3a0-4deb-a5ce-66529029769a.jpeg?width=600",
-      "sv": {
-        "title": "LKAB krävs på 180 miljoner för oljeläcka",
-        "summary": "Statliga gruvbolaget LKAB åtalas för grovt miljöbrott efter ett mycket omfattande utsläpp av dieselolja, enligt ett pressmeddelande från åklagarmyndigheterna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "LKAB faces demand for 180 million over oil leak",
-        "summary": "State-owned mining company LKAB is charged with aggravated environmental crime after a very extensive release of diesel oil, according to a press release from the Prosecution Authority."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:01:35+01:00"
       }
     }
   ]

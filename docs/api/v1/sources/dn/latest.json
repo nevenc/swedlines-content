@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T15:40:28+01:00",
+  "generated_at": "2026-11-16T15:45:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "770b137319c2",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/sten-nygren-svenska-forfattare-ar-inte-langre-lars-noren-de-ar-willy-wonka",
+      "guid": "https://www.dn.se/kultur/sten-nygren-svenska-forfattare-ar-inte-langre-lars-noren-de-ar-willy-wonka/",
+      "published_at": "2026-11-16T15:42:33+01:00",
+      "fetched_at": "2026-11-16T15:45:40+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/1d0096b8-1a01-407f-9f64-360feb6317d8.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Kulturdebatt. Sten Nygren: Svenska författare är inte längre Lars Norén – de är Willy Wonka",
+        "summary": "Danskar brukar traditionellt ses som skojfriska provokatörer, medan svenskar står för stelhet och gravallvar. Nu har förhållandet blivit det omvända, menar Sten Nygren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Culture debate. Sten Nygren: Swedish authors are no longer Lars Norén – they are Willy Wonka",
+        "summary": "Danes have traditionally been seen as playful provocateurs, while Swedes stand for stiffness and solemnity. Now the relationship has become the reverse, Sten Nygren argues."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T15:45:48+01:00"
+      }
+    },
     {
       "id": "8b85254386e5",
       "schema_version": 1,
@@ -5360,33 +5387,6 @@
       "en": {
         "title": "Johanna Frändén: Could a new French president simply take care of Putin in a judo bout?",
         "summary": "Ahead of a presidential election in France, everyone and their dog is putting themselves forward as a candidate. But now a name has surfaced that both shocks and delights the French: multiple judo champion and national icon Teddy Riner. Can he unite a divided nation?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "09257dbb9767",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sport/edvin-anger-jag-ar-inte-byggd-for-att-ga-ner-10-kilo",
-      "guid": "https://www.dn.se/sport/edvin-anger-jag-ar-inte-byggd-for-att-ga-ner-10-kilo/",
-      "published_at": "2026-11-13T06:30:45+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/a6c3fccb-c8d6-4ce7-ac73-63f08332ded2.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Edvin Anger: ”Jag är inte byggd för att gå ner 10 kilo”",
-        "summary": "ÖSTERSUND. Edvin Anger har visat att han kan vara snabbast i världen – när allt stämmer. Under OS ville skidåkaren däremot bara försvinna. I en stor intervju berättar svenska VM-hoppet om att gå bort sig i energibalans, framtidsdrömmen att slakta sitt eget kött och varför han undviker frågesporter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Edvin Anger: 'I am not built to lose 10 kilos'",
-        "summary": "ÖSTERSUND. Edvin Anger has shown he can be the fastest in the world – when everything clicks. During the Olympics, however, the skier just wanted to disappear. In a major interview, the Swedish world championship hope talks about losing his way with energy balance, the future dream of butchering his own meat, and why he avoids quizzes."
       },
       "translation": {
         "status": "done",
