@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-16T02:01:16+01:00",
+  "generated_at": "2026-11-16T02:15:41+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fdd4d906a014",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9341359",
+      "guid": "rss:sr.se/article/9341359",
+      "published_at": "2026-11-16T02:08:00+01:00",
+      "fetched_at": "2026-11-16T02:15:36+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Textilarbetare i strejk – runt 150 fabriker stängda",
+        "summary": "I Bangladesh har omkring 150 textilfabriker stängts efter omfattande strejker i helgen, där arbetare kräver högre minimilön, rapporterar BBC. I går blockerade demonstranter en större väg i Gazipur, vilket ledde till trafikstopp innan polisen ingrep.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Textile workers on strike – around 150 factories closed",
+        "summary": "In Bangladesh, around 150 textile factories have been closed after widespread strikes over the weekend, where workers demand a higher minimum wage, BBC reports. Yesterday, demonstrators blocked a major road in Gazipur, causing traffic to halt before police intervened."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T02:15:40+01:00"
+      }
+    },
     {
       "id": "4472af5f7382",
       "schema_version": 1,
@@ -5350,35 +5376,6 @@
       "en": {
         "title": "EU seeks negotiators – 'within a few weeks'",
         "summary": "Sweden supports a broad line-up of European representatives in possible talks with Russia, says Prime Minister Ulf Kristersson (M). Ireland's prime minister wants the question settled within a few weeks."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "b570bb3bdeec",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/tt-261113-eutoppmote1-4925c0cc/efter-toppmote-fem-stora-och-eu-talar-for-europa",
-      "guid": "tt-261113-eutoppmote1-4925c0cc",
-      "published_at": "2026-11-13T12:14:15+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "Beskedet om Ukraina efter EU-mötet",
-        "summary": "Sverige stöttar • ”Måste beslutas”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The announcement on Ukraine after the EU meeting",
-        "summary": "Sweden supports • 'Must be decided'"
       },
       "translation": {
         "status": "done",
