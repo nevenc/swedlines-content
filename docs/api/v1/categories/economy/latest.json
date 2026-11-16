@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T15:17:07+01:00",
+  "generated_at": "2026-11-16T15:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b00354b47245",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/sankt-kreditbetyg-for-volvo-cars-aterspeglar-kraftig-forsamring",
+      "guid": "97eba788-7538-4a22-ba56-7d1248164969",
+      "published_at": "2026-11-16T15:20:01+01:00",
+      "fetched_at": "2026-11-16T15:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/977e8fa8-bc49-4436-acf3-9b36d65dacd3.jpeg?width=600",
+      "sv": {
+        "title": "Sänkt kreditbetyg för Volvo Cars: ”Återspeglar kraftig försämring”",
+        "summary": "Kreditvärderingsinstitutet Moody’s har nedgraderat biltillverkaren Volvo Cars kreditbetyg (CFR) till Ba2 från tidigare Ba1. Utsikterna för betyget är fortsatt negativa, enligt ett pressmeddelande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Volvo Cars downgraded by credit rating agency: \"Reflects sharp deterioration\"",
+        "summary": "Credit rating agency Moody's has downgraded carmaker Volvo Cars' corporate family rating (CFR) to Ba2 from Ba1. The outlook for the rating remains negative, according to a press release."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T15:31:07+01:00"
+      }
+    },
     {
       "id": "da77a7887b34",
       "schema_version": 1,
@@ -5322,41 +5349,6 @@
       "en": {
         "title": "House prices rise – protests continue: “The last straw”",
         "summary": "The shortage of affordable housing has increased dramatically in Europe."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:08+01:00"
-      }
-    },
-    {
-      "id": "581a44e8046f",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/ekonomi/hur-ska-jag-fa-min-man-att-borja-spara-pengar.cfeb2260-c0cf-58a0-b950-8e98d062a21d",
-      "guid": "cfeb2260-c0cf-58a0-b950-8e98d062a21d",
-      "published_at": "2026-11-15T06:10:31+01:00",
-      "fetched_at": "2026-11-15T08:29:36+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Ekonomi",
-        "Tagg: Piaugers pengar",
-        "Tagg: Ekonomi",
-        "Tagg: Sparande",
-        "Tagg: Jämställdhet",
-        "Tagg: Relationer"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/77c84540-fdba-36bf-b6be-a4f757c519e1",
-      "sv": {
-        "title": "Min man sparar inga pengar alls – hjälp mig",
-        "summary": "Att det finns skillnader i relationen till pengar behöver inte bara vara något dåligt, skriver GP:s Alexander Piauger.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "My husband saves no money at all – help me",
-        "summary": "That there are differences in relationship to money doesn't have to be only a bad thing, writes GP's Alexander Piauger."
       },
       "translation": {
         "status": "done",
