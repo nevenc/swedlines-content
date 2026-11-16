@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T09:15:49+01:00",
+  "generated_at": "2026-11-16T09:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "294edaa8ad16",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/kom-och-kop-strutsar-och-lejon-till-salu-i-boras",
+      "guid": "https://www.dn.se/sverige/kom-och-kop-strutsar-och-lejon-till-salu-i-boras/",
+      "published_at": "2026-11-16T09:18:00+01:00",
+      "fetched_at": "2026-11-16T09:30:57+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/2babb152-679b-4930-97f8-933a8f6aafb1.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Kom och köp: Strutsar och lejon till salu i Borås",
+        "summary": "Efter 64 år i kommunal regi vill det nya styret i Borås sälja stadens djurpark. Tanken är att sluta avtal innan nästa jul, men oppositionen samlar namnlistor i protest och även de som driver frågan har sina tvivel. – Finns vår önskade köpare där ute? undrar Cecilie Tenfjord-Toftby (M).",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Come and buy: Ostriches and lions for sale in Borås",
+        "summary": "After 64 years under municipal ownership, the new Borås leadership wants to sell the city's zoo. The plan is to sign an agreement before next Christmas, but the opposition is collecting petitions in protest, and even those pushing the issue have their doubts. – Is our desired buyer out there? asks Cecilie Tenfjord-Toftby (M)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T09:31:08+01:00"
+      }
+    },
     {
       "id": "d318027fc285",
       "schema_version": 1,
@@ -5359,33 +5386,6 @@
       "en": {
         "title": "William clears snow all night: 'Going to be messy'",
         "summary": "Snow clearer William Andersson has been out clearing snow since 12 o'clock – and expects to carry on all night. – It is going to be bloody messy, he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "3bdfa21ef199",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/flera-doda-i-attack-mot-sjukhus-i-gaza",
-      "guid": "https://www.dn.se/varlden/flera-doda-i-attack-mot-sjukhus-i-gaza/",
-      "published_at": "2026-11-12T18:45:17+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/9c96abda-488b-459f-b3d1-a79a403401ac.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Flera döda i attack mot sjukhus i Gaza",
-        "summary": "Sex personer har dödats i en israelisk attack mot ett sjukhus i södra Gaza, uppger områdets civilförsvar. Ytterligare fem personer dödades i angrepp på flera platser på Gazaremsan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Several dead in attack on hospital in Gaza",
-        "summary": "Six people have been killed in an Israeli attack on a hospital in southern Gaza, the area's civil defence says. A further five people were killed in attacks in several places in the Gaza Strip."
       },
       "translation": {
         "status": "done",
