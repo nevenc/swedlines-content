@@ -1,7 +1,192 @@
 {
-  "generated_at": "2026-11-16T18:01:24+01:00",
+  "generated_at": "2026-11-16T18:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e52b3b1072fe",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/7P0VdK/strul-i-tagtrafiken-mellan-goteborg-och-stockholm",
+      "guid": "https://www.aftonbladet.se/nyheter/a/7P0VdK/strul-i-tagtrafiken-mellan-goteborg-och-stockholm?utm_medium=rss",
+      "published_at": "2026-11-16T18:09:48+01:00",
+      "fetched_at": "2026-11-16T18:15:49+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/eb0ed421-23ee-3b28-bcca-87d1487a30bc?format=auto&s=c1065e2daee1fecbb57fa8b9e649a212e762a093&w=1000",
+      "sv": {
+        "title": "Strul i tågtrafiken mellan Göteborg och Stockholm",
+        "summary": "Ett signalfel orsakar kraftiga tågförseningar mellan Stockholm och Göteborg, rapporterar…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Disruption on train traffic between Göteborg and Stockholm",
+        "summary": "A signal fault is causing heavy train delays between Stockholm and Göteborg, reports…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "f241a7250fde",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/M5R6w0/eu-lander-redo-skicka-asylsokande-till-rwanda",
+      "guid": "https://www.svd.se/a/M5R6w0/eu-lander-redo-skicka-asylsokande-till-rwanda?utm_medium=rss",
+      "published_at": "2026-11-16T18:02:43+01:00",
+      "fetched_at": "2026-11-16T18:15:49+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/30a28ec5-3c8b-38f5-951e-80bdac5df753?format=auto&s=7eb23a5b8eb36a48e9c13981ef2748758afb2b52&w=1000",
+      "sv": {
+        "title": "EU-länder redo skicka asylsökande till Rwanda",
+        "summary": "Fem EU-länder har nått en överenskommelse om att skicka asylsökanden som fått avslag till ett läger…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EU countries ready to send asylum seekers to Rwanda",
+        "summary": "Five EU countries have reached an agreement to send asylum seekers whose applications have been rejected to a camp…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "9adeb1b0bae9",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/proffset-om-vd-jakten-kan-ga-at-helvete",
+      "guid": "c415c981-c76e-4d23-94cd-09a71de59b91",
+      "published_at": "2026-11-16T18:02:19+01:00",
+      "fetched_at": "2026-11-16T18:15:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/60e1bc97-5c62-4d22-9132-ce97332245c3.jpeg?width=600",
+      "sv": {
+        "title": "Proffset om vd-jakten: ”Kan gå åt helvete”",
+        "summary": "Hur går det egentligen till när världens tidigare största bolag ska rekrytera en ny vd – mitt i en omsusad skandal? Rekryteraren Fredrik Hillelson berättar om det hemliga spelet bakom kulisserna och Nvidias svåra vägval. ”Då kan det gå käpprätt åt helvete”, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Headhunter on the CEO hunt: \"Could go to hell\"",
+        "summary": "How does it actually work when the world's former largest company is set to recruit a new CEO – in the middle of a much-discussed scandal? Recruiter Fredrik Hillelson describes the secret game behind the scenes and Nvidia's difficult choices. \"Then it could go straight to hell,\" he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "621326cccbf6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/musk-med-i-oppet-brev-ta-tillbaka-jensen-huang",
+      "guid": "c5aa34b1-f04e-47c1-818b-b265a497044e",
+      "published_at": "2026-11-16T18:01:58+01:00",
+      "fetched_at": "2026-11-16T18:15:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/b64c9ed1-9a59-461a-b4b4-d979e387f617.jpeg?width=600",
+      "sv": {
+        "title": "Musk med i öppet brev: Ta tillbaka Jensen Huang",
+        "summary": "”Trettiotre år förtjänar ett svar, vi kräver att Nvidia tar Jensen Huang tillbaka”, skrivs i ett öppet brev till chipjättens styrelse med över 170.000 underskrifter – däribland Elon Musk.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Musk joins open letter: Take Jensen Huang back",
+        "summary": "\"Thirty-three years deserves an answer, we demand that Nvidia takes Jensen Huang back,\" says an open letter to the board of the chip giant with over 170,000 signatures – including Elon Musk."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "8f29b7f5079d",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/stor-vardeokning-nar-fastighet-i-hofterup-loddekopinge-saljs-igen",
+      "guid": "a752ad2b-d5e5-4bb8-98ae-6cadb7ac5807",
+      "published_at": "2026-11-16T18:01:47+01:00",
+      "fetched_at": "2026-11-16T18:15:52+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Stor värdeökning när fastighet i Hofterup, Löddeköpinge säljs igen"
+      },
+      "en": {
+        "title": "Large value increase as property in Hofterup, Löddeköpinge is sold again"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "5b313965c471",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ledamot-miljontankar-i-berner-industrier",
+      "guid": "85b6f82c-2534-40eb-a05b-a9270a289f0a",
+      "published_at": "2026-11-16T18:00:54+01:00",
+      "fetched_at": "2026-11-16T18:15:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8a9a09bc-83e6-490d-a051-786c5901e5e2.jpeg?width=600",
+      "sv": {
+        "title": "Ledamot miljontankar i Berner Industrier",
+        "summary": "Investmentbolaget Zubizuri, som kontrolleras av Berner Industriers styrelseledamot Johan Lannebo, har köpt 50.000 aktier i Berner Industrier för cirka 3,5 miljoner kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Board member buys shares worth millions in Berner Industrier",
+        "summary": "Investment company Zubizuri, controlled by Berner Industrier board member Johan Lannebo, has bought 50,000 shares in Berner Industrier for about SEK 3.5 million."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "3ba8a6ced7f8",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/dJOvlX/kommer-vansterpartiet-kora-anda-in-i-kaklet",
+      "guid": "https://www.svd.se/a/dJOvlX/kommer-vansterpartiet-kora-anda-in-i-kaklet?utm_medium=rss",
+      "published_at": "2026-11-16T18:00:31+01:00",
+      "fetched_at": "2026-11-16T18:15:49+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/06701a44-d5a3-3aa8-a992-7f95f89f243e?format=auto&s=a0418a3a8bd1a054e253a66e32e7ad2052709805&w=1000",
+      "sv": {
+        "title": "Kommer Vänsterpartiet köra ända in i kaklet?",
+        "summary": "Regeringsbildning på ruta ett. Ska V åter bli dörrmatta, eller hålla ut?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Will the Left Party make it to the finish line?",
+        "summary": "Government formation back at square one. Will V once again become a doormat, or hold out?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T18:15:56+01:00"
+      }
+    },
     {
       "id": "10d9d21c23bd",
       "schema_version": 1,
@@ -81,6 +266,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T18:01:23+01:00"
+      }
+    },
+    {
+      "id": "f124160874c4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/mats-larsson/denna-vecka-blir-en-pr-triumf-for-putin",
+      "guid": "https://www.expressen.se/kronikorer/mats-larsson/denna-vecka-blir-en-pr-triumf-for-putin/",
+      "published_at": "2026-11-16T17:58:52+01:00",
+      "fetched_at": "2026-11-16T18:15:50+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Denna vecka blir en PR-triumf för Putin",
+        "summary": "Detta blir en triumfens vecka för Vladimir Putin. Veckan då han kan visa upp bildbeviset. På att Ryssland åter är en stormakt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This week is a PR triumph for Putin",
+        "summary": "This will be a week of triumph for Vladimir Putin. The week when he can show off the photographic evidence that Russia is once again a great power."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T18:15:56+01:00"
       }
     },
     {
@@ -5202,223 +5413,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T12:15:47+01:00"
-      }
-    },
-    {
-      "id": "6f7fce9124d8",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/nasas-uppmaning-halsa-till-voyager-1-pa-ettdygnsdagen",
-      "guid": "https://www.expressen.se/nyheter/varlden/nasas-uppmaning-halsa-till-voyager-1-pa-ettdygnsdagen/",
-      "published_at": "2026-11-16T12:04:16+01:00",
-      "fetched_at": "2026-11-16T12:15:41+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "Nasas uppmaning – hälsa till Voyager 1 på ettdygnsdagen",
-        "summary": "Grattis på ettdygnsdagen! Efter 49 år är rymdfarkosten Voyager 1 ett ljusdygn från jorden. Nu uppmanar Nasa alla att skicka en hälsning. Så går du tillväga.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nasa urges greetings to Voyager 1 on its one-day anniversary",
-        "summary": "Happy one-day anniversary! After 49 years, the spacecraft Voyager 1 is one light-day from Earth. Nasa now urges everyone to send a greeting. Here's how to do it."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:15:47+01:00"
-      }
-    },
-    {
-      "id": "4dc381b4c101",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/overraskninge-farre-an-vantat-springer-over-jarnvagssparen",
-      "guid": "52424ff1-0fac-48f6-8cd8-26f1c877d4d1",
-      "published_at": "2026-11-16T12:00:00+01:00",
-      "fetched_at": "2026-11-16T12:01:16+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/68dff9e7-129b-437b-af98-051899bb3db9.jpeg?width=600",
-      "sv": {
-        "title": "Smarta kameror avslöjade sex spårspringare vid Lund",
-        "summary": "Trafikverkets försök med smarta larmande kameror visar att färre än man trott springer över spåren vid Lund C. Obehöriga i spåret leder till dyra tågstopp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Smart cameras caught six track trespassers at Lund",
-        "summary": "The Transport Administration's trial of smart alarm cameras shows fewer people than expected cross the tracks at Lund C. Unauthorised people on the tracks cause costly train stoppages."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:01:23+01:00"
-      }
-    },
-    {
-      "id": "dd277e7af081",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/kinas-nya-satsning-soloprenorer",
-      "guid": "c5199941-5f65-4e3a-bc8f-84ab100f7e09",
-      "published_at": "2026-11-16T12:00:00+01:00",
-      "fetched_at": "2026-11-16T12:15:42+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/99755e8f-eb13-4d5b-85d7-06970e355dd9.jpeg?width=600",
-      "sv": {
-        "title": "Kinas nya satsning: ”Soloprenörer”",
-        "summary": "I Kina breder ”soloprenörerna” ut sig med blixtsnabba kopior av populära varor och sociala medie-kloner, tack vare AI. Staten stöttar med kontor och tokens, i hopp om att få bukt på den skenande ungdomsarbetslösheten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "China's new push: \"solopreneurs\"",
-        "summary": "In China, \"solopreneurs\" are expanding with lightning-fast copies of popular products and social media clones, thanks to AI. The state supports them with offices and tokens, in the hope of curbing runaway youth unemployment."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:15:47+01:00"
-      }
-    },
-    {
-      "id": "e70fe82ea383",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/malmobo-kopplas-till-cannabis-och-tusentals-knarkvapes",
-      "guid": "602fa77a-bb36-459f-8857-69822a24f2ba",
-      "published_at": "2026-11-16T12:00:00+01:00",
-      "fetched_at": "2026-11-16T12:01:16+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/ca6eaf05-993a-475e-ad0b-465d2d12bf10.jpeg?width=600",
-      "sv": {
-        "title": "Malmöbo kopplas till cannabis och tusentals knarkvapes",
-        "summary": "Nära 13 kilo cannabis och över 2 600 e-cigaretter med cannabis fanns i barnfamiljens lägenhet i Malmö. En 33-åring misstänks ligga bakom. Han skyller på en Amerikansk knarkboss.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Malmö man linked to cannabis and thousands of drug vapes",
-        "summary": "Nearly 13 kilos of cannabis and over 2,600 cannabis e-cigarettes were found in a family flat in Malmö. A 33-year-old is suspected to be behind it. He blames an American drug boss."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:01:23+01:00"
-      }
-    },
-    {
-      "id": "6c153972254d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/ARdber/andersson-och-dadgostar-i-nytt-mote",
-      "guid": "https://www.aftonbladet.se/nyheter/a/ARdber/andersson-och-dadgostar-i-nytt-mote?utm_medium=rss",
-      "published_at": "2026-11-16T11:57:33+01:00",
-      "fetched_at": "2026-11-16T15:06:24+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/cfcb5f22-a620-3598-92c7-513cd95a597c?format=auto&s=bc138a8f1f77fa5cfbc642dfab5b3d61908fb8df&w=1000",
-      "sv": {
-        "title": "Andersson och Dadgostar i nytt möte",
-        "summary": "Målet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Andersson and Dadgostar in new meeting",
-        "summary": "The goal"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:06:30+01:00"
-      }
-    },
-    {
-      "id": "6b4d7363bbff",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/klart-i-eu-unicredit-far-kopa-commerzbank",
-      "guid": "e52f416b-2fd4-4abb-a371-daab69ed22af",
-      "published_at": "2026-11-16T11:52:44+01:00",
-      "fetched_at": "2026-11-16T12:01:15+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/bec87645-417c-4bc0-99a5-45568771f38d.jpg?width=600",
-      "sv": {
-        "title": "Klart i EU: Unicredit får köpa Commerzbank",
-        "summary": "EU-kommissionen godkänner italienska Unicredits köp av tyska Commerzbank.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Cleared in EU: Unicredit may buy Commerzbank",
-        "summary": "The European Commission approves the purchase of German Commerzbank by Italian Unicredit."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:01:23+01:00"
-      }
-    },
-    {
-      "id": "b001fbf2650e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/statsvetaren-s-och-c-ar-jatteradda-for-extra-val",
-      "guid": "2e3c6b36-13ed-46b8-ba78-c16ec21ca516",
-      "published_at": "2026-11-16T11:52:27+01:00",
-      "fetched_at": "2026-11-16T12:01:16+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/600a4c17-e5e7-4688-acc6-6acae94642cb.jpg?width=600",
-      "sv": {
-        "title": "Statsvetaren: S och C är jätterädda för extra val",
-        "summary": "Huvudproblemet består – varken C eller V har suddat ut några röda linjer. Det enda som hänt sedan valnatten är att C öppnat dörren högerut, menar statsvetaren Andreas Johansson Heinö. – Centerpartiet är uppenbart splittrat mellan vänster och höger.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Political scientist: S and C are terrified of a snap election",
-        "summary": "The main problem remains – neither C nor V has erased any red lines. The only thing that has happened since election night is that C has opened the door to the right, political scientist Andreas Johansson Heinö argues. – The Centre Party is obviously split between left and right."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:01:23+01:00"
-      }
-    },
-    {
-      "id": "a24ffa9104a7",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4OOl9te0qWiKjrnPZG6XY0/putins-nya-mal-uppges-vara-maten-experten-inte-oevertygad",
-      "guid": "4OOl9te0qWiKjrnPZG6XY0",
-      "published_at": "2026-11-16T11:51:40+01:00",
-      "fetched_at": "2026-11-16T12:01:15+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Putins nya mål uppges vara maten – experten: ”Inte övertygad”",
-        "summary": "Ryssland förbereder attacker mot livsmedelsindustrins anläggningar över hela Ukraina, inklusive ukrainska och utländska företag, rapporterar Kyiv Post med hänvisning till en källa inom Ukrainas militära underrättelsetjänst (HUR).",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Putin's new target reportedly food – expert: \"Not convinced\"",
-        "summary": "Russia is preparing attacks on food industry facilities across Ukraine, including Ukrainian and foreign companies, Kyiv Post reports, citing a source in Ukraine's military intelligence service (HUR)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:01:23+01:00"
       }
     }
   ]
