@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T15:45:48+01:00",
+  "generated_at": "2026-11-16T16:16:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7e56645a0a78",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/R1R1AA/trump-kanske-traffar-kim-i-veckan",
+      "guid": "https://www.aftonbladet.se/nyheter/a/R1R1AA/trump-kanske-traffar-kim-i-veckan?utm_medium=rss",
+      "published_at": "2026-11-16T15:48:10+01:00",
+      "fetched_at": "2026-11-16T16:16:01+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/ee13cd24-da61-3544-aba0-1e0793cf51c0?format=auto&s=fa00e21b1133c66396d92916a9ae1f3cbf584ed6&w=1000",
+      "sv": {
+        "title": "Trump: Kanske träffar Kim i veckan",
+        "summary": "Donald Trump kan komma att träffa Nordkoreas ledare Kim Jong-Un i veckan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump: may meet Kim this week",
+        "summary": "Donald Trump may meet North Korean leader Kim Jong-Un this week."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:16:22+01:00"
+      }
+    },
     {
       "id": "4854f7a8b595",
       "schema_version": 1,
@@ -5324,33 +5351,6 @@
       "en": {
         "title": "Tourist town raises alarm after chaotic weather",
         "summary": "Italian holiday favourite evacuates"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:42+01:00"
-      }
-    },
-    {
-      "id": "c63ccf0a970b",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/0vnGk0/uppgifter-ryssland-kraver-finlands-uttag-ur-nato",
-      "guid": "https://www.aftonbladet.se/nyheter/a/0vnGk0/uppgifter-ryssland-kraver-finlands-uttag-ur-nato?utm_medium=rss",
-      "published_at": "2026-11-14T08:07:02+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/7ee5c217-7f3c-3246-88fd-c18f71da3a05?format=auto&s=b97c82876219a789eba47a0276cb00b602968865&w=1000",
-      "sv": {
-        "title": "Uppgifter: Ryssland kräver Finlands uttåg ur Nato",
-        "summary": "Natokravet i Abu Dhabi ✓ Förnekar",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: Russia demands Finland's exit from NATO",
-        "summary": "NATO demand in Abu Dhabi ✓ Denies"
       },
       "translation": {
         "status": "done",

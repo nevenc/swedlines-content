@@ -1,7 +1,195 @@
 {
-  "generated_at": "2026-11-16T15:45:48+01:00",
-  "count": 186,
+  "generated_at": "2026-11-16T16:16:22+01:00",
+  "count": 193,
   "items": [
+    {
+      "id": "0c48cdf60bf6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/trump-stottar-jensen-huang-nvidia-aterhamtar-sig",
+      "guid": "aae07e6e-4641-45a1-93b7-0d7186b93bcd",
+      "published_at": "2026-11-16T16:04:43+01:00",
+      "fetched_at": "2026-11-16T16:16:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d876e573-f493-4c0c-9931-a8d5a8f28f1d.jpeg?width=600",
+      "sv": {
+        "title": "Trump stöttar Jensen Huang – Nvidia återhämtar sig",
+        "summary": "Donald Trump skulle inte ha några problem med att se Jensen Huang tillbaka som Nvidia-vd. Det säger presidenten under en presskonferens i Vita huset. ”Jag tror att han lärde sig en stor läxa”, säger han enligt Bloomberg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump backs Jensen Huang – Nvidia recovers",
+        "summary": "Donald Trump would have no problem seeing Jensen Huang back as Nvidia CEO. The president says so at a press conference at the White House. “I think he learned a big lesson”, he says according to Bloomberg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:16:22+01:00"
+      }
+    },
+    {
+      "id": "03e5bd6a876a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/sex-veckors-forlustsvit-for-bitcoin-de-koper-dippen",
+      "guid": "1bedadf8-d00e-485e-806c-b0fcce78024e",
+      "published_at": "2026-11-16T16:03:56+01:00",
+      "fetched_at": "2026-11-16T16:16:02+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Sex veckors förlustsvit för bitcoin – de köper dippen",
+        "summary": "Efter sex veckors nedgång har bitcoin tappat nära hälften av sitt värde jämfört med toppnoteringen, som inföll i oktober i fjol. En Nasdaqnoterad bitcoinförvaltare har passat på att köpa – men tappar på börsen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Six-week losing streak for bitcoin – they buy the dip",
+        "summary": "After six weeks of decline, bitcoin has lost nearly half its value from the peak, which came in October last year. A Nasdaq-listed bitcoin manager has seized the moment to buy – but loses on the exchange."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:16:22+01:00"
+      }
+    },
+    {
+      "id": "a933a5a6add6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/eu-infor-sanktioner-mot-rysslands-rikaste-kvinna",
+      "guid": "4a973dfb-345c-412b-91e8-eef25e71302f",
+      "published_at": "2026-11-16T16:03:31+01:00",
+      "fetched_at": "2026-11-16T16:16:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/46e7f4d3-a974-41e4-8c6d-f09454750ddc.jpeg?width=600",
+      "sv": {
+        "title": "EU inför sanktioner mot Rysslands rikaste kvinna",
+        "summary": "EU har infört sanktioner mot Tatjana Kim, grundare av Rysslands största e-handelsföretag Wildberries och landets rikaste kvinna. Det rapporterar Bloomberg News.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EU imposes sanctions on Russia’s richest woman",
+        "summary": "The EU has imposed sanctions on Tatjana Kim, founder of Russia’s largest e-commerce company Wildberries and the country’s richest woman. Bloomberg News reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:16:22+01:00"
+      }
+    },
+    {
+      "id": "41e6176318a6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/enbent-kina-haltar",
+      "guid": "6f1a2c22-b98a-4635-b800-2c84e62a5334",
+      "published_at": "2026-11-16T15:54:14+01:00",
+      "fetched_at": "2026-11-16T16:16:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/9495bbbe-73a6-4973-aa05-59778093084e.jpeg?width=600",
+      "sv": {
+        "title": "Enbent Kina haltar",
+        "summary": "Kinas beroende av omvärlden ökar. I oktober sjönk farten i detaljhandeln och industriproduktionen medan investeringarna rasade i den största omfattningen sedan pandemin.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "One-legged China limps",
+        "summary": "China’s dependence on the outside world is growing. In October, retail and industrial production slowed while investments plunged at the largest rate since the pandemic."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:16:22+01:00"
+      }
+    },
+    {
+      "id": "a763a13956ad",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/trump-kanske-traffar-kim-jong-un-i-veckan",
+      "guid": "5256eadf-569e-4b32-8077-a568fcc630cd",
+      "published_at": "2026-11-16T15:53:08+01:00",
+      "fetched_at": "2026-11-16T16:16:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/2166d48a-a111-429f-a2c7-29781753f5c9.jpg?width=600",
+      "sv": {
+        "title": "Trump: Kanske träffar Kim Jong-Un i veckan",
+        "summary": "Donald Trump kan komma att träffa Nordkoreas ledare Kim Jong-Un i veckan. Det säger han inför sin resa till Asien.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump: may meet Kim Jong-Un this week",
+        "summary": "Donald Trump may meet North Korean leader Kim Jong-Un this week. He says so ahead of his trip to Asia."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:16:22+01:00"
+      }
+    },
+    {
+      "id": "c8cdf7c93623",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/tesla-mangmiljardsatsar-i-tyskland",
+      "guid": "7fa12107-150d-453e-b293-241b35afa308",
+      "published_at": "2026-11-16T15:50:08+01:00",
+      "fetched_at": "2026-11-16T16:16:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/146c0b88-bddc-4d18-90ba-6d7ff77113a0.jpg?width=600",
+      "sv": {
+        "title": "Tesla mångmiljardsatsar i Tyskland",
+        "summary": "Tesla ska investera tre miljarder euro, motsvarande drygt 33 miljarder kronor, i sin anläggning utanför Berlin. Avsikten är att kunna tillverka minst en miljon exemplar av företagets så kallade Cybercab, skriver nyhetsbyrån AFP.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tesla makes multi-billion investment in Germany",
+        "summary": "Tesla is to invest three billion euros, equivalent to just over SEK 33 billion, in its plant outside Berlin. The aim is to be able to produce at least one million units of the company’s so-called Cybercab, writes news agency AFP."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:16:22+01:00"
+      }
+    },
+    {
+      "id": "2a9d5994bea5",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/debatt/krav-tillstand-for-onoterat",
+      "guid": "6949f719-936b-4927-b877-163ab88ddfb6",
+      "published_at": "2026-11-16T15:43:42+01:00",
+      "fetched_at": "2026-11-16T16:16:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/536f6514-bd83-4303-994b-6063eba18aa3.jpeg?width=600",
+      "sv": {
+        "title": "Kräv tillstånd för onoterat",
+        "summary": "Mer ljus på marknaden gynnar alla som vill göra rätt. Nu är det dags att följa upp varningarna med regler, skriver Cissi Nilsson, kommunikationschef, Eqvor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Demand permits for unlisted",
+        "summary": "More light in the market benefits everyone who wants to do right. Now it is time to follow up the warnings with rules, writes Cissi Nilsson, communications manager, Eqvor."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:16:22+01:00"
+      }
+    },
     {
       "id": "0ea3579ee8f8",
       "schema_version": 1,
