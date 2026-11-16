@@ -1,7 +1,275 @@
 {
-  "generated_at": "2026-11-16T14:15:51+01:00",
-  "count": 354,
+  "generated_at": "2026-11-16T14:31:14+01:00",
+  "count": 365,
   "items": [
+    {
+      "id": "61a071b361c8",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/kMJwoj/familjen-mukka-i-lulea-forlorade-allt-nar-villan-brann-ned",
+      "guid": "https://www.aftonbladet.se/nyheter/a/kMJwoj/familjen-mukka-i-lulea-forlorade-allt-nar-villan-brann-ned?utm_medium=rss",
+      "published_at": "2026-11-16T14:27:56+01:00",
+      "fetched_at": "2026-11-16T14:31:06+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/4bb97786-ca37-3c6f-a7a2-e428a300a758?format=auto&s=9af48b236df05a5e3a6577f298512dcf6e298375&w=1000",
+      "sv": {
+        "title": "Familjen Mukkas hem totalförstördes i branden: ”Fruktansvärt”",
+        "summary": "Stan sluter upp: ”Blir jätterörd”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Familjen Mukkas home destroyed in the fire: \"Terrible\"",
+        "summary": "Stan steps in: \"Am extremely upset\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:31:14+01:00"
+      }
+    },
+    {
+      "id": "c0b61b8fc6b6",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/brittiska-barn-borjar-skolan-i-bloja-nu-foreslas-tidigare-atgarder",
+      "guid": "https://www.dn.se/varlden/brittiska-barn-borjar-skolan-i-bloja-nu-foreslas-tidigare-atgarder/",
+      "published_at": "2026-11-16T14:27:11+01:00",
+      "fetched_at": "2026-11-16T14:31:05+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/abd55c3e-3568-4871-af03-14de3de7bb3c.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Brittiska barn börjar skolan i blöja – nu föreslås tidigare åtgärder",
+        "summary": "Brittiska barn kommer till skolan i blöja och kan inte använda bestick när de ska äta. Nu föreslår regeringens utredare Alan Milburn krafttag för att stötta fler föräldrar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "British children start school in nappies – now earlier measures are proposed",
+        "summary": "British children come to school in nappies and cannot use cutlery when they eat. Now government inquiry leader Alan Milburn proposes decisive action to support more parents."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:31:14+01:00"
+      }
+    },
+    {
+      "id": "aedfff308ea8",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/podcast/politikrummet-1/da-blir-kristersson-anda-statsminister",
+      "guid": "https://www.expressen.se/podcast/politikrummet-1/da-blir-kristersson-anda-statsminister/",
+      "published_at": "2026-11-16T14:26:55+01:00",
+      "fetched_at": "2026-11-16T14:31:06+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Då blir Kristersson ändå statsminister",
+        "summary": "Centerpartiet väljer Magdalena Andersson – så länge Vänsterpartiet backar. Samtidigt hålls dörren på glänt till höger. Är regeringsbildningen tillbaka på ruta ett? Lyssna på ”Politikrummet”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Then Kristersson becomes prime minister after all",
+        "summary": "The Centre Party chooses Magdalena Andersson – as long as the Left Party backs off. Meanwhile, the door to the right is left ajar. Is the government formation back at square one? Listen to \"Politikrummet\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:31:14+01:00"
+      }
+    },
+    {
+      "id": "11432c8e162d",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Oypyeq/firades-som-danmarks-aldsta-hade-morkt-forflutet",
+      "guid": "https://www.svd.se/a/Oypyeq/firades-som-danmarks-aldsta-hade-morkt-forflutet?utm_medium=rss",
+      "published_at": "2026-11-16T14:24:17+01:00",
+      "fetched_at": "2026-11-16T14:31:06+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/cc2fff4e-36b5-3a6c-a1be-86e2ad005a26?format=auto&s=b157499977c61ba8bd13ca88a66bcd26a7ea8349&w=1000",
+      "sv": {
+        "title": "Firades som Danmarks äldsta – hade mörkt förflutet",
+        "summary": "Hon har under hösten firats som den äldsta personen i Danmarks historia.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Celebrated as Denmark's oldest – had a dark past",
+        "summary": "She has been celebrated during the autumn as the oldest person in Danish history."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:31:14+01:00"
+      }
+    },
+    {
+      "id": "4f358cb42a50",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/5303OO/firades-som-danmarks-aldsta-hade-morkt-forflutet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/5303OO/firades-som-danmarks-aldsta-hade-morkt-forflutet?utm_medium=rss",
+      "published_at": "2026-11-16T14:24:15+01:00",
+      "fetched_at": "2026-11-16T14:31:06+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/cc2fff4e-36b5-3a6c-a1be-86e2ad005a26?format=auto&s=b157499977c61ba8bd13ca88a66bcd26a7ea8349&w=1000",
+      "sv": {
+        "title": "Firades som Danmarks äldsta – hade mörkt förflutet",
+        "summary": "Hon har under hösten firats som den äldsta personen i Danmarks historia.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Celebrated as Denmark's oldest – had a dark past",
+        "summary": "She has been celebrated during the autumn as the oldest person in Danish history."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:31:14+01:00"
+      }
+    },
+    {
+      "id": "bd373aed8955",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/0vnBvG/sd-ledaren-jimmie-akesson-hyllas-av-vanstern",
+      "guid": "https://www.svd.se/a/0vnBvG/sd-ledaren-jimmie-akesson-hyllas-av-vanstern?utm_medium=rss",
+      "published_at": "2026-11-16T14:22:53+01:00",
+      "fetched_at": "2026-11-16T14:31:06+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/7541643b-c729-360f-ac7b-d76a76494714?format=auto&s=69c2d428afcce004603aa856e474c1e8881375f8&w=1000",
+      "sv": {
+        "title": "Oväntade hyllningarna till Jimmie Åkesson",
+        "summary": "SD-ledaren Jimmie Åkessons besked i regeringsfrågan ändrade spelplanen i förhandlingarna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Unexpected praise for Jimmie Åkesson",
+        "summary": "SD leader Jimmie Åkesson's decision on the government question changed the playing field in the negotiations."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:31:14+01:00"
+      }
+    },
+    {
+      "id": "df35e05d96f5",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/3Bj2Lq/ukrainafrivilliga-kan-fa-psykiatrisk-vard-i-uppsala",
+      "guid": "https://www.svd.se/a/3Bj2Lq/ukrainafrivilliga-kan-fa-psykiatrisk-vard-i-uppsala?utm_medium=rss",
+      "published_at": "2026-11-16T14:22:40+01:00",
+      "fetched_at": "2026-11-16T14:31:06+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/bb5792a4-2436-3c16-afd7-17b71fe9b626?format=auto&s=4b7270d77471965da396ee4cba6146f2b04461ca&w=1000",
+      "sv": {
+        "title": "Svenska ”Calle” återvänder från fronten",
+        "summary": "”Jag vaknar ofta av mardrömmar.” Svenske ”Calle” har rest till Ukraina som frivillig i flera år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish \"Calle\" returns from the front",
+        "summary": "\"I often wake up from nightmares.\" Swedish \"Calle\" has travelled to Ukraine as a volunteer for several years."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:31:14+01:00"
+      }
+    },
+    {
+      "id": "3649b45eec6e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/landerholm-overklagar-till-hogsta-domstolen",
+      "guid": "e159e701-7cc5-45e7-8fc7-1e148d53703e",
+      "published_at": "2026-11-16T14:17:24+01:00",
+      "fetched_at": "2026-11-16T14:31:07+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/89845160-3e35-4d71-acde-6faa7ee1a64a.jpg?width=600",
+      "sv": {
+        "title": "Landerholm överklagar till Högsta domstolen",
+        "summary": "Henrik Landerholm överklagar till Högsta domstolen, skriver DN med hänvisning till domstolshandlingar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Landerholm appeals to the Supreme Court",
+        "summary": "Henrik Landerholm appeals to the Supreme Court, DN reports, citing court documents."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:31:14+01:00"
+      }
+    },
+    {
+      "id": "2dddb7c26c98",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/warren-buffett-donerar-miljarder",
+      "guid": "4c35e465-3f38-4161-9977-817f3815ed4f",
+      "published_at": "2026-11-16T14:15:05+01:00",
+      "fetched_at": "2026-11-16T14:31:07+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/98127f91-7a1e-477b-83b5-aa0f8e51edc1.jpeg?width=600",
+      "sv": {
+        "title": "Warren Buffett donerar miljarder",
+        "summary": "Finansnestorn Warren Buffett donerar motsvarande 55 miljarder kronor till fyra filantropiska stiftelser, lagom till firandet av Thanksgiving i slutet av november.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Warren Buffett donates billions",
+        "summary": "Finance titan Warren Buffett donates the equivalent of SEK 55 billion to four philanthropic foundations, just in time for the Thanksgiving celebrations at the end of November."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:31:14+01:00"
+      }
+    },
+    {
+      "id": "ccc44cf61545",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/men-varfor-skulle-vansterpartiet-backa",
+      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/men-varfor-skulle-vansterpartiet-backa/",
+      "published_at": "2026-11-16T14:14:54+01:00",
+      "fetched_at": "2026-11-16T14:31:06+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Men varför skulle Vänsterpartiet backa?",
+        "summary": "Om Vänsterpartiet backar nu har regeringskravet inte uppnått någonting mer än att göra partiet till åtlöje. Så varför skulle de göra det? Den frågan återstår för S – och C – att svara på.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "But why would the Left Party back off?",
+        "summary": "If the Left Party backs off now, the government demand will have achieved nothing more than making the party a laughingstock. So why would they do it? That question remains for the Social Democrats – and the Centre Party – to answer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:31:14+01:00"
+      }
+    },
     {
       "id": "813414bd8110",
       "schema_version": 1,
@@ -53,6 +321,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T14:15:51+01:00"
+      }
+    },
+    {
+      "id": "de43a0b2cd49",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/heba-saljer-fastighet-i-taby-for-83-mkr",
+      "guid": "13ee996b-c2c0-41ae-b4fe-5ca630eb6307",
+      "published_at": "2026-11-16T14:07:53+01:00",
+      "fetched_at": "2026-11-16T14:31:07+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Heba säljer fastighet i Täby för 83 Mkr",
+        "summary": "Fastighetsbolaget Heba har träffat avtal om försäljning av Markan 6 i Täby.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Heba sells property in Täby for SEK 83 million",
+        "summary": "Property company Heba has signed an agreement to sell Markan 6 in Täby."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:31:14+01:00"
       }
     },
     {
