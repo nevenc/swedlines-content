@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T20:01:34+01:00",
+  "generated_at": "2026-11-16T20:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5a1a85fd5d9c",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/potter-vi-vill-vinna",
+      "guid": "https://www.dn.se/sport/potter-vi-vill-vinna/",
+      "published_at": "2026-11-16T20:15:24+01:00",
+      "fetched_at": "2026-11-16T20:15:42+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/e7fe5c00-6ae2-4754-af75-f78b8145c1a6.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Potter: ”Vi vill vinna”",
+        "summary": "Gruppsegern är redan säkrad för fotbollsherrarna. Men förbundskapten Graham Potter vill inte slå av på takten. – Vi spelar för Sverige och vill vinna. Det är viktigt att ha den mentaliteten, säger Potter på en presskonferens i Wroclaw inför tisdagens bortamöte med Polen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Potter: “We want to win”",
+        "summary": "The group win is already secured for the men's football team. But head coach Graham Potter does not want to ease off. – We are playing for Sweden and want to win. It is important to have that mentality, Potter says at a press conference in Wroclaw ahead of Tuesday's away match against Poland."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T20:15:51+01:00"
+      }
+    },
     {
       "id": "a29b63cc8f46",
       "schema_version": 1,
@@ -5360,33 +5387,6 @@
       "en": {
         "title": "Frustration grows in the Green Party: 'We are not the problem'",
         "summary": "Frustration is growing locally in the Green Party, according to several representatives DN has spoken to. There is concern that government power could slip out of the red-greens' hands – and about the harsh tone between the parties. – The risk is that you create deadlocks that do not need to exist, says a local MP leader."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "8d670870a4de",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/mat-dryck/helgens-drink-rock-and-rye",
-      "guid": "https://www.dn.se/mat-dryck/helgens-drink-rock-and-rye/",
-      "published_at": "2026-11-13T10:48:39+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/b9efc8e8-2ad6-4148-bf53-eb6b4821fc92.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Helgens drink: Rock and rye",
-        "summary": "DN:s Elin Peters tipsar om en drink i tiden. Denna helg en svängig sötnos.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The weekend's drink: Rock and rye",
-        "summary": "DN's Elin Peters recommends a drink of the moment. This weekend a swinging sweetheart."
       },
       "translation": {
         "status": "done",
