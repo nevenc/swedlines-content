@@ -1,7 +1,114 @@
 {
-  "generated_at": "2026-11-16T08:01:18+01:00",
-  "count": 153,
+  "generated_at": "2026-11-16T08:15:47+01:00",
+  "count": 157,
   "items": [
+    {
+      "id": "4079a34d8a93",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/statsvetaren-c-haller-dorren-at-hoger-oppen",
+      "guid": "https://www.expressen.se/nyheter/politik/statsvetaren-c-haller-dorren-at-hoger-oppen/",
+      "published_at": "2026-11-16T08:07:17+01:00",
+      "fetched_at": "2026-11-16T08:15:40+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Statsvetaren: C håller dörren åt höger öppen",
+        "summary": "Låsningen mellan C och V består. Statsvetaren Andreas Johansson Heinö tror inte att S-ledaren Magdalena Andersson kan ge V stora politiska eftergifter för att hålla partiet utanför regeringen – eftersom C kan gå högerut. – C är splittrat.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Political scientist: C leaves the door open to the right",
+        "summary": "The lock-in between C and V persists. Political scientist Andreas Johansson Heinö does not believe that Social Democrat leader Magdalena Andersson can make major political concessions to V to keep the party out of government – because C may move rightward. – C is split."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T08:15:47+01:00"
+      }
+    },
+    {
+      "id": "0361d1db6cb7",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/j3d0VA/64-dagar-utan-regering-detta-har-hant",
+      "guid": "https://www.svd.se/a/j3d0VA/64-dagar-utan-regering-detta-har-hant?utm_medium=rss",
+      "published_at": "2026-11-16T08:04:53+01:00",
+      "fetched_at": "2026-11-16T08:15:39+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/05c8cae8-a743-3dbd-8668-686bd0c2b703?format=auto&s=cbffbe649b2b2dca3a7d9eae4efdf19deeae2161&w=1000",
+      "sv": {
+        "title": "64 dagar utan regering – detta har hänt",
+        "summary": "Det har nu gått 64 dagar sedan valdagen. Ännu är det oklart vilken regering Sverige ska få.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "64 days without a government – here is what has happened",
+        "summary": "It has now been 64 days since election day. It is still unclear which government Sweden will get."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T08:15:47+01:00"
+      }
+    },
+    {
+      "id": "4b00f46b5865",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/3BJpLd/64-dagar-utan-regering-detta-har-hant",
+      "guid": "https://www.aftonbladet.se/nyheter/a/3BJpLd/64-dagar-utan-regering-detta-har-hant?utm_medium=rss",
+      "published_at": "2026-11-16T08:04:52+01:00",
+      "fetched_at": "2026-11-16T08:15:40+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/05c8cae8-a743-3dbd-8668-686bd0c2b703?format=auto&s=cbffbe649b2b2dca3a7d9eae4efdf19deeae2161&w=1000",
+      "sv": {
+        "title": "64 dagar utan regering – detta har hänt",
+        "summary": "Det har nu gått 64 dagar sedan valdagen. Ännu är det oklart vilken regering Sverige ska få.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "64 days without a government – here is what has happened",
+        "summary": "It has now been 64 days since election day. It is still unclear which government Sweden will get."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T08:15:47+01:00"
+      }
+    },
+    {
+      "id": "a0745e16e943",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/klimat/a/4Eq3yg/mp-bort-med-fossilbilar-i-innerstaden",
+      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/4Eq3yg/mp-bort-med-fossilbilar-i-innerstaden?utm_medium=rss",
+      "published_at": "2026-11-16T08:01:55+01:00",
+      "fetched_at": "2026-11-16T08:15:40+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/be5acb76-3c06-379b-8654-287b4ccd5c30?format=auto&s=39212a6cd1eabb6ac450da5ed728a384f36d13bf&w=1000",
+      "sv": {
+        "title": "MP: Bort med fossilbilar i innerstaden",
+        "summary": "Nytt förslag i budgeten för nästa år",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "MP: Get rid of fossil-fuel cars in the city centre",
+        "summary": "New proposal in next year's budget"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T08:15:47+01:00"
+      }
+    },
     {
       "id": "acc2b0cab0c3",
       "schema_version": 1,
