@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-16T18:45:48+01:00",
+  "generated_at": "2026-11-16T19:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0642e7bc0a17",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/m-toppens-nya-toppjobb-exakt-vad-jag-vill-gora",
+      "guid": "https://www.expressen.se/nyheter/politik/m-toppens-nya-toppjobb-exakt-vad-jag-vill-gora/",
+      "published_at": "2026-11-16T18:56:31+01:00",
+      "fetched_at": "2026-11-16T19:01:16+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "M-toppens nya toppjobb: ”Exakt vad jag vill göra”",
+        "summary": "Douglas Thor gör sorti som förbundsordförande för Muf. Nu ska han in på ett toppjobb i Axel Johnson-sfären. – Det har kliat väldigt mycket i fingrarna, säger Thor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Moderates' new top job: \"Exactly what I want to do\"",
+        "summary": "Douglas Thor is stepping down as federal chair of Muf. Now he is moving into a top job in the Axel Johnson sphere. \"I've been itching to do it for a long time,\" says Thor."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T19:01:24+01:00"
+      }
+    },
     {
       "id": "312e3f7a2325",
       "schema_version": 1,
@@ -5379,32 +5405,6 @@
       "en": {
         "title": "Centre Party voters would rather see an Alliance government than V in government",
         "summary": "Centre Party voters would most like to sit in government with Magdalena Andersson – provided the Left Party is kept out. Otherwise they prefer an Alliance government tolerated by SD, a survey by Indikator opinion shows."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "85fdbf9cf3e9",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/v-valjare-hellre-regering-utan-vansterpartiet-an-extraval",
-      "guid": "https://www.svt.se/nyheter/inrikes/v-valjare-hellre-regering-utan-vansterpartiet-an-extraval",
-      "published_at": "2026-11-12T21:07:45+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "V-väljare: Hellre regering utan Vänsterpartiet än extraval",
-        "summary": "V-väljare ser helst en rödgrön fyrpartiregering – men om valet står mellan ett extraval eller stå utanför en regering med S, MP och C, då föredrar de det senare. Det visar en mätning som Indikator opinion gjort för SVT:s räkning.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "V voters: Rather a government without the Left Party than a snap election",
-        "summary": "V voters would most like to see a red-green four-party government – but if the choice is between a snap election or standing outside a government of S, MP and C, they prefer the latter. That is shown by a poll Indikator opinion conducted for SVT."
       },
       "translation": {
         "status": "done",

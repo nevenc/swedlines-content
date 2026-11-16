@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T18:45:48+01:00",
+  "generated_at": "2026-11-16T19:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5e4ca40fe905",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/kalla-nvidias-styrelse-overvager-inte-comeback-for-huang",
+      "guid": "d92f28ea-59cd-485a-8c95-fc358ed87e36",
+      "published_at": "2026-11-16T18:49:08+01:00",
+      "fetched_at": "2026-11-16T19:01:17+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/154ad4e5-a08d-4712-b3cf-6d829b449fa7.jpeg?width=600",
+      "sv": {
+        "title": "Källa: Nvidias styrelse överväger inte comeback för Huang",
+        "summary": "Nvidias styrelse överväger inte att återinsätta grundaren Jensen Huang som vd, uppger en person med insyn för CNBC.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Source: Nvidia's board not considering comeback for Huang",
+        "summary": "Nvidia's board is not considering reinstating founder Jensen Huang as CEO, a person with insight told CNBC."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T19:01:24+01:00"
+      }
+    },
     {
       "id": "878968728574",
       "schema_version": 1,
@@ -5316,33 +5343,6 @@
       "en": {
         "title": "Nvidia not on the agenda when Trump and Xi meet",
         "summary": "The US president will not raise Nvidia and the espionage suspicions when he meets China's leader this week, American media report. Elon Musk is accompanying Trump on the trip."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "359d16f95626",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/zelenskyj-usa-har-lyft-natofragan",
-      "guid": "eb119881-47d0-4552-84d8-deccd0e2fe47",
-      "published_at": "2026-11-14T12:09:04+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/46ce06ba-3ebc-44c6-8274-45fb121449e9.jpeg?width=600",
-      "sv": {
-        "title": "Zelenskyj: USA har lyft Natofrågan",
-        "summary": "USA har för första gången lyft frågan om att ge Ukraina Natomedlemsskap i utbyte mot landområden, enligt landets president Volodymyr Zelenskyj. En sådan lösning skulle Ryssland sannolikt säga blankt nej till.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Zelenskyy: US has raised the NATO question",
-        "summary": "For the first time, the US has raised the question of giving Ukraine NATO membership in exchange for territory, according to the country's president Volodymyr Zelenskyy. Such a solution would likely be flatly rejected by Russia."
       },
       "translation": {
         "status": "done",

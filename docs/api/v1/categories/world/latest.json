@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T18:45:48+01:00",
+  "generated_at": "2026-11-16T19:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "88c3515b9640",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/le-pens-vallofte-stoppa-stodet-till-ukraina",
+      "guid": "1b771af7-828f-47b3-9ab2-d6e026e57c0a",
+      "published_at": "2026-11-16T18:45:54+01:00",
+      "fetched_at": "2026-11-16T19:01:18+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/8d8d9907-d6e2-4af5-986e-908956657185.jpg?width=600",
+      "sv": {
+        "title": "Le Pens vallöfte: Stoppa stödet till Ukraina",
+        "summary": "Franska ytterhögerns presidentkandidat Marine Le Pen lovar att sluta ge ekonomiskt stöd till Ukraina om hon vinner valet nästa år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Le Pen's election pledge: Stop support for Ukraine",
+        "summary": "French far-right presidential candidate Marine Le Pen promises to stop giving financial support to Ukraine if she wins the election next year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T19:01:24+01:00"
+      }
+    },
     {
       "id": "61224dae5e93",
       "schema_version": 1,
@@ -5320,33 +5347,6 @@
       "en": {
         "title": "Watching the family – says the chilling words",
         "summary": "The killer's six words in the US shock everyone"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "665ac1d63cf1",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/wdPOwM/val-i-varldens-yngsta-land-skjuts-upp-igen",
-      "guid": "https://www.aftonbladet.se/nyheter/a/wdPOwM/val-i-varldens-yngsta-land-skjuts-upp-igen?utm_medium=rss",
-      "published_at": "2026-11-14T13:09:55+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/b9a7c256-031c-3508-8940-72569c6af4a6?format=auto&s=18ff34598634350f074b32cfb07095ddd74eb58a&w=1000",
-      "sv": {
-        "title": "Val i världens yngsta land skjuts upp igen",
-        "summary": "Efter drygt 15 år som självständig nation skulle Sydsudan hålla ett första val i december, men det…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Election in the world's youngest country postponed again",
-        "summary": "After just over 15 years as an independent nation, South Sudan was to hold its first election in December, but the…"
       },
       "translation": {
         "status": "done",

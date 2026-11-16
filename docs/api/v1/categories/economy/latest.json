@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T18:45:48+01:00",
+  "generated_at": "2026-11-16T19:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5e4ca40fe905",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/kalla-nvidias-styrelse-overvager-inte-comeback-for-huang",
+      "guid": "d92f28ea-59cd-485a-8c95-fc358ed87e36",
+      "published_at": "2026-11-16T18:49:08+01:00",
+      "fetched_at": "2026-11-16T19:01:17+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/154ad4e5-a08d-4712-b3cf-6d829b449fa7.jpeg?width=600",
+      "sv": {
+        "title": "Källa: Nvidias styrelse överväger inte comeback för Huang",
+        "summary": "Nvidias styrelse överväger inte att återinsätta grundaren Jensen Huang som vd, uppger en person med insyn för CNBC.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Source: Nvidia's board not considering comeback for Huang",
+        "summary": "Nvidia's board is not considering reinstating founder Jensen Huang as CEO, a person with insight told CNBC."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T19:01:24+01:00"
+      }
+    },
     {
       "id": "878968728574",
       "schema_version": 1,
@@ -5315,33 +5342,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T17:01:25+01:00"
-      }
-    },
-    {
-      "id": "01c8042c8c79",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/estland-stanger-gransen-mot-ryssland",
-      "guid": "c1f12052-c7e6-48fb-aec5-c86429d34954",
-      "published_at": "2026-11-15T16:36:34+01:00",
-      "fetched_at": "2026-11-15T16:45:43+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/52f8f1f5-df88-4c72-ab81-ed228748a5e2.jpeg?width=600",
-      "sv": {
-        "title": "Estland stänger gränsen mot Ryssland",
-        "summary": "Estland kommer den 1 december att stänga samtliga gränsövergångar till Ryssland. Det skriver landets utrikesminister Margus Tsahkna på X.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estonia to close border with Russia",
-        "summary": "Estonia will close all border crossings to Russia on 1 December. This is according to Foreign Minister Margus Tsahkna on X."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:45:49+01:00"
       }
     }
   ]
