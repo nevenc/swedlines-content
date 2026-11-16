@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-16T15:01:16+01:00",
+  "generated_at": "2026-11-16T15:06:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0ae54a728d71",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/14-arig-flicka-slappt-fran-haktet-fortsatt-misstankt-i-alvsjomordet",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/14-arig-flicka-slappt-fran-haktet-fortsatt-misstankt-i-alvsjomordet",
+      "published_at": "2026-11-16T14:58:51+01:00",
+      "fetched_at": "2026-11-16T15:06:20+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "14-årig flicka släppt från häktet – fortsatt misstänkt i Älvsjömordet",
+        "summary": "Den 14-åriga flicka som misstänks för medhjälp till mord i Älvsjö släpptes från häktet under måndagsförmiddagen, meddelar åklagaren. Hon hanteras nu av socialtjänsten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "14-year-old girl released from remand – still suspected in Älvsjö murder",
+        "summary": "The 14-year-old girl suspected of complicity in the Älvsjö murder was released from remand on Monday morning, the prosecutor says. She is now being looked after by social services."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T15:06:30+01:00"
+      }
+    },
     {
       "id": "7e6d3b076568",
       "schema_version": 1,
@@ -265,6 +291,39 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T14:45:56+01:00"
+      }
+    },
+    {
+      "id": "ae7da0c7aed0",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/fyra-personer-bor-i-radhuset-och-stadshuset.2c5b15b5-a469-52c8-960c-76192b33e36c",
+      "guid": "2c5b15b5-a469-52c8-960c-76192b33e36c",
+      "published_at": "2026-11-16T14:35:47+01:00",
+      "fetched_at": "2026-11-16T15:06:26+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: breaking-GP",
+        "Tagg: Folkbokföring",
+        "Tagg: Göteborg"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/b0027a31-c224-3aff-83b2-aff0a0ff408c",
+      "sv": {
+        "title": "Fyra personer ”bor” i rådhuset och stadshuset i Göteborg",
+        "summary": "Trots att både rådhuset och stadshuset saknar bostäder har fyra personer under 2026 folkbokfört sig i byggnaderna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Four people 'live' in Göteborg's city hall and town hall",
+        "summary": "Although neither the city hall nor the town hall has housing, four people registered their residence at the buildings during 2026."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T15:06:30+01:00"
       }
     },
     {
@@ -2232,6 +2291,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T12:01:23+01:00"
+      }
+    },
+    {
+      "id": "6c153972254d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/ARdber/andersson-och-dadgostar-i-nytt-mote",
+      "guid": "https://www.aftonbladet.se/nyheter/a/ARdber/andersson-och-dadgostar-i-nytt-mote?utm_medium=rss",
+      "published_at": "2026-11-16T11:57:33+01:00",
+      "fetched_at": "2026-11-16T15:06:24+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/cfcb5f22-a620-3598-92c7-513cd95a597c?format=auto&s=bc138a8f1f77fa5cfbc642dfab5b3d61908fb8df&w=1000",
+      "sv": {
+        "title": "Andersson och Dadgostar i nytt möte",
+        "summary": "Målet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Andersson and Dadgostar in new meeting",
+        "summary": "The goal"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T15:06:30+01:00"
       }
     },
     {
@@ -5309,87 +5395,6 @@
       "en": {
         "title": "Come and buy: Ostriches and lions for sale in Borås",
         "summary": "After 64 years under municipal ownership, the new Borås leadership wants to sell the city's zoo. The plan is to sign an agreement before next Christmas, but the opposition is collecting petitions in protest, and even those pushing the issue have their doubts. – Is our desired buyer out there? asks Cecilie Tenfjord-Toftby (M)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:31:08+01:00"
-      }
-    },
-    {
-      "id": "16c6e3b88631",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/gasellfest-i-vastra-sverige-storre-bolag-gor-upp-om-titeln",
-      "guid": "1b1d18c0-619a-48ad-9d20-eef9a82090b8",
-      "published_at": "2026-11-16T09:17:41+01:00",
-      "fetched_at": "2026-11-16T09:30:59+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/245d5ebc-802b-42f4-b378-0881158d9e51.jpeg?width=600",
-      "sv": {
-        "title": "Gasellfest i västra Sverige – större bolag gör upp om titeln",
-        "summary": "Torsdagen den 19 november avslöjas årets Gasellvinnare i västra Sverige. Här får du snart veta vilket bolag som utmärker sig i kategorin Större bolag.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Gazelle awards in western Sweden – larger companies compete for the title",
-        "summary": "On Thursday 19 November, this year's Gazelle winners in western Sweden will be revealed. Here you will soon find out which company stands out in the Larger Companies category."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:31:08+01:00"
-      }
-    },
-    {
-      "id": "5d0938b4c2a3",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/elbilsforsaljningen-i-norden-okade-med-45-procent",
-      "guid": "3969757e-a2e3-45de-8c36-675fc9fe3e96",
-      "published_at": "2026-11-16T09:17:19+01:00",
-      "fetched_at": "2026-11-16T09:30:59+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/f418c819-630a-41b4-be49-2b32610090c1.jpeg?width=600",
-      "sv": {
-        "title": "Elbilsförsäljningen i Norden ökade med 45 procent",
-        "summary": "Nyregistreringarna av elbilar i Sverige, Norge, Danmark och Finland ökade med 45 procent i oktober jämfört med samma månad i fjol.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Electric car sales in the Nordics up 45 percent",
-        "summary": "New registrations of electric cars in Sweden, Norway, Denmark and Finland rose 45 percent in October compared with the same month last year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:31:08+01:00"
-      }
-    },
-    {
-      "id": "621956d7a906",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/GPGrPB/man-hittad-dod-i-goteborg",
-      "guid": "https://www.aftonbladet.se/nyheter/a/GPGrPB/man-hittad-dod-i-goteborg?utm_medium=rss",
-      "published_at": "2026-11-16T09:16:19+01:00",
-      "fetched_at": "2026-11-16T09:30:58+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/81cab91b-cc98-395a-83fd-9f425d218bdf?format=auto&s=7d4971cf2e91bd913c56aae58b4d42d7f97d262e&w=1000",
-      "sv": {
-        "title": "Man hittad död i Göteborg",
-        "summary": "En man har hittats död i Biskopsgården i Göteborg, skriver polisen på sin sajt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man found dead in Göteborg",
-        "summary": "A man has been found dead in Biskopsgården in Göteborg, the police say on their website."
       },
       "translation": {
         "status": "done",
