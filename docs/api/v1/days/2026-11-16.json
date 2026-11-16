@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-16T01:01:23+01:00",
-  "count": 6,
+  "generated_at": "2026-11-16T01:15:44+01:00",
+  "count": 8,
   "items": [
+    {
+      "id": "273d785210df",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/putins-bakslag-inte-erovrat-nagonting-alls",
+      "guid": "https://www.expressen.se/nyheter/varlden/putins-bakslag-inte-erovrat-nagonting-alls/",
+      "published_at": "2026-11-16T01:08:00+01:00",
+      "fetched_at": "2026-11-16T01:15:39+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Putins bakslag – ”inte erövrat någonting alls”",
+        "summary": "Ryssland har inte gjort några framsteg på slagfältet i Ukraina i år. Den slutsatsen drar tankesmedjan ISW i en ny analys. Det beskrivs som ”Putins stora huvudvärk” av danska B.T.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin's setback – \"has not conquered anything at all\"",
+        "summary": "Russia has made no gains on the battlefield in Ukraine this year. That is the conclusion of the think tank ISW in a new analysis. B.T. of Denmark describes it as \"Putin's big headache\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T01:15:43+01:00"
+      }
+    },
+    {
+      "id": "56ec39d019e7",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/enorma-forandringen-i-oddsen-om-vem-som-blir-nasta-svenska-statsminister",
+      "guid": "https://www.expressen.se/nyheter/sverige/enorma-forandringen-i-oddsen-om-vem-som-blir-nasta-svenska-statsminister/",
+      "published_at": "2026-11-16T01:06:55+01:00",
+      "fetched_at": "2026-11-16T01:15:39+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Enorma förändringen i oddsen om vem som blir nästa svenska statsminister",
+        "summary": "Centerpartiets beslut att gå vidare med ett rödgrönt regeringsalternativ skakade inte bara om det politiska läget. Det ledde också till en 40-procentig förändring i oddsen på Polymarket för om Magdalena Andersson eller Ulf Kristersson blir nästa statsminister.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Huge shift in the odds on who becomes Sweden's next prime minister",
+        "summary": "The Centre Party's decision to pursue a red-green government alternative shook up not only the political situation. It also led to a 40 percent shift in the odds on Polymarket for whether Magdalena Andersson or Ulf Kristersson (M) becomes the next prime minister."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T01:15:43+01:00"
+      }
+    },
     {
       "id": "dc244701b68f",
       "schema_version": 1,
