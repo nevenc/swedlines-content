@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-16T22:12:00+01:00",
+  "generated_at": "2026-11-16T22:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1c81d0e8e488",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=aa19458f-9f6b-4d9c-aead-3138bff156f1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=aa19458f-9f6b-4d9c-aead-3138bff156f1",
+      "published_at": "2026-11-16T22:11:32+01:00",
+      "fetched_at": "2026-11-16T22:15:46+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "SD-ledamoten ändrar sig – hoppar inte av",
+        "summary": "Rasmus Giertz tänker inte lämna riksdagen, uppger han själv",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SD member changes his mind – will not leave",
+        "summary": "Rasmus Giertz says he does not intend to leave the Riksdag, he himself states"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T22:15:49+01:00"
+      }
+    },
     {
       "id": "d5d2bf59bbf3",
       "schema_version": 1,
@@ -5373,32 +5399,6 @@
       "en": {
         "title": "First budget for the new leadership – how Sala will get its finances in order",
         "summary": "A deficit of around SEK 90 million needs to be restored in Sala. Now the new political leadership has presented its budget proposal. – This is a budget with a mindset of change at its core, says Erik Hamrin (M), who is proposed as the new chair of the municipal executive board."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "9d8d54f442b9",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/deadline-for-totalpaket-har-lopt-ut",
-      "guid": "https://www.svt.se/nyheter/inrikes/deadline-for-totalpaket-har-lopt-ut",
-      "published_at": "2026-11-13T17:06:23+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Deadline för ”totalpaket” har löpt ut – C har tagit emot förslagen",
-        "summary": "Nu har deadline löpt ut för när Moderaterna och Socialdemokaterna behöver lämna in sina ”totalpaket” till Centerpartiet. Centerpartiet meddelar på fredagskvällen att de har tagit emot båda paketen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Deadline for 'total packages' has passed – C has received the proposals",
-        "summary": "The deadline has now passed for when the Moderates and the Social Democrats needed to hand in their 'total packages' to the Centre Party. The Centre Party announced on Friday evening that it has received both packages."
       },
       "translation": {
         "status": "done",
