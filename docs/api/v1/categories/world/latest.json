@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-16T14:31:14+01:00",
+  "generated_at": "2026-11-16T14:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "90c5a97939ff",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/leoparden-far-syn-pa-sitt-byte-da-vander-allt",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/leoparden-far-syn-pa-sitt-byte-da-vander-allt",
+      "published_at": "2026-11-16T14:42:22+01:00",
+      "fetched_at": "2026-11-16T14:45:48+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Hittar ”lätt” byte ångrar sig direkt",
+        "summary": "Leopardens jakt borde bara kunna ha en utgång ...",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Finds an \"easy\" prey, immediately regrets it",
+        "summary": "The leopard's hunt could only end one way ..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:45:56+01:00"
+      }
+    },
+    {
+      "id": "cedc3370e33f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/storbritannien-vill-narma-sig-eu-som-kejsarens-nya-klader",
+      "guid": "https://www.svt.se/nyheter/utrikes/storbritannien-vill-narma-sig-eu-som-kejsarens-nya-klader",
+      "published_at": "2026-11-16T14:41:27+01:00",
+      "fetched_at": "2026-11-16T14:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Storbritannien vill närma sig EU: ”Som kejsarens nya kläder”",
+        "summary": "Brexit har kostat Storbritannien mer än det har gett. Det väntas premiärminister Andy Burnham säga enligt brittiska medier inför ett toppmöte med EU.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Britain wants to move closer to the EU: \"Like the emperor's new clothes\"",
+        "summary": "Brexit has cost Britain more than it has given. Prime Minister Andy Burnham is expected to say, according to British media, ahead of a summit with the EU."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:45:56+01:00"
+      }
+    },
     {
       "id": "c0b61b8fc6b6",
       "schema_version": 1,
@@ -5304,60 +5356,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T18:31:05+01:00"
-      }
-    },
-    {
-      "id": "d305af14774b",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/bk5GaB/magas-ideolog-har-ar-trumps-nye-stabschef",
-      "guid": "https://www.aftonbladet.se/nyheter/a/bk5GaB/magas-ideolog-har-ar-trumps-nye-stabschef?utm_medium=rss",
-      "published_at": "2026-11-14T06:30:10+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/fec72bc8-c8c8-3258-a107-6483c3f80879?format=auto&s=a1f92f4f6bff352f5b2ad6e66a9d59da5c467877&w=1000",
-      "sv": {
-        "title": "”Magas ideolog” – här är Trumps nye stabschef",
-        "summary": "Han ses som arkitekten bakom Donald Trumps invandringspolitik. Kritiker ser hans nya roll i Vita…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"MAGA ideologue\" – here is Trump's new chief of staff",
-        "summary": "He is seen as the architect behind Donald Trump's immigration policy. Critics see his new role in the White House…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:52+01:00"
-      }
-    },
-    {
-      "id": "41b5470fa041",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/de-vill-agna-livet-at-att-tjana-superrika-utbildas-till-butler",
-      "guid": "https://www.dn.se/varlden/de-vill-agna-livet-at-att-tjana-superrika-utbildas-till-butler/",
-      "published_at": "2026-11-14T06:09:37+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/d77f33a4-7eb7-4a85-9a51-69857e616b94.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "De vill ägna livet åt att tjäna superrika – utbildas till butler",
-        "summary": "SIMPELVELD. Amerikanska techmiljardärer skaffar sig en. Kungligheter från Mellanöstern skaffar sig flera. Men vem vill ägna sitt liv åt att tjäna de rika? DN besöker skolan som utbildar framtidens butler.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "They want to devote their lives to serving the super-rich – trained as butlers",
-        "summary": "SIMPLE SERVICE. American tech billionaires get one. Royals from the Middle East get several. But who wants to devote their life to serving the rich? DN visits the school that trains the butlers of the future."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:52+01:00"
       }
     }
   ]

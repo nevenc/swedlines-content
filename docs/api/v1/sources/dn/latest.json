@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-16T14:31:14+01:00",
+  "generated_at": "2026-11-16T14:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3497f0222c43",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/efter-avslojandet-ryska-bolagets-sparning-stoppas-i-hela-europa",
+      "guid": "https://www.dn.se/sverige/efter-avslojandet-ryska-bolagets-sparning-stoppas-i-hela-europa/",
+      "published_at": "2026-11-16T14:34:43+01:00",
+      "fetched_at": "2026-11-16T14:45:45+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/0df97e65-8fc6-4833-8a88-c3fb08ecf9ca.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Efter avslöjandet: Ryska bolagets spårning stoppas i hela Europa",
+        "summary": "Ett ryskt bolag samlar in uppgifter om svenskar via hundratals välkända sajter. Efter DN:s avslöjande kastas bolaget nu ut från det europeiska annonssystemet. – Det är viktigt att hela branschen går till botten med hur ett ryskt bolag har kunnat komma in där, säger Ratsits vd Gustav Kinde.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After the revelation: Russian company's tracking halted across Europe",
+        "summary": "A Russian company collects data on Swedes via hundreds of well-known websites. Following DN's revelation, the company is now being removed from the European advertising system. – It is important that the whole industry gets to the bottom of how a Russian company was able to get in there, says Ratsit CEO Gustav Kinde."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:45:56+01:00"
+      }
+    },
+    {
+      "id": "2b95c42fdb68",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/losningen-ar-en-fyrpartiregering",
+      "guid": "https://www.dn.se/insandare/losningen-ar-en-fyrpartiregering/",
+      "published_at": "2026-11-16T14:33:13+01:00",
+      "fetched_at": "2026-11-16T14:45:45+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/3ebd7982-ffdd-472d-9cf6-78d66c87baa6.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Lösningen är en fyrpartiregering",
+        "summary": "INSÄNDARE. Centerpartiet måste inse att Vänsterpartiet i likhet med andra rödgröna partier har rätt till ministerposter. Att vilja ha Vänsterpartiets röster, men samtidigt vägra att ge partiet en plats i regeringen, blir allt svårare att försvara, skriver den tidigare fackligt förtroendevalde…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Letter. The solution is a four-party government",
+        "summary": "LETTER. The Centre Party must realise that the Left Party, like other red-green parties, has a right to ministerial posts. Wanting the Left Party's votes while refusing to give the party a seat in the government is becoming increasingly difficult to defend, writes the former union representative…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:45:56+01:00"
+      }
+    },
     {
       "id": "c0b61b8fc6b6",
       "schema_version": 1,
@@ -5333,60 +5387,6 @@
       "en": {
         "title": "Melinda Jacobs: 'What I have been through has made me hard'",
         "summary": "She was Lilla hjärtat's foster mother and became the whole of Sweden's children's rights activist. But last year everything turned. Melinda Jacobs was accused of exploiting her dead child. Now she and her husband Martin 'E-Type' Erikson talk about the media storm, life on the farm and the new baby."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "a836eef14121",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/lat-18-aringar-handla-pa-systembolaget-2",
-      "guid": "https://www.dn.se/insandare/lat-18-aringar-handla-pa-systembolaget-2/",
-      "published_at": "2026-11-13T05:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/b7f37150-1ac1-4e9d-a9f5-6d98ea276e2c.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Låt 18-åringar handla på Systembolaget",
-        "summary": "INSÄNDARE. Ge alla myndiga svenskar möjlighet att köpa alkohol lagligt och ta ansvar för sina egna beslut. Många 18- och 19-åringar dricker redan alkohol, hemma eller ute på krogen, skriver Vendela Catenacci.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Letter. Let 18-year-olds shop at Systembolaget",
-        "summary": "LETTER. Give all adult Swedes the opportunity to buy alcohol legally and take responsibility for their own decisions. Many 18- and 19-year-olds already drink alcohol, at home or out at bars, writes Vendela Catenacci."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "de317c1fb5b4",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/podd/kara-dagbok/varfor-blir-maktens-man-inte-honeytrap-tranade",
-      "guid": "https://www.dn.se/podd/kara-dagbok/varfor-blir-maktens-man-inte-honeytrap-tranade/",
-      "published_at": "2026-11-13T01:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/gcs/bilder/podspace/slttphqjd4crdvu3uuqwo2cx76uvgq4jyp5e7jgbrowyyguwr7wa.png?io=1&width=1000",
-      "sv": {
-        "title": "Varför blir maktens män inte honeytrap-tränade?",
-        "summary": "Sebastian Nowacki undrar varför män i samhällets toppskikt inte kan avslöja en honungsfälla och Hanna Fahl säger som det är om influerare i litteraturen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Why aren't the men of power honeytrap-trained?",
-        "summary": "Sebastian Nowacki wonders why men at the top of society cannot spot a honey trap, and Hanna Fahl tells it like it is about influencers in literature."
       },
       "translation": {
         "status": "done",
