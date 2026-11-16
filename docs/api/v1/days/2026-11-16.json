@@ -1,7 +1,116 @@
 {
-  "generated_at": "2026-11-16T12:31:21+01:00",
-  "count": 310,
+  "generated_at": "2026-11-16T12:45:54+01:00",
+  "count": 314,
   "items": [
+    {
+      "id": "6517d6ffdaf2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/dygnet-runt/foo-fighters-till-norden-nobbar-sverige",
+      "guid": "2ef3f29c-21c7-4a7f-98d3-7ccf7550b03e",
+      "published_at": "2026-11-16T12:37:48+01:00",
+      "fetched_at": "2026-11-16T12:45:50+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/02a00b82-1c37-4047-93e9-cceed738ab5c.jpg?width=600",
+      "sv": {
+        "title": "Foo Fighters till Norden – nobbar Sverige",
+        "summary": "Foo Fighters ger sig ut på en Europaturné nästa sommar, men det blir ingen spelning i Sverige.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Foo Fighters to Scandinavia – skip Sweden",
+        "summary": "Foo Fighters are heading out on a European tour next summer, but there will be no concert in Sweden."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T12:45:53+01:00"
+      }
+    },
+    {
+      "id": "9db8b736f8cf",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/QbtglNTyWpMRLvNt60l1L/detta-vet-vi-om-lockbetena-i-totalpaketen",
+      "guid": "QbtglNTyWpMRLvNt60l1L",
+      "published_at": "2026-11-16T12:37:25+01:00",
+      "fetched_at": "2026-11-16T12:45:48+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Svensk politik"
+      ],
+      "sv": {
+        "title": "Detta vet vi om lockbetena i ”totalpaketen”",
+        "summary": "Punkterna som fick C att välja rödgröna • Då kan C rösta igenom Kristersson",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is what we know about the bait in the \"total packages\"",
+        "summary": "The points that made C choose the red-greens • Then C can vote through Kristersson"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T12:45:53+01:00"
+      }
+    },
+    {
+      "id": "53faeae70dde",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ff6de0ec-47e3-4d3b-bf5f-20da426ae776",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ff6de0ec-47e3-4d3b-bf5f-20da426ae776",
+      "published_at": "2026-11-16T12:36:54+01:00",
+      "fetched_at": "2026-11-16T12:45:47+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Hjort på E4",
+        "summary": "Går på vägen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Deer on E4",
+        "summary": "Walking along the road"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T12:45:53+01:00"
+      }
+    },
+    {
+      "id": "66ab39f38f89",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/nicholas-wenno-jerka-johanssons-skrytsnopp-tar-cringehumorn-till-nya-hojder",
+      "guid": "https://www.dn.se/kultur/nicholas-wenno-jerka-johanssons-skrytsnopp-tar-cringehumorn-till-nya-hojder/",
+      "published_at": "2026-11-16T12:36:39+01:00",
+      "fetched_at": "2026-11-16T12:45:40+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/f894128f-bfbe-4f04-a83b-9915f3077c35.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Nicholas Wennö: Jerka Johanssons skrytsnopp tar cringehumorn till nya höjder",
+        "summary": "I nya säsongen av ”Där solen alltid skiner” skruvar serieskaparen Felix Herngren upp pinsamhetsfaktorn till 11. Redan i premiäravsnittet drar Jerka Johanssons rollfigur i gång en sängkammarscen som får Nicholas Wennö att rodna av sekundundärskam.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nicholas Wennö: Jerka Johansson's bragging quip takes cringe humour to new heights",
+        "summary": "In the new season of \"Där solen alltid skiner\", series creator Felix Herngren turns the embarrassment factor up to 11. Already in the premiere episode, Jerka Johansson's character kicks off a bedroom scene that makes Nicholas Wennö blush with secondhand embarrassment."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T12:45:53+01:00"
+      }
+    },
     {
       "id": "9363e649ac7c",
       "schema_version": 1,
