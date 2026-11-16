@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-16T12:15:47+01:00",
+  "generated_at": "2026-11-16T12:31:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8190a9fb7f9b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/politik/svenska-ilskan-infor-eu-toppmotet",
+      "guid": "https://www.expressen.se/tv/politik/svenska-ilskan-infor-eu-toppmotet",
+      "published_at": "2026-11-16T12:20:25+01:00",
+      "fetched_at": "2026-11-16T12:31:15+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Svensk ilska – läxar upp Putin",
+        "summary": "Malmer Stenergard på toppmötet: ”Attackerar Europa”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish anger – lashes out at Putin",
+        "summary": "Malmer Stenergard at the summit: \"Attacking Europe\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T12:31:21+01:00"
+      }
+    },
     {
       "id": "a24ffa9104a7",
       "schema_version": 1,
@@ -5340,32 +5366,6 @@
       "en": {
         "title": "Trump, Putin and Xi to meet next week",
         "summary": "The leaders of the US, China and Russia will meet for talks in connection with the Apec meeting in China next week. Trump, Xi and Putin are expected to discuss nuclear weapons and the Iran war, among other things, American officials tell the news agency AFP. But the war in Ukraine is not on the agenda."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:02+01:00"
-      }
-    },
-    {
-      "id": "aadd32cf60dc",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/flygstoppet-i-usa-havt",
-      "guid": "https://www.dn.se/varlden/flygstoppet-i-usa-havt/",
-      "published_at": "2026-11-14T02:47:37+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Flygstoppet har hävts – gammal hårdvara pekas ut",
-        "summary": "Efter timmar av ett landsomfattande flygstopp i USA har luftfartsmyndigheten FAA givit grönt ljus för flygplan att lyfta. Tiotusentals flyg – i och utanför USA – ställdes in eller försenades på grund av störningarna som uppges ha orsakats av ”gammal hårdvara”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Flight stoppage lifted – old hardware blamed",
-        "summary": "After hours of a nationwide flight stoppage in the US, the aviation authority FAA has given aircraft the green light to take off. Tens of thousands of flights – in and outside the US – were cancelled or delayed due to the disruptions, which are said to have been caused by \"old hardware\"."
       },
       "translation": {
         "status": "done",
