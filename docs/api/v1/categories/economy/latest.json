@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-16T20:45:50+01:00",
+  "generated_at": "2026-11-16T21:01:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d6c2ff240069",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/fed-topp-rantan-bor-fortsatta-att-hojas-i-mindre-steg",
+      "guid": "9a0b9b52-3304-4e57-a9aa-550b8662691c",
+      "published_at": "2026-11-16T20:54:58+01:00",
+      "fetched_at": "2026-11-16T21:01:10+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Fed-topp: Räntan bör fortsätta att höjas i mindre steg",
+        "summary": "Federal Reserve bör fortsätta höja räntan i mindre steg trots ett tilltagande inflationstryck. Det sade Beth Hammack, Fed-chefen i Cleveland, i en intervju med Bloomberg tv på måndagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fed top official: Rates should keep rising in smaller steps",
+        "summary": "The Federal Reserve should continue raising rates in smaller steps despite mounting inflationary pressure. Beth Hammack, president of the Cleveland Fed, said this in an interview with Bloomberg TV on Monday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T21:01:13+01:00"
+      }
+    },
     {
       "id": "99b0e23294c7",
       "schema_version": 1,
@@ -5316,33 +5342,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T21:13:19+01:00"
-      }
-    },
-    {
-      "id": "39ecc9e66c88",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/andersson-mycket-valkommet-besked",
-      "guid": "a89f89d4-e9c9-435b-8af2-f48f86542e28",
-      "published_at": "2026-11-15T20:20:06+01:00",
-      "fetched_at": "2026-11-15T20:31:01+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/27eeeef9-634f-4de8-88c3-c1a2d56b9c38.jpeg?width=600",
-      "sv": {
-        "title": "Andersson: ”Mycket välkommet besked”",
-        "summary": "S-ledaren Magdalena Andersson ser nu en möjlighet att komma fram med en rödgrön regering. Men först ger hon de medverkande partierna ett råd: Ta ett djupt andetag och visa varandra respekt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Andersson: \"Very welcome news\"",
-        "summary": "S leader Magdalena Andersson now sees an opportunity to form a red-green government. But first she gives the participating parties some advice: Take a deep breath and show each other respect."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T20:31:05+01:00"
       }
     }
   ]
