@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T09:01:40+01:00",
+  "generated_at": "2026-11-16T09:15:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d318027fc285",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/upprop-for-att-jensen-huang-ska-atervanda-till-nvidia",
+      "guid": "https://www.dn.se/ekonomi/upprop-for-att-jensen-huang-ska-atervanda-till-nvidia/",
+      "published_at": "2026-11-16T09:06:06+01:00",
+      "fetched_at": "2026-11-16T09:15:39+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/354442f5-25bb-4fdf-b6a5-4f2b0c8d93f8.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Upprop för att Jensen Huang ska återvända till Nvidia",
+        "summary": "Över 170 000 personer, inklusive techmogulen Elon Musk, har skrivit under ett digitalt upprop för att Nvidia ska ta tillbaka Jensen Huang som vd. Huang uppges ha diskuterat möjligheten att göra comeback med nära medarbetare, enligt Financial Times.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Petition for Jensen Huang to return to Nvidia",
+        "summary": "Over 170,000 people, including tech mogul Elon Musk, have signed a digital petition for Nvidia to take back Jensen Huang as CEO. Huang is reported to have discussed the possibility of a comeback with close colleagues, according to the Financial Times."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T09:15:48+01:00"
+      }
+    },
     {
       "id": "5fe28530f902",
       "schema_version": 1,
@@ -5366,33 +5393,6 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "e82db443b867",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/nicholas-wenno-har-ar-veckans-basta-stromningstips-2026-11-12",
-      "guid": "https://www.dn.se/kultur/nicholas-wenno-har-ar-veckans-basta-stromningstips-2026-11-12/",
-      "published_at": "2026-11-12T16:43:09+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/96abcd93-0a21-4044-ada3-2b9356d30933.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Nicholas Wennö: Här är veckans bästa strömningstips",
-        "summary": "Rose Byrne i fängslande psykologisk thriller, Kristofer Hivju som excentrisk expat, farligt begär på katolsk flickskola och en brittisk seriesuccé om en förbisedd Austen-syster som får sin revansch. Dessutom nya omgångar av ”Rivals”, ”Kejsarinnan” och ”Maktens ringar”.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Nicholas Wennö: Here are the week's best streaming tips",
-        "summary": "Rose Byrne in a gripping psychological thriller, Kristofer Hivju as an eccentric expat, dangerous desire at a Catholic girls' school and a British hit series about an overlooked Austen sister who gets her revenge. Plus new seasons of 'Rivals', 'The Empress' and 'The Rings of Power'."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
       }
     }
   ]
