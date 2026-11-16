@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-16T21:01:13+01:00",
-  "count": 38,
+  "generated_at": "2026-11-16T21:15:57+01:00",
+  "count": 41,
   "items": [
+    {
+      "id": "52fcb70f625b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/naemi-22-berattar-om-livet-efter-lejonattacken-kampar-pa-allt-jag-kan",
+      "guid": "https://www.expressen.se/nyheter/sverige/naemi-22-berattar-om-livet-efter-lejonattacken-kampar-pa-allt-jag-kan/",
+      "published_at": "2026-11-16T21:13:17+01:00",
+      "fetched_at": "2026-11-16T21:15:47+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Naemi, 22, berättar om livet efter lejonattacken: ”Kämpar på allt jag kan”",
+        "summary": "Hon hade änglavakt som överlevde. Men ett drygt år efter lejonattacken i Sydafrika kämpar Naemi Boy, 22, fortfarande med smärtor och jobbiga minnen. – Jag är så klart jättetacksam för att jag lever. Men det är en sorg, det jag har behövt gå igenom, säger hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Naemi, 22, on life after the lion attack: \"I keep fighting with everything I have\"",
+        "summary": "She had a guardian angel who survived. But a little over a year after the lion attack in South Africa, Naemi Boy, 22, still struggles with pain and distressing memories. \"Of course I am very grateful to be alive. But it is a grief, what I have had to go through,\" she says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T21:15:56+01:00"
+      }
+    },
+    {
+      "id": "28217ed7eebc",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/16-november-missa-inte-dagens-nyheter",
+      "guid": "https://www.dn.se/varlden/16-november-missa-inte-dagens-nyheter/",
+      "published_at": "2026-11-16T21:07:00+01:00",
+      "fetched_at": "2026-11-16T21:15:43+01:00",
+      "category": "other",
+      "sv": {
+        "title": "16 november: Missa inte dagens nyheter",
+        "summary": "Ryskt bolag spårar svenskar, regeringsfrågan långt ifrån löst och ny James Bond – här är nyheterna du inte får missa från dagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "16 November: Don't miss today's news",
+        "summary": "Russian company tracks Swedes, government formation far from resolved and new James Bond – here is the news you must not miss from today."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T21:15:56+01:00"
+      }
+    },
     {
       "id": "84dba47842e2",
       "schema_version": 1,
@@ -188,6 +240,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T14:45:56+01:00"
+      }
+    },
+    {
+      "id": "af5d8f20f892",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/410701/stal-jesus-och-har-soender",
+      "guid": "https://tv.aftonbladet.se/video/410701/stal-jesus-och-har-soender?utm_medium=rss",
+      "published_at": "2026-11-16T13:49:44+01:00",
+      "fetched_at": "2026-11-16T21:15:46+01:00",
+      "category": "other",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/b3603b280dc5a4b25915839281702a9b.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Stjäl Jesus – går sönder: ”Jösses!”",
+        "summary": "Stölden fångas på video",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Steals Jesus – breaks down: \"Jeez!\"",
+        "summary": "The theft is caught on video"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T21:15:56+01:00"
       }
     },
     {

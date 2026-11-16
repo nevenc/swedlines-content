@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T21:01:13+01:00",
-  "count": 163,
+  "generated_at": "2026-11-16T21:15:57+01:00",
+  "count": 165,
   "items": [
+    {
+      "id": "94a8e3c33dab",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/j3dOgb/200-000-hons-avlivade-i-halmstad",
+      "guid": "https://www.aftonbladet.se/nyheter/a/j3dOgb/200-000-hons-avlivade-i-halmstad?utm_medium=rss",
+      "published_at": "2026-11-16T21:06:06+01:00",
+      "fetched_at": "2026-11-16T21:15:46+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/bee2040f-03f4-3104-8acd-d97bb99f71dc?format=auto&s=b5ad81fab7212f331a99ce36b79967bfd19ae749&w=1000",
+      "sv": {
+        "title": "200 000 höns avlivade i Halmstad",
+        "summary": "Omkring 200 000 höns har avlivats efter att det smittsamma fågelviruset newcastlesjukan upptäckts…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "200,000 hens culled in Halmstad",
+        "summary": "About 200,000 hens have been culled after the highly contagious bird virus Newcastle disease was detected at an egg producer in Eldsberga…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T21:15:56+01:00"
+      }
+    },
     {
       "id": "9eda1e0c510d",
       "schema_version": 1,
@@ -539,6 +566,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T14:15:51+01:00"
+      }
+    },
+    {
+      "id": "af5d8f20f892",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/410701/stal-jesus-och-har-soender",
+      "guid": "https://tv.aftonbladet.se/video/410701/stal-jesus-och-har-soender?utm_medium=rss",
+      "published_at": "2026-11-16T13:49:44+01:00",
+      "fetched_at": "2026-11-16T21:15:46+01:00",
+      "category": "other",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/b3603b280dc5a4b25915839281702a9b.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Stjäl Jesus – går sönder: ”Jösses!”",
+        "summary": "Stölden fångas på video",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Steals Jesus – breaks down: \"Jeez!\"",
+        "summary": "The theft is caught on video"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T21:15:56+01:00"
       }
     },
     {
