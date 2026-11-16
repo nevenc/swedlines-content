@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-16T17:45:55+01:00",
+  "generated_at": "2026-11-16T18:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "52db63aba09f",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ledare/isobel-hadley-kamptz-ska-varlden-vara-en-lekplats-for-man-med-svard-eu-maste-valja-sida",
+      "guid": "https://www.dn.se/ledare/isobel-hadley-kamptz-ska-varlden-vara-en-lekplats-for-man-med-svard-eu-maste-valja-sida/",
+      "published_at": "2026-11-16T17:54:32+01:00",
+      "fetched_at": "2026-11-16T18:01:13+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/4a880f45-ee63-41bb-bff4-b74ff9ccf500.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Isobel Hadley-Kamptz: Ska världen vara en lekplats för män med svärd – EU måste välja sida",
+        "summary": "USA:s attacker mot Internationella brottmålsdomstolen – och mot hela den rättsbaserade världsordningen – fortsätter. EU måste sätta emot.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Isobel Hadley-Kamptz: Should the world be a playground for men with swords – the EU must choose a side",
+        "summary": "The US attacks on the International Criminal Court – and on the entire rules-based world order – continue. The EU must push back."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T18:01:23+01:00"
+      }
+    },
+    {
+      "id": "efa5f1cfc1a3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/elva-doda-i-brand-i-thailand",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/elva-doda-i-brand-i-thailand/",
+      "published_at": "2026-11-16T17:49:34+01:00",
+      "fetched_at": "2026-11-16T18:01:14+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Elva döda i brand i Thailand",
+        "summary": "Mc-butik i lågor i Phuket",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Eleven dead in fire in Thailand",
+        "summary": "Motorcycle shop in flames in Phuket"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T18:01:23+01:00"
+      }
+    },
     {
       "id": "ffd9e08de0c1",
       "schema_version": 1,
@@ -5294,62 +5347,6 @@
       "en": {
         "title": "Hackers got billions – using stolen faces",
         "summary": "North Korean hackers fooled hundreds of people with fake video calls. Then they stole four billion kronor. – They exploit our trust in video platforms, says the FBI's Patrick Grandy in a statement."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "197b6e9bcaaa",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1RkQZ605hynvQroo9P7xit/zelenskyj-putin-laer-ta-upp-sverige-i-samtalen",
-      "guid": "1RkQZ605hynvQroo9P7xit",
-      "published_at": "2026-11-14T11:18:19+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "Zelenskyj: ”Putin kommer att tala om Finland och Sverige”",
-        "summary": "Varnar: Vill rita om säkerhetskartan i Europa • ”Jag är övertygad”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Zelenskyy: \"Putin will talk about Finland and Sweden\"",
-        "summary": "Warns: Wants to redraw the security map of Europe • \"I am convinced\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "2dc0e2e4e171",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/zelenskyj-putin-lar-ta-upp-sverige-i-samtalen",
-      "guid": "https://www.dn.se/varlden/zelenskyj-putin-lar-ta-upp-sverige-i-samtalen/",
-      "published_at": "2026-11-14T11:13:19+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/674a099d-c720-4591-9098-8239cb9ec42b.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Zelenskyj: Putin lär ta upp Sverige i samtalen",
-        "summary": "Vladimir Putin vill rita om säkerhetskartan i Europa och lär då ta upp både Finland och Sverige, enligt Ukrainas president Zelenskyj. Av de uppgifter som når ut från de senaste förhandlingarna tycks Ryssland stå fast vid de krav som lades fram före storinvasionen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Zelenskyy: Putin likely to raise Sweden in talks",
-        "summary": "Vladimir Putin wants to redraw the security map of Europe and is likely to raise both Finland and Sweden, according to Ukraine's president Zelenskyy. From the information emerging from the latest negotiations, Russia appears to stand firm on the demands it made before the full-scale invasion."
       },
       "translation": {
         "status": "done",

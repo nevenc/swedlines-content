@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T17:45:55+01:00",
+  "generated_at": "2026-11-16T18:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "22cc675e1b62",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/vi-vet-i-varje-fall-att-vi-kommer-att-fa-en-kass-statsminister",
+      "guid": "21e6a180-1a4c-4176-bc83-f16fbc364942",
+      "published_at": "2026-11-16T18:00:00+01:00",
+      "fetched_at": "2026-11-16T18:01:16+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/f01a171d-ab4a-43e2-9c93-7dd1b331259c.jpeg?width=600",
+      "sv": {
+        "title": "Vi vet i varje fall att vi kommer att få en kass statsminister",
+        "summary": "En kvinna utan principer som inget sa i valrörelsen? Eller en man utan principer som ingen ville se i valrörelsen? Spänningen stiger.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "We at least know we're going to get a lousy prime minister",
+        "summary": "A woman without principles who said nothing during the election campaign? Or a man without principles whom no one wanted to see during the election campaign? The tension is rising."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T18:01:23+01:00"
+      }
+    },
     {
       "id": "ccafaef712da",
       "schema_version": 1,
@@ -5380,33 +5407,6 @@
       "en": {
         "title": "Letter. Almost impossible to reconcile neoliberalism and communism",
         "summary": "LETTER. If S leader Magdalena Andersson succeeds in forming a government with the support of both the Left Party and the Centre Party, she could go down in history. There is an economic chasm between these parties, and bridging it probably requires an almost supernatural ability, writes Lars…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "e215b18f2460",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/debatt/sverige-leder-omstallningen-mot-nettonoll-aven-om-det-inte-later-sa",
-      "guid": "https://www.dn.se/debatt/sverige-leder-omstallningen-mot-nettonoll-aven-om-det-inte-later-sa/",
-      "published_at": "2026-11-12T20:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/b520c6b4-14d6-4e86-b5ec-58124c3a29c8.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "DN Debatt. ”Sverige leder omställningen mot nettonoll – även om det inte låter så”",
-        "summary": "DN DEBATT. Framöver bör tre principer utgöra Sveriges linje i EU:s klimatförhandlingar: billigare elektrifiering, ingen acceptans för att produktion flyttar utomlands och en utfasning av de nationella klimatmålen i förmån för den gemensamma utsläppshandeln, skriver André Nilsson, näringspolitisk…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "DN Debatt. 'Sweden leads the transition to net zero – even if it doesn't sound like it'",
-        "summary": "DN DEBATT. Going forward, three principles should form Sweden's line in the EU's climate negotiations: cheaper electrification, no acceptance of production moving abroad and a phasing out of the national climate targets in favour of the common emissions trading system, writes André Nilsson, industrial policy…"
       },
       "translation": {
         "status": "done",

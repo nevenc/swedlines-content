@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-16T17:45:55+01:00",
+  "generated_at": "2026-11-16T18:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1bf0f297c86b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/kooperativa-forbundet-vill-salja-allt-i-morrow-bank",
+      "guid": "d33f9832-1f53-41d5-b819-0f7dfb1145ba",
+      "published_at": "2026-11-16T17:55:47+01:00",
+      "fetched_at": "2026-11-16T18:01:15+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/eb641497-2294-4b2c-83cb-605b98544445.jpeg?width=600",
+      "sv": {
+        "title": "Kooperativa Förbundet vill sälja allt i Morrow Bank",
+        "summary": "Kooperativa Förbundet, KF, vill sälja samtliga sina nästan 33 miljoner aktier i Morrow Bank. Posten motsvarar drygt 10 procent av aktierna i nischbanken.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kooperativa Förbundet wants to sell all of its Morrow Bank shares",
+        "summary": "Kooperativa Förbundet, KF, wants to sell all of its nearly 33 million shares in Morrow Bank. The stake corresponds to just over 10 percent of the shares in the niche bank."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T18:01:23+01:00"
+      }
+    },
+    {
+      "id": "03ae24a228e1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/thules-vd-har-kopt-aktier-for-0-5-miljoner",
+      "guid": "3ed6305d-6bbf-4ee0-9c76-638bcd6c6c05",
+      "published_at": "2026-11-16T17:51:27+01:00",
+      "fetched_at": "2026-11-16T18:01:15+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Thules vd har köpt aktier för 0,5 miljoner",
+        "summary": "Thules vd Mattias Ankarberg har köpt 2.500 aktier i friluftsbolaget för sammanlagt runt 0,5 miljoner kronor, motsvarande 215:60 kronor per aktie.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Thule CEO has bought shares worth SEK 0.5 million",
+        "summary": "Thule CEO Mattias Ankarberg has bought 2,500 shares in the outdoor company for a total of around SEK 0.5 million, corresponding to SEK 215.60 per share."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T18:01:23+01:00"
+      }
+    },
     {
       "id": "573e8f8f2393",
       "schema_version": 1,
@@ -5295,60 +5348,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T13:45:46+01:00"
-      }
-    },
-    {
-      "id": "659db13e5263",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/nu-krymper-rantegapet",
-      "guid": "ab3ca65e-0103-44b4-afa1-38660f897188",
-      "published_at": "2026-11-15T13:03:41+01:00",
-      "fetched_at": "2026-11-15T13:30:55+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/a32d73ab-59cc-4d1d-a5d1-4ad4fcdd09f0.jpeg?width=600",
-      "sv": {
-        "title": "Nu krymper räntegapet",
-        "summary": "Bolåneinstituten gör gemensam sak: höjer den rörliga tremånadersräntan. Samtidigt sänker två banker sina bundna bolåneräntor. Det är första gången på nio månader som räntegapet, alltså ränteskillnaden, mellan rörliga och bundna bolån minskar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Now the interest rate gap is shrinking",
-        "summary": "Mortgage institutions join forces: they raise the variable three-month rate. At the same time, two banks cut their fixed mortgage rates. It is the first time in nine months that the interest rate gap, meaning the difference between variable and fixed mortgage rates, is narrowing"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T13:31:07+01:00"
-      }
-    },
-    {
-      "id": "91a812df83c7",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/c-haller-odesmote-topparna-ska-traffas",
-      "guid": "cff36e07-5f52-4d9d-9088-dcd50e882801",
-      "published_at": "2026-11-15T12:57:39+01:00",
-      "fetched_at": "2026-11-15T13:30:55+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/46262ee0-4ec9-4bec-81bd-8cf500369aa1.jpeg?width=600",
-      "sv": {
-        "title": "C håller ödesmöte – topparna ska träffas",
-        "summary": "Centerpartiets partistyrelse och riksdagsgrupp har kallats till möte på söndagen för att fatta beslut om regeringsfrågan, erfar Dagens Nyheter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "C holds decisive meeting – leaders to meet",
-        "summary": "The Centre Party's party board and parliamentary group have been called to a meeting on Sunday to decide on the government question, Dagens Nyheter reports"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T13:31:07+01:00"
       }
     }
   ]
