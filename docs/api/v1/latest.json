@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-11-16T10:01:36+01:00",
+  "generated_at": "2026-11-16T10:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f4baa7dd3a03",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/hemtjanstpersonal-haktad-for-grovt-bedrageri",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/hemtjanstpersonal-haktad-for-grovt-bedrageri",
+      "published_at": "2026-11-16T10:10:27+01:00",
+      "fetched_at": "2026-11-16T10:15:43+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Hemtjänstpersonal häktad för grovt bedrägeri",
+        "summary": "En kvinna i 30-årsåldern har häktats vid Jönköpings tingsrätt på sannolika skäl misstänkt för grovt bedrägeri mot en hemtjänsttagare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Home care worker remanded in custody for aggravated fraud",
+        "summary": "A woman in her 30s has been remanded in custody by the Jönköping District Court on probable cause, suspected of aggravated fraud against a home care recipient."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T10:15:51+01:00"
+      }
+    },
+    {
+      "id": "5112a99d556f",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/ekonomi/tech/uppgifter-apple-slapper-smarta-glasogon-2027",
+      "guid": "https://www.expressen.se/ekonomi/tech/uppgifter-apple-slapper-smarta-glasogon-2027/",
+      "published_at": "2026-11-16T10:10:00+01:00",
+      "fetched_at": "2026-11-16T10:15:46+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Uppgifter: Apple släpper smarta glasögon 2027",
+        "summary": "Det har under lång tid cirkulerat rykten om att Apple har ett par smarta glasögon på gång. Och enligt färska men ännu obekräftade uppgifter så ska de släppas så snart som nästa år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: Apple to release smart glasses in 2027",
+        "summary": "Rumours have circulated for a long time that Apple has a pair of smart glasses in the works. And according to fresh but still unconfirmed reports, they could be released as early as next year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T10:15:51+01:00"
+      }
+    },
+    {
+      "id": "ad686d05b925",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/tva-massmord-i-sydafrika-minst-17-dodade",
+      "guid": "fd458a64-ec09-4cdb-88b2-ab0ef29bf74a",
+      "published_at": "2026-11-16T10:07:54+01:00",
+      "fetched_at": "2026-11-16T10:15:48+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Två massmord i Sydafrika – minst 17 dödade",
+        "summary": "Flera människor har hittats ihjälskjutna på två skilda platser i Sydafrika.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two mass killings in South Africa – at least 17 dead",
+        "summary": "Several people have been found shot dead in two separate locations in South Africa."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T10:15:51+01:00"
+      }
+    },
     {
       "id": "c72640e084ea",
       "schema_version": 1,
@@ -27,6 +105,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T10:01:35+01:00"
+      }
+    },
+    {
+      "id": "3294906899f7",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/fondsvenskan-arets-basta-aktivt-forvaltade-sverigefonder",
+      "guid": "38be08da-3842-524d-9228-97d6aa88e00e",
+      "published_at": "2026-11-16T09:57:11+01:00",
+      "fetched_at": "2026-11-16T10:15:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Fondsvenskan: Årets bästa aktivt förvaltade sverigefonder",
+        "summary": "Levlers investeringschef Joakim Bornold om årets bäst presterande sverigefonder.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fondsvenskan: The best actively managed Swedish equity funds of the year",
+        "summary": "Joakim Bornold, chief investment officer at Levler, on the best-performing Swedish equity funds of the year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T10:15:51+01:00"
       }
     },
     {
@@ -5254,112 +5358,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T05:01:14+01:00"
-      }
-    },
-    {
-      "id": "eef219a858a2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Pv9dBR/brand-i-lagenhet-man-hittad-dod",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Pv9dBR/brand-i-lagenhet-man-hittad-dod?utm_medium=rss",
-      "published_at": "2026-11-16T03:48:05+01:00",
-      "fetched_at": "2026-11-16T04:01:10+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/73428470-eb39-3115-9aa2-d4589e90320c?format=auto&s=e349d5ffc8556c8ff21e1b1dd37c00376ffada79&w=1000",
-      "sv": {
-        "title": "Brand i lägenhet – man hittad död",
-        "summary": "En man i 70-årsåldern har omkommit i en lägenhetsbrand i ett flerfamiljshus utanför Jönköping under…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man found dead in apartment fire",
-        "summary": "A man in his 70s has died in an apartment fire in a multi-family building outside Jönköping during…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T04:01:15+01:00"
-      }
-    },
-    {
-      "id": "eecf559a8ae2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/19-aring-dodad-av-tiger-pa-grund-av-tiktok-video",
-      "guid": "https://www.expressen.se/nyheter/varlden/19-aring-dodad-av-tiger-pa-grund-av-tiktok-video/",
-      "published_at": "2026-11-16T03:45:58+01:00",
-      "fetched_at": "2026-11-16T04:01:11+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "19-åring dödad av tiger på grund av Tiktok-video",
-        "summary": "Planen var att spela in en Tiktok-video med tigern. Det resulterade i att en 19-årig man blev dödad. Nu har två personer gripits, skriver Times of India.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "19-year-old killed by tiger over TikTok video",
-        "summary": "The plan was to film a TikTok video with the tiger. It resulted in a 19-year-old man being killed. Two people have now been arrested, writes Times of India."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T04:01:15+01:00"
-      }
-    },
-    {
-      "id": "0af7cdb80103",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/9BvpLp/snart-slut-for-rabatt-i-kollektivtrafiken",
-      "guid": "https://www.aftonbladet.se/nyheter/a/9BvpLp/snart-slut-for-rabatt-i-kollektivtrafiken?utm_medium=rss",
-      "published_at": "2026-11-16T03:12:51+01:00",
-      "fetched_at": "2026-11-16T03:15:42+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/017472ce-b357-3a21-a918-512d8648edf6?format=auto&s=559a8a5f34c323960866a3014f150241f418c8d3&w=1000",
-      "sv": {
-        "title": "Snart slut för rabatt i kollektivtrafiken",
-        "summary": "Planerade du att bunkra månadskort till halverat pris? Ledsen, men endast hos Västtrafik är det…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Discount on public transport ending soon",
-        "summary": "Were you planning to stock up on monthly passes at half price? Sorry, but only at Västtrafik is it…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T03:15:47+01:00"
-      }
-    },
-    {
-      "id": "de38ebc1d95b",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340233",
-      "guid": "rss:sr.se/article/9340233",
-      "published_at": "2026-11-16T03:04:00+01:00",
-      "fetched_at": "2026-11-16T03:15:40+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisen: Rawa Majid fortsatt aktiv i Foxtrot",
-        "summary": "Polisen bedömer att gängledaren Rawa Majid fortfarande spelar en aktiv roll i den svenska gängkriminaliteten. Trots att hans nätverk Foxtrot har försvagats bedriver de bland annat narkotikahandel och utpressning i Sverige.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Police: Rawa Majid still active in Foxtrot",
-        "summary": "Police assess that gang leader Rawa Majid still plays an active role in Swedish gang crime. Although his network Foxtrot has weakened, it continues to engage in drug trafficking and extortion in Sweden, among other activities."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T03:15:47+01:00"
       }
     }
   ]

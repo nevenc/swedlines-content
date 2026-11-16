@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-16T10:01:36+01:00",
+  "generated_at": "2026-11-16T10:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ad686d05b925",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/tva-massmord-i-sydafrika-minst-17-dodade",
+      "guid": "fd458a64-ec09-4cdb-88b2-ab0ef29bf74a",
+      "published_at": "2026-11-16T10:07:54+01:00",
+      "fetched_at": "2026-11-16T10:15:48+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Två massmord i Sydafrika – minst 17 dödade",
+        "summary": "Flera människor har hittats ihjälskjutna på två skilda platser i Sydafrika.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two mass killings in South Africa – at least 17 dead",
+        "summary": "Several people have been found shot dead in two separate locations in South Africa."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T10:15:51+01:00"
+      }
+    },
     {
       "id": "14ead7da3443",
       "schema_version": 1,
@@ -5342,33 +5368,6 @@
       "en": {
         "title": "No one seriously injured after ship collision in New Orleans",
         "summary": "The accident happened at around 12.30 local time, when the tanker Atlantic Asphalt ran into American Cruise Lines' cruise ship American Heritage, which was moored on the Mississippi River."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:56:57+01:00"
-      }
-    },
-    {
-      "id": "acd132e5f23f",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/kMJ3qA/alla-flygplan-stoppas-i-usa",
-      "guid": "https://www.svd.se/a/kMJ3qA/alla-flygplan-stoppas-i-usa?utm_medium=rss",
-      "published_at": "2026-11-13T22:37:03+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/7f3e9c89-274e-330a-a6c9-3873f3289a00?format=auto&s=85ea79c083ce6875b0c995499364f0595991be18&w=1000",
-      "sv": {
-        "title": "Orsaken bakom USA:s flygstopp pekas ut",
-        "summary": "All flygtrafik i USA stoppades på fredagen på grund av ”extraordinära omständigheter”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The cause behind the US ground stop identified",
-        "summary": "All air traffic in the US was halted on Friday because of 'extraordinary circumstances'."
       },
       "translation": {
         "status": "done",
