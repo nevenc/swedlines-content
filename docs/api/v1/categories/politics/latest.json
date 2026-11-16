@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T17:01:20+01:00",
+  "generated_at": "2026-11-16T17:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f244c6e80445",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/1vnvnK/centerpartiet-vi-fick-magdalena-andersson-att-backa-fran-v-i-regering",
+      "guid": "https://www.svd.se/a/1vnvnK/centerpartiet-vi-fick-magdalena-andersson-att-backa-fran-v-i-regering?utm_medium=rss",
+      "published_at": "2026-11-16T17:02:39+01:00",
+      "fetched_at": "2026-11-16T17:15:41+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/f90a254d-4cb3-35b1-b615-31dfd69f9d39?format=auto&s=f27b03000dc5074d4d1480505a20a6b8bc3a41c6&w=1000",
+      "sv": {
+        "title": "”Vi lyckades få S att sätta ned foten om V”",
+        "summary": "Centerpartiet öppnade åt höger – då backade Magdalena Andersson från Vänsterpartiet i sin regering.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"We managed to get the Social Democrats to put their foot down on the Left Party\"",
+        "summary": "The Centre Party opened to the right – then Magdalena Andersson of the Left Party backed down in her government."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T17:15:50+01:00"
+      }
+    },
     {
       "id": "d1c587cf1d2c",
       "schema_version": 1,
@@ -5367,35 +5394,6 @@
       "en": {
         "title": "Former party member harassed SD leader for years",
         "summary": "The man who has now been placed under a restraining order was previously a member of the Sweden Democrats. When he was expelled by the party board in 2022, Tobias Andersson and other party members had tried to reach him, Andersson says in a police interview."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "9d72e3280f90",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1eF5VvsYRDBKpVHg7OIr51/folkvalda-har-stora-skulder-laemnar-riksdagsuppdrag",
-      "guid": "1eF5VvsYRDBKpVHg7OIr51",
-      "published_at": "2026-11-11T20:19:37+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Folkvalda har stora skulder – lämnar riksdagsuppdrag",
-        "summary": "Under måndagen kunde TV4 Nyheterna och Kalla fakta avslöja att närmare 400 politiker i Sverige är skuldsatta hos Kronofogden. Den fortsatta granskningen visar att det också finns det tre folkvalda i riksdagen, alla ersättare, med skulder hos Kronofogden.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Elected representatives have large debts – leave Riksdag posts",
-        "summary": "On Monday TV4 Nyheterna and Kalla fakta revealed that close to 400 politicians in Sweden have debts registered with the Enforcement Authority. The continued investigation shows that there are also three elected members of the Riksdag, all substitutes, with debts at the Enforcement Authority."
       },
       "translation": {
         "status": "done",
