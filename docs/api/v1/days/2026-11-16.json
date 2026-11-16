@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-16T16:35:37+01:00",
-  "count": 431,
+  "generated_at": "2026-11-16T16:40:19+01:00",
+  "count": 438,
   "items": [
+    {
+      "id": "59517152c73e",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/roxette-spelningar-blir-konsertfilm-gessle-en-haftig-tidsresa",
+      "guid": "https://www.dn.se/kultur/roxette-spelningar-blir-konsertfilm-gessle-en-haftig-tidsresa/",
+      "published_at": "2026-11-16T16:39:18+01:00",
+      "fetched_at": "2026-11-16T16:40:11+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/4483bb91-138b-43a8-8cc9-df08acba062b.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Roxette-spelningar blir konsertfilm – Gessle: ”En häftig tidsresa”",
+        "summary": "Tre spelningar med Roxette från 1991 har blivit till en nyproducerad konsertfilm som kommer att visas både på bio och tv. – Filmen är en häftig tidsresa. Jag hoppas folk kommer ha kul när de ser den och få lite kraft i mörkret, säger Per Gessle.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Roxette gig recordings become concert film – Gessle: \"A fantastic journey through time\"",
+        "summary": "Three Roxette concerts from 1991 have been turned into a newly produced concert film that will be shown both in cinemas and on TV. – The film is a fantastic journey through time. I hope people have fun watching it and get a bit of strength in the dark, says Per Gessle."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:40:19+01:00"
+      }
+    },
+    {
+      "id": "1a64ed2d5dfc",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/5308PK/troligaste-losningen-sa-kan-vi-fa-en-ny-regering",
+      "guid": "https://www.aftonbladet.se/nyheter/a/5308PK/troligaste-losningen-sa-kan-vi-fa-en-ny-regering?utm_medium=rss",
+      "published_at": "2026-11-16T16:36:06+01:00",
+      "fetched_at": "2026-11-16T16:40:12+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/08891047-b9e6-38f5-a3e4-72a3ac5050a4?format=auto&s=075b40e5110150032b85ae004a3ca6c0b8695249&w=1000",
+      "sv": {
+        "title": "Mest troliga lösningen: ”Tolkar det som en öppning”",
+        "summary": "Statsvetarna ser en öppning",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Most likely solution: \"They interpret it as an opening\"",
+        "summary": "Political scientists see an opening"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:40:19+01:00"
+      }
+    },
+    {
+      "id": "2d048b74ff87",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9343874",
+      "guid": "rss:sr.se/article/9343874",
+      "published_at": "2026-11-16T16:34:00+01:00",
+      "fetched_at": "2026-11-16T16:40:10+01:00",
+      "category": "world",
+      "sv": {
+        "title": "USA skärper regler för avancerade AI-chip",
+        "summary": "USA skärper nu reglerna för vissa länders åtkomst av avancerade AI-chip efter den misstänkta spionskandalen i jättebolaget Nvidia, rapporterar nyhetsbyrån Bloomberg.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "USA tightens rules for advanced AI chips",
+        "summary": "The USA is now tightening the rules on certain countries' access to advanced AI chips following the suspected espionage scandal at tech giant Nvidia, reports the news agency Bloomberg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:40:19+01:00"
+      }
+    },
     {
       "id": "ffc82ab76eb1",
       "schema_version": 1,
@@ -27,6 +107,112 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T16:35:37+01:00"
+      }
+    },
+    {
+      "id": "15cdb35274c5",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/addtech-koper-brittiskt-bolag",
+      "guid": "3565b9bf-42a5-4b37-8cae-5b8b1ad7f104",
+      "published_at": "2026-11-16T16:30:14+01:00",
+      "fetched_at": "2026-11-16T16:40:13+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Addtech köper brittiskt bolag",
+        "summary": "Teknikhandelsföretaget Addtech förvärvar Hardall International Limited med årsomsättning om cirka 13 miljoner pund, motsvarande 173 kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Addtech buys British company",
+        "summary": "Technology distributor Addtech is acquiring Hardall International Limited, with annual turnover of about GBP 13 million, equivalent to SEK 173."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:40:19+01:00"
+      }
+    },
+    {
+      "id": "4d20e7a50ab1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/miljardvarderade-bolaget-sager-upp-var-sjunde-tillvaxtplaner",
+      "guid": "3203993e-9e06-4a1e-97aa-3f68f44f1379",
+      "published_at": "2026-11-16T16:30:00+01:00",
+      "fetched_at": "2026-11-16T16:40:13+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/5dd336ba-7cd6-474a-bd0e-064e089e62e1.jpeg?width=600",
+      "sv": {
+        "title": "Miljardvärderade bolaget säger upp var sjunde: ”Tillväxtplaner”",
+        "summary": "Svenska mjukvarubolaget Quinyx, som erbjuder en administrations- och schematjänst för företag, säger upp en sjundedel av sina 290 medarbetare. Bolagets grundare och vd Erik Fjellborg beskriver det hela som omorganisation för tillväxt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Billion-dollar-valued company lays off one in seven: \"Growth plans\"",
+        "summary": "Swedish software company Quinyx, which offers an administration and scheduling service for businesses, is laying off a seventh of its 290 employees. The company's founder and CEO Erik Fjellborg describes the whole thing as a reorganisation for growth."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:40:19+01:00"
+      }
+    },
+    {
+      "id": "dfc6726e3504",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/trump-stottar-jensen-huang",
+      "guid": "aae07e6e-4641-45a1-93b7-0d7186b93bcd",
+      "published_at": "2026-11-16T16:29:01+01:00",
+      "fetched_at": "2026-11-16T16:40:13+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d876e573-f493-4c0c-9931-a8d5a8f28f1d.jpeg?width=600",
+      "sv": {
+        "title": "Trump stöttar Jensen Huang",
+        "summary": "Donald Trump skulle inte ha några problem med att se Jensen Huang tillbaka som Nvidia-vd. Det säger presidenten under en presskonferens i Vita huset. ”Jag tror att han lärde sig en stor läxa”, säger han enligt Bloomberg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump backs Jensen Huang",
+        "summary": "Donald Trump would have no problem seeing Jensen Huang return as Nvidia CEO. The president says so during a press conference at the White House. \"I think he learned a big lesson,\" he says according to Bloomberg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:40:19+01:00"
+      }
+    },
+    {
+      "id": "79f35878acb8",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/europarantor-svagt-upp",
+      "guid": "45937cec-38e0-4d0f-ae4b-d0cb8c4e52bf",
+      "published_at": "2026-11-16T16:28:36+01:00",
+      "fetched_at": "2026-11-16T16:40:13+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Europaräntor svagt upp",
+        "summary": "Europaräntorna steg svagt på måndagen, med tyska och franska räntor 1 punkt upp. Dollarn bibehöll i stort förra veckans förstärkning med dollarindex på 103,49.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "European yields slightly up",
+        "summary": "European bond yields rose slightly on Monday, with German and French yields up 1 basis point. The dollar largely maintained last week's strengthening, with the dollar index at 103.49."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:40:19+01:00"
       }
     },
     {
