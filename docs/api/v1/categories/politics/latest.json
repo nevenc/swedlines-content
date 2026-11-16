@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-11-16T17:31:21+01:00",
+  "generated_at": "2026-11-16T17:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ccafaef712da",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4WPl48H5A4cBxZxf1cib4H/busch-daerfoer-valde-c-bort-oss",
+      "guid": "4WPl48H5A4cBxZxf1cib4H",
+      "published_at": "2026-11-16T17:43:04+01:00",
+      "fetched_at": "2026-11-16T17:45:42+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Busch: Därför valde C bort oss",
+        "summary": "KD-ledaren pekar ut SD som orsaken • ”Min väldigt ärliga reflektion”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Busch: This is why C dropped us",
+        "summary": "The Christian Democrat leader points to the Sweden Democrats as the cause • ”My very honest reflection”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T17:45:55+01:00"
+      }
+    },
+    {
+      "id": "db804156ee54",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/6PjPK3/sa-sakert-sitter-de-rodgrona-partiledarna",
+      "guid": "https://www.aftonbladet.se/nyheter/a/6PjPK3/sa-sakert-sitter-de-rodgrona-partiledarna?utm_medium=rss",
+      "published_at": "2026-11-16T17:33:04+01:00",
+      "fetched_at": "2026-11-16T17:45:42+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/ff311c9f-170d-3019-ade5-0d23033f1768?format=auto&s=b30fcbfdd5963eaf1450c95c53b66992f9962d81&w=1000",
+      "sv": {
+        "title": "Så säkert sitter rödgröna ledarna: Allra värst för henne",
+        "summary": "Experterna om : ✓Svekdebatt ✓Avgångskrav ✓ Tumult",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is how securely the red-green leaders sit: worst for her",
+        "summary": "Experts on : ✓ Betrayal debate ✓ Calls to step down ✓ Tumult"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T17:45:55+01:00"
+      }
+    },
     {
       "id": "64b637db538f",
       "schema_version": 1,
@@ -26,6 +82,76 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T17:31:20+01:00"
+      }
+    },
+    {
+      "id": "db62320c38ae",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/bli-inte-forvanad-om-det-blir-kristersson-till-slut.ac17f648-0927-577e-965a-1083197b7a74",
+      "guid": "ac17f648-0927-577e-965a-1083197b7a74",
+      "published_at": "2026-11-16T17:23:31+01:00",
+      "fetched_at": "2026-11-16T17:45:43+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Politik",
+        "Tagg: Magdalena Andersson",
+        "Tagg: Ulf Kristersson",
+        "Tagg: Vänsterpartiet",
+        "Tagg: Centerpartiet",
+        "Tagg: Sverigedemokraterna",
+        "Tagg: Elisabeth Thand Ringqvist",
+        "Tagg: Centerstudenter",
+        "Tagg: Ida Gabrielsson"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/64ea6bfb-93fc-3df8-9161-0306a68468e8",
+      "sv": {
+        "title": "Arne Larsson: Bli inte förvånad om det blir Kristersson till slut",
+        "summary": "Om Magdalena Andersson inte får igenom sin plan ändras allt igen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Arne Larsson: Don't be surprised if it ends up being Kristersson",
+        "summary": "If Magdalena Andersson does not get her plan through, everything changes again."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T17:45:55+01:00"
+      }
+    },
+    {
+      "id": "3c3f1bb73a50",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/c-ledaren-stanger-inte-dorren-till-kristersson-da-far-vi-fatta-nytt-beslut.da66bcbb-91a8-54aa-8ad7-e58fcef04248",
+      "guid": "da66bcbb-91a8-54aa-8ad7-e58fcef04248",
+      "published_at": "2026-11-16T17:23:27+01:00",
+      "fetched_at": "2026-11-16T17:45:43+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Politik",
+        "Tagg: Elisabeth Thand Ringqvist",
+        "Tagg: Centerpartiet"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/be9bb199-3927-37fd-888a-00c38d5a8c14",
+      "sv": {
+        "title": "C-ledaren stänger inte dörren till Kristersson",
+        "summary": "Elisabeth Thand Ringqvist öppnar för att fatta nytt beslut om S-ledaren faller.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The C leader does not close the door on Kristersson",
+        "summary": "Elisabeth Thand Ringqvist opens up to making a new decision if the Social Democrat leader falls."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T17:45:55+01:00"
       }
     },
     {
@@ -5288,116 +5414,6 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "6135458dfd9a",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2aPkYi6aT6nYGgQxuZY0d4/sd-ledamot-avgar-efter-anklagelser-om-sexuella-oevertramp",
-      "guid": "2aPkYi6aT6nYGgQxuZY0d4",
-      "published_at": "2026-11-12T18:23:46+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Inrikes"
-      ],
-      "sv": {
-        "title": "SD-ledamot avgår – anklagas för gränslöst sexuellt beteende",
-        "summary": "Dagens Nyheter har granskat hur unga kvinnor behandlas inom Sverigedemokraterna. I en första del av granskningen vittnar en stor del tjejer om hur de utsatts för oönskade närmanden och sexuellt våld av killar de träffat i Ungsvenskarna.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "SD member resigns – accused of boundary-crossing sexual behaviour",
-        "summary": "Dagens Nyheter has investigated how young women are treated within the Sweden Democrats. In a first part of the investigation, a large number of girls testify to how they were subjected to unwanted advances and sexual violence by boys they met in Ungsvenskarna."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "d2ab517f174f",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/regeringens-morka-facit-sverige-langre-fran-att-na-klimatmalen",
-      "guid": "https://www.svt.se/nyheter/inrikes/regeringens-morka-facit-sverige-langre-fran-att-na-klimatmalen",
-      "published_at": "2026-11-12T10:43:17+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Gapet växer – klimatmålen allt längre bort",
-        "summary": "Sverige ser ut att missa alla klimatmål – och gapet till att nå målen har ökat senaste året. Det framgår av den övergångsbudget som regeringen presenterade idag. Både avståndet till målet för 2030 och målet till 2045 har ökat enligt regeringens bedömning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The gap grows – climate targets ever further away",
-        "summary": "Sweden looks set to miss all its climate targets – and the gap to reaching them has widened in the past year. That emerges from the transitional budget the government presented today. Both the distance to the 2030 target and to the 2045 target have increased according to the government's assessment."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "24c0a0828571",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/6fdHCUFfihxCWFjIA8WY3W/nu-presenteras-oevergangsbudgeten",
-      "guid": "6fdHCUFfihxCWFjIA8WY3W",
-      "published_at": "2026-11-12T08:05:30+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Ekonomi"
-      ],
-      "sv": {
-        "title": "Nya budgeten presenterad: ”Ett speciellt politiskt läge”",
-        "summary": "Eftersom Sverige ännu saknar en ny regering lägger finansministern fram en så kallad övergångsbudget. – Vi befinner oss i ett speciellt politiskt läge. Regeringsbildningen tar tid och vi behöver förhålla oss till det.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "New budget presented: 'A special political situation'",
-        "summary": "Since Sweden still lacks a new government, the finance minister is presenting a so-called transitional budget. – We are in a special political situation. The government formation is taking time and we need to deal with that."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "11a24d981538",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/dyrare-diesel-kungligt-kalas-och-fangelseplatser-det-innehaller-budgeten",
-      "guid": "https://www.svt.se/nyheter/inrikes/dyrare-diesel-kungligt-kalas-och-fangelseplatser-det-innehaller-budgeten",
-      "published_at": "2026-11-12T08:00:04+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Dyrare diesel, kungligt kalas och fängelseplatser – det innehåller budgeten",
-        "summary": "Idag presenterar Elisabeth Svantesson (M) sin övergångsbudget. Den har tagits fram utifrån strikta regler, men finansministern har ändå gjort vissa undantag.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Dearer diesel, royal celebration and prison places – this is what the budget contains",
-        "summary": "Today Elisabeth Svantesson (M) presents her transitional budget. It has been drawn up under strict rules, but the finance minister has still made certain exceptions."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
       }
     }
   ]

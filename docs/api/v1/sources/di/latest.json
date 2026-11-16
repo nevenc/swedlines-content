@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-16T17:31:21+01:00",
+  "generated_at": "2026-11-16T17:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "573e8f8f2393",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/blandat-pa-nordenborserna-flsmidth-rasade",
+      "guid": "174d5316-a1aa-422e-b3a4-a37b591a942e",
+      "published_at": "2026-11-16T17:34:55+01:00",
+      "fetched_at": "2026-11-16T17:45:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Blandat på Nordenbörserna – Flsmidth rasade",
+        "summary": "De nordiska börserna avslutade måndagens handel mestadels ned med Köpenhamnsbörsen mot strömmen. Det regionala samlingsindexet Vinx 30 sjönk 0,2 procent till 1.556.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mixed on the Nordic exchanges – Flsmidth plunged",
+        "summary": "The Nordic exchanges mostly closed Monday's trading down, with the Copenhagen exchange bucking the trend. The regional composite index Vinx 30 fell 0.2 percent to 1,556."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T17:45:55+01:00"
+      }
+    },
+    {
+      "id": "870e70baf083",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/nedat-pa-borsen-skanska-steg-for-sjunde-dagen-i-rad",
+      "guid": "7728d432-b17d-40d9-aa61-bb57762394eb",
+      "published_at": "2026-11-16T17:32:14+01:00",
+      "fetched_at": "2026-11-16T17:45:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/2bda25ab-9dc6-458c-9f8a-904ab94c7096.jpeg?width=600",
+      "sv": {
+        "title": "Nedåt på börsen – Skanska steg för sjunde dagen i rad",
+        "summary": "Stockholmsbörsen avslutade måndagen med en mindre nedgång. Mot strömmen gick bland annat byggjätten Skanska som steg för sjunde dagen i rad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Down on the exchange – Skanska rose for a seventh day in a row",
+        "summary": "The Stockholm exchange closed Monday with a slight decline. Against the trend, construction giant Skanska rose for a seventh consecutive day."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T17:45:55+01:00"
+      }
+    },
     {
       "id": "b24702bd86e8",
       "schema_version": 1,
@@ -5300,60 +5353,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:42+01:00"
-      }
-    },
-    {
-      "id": "6983ef04f0dd",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/veckans-viktigaste-fran-di-s-nyhetstjanster-0C55_",
-      "guid": "bc8039e0-a403-4b72-9790-995fa6593e0f",
-      "published_at": "2026-11-14T07:07:24+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/10912bd9-7bc4-4483-8d9b-2648990c7c44.jpeg?width=600",
-      "sv": {
-        "title": "Veckans viktigaste från Di:s nyhetstjänster",
-        "summary": "Svensk skogsindustri pressas från två håll. Det är en av veckans viktigaste artiklar från Di:s nyhetstjänster. Läs också om att förskrivningen av adhd-läkemedel till unga har ökat med 900 procent och att Sverige säger nej till EU-krav på automatiskt godkända tillstånd för energiprojekt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This week's most important from Di's news services",
-        "summary": "Swedish forestry industry is under pressure from two sides. This is one of the week's most important articles from Di's news services. Also read about how prescriptions of ADHD medication for young people have risen by 900 percent and that Sweden says no to EU requirements for automatic approval of permits for energy projects."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:42+01:00"
-      }
-    },
-    {
-      "id": "acefce27dcc0",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/flygstopp-i-hela-usa",
-      "guid": "50f2fc0b-5ff8-4205-81cb-6cd981043be0",
-      "published_at": "2026-11-14T00:23:20+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/70fc21da-ac70-4573-930b-b959067c3567.jpeg?width=600",
-      "sv": {
-        "title": "Flygstopp i hela USA",
-        "summary": "All flygtrafik i USA har stoppats. Det meddelar USA:s flygmyndighet FAA, rapporterar CNBC. Ett kommunikationshaveri ligger bakom.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Flight stop across the whole of the USA",
-        "summary": "All air traffic in the USA has been stopped. The US aviation authority FAA announces this, reports CNBC. A communications breakdown is behind it."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:06+01:00"
       }
     }
   ]
