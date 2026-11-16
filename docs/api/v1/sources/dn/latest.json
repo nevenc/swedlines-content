@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T07:04:40+01:00",
+  "generated_at": "2026-11-16T07:15:45+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "38cb6331480c",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/oroande-okning-av-fratskador-pa-tander-hos-unga",
+      "guid": "https://www.dn.se/sverige/oroande-okning-av-fratskador-pa-tander-hos-unga/",
+      "published_at": "2026-11-16T07:09:48+01:00",
+      "fetched_at": "2026-11-16T07:15:39+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/1831a486-4a05-4058-a058-e1467674d515.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Oroande ökning av frätskador på tänder hos unga",
+        "summary": "Slitna och ilande tänder redan hos unga personer oroar tandläkare. Energidrycker och läsk uppges ligga bakom ökningen. – Många tror felaktigt att det är riskfritt för att det är sockerfritt, säger tandläkaren Philip Arneryd.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Worrying rise in acid erosion of teeth among young people",
+        "summary": "Worn and sensitive teeth in young people are already worrying dentists. Energy drinks and soft drinks are reported to be behind the increase. \"Many mistakenly believe it is risk-free because it is sugar-free,\" says dentist Philip Arneryd."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T07:15:45+01:00"
+      }
+    },
     {
       "id": "c7a19f98874b",
       "schema_version": 1,
@@ -5359,33 +5386,6 @@
       "en": {
         "title": "Here are 10 events and premieres you must not miss",
         "summary": "Major Christmas chaos, Stockholm's underworld and the county's new music festival. DN's Anders Haraldsson guides you to the concerts, exhibitions and premieres most worth seeing – book before it is too late. See even more tips and events here – new ones every day"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "ca342611ff5c",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/podd/spotlight/knull-och-suparkonferenser-vittnesmalen-inifran-ungsvenskarna",
-      "guid": "https://www.dn.se/podd/spotlight/knull-och-suparkonferenser-vittnesmalen-inifran-ungsvenskarna/",
-      "published_at": "2026-11-11T05:50:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/gcs/bilder/podspace/herabpdf65vqsf2ummspejuz2dnt4od6vpf5lv6qyuo6x3cfiota.png?io=1&width=1000",
-      "sv": {
-        "title": "”Knull- och suparkonferenser” – vittnesmålen inifrån Ungsvenskarna",
-        "summary": "De unga kvinnorna skulle bli framtidens SD-politiker. Varje år ses de med andra likasinnade på Ungsvenskarnas konferenser, där förbundet kan boka upp hela hotell och sportväskor packas fulla av spritflaskor.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "'Shagging and boozing conferences' – the testimonies from inside Ungsvenskarna",
-        "summary": "The young women were to become the SD politicians of the future. Every year they meet like-minded people at Ungsvenskarna's conferences, where the league can book entire hotels and sports bags are packed full of bottles of spirits."
       },
       "translation": {
         "status": "done",
