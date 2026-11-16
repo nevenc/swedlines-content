@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-16T22:15:50+01:00",
+  "generated_at": "2026-11-16T22:31:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "be1467e7e9ae",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/QgvpW4/centern-sticker-ut-till-hoger-om-moderaterna",
+      "guid": "https://www.svd.se/a/QgvpW4/centern-sticker-ut-till-hoger-om-moderaterna?utm_medium=rss",
+      "published_at": "2026-11-16T22:22:16+01:00",
+      "fetched_at": "2026-11-16T22:31:09+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/6fbff591-8aed-3483-b4b3-af64446a66d6?format=auto&s=086b0585f66e777e32c078a1077c4e740af1daaf&w=1000",
+      "sv": {
+        "title": "Centern sticker ut – till höger om Moderaterna",
+        "summary": "Att bilda en ny regering har visat sig svårt. Men att enas om en gemensam ekonomisk politik kan bli…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre Party stands out – to the right of the Moderates",
+        "summary": "Forming a new government has proven difficult. But agreeing on a common economic policy may become…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T22:31:17+01:00"
+      }
+    },
+    {
+      "id": "1d5a7acea68a",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79981",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79981&utm_medium=rss",
+      "published_at": "2026-11-16T22:18:02+01:00",
+      "fetched_at": "2026-11-16T22:31:09+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "SD-ledamot ändrar sig – tänker inte hoppa av"
+      },
+      "en": {
+        "title": "Sweden Democrats MP changes his mind – does not plan to leave the party"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T22:31:17+01:00"
+      }
+    },
     {
       "id": "1c81d0e8e488",
       "schema_version": 1,
@@ -5346,59 +5396,6 @@
       "en": {
         "title": "Warns of internal split in C: 'Would be devastating to let in'",
         "summary": "C leader Elisabeth Thand Ringqvist has received the total packages from S and M. Now her party faces a crossroads and several people warn of an internal split. – It would be devastating to let V in, says a C source."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "12f098ecfa6e",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/centerledaren-har-fatt-totalpaket-fran-s-och-m",
-      "guid": "https://www.dn.se/sverige/centerledaren-har-fatt-totalpaket-fran-s-och-m/",
-      "published_at": "2026-11-13T17:38:01+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/62c42407-975a-417a-b7fc-cad4a32a85ee.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Centerledaren har fått ”totalpaket” från S och M",
-        "summary": "C-ledarens statsministerkandidater har lämnat in varsitt ”totalpaket”. Magdalena Andersson (S) föreslår en regering med C, S och MP. Ulf Kristersson (M) föreslår en regering med C, M, KD och L.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Party leader has received 'total packages' from S and M",
-        "summary": "The C leader's prime ministerial candidates have each handed in a 'total package'. Magdalena Andersson (S) proposes a government of C, S and MP. Ulf Kristersson (M) proposes a government of C, M, KD and L."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "85ee6c19d172",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/forsta-budgeten-for-nya-styret-sa-ska-sala-fa-ordning-pa-ekonomin",
-      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/forsta-budgeten-for-nya-styret-sa-ska-sala-fa-ordning-pa-ekonomin",
-      "published_at": "2026-11-13T17:11:47+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Första budgeten för nya styret – så ska Sala få ordning på ekonomin",
-        "summary": "Runt 90 miljoner underskott behöver återställas i Sala. Nu har det nya politiska styret presenterat sitt budgetförslag. – Det här är en budget med ett förändringstänk i grunden, säger Erik Hamrin (M), som föreslås bli kommunstyrelsens nya ordförande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "First budget for the new leadership – how Sala will get its finances in order",
-        "summary": "A deficit of around SEK 90 million needs to be restored in Sala. Now the new political leadership has presented its budget proposal. – This is a budget with a mindset of change at its core, says Erik Hamrin (M), who is proposed as the new chair of the municipal executive board."
       },
       "translation": {
         "status": "done",
