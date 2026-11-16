@@ -1,7 +1,109 @@
 {
-  "generated_at": "2026-11-16T09:31:09+01:00",
+  "generated_at": "2026-11-16T09:45:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e6149d8c78af",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79961",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79961&utm_medium=rss",
+      "published_at": "2026-11-16T09:44:04+01:00",
+      "fetched_at": "2026-11-16T09:45:41+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "LKAB krävs på 180 miljoner för oljeläcka"
+      },
+      "en": {
+        "title": "LKAB sued for SEK 180 million over oil leak"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T09:45:49+01:00"
+      }
+    },
+    {
+      "id": "f6ae2e645172",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9341458",
+      "guid": "rss:sr.se/article/9341458",
+      "published_at": "2026-11-16T09:39:00+01:00",
+      "fetched_at": "2026-11-16T09:45:40+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "LKAB stäms på 180 miljoner kronor efter utsläpp av diesel",
+        "summary": "LKAB stäms på 180 miljoner kronor efter ett utsläpp av dieselolja 2021, uppger åklagarmyndigheten i ett pressmeddelande. ”Jag yrkar på minst 180 miljoner kronor i företagsbot.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "LKAB sued for SEK 180 million over diesel discharge",
+        "summary": "LKAB is being sued for SEK 180 million over a diesel oil discharge in 2021, the Prosecution Authority says in a press release. \"I demand at least SEK 180 million in corporate fines."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T09:45:49+01:00"
+      }
+    },
+    {
+      "id": "3e267a7dfc65",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=5be8d0c1-faab-40a1-8038-66e5d0f3a2a0",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=5be8d0c1-faab-40a1-8038-66e5d0f3a2a0",
+      "published_at": "2026-11-16T09:34:53+01:00",
+      "fetched_at": "2026-11-16T09:45:42+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Jättekravet på LKAB",
+        "summary": "Åklagaren: Ska böta ”minst 180 miljoner”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Huge demand on LKAB",
+        "summary": "Prosecutor: Should be fined \"at least SEK 180 million\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T09:45:49+01:00"
+      }
+    },
+    {
+      "id": "e1efa72988d6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/utrikesministern-absurda-krav-fran-putin",
+      "guid": "a5e08985-2f74-4428-8cb6-391a3a5b548f",
+      "published_at": "2026-11-16T09:29:46+01:00",
+      "fetched_at": "2026-11-16T09:45:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/02173777-e880-402f-97f1-faaa86fd2dca.jpg?width=600",
+      "sv": {
+        "title": "Utrikesministern: ”Absurda” krav från Putin",
+        "summary": "Uppgifter om att Ryssland skulle kräva att exempelvis Finland lämnar Nato är absurda, konstaterar utrikesminister Maria Malmer Stenergard (M).",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Foreign minister: \"Absurd\" demands from Putin",
+        "summary": "Reports that Russia would demand that Finland, for example, leave NATO are absurd, states Foreign Minister Maria Malmer Stenergard (M)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T09:45:49+01:00"
+      }
+    },
     {
       "id": "871f2b1a3090",
       "schema_version": 1,
@@ -5294,116 +5396,6 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "780fe16747a8",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/ekonomi/mercedes-stoppar-alla-investeringar-i-tyskland",
-      "guid": "https://www.svt.se/nyheter/ekonomi/mercedes-stoppar-alla-investeringar-i-tyskland",
-      "published_at": "2026-11-13T04:45:18+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Mercedes stoppar alla investeringar i Tyskland",
-        "summary": "Den krisande tyska biltillverkaren Mercedes-Benz meddelar att alla investeringar i Tyskland stoppas och att stängningar av fabriker övervägs.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mercedes halts all investment in Germany",
-        "summary": "The crisis-hit German carmaker Mercedes-Benz announces that all investment in Germany is being halted and that factory closures are being considered."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "dc3df61405dd",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4iIors9B26ocneRiyctxgr/privatleasning-av-bil-oekar-men-faellor-finns",
-      "guid": "4iIors9B26ocneRiyctxgr",
-      "published_at": "2026-11-12T19:28:45+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Privatleasning av bil ökar – fällorna att se upp med",
-        "summary": "Samboparet Helena Benedicks och Andreas Jansson i Östersund är inne på sin tredje bil som de leasar privat. De berättar att de är väldigt nöjda med den här lösningen jämfört med att köpa en bil.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Private car leasing on the rise – the traps to watch out for",
-        "summary": "Cohabiting couple Helena Benedicks and Andreas Jansson in Östersund are on their third privately leased car. They say they are very happy with this solution compared with buying a car."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "7260b4451e45",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3fylF5DExEeMjvFlE3tYmj/ras-efter-otrohetsskandalen-marknaden-reagerar-chockartat",
-      "guid": "3fylF5DExEeMjvFlE3tYmj",
-      "published_at": "2026-11-12T17:05:24+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Ekonomi"
-      ],
-      "sv": {
-        "title": "Ras efter otrohetsskandalen: ”Marknaden reagerar chockartat”",
-        "summary": "Efter ett extrainsatt styrelsemöte i Nvidia fick Jensen Huang på torsdagen gå. Han lämnar både sin vd-roll men också sin plats i styrelsen. – Det här är väldigt stort. Han har varit en visionär som många har lutat sig mot.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Plunge after the infidelity scandal: 'The market is reacting with shock'",
-        "summary": "After an extraordinary board meeting at Nvidia, Jensen Huang had to go on Thursday. He leaves both his CEO role and his seat on the board. – This is very big. He has been a visionary that many have leaned on."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "3a83de9a67a0",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/smaland/hoga-elpriser-tvingade-bergdala-glashytta-att-halla-stangt",
-      "guid": "https://www.svt.se/nyheter/lokalt/smaland/hoga-elpriser-tvingade-bergdala-glashytta-att-halla-stangt",
-      "published_at": "2026-11-12T13:35:43+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Höga elpriser tvingade Bergdala glashytta att hålla stängt",
-        "summary": "Bergdala glashytta i Lessebo tvingades hålla stängt i tre dagar när elpriserna steg kraftigt. Nu riktar vd Roger Johansson kritik mot politikerna och menar att situationen slår hårt mot mindre företag.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "High electricity prices forced Bergdala glassworks to close",
-        "summary": "Bergdala glassworks in Lessebo was forced to close for three days when electricity prices rose sharply. Now CEO Roger Johansson criticises the politicians and says the situation hits smaller companies hard."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
       }
     }
   ]

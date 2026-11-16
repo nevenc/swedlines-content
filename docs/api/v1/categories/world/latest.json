@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-16T09:31:09+01:00",
+  "generated_at": "2026-11-16T09:45:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "77cf3d9cd3a6",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/ukrainska-dubbelattacken-i-natt-over-1300-dronare",
+      "guid": "https://www.expressen.se/nyheter/varlden/ukrainska-dubbelattacken-i-natt-over-1300-dronare/",
+      "published_at": "2026-11-16T09:31:03+01:00",
+      "fetched_at": "2026-11-16T09:45:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ukrainska dubbelattacken i natt – över 1300 drönare",
+        "summary": "Ukrainsk militär genomförde ett storanfall mot ryska mål under natten mot måndag. Totalt ska över 1 300 drönare ha använts mot både Rostov-regionen vid Svarta havet, och mot Moskva.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ukrainian double attack overnight – over 1,300 drones",
+        "summary": "Ukrainian military carried out a major attack on Russian targets during the night to Monday. A total of over 1,300 drones are reported to have been used against both the Rostov region by the Black Sea and Moscow."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T09:45:49+01:00"
+      }
+    },
     {
       "id": "806c15b4e55f",
       "schema_version": 1,
@@ -5344,32 +5370,6 @@
       "en": {
         "title": "Ground stop across the whole US: 'No signs of hostile attack'",
         "summary": "Around 10,000 flight departures have been cancelled or delayed to and from the US. Problems with the air traffic control communications system were behind the extensive stop, which lasted into the small hours."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:56:57+01:00"
-      }
-    },
-    {
-      "id": "df80a07dc458",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340872",
-      "guid": "rss:sr.se/article/9340872",
-      "published_at": "2026-11-13T22:26:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Tankfartyg har krockat med kryssningsbåt i New Orleans",
-        "summary": "Ett 30-tal personer har förts till sjukhus efter att ett lastfartyg körde in i ett kryssningsfartyg i New Orleans under kvällen. Ingen ska vara allvarligt skadad. Kryssningsfartyget med runt 130 personer ombord låg vid kaj i hamnen i New Orleans när det blev påkört och började sjunka.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tanker has collided with cruise boat in New Orleans",
-        "summary": "Around 30 people have been taken to hospital after a cargo ship ran into a cruise ship in New Orleans during the evening. No one is said to be seriously injured. The cruise ship, with around 130 people on board, was at the quay in the port of New Orleans when it was hit and began to sink."
       },
       "translation": {
         "status": "done",
