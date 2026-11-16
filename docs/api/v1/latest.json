@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-11-16T08:31:06+01:00",
+  "generated_at": "2026-11-16T08:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e27e2d26fb5b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/morgonsammanfattning-teknikras-i-asien-fortsatt-press-pa-nvidia",
+      "guid": "61408338-d9d9-5596-8370-7038b7955f6f",
+      "published_at": "2026-11-16T08:35:42+01:00",
+      "fetched_at": "2026-11-16T08:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Morgonsammanfattning: Teknikras i Asien – fortsatt press på Nvidia",
+        "summary": "Karolina Waligorska om helgen och nattens höjdupunkter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Morning summary: tech rally in Asia – continued pressure on Nvidia",
+        "summary": "Karolina Waligorska on the weekend's and overnight's highlights."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T08:45:53+01:00"
+      }
+    },
+    {
+      "id": "24aa7ac377c3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/hemkops-vd-lamnar-for-storkonkurrenten",
+      "guid": "9bb7e78a-2849-4f59-9643-68c764737c5a",
+      "published_at": "2026-11-16T08:34:11+01:00",
+      "fetched_at": "2026-11-16T08:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Hemköps vd lämnar för storkonkurrenten",
+        "summary": "Livsmedelskoncernen Axfood rapporterar dubbla besked i koncernledningen. Ena är att Hemköps vd Shoan Etemadi lämnar bolaget för att bli vd på Ica Sverige. Dessutom har Axfood fått en ny finanschef.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hemköp CEO leaves for major rival",
+        "summary": "Food group Axfood reports two announcements in its group management. One is that Hemköp CEO Shoan Etemadi is leaving the company to become CEO of Ica Sverige. In addition, Axfood has a new CFO."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T08:45:53+01:00"
+      }
+    },
+    {
+      "id": "bfda91a52941",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=4ff62b39-a7fd-4c46-b210-c904b5dc30d3",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4ff62b39-a7fd-4c46-b210-c904b5dc30d3",
+      "published_at": "2026-11-16T08:32:46+01:00",
+      "fetched_at": "2026-11-16T08:45:44+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Elbilsladdare klipptes av",
+        "summary": "Misstänkt skadegörelse på bensinmack",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EV chargers cut off",
+        "summary": "Suspected vandalism at petrol station"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T08:45:53+01:00"
+      }
+    },
     {
       "id": "0511dbc0d11e",
       "schema_version": 1,
@@ -30,6 +108,33 @@
       }
     },
     {
+      "id": "9cff31de19aa",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/lMAKAo/gabrielsson-andersson-ar-inte-som-jultomten",
+      "guid": "https://www.svd.se/a/lMAKAo/gabrielsson-andersson-ar-inte-som-jultomten?utm_medium=rss",
+      "published_at": "2026-11-16T08:30:14+01:00",
+      "fetched_at": "2026-11-16T08:45:43+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/df059879-0326-339f-a48b-62784e4becf4?format=auto&s=a7d258d8d5a8e6c023b7d50b11161bc5775e8f21&w=1000",
+      "sv": {
+        "title": "Gabrielsson: Andersson är inte som jultomten",
+        "summary": "Centerpartiet måste återupprätta sitt förtroende efter närmandet högerut, och kan inte önska vilka…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gabrielsson: Andersson is not like Santa Claus",
+        "summary": "The Centre Party must rebuild its trust after its move to the right, and cannot wish for who…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T08:45:53+01:00"
+      }
+    },
+    {
       "id": "e144f9accbff",
       "schema_version": 1,
       "source": "aftonbladet",
@@ -54,6 +159,139 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T08:31:06+01:00"
+      }
+    },
+    {
+      "id": "5da9d0583d10",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/0vE2wM/livreer-som-speglar-hovets-hierarki",
+      "guid": "https://www.svd.se/a/0vE2wM/livreer-som-speglar-hovets-hierarki?utm_medium=rss",
+      "published_at": "2026-11-16T08:30:00+01:00",
+      "fetched_at": "2026-11-16T08:45:43+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/fd920aee-e3fa-301d-bbbc-cb5e8d21b1e4?format=auto&s=71a289c5a56488c7abd75ccad5298c3e360ccc85&w=1000",
+      "sv": {
+        "title": "Livréer som speglar hovets hierarki",
+        "summary": "Livrustkammarens nya utställning skildrar det samhälle som hovet en gång utgjorde.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Liveries that mirror the court's hierarchy",
+        "summary": "The Royal Armoury's new exhibition depicts the society the court once constituted."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T08:45:53+01:00"
+      }
+    },
+    {
+      "id": "64473d3bb7de",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/telia-jagar-eu-miljarder-till-datacenter-svensk-plats-spikad",
+      "guid": "0ceb0598-c027-45e3-88c3-166513a2a3b5",
+      "published_at": "2026-11-16T08:28:52+01:00",
+      "fetched_at": "2026-11-16T08:45:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c04b2880-084d-4b43-992e-d627e2b3a514.jpeg?width=600",
+      "sv": {
+        "title": "Telia jagar EU-miljarder till datacenter – svensk plats spikad",
+        "summary": "EU-kommissionen har sjösatt en plan med målet att mer än 300 miljarder kronor ska plöjas ned i nya europeiska AI-datacenter. Nu vill den svenska teleoperatören Telia få ta del av kakan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Telia chases EU billions for data centres – Swedish spot secured",
+        "summary": "The European Commission has launched a plan aiming for more than SEK 300 billion to be poured into new European AI data centres. Now the Swedish telecom operator Telia wants to get a share of the pie."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T08:45:53+01:00"
+      }
+    },
+    {
+      "id": "fd8569e09ef5",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9341413",
+      "guid": "rss:sr.se/article/9341413",
+      "published_at": "2026-11-16T08:28:00+01:00",
+      "fetched_at": "2026-11-16T08:45:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ryska uppgifter: 600 drönare mot Moskva under natten",
+        "summary": "Ukraina har skjutit omkring 600 drönare mot ryska huvudstaden Moskva under natten och söndagskvällen, hävdar stadens borgmästare Sergej Sobjanin. Samtidigt har Ukraina utsatts för flera attacker under natten, bland annat har en man dödats i en attack i Zaporizjzja, enligt guvernören Ivan Fedorov.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Russian claims: 600 drones toward Moscow overnight",
+        "summary": "Ukraine has fired around 600 drones at the Russian capital Moscow overnight and Sunday evening, claims the city's mayor Sergei Sobyanin. Meanwhile, Ukraine has been subjected to several attacks overnight, including one in which a man was killed in an attack in Zaporizhzhia, according to governor Ivan Fedorov."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T08:45:53+01:00"
+      }
+    },
+    {
+      "id": "95c356a0b84f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/byggkostnadsindex-steg",
+      "guid": "75ba7749-1d51-4b62-93c2-d1535ada37da",
+      "published_at": "2026-11-16T08:26:58+01:00",
+      "fetched_at": "2026-11-16T08:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Byggkostnadsindex steg",
+        "summary": "Byggkostnadsindex för flerbostadshus i Sverige steg 0,6 procent i oktober jämfört med månaden före.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Construction cost index rose",
+        "summary": "The construction cost index for multi-family residential buildings in Sweden rose 0.6 percent in October compared with the previous month."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T08:45:53+01:00"
+      }
+    },
+    {
+      "id": "1f450b51d166",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/efter-kollapsen-vd-n-rensar-kalendern",
+      "guid": "44157f24-9bb3-4d0a-bc27-e9f9b83c2f3b",
+      "published_at": "2026-11-16T08:26:56+01:00",
+      "fetched_at": "2026-11-16T08:45:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/922af2ab-e640-42c2-ba2c-76157919b188.jpeg?width=600",
+      "sv": {
+        "title": "Efter kollapsen: Vd:n rensar kalendern",
+        "summary": "Forskningsbolaget Cereno Scientific kollapsade i fredags. Nu avgår vd Sten Sörensen som styrelseledamot i forskningsbolaget Synact Pharma för att fokusera på sina operativa ansvarsområden, enligt ett pressmeddelande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After the collapse: CEO clears his calendar",
+        "summary": "Research company Cereno Scientific collapsed on Friday. Now CEO Sten Sörensen is stepping down as board member of research company Synact Pharma to focus on his operational responsibilities, according to a press release."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T08:45:53+01:00"
       }
     },
     {
@@ -1692,6 +1930,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T06:31:00+01:00"
+      }
+    },
+    {
+      "id": "2e7a8f7eeec9",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/gavleborg/laddkablar-avklippta-misstankt-stold-fran-mack-i-natt",
+      "guid": "https://www.svt.se/nyheter/lokalt/gavleborg/laddkablar-avklippta-misstankt-stold-fran-mack-i-natt",
+      "published_at": "2026-11-16T06:25:05+01:00",
+      "fetched_at": "2026-11-16T08:45:41+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Laddkablar avklippta – misstänkt stöld från mack i natt",
+        "summary": "Väktare upptäckte avklippta laddkablar vid en bensinmack, natten mot måndagen. Polisen misstänker att de har stulits, uppger Gefle Dagblad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Charging cables cut – suspected theft from petrol station overnight",
+        "summary": "A security guard discovered cut charging cables at a petrol station, the night towards Monday. Police suspect they have been stolen, Gefle Dagblad reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T08:45:53+01:00"
       }
     },
     {
@@ -3762,6 +4026,33 @@
       }
     },
     {
+      "id": "faec405cbca9",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/EbWxmj/misstankt-grovt-brott-i-enkoping",
+      "guid": "https://www.aftonbladet.se/nyheter/a/EbWxmj/misstankt-grovt-brott-i-enkoping?utm_medium=rss",
+      "published_at": "2026-11-16T00:03:37+01:00",
+      "fetched_at": "2026-11-16T08:45:44+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/52e63f39-ae88-35c5-a006-4da4308fd819?format=auto&s=4feb13f62e24fabd2d13bd8f03c46518894f4a75&w=1000",
+      "sv": {
+        "title": "Misstänkt grovt brott utanför Enköping – en skadad",
+        "summary": "Hundpatrull ✓ Insatsstyrkan",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspected serious crime outside Enköping – one injured",
+        "summary": "Dog patrol ✓ Insatsstyrkan"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T08:45:53+01:00"
+      }
+    },
+    {
       "id": "532b481171ec",
       "schema_version": 1,
       "source": "aftonbladet",
@@ -5074,311 +5365,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T21:01:14+01:00"
-      }
-    },
-    {
-      "id": "b89c8884eae7",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/kMJ00k/v-s-krav-om-att-inga-i-en-regering-ligger-fast",
-      "guid": "https://www.aftonbladet.se/nyheter/a/kMJ00k/v-s-krav-om-att-inga-i-en-regering-ligger-fast?utm_medium=rss",
-      "published_at": "2026-11-15T20:57:30+01:00",
-      "fetched_at": "2026-11-15T21:01:06+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/7327d681-b2ec-3aff-91a3-f273230eaa85?format=auto&s=19377e12150b539276b6f2a2591b7bce00170d09&w=1000",
-      "sv": {
-        "title": "V:s krav om att ingå i en regering ligger fast",
-        "summary": "Vänsterpartiets krav på att ingå i en regering ligger fast, säger vice partiledare Ida Gabrielsson…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Left Party's demand to join a government stands",
-        "summary": "The Left Party's demand to be part of a government stands, says deputy party leader Ida Gabrielsson…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T21:01:14+01:00"
-      }
-    },
-    {
-      "id": "aeecc2798e89",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1iS76YJAiZRw7sqzerJ5mX/blandade-reaktioner-efter-c-beskedet",
-      "guid": "1iS76YJAiZRw7sqzerJ5mX",
-      "published_at": "2026-11-15T20:51:37+01:00",
-      "fetched_at": "2026-11-15T23:15:39+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Blandade reaktioner efter beskedet",
-        "summary": "Mohamssons tydliga uppmaning • Andersson: ”Politik är på riktigt”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mixed reactions after the announcement",
-        "summary": "Mohamsson's clear call • Andersson: \"Politics is for real\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T23:15:46+01:00"
-      }
-    },
-    {
-      "id": "0ab3eeed0f2c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/ida-gabrielsson-v-efter-cs-val-ska-inga-i-regeringen",
-      "guid": "https://www.expressen.se/nyheter/sverige/ida-gabrielsson-v-efter-cs-val-ska-inga-i-regeringen/",
-      "published_at": "2026-11-15T20:49:25+01:00",
-      "fetched_at": "2026-11-15T21:01:07+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Ida Gabrielsson (V) efter C:s val: ”Ska ingå i regeringen”",
-        "summary": "Centerpartiet väljer Magdalena Anderssons totalpaket. Då återupprepar V sina regeringskrav. – Beskedet att vi ska ingå i regeringen, ligger fast, säger vice partiledare Ida Gabrielsson till SVT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ida Gabrielsson (V) after the Centre Party's choice: \"Will be part of the government\"",
-        "summary": "The Centre Party chooses Magdalena Andersson's package deal. The Left Party then reiterates its government demands. – The message that we will be part of the government stands, says deputy party leader Ida Gabrielsson to SVT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T21:01:14+01:00"
-      }
-    },
-    {
-      "id": "0919e9a99422",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/uppgift-arabernas-valfusk-planerades-fran-netanyahus-kansli",
-      "guid": "https://www.dn.se/varlden/uppgift-arabernas-valfusk-planerades-fran-netanyahus-kansli/",
-      "published_at": "2026-11-15T20:47:29+01:00",
-      "fetched_at": "2026-11-15T21:01:05+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/8118016d-0722-43b8-8d95-01ed8b50afba.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Uppgift: Arabernas ”valfusk” planerades från Netanyahus kansli",
-        "summary": "JERUSALEM. De israeliska araber som greps i gryningen valdagen den 27 oktober, misstänkta för att ha planerat valfusk, föll offer för en komplott, iscensatt från premiärministerns kansli. Det avslöjar tv-programmet ”Fakta”, Israels motsvarighet till ”Uppdrag granskning”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Report: Arabs' \"election fraud\" was planned from Netanyahu's office",
-        "summary": "JERUSALEM. Israeli Arabs who were arrested at dawn on election day, 27 October, suspected of having planned election fraud, fell victim to a plot staged from the prime minister's office. This is revealed by the TV programme \"Fakta\", Israel's equivalent of \"Uppdrag granskning\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T21:01:14+01:00"
-      }
-    },
-    {
-      "id": "eda673248028",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/pMLBB1/vansterpartiet-slapper-inte-regeringskravet",
-      "guid": "https://www.aftonbladet.se/nyheter/a/pMLBB1/vansterpartiet-slapper-inte-regeringskravet?utm_medium=rss",
-      "published_at": "2026-11-15T20:43:28+01:00",
-      "fetched_at": "2026-11-15T21:01:06+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/9eba7e36-ca29-345c-9d67-1e1f6bd64368?format=auto&s=ec327732e09a430f2730756e6d3647e1d4c0330b&w=1000",
-      "sv": {
-        "title": "Vänsterpartiet släpper inte regeringskravet",
-        "summary": "Gabrielssons besked på väg till SVT-studion",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Left Party does not drop government demand",
-        "summary": "Gabrielsson's message on the way to the SVT studio"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T21:01:14+01:00"
-      }
-    },
-    {
-      "id": "72f37598e6b7",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/politik/det-har-kommer-fortsatta-ett-bra-tag-till.bc77a6da-8d99-5797-8d18-4c42c0d815aa",
-      "guid": "bc77a6da-8d99-5797-8d18-4c42c0d815aa",
-      "published_at": "2026-11-15T20:42:41+01:00",
-      "fetched_at": "2026-11-15T21:01:07+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Politik",
-        "Tagg: Magdalena Andersson",
-        "Tagg: Centerpartiet",
-        "Tagg: Elisabeth Thand Ringqvist",
-        "Tagg: Vänsterpartiet",
-        "Tagg: Ida Gabrielsson",
-        "Tagg: Nooshi Dadgostar"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/8a87b4b0-b8d6-358f-8bad-d643e21c1fe9",
-      "sv": {
-        "title": "Det här kommer fortsätta ett bra tag till",
-        "summary": "GP:s politikredaktör Arne Larsson om vad som väntar efter Centerpartiets besked.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This will continue for a good while longer",
-        "summary": "GP political editor Arne Larsson on what awaits after the Centre Party's decision."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T21:01:14+01:00"
-      }
-    },
-    {
-      "id": "bfdaf7d5042b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/BrRxWl/oklart-vad-beskedet-ar-vart",
-      "guid": "https://www.svd.se/a/BrRxWl/oklart-vad-beskedet-ar-vart?utm_medium=rss",
-      "published_at": "2026-11-15T20:37:55+01:00",
-      "fetched_at": "2026-11-15T20:45:38+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/0522d3e0-38dc-369e-97f9-b6911bea35ce?format=auto&s=a1e8d9657d1b761c76faa739a62ac7f38b54bcf1&w=1000",
-      "sv": {
-        "title": "Nästa S-projekt: Nedmalningen",
-        "summary": "SvD:s inrikespolitiska kommentator svarar på tre frågor om centerns besked.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Next S project: The Downgrading",
-        "summary": "SvD's domestic politics commentator answers three questions about the Centre Party's announcement."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T20:45:43+01:00"
-      }
-    },
-    {
-      "id": "652df38189c4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/simona-mohamssons-pik-mot-c-tre-mot-ett",
-      "guid": "https://www.expressen.se/nyheter/politik/simona-mohamssons-pik-mot-c-tre-mot-ett/",
-      "published_at": "2026-11-15T20:37:29+01:00",
-      "fetched_at": "2026-11-15T20:45:39+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Simona Mohamssons pik mot C: Tre mot ett",
-        "summary": "L-ledaren Simona Mohamsson kommenterar Centerns vägval. ”Tre vänsterpartier är fler än ett Centerparti”, skriver hon på X.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Simona Mohamsson's jab at C: Three to one",
-        "summary": "Liberal leader Simona Mohamsson comments on the Centre Party's choice. “Three left parties are more than one Centre Party”, she writes on X."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T20:45:43+01:00"
-      }
-    },
-    {
-      "id": "39ecc9e66c88",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/andersson-mycket-valkommet-besked",
-      "guid": "a89f89d4-e9c9-435b-8af2-f48f86542e28",
-      "published_at": "2026-11-15T20:20:06+01:00",
-      "fetched_at": "2026-11-15T20:31:01+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/27eeeef9-634f-4de8-88c3-c1a2d56b9c38.jpeg?width=600",
-      "sv": {
-        "title": "Andersson: ”Mycket välkommet besked”",
-        "summary": "S-ledaren Magdalena Andersson ser nu en möjlighet att komma fram med en rödgrön regering. Men först ger hon de medverkande partierna ett råd: Ta ett djupt andetag och visa varandra respekt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Andersson: \"Very welcome news\"",
-        "summary": "S leader Magdalena Andersson now sees an opportunity to form a red-green government. But first she gives the participating parties some advice: Take a deep breath and show each other respect."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T20:31:05+01:00"
-      }
-    },
-    {
-      "id": "ad77c16a1454",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/nLa1Qd/zelenskyj-missnojd-med-starshield",
-      "guid": "https://www.aftonbladet.se/nyheter/a/nLa1Qd/zelenskyj-missnojd-med-starshield?utm_medium=rss",
-      "published_at": "2026-11-15T20:19:01+01:00",
-      "fetched_at": "2026-11-15T20:30:58+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/c02f2c28-ced7-360a-a911-43300e36eae7?format=auto&s=52ce2eee04e8c355a374b4b861db495107d4a852&w=1000",
-      "sv": {
-        "title": "Zelenskyj missnöjd med Starshield",
-        "summary": "Begränsningar i kommunikationssystemet Starshield innebär svårigheter för Ukraina att skydda sig mot…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Zelenskyy unhappy with Starshield",
-        "summary": "Limitations in the Starshield communication system mean difficulties for Ukraine in protecting itself against…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T20:31:05+01:00"
-      }
-    },
-    {
-      "id": "ecd864f03ede",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341311",
-      "guid": "rss:sr.se/article/9341311",
-      "published_at": "2026-11-15T20:14:00+01:00",
-      "fetched_at": "2026-11-15T20:30:54+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "”Pressen kommer vara stenhård på Vänsterpartiet”",
-        "summary": "Centerpartiet väljer att gå vidare med Socialdemokraternas totalpaket – men med det fortsatta kravet att hålla Vänsterpartiet utanför en regering. Ekots politiska kommentator Fredrik Furtenbach säger att det av allt att döma kommer bli nya förhandlingar mellan de rödgröna: ”Då kommer pressen vara…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "\"The press will be ruthless on the Left Party\"",
-        "summary": "The Centre Party chooses to go ahead with the Social Democrats' full package – but with the continued demand to keep the Left Party out of a government. Ekot's political commentator Fredrik Furtenbach says that, by all indications, there will be new negotiations between the red-greens: \"Then the press will be…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T20:31:05+01:00"
       }
     }
   ]
