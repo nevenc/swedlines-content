@@ -1,7 +1,447 @@
 {
-  "generated_at": "2026-11-16T05:45:47+01:00",
+  "generated_at": "2026-11-16T06:01:32+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ee7b4af77890",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/tuffare-ar-vantar-hushallen-bygg-krockkuddar",
+      "guid": "f284325c-3c8b-4d6b-99a7-aebaa193ae80",
+      "published_at": "2026-11-16T06:00:17+01:00",
+      "fetched_at": "2026-11-16T06:01:15+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/334ac1e9-601b-486e-83b6-5fdbfee80830.jpg?width=600",
+      "sv": {
+        "title": "Tuffare år väntar hushållen – ”bygg krockkuddar”",
+        "summary": "Dyrare bensin och el, dessutom högre boräntor. Efter några år av återhämtning kan vanliga hushåll räkna med en tusenlapp i högre månadskostnader nästa år. – Det är dags att börja bygga en del krockkuddar inför nästa år, säger Américo Fernández, privatekonom på SEB.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tougher year ahead for households – “build airbags”",
+        "summary": "Higher petrol and electricity prices, plus higher mortgage rates. After a few years of recovery, ordinary households can expect SEK 1,000 more in monthly costs next year. – It is time to start building some airbags for next year, says Américo Fernández, private economist at SEB."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "f628ba17c1e4",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/inpa-livet/dramatisk-okning-av-psykisk-ohalsa-bland-skanska-tonarsflickor",
+      "guid": "ae68e843-edc1-445d-8194-533c20c5ae6f",
+      "published_at": "2026-11-16T06:00:15+01:00",
+      "fetched_at": "2026-11-16T06:01:15+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/36a053b5-3fa7-43ad-b98c-42d368f06c88.jpeg?width=600",
+      "sv": {
+        "title": "Dramatisk ökning av psykisk ohälsa bland skånska tonårsflickor",
+        "summary": "Det har länge larmats om ökad psykisk ohälsa bland unga tjejer. Enligt en studie från Lunds universitet fortsätter den negativa utvecklingen. När tusen skånska högstadieungdomar fick svara på frågor kring sitt mående visade sig nästan var tredje tonårsflicka ha problem.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Dramatic rise in mental ill-health among Skåne teenage girls",
+        "summary": "Alarm has long been raised about rising mental ill-health among young girls. According to a study from Lund University, the negative trend continues. When a thousand Skåne lower-secondary pupils were asked about their well-being, almost one in three teenage girls was found to have problems."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "2dbc79c78de5",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/skapar-kaos-pa-boende-hotar-tanda-eld-och-jagar-personalen",
+      "guid": "51e1b59e-2182-4dfb-b077-01f47c02bbcd",
+      "published_at": "2026-11-16T06:00:00+01:00",
+      "fetched_at": "2026-11-16T06:01:15+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/d9a11255-391a-4b32-897e-11f6bb944e21.jpeg?width=600",
+      "sv": {
+        "title": "”Skapar kaos” på boende – hotar tända eld och jagar personalen",
+        "summary": "En kvinna med psykiska problem försöker tvinga sig bort från ett LSS-boende där hon placerats mot sin vilja. Hon attackerar personalen och hotar att bränna ner byggnaden. – Hon vill inte vara kvar en enda dag till, säger hennes syster.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Creates chaos” at home – threatens to set fire and chases staff",
+        "summary": "A woman with mental health problems tries to force her way out of an LSS home where she was placed against her will. She attacks staff and threatens to burn down the building. – She does not want to stay one more day, says her sister."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "a3e05c756d20",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://id.bonniernews.se/login?autoLogin=true&returnUri=https%3A%2F%2Fwww.sydostran.se%2Fnyheter%2Fholidays-are-coming-nu-kommer-jullastbilen-till-blekinge%2F%3Fbn_source%3DExpressen%26bn_event%3Dplusallt%26bn_content%3Dsverige_runt_widget",
+      "guid": "https://id.bonniernews.se/login?autoLogin=true&returnUri=https%3A%2F%2Fwww.sydostran.se%2Fnyheter%2Fholidays-are-coming-nu-kommer-jullastbilen-till-blekinge%2F%3Fbn_source%3DExpressen%26bn_event%3Dplusallt%26bn_content%3Dsverige_runt_widget",
+      "published_at": "2026-11-16T06:00:00+01:00",
+      "fetched_at": "2026-11-16T06:01:13+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Varning – kan reta upp vänstertomtar",
+        "summary": "Coca-Colas jullastbil till Sverige för första gången • Läs i Sydöstran",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Warning – may irk leftist Santas",
+        "summary": "Coca-Cola’s Christmas lorry comes to Sweden for the first time • Read in Sydöstran"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "f0b111b5a3a6",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-besked-slagit-ut-mer-an-halften-av-rysk-olja",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/zelenskyjs-besked-slagit-ut-mer-an-halften-av-rysk-olja",
+      "published_at": "2026-11-16T05:59:59+01:00",
+      "fetched_at": "2026-11-16T06:01:13+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Hånet mot Putin",
+        "summary": "Zelenskyjs utspel – ”slagit ut 55 procent” • ”Rysslands misslyckande”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mockery of Putin",
+        "summary": "Zelenskyy’s statement – “knocked out 55 percent” • “Russia’s failure”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "08ec63b77ff5",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/mexikos-drogkung-ar-dod",
+      "guid": "d505aed3-72e1-41d4-a737-3508b4ea1f86",
+      "published_at": "2026-11-16T05:59:56+01:00",
+      "fetched_at": "2026-11-16T06:01:15+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Mexikos drogkung är död"
+      },
+      "en": {
+        "title": "Mexico’s drug kingpin is dead"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "a6d21240e1ef",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/august-erlingmark-tror-pa-ny-framgangstid-blavitt-ar-en-sovande-storklubb.3d889e1f-4b0f-5692-a961-1c874801cda9",
+      "guid": "3d889e1f-4b0f-5692-a961-1c874801cda9",
+      "published_at": "2026-11-16T05:58:11+01:00",
+      "fetched_at": "2026-11-16T06:01:14+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "IFK Göteborg"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/cda3dc54-72c4-3811-91f5-9839ff51832b",
+      "sv": {
+        "title": "”Blåvitt är en sovande storklubb – på riktigt”",
+        "summary": "August Erlingmark, 28, är lagkaptenen som fick se sitt IFK Göteborg gå från en fjärdeplats till allsvenskans stora krislag.Efter ett tränarskifte och flera större förändringar är klubben i hans hjärta på en annan plats igen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Blåvitt is a sleeping big club – for real”",
+        "summary": "August Erlingmark, 28, is the team captain who saw his IFK Göteborg go from a fourth place to the Allsvenskan’s big crisis side. After a coach change and several major changes, the club is in his heart in another place again."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "ad22404bf9d4",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/kommentar/har-du-gjort-ett-ansiktslyft-anvand-watergate-tricket.0e28bc26-2b54-564f-8485-8f524b875eb9",
+      "guid": "0e28bc26-2b54-564f-8485-8f524b875eb9",
+      "published_at": "2026-11-16T05:56:50+01:00",
+      "fetched_at": "2026-11-16T06:01:14+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kommentar",
+        "Tagg: Jennifer Lawrence",
+        "Tagg: Kris Jenner",
+        "Tagg: Botox",
+        "Tagg: Skönhet",
+        "Tagg: Internet",
+        "Tagg: Feminism",
+        "Tagg: Plastikoperationer"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/2bb67704-5596-34b6-8f8f-762fffc35f6f",
+      "sv": {
+        "title": "Har du gjort ett ansiktslyft? Använd Watergate-tricket",
+        "summary": "I dag kan en rik och vacker filmstjärna som Jennifer Lawrence erkänna flera ingrepp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Have you had a facelift? Use the Watergate trick",
+        "summary": "Today a rich and beautiful film star like Jennifer Lawrence can admit to several procedures."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "97789291909e",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/snart-slut-for-rabatt-i-kollektivtrafiken",
+      "guid": "https://www.dn.se/sverige/snart-slut-for-rabatt-i-kollektivtrafiken/",
+      "published_at": "2026-11-16T05:54:32+01:00",
+      "fetched_at": "2026-11-16T06:01:11+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/246947ba-4d13-4215-a9f9-300e4587a7b1.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Snart slut för rabatt i kollektivtrafiken",
+        "summary": "Planerade du att bunkra månadskort till halverat pris? Ledsen, men endast hos Västtrafik är det möjligt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Soon the end of discounts on public transport",
+        "summary": "Were you planning to stock up on monthly passes at half price? Sorry, but only with Västtrafik is it still possible."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "713e06aef91c",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/unga-i-sverige-skattar-sin-halsa-lagst-i-eu-men-vad-sager-det.7dfac0e2-0f43-5b96-b6b6-7f4da4769b3e",
+      "guid": "7dfac0e2-0f43-5b96-b6b6-7f4da4769b3e",
+      "published_at": "2026-11-16T05:54:00+01:00",
+      "fetched_at": "2026-11-16T06:01:14+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Eurostat",
+        "Tagg: EU",
+        "Tagg: Psykisk hälsa",
+        "Tagg: Psykiatrisk vård",
+        "Tagg: Psykisk ohälsa",
+        "Tagg: Unga vuxna"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/32288055-6e28-3b65-89dd-fd81e873db0b",
+      "sv": {
+        "title": "Nästan alla unga i Rumänien uppger god hälsa – Sverige i botten",
+        "summary": "Stor skillnad i ungas hälsa – experten om hur siffrorna ska förstås",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Almost all young people in Romania report good health – Sweden at the bottom",
+        "summary": "Big difference in young people’s health – the expert on how the figures should be understood"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "cddd5d2555fa",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/vastsverige/har-vantas-andelen-80-aringar-oka-mest-i-vastsverige.6e5d2f85-74f8-5665-8272-f8d522b14448",
+      "guid": "6e5d2f85-74f8-5665-8272-f8d522b14448",
+      "published_at": "2026-11-16T05:53:31+01:00",
+      "fetched_at": "2026-11-16T06:01:14+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Västsverige",
+        "Tagg: Socialstyrelsen",
+        "Tagg: Äldreomsorg",
+        "Tagg: Öckerö kommun",
+        "Tagg: VG-regionen",
+        "Tagg: Samhällsredaktionen",
+        "Tagg: Fördjupning",
+        "Tagg: VITA FLÄCKAR Öckerö"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/ff30ec2f-c275-304e-8815-4c600f491ff5",
+      "sv": {
+        "title": "Skärgårdens dilemma: Andelen äldre ökar fort",
+        "summary": "Personalen i äldreomsorgen gör sig redo för framtiden: ”Kan inte ge upp”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The archipelago’s dilemma: share of elderly rising fast",
+        "summary": "Elderly care staff are preparing for the future: “Cannot give up”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "e7aa0fd0d4dd",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/ekonomi/jacob-wallenbergs-rad-sa-gor-du-karriar-i-framtiden.601fe103-ecc8-5fb9-ad21-50b5f8661b17",
+      "guid": "601fe103-ecc8-5fb9-ad21-50b5f8661b17",
+      "published_at": "2026-11-16T05:52:36+01:00",
+      "fetched_at": "2026-11-16T06:01:14+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi",
+        "Tagg: Jacob Wallenberg",
+        "Tagg: Micael Johansson",
+        "Tagg: Carl Bennet",
+        "Tagg: Getinge",
+        "Tagg: Industrier",
+        "Tagg: GP Karriär",
+        "Tagg: Arbetsmarknad"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/2e42cdc8-b3ed-388a-ad7b-759b2a9b976f",
+      "sv": {
+        "title": "Tre toppchefer: Så får du jobb om 3-5 år",
+        "summary": "Jacob Wallenberg och Carl Bennet: Så gör du karriär i framtiden.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Three top executives: how to get a job in 3–5 years",
+        "summary": "Jacob Wallenberg and Carl Bennet: how to build a career in the future."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "cc84c3e747a1",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9341258",
+      "guid": "rss:sr.se/article/9341258",
+      "published_at": "2026-11-16T05:48:00+01:00",
+      "fetched_at": "2026-11-16T06:01:11+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Nytt elektrifieringsmål kan ge världen en klimatknuff",
+        "summary": "Ett nytt mål om ökad elektrifiering kan ge världen en viss skjuts att minska klimatutsläppen, enligt Klimatpolitiska rådets ordförande Olof Johansson Stenman, vid FN:s klimatmöte i Antalya i Turkiet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "New electrification target could give the world a climate boost",
+        "summary": "A new target for increased electrification could give the world some push to cut climate emissions, according to Olof Johansson Stenman, chair of the Climate Policy Council, at the UN climate meeting in Antalya, Turkey."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "5ce06732a386",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/XogM7x/nytt-krig-mot-haitis-gang-efter-kidnappning-okand",
+      "guid": "https://www.svd.se/a/XogM7x/nytt-krig-mot-haitis-gang-efter-kidnappning-okand?utm_medium=rss",
+      "published_at": "2026-11-16T05:45:12+01:00",
+      "fetched_at": "2026-11-16T06:01:12+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/fc4194bf-1720-3147-9cea-b44af4cca929?format=auto&s=a31a539c764d3f18d0dd1359d05fa06f03b8323b&w=1000",
+      "sv": {
+        "title": "Nytt krig mot Haitis gäng efter kidnappning: ”Ökänd”",
+        "summary": "Presidenten i El Salvador har bestämt sig för att utrota gängen i Haiti.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New war on Haiti’s gangs after kidnapping: “Notorious”",
+        "summary": "The president of El Salvador has decided to wipe out the gangs in Haiti."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "810d40cc30f0",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/pMLBeo/nytt-krig-mot-haitis-gang-efter-kidnappning-okand",
+      "guid": "https://www.aftonbladet.se/nyheter/a/pMLBeo/nytt-krig-mot-haitis-gang-efter-kidnappning-okand?utm_medium=rss",
+      "published_at": "2026-11-16T05:45:11+01:00",
+      "fetched_at": "2026-11-16T06:01:12+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/fc4194bf-1720-3147-9cea-b44af4cca929?format=auto&s=a31a539c764d3f18d0dd1359d05fa06f03b8323b&w=1000",
+      "sv": {
+        "title": "Nytt krig mot Haitis gäng efter kidnappning: ”Ökänd”",
+        "summary": "Presidenten i El Salvador har bestämt sig för att utrota gängen i Haiti.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New war on Haiti’s gangs after kidnapping: “Notorious”",
+        "summary": "The president of El Salvador has decided to wipe out the gangs in Haiti."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
     {
       "id": "3151fc5cabf5",
       "schema_version": 1,
@@ -27,6 +467,86 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T05:45:47+01:00"
+      }
+    },
+    {
+      "id": "cfcd4c8642b1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/bessent-nvidia-borde-rekrytera-ny-vd-externt",
+      "guid": "e47fb8b0-81fd-4952-9a1d-627057ea8aa6",
+      "published_at": "2026-11-16T05:45:00+01:00",
+      "fetched_at": "2026-11-16T06:01:14+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/87edd10d-bbb0-4b69-b33c-764a65a3ccd8.jpeg?width=600",
+      "sv": {
+        "title": "Bessent: Nvidia borde rekrytera ny vd externt",
+        "summary": "USA:s finansminister Scott Bessent tycker att Nvidia ska välja en ny vd utanför företaget efter Jensen Huangs avgång. Det sade han i en intervju med Fox News, skriver Reuters.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bessent: Nvidia should recruit new CEO externally",
+        "summary": "US finance minister Scott Bessent thinks Nvidia should choose a new CEO from outside the company after Jensen Huang’s departure. He said this in an interview with Fox News, writes Reuters."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "e33e9b364e65",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/lagre-bnp-tillvaxt-an-vantat-i-japan",
+      "guid": "0a36cf74-6be7-4f8f-84a5-5ddeae292711",
+      "published_at": "2026-11-16T05:43:00+01:00",
+      "fetched_at": "2026-11-16T06:01:14+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Lägre BNP-tillväxt än väntat i Japan",
+        "summary": "Japans BNP var oförändrat under tredje kvartalet jämfört med föregående kvartal, motsvarande en nedgång med 0,1 procent i beräknad årstakt, enligt preliminär statistik.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lower GDP growth than expected in Japan",
+        "summary": "Japan’s GDP was unchanged in the third quarter compared with the previous quarter, corresponding to a decline of 0.1 percent at an annualised rate, according to preliminary statistics."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "1abee10d8288",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/nya-inkassoarenden-foll-i-oktober",
+      "guid": "54059bcf-e5a9-46b0-8707-8552f84e9cee",
+      "published_at": "2026-11-16T05:41:09+01:00",
+      "fetched_at": "2026-11-16T06:01:14+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/24d2c7ba-52db-4e6b-8d09-52353cbc0976.jpg?width=600",
+      "sv": {
+        "title": "Nya inkassoärenden föll i oktober",
+        "summary": "Mitt under höstmörkret kommer en ljusglimt från hushållen. Antalet inkassoärenden sjunker.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New debt collection cases fell in October",
+        "summary": "In the middle of the autumn darkness comes a glimmer of light from households. The number of debt collection cases is falling."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
       }
     },
     {
@@ -4921,484 +5441,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T17:01:25+01:00"
-      }
-    },
-    {
-      "id": "0662824163b6",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/lista-de-kan-ta-over-som-vd-for-nvidia-efter-jensen-huang",
-      "guid": "https://www.svt.se/nyheter/utrikes/lista-de-kan-ta-over-som-vd-for-nvidia-efter-jensen-huang",
-      "published_at": "2026-11-15T16:48:40+01:00",
-      "fetched_at": "2026-11-15T17:01:06+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Lista: De kan ta över som vd för Nvidia efter Jensen Huang",
-        "summary": "Ett av världens mest eftertraktade jobb står tomt. Efter den tidigare vd:n Jensen Huangs otrohetsaffärer söker jättebolaget Nvidia hans efterträdare, och bland de tänkbara kandidaterna finns både toppingenjörer och arvtagare.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "List: Who could take over as CEO of Nvidia after Jensen Huang",
-        "summary": "One of the world's most coveted jobs is vacant. After former CEO Jensen Huang's infidelity affairs, the tech giant Nvidia is looking for his successor, and among the possible candidates are both top engineers and heirs."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T17:01:25+01:00"
-      }
-    },
-    {
-      "id": "e11955708b58",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/v-politiker-i-skarholmen-utan-vanstern-blir-det-tido-light",
-      "guid": "https://www.svt.se/nyheter/inrikes/v-politiker-i-skarholmen-utan-vanstern-blir-det-tido-light",
-      "published_at": "2026-11-15T16:45:16+01:00",
-      "fetched_at": "2026-11-15T17:01:06+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "V-politiker i Skärholmen: ”Utan vänstern blir det Tidö light”",
-        "summary": "Allt ifrån popstjärnan Robyn till höga fackliga företrädare vill att vänstern ska backa från sitt krav på att sitta i regering. Men partiet håller fast vid sin ståndpunkt. – Utan Vänsterpartiet blir det inte vänsterpolitik.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Left Party politician in Skärholmen: “Without the left it becomes Tidö light”",
-        "summary": "Everyone from pop star Robyn to senior union figures wants the Left Party to back down from its demand to sit in government. But the party sticks to its position. “Without the Left Party, it won't be left-wing policy.”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T17:01:25+01:00"
-      }
-    },
-    {
-      "id": "157a2d013ec9",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/yz3R4g/det-kravs-stabila-regler-i-energipolitiken-skriver-fack-och-arbetsgivare-inom-industrin",
-      "guid": "https://www.svd.se/a/yz3R4g/det-kravs-stabila-regler-i-energipolitiken-skriver-fack-och-arbetsgivare-inom-industrin?utm_medium=rss",
-      "published_at": "2026-11-15T16:45:00+01:00",
-      "fetched_at": "2026-11-15T17:01:08+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/a9d99676-d2a9-38ea-887a-c1ee0109d798?format=auto&s=5372651a4f20587b4b422bcd7c582397c5feb2b1&w=1000",
-      "sv": {
-        "title": "”Det krävs stabila regler i energipolitiken”",
-        "summary": "Sverige har haft svårt att skapa den långsiktighet som krävs i energi­politiken.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "“Stable rules are needed in energy policy”",
-        "summary": "Sweden has had difficulty creating the long-term stability that energy policy requires."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T17:01:25+01:00"
-      }
-    },
-    {
-      "id": "7123c93e5f09",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/estland-stanger-gransen-mot-ryssland",
-      "guid": "755e1c52-bca4-4b09-928a-a958cba19fa3",
-      "published_at": "2026-11-15T16:43:19+01:00",
-      "fetched_at": "2026-11-15T16:45:45+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Estland stänger gränsen mot Ryssland",
-        "summary": "Estland aviserar att landet den 1 december kommer att stänga samtliga gränsövergångar till Ryssland, skriver landets utrikesminister Margus Tsahkna på X.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estonia to close border with Russia",
-        "summary": "Estonia announces that the country will close all border crossings to Russia on 1 December, says Foreign Minister Margus Tsahkna on X."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:45:49+01:00"
-      }
-    },
-    {
-      "id": "941127657d92",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/inifran-cs-odesvecka-sa-var--de-hemliga-forhandlingarna",
-      "guid": "https://www.expressen.se/nyheter/politik/inifran-cs-odesvecka-sa-var--de-hemliga-forhandlingarna/",
-      "published_at": "2026-11-15T16:41:52+01:00",
-      "fetched_at": "2026-11-15T16:45:43+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Inifrån C:s ödesvecka – så var de hemliga förhandlingarna",
-        "summary": "Regeringsbildningens ödesvecka står inför ett avgörande – när Centerpartiet väljer väg. Tre tunga politiker har funnits vid Elisabeth Thand Ringqvists sida under den gångna veckans förhandlingar. Expressen kan nu avslöja vilka som suttit med i de hemliga rummen för de rödgröna partierna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Inside the Centre Party's fateful week – how the secret negotiations unfolded",
-        "summary": "The government formation's fateful week faces a decisive moment – when the Centre Party chooses its path. Three heavyweight politicians have been at Elisabeth Thand Ringqvist's side during last week's negotiations. Expressen can now reveal who has sat in the secret rooms for the red-green parties."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:45:49+01:00"
-      }
-    },
-    {
-      "id": "01c8042c8c79",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/estland-stanger-gransen-mot-ryssland",
-      "guid": "c1f12052-c7e6-48fb-aec5-c86429d34954",
-      "published_at": "2026-11-15T16:36:34+01:00",
-      "fetched_at": "2026-11-15T16:45:43+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/52f8f1f5-df88-4c72-ab81-ed228748a5e2.jpeg?width=600",
-      "sv": {
-        "title": "Estland stänger gränsen mot Ryssland",
-        "summary": "Estland kommer den 1 december att stänga samtliga gränsövergångar till Ryssland. Det skriver landets utrikesminister Margus Tsahkna på X.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estonia to close border with Russia",
-        "summary": "Estonia will close all border crossings to Russia on 1 December. This is according to Foreign Minister Margus Tsahkna on X."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:45:49+01:00"
-      }
-    },
-    {
-      "id": "6380822e3699",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341276",
-      "guid": "rss:sr.se/article/9341276",
-      "published_at": "2026-11-15T16:32:00+01:00",
-      "fetched_at": "2026-11-15T16:45:40+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Estland stänger gränsen mot Ryssland efter uppgifter om attentatsförsök",
-        "summary": "Estland kommer att stänga alla gränsövergångar mot Ryssland från och med 1 december, meddelar landets utrikesminister. Anledningen uppges vara ett attentatsförsök som ska ha varit riktat mot ett företag inom försvarsindustrin.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Estonia to close border with Russia after reports of attempted attack",
-        "summary": "Estonia will close all border crossings with Russia from 1 December, the foreign minister announces. The reason given is an attempted attack reportedly aimed at a company in the defence industry."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:45:49+01:00"
-      }
-    },
-    {
-      "id": "9aa29756e383",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/vill-du-ha-kvar-damallsvenskan-da-ar-det-dags-att-ga-pa-match",
-      "guid": "3267f79e-bd49-40d3-b86f-897692a0f3f9",
-      "published_at": "2026-11-15T16:29:37+01:00",
-      "fetched_at": "2026-11-15T16:30:56+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/a34b2337-3203-45cf-aa66-04784d55cd0b.jpeg?width=600",
-      "sv": {
-        "title": "Vill du ha kvar damallsvenskan? Då är det dags att gå på match",
-        "summary": "Malmö FF tappade den här säsongen mark till den allsvenska toppduon Häcken och Hammarby. Och FC Rosengård tvingas till kvalspel. Det var inte alls så här det var tänkt att bli. Men allt överskuggas av att hela damallsvenskan håller på att falla sönder. Och läget är akut.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Want to keep the women's Allsvenskan? Then it's time to go to the match",
-        "summary": "Malmö FF lost ground this season to the top Allsvenskan duo Häcken and Hammarby. And FC Rosengård is forced into play-offs. It was not at all how it was meant to be. But everything is overshadowed by the whole women's Allsvenskan falling apart. And the situation is acute."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:31:03+01:00"
-      }
-    },
-    {
-      "id": "9a274c755f04",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/6Pj32e/estland-stanger-gransen-mot-ryssland",
-      "guid": "https://www.svd.se/a/6Pj32e/estland-stanger-gransen-mot-ryssland?utm_medium=rss",
-      "published_at": "2026-11-15T16:26:48+01:00",
-      "fetched_at": "2026-11-15T16:30:54+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Estland stänger gränsen mot Ryssland",
-        "summary": "Estland aviserar att landet den 1 december kommer att stänga samtliga gränsövergångar till…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estonia closes border with Russia",
-        "summary": "Estonia announces that on 1 December the country will close all border crossings to…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:31:03+01:00"
-      }
-    },
-    {
-      "id": "3c5f3b80d3a5",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/lMAwdL/estland-stanger-gransen-mot-ryssland",
-      "guid": "https://www.aftonbladet.se/nyheter/a/lMAwdL/estland-stanger-gransen-mot-ryssland?utm_medium=rss",
-      "published_at": "2026-11-15T16:26:47+01:00",
-      "fetched_at": "2026-11-15T16:30:54+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Estland stänger gränsen mot Ryssland",
-        "summary": "Estland aviserar att landet den 1 december kommer att stänga samtliga gränsövergångar till…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estonia closes border with Russia",
-        "summary": "Estonia announces that on 1 December the country will close all border crossings to…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:31:03+01:00"
-      }
-    },
-    {
-      "id": "4b40436001ab",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/7P03A8/oppnar-for-andring-av-brittisk-samtyckeslag-efter-sexskandalerna",
-      "guid": "https://www.svd.se/a/7P03A8/oppnar-for-andring-av-brittisk-samtyckeslag-efter-sexskandalerna?utm_medium=rss",
-      "published_at": "2026-11-15T16:22:27+01:00",
-      "fetched_at": "2026-11-15T16:30:54+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/b62bd97e-fabc-356c-982c-3f8221cff337?format=auto&s=3fa85aa5b8adf2263760c612a1943e9af596c9c1&w=1000",
-      "sv": {
-        "title": "Efter skandalerna – vill se lagändring",
-        "summary": "Två stora skandaler om sexuella övergrepp skakar Storbritannien – nu ökar pressen ökar på regeringen…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the scandals – wants law change",
-        "summary": "Two major scandals over sexual abuse are shaking Britain – now the pressure on the government is increasing…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:31:03+01:00"
-      }
-    },
-    {
-      "id": "30122c2f2d7b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79937",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79937&utm_medium=rss",
-      "published_at": "2026-11-15T16:15:42+01:00",
-      "fetched_at": "2026-11-15T16:30:54+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Estland stänger gränsen mot Ryssland"
-      },
-      "en": {
-        "title": "Estonia closes border with Russia"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:31:03+01:00"
-      }
-    },
-    {
-      "id": "1f5f114e13f0",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=99494dc8-779a-4c82-8c81-50cd5f6ade14",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=99494dc8-779a-4c82-8c81-50cd5f6ade14",
-      "published_at": "2026-11-15T16:15:36+01:00",
-      "fetched_at": "2026-11-15T16:30:54+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Estland stänger gränsövergång mot Ryssland",
-        "summary": "Estland stänger gräns • Ministern: Ryssland beordrat sabotageattack",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estonia closes border crossing with Russia",
-        "summary": "Estonia closes border • Minister: Russia ordered sabotage attack"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:31:03+01:00"
-      }
-    },
-    {
-      "id": "3219a49f57cb",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/bk-hacken-ff/har-lyfter-hacken-sm-pokalen-efter-segern-i-sista-seriematchen.2aa1d6f0-aeeb-570d-aa1f-b913784a9cff",
-      "guid": "2aa1d6f0-aeeb-570d-aa1f-b913784a9cff",
-      "published_at": "2026-11-15T16:13:50+01:00",
-      "fetched_at": "2026-11-15T16:30:55+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "BK Häcken FF",
-        "Tagg: Damallsvenskan",
-        "Tagg: BK Häcken FF",
-        "Tagg: Fokus sport"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/e1fe0cf4-bd3a-334d-8797-b33f6e4c6ba8",
-      "sv": {
-        "title": "Här lyfter Häcken pokalen mot skyn inför sina fans",
-        "summary": "SM-guldvinnarna firades i säsongens sista damallsvenska match.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here Häcken lifts the trophy toward the sky in front of its fans",
-        "summary": "The SM gold winners were celebrated in the season's last women's Allsvenskan match."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:31:03+01:00"
-      }
-    },
-    {
-      "id": "8302b00f9e43",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/estlands-stanger-gransen-mot-ryssland-i-december",
-      "guid": "https://www.svt.se/nyheter/utrikes/estlands-stanger-gransen-mot-ryssland-i-december",
-      "published_at": "2026-11-15T16:13:37+01:00",
-      "fetched_at": "2026-11-15T16:15:36+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Estland stänger gränsen mot Ryssland i december",
-        "summary": "Estland stänger alla gränsövergångar mot Ryssland den första december, rapporterar Reuters. Anledningen är ett ryskt sabotage mot ett estniskt försvarsföretag.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estonia closes border with Russia in December",
-        "summary": "Estonia will close all border crossings with Russia on 1 December, Reuters reports. The reason is Russian sabotage against an Estonian defence company."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:15:44+01:00"
-      }
-    },
-    {
-      "id": "f3fb73b04ba9",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/darfor-ar-centerpartiets-lage-sa-knepigt",
-      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/darfor-ar-centerpartiets-lage-sa-knepigt/",
-      "published_at": "2026-11-15T16:11:52+01:00",
-      "fetched_at": "2026-11-15T16:15:40+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Därför är Centerpartiets läge så knepigt",
-        "summary": "Hur C än vänder sig har de rumpan bak och en röd linje framför tårna. De kan inte ens gå i opposition utan att det blir problem.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is why the Centre Party's situation is so tricky",
-        "summary": "Whichever way C turns, they are caught between a rock and a hard place, with a red line in front of their toes. They cannot even go into opposition without it causing problems."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:15:44+01:00"
-      }
-    },
-    {
-      "id": "607c1cc3f834",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/qOLPqE/estland-stanger-gransen-mot-ryssland",
-      "guid": "https://www.aftonbladet.se/nyheter/a/qOLPqE/estland-stanger-gransen-mot-ryssland?utm_medium=rss",
-      "published_at": "2026-11-15T16:11:15+01:00",
-      "fetched_at": "2026-11-15T16:45:42+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/b0510a1a-d23d-383d-9c67-70756b0de840?format=auto&s=4c73dc27e73274a19f000faf7c1bb62efbe4f671&w=1000",
-      "sv": {
-        "title": "Estland stänger gränsen mot Ryssland",
-        "summary": "Misstänks ligga bakom attack",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estonia to close border with Russia",
-        "summary": "Suspected of being behind attack"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:45:49+01:00"
-      }
-    },
-    {
-      "id": "a50e793361da",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/KLvE65/somnmedicin-propavan-slut-propiomazin-orifarm-hotad",
-      "guid": "https://www.aftonbladet.se/nyheter/a/KLvE65/somnmedicin-propavan-slut-propiomazin-orifarm-hotad?utm_medium=rss",
-      "published_at": "2026-11-15T16:00:10+01:00",
-      "fetched_at": "2026-11-15T16:01:11+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/9d6e2e66-2f66-341f-9581-26713059a792?format=auto&s=ddf18528b6d3345b269d6f4bc74b0cc659084271&w=1000",
-      "sv": {
-        "title": "Sömnmedicinerna slut – hotas av ny brist: ”Finns absolut en risk”",
-        "summary": "Påfyllning hotas",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sleeping pill medicines run out – threatened by new shortage: \"There is absolutely a risk\"",
-        "summary": "Restocking is threatened"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:01:23+01:00"
       }
     }
   ]

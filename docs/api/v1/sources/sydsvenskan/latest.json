@@ -1,7 +1,111 @@
 {
-  "generated_at": "2026-11-16T05:45:47+01:00",
-  "count": 113,
+  "generated_at": "2026-11-16T06:01:32+01:00",
+  "count": 117,
   "items": [
+    {
+      "id": "ee7b4af77890",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/tuffare-ar-vantar-hushallen-bygg-krockkuddar",
+      "guid": "f284325c-3c8b-4d6b-99a7-aebaa193ae80",
+      "published_at": "2026-11-16T06:00:17+01:00",
+      "fetched_at": "2026-11-16T06:01:15+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/334ac1e9-601b-486e-83b6-5fdbfee80830.jpg?width=600",
+      "sv": {
+        "title": "Tuffare år väntar hushållen – ”bygg krockkuddar”",
+        "summary": "Dyrare bensin och el, dessutom högre boräntor. Efter några år av återhämtning kan vanliga hushåll räkna med en tusenlapp i högre månadskostnader nästa år. – Det är dags att börja bygga en del krockkuddar inför nästa år, säger Américo Fernández, privatekonom på SEB.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tougher year ahead for households – “build airbags”",
+        "summary": "Higher petrol and electricity prices, plus higher mortgage rates. After a few years of recovery, ordinary households can expect SEK 1,000 more in monthly costs next year. – It is time to start building some airbags for next year, says Américo Fernández, private economist at SEB."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "f628ba17c1e4",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/inpa-livet/dramatisk-okning-av-psykisk-ohalsa-bland-skanska-tonarsflickor",
+      "guid": "ae68e843-edc1-445d-8194-533c20c5ae6f",
+      "published_at": "2026-11-16T06:00:15+01:00",
+      "fetched_at": "2026-11-16T06:01:15+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/36a053b5-3fa7-43ad-b98c-42d368f06c88.jpeg?width=600",
+      "sv": {
+        "title": "Dramatisk ökning av psykisk ohälsa bland skånska tonårsflickor",
+        "summary": "Det har länge larmats om ökad psykisk ohälsa bland unga tjejer. Enligt en studie från Lunds universitet fortsätter den negativa utvecklingen. När tusen skånska högstadieungdomar fick svara på frågor kring sitt mående visade sig nästan var tredje tonårsflicka ha problem.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Dramatic rise in mental ill-health among Skåne teenage girls",
+        "summary": "Alarm has long been raised about rising mental ill-health among young girls. According to a study from Lund University, the negative trend continues. When a thousand Skåne lower-secondary pupils were asked about their well-being, almost one in three teenage girls was found to have problems."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "2dbc79c78de5",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/skapar-kaos-pa-boende-hotar-tanda-eld-och-jagar-personalen",
+      "guid": "51e1b59e-2182-4dfb-b077-01f47c02bbcd",
+      "published_at": "2026-11-16T06:00:00+01:00",
+      "fetched_at": "2026-11-16T06:01:15+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/d9a11255-391a-4b32-897e-11f6bb944e21.jpeg?width=600",
+      "sv": {
+        "title": "”Skapar kaos” på boende – hotar tända eld och jagar personalen",
+        "summary": "En kvinna med psykiska problem försöker tvinga sig bort från ett LSS-boende där hon placerats mot sin vilja. Hon attackerar personalen och hotar att bränna ner byggnaden. – Hon vill inte vara kvar en enda dag till, säger hennes syster.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Creates chaos” at home – threatens to set fire and chases staff",
+        "summary": "A woman with mental health problems tries to force her way out of an LSS home where she was placed against her will. She attacks staff and threatens to burn down the building. – She does not want to stay one more day, says her sister."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "08ec63b77ff5",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/mexikos-drogkung-ar-dod",
+      "guid": "d505aed3-72e1-41d4-a737-3508b4ea1f86",
+      "published_at": "2026-11-16T05:59:56+01:00",
+      "fetched_at": "2026-11-16T06:01:15+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Mexikos drogkung är död"
+      },
+      "en": {
+        "title": "Mexico’s drug kingpin is dead"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
     {
       "id": "3151fc5cabf5",
       "schema_version": 1,
