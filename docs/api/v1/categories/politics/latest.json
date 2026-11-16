@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-16T22:45:50+01:00",
+  "generated_at": "2026-11-16T23:01:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "880818f163b1",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4P7d7wkFXsAWM73dJ8Y90c/nya-attacken-mot-c-boerjar-naestan-undra-om-det-aer-en-bluff",
+      "guid": "4P7d7wkFXsAWM73dJ8Y90c",
+      "published_at": "2026-11-16T22:54:57+01:00",
+      "fetched_at": "2026-11-16T23:01:07+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Nya attacken mot C: ”Börjar nästan undra om det är en bluff”",
+        "summary": "V-toppen Ida Gabrielsson: ”Lika stabilt som att hålla sig i sitt duschdraperi”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New attack on the Centre Party: \"Starting to wonder if it's a bluff\"",
+        "summary": "Left Party top figure Ida Gabrielsson: \"As stable as holding on to your shower curtain\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T23:01:13+01:00"
+      }
+    },
+    {
+      "id": "40382ee3b5c7",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/rasmus-giertz-sd-svanger-stannar-i-riksdagen",
+      "guid": "https://www.expressen.se/nyheter/politik/rasmus-giertz-sd-svanger-stannar-i-riksdagen/",
+      "published_at": "2026-11-16T22:52:40+01:00",
+      "fetched_at": "2026-11-16T23:01:07+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Rasmus Giertz (SD) svänger – stannar i riksdagen",
+        "summary": "I en DN-artikel anklagas riksdagsledamoten Rasmus Giertz (SD) för sexuella övertramp mot kvinnor i partiets ungdomsförbund. Giertz nekar till anklagelserna, men sa efter publiceringen att han skulle lämna riksdagen. Nu har han ändrat sig. SD har inlett ett personärende mot honom.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Rasmus Giertz (SD) changes course – stays in the Riksdag",
+        "summary": "A DN article accuses Riksdag member Rasmus Giertz (SD) of sexual misconduct towards women in the party's youth league. Giertz denies the allegations, but said after publication that he would leave the Riksdag. Now he has changed his mind. The Sweden Democrats have opened a personnel case against him."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T23:01:13+01:00"
+      }
+    },
     {
       "id": "be1467e7e9ae",
       "schema_version": 1,
@@ -5341,61 +5396,6 @@
       "en": {
         "title": "L source: Kristersson government will need to cooperate with SD",
         "summary": "Kristersson's package to the Centre Party has been a joint effort between M, KD and L. The hardest knot is not policy but what contacts with SD should look like in the coming term. – A minority government will need to talk to SD, says an L source with good insight."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "34beea3ec020",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/22xsNbYnBQ5hp1gsRfqpGm/huvudpersonernas-haelsningar-efter-totalpaketens-deadline",
-      "guid": "22xsNbYnBQ5hp1gsRfqpGm",
-      "published_at": "2026-11-13T18:23:36+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Huvudpersonernas hälsningar – efter ”totalpaketens” deadline",
-        "summary": "”Kommer gå igenom förslagen noggrant”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The main players' greetings – after the 'total packages' deadline",
-        "summary": "'Will go through the proposals carefully'"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "488bde2c7101",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/varnar-for-intern-splittring-i-c-vore-forodande-att-slappa-in",
-      "guid": "https://www.svt.se/nyheter/inrikes/varnar-for-intern-splittring-i-c-vore-forodande-att-slappa-in",
-      "published_at": "2026-11-13T17:52:34+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Varnar för intern splittring i C: ”Vore förödande att släppa in”",
-        "summary": "C-ledaren Elisabeth Thand Ringqvist har tagit emot totalpaketen från S och M. Nu står hennes parti inför ett vägval och flera personer varnar för intern splittring. – Det vore förödande att släppa in V, säger en C-källa.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Warns of internal split in C: 'Would be devastating to let in'",
-        "summary": "C leader Elisabeth Thand Ringqvist has received the total packages from S and M. Now her party faces a crossroads and several people warn of an internal split. – It would be devastating to let V in, says a C source."
       },
       "translation": {
         "status": "done",

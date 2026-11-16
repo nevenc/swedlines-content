@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-16T22:45:50+01:00",
+  "generated_at": "2026-11-16T23:01:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "188b95a168fd",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/tesla-mangmiljardsatsar-i-tyskland",
+      "guid": "c24601a0-dce5-4086-bff2-ec9f78e98e25",
+      "published_at": "2026-11-16T22:47:23+01:00",
+      "fetched_at": "2026-11-16T23:01:09+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/dbf98267-62a7-4c6d-a117-36683c8785d8.jpg?width=600",
+      "sv": {
+        "title": "Tesla mångmiljardsatsar i Tyskland"
+      },
+      "en": {
+        "title": "Tesla makes multi-billion investment in Germany"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T23:01:13+01:00"
+      }
+    },
+    {
+      "id": "d4646378e5b6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/transfer-group-far-vite-fran-ngm",
+      "guid": "d0ca997a-f9c2-41e0-996d-3fa2cbf1e990",
+      "published_at": "2026-11-16T22:42:24+01:00",
+      "fetched_at": "2026-11-16T23:01:08+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Transfer Group får vite från NGM",
+        "summary": "Transfer Group får betala ett vite på 750.000 kronor efter brister i hanteringen av insiderinformation, enligt ett beslut från NGM:s disciplinnämnd.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Transfer Group fined by NGM",
+        "summary": "Transfer Group must pay a fine of SEK 750,000 after shortcomings in its handling of insider information, according to a decision by NGM's disciplinary committee."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T23:01:13+01:00"
+      }
+    },
     {
       "id": "ace5b0a5213c",
       "schema_version": 1,
@@ -5287,59 +5337,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T05:45:47+01:00"
-      }
-    },
-    {
-      "id": "91e54c4703b9",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/lagre-forsaljning-an-vantat-i-kinas-detaljhandel",
-      "guid": "2ac7a927-4b28-44b5-bcad-d36125708906",
-      "published_at": "2026-11-16T05:32:02+01:00",
-      "fetched_at": "2026-11-16T05:45:38+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Lägre försäljning än väntat i Kinas detaljhandel",
-        "summary": "Försäljningen i Kinas detaljhandel steg 0,4 procent i oktober, jämfört med motsvarande period föregående år. Det rapporterar det nationella statistikkontoret NBS.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "China's retail sales weaker than expected",
-        "summary": "Retail sales in China rose 0.4 percent in October compared with the same period a year earlier, according to the National Bureau of Statistics (NBS)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T05:45:47+01:00"
-      }
-    },
-    {
-      "id": "0aad9b765832",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/surt-pa-asienborserna-gJWUs",
-      "guid": "5b806234-7209-4e87-a361-1ad3535b08d4",
-      "published_at": "2026-11-16T05:18:47+01:00",
-      "fetched_at": "2026-11-16T05:30:59+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/96050622-e652-4453-9337-1f251942204d.jpg?width=600",
-      "sv": {
-        "title": "Surt på Asienbörserna",
-        "summary": "Det går mestadels nedåt på börserna i Asien i den inledande måndagshandeln.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Asian stocks down",
-        "summary": "Stock markets in Asia are mostly falling in early Monday trading."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T05:31:03+01:00"
       }
     }
   ]
