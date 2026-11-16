@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-16T21:15:57+01:00",
+  "generated_at": "2026-11-16T21:31:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "302fb3b3458e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/dollarn-har-aterhamtat-tappet-fran-tullsmockan",
+      "guid": "154370d3-2c73-4872-8796-3822a1f4fd25",
+      "published_at": "2026-11-16T21:19:31+01:00",
+      "fetched_at": "2026-11-16T21:31:00+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Dollarn har återhämtat tappet från tullsmockan",
+        "summary": "Dollarn har återhämtat hela nedgången efter president Donald Trumps tullbesked i april 2025. En stark amerikansk ekonomi, högre räntor och AI-boomen har stärkt valutans attraktionskraft. Det skriver Bloomberg News.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The dollar has recovered its losses from the tariff shock",
+        "summary": "The dollar has recovered the entire decline following President Donald Trump's tariff announcement in April 2025. A strong American economy, higher interest rates and the AI boom have strengthened the currency's appeal. Bloomberg News reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T21:31:04+01:00"
+      }
+    },
     {
       "id": "e6eceb8f7440",
       "schema_version": 1,
@@ -5315,33 +5341,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T22:15:59+01:00"
-      }
-    },
-    {
-      "id": "925eb7c54351",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/p13K2R/planer-pa-ai-center-i-tova-utanfor-sundsvall-mots-av-protester",
-      "guid": "https://www.svd.se/a/p13K2R/planer-pa-ai-center-i-tova-utanfor-sundsvall-mots-av-protester?utm_medium=rss",
-      "published_at": "2026-11-15T21:30:00+01:00",
-      "fetched_at": "2026-11-15T21:32:20+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/7c63df6f-4cac-3384-a9bb-088e673bc38c?format=auto&s=70f7a2d58c23f2b864cc44b3bf348f77d806df53&w=1000",
-      "sv": {
-        "title": "Plan på AI-center i byn: ”Kan inte ha kvar djuren”",
-        "summary": "I byn Töva kan grannarna tvingas vänja sig vid en ny verklighet när ett AI-center planeras på den…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Plan for AI centre in village: \"Can't keep the animals\"",
-        "summary": "In the village of Töva, neighbours may have to get used to a new reality as an AI centre is planned on the…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T21:32:24+01:00"
       }
     }
   ]
