@@ -67,13 +67,15 @@
   .notice { margin: 12px 0 0; padding: 8px 12px; border-left: 3px solid var(--yellow); background: var(--notice); border-radius: 0 6px 6px 0; font-size: 13px; }
   h2 { font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 22px 0 6px; font-weight: 700; }
   ul { list-style: none; margin: 0; padding: 0; }
-  li { display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; padding: 7px 8px; margin: 0 -8px; border-radius: 6px; align-items: baseline; }
+  li { display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; padding: 9px 8px; margin: 0 -8px; border-radius: 6px; align-items: baseline; }
+  li > span:first-child { min-width: 0; }
   li:hover { background: var(--hover); }
   li a { color: var(--fg); text-decoration: none; font-weight: 600; }
   li a:hover { text-decoration: underline; }
   .meta { color: var(--muted); font-size: 12px; white-space: nowrap; font-variant-numeric: tabular-nums; }
   .src { font-weight: 700; color: var(--blue-ink); }
   .orig { grid-column: 1 / -1; color: var(--muted); font-size: 13px; font-weight: 500; }
+  .sum { grid-column: 1 / -1; margin: -2px 0 0; color: var(--muted); font-size: 14px; font-weight: 400; line-height: 1.45; }
   .report { font-size: 11px; color: var(--muted); text-decoration: none; margin-left: 8px; white-space: nowrap; opacity: 0.85; }
   .report::before { content: "⚑ "; }
   .report:hover, .report:focus-visible { color: var(--blue-ink); text-decoration: underline; opacity: 1; }
@@ -317,8 +319,11 @@
         const orig = lang === "both" && en
           ? `<div class="orig" lang="sv">${esc(a.sv.title)} <a class="report" lang="${ui()}" href="${reportHref(a)}">${t("report_link")}</a></div>`
           : "";
+        // Publisher teaser (sv.summary from the feed, en.summary machine-translated). Items without one render as before.
+        const summary = lang === "sv" ? a.sv.summary : ((a.en && a.en.summary) || a.sv.summary);
+        const sum = summary ? `<p class="sum" lang="${lang !== "sv" && a.en && a.en.summary ? "en" : "sv"}">${esc(summary)}</p>` : "";
         html += `<li><span><a href="${esc(a.url)}" rel="noopener" lang="${lang === "sv" || !en ? "sv" : "en"}" data-id="${esc(a.id)}" data-source="${esc(a.source)}">${esc(primary)}</a>${tag}</span>` +
-                `<span class="meta"><span class="src">${esc(sources[a.source] || a.source)}</span> · ${rel(new Date(a.published_at), now)}</span>${orig}</li>`;
+                `<span class="meta"><span class="src">${esc(sources[a.source] || a.source)}</span> · ${rel(new Date(a.published_at), now)}</span>${sum}${orig}</li>`;
       }
       html += "</ul>";
     }

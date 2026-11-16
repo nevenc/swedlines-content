@@ -1,7 +1,140 @@
 {
-  "generated_at": "2026-11-16T14:45:57+01:00",
+  "generated_at": "2026-11-16T14:59:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cf5b3150c09a",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/ARdRBn/atal-for-ronningemord-tidigast-i-december",
+      "guid": "https://www.aftonbladet.se/nyheter/a/ARdRBn/atal-for-ronningemord-tidigast-i-december?utm_medium=rss",
+      "published_at": "2026-11-16T14:56:19+01:00",
+      "fetched_at": "2026-11-16T14:59:07+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/138fa061-8013-39cd-9801-403973f29054?format=auto&s=035aa7cd98c7360e99aa691b12482c7533924042&w=1000",
+      "sv": {
+        "title": "Åtal för Rönningemord tidigast i december",
+        "summary": "Åtal efter det uppmärksammade mordet på en kvinna i Rönninge i julas kommer tidigast den 1…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Charges for Rönninge murder expected at the earliest in December",
+        "summary": "Charges following the high-profile murder of a woman in Rönninge last Christmas will come no earlier than 1…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:59:18+01:00"
+      }
+    },
+    {
+      "id": "8df1d93c0fa1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/usa-infor-tillfalliga-begransningar-for-ai-chip-i-vissa-lander",
+      "guid": "aae50dfe-e256-4bdc-9bea-24dea015540a",
+      "published_at": "2026-11-16T14:55:57+01:00",
+      "fetched_at": "2026-11-16T14:59:08+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "USA inför tillfälliga begränsningar för AI-chip i vissa länder",
+        "summary": "USA:s handelsdepartement har utfärdat en tillfällig regel för att begränsa fjärråtkomst till avancerade AI-chip och servrar från vissa länder, till följd av den ökade granskningen av halvledarexporten efter en påstådd spionageskandal där Nvidia var iblandat. Det rapporterar Bloomberg News.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "US introduces temporary restrictions on AI chips in certain countries",
+        "summary": "The US Department of Commerce has issued a temporary rule to restrict remote access to advanced AI chips and servers from certain countries, due to increased scrutiny of semiconductor exports after an alleged espionage scandal involving Nvidia. Bloomberg News reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:59:18+01:00"
+      }
+    },
+    {
+      "id": "5d0c815ceea8",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/uppsala/13-aring-korde-trimmad-elsparkcykel-mamma-doms",
+      "guid": "https://www.svt.se/nyheter/lokalt/uppsala/13-aring-korde-trimmad-elsparkcykel-mamma-doms",
+      "published_at": "2026-11-16T14:53:52+01:00",
+      "fetched_at": "2026-11-16T14:59:04+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "13-åring körde trimmad elsparkcykel – mamma döms",
+        "summary": "Polisen gasade upp i 50 km/h men kom ändå inte ikapp pojken på elsparkcykel. Efter att han kört mot rött i en korsning lyckades polisen få stopp honom. Nu döms pojkens mamma.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "13-year-old drove tuned e-scooter – mother sentenced",
+        "summary": "Police accelerated to 50 km/h but still could not catch up with the boy on the e-scooter. After he ran a red light at an intersection, police managed to stop him. Now the boy's mother is sentenced."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:59:18+01:00"
+      }
+    },
+    {
+      "id": "22dd760babea",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/skandalen-slar-mot-oppna-ai-system-kan-gynna-anthropic",
+      "guid": "b93e0166-81b5-4fc5-810e-f7baa5877f80",
+      "published_at": "2026-11-16T14:53:04+01:00",
+      "fetched_at": "2026-11-16T14:59:08+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/dfdb29f3-7836-4dba-9c93-2c1199779b69.jpeg?width=600",
+      "sv": {
+        "title": "Skandalen slår mot öppna AI-system – kan gynna Anthropic",
+        "summary": "Jensen Huangs sorti från Nvidia riskerar att bli ett bakslag för öppna AI-modeller. Det menar flera AI-experter samt Financial Times, som beskriver hur maktbalansen tippar tillbaka mot slutna system som Open AI och Anthropic, som noteras på Nasdaq New York på torsdag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Scandal hits open AI systems – may benefit Anthropic",
+        "summary": "Jensen Huang's departure from Nvidia risks being a setback for open AI models. That is the view of several AI experts and the Financial Times, which describes how the balance of power is tipping back towards closed systems such as Open AI and Anthropic, which is listed on Nasdaq New York on Thursday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:59:18+01:00"
+      }
+    },
+    {
+      "id": "92386ac68e29",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/usa-skarper-regler-for-ai-chip",
+      "guid": "1cfa8c6f-fd02-4a71-9e35-31642e7252c1",
+      "published_at": "2026-11-16T14:45:04+01:00",
+      "fetched_at": "2026-11-16T14:59:08+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/443e0645-3bb3-4b44-98d4-ae0551bfe82f.jpeg?width=600",
+      "sv": {
+        "title": "USA skärper regler för AI-chip",
+        "summary": "USA:s handelsdepartement har infört en tillfällig regel som begränsar möjligheten att få fjärråtkomst till avancerade AI-chip och servrar från vissa länder. Det rapporterar Bloomberg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "US tightens rules for AI chips",
+        "summary": "The US Department of Commerce has introduced a temporary rule restricting the possibility of remote access to advanced AI chips and servers from certain countries. Bloomberg reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:59:18+01:00"
+      }
+    },
     {
       "id": "b7d52bb45db1",
       "schema_version": 1,
@@ -5257,141 +5390,6 @@
       "en": {
         "title": "Stock of the week: Buying opportunity in forgotten stock",
         "summary": "Di analyst Mikael Olsson on the stock of the week."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:31:08+01:00"
-      }
-    },
-    {
-      "id": "ee419af11260",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/7P0779/atal-drojer-efter-fagerstadadet",
-      "guid": "https://www.aftonbladet.se/nyheter/a/7P0779/atal-drojer-efter-fagerstadadet?utm_medium=rss",
-      "published_at": "2026-11-16T09:15:16+01:00",
-      "fetched_at": "2026-11-16T09:30:58+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/65ae9ff5-4145-33b8-9e96-6fd8acd2bea2?format=auto&s=29da3840dfec4be48c0f746e01d73dffb45c51a3&w=1000",
-      "sv": {
-        "title": "Åtal dröjer efter Fagerstadådet",
-        "summary": "Åklagaren har begärt förlängd åtalstid efter skoldådet i Fagersta. Åtal ska nu vara väckt senast den…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Charges delayed after Fagersta shooting",
-        "summary": "The prosecutor has requested an extended charging period after the school shooting in Fagersta. Charges must now be brought no later than the…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:31:08+01:00"
-      }
-    },
-    {
-      "id": "3551b2cbdfb3",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/gasellfest-i-vastra-sverige-mindre-bolag-gor-upp-om-titeln",
-      "guid": "cb13228f-64e8-40b8-b937-01ea036930f9",
-      "published_at": "2026-11-16T09:13:22+01:00",
-      "fetched_at": "2026-11-16T09:30:59+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/836aa926-fe05-471f-9dff-0c598c28b4cb.jpeg?width=600",
-      "sv": {
-        "title": "Gasellfest i västra Sverige – mindre bolag gör upp om titeln",
-        "summary": "Torsdagen den 19 november avslöjas årets Gasellvinnare i västra Sverige. Här får du snart veta vilket bolag som utmärker sig i kategorin Mindre bolag.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Gazelle awards in western Sweden – smaller companies compete for the title",
-        "summary": "On Thursday 19 November, this year's Gazelle winners in western Sweden will be revealed. Here you will soon find out which company stands out in the Smaller Companies category."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:31:08+01:00"
-      }
-    },
-    {
-      "id": "294938247566",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/ratos-valde-bort-notering-salde-kvd-med-forlust",
-      "guid": "052d01a8-a8f5-4d38-b729-853b5d210b82",
-      "published_at": "2026-11-16T09:12:28+01:00",
-      "fetched_at": "2026-11-16T09:30:59+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/03bf39ab-31a2-454f-850b-aa59e6d0b2c3.jpeg?width=600",
-      "sv": {
-        "title": "Ratos valde bort notering – sålde Kvd med förlust",
-        "summary": "Efter 16 år som ägare säljer Ratos fordonsmarknadsplatsen Kvd till förlust, vilket bolaget är nöjt med. ”Vi utvärderade både en vanlig avyttring och en börsnotering”, säger vd Gustaf Salford till Di. Nu är fokus på att sälja de två övriga konsumentbolagen i portföljen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ratos chose not to list – sold Kvd at a loss",
-        "summary": "After 16 years as owner, Ratos is selling the vehicle marketplace Kvd at a loss, which the company is satisfied with. \"We evaluated both a regular sale and a stock market listing\", says CEO Gustaf Salford to Di. Now the focus is on selling the two other consumer companies in the portfolio."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:31:08+01:00"
-      }
-    },
-    {
-      "id": "fa614aef8b01",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/telia-och-nokia-planerar-ai-satsningar",
-      "guid": "5d7132d1-1e1e-4d43-91d2-882a5fd2ed86",
-      "published_at": "2026-11-16T09:11:50+01:00",
-      "fetched_at": "2026-11-16T09:15:42+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/9e6c2dcb-9078-47f3-aca2-a6eced520be6.jpg?width=600",
-      "sv": {
-        "title": "Telia och Nokia planerar AI-satsningar",
-        "summary": "Telia har tillsammans med fyra andra bolag bildat ett konsortium för att få bygga AI-datacenter, uppger mobiloperatören.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Telia and Nokia plan AI investments",
-        "summary": "Telia has formed a consortium with four other companies to be allowed to build AI data centres, the mobile operator reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:15:48+01:00"
-      }
-    },
-    {
-      "id": "ff7a342a4c3a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/snart-slut-for-rabatt-i-kollektivtrafiken",
-      "guid": "1871193a-29ed-42ab-a23d-1c9d2414e313",
-      "published_at": "2026-11-16T09:10:56+01:00",
-      "fetched_at": "2026-11-16T09:30:59+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/333ba79d-c0f3-402e-a5cc-37bf5a31668c.jpg?width=600",
-      "sv": {
-        "title": "Snart slut för rabatt i kollektivtrafiken",
-        "summary": "Planerade du att bunkra månadskort till halverat pris? Ledsen, men endast hos Västtrafik är det möjligt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Discount on public transport ending soon",
-        "summary": "Were you planning to stock up on monthly passes at half price? Sorry, but this is only possible with Västtrafik."
       },
       "translation": {
         "status": "done",
