@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-16T16:40:19+01:00",
+  "generated_at": "2026-11-16T16:45:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "823b21b78b4a",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/1vnoXG/europa-maste-ta-initiativet-mot-ryssland-skriver-statsvetare-per-ekman",
+      "guid": "https://www.svd.se/a/1vnoXG/europa-maste-ta-initiativet-mot-ryssland-skriver-statsvetare-per-ekman?utm_medium=rss",
+      "published_at": "2026-11-16T16:45:00+01:00",
+      "fetched_at": "2026-11-16T16:45:41+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/404e3eab-5366-398b-a4bb-23d462ae6a2a?format=auto&s=ddcf112437de40d422d35196bac4562c93e9bd9d&w=1000",
+      "sv": {
+        "title": "”Ett svagare Europa är en del av rysk strategi”",
+        "summary": "Ännu en krigsvinter stundar nu i Ukraina. Europa behöver sätta agendan för en europeisk…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”A weaker Europe is part of Russian strategy”",
+        "summary": "Another winter of war is now looming in Ukraine. Europe needs to set the agenda for a European…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:45:46+01:00"
+      }
+    },
+    {
+      "id": "0c47ca946bee",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/anna-lena-lauren-den-stangda-gransen-satter-punkt-for-estnisk-pragmatism",
+      "guid": "https://www.dn.se/varlden/anna-lena-lauren-den-stangda-gransen-satter-punkt-for-estnisk-pragmatism/",
+      "published_at": "2026-11-16T16:42:53+01:00",
+      "fetched_at": "2026-11-16T16:45:40+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/1f3cbeda-a48a-42c9-8610-870cffa223eb.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Anna-Lena Laurén: Den stängda gränsen sätter punkt för estnisk pragmatism",
+        "summary": "BERLIN Att Estland stänger sin gräns mot Ryssland är i sig inte förvånande. Det intressanta är att det tog så lång tid.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anna-Lena Laurén: The closed border marks the end of Estonian pragmatism",
+        "summary": "BERLIN That Estonia is closing its border with Russia is not surprising in itself. What is interesting is that it took so long."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:45:46+01:00"
+      }
+    },
     {
       "id": "2d048b74ff87",
       "schema_version": 1,
@@ -5303,61 +5357,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:32+01:00"
-      }
-    },
-    {
-      "id": "d65d93130b43",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/35bWlY0xHumFwQLvIoL8VM/kaellor-skickade-brev-om-miljardinvestering-timmar-innan-kaoset",
-      "guid": "35bWlY0xHumFwQLvIoL8VM",
-      "published_at": "2026-11-14T08:20:40+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Skickade brev om miljardinvestering – timmar innan kaoset",
-        "summary": "Efter det omfattande flygkaoset i USA uppges president Donald Trump vilja se miljardinvesteringar i landets flyginfrastruktur. Enligt CNN, med hänvisning till källor, ska Trump under fredagsmorgonen ha uppmanat kongressen att så snart som möjligt anta lagstiftning för att modernisera…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Sent letter on billion-dollar investment – hours before the chaos",
-        "summary": "Following the extensive flight chaos in the USA, President Donald Trump is reportedly wanting to see billion-dollar investments in the country's aviation infrastructure. According to CNN, citing sources, Trump is said to have urged Congress on Friday morning to pass legislation as soon as possible to modernise…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:42+01:00"
-      }
-    },
-    {
-      "id": "5e366a286a4f",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/tusentals-plan-var-i-luften-da-kraschade-systemet",
-      "guid": "https://www.expressen.se/nyheter/varlden/tusentals-plan-var-i-luften-da-kraschade-systemet/",
-      "published_at": "2026-11-14T08:17:34+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Tusentals plan var i luften – då kraschade systemet",
-        "summary": "Omkring 3 500 plan var i luften när amerikanska luftfartsmyndigheten tryckte på stoppknappen, enligt BBC. I mer än fyra timmar var det totalt kaos i USA:s luftrum. Bara dagar innan togs ett nytt AI-baserat flygledarsystem i bruk. Nu utreder man orsakerna bakom flygstoppet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Thousands of planes were in the air – then the system crashed",
-        "summary": "Around 3,500 planes were in the air when the American aviation authority hit the stop button, according to the BBC. For more than four hours there was total chaos in US airspace. Just days earlier, a new AI-based air traffic control system had been put into use. Now the causes of the flight stoppage are being investigated."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:42+01:00"
       }
     }
   ]
