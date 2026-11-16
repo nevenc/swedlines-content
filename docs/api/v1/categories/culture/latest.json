@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-11-16T22:01:25+01:00",
+  "generated_at": "2026-11-16T22:12:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3bf711f759bb",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/musik/skivrecension/recension-snoh-aalegra-legendary-love.86e94854-b9fe-5ae2-adbf-2b02dd157bb6",
+      "guid": "86e94854-b9fe-5ae2-adbf-2b02dd157bb6",
+      "published_at": "2026-11-16T21:42:01+01:00",
+      "fetched_at": "2026-11-16T22:11:56+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Skivrecension",
+        "Tagg: Snoh Aalegra",
+        "Tagg: Recension",
+        "Tagg: Michael Jackson",
+        "Tagg: Prince",
+        "Tagg: Nile Rodgers",
+        "Tagg: R’n’b",
+        "Tagg: Musik"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/d376feb6-d06f-3b2f-8479-24f53e1f6d18",
+      "sv": {
+        "title": "Recension: Världsklass på Snoh Aalegras glimrande r’n’b",
+        "summary": "Ljuvlig lyssning rakt igenom, skriver Anna Rosenström som lyssnat på den svenska stjärnans nya album.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Review: World class in Snoh Aalegra's dazzling R&B",
+        "summary": "Lovely listening throughout, writes Anna Rosenström, who has listened to the Swedish star's new album."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T22:11:59+01:00"
+      }
+    },
     {
       "id": "1ba93af6df34",
       "schema_version": 1,
@@ -5575,35 +5612,6 @@
       "en": {
         "title": "Skarsgård picks a Swedish title for Hammarby over an Oscar",
         "summary": "Alexander Skarsgård graced the red carpet at the Stockholm Film Festival on Wednesday evening for the Nordic premiere of his new film Wicker. But when TV4 Nyheterna got a chat with the world star, it was not about the film role but about football and Hammarby's chances of taking their first…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "5ba213af31fd",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/6GM8LjIVDrpRt1EjSl8goa/hon-packar-vaeskorna-och-drar-saeger-hejda-i-ett-sms",
-      "guid": "6GM8LjIVDrpRt1EjSl8goa",
-      "published_at": "2026-11-11T21:00:05+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "Hon packar väskorna och drar – säger hejdå i ett sms",
-        "summary": "I onsdagens avsnitt av ”Bonde söker fru” vaknar häst- och köttbonden Patrik Bergquist till en chock. Emelie Kullenberg har packat sina väskor och lämnat programmet. – Jag tycker att det är otroligt tråkigt faktiskt att hon inte vill tillbringa mer tid med mig.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "She packs her bags and leaves – says goodbye in a text message",
-        "summary": "In Wednesday's episode of 'Bonde söker fru', horse and cattle farmer Patrik Bergquist wakes up to a shock. Emelie Kullenberg has packed her bags and left the programme. – I actually think it is incredibly sad that she does not want to spend more time with me."
       },
       "translation": {
         "status": "done",

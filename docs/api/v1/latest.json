@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-16T22:01:25+01:00",
+  "generated_at": "2026-11-16T22:12:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d5d2bf59bbf3",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/sd-ledamot-andrar-sig-tanker-inte-hoppa-av",
+      "guid": "f1b0db6c-d172-411a-8d2b-276000294ee7",
+      "published_at": "2026-11-16T22:03:36+01:00",
+      "fetched_at": "2026-11-16T22:11:56+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/e6183234-6ca2-4117-bf9d-7671b75cf4cb.jpg?width=600",
+      "sv": {
+        "title": "SD-ledamot ändrar sig – tänker inte hoppa av",
+        "summary": "SD-riksdagsledamoten Rasmus Giertz meddelade sitt avhopp efter anklagelser om sexuella övertramp. Men nu har han ändrat sig och tänker stanna kvar i riksdagen, säger han till nättidningen Samnytt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SD member changes his mind – does not intend to resign",
+        "summary": "SD Riksdag member Rasmus Giertz announced his resignation after allegations of sexual misconduct. But he has now changed his mind and intends to remain in the Riksdag, he tells the online news outlet Samnytt."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T22:11:59+01:00"
+      }
+    },
+    {
+      "id": "f81e2d86b444",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/tydlig-nedgang-pa-wall-street-nytt-fall-for-nvidia",
+      "guid": "6d8dd3ca-7b95-48e8-be5b-db9cf6f605c1",
+      "published_at": "2026-11-16T22:02:05+01:00",
+      "fetched_at": "2026-11-16T22:11:55+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/54367bfe-a350-4533-971a-ea89da55bd43.jpeg?width=600",
+      "sv": {
+        "title": "Tydlig nedgång på Wall Street – nytt fall för Nvidia",
+        "summary": "USA-börserna föll relativt kraftigt under måndagen när tekniksektorn tyngde. Bland förlorarna hittar vi bland annat chipjätten Nvidia som föll kraftigt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Clear decline on Wall Street – new fall for Nvidia",
+        "summary": "US stock exchanges fell relatively sharply on Monday as the technology sector weighed. Among the losers are chip giant Nvidia, which fell sharply."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T22:11:59+01:00"
+      }
+    },
     {
       "id": "e049fb2f269e",
       "schema_version": 1,
@@ -189,6 +243,79 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T22:01:25+01:00"
+      }
+    },
+    {
+      "id": "34b5601a98d7",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/ai-datacenter-i-rymden-det-har-ar-riskerna.7222f263-8a1e-5f05-8389-c33e0b9b57bd",
+      "guid": "7222f263-8a1e-5f05-8389-c33e0b9b57bd",
+      "published_at": "2026-11-16T21:42:11+01:00",
+      "fetched_at": "2026-11-16T22:11:56+01:00",
+      "category": "science_tech",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Elon Musk",
+        "Tagg: Rymden",
+        "Tagg: Teknik",
+        "Tagg: Astronomi",
+        "Tagg: Datacenter",
+        "Tagg: Miljö"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/23f076ed-fb0d-3840-bd30-b7a6b674bf4f",
+      "sv": {
+        "title": "Rymden kan fyllas av AI-datacenter – det här är riskerna",
+        "summary": "Flera stora teknikföretag i både USA och Kina har planer på att placera AI-datacenter i rymden. Men nu varnar forskarna för konsekvenserna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Space could be filled with AI data centres – here are the risks",
+        "summary": "Several major technology companies in both the US and China have plans to place AI data centres in space. But researchers now warn of the consequences."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T22:11:59+01:00"
+      }
+    },
+    {
+      "id": "3bf711f759bb",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/musik/skivrecension/recension-snoh-aalegra-legendary-love.86e94854-b9fe-5ae2-adbf-2b02dd157bb6",
+      "guid": "86e94854-b9fe-5ae2-adbf-2b02dd157bb6",
+      "published_at": "2026-11-16T21:42:01+01:00",
+      "fetched_at": "2026-11-16T22:11:56+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Skivrecension",
+        "Tagg: Snoh Aalegra",
+        "Tagg: Recension",
+        "Tagg: Michael Jackson",
+        "Tagg: Prince",
+        "Tagg: Nile Rodgers",
+        "Tagg: R’n’b",
+        "Tagg: Musik"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/d376feb6-d06f-3b2f-8479-24f53e1f6d18",
+      "sv": {
+        "title": "Recension: Världsklass på Snoh Aalegras glimrande r’n’b",
+        "summary": "Ljuvlig lyssning rakt igenom, skriver Anna Rosenström som lyssnat på den svenska stjärnans nya album.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Review: World class in Snoh Aalegra's dazzling R&B",
+        "summary": "Lovely listening throughout, writes Anna Rosenström, who has listened to the Swedish star's new album."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T22:11:59+01:00"
       }
     },
     {
@@ -5336,120 +5463,6 @@
       "en": {
         "title": "Charming Old Duo Turns “Arne goes to space” Into Touching Swedish Science Fiction",
         "summary": "Two elderly brothers from Norrland suddenly receive an unexpected visit. An alien unlocks frozen emotions in a touching story about brotherly love, falukorv sausage and log splitting, writes Wanda Bendjelloul."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:17:06+01:00"
-      }
-    },
-    {
-      "id": "22067c3ab01e",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/ledare/full-fart-mot-stupet-med-v-och-c.f38f3415-cbb8-529d-a5e8-1c9fd91a0e9e",
-      "guid": "f38f3415-cbb8-529d-a5e8-1c9fd91a0e9e",
-      "published_at": "2026-11-16T15:12:23+01:00",
-      "fetched_at": "2026-11-16T15:40:23+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Ledare",
-        "Tagg: Vänsterpartiet",
-        "Tagg: Val",
-        "Tagg: Centerpartiet",
-        "Tagg: Extraval"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/9dcb9a7b-9a42-33a4-ae42-71d84f12b2c0",
-      "sv": {
-        "title": "Håkan Boström: Full fart mot stupet med V och C",
-        "summary": "Svenska folket ska inte behöva vänta till januari för att få en regering.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Håkan Boström: Full speed toward the cliff with the Left Party and the Centre Party",
-        "summary": "The Swedish people should not have to wait until January to get a government."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:40:28+01:00"
-      }
-    },
-    {
-      "id": "00e3d2f33913",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/firades-som-danmarks-aldsta-hade-morkt-forflutet",
-      "guid": "https://www.dn.se/varlden/firades-som-danmarks-aldsta-hade-morkt-forflutet/",
-      "published_at": "2026-11-16T15:12:03+01:00",
-      "fetched_at": "2026-11-16T15:16:56+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/0aa58c2e-18d4-4bf9-bc04-5da5e618b98b.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Firades som Danmarks äldsta – hade mörkt förflutet",
-        "summary": "Hon har under hösten firats som den äldsta personen i Danmarks historia. Men av uppmärksamheten följde avslöjanden från en mörkare del av hennes liv.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Celebrated as Denmark's Oldest – Had a Dark Past",
-        "summary": "She was celebrated this autumn as the oldest person in Danish history. But the attention was followed by revelations from a darker part of her life."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:17:06+01:00"
-      }
-    },
-    {
-      "id": "da77a7887b34",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/impact-coatings-finanschef-lamnar",
-      "guid": "618e6484-4591-4bd9-9831-88986d4cb272",
-      "published_at": "2026-11-16T15:12:01+01:00",
-      "fetched_at": "2026-11-16T15:16:59+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Impact Coatings finanschef lämnar",
-        "summary": "Det First North-listade ytbeläggningsbolaget Impact Coatings finanschef Lena Åberg lämnar bolaget i februari på eget initiativ, efter två år. Varför avböjer hon att kommentera.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Impact Coatings Finance Chief Leaves",
-        "summary": "First North-listed coatings company Impact Coatings' finance chief Lena Åberg is leaving the company in February on her own initiative, after two years. Why she declines to comment."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:17:06+01:00"
-      }
-    },
-    {
-      "id": "0ae5211811b4",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/g373O5/omstritt-utkast-nar-klimatmote-gar-in-i-finalvecka",
-      "guid": "https://www.svd.se/a/g373O5/omstritt-utkast-nar-klimatmote-gar-in-i-finalvecka?utm_medium=rss",
-      "published_at": "2026-11-16T15:11:51+01:00",
-      "fetched_at": "2026-11-16T15:16:56+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/ff6110b3-eb9c-3a79-8141-13d62746948d?format=auto&s=88d299f23fa722551df114010d26ae696ce21eaa&w=1000",
-      "sv": {
-        "title": "Omstritt utkast när klimatmöte går in i finalvecka",
-        "summary": "Förhandlingarna blir skarpare när klimattoppmötet COP31 nu går in i sina andra vecka.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Controversial Draft as Climate Talks Enter Final Week",
-        "summary": "Negotiations are becoming tougher as the COP31 climate summit enters its second week."
       },
       "translation": {
         "status": "done",
