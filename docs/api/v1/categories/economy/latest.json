@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T19:31:20+01:00",
+  "generated_at": "2026-11-16T19:45:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bd63ccf2e166",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/uniper-vill-konvertera-kraftverkssajter-till-datacenter",
+      "guid": "49ee5a29-4a11-4e24-beaf-f2b0a199720a",
+      "published_at": "2026-11-16T19:31:21+01:00",
+      "fetched_at": "2026-11-16T19:45:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e0ac3fba-0eac-4fe4-9e84-766e9b006651.jpeg?width=600",
+      "sv": {
+        "title": "Uniper vill konvertera kraftverkssajter till datacenter",
+        "summary": "Uniper vill sälja eller hyra ut mark vid nedlagda kraftverk till datacenterbolag och sedan sälja el till anläggningarna. Det uppgav bolaget vid en kapitalmarknadsdag på måndagen. Åtminstone tre av de potentiella projekten är belägna i Sverige, rapporterar Di:s nyhetstjänst Energimarknaden.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Uniper wants to convert power plant sites into data centres",
+        "summary": "Uniper wants to sell or lease land at decommissioned power plants to data centre companies and then sell electricity to the facilities. The company said at a capital markets day on Monday. At least three of the potential projects are located in Sweden, reports Di's news service Energimarknaden."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T19:45:48+01:00"
+      }
+    },
     {
       "id": "f08990bce80b",
       "schema_version": 1,
@@ -5313,33 +5340,6 @@
       "en": {
         "title": "Nvidia and Nibe report – this is happening this week",
         "summary": "After last week's turbulence, Nvidia is now set to report how the company is doing. Nibe also reports this week, which also includes several capital markets days. Here is a guide to the week's most important events."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T18:15:46+01:00"
-      }
-    },
-    {
-      "id": "d74285cea93a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/kustbevakningen-trumps-ryska-diesel-en-tickande-miljobomb",
-      "guid": "38ebdd57-ca4e-4440-bfe3-81633c40bd25",
-      "published_at": "2026-11-15T18:01:23+01:00",
-      "fetched_at": "2026-11-15T18:15:42+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/8fdb0cf5-2f60-4550-bd52-c24041f0b876.jpeg?width=600",
-      "sv": {
-        "title": "Kustbevakningen: Trumps ryska diesel en ”tickande miljöbomb”",
-        "summary": "Dieselavtalet mellan USA och Ryssland innebär mer trafik på Östersjön och ökade risker för ”tickande miljöbomber”, varnar svenska Kustbevakningen. Efter vårens spektakulära bordningar laddar myndigheten för nya, banbrytande operationer till havs.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Coast Guard: Trump's Russian diesel a \"ticking environmental bomb\"",
-        "summary": "The diesel agreement between the USA and Russia means more traffic on the Baltic Sea and increased risks of \"ticking environmental bombs\", warns the Swedish Coast Guard. After this spring's spectacular boardings, the authority is preparing new, groundbreaking operations at sea."
       },
       "translation": {
         "status": "done",
