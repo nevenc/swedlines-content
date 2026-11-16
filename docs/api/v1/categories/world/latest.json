@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-11-16T06:01:32+01:00",
+  "generated_at": "2026-11-16T06:15:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9321e5cdd0b9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/flera-doda-efter-brand-i-phuket",
+      "guid": "https://www.expressen.se/nyheter/varlden/flera-doda-efter-brand-i-phuket/",
+      "published_at": "2026-11-16T06:15:10+01:00",
+      "fetched_at": "2026-11-16T06:15:40+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Flera döda efter brand i Phuket",
+        "summary": "Minst elva personer har dött och flera skadats efter en stor brand i en affärslokal i Phuket i Thailand.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Several dead after fire in Phuket",
+        "summary": "At least eleven people have died and several have been injured after a large fire in a retail premises in Phuket, Thailand."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:15:47+01:00"
+      }
+    },
+    {
+      "id": "1bdd35009c3f",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9341364",
+      "guid": "rss:sr.se/article/9341364",
+      "published_at": "2026-11-16T06:10:00+01:00",
+      "fetched_at": "2026-11-16T06:15:38+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Generalstrejk i Venezuela: ”Missnöjet är alltför stort”",
+        "summary": "I dag har en generalstrejk utlysts i Venezuela i protest mot uteblivna löner i statlig sektor. Keta Stephany, professor i utvecklingsstudier på Venezuelas centraluniversitet, säger att hon och många landsbor tvingas överleva på löner på under en dollar i månaden.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "General strike in Venezuela: \"The discontent is too great\"",
+        "summary": "A general strike has been called in Venezuela today in protest against unpaid wages in the public sector. Keta Stephany, professor of development studies at Venezuela's Central University, says that she and many villagers are forced to survive on wages of less than one dollar a month."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:15:47+01:00"
+      }
+    },
+    {
+      "id": "97174caf3151",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9341344",
+      "guid": "rss:sr.se/article/9341344",
+      "published_at": "2026-11-16T06:01:00+01:00",
+      "fetched_at": "2026-11-16T06:15:38+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Gazabor efter skyfallen: ”Kan inte skydda oss”",
+        "summary": "Skyfallen som drabbat Gaza ledde till att 70 000 tält översvämmades och minst fem människor dog. Nu fruktar Gazaborna nästa regnoväder. Världshälsoorganisationen, WHO, varnar nu för en dramatisk ökning av luftvägsinfektioner i Gaza till följd av regn, fukt, mögel och trångboddhet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Gazans after downpours: \"We cannot protect ourselves\"",
+        "summary": "The downpours that have hit Gaza flooded 70,000 tents and killed at least five people. Now the Gazans fear the next rainstorm. The World Health Organization, WHO, is warning of a dramatic increase in respiratory infections in Gaza due to rain, damp, mould and overcrowding."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:15:47+01:00"
+      }
+    },
     {
       "id": "f0b111b5a3a6",
       "schema_version": 1,
@@ -5297,89 +5375,6 @@
       "en": {
         "title": "Here is the notorious prison where Russell Brand is held",
         "summary": "Russell Brand is serving his sentence at Wandsworth, one of Britain's most notorious prisons, marked by violence, overcrowding and drugs. At the same time a further six women accuse the comedian of abuse, The Times reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "b7e1790d6717",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/oMp600/atal-forstarks-mot-paraguays-expresident",
-      "guid": "https://www.aftonbladet.se/nyheter/a/oMp600/atal-forstarks-mot-paraguays-expresident?utm_medium=rss",
-      "published_at": "2026-11-13T21:19:23+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/0ac55813-8f3b-3784-ac80-eb5d7db43fb9?format=auto&s=b7c533e40561ba53ff7ac7ba0802bf899d7c3f31&w=1000",
-      "sv": {
-        "title": "Åtal förstärks mot Paraguays expresident",
-        "summary": "Åklagare i Paraguay väljer att utöka åtalspunkterna mot Santiago Peña som avsatts i riksrätt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Charges expanded against Paraguay's ex-president",
-        "summary": "Prosecutors in Paraguay are choosing to expand the charges against Santiago Peña, who was removed by impeachment."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "231fe9ae8bca",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/bessent-pekar-ut-lutnick-for-ai-lackage-till-kina",
-      "guid": "https://www.dn.se/varlden/bessent-pekar-ut-lutnick-for-ai-lackage-till-kina/",
-      "published_at": "2026-11-13T21:10:34+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/e78a0a0f-a181-4771-aa5d-c294dd76ac67.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Bessent pekar ut Lutnick för AI-läckage till Kina",
-        "summary": "Finansminister Scott Bessent pekar finger åt ministerkollegan Howard Lutnick i fråga om varför inte USA bättre lyckats stoppa utförsel av avancerade AI-chip till Kina. Frågan är kopplad till skandalen kring Nvidias tidigare vd Jensen Huang.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bessent points at Lutnick over AI leak to China",
-        "summary": "Treasury Secretary Scott Bessent points the finger at fellow cabinet member Howard Lutnick over why the US has not been more successful in stopping exports of advanced AI chips to China. The question is linked to the scandal surrounding Nvidia's former CEO Jensen Huang."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "acf534287737",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/7yx75GPR7FGmyd1XSFaflW/uppgifter-rysslands-krav-pa-finland-under-foerhandlingarna",
-      "guid": "7yx75GPR7FGmyd1XSFaflW",
-      "published_at": "2026-11-13T21:01:14+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Uppgifter: Rysslands krav på Finland under förhandlingarna",
-        "summary": "Svarar snabb: ”Inte förhandlingsbart”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: Russia's demands on Finland during the negotiations",
-        "summary": "Quick reply: 'Not negotiable'"
       },
       "translation": {
         "status": "done",

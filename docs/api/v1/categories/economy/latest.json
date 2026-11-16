@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-16T06:01:32+01:00",
-  "count": 143,
+  "generated_at": "2026-11-16T06:15:48+01:00",
+  "count": 146,
   "items": [
+    {
+      "id": "c711a97f00aa",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/bankernas-ess-i-rockarmen",
+      "guid": "1f7c4af0-9c4a-4053-85d9-5da864df103c",
+      "published_at": "2026-11-16T06:06:01+01:00",
+      "fetched_at": "2026-11-16T06:15:41+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f6d237f4-92aa-47a6-9cbf-a269df6e1f11.jpeg?width=600",
+      "sv": {
+        "title": "Bankernas ess i rockärmen",
+        "summary": "Med hjälp av AI kan storbankerna minska antalet anställda. Det ökar vinsterna och stöttar en högre värdering för aktierna. Men en bank sticker ut – här väntas antalet anställda öka.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The banks' ace up their sleeve",
+        "summary": "With the help of AI, the major banks can reduce the number of employees. This increases profits and supports a higher valuation for the shares. But one bank stands out – here the number of employees is expected to rise."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:15:47+01:00"
+      }
+    },
+    {
+      "id": "0c519c451f37",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/xJPPqG/bristande-bokforing-hos-brod-salt-kalla-fakta-granskar",
+      "guid": "https://www.aftonbladet.se/nyheter/a/xJPPqG/bristande-bokforing-hos-brod-salt-kalla-fakta-granskar?utm_medium=rss",
+      "published_at": "2026-11-16T06:05:27+01:00",
+      "fetched_at": "2026-11-16T06:15:40+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/18cfb520-22b2-3f9b-bbb6-6e1cbe3d7e20?format=auto&s=e5b3bb5700a9ce0eccd94ac919366d6d33db8308&w=1000",
+      "sv": {
+        "title": "Bristande bokföring hos kafékedjan – Kalla Fakta granskar",
+        "summary": "Ägaren: ”Inget olagligt”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Deficient bookkeeping at café chain – Kalla Fakta investigates",
+        "summary": "Owner: \"Nothing illegal\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:15:47+01:00"
+      }
+    },
     {
       "id": "ee7b4af77890",
       "schema_version": 1,
@@ -27,6 +81,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "d5c0b438b936",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/g37k90/tuffare-ar-vantar-hushallen-bygg-krockkuddar",
+      "guid": "https://www.svd.se/a/g37k90/tuffare-ar-vantar-hushallen-bygg-krockkuddar?utm_medium=rss",
+      "published_at": "2026-11-16T06:00:12+01:00",
+      "fetched_at": "2026-11-16T06:15:39+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/83617d5f-bdf8-353a-9269-2f2f6d0a53fe?format=auto&s=a8396c73986f0243e626dcc068e3ac8076031fc8&w=1000",
+      "sv": {
+        "title": "Tuffare år väntar hushållen – ”bygg krockkuddar”",
+        "summary": "Dyrare bensin och el, dessutom högre boräntor. Efter några år av återhämtning kan vanliga hushåll…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tougher year ahead for households – \"build crash pads\"",
+        "summary": "More expensive petrol and electricity, and higher mortgage rates on top. After a few years of recovery, ordinary households may…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T06:15:47+01:00"
       }
     },
     {
