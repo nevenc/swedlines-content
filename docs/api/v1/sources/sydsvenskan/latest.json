@@ -1,7 +1,114 @@
 {
-  "generated_at": "2026-11-16T16:54:23+01:00",
-  "count": 160,
+  "generated_at": "2026-11-16T17:01:20+01:00",
+  "count": 164,
   "items": [
+    {
+      "id": "bdbb4d85883e",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/skane/elakuten",
+      "guid": "18023747-cecf-4759-8b99-91bcf7723f2a",
+      "published_at": "2026-11-16T17:00:00+01:00",
+      "fetched_at": "2026-11-16T17:01:15+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Elakuten",
+        "summary": "Elpriserna skjuter i höjden och så även förvirringen. Vems fel är det? Hur ska det lösas? Sydsvenskans el-akut är din guide i vintermörkret. Kommentera med dina frågor, tips och tricks eller funderingar. Du kan också mejla elakuten@sydsvenskan.se.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elakuten",
+        "summary": "Electricity prices are soaring, and so is the confusion. Whose fault is it? How can it be solved? Sydsvenskan's electricity emergency desk is your guide through the winter darkness. Comment with your questions, tips and tricks or thoughts. You can also email elakuten@sydsvenskan.se."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T17:01:20+01:00"
+      }
+    },
+    {
+      "id": "c09c95139f9c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/staffanstorp/annu-en-pokerklubb-avslojad-i-staffanstorp",
+      "guid": "bfb60ebc-d85a-409c-971a-f12e922463f0",
+      "published_at": "2026-11-16T17:00:00+01:00",
+      "fetched_at": "2026-11-16T17:01:15+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/c40f4bc2-e0da-4a6c-9520-0b10e142d245.png?width=600",
+      "sv": {
+        "title": "Ännu en illegal pokerklubb avslöjad i Staffanstorp",
+        "summary": "Poliserna följde efter en flyende man – och sprang rakt in i en pokerturnering med spel om höga belopp. Nu avslöjas den andra illegala spelklubben i Staffanstorp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Another illegal poker club exposed in Staffanstorp",
+        "summary": "Police followed a fleeing man – and ran straight into a poker tournament with high stakes. Now the second illegal gambling club in Staffanstorp is being exposed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T17:01:20+01:00"
+      }
+    },
+    {
+      "id": "e9b3095fd650",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/familj/minnesord-om-gert-glentow",
+      "guid": "e6d9fa95-191a-4886-a5c8-790c6f295a7e",
+      "published_at": "2026-11-16T17:00:00+01:00",
+      "fetched_at": "2026-11-16T17:01:15+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/8fca1fae-624c-4f35-a907-77f6137e855c.jpeg?width=600",
+      "sv": {
+        "title": "Minnesord om Gert Glentow",
+        "summary": "Poeten och läraren Gert Glentow, Lund, har avlidit i en ålder av 87 år. Han sörjs närmast av hustrun Birgit och dottern Camilla med familj.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Obituary for Gert Glentow",
+        "summary": "Poet and teacher Gert Glentow, Lund, has died at the age of 87. He is survived mainly by his wife Birgit and daughter Camilla and her family."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T17:01:20+01:00"
+      }
+    },
+    {
+      "id": "00bf2c7d5879",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/fransman-utmanar-infantino-som-fifa-boss",
+      "guid": "30315bd5-90ce-43cc-9a4f-274e59fce8f7",
+      "published_at": "2026-11-16T16:57:26+01:00",
+      "fetched_at": "2026-11-16T17:01:15+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/d8661a41-7f47-48fc-b39e-a73970947f54.jpg?width=600",
+      "sv": {
+        "title": "Fransman utmanar Infantino som Fifa-boss",
+        "summary": "En ny utmanare till Gianni Infantino har klivit fram. Europeiska fotbollsförbundet (Uefa) nominerar fransmannen Philippe Diallo som ordförande i Internationella fotbollsförbundet (Fifa).",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Frenchman challenges Infantino for Fifa presidency",
+        "summary": "A new challenger to Gianni Infantino has stepped forward. The Union of European Football Associations (Uefa) is nominating Frenchman Philippe Diallo as president of the Fédération Internationale de Football Association (Fifa)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T17:01:20+01:00"
+      }
+    },
     {
       "id": "ba298f36c5cd",
       "schema_version": 1,
