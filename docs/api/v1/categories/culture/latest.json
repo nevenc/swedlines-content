@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T07:15:45+01:00",
-  "count": 154,
+  "generated_at": "2026-11-16T07:31:05+01:00",
+  "count": 156,
   "items": [
+    {
+      "id": "5fe28530f902",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/n-jonas-det-var-bara-ett-lunchstalle-trodde-jag",
+      "guid": "https://www.dn.se/kultur/n-jonas-det-var-bara-ett-lunchstalle-trodde-jag/",
+      "published_at": "2026-11-16T07:30:00+01:00",
+      "fetched_at": "2026-11-16T07:30:58+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/aeca10ef-97ab-4ba3-b38f-c556773ba2b0.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "n'Jonas: Det var bara ett lunchställe – trodde jag",
+        "summary": "Ett enkelt brickställe i Stockholm blev en fristad för en brokig blandning av lunchgäster. Nu förstår n'Jonas hur mycket restaurangen betydde.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "n'Jonas: It Was Just a Lunch Place – I Thought",
+        "summary": "A simple tray-service eatery in Stockholm became a haven for a motley mix of lunch guests. Now n'Jonas understands how much the restaurant meant."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T07:31:04+01:00"
+      }
+    },
     {
       "id": "c7a19f98874b",
       "schema_version": 1,
@@ -197,6 +224,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T06:01:32+01:00"
+      }
+    },
+    {
+      "id": "74b2983c4ea3",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/podd/spotlight/kan-publiken-lita-pa-bedragaren-elizabeth-holmes",
+      "guid": "https://www.dn.se/podd/spotlight/kan-publiken-lita-pa-bedragaren-elizabeth-holmes/",
+      "published_at": "2026-11-16T01:00:00+01:00",
+      "fetched_at": "2026-11-16T07:30:58+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/gcs/bilder/podspace/kun2hm7unglk25wihudiwjoc4dtr74knx7ae2t3j35jkwad7lbta.png?io=1&width=1000",
+      "sv": {
+        "title": "Kan publiken lita på bedragaren Elizabeth Holmes?",
+        "summary": "På biograferna i USA är dokumentären redan en sensation – den skruvade filmaren Nathan Fielder flyttar in hos den ökända bedragaren Elizabeth Holmes. För drygt tio år sedan drog hon in miljardinvesteringar, när hon genom sitt företag Theranos utlovade ett revolutionerande sätt att utföra…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Can the audience trust fraudster Elizabeth Holmes?",
+        "summary": "In US cinemas the documentary is already a sensation – the eccentric filmmaker Nathan Fielder moves in with the notorious fraudster Elizabeth Holmes. Just over ten years ago she attracted billion-dollar investments when, through her company Theranos, she promised a revolutionary way to perform…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T07:31:04+01:00"
       }
     },
     {

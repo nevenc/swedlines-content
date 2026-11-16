@@ -1,7 +1,220 @@
 {
-  "generated_at": "2026-11-16T07:15:45+01:00",
-  "count": 101,
+  "generated_at": "2026-11-16T07:31:05+01:00",
+  "count": 110,
   "items": [
+    {
+      "id": "5fe28530f902",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/n-jonas-det-var-bara-ett-lunchstalle-trodde-jag",
+      "guid": "https://www.dn.se/kultur/n-jonas-det-var-bara-ett-lunchstalle-trodde-jag/",
+      "published_at": "2026-11-16T07:30:00+01:00",
+      "fetched_at": "2026-11-16T07:30:58+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/aeca10ef-97ab-4ba3-b38f-c556773ba2b0.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "n'Jonas: Det var bara ett lunchställe – trodde jag",
+        "summary": "Ett enkelt brickställe i Stockholm blev en fristad för en brokig blandning av lunchgäster. Nu förstår n'Jonas hur mycket restaurangen betydde.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "n'Jonas: It Was Just a Lunch Place – I Thought",
+        "summary": "A simple tray-service eatery in Stockholm became a haven for a motley mix of lunch guests. Now n'Jonas understands how much the restaurant meant."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T07:31:04+01:00"
+      }
+    },
+    {
+      "id": "13ff52536322",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/pMLB76/smhi-varnar-for-ishalka",
+      "guid": "https://www.aftonbladet.se/nyheter/a/pMLB76/smhi-varnar-for-ishalka?utm_medium=rss",
+      "published_at": "2026-11-16T07:27:27+01:00",
+      "fetched_at": "2026-11-16T07:30:58+01:00",
+      "category": "weather",
+      "image_url": "https://akamai.vgc.no/v2/images/f80e6f13-f3cb-389b-b641-079c7d349fad?format=auto&s=6809452e5d97b55918fb90c12e04f43bed5b5005&w=1000",
+      "sv": {
+        "title": "SMHI varnar för ishalka",
+        "summary": "SMHI har utfärdat en gul varning för plötslig ishalka i främst Västerbotten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI warns of black ice",
+        "summary": "SMHI has issued a yellow warning for sudden black ice, mainly in Västerbotten."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T07:31:04+01:00"
+      }
+    },
+    {
+      "id": "f71314f0e114",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/dagens-rekar-telia-kopstamplas",
+      "guid": "9b3e570e-260a-4e55-a50c-0d6ee70f6558",
+      "published_at": "2026-11-16T07:22:31+01:00",
+      "fetched_at": "2026-11-16T07:30:59+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/df2d7f62-35e3-4120-9e47-006cb5cb5592.jpeg?width=600",
+      "sv": {
+        "title": "Dagens rekar: Telia köpstämplas",
+        "summary": "Bland dagens aktierekommendationer märks en ny köprekommendation för folkaktien Telia, samtidigt som flera riktkurser justeras upp för Asmodee, som rapporterade i fredags.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Today's ratings: Telia upgraded to buy",
+        "summary": "Among today's share recommendations is a new buy rating for the popular stock Telia, while several price targets are raised for Asmodee, which reported on Friday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T07:31:04+01:00"
+      }
+    },
+    {
+      "id": "29adf905659b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/megaspeed-alice-huang-inte-anstalld-hos-oss",
+      "guid": "2bce9a8f-c6f3-472b-9af2-893e367e014d",
+      "published_at": "2026-11-16T07:22:29+01:00",
+      "fetched_at": "2026-11-16T07:30:59+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c667855a-62af-4109-82bb-f84fb16aeab5.jpeg?width=600",
+      "sv": {
+        "title": "Megaspeed: Alice Huang inte anställd hos oss",
+        "summary": "Före detta Nvidia-vd:n Jensen Huangs påstådda älskarinna Alice Huang, som pekats ut som kinesisk spion, har ingen roll kvar i molnbolaget Megaspeed, enligt ett uttalande från bolaget, rapporterar Reuters.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Megaspeed: Alice Huang not employed by us",
+        "summary": "Former Nvidia CEO Jensen Huang's alleged mistress Alice Huang, who has been named as a Chinese spy, no longer has a role at cloud company Megaspeed, according to a statement from the company, Reuters reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T07:31:04+01:00"
+      }
+    },
+    {
+      "id": "3af2435990e4",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/sma-ranterorelser-i-usa",
+      "guid": "0766bfcf-bc05-4df4-bbe8-4eb39dfb6f93",
+      "published_at": "2026-11-16T07:20:06+01:00",
+      "fetched_at": "2026-11-16T07:30:59+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Små ränterörelser i USA",
+        "summary": "USA-räntor visar små rörelser inledningsvis på veckan. Tvåårsräntan stiger 3 punkter till 4,87 och tioårsräntan är upp en punkt till 5,15, jämfört med fredagens svenska stängning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Small yield movements in the US",
+        "summary": "US yields show small movements at the start of the week. The two-year yield rises 3 basis points to 4.87 and the ten-year yield is up 1 basis point to 5.15, compared with the Swedish close on Friday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T07:31:04+01:00"
+      }
+    },
+    {
+      "id": "ed478f243aad",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f036f2e6-1145-4088-b7ff-9f4943017cbf",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f036f2e6-1145-4088-b7ff-9f4943017cbf",
+      "published_at": "2026-11-16T07:18:41+01:00",
+      "fetched_at": "2026-11-16T07:30:58+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Tonåring utpressades efter nakenbilder",
+        "summary": "Tonåring larmade polisen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Teenager extorted after nude photos",
+        "summary": "Teenager alerted the police"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T07:31:04+01:00"
+      }
+    },
+    {
+      "id": "95eea1beff6b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/kursraketen-letar-efter-sina-agare",
+      "guid": "73f2f8ff-a208-4d6f-a4c4-6b78d6417751",
+      "published_at": "2026-11-16T07:17:03+01:00",
+      "fetched_at": "2026-11-16T07:30:59+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c9f61e9d-2b53-4a69-8be2-2bc8ca28133b.jpeg?width=600",
+      "sv": {
+        "title": "Kursraketen letar efter sina ägare",
+        "summary": "Teknikföretaget Sivers Semiconductor, verksamt inom bland annat fotonik, har problem med att få i ihop en valberedning då en stor del av bolagets aktier ägs anonymt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Share rocket looks for its owners",
+        "summary": "Technology company Sivers Semiconductor, active in photonics among other areas, is having trouble assembling a nomination committee because a large part of the company's shares are owned anonymously."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T07:31:04+01:00"
+      }
+    },
+    {
+      "id": "8cde2473cc86",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/cereno-vd-n-avgar-som-ledamot-i-synact-pharma",
+      "guid": "44157f24-9bb3-4d0a-bc27-e9f9b83c2f3b",
+      "published_at": "2026-11-16T07:14:30+01:00",
+      "fetched_at": "2026-11-16T07:30:59+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Cereno-vd:n avgår som ledamot i Synact Pharma",
+        "summary": "Bioteknikbolaget Cereno Scientifics vd Sten Sörensen har beslutat att avgå som styrelseledamot i forskningsbolaget Synact Pharma för att fokusera på sina operativa ansvarsområden. Det framgår av ett pressmeddelande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Cereno CEO steps down as board member of Synact Pharma",
+        "summary": "Sten Sörensen, CEO of biotech company Cereno Scientific, has decided to resign as a board member of research company Synact Pharma to focus on his operational responsibilities. This is according to a press release."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T07:31:04+01:00"
+      }
+    },
     {
       "id": "38cb6331480c",
       "schema_version": 1,
@@ -2565,6 +2778,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T01:15:43+01:00"
+      }
+    },
+    {
+      "id": "74b2983c4ea3",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/podd/spotlight/kan-publiken-lita-pa-bedragaren-elizabeth-holmes",
+      "guid": "https://www.dn.se/podd/spotlight/kan-publiken-lita-pa-bedragaren-elizabeth-holmes/",
+      "published_at": "2026-11-16T01:00:00+01:00",
+      "fetched_at": "2026-11-16T07:30:58+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/gcs/bilder/podspace/kun2hm7unglk25wihudiwjoc4dtr74knx7ae2t3j35jkwad7lbta.png?io=1&width=1000",
+      "sv": {
+        "title": "Kan publiken lita på bedragaren Elizabeth Holmes?",
+        "summary": "På biograferna i USA är dokumentären redan en sensation – den skruvade filmaren Nathan Fielder flyttar in hos den ökända bedragaren Elizabeth Holmes. För drygt tio år sedan drog hon in miljardinvesteringar, när hon genom sitt företag Theranos utlovade ett revolutionerande sätt att utföra…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Can the audience trust fraudster Elizabeth Holmes?",
+        "summary": "In US cinemas the documentary is already a sensation – the eccentric filmmaker Nathan Fielder moves in with the notorious fraudster Elizabeth Holmes. Just over ten years ago she attracted billion-dollar investments when, through her company Theranos, she promised a revolutionary way to perform…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T07:31:04+01:00"
       }
     },
     {
