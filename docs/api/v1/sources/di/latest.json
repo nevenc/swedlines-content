@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T22:31:17+01:00",
+  "generated_at": "2026-11-16T22:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ace5b0a5213c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/torsten-jansson-pa-kant-med-lokalmedia-ifragasatter-stod",
+      "guid": "bacd8fa6-282c-41e0-8b0e-44babc183add",
+      "published_at": "2026-11-16T22:35:09+01:00",
+      "fetched_at": "2026-11-16T22:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f529f481-3aff-4964-b2b3-8d4c407efc66.jpeg?width=600",
+      "sv": {
+        "title": "Torsten Jansson på kant med lokalmedia – ifrågasätter stöd",
+        "summary": "Borde verkligen dagstidningen Smålandsposten få press- och distributionsstöd på 12 miljoner kronor per år från skattebetalarna? Den frågan ställer sig New Wave-vd:n Torsten Jansson efter tidningens bevakning av hans glasbruksverksamheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Torsten Jansson at odds with local media – questions support",
+        "summary": "Should the daily newspaper Smålandsposten really receive press and distribution subsidies of SEK 12 million per year from taxpayers? That is the question posed by New Wave CEO Torsten Jansson following the newspaper's coverage of his glassworks operations."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T22:45:49+01:00"
+      }
+    },
     {
       "id": "bf605e307a70",
       "schema_version": 1,
@@ -5310,33 +5337,6 @@
       "en": {
         "title": "Kremlin: Putin to meet with Xi and Trump",
         "summary": "Russian President Vladimir Putin will take part in the trilateral meeting with China's Xi Jinping and USA's Donald Trump, the Kremlin confirms."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "4929f037042e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/nya-attacker-i-mellanostern",
-      "guid": "6728f9c6-c1d6-4c40-b2ef-20921073d2c2",
-      "published_at": "2026-11-15T08:20:12+01:00",
-      "fetched_at": "2026-11-15T08:29:36+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/a9f617de-7f88-404b-b851-68f8e0e3b30e.jpeg?width=600",
-      "sv": {
-        "title": "Nya attacker i Mellanöstern",
-        "summary": "Amerikanska radarsystem vid en militärbas i Bahrain har anfallits av Iran, hävdar Revolutionsgardet enligt statliga iranska medier.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New attacks in the Middle East",
-        "summary": "American radar systems at a military base in Bahrain have been attacked by Iran, the Revolutionary Guard claims according to Iranian state media."
       },
       "translation": {
         "status": "done",

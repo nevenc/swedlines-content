@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T22:31:17+01:00",
-  "count": 168,
+  "generated_at": "2026-11-16T22:45:50+01:00",
+  "count": 170,
   "items": [
     {
       "id": "8e3bc3769261",
@@ -353,6 +353,33 @@
       }
     },
     {
+      "id": "da7082e0f1f1",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/410720",
+      "guid": "https://tv.aftonbladet.se/video/410720?utm_medium=rss",
+      "published_at": "2026-11-16T17:03:47+01:00",
+      "fetched_at": "2026-11-16T22:45:43+01:00",
+      "category": "world",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/9503faaa79daa0109d0396a0a33776c4.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Trumps bisarra pressträff: ”Jag tar inget ansvar”",
+        "summary": "Svarar på frågor",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's bizarre press conference: \"I take no responsibility\"",
+        "summary": "Answers questions"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T22:45:49+01:00"
+      }
+    },
+    {
       "id": "1a64ed2d5dfc",
       "schema_version": 1,
       "source": "aftonbladet",
@@ -458,6 +485,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T16:16:22+01:00"
+      }
+    },
+    {
+      "id": "9804ab358e17",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/yz3zwr/trumps-hint-kim-jong-un-kanske-kommer",
+      "guid": "https://www.aftonbladet.se/nyheter/a/yz3zwr/trumps-hint-kim-jong-un-kanske-kommer?utm_medium=rss",
+      "published_at": "2026-11-16T15:41:49+01:00",
+      "fetched_at": "2026-11-16T22:45:43+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/f0f39441-f752-3a7c-8535-b04af60178bd?format=auto&s=f3ad68c2cf245d8d8dd211943ab2a2681e11ff10&w=1000",
+      "sv": {
+        "title": "Trumps hint: Kim Jong-un kanske kommer",
+        "summary": "Trump: ”Han kanske kommer”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump hints: Kim Jong-un may come",
+        "summary": "Trump: \"He may come\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T22:45:49+01:00"
       }
     },
     {

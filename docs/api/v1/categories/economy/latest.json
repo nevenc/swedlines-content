@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T22:31:17+01:00",
+  "generated_at": "2026-11-16T22:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ace5b0a5213c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/torsten-jansson-pa-kant-med-lokalmedia-ifragasatter-stod",
+      "guid": "bacd8fa6-282c-41e0-8b0e-44babc183add",
+      "published_at": "2026-11-16T22:35:09+01:00",
+      "fetched_at": "2026-11-16T22:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f529f481-3aff-4964-b2b3-8d4c407efc66.jpeg?width=600",
+      "sv": {
+        "title": "Torsten Jansson på kant med lokalmedia – ifrågasätter stöd",
+        "summary": "Borde verkligen dagstidningen Smålandsposten få press- och distributionsstöd på 12 miljoner kronor per år från skattebetalarna? Den frågan ställer sig New Wave-vd:n Torsten Jansson efter tidningens bevakning av hans glasbruksverksamheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Torsten Jansson at odds with local media – questions support",
+        "summary": "Should the daily newspaper Smålandsposten really receive press and distribution subsidies of SEK 12 million per year from taxpayers? That is the question posed by New Wave CEO Torsten Jansson following the newspaper's coverage of his glassworks operations."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T22:45:49+01:00"
+      }
+    },
     {
       "id": "bf605e307a70",
       "schema_version": 1,
@@ -5313,32 +5340,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T05:31:03+01:00"
-      }
-    },
-    {
-      "id": "c094f9cd9169",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/detta-hander-mandag-16-november-xDX-n",
-      "guid": "e91bd265-621c-4bbe-8e85-30a6d6be73b7",
-      "published_at": "2026-11-16T05:00:00+01:00",
-      "fetched_at": "2026-11-16T05:15:43+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Detta händer måndag 16 november",
-        "summary": "Utöver en handfull delårsrapporter från de mindre listorna väntas Origo Group komma med sin undersökning av inflationsförväntningarna bland aktörer på penningmarknaden. Här är dagens agenda.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This happens Monday 16 November",
-        "summary": "In addition to a handful of interim reports from the smaller listed companies, Origo Group is expected to release its survey of inflation expectations among players in the money market. Here is today's agenda."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T05:15:47+01:00"
       }
     }
   ]
