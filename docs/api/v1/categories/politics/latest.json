@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-16T16:45:47+01:00",
+  "generated_at": "2026-11-16T16:54:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d1c587cf1d2c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/experten-domer-ut-anderssons-chanser-att-bilda-regering",
+      "guid": "https://www.expressen.se/nyheter/politik/experten-domer-ut-anderssons-chanser-att-bilda-regering/",
+      "published_at": "2026-11-16T16:51:17+01:00",
+      "fetched_at": "2026-11-16T16:54:15+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Experten dömer ut Anderssons chanser att bilda regering",
+        "summary": "Talmannen har flera viktiga beslut att fatta inom den närmsta tiden. Vilka de än blir tror statsvetaren Per Andersson att Ulf Kristersson blir vinnaren. Men vägen dit går via talmannen Andreas Norlén. – Jag tror att han grubblar ganska mycket nu.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Experts dismiss Andersson's chances of forming a government",
+        "summary": "The Speaker has several important decisions to make in the near future. Whatever they are, political scientist Per Andersson believes Ulf Kristersson (M) will be the winner. But the path there goes through Speaker Andreas Norlén. – I think he is brooding quite a lot right now."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:54:22+01:00"
+      }
+    },
     {
       "id": "c9662f63f3e0",
       "schema_version": 1,
@@ -739,6 +765,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T12:01:23+01:00"
+      }
+    },
+    {
+      "id": "11af2b576763",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/podcasts/episode/410698",
+      "guid": "https://www.aftonbladet.se/podcasts/episode/410698?utm_medium=rss",
+      "published_at": "2026-11-16T11:40:52+01:00",
+      "fetched_at": "2026-11-16T16:54:14+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/ee49def7-d023-36a8-9280-a0085e567177?format=auto&s=efd7fce4b957b09cf71e2d8a571761c3bba64710&w=1000",
+      "sv": {
+        "title": "EN UNDRAN TILL: Är det dags att mygga av Centerpartiet?",
+        "summary": "Offras om Vänsterpartiet ändrar sig",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "A QUESTION FOR: Is it time to kill off the Centre Party?",
+        "summary": "Offras if the Left Party changes its mind"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:54:22+01:00"
       }
     },
     {
@@ -5343,60 +5396,6 @@
       "en": {
         "title": "Elected representatives have large debts – leave Riksdag posts",
         "summary": "On Monday TV4 Nyheterna and Kalla fakta revealed that close to 400 politicians in Sweden have debts registered with the Enforcement Authority. The continued investigation shows that there are also three elected members of the Riksdag, all substitutes, with debts at the Enforcement Authority."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "ca342611ff5c",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/podd/spotlight/knull-och-suparkonferenser-vittnesmalen-inifran-ungsvenskarna",
-      "guid": "https://www.dn.se/podd/spotlight/knull-och-suparkonferenser-vittnesmalen-inifran-ungsvenskarna/",
-      "published_at": "2026-11-11T05:50:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/gcs/bilder/podspace/herabpdf65vqsf2ummspejuz2dnt4od6vpf5lv6qyuo6x3cfiota.png?io=1&width=1000",
-      "sv": {
-        "title": "”Knull- och suparkonferenser” – vittnesmålen inifrån Ungsvenskarna",
-        "summary": "De unga kvinnorna skulle bli framtidens SD-politiker. Varje år ses de med andra likasinnade på Ungsvenskarnas konferenser, där förbundet kan boka upp hela hotell och sportväskor packas fulla av spritflaskor.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "'Shagging and boozing conferences' – the testimonies from inside Ungsvenskarna",
-        "summary": "The young women were to become the SD politicians of the future. Every year they meet like-minded people at Ungsvenskarna's conferences, where the league can book entire hotels and sports bags are packed full of bottles of spirits."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "0586047de522",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/podd/armstrong-sokolnicki/basta-losningen-ar-att-avskaffa-regeringen",
-      "guid": "https://www.dn.se/podd/armstrong-sokolnicki/basta-losningen-ar-att-avskaffa-regeringen/",
-      "published_at": "2026-11-10T01:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/gcs/bilder/podspace/qyfpdztc7qht4mkzodijecezjvfiru2taq6ksfflivdypn3u52la.png?io=1&width=1000",
-      "sv": {
-        "title": "”Bästa lösningen är att avskaffa regeringen”",
-        "summary": "Efter helgens politiska drama gör Amanda och Kirsty en djupdykning i de senaste utspelen i regeringskaosets Sverige. Ansvarig utgivare: Peter Wolodarski, Dagens Nyheter AB.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "'The best solution is to abolish the government'",
-        "summary": "After the weekend's political drama, Amanda and Kirsty take a deep dive into the latest moves in government-chaos Sweden. Responsible publisher: Peter Wolodarski, Dagens Nyheter AB."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T16:45:47+01:00",
+  "generated_at": "2026-11-16T16:54:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fa2bf0cbae22",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/robert-pattinson-ar-nya-james-bond-en-ara",
+      "guid": "https://www.dn.se/kultur/robert-pattinson-ar-nya-james-bond-en-ara/",
+      "published_at": "2026-11-16T16:49:44+01:00",
+      "fetched_at": "2026-11-16T16:54:13+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/c01e0985-523c-4089-8ca6-27c2b50d1f7f.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Robert Pattinson är nya James Bond: ”En ära”",
+        "summary": "Den brittiske skådespelaren Robert Pattinson kommer att spela spionen James Bond i kommande filmatiseringar. – Att säga att den här rollen är en dröm som går i uppfyllelse är en underdrift, säger Pattinson i ett uttalande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Robert Pattinson is the new James Bond: \"An honour\"",
+        "summary": "British actor Robert Pattinson will play the spy James Bond in upcoming film adaptations. – To say that this role is a dream come true is an understatement, Pattinson says in a statement."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:54:22+01:00"
+      }
+    },
     {
       "id": "0c47ca946bee",
       "schema_version": 1,
@@ -5360,33 +5387,6 @@
       "en": {
         "title": "Mina Asp Romefors: No hypnotist in the world can make me forget 'Interstellar'",
         "summary": "A cinema in The Hague hired a hypnotist to make the audience forget 'Interstellar'. A successful PR stunt, but truly great film experiences will never be forgotten. That is why it is right that film festivals and cinemas revive classics."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "1f84215b39fa",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/saverman-kanner-ni-doften-fran-smastadernas-julbord",
-      "guid": "https://www.dn.se/kultur/saverman-kanner-ni-doften-fran-smastadernas-julbord/",
-      "published_at": "2026-11-13T07:30:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/45f53e0d-bed4-47ce-b3c5-ad00dac94d80.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Säverman: Känner ni doften från småstädernas julbord?",
-        "summary": "I dag drömmer sig Säverman tillbaka till stadshotellen för 50 år sedan. Festklädda, huttrande familjer väntade utanför porten. Dags för julbord!",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Säverman: Can you smell the small towns' Christmas buffets?",
-        "summary": "Today Säverman dreams himself back to the town hotels of 50 years ago. Families in their finery, shivering, waited outside the door. Time for the Christmas buffet!"
       },
       "translation": {
         "status": "done",
