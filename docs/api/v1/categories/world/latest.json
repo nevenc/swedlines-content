@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-16T05:31:04+01:00",
+  "generated_at": "2026-11-16T05:45:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3151fc5cabf5",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/for-usa-s-allierade-ar-fragan-tillbaka-till-vad-och-hur-lange",
+      "guid": "6fb31bb2-8e92-4f58-b8df-c504e8882fe4",
+      "published_at": "2026-11-16T05:45:00+01:00",
+      "fetched_at": "2026-11-16T05:45:39+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/cc418d64-019a-45e2-8ff0-0a5c92ad715a.jpeg?width=600",
+      "sv": {
+        "title": "”För USA:s allierade är frågan: Tillbaka till vad – och hur länge?”",
+        "summary": "Även om Trump efterträds av en mindre unilateralistisk president, saknar USA både viljan och förmågan att återta rollen som världens ledare, skriver Ian Bremmer, vd för Eurasia Group och GZERO Media.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"For America's allies, the question is: Back to what – and for how long?\"",
+        "summary": "Even if Trump is succeeded by a less unilateralist president, the US lacks both the will and the capacity to regain its role as the world's leader, writes Ian Bremmer, CEO of Eurasia Group and GZERO Media."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T05:45:47+01:00"
+      }
+    },
+    {
+      "id": "e2cba2ad2da0",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79950",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79950&utm_medium=rss",
+      "published_at": "2026-11-16T05:32:51+01:00",
+      "fetched_at": "2026-11-16T05:45:36+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Drönare nedskjutna runt Moskva"
+      },
+      "en": {
+        "title": "Drones shot down around Moscow"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T05:45:47+01:00"
+      }
+    },
     {
       "id": "e3654b636411",
       "schema_version": 1,
@@ -5321,59 +5371,6 @@
       "en": {
         "title": "Ukraine warns about Putin's ceasefire",
         "summary": "Vladimir Putin has proposed a temporary ceasefire in Kostiantynivka to get civilians out. But in Ukraine there is a fear that Russia will use the arrangement to strengthen its positions."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "a7134006c7ce",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/tank-efter-innan-ni-ropar-befria-palestina",
-      "guid": "https://www.dn.se/insandare/tank-efter-innan-ni-ropar-befria-palestina/",
-      "published_at": "2026-11-13T18:39:45+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/0d901753-6469-4594-bd28-89aed13cc6fa.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Tänk efter innan ni ropar ”befria Palestina”",
-        "summary": "INSÄNDARE. Blunda inte för risken att ett framtida Palestina kan styras av krafter som sätter religionen framför individens frihet. Frihet är att kunna leva sitt liv utan rädsla, tvång och förtryck, skriver Irakfödda Lattaf Aduhey.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Letter. Think before you shout 'free Palestine'",
-        "summary": "LETTER. Do not close your eyes to the risk that a future Palestine could be ruled by forces that put religion before the freedom of the individual. Freedom is being able to live your life without fear, coercion and oppression, writes Iraqi-born Lattaf Aduhey."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "64a47f72768b",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1pPAFo2djjjzGJhM4bfBBY/trumps-springpojkar-har-inte-gjort-ett-enda-konkret-framsteg",
-      "guid": "1pPAFo2djjjzGJhM4bfBBY",
-      "published_at": "2026-11-13T18:36:16+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Trumps springpojkar har inte gjort ett enda konkret framsteg"
-      },
-      "en": {
-        "title": "Trump's errand boys have not made a single concrete advance"
       },
       "translation": {
         "status": "done",
