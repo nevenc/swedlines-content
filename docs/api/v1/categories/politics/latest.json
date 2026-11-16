@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-16T19:01:24+01:00",
+  "generated_at": "2026-11-16T19:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2ea4cfc1df8f",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/ohly-sagar-v-for-regeringskravet-risk-for-ny-tidoregering",
+      "guid": "https://www.expressen.se/nyheter/politik/ohly-sagar-v-for-regeringskravet-risk-for-ny-tidoregering/",
+      "published_at": "2026-11-16T19:10:53+01:00",
+      "fetched_at": "2026-11-16T19:15:45+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Ohly sågar V för regeringskravet – risk för ny Tidöregering",
+        "summary": "Den tidigare V-ledaren Lars Ohly är mycket kritisk till partiets krav på att få ingå i en rödgrön regering. Om låsningen leder till att Sverige får en ny Tidöregering skulle V:s väljare bli mycket besvikna, menar han.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Ohly slams the Left Party over government demand – risk of new Tidö government",
+        "summary": "Former Left Party leader Lars Ohly is highly critical of the party's demand to join a red-green government. If the deadlock leads to Sweden getting a new Tidö government, the Left Party's voters would be very disappointed, he argues."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T19:15:52+01:00"
+      }
+    },
     {
       "id": "0642e7bc0a17",
       "schema_version": 1,
@@ -5379,32 +5405,6 @@
       "en": {
         "title": "Today C wants answers from Andersson and Kristersson",
         "summary": "The moment of truth awaits in the government question. At least for the Centre Party. Today at 17.00 is the deadline set for Magdalena Andersson and Ulf Kristersson to submit their political alternatives for C to consider."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "fb49f297aea0",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/centerpartiets-valjare-ser-hellre-alliansregering-an-v-i-regering",
-      "guid": "https://www.svt.se/nyheter/inrikes/centerpartiets-valjare-ser-hellre-alliansregering-an-v-i-regering",
-      "published_at": "2026-11-13T10:25:11+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Centerpartiets väljare ser hellre alliansregering än V i regering",
-        "summary": "Centerpartiets väljare vill helst sitta i regering med Magdalena Andersson – förutsatt att Vänsterpartiet hålls utanför. Annars föredrar de en alliansregering som släpps fram av SD, visar en undersökning från Indikator opinion.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Centre Party voters would rather see an Alliance government than V in government",
-        "summary": "Centre Party voters would most like to sit in government with Magdalena Andersson – provided the Left Party is kept out. Otherwise they prefer an Alliance government tolerated by SD, a survey by Indikator opinion shows."
       },
       "translation": {
         "status": "done",

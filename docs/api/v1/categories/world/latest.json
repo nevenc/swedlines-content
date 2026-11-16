@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-16T19:01:24+01:00",
+  "generated_at": "2026-11-16T19:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "247e581408f9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9343968",
+      "guid": "rss:sr.se/article/9343968",
+      "published_at": "2026-11-16T19:07:00+01:00",
+      "fetched_at": "2026-11-16T19:15:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "EU-länder vill öppna återvändandecenter i Rwanda",
+        "summary": "Österrike, Danmark, Tyskland, Grekland och Nederländerna kommer omedelbart att inleda förhandlingar för att öppna återvändandecenter i Rwanda för personer som har fått avslag på sin asylansökan, det meddelades vid en pressträff idag.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "EU countries want to open return hubs in Rwanda",
+        "summary": "Austria, Denmark, Germany, Greece and the Netherlands will immediately begin negotiations to open return hubs in Rwanda for people who have had their asylum applications rejected, it was announced at a press conference today."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T19:15:52+01:00"
+      }
+    },
+    {
+      "id": "83eea8e05e81",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/attack-mot-krimbron-trafiken-stoppades",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/attack-mot-krimbron-trafiken-stoppades/",
+      "published_at": "2026-11-16T18:59:32+01:00",
+      "fetched_at": "2026-11-16T19:15:45+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Attack mot Krimbron – trafiken stoppades",
+        "summary": "Totalstopp efter ukrainska attacken",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Attack on Crimea bridge – traffic halted",
+        "summary": "Total stop after the Ukrainian attack"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T19:15:52+01:00"
+      }
+    },
     {
       "id": "88c3515b9640",
       "schema_version": 1,
@@ -5302,58 +5354,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:59:36+01:00"
-      }
-    },
-    {
-      "id": "1ee2441b06f0",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340989",
-      "guid": "rss:sr.se/article/9340989",
-      "published_at": "2026-11-14T13:22:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Demonstrationer i Turkiet när klimatmötet når halvtid",
-        "summary": "Vid FN:s pågående klimatkonferens COP31 i Turkiet hålls demonstrationer i dag. Ekots klimatreporter Mona Hambraeus på plats i Antalya rapporterar om en blandad skara demonstranter .”Folkets marsch för klimatet går av stapeln nu, som arrangeras av bland annat Greenpeace”, säger hon.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Demonstrations in Turkey as the climate summit reaches halfway",
-        "summary": "Demonstrations are being held today at the UN climate conference COP31 in Turkey. Ekot's climate reporter Mona Hambraeus, on site in Antalya, reports on a mixed crowd of demonstrators. “The People's March for the Climate is going ahead now, organised by Greenpeace among others”, she says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "e79fc0991c24",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/mordarens-iskalla-svar-jag-skulle-gora-det-en-miljon-ganger",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/mordarens-iskalla-svar-jag-skulle-gora-det-en-miljon-ganger",
-      "published_at": "2026-11-14T13:15:08+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Tittar på familjen – säger iskalla orden",
-        "summary": "Mördarens sex ord i USA chockar alla",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Watching the family – says the chilling words",
-        "summary": "The killer's six words in the US shock everyone"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:51+01:00"
       }
     }
   ]
