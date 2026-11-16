@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-16T20:31:06+01:00",
+  "generated_at": "2026-11-16T20:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "99b0e23294c7",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/tekniska-problem-for-jp-morgan-aktien-backar",
+      "guid": "1231b7e7-7321-4c08-a0b2-b87e43cfc9d3",
+      "published_at": "2026-11-16T20:35:14+01:00",
+      "fetched_at": "2026-11-16T20:45:44+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Tekniska problem för JP Morgan – aktien backar",
+        "summary": "Vissa transaktioner tar längre tid än normalt hos JP Morgan Chase på grund av ett tekniskt problem. Det uppger banken på måndagen, skriver Bloomberg News.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Technical problems for JP Morgan – shares fall",
+        "summary": "Some transactions take longer than normal at JP Morgan Chase due to a technical problem. The bank says so on Monday, according to Bloomberg News."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T20:45:49+01:00"
+      }
+    },
+    {
+      "id": "61712c8c0bcf",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/johan-dighed-ny-vd-for-kd-ventures",
+      "guid": "cfa9437f-a613-41db-a4f6-2c93326ea6ad",
+      "published_at": "2026-11-16T20:33:36+01:00",
+      "fetched_at": "2026-11-16T20:45:44+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Johan Dighed ny vd för KD Ventures",
+        "summary": "KD Ventures har utsett nuvarande vice vd och chefsjurist Johan Dighed till ny vd, med tillträde på måndagen. Det framgår av ett pressmeddelande",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Johan Dighed new CEO of KD Ventures",
+        "summary": "KD Ventures has appointed current deputy CEO and chief legal officer Johan Dighed as new CEO, taking up the post on Monday. This is according to a press release"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T20:45:49+01:00"
+      }
+    },
     {
       "id": "8506464595b9",
       "schema_version": 1,
@@ -5291,60 +5343,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T20:31:05+01:00"
-      }
-    },
-    {
-      "id": "73996863e6db",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/centerpartiet-valjer-magdalena-anderssons-totalpaket",
-      "guid": "5ff9ad77-4d46-42ff-a771-c9ac0aef8992",
-      "published_at": "2026-11-15T20:03:34+01:00",
-      "fetched_at": "2026-11-15T20:15:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/319aacf6-043b-407f-81c4-217b49aa7c01.jpeg?width=600",
-      "sv": {
-        "title": "Centerpartiet väljer Magdalena Anderssons totalpaket",
-        "summary": "Centerpartiet har valt Socialdemokraternas Magdalena Anderssons (S) totalpaket. Det meddelar partiledaren Elisabeth Thand Ringqvist.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Centre Party chooses Magdalena Andersson's total package",
-        "summary": "The Centre Party has chosen the Social Democrats' Magdalena Andersson (S) total package. Party leader Elisabeth Thand Ringqvist announces this."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T20:15:49+01:00"
-      }
-    },
-    {
-      "id": "9fe907a1cdb3",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/skane/atta-ovanliga-hus-som-ar-till-salu-just-nu",
-      "guid": "98de2580-4754-4dcb-8d6d-2fb74da09b20",
-      "published_at": "2026-11-15T20:00:00+01:00",
-      "fetched_at": "2026-11-15T20:01:15+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/2ac98bd1-94e5-46b2-8fe0-654630c6d525.jpeg?width=600",
-      "sv": {
-        "title": "Åtta ovanliga hus som är till salu just nu",
-        "summary": "Ett har en toalett i guld, ett annat takmålningar i matsalen och ett är omslutet av ett enormt glashus. Här är en lista med åtta hem som är ganska speciella – och som är till salu i nordvästra Skåne.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Eight unusual homes for sale right now",
-        "summary": "One has a gold toilet, another has ceiling paintings in the dining room, and one is enclosed by an enormous glass house. Here is a list of eight homes that are quite special – and that are for sale in north-western Skåne."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T20:01:22+01:00"
       }
     }
   ]

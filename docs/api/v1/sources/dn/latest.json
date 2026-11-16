@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-16T20:31:06+01:00",
+  "generated_at": "2026-11-16T20:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "84dba47842e2",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-16-november-3",
+      "guid": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-16-november-3/",
+      "published_at": "2026-11-16T20:34:48+01:00",
+      "fetched_at": "2026-11-16T20:45:42+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/b3ec7938-f3d7-45cc-acf7-235acb246fdd.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Noterat av DN:s läsare den 16 november",
+        "summary": "INSÄNDARE. Dagens Nyheters läsare ger sin syn på läget i Sverige och världen samt DN:s innehåll måndagen den 16 november.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Letters. Noted by DN readers on 16 November",
+        "summary": "LETTERS. Readers of Dagens Nyheter give their views on the situation in Sweden and the world, as well as on DN's content, on Monday 16 November."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T20:45:49+01:00"
+      }
+    },
+    {
+      "id": "1a4171236e37",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ledare/lisa-magnusson-sluta-vara-sa-snala-nar-ni-koper-klader",
+      "guid": "https://www.dn.se/ledare/lisa-magnusson-sluta-vara-sa-snala-nar-ni-koper-klader/",
+      "published_at": "2026-11-16T20:34:18+01:00",
+      "fetched_at": "2026-11-16T20:45:42+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/0593dbbe-a845-4c22-bc69-a526ca11c102.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Lisa Magnusson: Sluta vara så snåla när ni köper kläder",
+        "summary": "H&M är inget svenskarna ska vara stolta över. De producerar engångsplagg – och det är dyrt, på alla nivåer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lisa Magnusson: Stop being so stingy when you buy clothes",
+        "summary": "H&M is nothing Swedes should be proud of. They produce disposable garments – and it is expensive, at every level."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T20:45:49+01:00"
+      }
+    },
     {
       "id": "559b4e3418e3",
       "schema_version": 1,
@@ -5333,60 +5387,6 @@
       "en": {
         "title": "13-year-old was blackmailed after attempted murder in Alby",
         "summary": "The 30-year-old man survived a shooting despite being hit by several shots. A 13-year-old boy is suspected of aiding and abetting the attempted murder, which took place in Alby this spring. Two teenagers are now charged with the shooting – and with afterwards blackmailing the 13-year-old."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "eee34eecd01f",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/ovanligt-genomtankt-konsertprogram-med-musik-fran-wien",
-      "guid": "https://www.dn.se/kultur/ovanligt-genomtankt-konsertprogram-med-musik-fran-wien/",
-      "published_at": "2026-11-13T11:30:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/cb2fcd3f-ea99-4719-8d8a-cef8a4692952.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Ovanligt genomtänkt konsertprogram med musik från Wien",
-        "summary": "Daniel Harding återvände som hedersdirigent när musik från Wien fyllde Berwaldhallen. Kvällen blev en studie av vad som händer med skapandet när världsläget tränger på, skriver DN:s Johanna Paulsson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unusually well-considered concert programme with music from Vienna",
-        "summary": "Daniel Harding returned as honorary conductor when music from Vienna filled Berwaldhallen. The evening became a study of what happens to creativity when the state of the world presses in, writes DN's Johanna Paulsson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "8975e2aec286",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/revolutionara-ranare-vill-fa-varlden-att-gora-uppror",
-      "guid": "https://www.dn.se/kultur/revolutionara-ranare-vill-fa-varlden-att-gora-uppror/",
-      "published_at": "2026-11-13T11:28:22+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/9e749942-d716-4092-a5ef-55d094b92ef2.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Revolutionära rånare vill få världen att göra uppror",
-        "summary": "Fyndiga och uppdaterade ”How to rob a bank” låter ett gäng bankrånare livesända sina kupper för maximal uppmärksamhet. En boomer från FBI och en ostbågeätande hackare följer dem i hälarna. Snygg och flyhänt, skriver Fredrik Sahlin..",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Revolutionary robbers want to make the world rise up",
-        "summary": "The witty and updated 'How to rob a bank' has a gang of bank robbers livestream their heists for maximum attention. A boomer from the FBI and a cheese-puff-eating hacker are hot on their heels. Slick and deft, writes Fredrik Sahlin."
       },
       "translation": {
         "status": "done",
