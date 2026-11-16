@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T16:31:08+01:00",
+  "generated_at": "2026-11-16T16:35:37+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ffc82ab76eb1",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/bk5kRd/alvsjomordet-flicka-slappt-ur-hakte",
+      "guid": "https://www.aftonbladet.se/nyheter/a/bk5kRd/alvsjomordet-flicka-slappt-ur-hakte?utm_medium=rss",
+      "published_at": "2026-11-16T16:33:20+01:00",
+      "fetched_at": "2026-11-16T16:35:31+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/dc50a3e3-8dcb-3203-8510-e1b8827b5041?format=auto&s=11accd351cac7986fad03de1c22bac466b9457a3&w=1000",
+      "sv": {
+        "title": "Älvsjömordet: Flicka släppt ur häkte",
+        "summary": "Den 14-åriga flicka som misstänks för medhjälp till det uppmärksammade mordet på en kvinna i…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Älvsjö murder: Girl released from remand",
+        "summary": "The 14-year-old girl suspected of aiding the high-profile murder of a woman in…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:35:37+01:00"
+      }
+    },
     {
       "id": "750600e8b93a",
       "schema_version": 1,
@@ -80,6 +107,39 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T16:16:22+01:00"
+      }
+    },
+    {
+      "id": "f3c458ae9fc8",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/ishockey/frolunda/cedric-pare-pa-plats-i-frolunda-har-ar-planen-for-debuten.8150dfe8-ee38-5d26-9d35-d4eabd8207f1",
+      "guid": "8150dfe8-ee38-5d26-9d35-d4eabd8207f1",
+      "published_at": "2026-11-16T16:09:22+01:00",
+      "fetched_at": "2026-11-16T16:35:33+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Frölunda",
+        "Tagg: Frölunda HC",
+        "Tagg: CHL",
+        "Tagg: SHL Svenska hockeyligan"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/b1a1c15f-80b5-3bcf-a6a6-975552c92096",
+      "sv": {
+        "title": "Frölundas nyförvärv Cédric Paré ger besked om debuten",
+        "summary": "Har tränat med juniorer • Tränaren: ”Då kan det gå åt pipsvängen”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Frölunda's new signing Cédric Paré reveals when he will make his debut",
+        "summary": "Has trained with the juniors • Coach: \"Then it could go pear-shaped\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T16:35:37+01:00"
       }
     },
     {
@@ -5369,60 +5429,6 @@
       "en": {
         "title": "Watch out: Nvidia report in tense situation",
         "summary": "Karolina Waligorska on what will drive the market on Tuesday."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:31:07+01:00"
-      }
-    },
-    {
-      "id": "979deb144b02",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/pisakulturen-ar-medskyldig-till-de-daliga-pisaresultaten",
-      "guid": "https://www.dn.se/kultur/pisakulturen-ar-medskyldig-till-de-daliga-pisaresultaten/",
-      "published_at": "2026-11-16T10:21:46+01:00",
-      "fetched_at": "2026-11-16T10:30:56+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/c1307c00-b0cd-4035-b383-fd77a4229e63.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Kulturdebatt. ”Pisakulturen är medskyldig till de dåliga Pisaresultaten”",
-        "summary": "I den senaste Pisaundersökningen fick svenska 15-åringar sitt svagaste resultat sedan mätningarna började år 2000. Men själva mätkulturen kring läsning är starkt bidragande till de svaga resultaten, menar två företrädare för Läsfrämjarinstitutet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Culture debate. \"Pisa culture is partly to blame for poor Pisa results\"",
-        "summary": "In the latest Pisa survey, Swedish 15-year-olds recorded their weakest result since measurements began in 2000. But the testing culture around reading is itself a major contributor to the weak results, argue two representatives of the Läsfrämjarinstitutet."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:31:07+01:00"
-      }
-    },
-    {
-      "id": "6e145336669f",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/wdPAL5/rysslands-knep-gratisresor-till-ockuperade-ukraina",
-      "guid": "https://www.aftonbladet.se/nyheter/a/wdPAL5/rysslands-knep-gratisresor-till-ockuperade-ukraina?utm_medium=rss",
-      "published_at": "2026-11-16T10:20:35+01:00",
-      "fetched_at": "2026-11-16T10:30:57+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/f514d881-379a-38cf-aa80-2d3adc29c353?format=auto&s=955a699b0d0b86a620b7be928d2d9971f6bf067d&w=1000",
-      "sv": {
-        "title": "Rysslands knep – gratisresor till ockuperade Ukraina",
-        "summary": "”Nyttiga idioter”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russia's trick – free trips to occupied Ukraine",
-        "summary": "\"Useful idiots\""
       },
       "translation": {
         "status": "done",
