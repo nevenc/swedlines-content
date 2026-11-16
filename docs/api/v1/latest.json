@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-16T01:45:46+01:00",
+  "generated_at": "2026-11-16T02:01:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4472af5f7382",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/7P0pJ3/ryssland-dronarattacker-mot-moskva",
+      "guid": "https://www.aftonbladet.se/nyheter/a/7P0pJ3/ryssland-dronarattacker-mot-moskva?utm_medium=rss",
+      "published_at": "2026-11-16T01:55:11+01:00",
+      "fetched_at": "2026-11-16T02:01:10+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ryssland: Drönarattacker mot Moskva",
+        "summary": "Tiotals drönare i riktning mot den ryska huvudstaden Moskva har avvärjts, hävdar stadens borgmästare…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russia: Drone attacks on Moscow",
+        "summary": "Dozens of drones heading toward the Russian capital Moscow have been intercepted, the city's mayor claims…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T02:01:15+01:00"
+      }
+    },
+    {
+      "id": "79e644895190",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/oMpEBj/mexikos-drogkung-ar-dod",
+      "guid": "https://www.svd.se/a/oMpEBj/mexikos-drogkung-ar-dod?utm_medium=rss",
+      "published_at": "2026-11-16T01:45:03+01:00",
+      "fetched_at": "2026-11-16T02:01:10+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Mexikos drogkung är död",
+        "summary": "Miguel Angel Félix Gallardo – ”Gudfadern” – som ledde den ökända Guadalajarakartellen, är död.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mexico's drug kingpin is dead",
+        "summary": "Miguel Angel Félix Gallardo – \"The Godfather\" – who led the notorious Guadalajara Cartel, is dead."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T02:01:15+01:00"
+      }
+    },
     {
       "id": "c3237838b979",
       "schema_version": 1,
@@ -5350,67 +5402,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T14:15:49+01:00"
-      }
-    },
-    {
-      "id": "9adcca448457",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ledare/sa-kan-borgerligheten-styra-riket",
-      "guid": "877ceb18-b65e-4ace-8afd-b10cfa649b0b",
-      "published_at": "2026-11-15T14:06:36+01:00",
-      "fetched_at": "2026-11-15T14:30:57+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/28d8c1ab-e05e-44fe-b111-24faf2943203.jpeg?width=600",
-      "sv": {
-        "title": "Så kan borgerligheten styra riket",
-        "summary": "Mycket har hänt på kort tid i svensk politik. Tidöpartierna har egen majoritet i den senaste opinionsundersökningen från SVT/Verian. Moderaterna närmar sig Socialdemokraterna. På tisdag rapporterar Ulf Kristersson – som nu leder förtroendeligan – till talmannen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is how the centre-right could govern the realm",
-        "summary": "Much has happened in a short time in Swedish politics. The Tidö parties have their own majority in the latest opinion poll from SVT/Verian. The Moderates are closing in on the Social Democrats. On Tuesday Ulf Kristersson (M), who now leads the trust rankings, reports to the speaker."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T14:31:04+01:00"
-      }
-    },
-    {
-      "id": "8a0753edcdde",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/krim/salde-smycken-till-sig-sjalv-med-94-procents-rabatt.29991663-ad38-5885-a71f-3584fbeaea73",
-      "guid": "29991663-ad38-5885-a71f-3584fbeaea73",
-      "published_at": "2026-11-15T14:04:23+01:00",
-      "fetched_at": "2026-11-15T14:30:57+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Krim",
-        "Tagg: Brott och straff",
-        "Tagg: Polisen",
-        "Tagg: Uppdatera mig - BEHOV",
-        "Tagg: breaking-GP"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/df821b23-6fac-3c75-bcf0-10576d211b91",
-      "sv": {
-        "title": "Sålde guldsmycken till sig själv – döms",
-        "summary": "Anställd i guldbutik misstänks för grov förskingring • ”Är dumsnäll”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sold gold jewellery to himself – convicted",
-        "summary": "Employee at a gold shop suspected of aggravated embezzlement • \"Is too kind-hearted\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T14:31:04+01:00"
       }
     }
   ]
