@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T11:01:17+01:00",
+  "generated_at": "2026-11-16T11:15:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "be06c1c786e1",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/hennes-hund-bet-ihjal-hennes-flickvan-nu-faller-domen",
+      "guid": "https://www.dn.se/sverige/hennes-hund-bet-ihjal-hennes-flickvan-nu-faller-domen/",
+      "published_at": "2026-11-16T11:11:34+01:00",
+      "fetched_at": "2026-11-16T11:15:39+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/9143ada6-38e7-40eb-8847-c5b60150b7d0.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Hennes hund bet ihjäl hennes flickvän – nu faller domen",
+        "summary": "En kvinna i 45-årsåldern dog efter att ha blivit attackerad av sin flickväns hund. Flickvännen åtalades för grovt vållande till annans död. Nu döms hon till fängelse i tre år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Her dog mauled her girlfriend to death – now the verdict falls",
+        "summary": "A woman in her 45s died after being attacked by her girlfriend's dog. The girlfriend was charged with aggravated negligent manslaughter. Now she is sentenced to three years in prison."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T11:15:47+01:00"
+      }
+    },
     {
       "id": "3fe8461f9d8a",
       "schema_version": 1,
@@ -5359,33 +5386,6 @@
       "en": {
         "title": "Letter. Almost impossible to reconcile neoliberalism and communism",
         "summary": "LETTER. If S leader Magdalena Andersson succeeds in forming a government with the support of both the Left Party and the Centre Party, she could go down in history. There is an economic chasm between these parties, and bridging it probably requires an almost supernatural ability, writes Lars…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "e215b18f2460",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/debatt/sverige-leder-omstallningen-mot-nettonoll-aven-om-det-inte-later-sa",
-      "guid": "https://www.dn.se/debatt/sverige-leder-omstallningen-mot-nettonoll-aven-om-det-inte-later-sa/",
-      "published_at": "2026-11-12T20:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/b520c6b4-14d6-4e86-b5ec-58124c3a29c8.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "DN Debatt. ”Sverige leder omställningen mot nettonoll – även om det inte låter så”",
-        "summary": "DN DEBATT. Framöver bör tre principer utgöra Sveriges linje i EU:s klimatförhandlingar: billigare elektrifiering, ingen acceptans för att produktion flyttar utomlands och en utfasning av de nationella klimatmålen i förmån för den gemensamma utsläppshandeln, skriver André Nilsson, näringspolitisk…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "DN Debatt. 'Sweden leads the transition to net zero – even if it doesn't sound like it'",
-        "summary": "DN DEBATT. Going forward, three principles should form Sweden's line in the EU's climate negotiations: cheaper electrification, no acceptance of production moving abroad and a phasing out of the national climate targets in favour of the common emissions trading system, writes André Nilsson, industrial policy…"
       },
       "translation": {
         "status": "done",
