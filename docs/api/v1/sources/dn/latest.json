@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-16T10:31:08+01:00",
+  "generated_at": "2026-11-16T11:00:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3fe8461f9d8a",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/tidotiden-ar-faktiskt-over",
+      "guid": "https://www.dn.se/insandare/tidotiden-ar-faktiskt-over/",
+      "published_at": "2026-11-16T10:42:08+01:00",
+      "fetched_at": "2026-11-16T11:00:36+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/6569e15c-5565-4079-9a2e-20fa8ef93270.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Tidötiden är faktiskt över",
+        "summary": "INSÄNDARE. Vänsterpartiet kan välja mellan att i förväg göra upp om sakpolitik och rösta ja till Magdalena Andersson eller avstå och gå i opposition. Varför har inte dessa oändliga spekulationer av journalister och andra kunnat klarlägga detta?",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Letter. The Tidö era is actually over",
+        "summary": "LETTER. The Left Party can choose between agreeing in advance on policy issues and voting yes to Magdalena Andersson, or abstaining and going into opposition. Why have these endless speculations by journalists and others not been able to clarify this?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T11:00:46+01:00"
+      }
+    },
     {
       "id": "ce9eecc1da6d",
       "schema_version": 1,
@@ -5359,33 +5386,6 @@
       "en": {
         "title": "DN Debatt. 'Sweden leads the transition to net zero – even if it doesn't sound like it'",
         "summary": "DN DEBATT. Going forward, three principles should form Sweden's line in the EU's climate negotiations: cheaper electrification, no acceptance of production moving abroad and a phasing out of the national climate targets in favour of the common emissions trading system, writes André Nilsson, industrial policy…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "764bf65b90a3",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/babyboom-for-nordkapare-flest-kalvar-pa-17-ar",
-      "guid": "https://www.dn.se/varlden/babyboom-for-nordkapare-flest-kalvar-pa-17-ar/",
-      "published_at": "2026-11-12T19:39:36+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/be0919d9-5a5a-4153-b9b3-0092408857af.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Babyboom för nordkapare – flest kalvar på 17 år",
-        "summary": "Glada nyheter för den akut hotade valen nordkapare – inte sedan 2009 har så många nyfödda kalvar observerats.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Baby boom for North Atlantic right whales – most calves in 17 years",
-        "summary": "Happy news for the critically endangered North Atlantic right whale – not since 2009 have so many newborn calves been observed."
       },
       "translation": {
         "status": "done",
