@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-16T05:15:47+01:00",
+  "generated_at": "2026-11-16T05:31:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e3654b636411",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9341369",
+      "guid": "rss:sr.se/article/9341369",
+      "published_at": "2026-11-16T05:27:00+01:00",
+      "fetched_at": "2026-11-16T05:30:56+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Minst 11 döda efter brand i Phuket",
+        "summary": "I thailändska Phuket har minst 11 personer dött efter en brand i en affärslokal, rapporterar Reuters. Branden spred sig till intilliggande byggnader och 16 personer vårdas för skador. Inga turister finns bland de döda eller skadade, uppger polisen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "At least 11 dead after fire in Phuket",
+        "summary": "In the Thai city of Phuket, at least 11 people have died after a fire in a commercial premises, Reuters reports. The fire spread to neighbouring buildings and 16 people are being treated for injuries. No tourists are among the dead or injured, police say."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T05:31:03+01:00"
+      }
+    },
     {
       "id": "e839638b2749",
       "schema_version": 1,
@@ -5348,33 +5374,6 @@
       },
       "en": {
         "title": "Trump's errand boys have not made a single concrete advance"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "b989edfbcc3e",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/norska-pengar-bor-spela-en-nyckelroll-for-ukraina",
-      "guid": "https://www.dn.se/insandare/norska-pengar-bor-spela-en-nyckelroll-for-ukraina/",
-      "published_at": "2026-11-13T18:27:12+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/ba0d50c5-1db0-463f-92bb-c80b2ebb6a49.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Norska pengar bör spela en nyckelroll för Ukraina",
-        "summary": "INSÄNDARE. Med den statliga oljefonden har vårt västra grannland ekonomiska möjligheter som få andra stater besitter. Ett omfattande stödpaket Norge skulle kunna ge Ukraina ett betydande tillskott, skriver Jan-Erik Sand.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Letter. Norwegian money should play a key role for Ukraine",
-        "summary": "LETTER. With the state oil fund, our western neighbour has financial possibilities that few other states possess. A comprehensive support package from Norway could give Ukraine a significant boost, writes Jan-Erik Sand."
       },
       "translation": {
         "status": "done",
