@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-17T00:15:41+01:00",
+  "generated_at": "2026-11-17T00:31:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6b4cb5f67a13",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/WmLnG2/mansklig-kultur-ar-som-hundkiss",
+      "guid": "https://www.svd.se/a/WmLnG2/mansklig-kultur-ar-som-hundkiss?utm_medium=rss",
+      "published_at": "2026-11-17T00:15:00+01:00",
+      "fetched_at": "2026-11-17T00:30:58+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/0ea78157-d4f5-39ec-a4da-4d1bc3587644?format=auto&s=8ba381fdba614603538008ca2a412a599a31316d&w=1000",
+      "sv": {
+        "title": "Mänsklig kultur är som hundkiss",
+        "summary": "Visst kan AI skapa kultur, men den duger knappast åt oss som inte är robotar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Human culture is like dog pee",
+        "summary": "Sure, AI can create culture, but it hardly works for those of us who aren't robots."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T00:31:03+01:00"
+      }
+    },
+    {
+      "id": "9846e3459039",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/qOLyRm/namntest-har-du-koll-pa-stockholms-stadsdelar",
+      "guid": "https://www.svd.se/a/qOLyRm/namntest-har-du-koll-pa-stockholms-stadsdelar?utm_medium=rss",
+      "published_at": "2026-11-17T00:15:00+01:00",
+      "fetched_at": "2026-11-17T00:30:58+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/889ddc2f-cb0a-3f75-b9bd-417a2dcbdbed?format=auto&s=f98d6e0fc66ddd3cea0229d3f24bc18a8f0e35bb&w=1000",
+      "sv": {
+        "title": "Namntest: Har du koll på Stockholms stadsdelar?",
+        "summary": "Vet du hur stadsdelarna i Stockholm fått sina namn? Det här testet utgår från Svenskt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Name quiz: Do you know Stockholm's districts?",
+        "summary": "Do you know how Stockholm's districts got their names? This quiz is based on Svenskt…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T00:31:03+01:00"
+      }
+    },
     {
       "id": "c6686c704e13",
       "schema_version": 1,
@@ -5405,56 +5459,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T16:35:37+01:00"
-      }
-    },
-    {
-      "id": "4e98ce349515",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/sex-veckors-forlustsvit-for-bitcoin",
-      "guid": "1bedadf8-d00e-485e-806c-b0fcce78024e",
-      "published_at": "2026-11-16T16:09:10+01:00",
-      "fetched_at": "2026-11-16T16:31:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/ef07c2e6-1fdc-4239-a9e5-9f754a0b52cb.jpeg?width=600",
-      "sv": {
-        "title": "Sex veckors förlustsvit för bitcoin",
-        "summary": "Efter sex veckors nedgång har bitcoin tappat nära hälften av sitt värde jämfört med toppnoteringen, som inföll i oktober i fjol. En Nasdaqnoterad bitcoinförvaltare har passat på att köpa – men tappar på börsen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Six-week losing streak for bitcoin",
-        "summary": "After six weeks of decline, bitcoin has lost nearly half its value from the peak recorded in October last year. A Nasdaq-listed bitcoin fund has taken the opportunity to buy – but is losing ground on the stock exchange."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:31:07+01:00"
-      }
-    },
-    {
-      "id": "d1fd528ed3a1",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79972",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79972&utm_medium=rss",
-      "published_at": "2026-11-16T16:06:22+01:00",
-      "fetched_at": "2026-11-16T16:16:00+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Pattinson blir nya James Bond"
-      },
-      "en": {
-        "title": "Pattinson becomes the new James Bond"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:16:22+01:00"
       }
     }
   ]

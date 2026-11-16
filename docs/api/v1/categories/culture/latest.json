@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T00:15:41+01:00",
+  "generated_at": "2026-11-17T00:31:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6b4cb5f67a13",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/WmLnG2/mansklig-kultur-ar-som-hundkiss",
+      "guid": "https://www.svd.se/a/WmLnG2/mansklig-kultur-ar-som-hundkiss?utm_medium=rss",
+      "published_at": "2026-11-17T00:15:00+01:00",
+      "fetched_at": "2026-11-17T00:30:58+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/0ea78157-d4f5-39ec-a4da-4d1bc3587644?format=auto&s=8ba381fdba614603538008ca2a412a599a31316d&w=1000",
+      "sv": {
+        "title": "Mänsklig kultur är som hundkiss",
+        "summary": "Visst kan AI skapa kultur, men den duger knappast åt oss som inte är robotar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Human culture is like dog pee",
+        "summary": "Sure, AI can create culture, but it hardly works for those of us who aren't robots."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T00:31:03+01:00"
+      }
+    },
     {
       "id": "3bf711f759bb",
       "schema_version": 1,
@@ -5586,32 +5613,6 @@
       "en": {
         "title": "The film festival has daddy issues: 'many films about fathers this year'",
         "summary": "SVT Kulturnyheterna was at the opening of the Stockholm Film Festival. Head of programming Beatrice Karlsson recommends films not to be missed."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "236a69b40ca7",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/kultur/recension-svenska-julfilmen-bara-till-jul",
-      "guid": "https://www.svt.se/kultur/recension-svenska-julfilmen-bara-till-jul",
-      "published_at": "2026-11-12T05:30:07+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Recension: Svenska julfilmen ”Bara till jul” i regi av Adam Pålsson",
-        "summary": "Två systrar kommer från en icke namngiven svensk ö. Den ena har stannat kvar och tränats in i familjeföretaget och den andra har gjort karriär i Stockholm. Ingen verkar speciellt nöjd med sitt val och lagom till jul ställs allt på sin spets.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Review: Swedish Christmas film 'Bara till jul' directed by Adam Pålsson",
-        "summary": "Two sisters come from an unnamed Swedish island. One has stayed and been trained into the family business and the other has made a career in Stockholm. Neither seems particularly happy with her choice, and just in time for Christmas everything comes to a head."
       },
       "translation": {
         "status": "done",
