@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-16T13:45:58+01:00",
+  "generated_at": "2026-11-16T14:01:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0d39a86ca8c2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/ryssland-hotar-baltikum",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/ryssland-hotar-baltikum",
+      "published_at": "2026-11-16T13:45:59+01:00",
+      "fetched_at": "2026-11-16T14:01:16+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Hotar Baltikum",
+        "summary": "Ryska ilskan efter Estlands drag: ”Kan inte acceptera”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Threatens the Baltics",
+        "summary": "Russian anger over Estonia's move: “Cannot accept”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:01:29+01:00"
+      }
+    },
     {
       "id": "b1a7c6228c6b",
       "schema_version": 1,
@@ -533,6 +559,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T08:31:06+01:00"
+      }
+    },
+    {
+      "id": "a2e390459122",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/410677",
+      "guid": "https://tv.aftonbladet.se/video/410677?utm_medium=rss",
+      "published_at": "2026-11-16T08:11:31+01:00",
+      "fetched_at": "2026-11-16T14:01:15+01:00",
+      "category": "world",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/46b4edeebca63e4fa8becd9b96020d63.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "11 döda på turistön",
+        "summary": "Brand bröt ut",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "11 dead on tourist island",
+        "summary": "Fire broke out"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:01:29+01:00"
       }
     },
     {
@@ -5314,59 +5367,6 @@
       "en": {
         "title": "At least 44 killed in attacks in Kongo-Kinshasa",
         "summary": "In Kongo-Kinshasa, at least 44 people have been killed in attacks carried out by a group of armed individuals with links to the terrorist movement IS. According to AFP, the attacks took place earlier this week in the north-eastern parts of the country."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:02+01:00"
-      }
-    },
-    {
-      "id": "2f6e62d49ab7",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340100",
-      "guid": "rss:sr.se/article/9340100",
-      "published_at": "2026-11-14T04:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Över 400 000 sjuka från brandröken i Indonesien: ”Svårt att andas”",
-        "summary": "Röken från bränderna i Indonesien har lett till minst 400 000 luftvägsinfektioner, enligt hälsoministeriet. En uppskattning från Helsingforsbaserade organisationen Centre for Research on Energy and Clean Air säger att röken kan ha orsakat omkring 3 500 dödsfall i Indonesien bara under september…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Over 400,000 sick from Indonesian fire smoke: \"Hard to breathe\"",
-        "summary": "Smoke from the fires in Indonesia has led to at least 400,000 respiratory infections, according to the health ministry. An estimate from the Helsinki-based Centre for Research on Energy and Clean Air says the smoke may have caused about 3,500 deaths in Indonesia in September alone…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:02+01:00"
-      }
-    },
-    {
-      "id": "7a75ea51a743",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/9BvKqw/44-dodade-i-eboladrabbade-kongo-kinshasa",
-      "guid": "https://www.aftonbladet.se/nyheter/a/9BvKqw/44-dodade-i-eboladrabbade-kongo-kinshasa?utm_medium=rss",
-      "published_at": "2026-11-14T03:25:10+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/a6b0dfdc-9e20-3341-9f02-5caf364c9ef4?format=auto&s=a50bf3b3845b5037699d7c537e75502e44117eb0&w=1000",
-      "sv": {
-        "title": "44 dödade i eboladrabbade Kongo-Kinshasa",
-        "summary": "Attacker utförda av beväpnade män med kopplingar till terrorrörelsen IS har krävt minst 44 civila…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "44 killed in Ebola-hit Kongo-Kinshasa",
-        "summary": "Attacks carried out by armed men with links to the terrorist movement IS have claimed at least 44 civilians…"
       },
       "translation": {
         "status": "done",

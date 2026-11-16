@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-16T13:45:58+01:00",
+  "generated_at": "2026-11-16T14:01:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5599ec301cf8",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/uppgifter-tomma-serverrack-hittades-i-megaspeed-razzia",
+      "guid": "7c1947aa-e016-4ef7-a4dd-144761bd4170",
+      "published_at": "2026-11-16T13:53:53+01:00",
+      "fetched_at": "2026-11-16T14:01:16+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Uppgifter: Tomma serverrack hittades i Megaspeed-razzia",
+        "summary": "Indonesisk polis har genomfört en razzia i Megaspeeds lokaler i Jakarta, efter misstankar om att företaget har vidareförmedlat Nvidia-chip till Kina på ett otillbörligt sätt. Det rapporterar den singaporeanska tidningen Straits Times.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: Empty server racks found in Megaspeed raid",
+        "summary": "Indonesian police have raided Megaspeed's premises in Jakarta over suspicions that the company improperly passed on Nvidia chips to China. The Singaporean newspaper Straits Times reports this."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:01:29+01:00"
+      }
+    },
+    {
+      "id": "7f5298a1b66f",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9343593",
+      "guid": "rss:sr.se/article/9343593",
+      "published_at": "2026-11-16T13:47:00+01:00",
+      "fetched_at": "2026-11-16T14:01:14+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Rörliga bolån gör att Riksbanken kan höja räntan mindre",
+        "summary": "När Riksbanken höjer styrräntan märks det snabbt av i mångas ekonomi. Det här eftersom runt 80 procent av de som har bolån har rörlig ränta. Men enligt Robert Boije, chefsekonom på statliga banken SBAB, finns det inget stöd för att det skulle vara bättre om fler hade bundna bolån.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Variable-rate mortgages mean the Riksbank can raise the rate less",
+        "summary": "When the Riksbank raises the policy rate, it is quickly felt in many people's finances. This is because around 80 percent of those with mortgages have variable rates. But according to Robert Boije, chief economist at the state-owned bank SBAB, there is no support for the claim that it would be better if more people had fixed-rate mortgages."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:01:29+01:00"
+      }
+    },
+    {
+      "id": "ddaa65b06218",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/eli-lilly-koper-1-arigt-bolag-for-15-miljarder",
+      "guid": "4140d683-be0d-4d3b-a39b-8b655c200c75",
+      "published_at": "2026-11-16T13:37:33+01:00",
+      "fetched_at": "2026-11-16T14:01:16+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f01ab0f1-22dd-49b4-bbbd-2b0097901c39.jpg?width=600",
+      "sv": {
+        "title": "Eli Lilly köper 1-årigt bolag för 15 miljarder",
+        "summary": "Den amerikanska läkemedelskoncernen Eli Lilly har gjort upp om ett köp av bioteknikbolaget Calytrix Bio för upp till 1,5 miljarder dollar, motsvarande omkring 15 miljarder kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Eli Lilly buys one-year-old company for 15 billion",
+        "summary": "The American pharmaceutical group Eli Lilly has agreed to buy biotech company Calytrix Bio for up to USD 1.5 billion, corresponding to about SEK 15 billion."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T14:01:29+01:00"
+      }
+    },
     {
       "id": "8d3a17db9524",
       "schema_version": 1,
@@ -5295,87 +5374,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:58:32+01:00"
-      }
-    },
-    {
-      "id": "291293779efe",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/forvaltaren-ser-inte-koplage-i-nvidia-vanta-och-se",
-      "guid": "5228e6f4-7d0c-42e9-bfc4-baaaaf64d128",
-      "published_at": "2026-11-14T16:39:27+01:00",
-      "fetched_at": "2026-11-14T17:07:33+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/7393c018-6f5a-437c-84c3-b88b1ece722a.png?width=600",
-      "sv": {
-        "title": "Förvaltaren ser inte köpläge i Nvidia: ”Vänta och se”",
-        "summary": "Efter den senaste tidens ras är Nvidia-aktien rekordbillig enligt bedömare. Globalfondsförvaltaren Niklas Lundin på Handelsbanken anser dock inte att det är köpläge än. ”Nu är det mer ett ”vänta och se”-läge”, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fund manager sees no buying opportunity in Nvidia: \"Wait and see\"",
-        "summary": "After the recent plunge, the Nvidia share is record cheap according to analysts. Global fund manager Niklas Lundin at Handelsbanken does not, however, consider it a buying opportunity yet. \"Now it is more of a 'wait and see' situation,\" he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:32+01:00"
-      }
-    },
-    {
-      "id": "cd97d0996ad0",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/motor/darfor-tvekar-svenskarna-kring-elbilskopet",
-      "guid": "https://www.dn.se/motor/darfor-tvekar-svenskarna-kring-elbilskopet/",
-      "published_at": "2026-11-14T16:31:53+01:00",
-      "fetched_at": "2026-11-14T17:07:30+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/8bddc223-8882-463d-be8f-c3c2f0d02edf.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Därför tvekar svenskarna kring elbilsköpet",
-        "summary": "Begränsad räckvidd, batterioro och högt inköpspris får svenska bilköpare att tveka inför elbilsköpet. Men av dem som redan har gått den elektriska vägen är valet enklare. Sju av tio uppger att de skulle välja el nästa gång. Det visar en ny rapport från mobilitetsbanken Ziklo Bank.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is why Swedes hesitate over buying an electric car",
-        "summary": "Limited range, battery worries and a high purchase price make Swedish car buyers hesitate over buying an electric car. But among those who have already gone electric, the choice is easier. Seven in ten say they would choose electric next time. This is shown by a new report from the mobility bank Ziklo Bank."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:49+01:00"
-      }
-    },
-    {
-      "id": "78e14b844f73",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/totalstopp-pa-karnkraftverk-kan-ge-dubbel-effekt-pa-elpriset",
-      "guid": "2f9054c5-9c95-4c94-8410-d43b17ac1211",
-      "published_at": "2026-11-14T16:31:23+01:00",
-      "fetched_at": "2026-11-14T17:07:33+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/e1825ff0-8ae2-4c5d-9686-25ce2f0dec46.jpg?width=600",
-      "sv": {
-        "title": "Totalstopp på kärnkraftverk – kan ge ”dubbel effekt” på elpriset",
-        "summary": "Kärnkraftsreaktorn Forsmark 3 har stoppats helt. Nu kan redan höga elpriser stiga ytterligare i nästa vecka. ”Stoppet får stora konsekvenser för elpriset i södra Sverige framför allt”, säger elmarknadsanalytikern Christian Holtz.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Total shutdown at nuclear plant – could give a \"double effect\" on electricity prices",
-        "summary": "The Forsmark 3 nuclear reactor has been completely shut down. Already high electricity prices could now rise further next week. \"The shutdown will have major consequences for electricity prices in southern Sweden above all,\" says electricity market analyst Christian Holtz."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:49+01:00"
       }
     }
   ]
