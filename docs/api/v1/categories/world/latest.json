@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-16T19:45:49+01:00",
+  "generated_at": "2026-11-16T20:01:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "de74ac756915",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/inspirerat-av-versailles-har-kostar-en-lagenhet-tva-miljarder-kronor",
+      "guid": "https://www.dn.se/varlden/inspirerat-av-versailles-har-kostar-en-lagenhet-tva-miljarder-kronor/",
+      "published_at": "2026-11-16T19:58:59+01:00",
+      "fetched_at": "2026-11-16T20:01:25+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/f47506c6-7644-42e9-b6e6-d321c87b61f8.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Inspirerat av Versailles – här kostar en lägenhet två miljarder kronor",
+        "summary": "LONDON. Vid Hyde Park står ett nybyggt hus med spegelsalar och guldinfattade garderober. Priset för en takvåning är drygt två miljarder kronor. Samtidigt saknar vart tionde barn i London en fast bostad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Inspired by Versailles – this apartment costs two billion kronor",
+        "summary": "LONDON. By Hyde Park stands a newly built house with mirror halls and gilded wardrobes. The price of a penthouse is just over SEK 2 billion. Meanwhile, one in ten children in London lacks a permanent home."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T20:01:33+01:00"
+      }
+    },
+    {
+      "id": "4b152fc26301",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Jno6B6/zelenskyj-pratat-med-europeiska-medlare",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Jno6B6/zelenskyj-pratat-med-europeiska-medlare?utm_medium=rss",
+      "published_at": "2026-11-16T19:53:50+01:00",
+      "fetched_at": "2026-11-16T20:01:26+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/ca682ea5-34ef-3d35-a909-5610a148fdf6?format=auto&s=c80772097bb8f6ab38b9e43e7bd683f13e815777&w=1000",
+      "sv": {
+        "title": "Zelenskyj: Pratat med europeiska medlare",
+        "summary": "Europeiska representanter har haft ett första möte med Ukraina och USA om framtida förhandlingar med…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Zelensky: Spoken with European mediators",
+        "summary": "European representatives have held a first meeting with Ukraine and the USA about future negotiations with…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T20:01:33+01:00"
+      }
+    },
     {
       "id": "247e581408f9",
       "schema_version": 1,
@@ -5293,60 +5347,6 @@
       "en": {
         "title": "Live report on the war in Ukraine and the security situation in Europe",
         "summary": "Follow our live reporting on the war in Ukraine and the security situation in Europe."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:36+01:00"
-      }
-    },
-    {
-      "id": "cab6e368453b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/JnoxPb/valdet-fick-studenterna-att-agera-pausade-livet",
-      "guid": "https://www.svd.se/a/JnoxPb/valdet-fick-studenterna-att-agera-pausade-livet?utm_medium=rss",
-      "published_at": "2026-11-14T13:41:46+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/5f668705-aadd-381b-80a7-04ac3ab84801?format=auto&s=558d05d0abbde304c93c6f24249039c9ab712abd&w=1000",
-      "sv": {
-        "title": "Våldet fick studenterna att agera: ”Pausade livet”",
-        "summary": "Efter den serbiska valskrällen vill världen nu veta om studentrörelsen kan gå från protester till…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The violence made the students act: “Paused life”",
-        "summary": "After the Serbian election upset, the world now wants to know whether the student movement can move from protests to…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:36+01:00"
-      }
-    },
-    {
-      "id": "ccc1186568ac",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/dJOngw/valdet-fick-studenterna-att-agera-pausade-livet",
-      "guid": "https://www.aftonbladet.se/nyheter/a/dJOngw/valdet-fick-studenterna-att-agera-pausade-livet?utm_medium=rss",
-      "published_at": "2026-11-14T13:41:44+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/5f668705-aadd-381b-80a7-04ac3ab84801?format=auto&s=558d05d0abbde304c93c6f24249039c9ab712abd&w=1000",
-      "sv": {
-        "title": "Våldet fick studenterna att agera: ”Pausade livet”",
-        "summary": "Efter den serbiska valskrällen vill världen nu veta om studentrörelsen kan gå från protester till…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The violence made the students act: “Paused life”",
-        "summary": "After the Serbian election upset, the world now wants to know whether the student movement can move from protests to…"
       },
       "translation": {
         "status": "done",

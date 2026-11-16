@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-16T19:45:49+01:00",
+  "generated_at": "2026-11-16T20:01:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a29b63cc8f46",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/debatt/glom-lika-mycket-till-alla-sa-har-bor-sverige-satsa-pa-stem",
+      "guid": "https://www.dn.se/debatt/glom-lika-mycket-till-alla-sa-har-bor-sverige-satsa-pa-stem/",
+      "published_at": "2026-11-16T20:00:00+01:00",
+      "fetched_at": "2026-11-16T20:01:25+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/3691b9c2-8bf6-4f61-870b-45c934617d0d.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "DN Debatt. ”Glöm lika mycket till alla – så här bör Sverige satsa på stem”",
+        "summary": "DN DEBATT. Alla är överens – Sverige behöver fler utbildningsplatser inom stem-ämnen. Men det ingen pratar om är hur pengarna ska fördelas. Varje utbildningsplats kräver lärare, lokaler och finansiering.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "DN Debate: \"Don't spread funding evenly – this is how Sweden should invest in STEM\"",
+        "summary": "DN DEBATE. Everyone agrees Sweden needs more STEM educational places. But no one talks about how the money should be distributed. Every educational place requires teachers, premises and funding."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T20:01:33+01:00"
+      }
+    },
+    {
+      "id": "de74ac756915",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/inspirerat-av-versailles-har-kostar-en-lagenhet-tva-miljarder-kronor",
+      "guid": "https://www.dn.se/varlden/inspirerat-av-versailles-har-kostar-en-lagenhet-tva-miljarder-kronor/",
+      "published_at": "2026-11-16T19:58:59+01:00",
+      "fetched_at": "2026-11-16T20:01:25+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/f47506c6-7644-42e9-b6e6-d321c87b61f8.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Inspirerat av Versailles – här kostar en lägenhet två miljarder kronor",
+        "summary": "LONDON. Vid Hyde Park står ett nybyggt hus med spegelsalar och guldinfattade garderober. Priset för en takvåning är drygt två miljarder kronor. Samtidigt saknar vart tionde barn i London en fast bostad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Inspired by Versailles – this apartment costs two billion kronor",
+        "summary": "LONDON. By Hyde Park stands a newly built house with mirror halls and gilded wardrobes. The price of a penthouse is just over SEK 2 billion. Meanwhile, one in ten children in London lacks a permanent home."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T20:01:33+01:00"
+      }
+    },
     {
       "id": "90f552320041",
       "schema_version": 1,
@@ -5333,60 +5387,6 @@
       "en": {
         "title": "The weekend's drink: Rock and rye",
         "summary": "DN's Elin Peters recommends a drink of the moment. This weekend a swinging sweetheart."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "9e1d748f5b05",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/sa-har-det-svangt-i-jakten-pa-en-ny-regering",
-      "guid": "https://www.dn.se/sverige/sa-har-det-svangt-i-jakten-pa-en-ny-regering/",
-      "published_at": "2026-11-13T10:45:41+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/0d65e24d-4ad7-4b23-b43a-2bf69624177e.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Så har det svängt i jakten på en ny regering",
-        "summary": "Efter det jämna valresultatet har turerna i regeringsfrågan avlöst varandra. Sverige står fortfarande utan ny regering. Här är de viktigaste vändningarna sedan valet den 13 september.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "How the hunt for a new government has swung back and forth",
-        "summary": "After the close election result, the twists in the government question have followed one after another. Sweden is still without a new government. Here are the most important turns since the election on 13 September."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "4e9a43a8f5a6",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/i-dag-vill-c-ha-besked-fran-andersson-och-kristersson",
-      "guid": "https://www.dn.se/sverige/i-dag-vill-c-ha-besked-fran-andersson-och-kristersson/",
-      "published_at": "2026-11-13T10:45:34+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/1fa0ecea-5eb3-43b8-889f-838e0771e8b1.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "I dag vill C ha besked från Andersson och Kristersson",
-        "summary": "Sanningens minut väntar i regeringsfrågan. I alla fall för Centerpartiet. I dag klockan 17.00 har man satt tidsgränsen för Magdalena Andersson och Ulf Kristersson att lämna sina politiska alternativ för C att ta ställning till.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Today C wants answers from Andersson and Kristersson",
-        "summary": "The moment of truth awaits in the government question. At least for the Centre Party. Today at 17.00 is the deadline set for Magdalena Andersson and Ulf Kristersson to submit their political alternatives for C to consider."
       },
       "translation": {
         "status": "done",
