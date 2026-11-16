@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T00:31:03+01:00",
+  "generated_at": "2026-11-17T00:45:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3f0cd5f5fb93",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/dJOvEj/epstein-professor-anders-eriksson-fran-umea-redovisar-teori",
+      "guid": "https://www.aftonbladet.se/nyheter/a/dJOvEj/epstein-professor-anders-eriksson-fran-umea-redovisar-teori?utm_medium=rss",
+      "published_at": "2026-11-17T00:39:55+01:00",
+      "fetched_at": "2026-11-17T00:45:41+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/0fd33025-f5e5-313e-89cb-6b0aa388fbc3?format=auto&s=55077febbb781db52c5d99233f100169439c3713&w=1000",
+      "sv": {
+        "title": "Svensk professor: Epstein dog inte genom självmordshängning",
+        "summary": "”Inte självmordshängning”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish professor: Epstein did not die by suicide hanging",
+        "summary": "”Not suicide by hanging”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T00:45:47+01:00"
+      }
+    },
     {
       "id": "6b4cb5f67a13",
       "schema_version": 1,
@@ -5426,39 +5453,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T16:16:22+01:00"
-      }
-    },
-    {
-      "id": "f3c458ae9fc8",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/ishockey/frolunda/cedric-pare-pa-plats-i-frolunda-har-ar-planen-for-debuten.8150dfe8-ee38-5d26-9d35-d4eabd8207f1",
-      "guid": "8150dfe8-ee38-5d26-9d35-d4eabd8207f1",
-      "published_at": "2026-11-16T16:09:22+01:00",
-      "fetched_at": "2026-11-16T16:35:33+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Frölunda",
-        "Tagg: Frölunda HC",
-        "Tagg: CHL",
-        "Tagg: SHL Svenska hockeyligan"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/b1a1c15f-80b5-3bcf-a6a6-975552c92096",
-      "sv": {
-        "title": "Frölundas nyförvärv Cédric Paré ger besked om debuten",
-        "summary": "Har tränat med juniorer • Tränaren: ”Då kan det gå åt pipsvängen”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Frölunda's new signing Cédric Paré reveals when he will make his debut",
-        "summary": "Has trained with the juniors • Coach: \"Then it could go pear-shaped\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:35:37+01:00"
       }
     }
   ]
