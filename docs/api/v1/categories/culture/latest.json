@@ -1,7 +1,65 @@
 {
-  "generated_at": "2026-11-16T21:31:04+01:00",
-  "count": 199,
+  "generated_at": "2026-11-16T22:01:25+01:00",
+  "count": 200,
   "items": [
+    {
+      "id": "1ba93af6df34",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1eZxT0TzKOlgPthkgIyqcq/estelles-nya-praktikplats-presidentkansliet-i-helsingfors",
+      "guid": "1eZxT0TzKOlgPthkgIyqcq",
+      "published_at": "2026-11-16T21:36:35+01:00",
+      "fetched_at": "2026-11-16T22:01:16+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Här är Estelles nya praktikplats",
+        "summary": "Under förra veckan genomförde prinsessan Estelle den första av två veckors praktiska arbetslivsorientering, så kallad ”prao”. Det meddelade Kungahuset under söndagen. Veckan spenderades hos kung Carl XVI Gustaf och Kungliga Hovstaterna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Here is Estelle's new work placement",
+        "summary": "Last week Princess Estelle completed the first of two weeks of practical work-life orientation, so-called \"prao\". The Royal Court announced this on Sunday. The week was spent with King Carl XVI Gustaf and the Royal Court Staff."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T22:01:25+01:00"
+      }
+    },
+    {
+      "id": "de5808ee9ca3",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2VoccxY2kt6bwRay46zKt/husdroemmen-avbryts-naer-sonen-drabbas-av-hjaerntumoer",
+      "guid": "2VoccxY2kt6bwRay46zKt",
+      "published_at": "2026-11-16T21:30:59+01:00",
+      "fetched_at": "2026-11-16T22:01:16+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Nöje"
+      ],
+      "sv": {
+        "title": "Husdrömmen avbryts när sonen drabbas av hjärntumör",
+        "summary": "På Värmdö utanför Stockholm bygger Rusty Rose och Freddie Gudmunds Dandemars just nu ett generationsboende tillsammans med Rustys pappa Pete. Husbygget, som följts av kamerorna i ”Grand designs Sverige” under sex år, fick dock ett abrupt avbrott i maj 2023 när Rusty och Freddie fick ett av de…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Dream home put on hold when son is diagnosed with brain tumour",
+        "summary": "In Värmdö outside Stockholm, Rusty Rose and Freddie Gudmunds Dandemars are currently building a multigenerational home together with Rusty's father Pete. The construction, followed by cameras for \"Grand designs Sverige\" for six years, was abruptly halted in May 2023 when Rusty and Freddie received one of the…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T22:01:25+01:00"
+      }
+    },
     {
       "id": "0934aa9607e1",
       "schema_version": 1,
@@ -171,6 +229,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T19:15:52+01:00"
+      }
+    },
+    {
+      "id": "ee321d1abe8f",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/71IGybCEE9H7oQjcSwRhV/gessle-minns-tillbaka-till-storhetstiden-med-roxette",
+      "guid": "71IGybCEE9H7oQjcSwRhV",
+      "published_at": "2026-11-16T19:02:56+01:00",
+      "fetched_at": "2026-11-16T22:01:16+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Efter fem"
+      ],
+      "sv": {
+        "title": "Gessle om storhetstiden med Roxette: ”En fantastisk resa”",
+        "summary": "På debutalbumet \"Pearls of Passion\" blev den första singeln \"Neverending Love\" en stor svensk sommarhit som nådde topplistorna. Låten \"The Look\" släpptes 1988 och året efter toppade den Billboardlistan i USA. – Vi slog igenom internationellt 1989 och tog en paus i slutet av 1995.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Gessle on the Roxette heyday: \"A fantastic journey\"",
+        "summary": "On the debut album \"Pearls of Passion\", the first single \"Neverending Love\" became a major Swedish summer hit that reached the charts. The song \"The Look\" was released in 1988, and the following year it topped the Billboard chart in the USA. \"We broke through internationally in 1989 and took a break at the end of 1995.\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-16T22:01:25+01:00"
       }
     },
     {
@@ -5517,59 +5604,6 @@
       "en": {
         "title": "She packs her bags and leaves – says goodbye in a text message",
         "summary": "In Wednesday's episode of 'Bonde söker fru', horse and cattle farmer Patrik Bergquist wakes up to a shock. Emelie Kullenberg has packed her bags and left the programme. – I actually think it is incredibly sad that she does not want to spend more time with me."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "4c374cde3f3b",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/har-ar-10-evenemang-och-premiarer-du-inte-far-missa-4",
-      "guid": "https://www.dn.se/kultur/har-ar-10-evenemang-och-premiarer-du-inte-far-missa-4/",
-      "published_at": "2026-11-11T20:27:52+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/7776f1dc-ed71-44f3-a9ea-140a6a9fcf9e.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Här är 10 evenemang och premiärer du inte får missa",
-        "summary": "Stort julkaos, Stockholms undre värld och länets nya musikfestival. DN:s Anders Haraldsson guidar till de mest sevärda konserterna, utställningarna och premiärerna – boka innan det är för sent. Se ännu fler tips och evenemang här – nya varje dag",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here are 10 events and premieres you must not miss",
-        "summary": "Major Christmas chaos, Stockholm's underworld and the county's new music festival. DN's Anders Haraldsson guides you to the concerts, exhibitions and premieres most worth seeing – book before it is too late. See even more tips and events here – new ones every day"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "5d255a5ddae5",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/sodertalje/singlar-mar-battre-vanskap-ar-den-storsta-karleken",
-      "guid": "https://www.svt.se/nyheter/lokalt/sodertalje/singlar-mar-battre-vanskap-ar-den-storsta-karleken",
-      "published_at": "2026-11-11T17:55:57+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Singlar kan må bättre: ”Vänskap är den största kärleken”",
-        "summary": "Den 11/11 är det ”Singeldagen”. En dag som marknadsförs av företag och som har vuxit till en av världens största shoppingdagar, med uppmuntran att ”sätta sig själv först”. – Jag tycker att man måste vara singel emellanåt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Singles can feel better: 'Friendship is the greatest love'",
-        "summary": "11/11 is 'Singles' Day'. A day marketed by companies that has grown into one of the world's biggest shopping days, with encouragement to 'put yourself first'. – I think you have to be single now and then."
       },
       "translation": {
         "status": "done",
