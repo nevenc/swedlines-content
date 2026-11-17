@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T10:45:56+01:00",
+  "generated_at": "2026-11-17T11:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9a079af237a4",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/kim-tog-en-rok-i-skidbacken-ingen-signal-om-trump",
+      "guid": "4ec35b38-efcd-4add-83b3-53a66150b1c4",
+      "published_at": "2026-11-17T10:55:37+01:00",
+      "fetched_at": "2026-11-17T11:01:15+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/79289f4f-e05a-4835-a46b-d10fd30969d4.jpg?width=600",
+      "sv": {
+        "title": "Kim tog en rök i skidbacken – ingen signal om Trump",
+        "summary": "Diktatorn Kim Jong-Un tog en cigarett i backen och tittade på dotterns åkning när han besökte en ny skidanläggning i norra Nordkorea. Men rapporten från landets propagandamedier innehåller inga signaler om något förestående möte med USA:s Donald Trump.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kim takes a smoke on the ski slope – no signal about Trump",
+        "summary": "Dictator Kim Jong-Un smoked a cigarette on the slope and watched his daughter ski when he visited a new ski resort in northern North Korea. But the report from the country's propaganda media contains no signals of an upcoming meeting with US President Donald Trump."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T11:01:24+01:00"
+      }
+    },
     {
       "id": "99ef4d108856",
       "schema_version": 1,
@@ -5304,33 +5331,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T09:15:48+01:00"
-      }
-    },
-    {
-      "id": "34834816215b",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/hemkops-vd-lamnar-for-ica",
-      "guid": "9bb7e78a-2849-4f59-9643-68c764737c5a",
-      "published_at": "2026-11-16T08:53:40+01:00",
-      "fetched_at": "2026-11-16T09:01:25+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/5c951091-5ec6-45bc-9d1d-b44f56d4cdbe.jpeg?width=600",
-      "sv": {
-        "title": "Hemköps vd lämnar för Ica",
-        "summary": "Livsmedelskoncernen Axfood rapporterar dubbla förändringar i koncernledningen. Det ena är att Hemköps vd Shoan Etemadi lämnar bolaget för att bli vd på Ica Sverige. Dessutom har Axfood fått en ny finanschef.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hemköp CEO leaves for Ica",
-        "summary": "Grocery group Axfood reports two changes in its group management. One is that Hemköp CEO Shoan Etemadi is leaving the company to become CEO of Ica Sverige. In addition, Axfood has a new CFO."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:01:40+01:00"
       }
     }
   ]

@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-17T10:45:56+01:00",
+  "generated_at": "2026-11-17T11:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "78abb9388b00",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/krimbron-uppges-skadad-efter-ukrainska-attacker",
+      "guid": "https://www.dn.se/varlden/krimbron-uppges-skadad-efter-ukrainska-attacker/",
+      "published_at": "2026-11-17T10:53:59+01:00",
+      "fetched_at": "2026-11-17T11:01:13+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/1dae8454-59b3-4d11-a7d8-6cd0696cb4d7.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Krimbron uppges skadad efter ukrainska attacker",
+        "summary": "Bron som förbinder ryskockuperade Krim med fastlandet uppges ha skadats efter flera ukrainska attacker. Bilder påstås visa hur delar av bron har kollapsat. Ryska myndigheter uppger att de öppnat en terrorismutredning, enligt Reuters.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Crimean bridge reportedly damaged after Ukrainian attacks",
+        "summary": "The bridge connecting Russian-occupied Crimea with the mainland is reportedly damaged after several Ukrainian attacks. Images allegedly show parts of the bridge collapsing. Russian authorities say they have opened a terrorism investigation, according to Reuters."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T11:01:24+01:00"
+      }
+    },
+    {
+      "id": "05737487e1aa",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/ryskt-krismote-efter-attacken-mot-krimbron",
+      "guid": "https://www.expressen.se/nyheter/varlden/ryskt-krismote-efter-attacken-mot-krimbron/",
+      "published_at": "2026-11-17T10:53:49+01:00",
+      "fetched_at": "2026-11-17T11:01:14+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ryskt krismöte efter attacken mot Krimbron",
+        "summary": "Ukraina har för andra gången den här veckan attackerat Kertjbron. Nu samlas ryska regeringen för ett krismöte, rapporterar ryska telegrambyrån TASS.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russian crisis meeting after attack on Crimean bridge",
+        "summary": "Ukraine has attacked the Kerch bridge for the second time this week. The Russian government is now convening a crisis meeting, reports the Russian news agency TASS."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T11:01:24+01:00"
+      }
+    },
+    {
+      "id": "9df3b8d75fc7",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/wdPK81/kim-tog-en-rok-i-skidbacken-ingen-signal-om-trump",
+      "guid": "https://www.aftonbladet.se/nyheter/a/wdPK81/kim-tog-en-rok-i-skidbacken-ingen-signal-om-trump?utm_medium=rss",
+      "published_at": "2026-11-17T10:50:42+01:00",
+      "fetched_at": "2026-11-17T11:01:14+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/685ff542-ed4e-3eb9-9212-83d2a8a9904a?format=auto&s=59dd6ccd5f3509cf049c1857fbf9782f017b03dc&w=1000",
+      "sv": {
+        "title": "Kim tog en rök i skidbacken – ingen signal om Trump",
+        "summary": "Diktatorn Kim Jong-Un tog en cigarett i backen och tittade på dotterns åkning när han besökte en ny…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kim takes a smoke on the ski slope – no signal about Trump",
+        "summary": "Dictator Kim Jong-Un smoked a cigarette on the slope and watched his daughter ski when he visited a new…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T11:01:24+01:00"
+      }
+    },
     {
       "id": "402f28536f73",
       "schema_version": 1,
@@ -5280,86 +5360,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T13:31:13+01:00"
-      }
-    },
-    {
-      "id": "7d01d358283a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/kMJwKX/anfall-mot-industrin-i-ryska-tatarstan",
-      "guid": "https://www.aftonbladet.se/nyheter/a/kMJwKX/anfall-mot-industrin-i-ryska-tatarstan?utm_medium=rss",
-      "published_at": "2026-11-15T10:39:47+01:00",
-      "fetched_at": "2026-11-15T11:26:39+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Anfall mot industrin i ryska Tatarstan",
-        "summary": "Ukraina har gått till anfall i Tatarstan i Ryssland, meddelar myndigheterna där.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Attack on industry in Russia's Tatarstan",
-        "summary": "Ukraine has launched an attack in Tatarstan in Russia, the authorities there announce."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T11:26:59+01:00"
-      }
-    },
-    {
-      "id": "8edffcbb02fb",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/mM67W1/spionaffarerna-i-silicon-valley-skakar-bransch-som-delar-allt",
-      "guid": "https://www.svd.se/a/mM67W1/spionaffarerna-i-silicon-valley-skakar-bransch-som-delar-allt?utm_medium=rss",
-      "published_at": "2026-11-15T10:30:11+01:00",
-      "fetched_at": "2026-11-15T11:26:38+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/7b448451-c62e-3dc7-b12f-55104dc0fe42?format=auto&s=416c2d2ca3c2204a649d1bbb6fb2ff3849f05ee3&w=1000",
-      "sv": {
-        "title": "Hemligt toppmöte start för ”omöjlig” spionjakt",
-        "summary": "Silicon Valley är en av världens hetaste måltavlor för spionage. Men hur skyddar man världens…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Secret summit starts for \"impossible\" spy hunt",
-        "summary": "Silicon Valley is one of the world's hottest targets for espionage. But how does one protect the world's…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T11:26:59+01:00"
-      }
-    },
-    {
-      "id": "82a6266ba260",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/tre-doms-till-doden-for-kyrkattack",
-      "guid": "eeb838b9-3426-4d72-8e45-7a9d89855c39",
-      "published_at": "2026-11-15T10:12:21+01:00",
-      "fetched_at": "2026-11-15T11:26:42+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/d3c17e19-225b-4c2c-9e7e-63de10ce6d68.jpg?width=600",
-      "sv": {
-        "title": "Tre döms till döden för kyrkattack",
-        "summary": "Tre män döms till döden för att ha skjutit ihjäl nio personer i en kyrka i Jordanien.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Three sentenced to death for church attack",
-        "summary": "Three men are sentenced to death for shooting nine people dead in a church in Jordan."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T11:27:01+01:00"
       }
     }
   ]
