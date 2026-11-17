@@ -1,7 +1,53 @@
 {
-  "generated_at": "2026-11-17T15:45:57+01:00",
+  "generated_at": "2026-11-17T16:01:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "13a15f90d7b3",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/stor-villa-i-vastra-ingelstad-vellinge-har-fatt-nya-agare-priset-14-000-000-kronor",
+      "guid": "04d81a05-67ed-44c2-a8a3-1612308bb844",
+      "published_at": "2026-11-17T15:49:48+01:00",
+      "fetched_at": "2026-11-17T16:01:24+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Stor villa i Västra Ingelstad, Vellinge har fått nya ägare – priset: 14 000 000 kronor"
+      },
+      "en": {
+        "title": "Large villa in Västra Ingelstad, Vellinge has new owners – price: SEK 14,000,000"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:01:28+01:00"
+      }
+    },
+    {
+      "id": "7d564563c613",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/43-aring-ny-agare-tar-over-villa-LjU8j",
+      "guid": "d04d7592-af5d-4c9f-b60e-eefb3c47f2aa",
+      "published_at": "2026-11-17T15:49:47+01:00",
+      "fetched_at": "2026-11-17T16:01:24+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "43-åring ny ägare tar över villa"
+      },
+      "en": {
+        "title": "43-year-old new owner takes over villa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:01:28+01:00"
+      }
+    },
     {
       "id": "7298cc8add6c",
       "schema_version": 1,
@@ -5189,60 +5235,6 @@
       "en": {
         "title": "How the Redhawks will turn the trend: \"We know how to beat Rögle\"",
         "summary": "1–4 against Frölunda and 1–2 against Växjö. And on Thursday Rögle come to Malmö Arena. – We did well last time in Ängelholm and we know how to beat Rögle, says Redhawks forward Axel Sundberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:20+01:00"
-      }
-    },
-    {
-      "id": "765050ce785d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/farbror-hanzl-har-den-ratta-knycken-darfor-ska-han-vara-kvar-i-redhawks",
-      "guid": "c58b10b4-e2bf-4a8b-9fbc-f01e87fc5aa5",
-      "published_at": "2026-11-14T18:13:34+01:00",
-      "fetched_at": "2026-11-14T18:42:05+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/994f5e3b-8b5e-4d56-89c0-a347b44d7adc.jpeg?width=600",
-      "sv": {
-        "title": "Farbror Hanzl har den rätta knycken – därför ska han vara kvar i Redhawks",
-        "summary": "Tjorvens dom var hård när farbror Melker inte fick igång aktersnurran på den gamla träbåten i ”Vi på Saltkråkan”. – Du har inte den rätta knycken! Jag vill tro att det finns paralleller mellan att spela hockey och att dra igång en utombordsmotor. Det sitter i handlederna. Några har det, andra inte.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Uncle Hanzl has the right knack – why he should stay with the Redhawks",
-        "summary": "Tjorven's verdict was harsh when Uncle Melker could not start the outboard motor on the old wooden boat in \"Vi på Saltkråkan\". – You don't have the right knack! I want to believe there are parallels between playing hockey and starting an outboard motor. It sits in the wrists. Some have it, others don't."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:20+01:00"
-      }
-    },
-    {
-      "id": "3dab57b9dc10",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/malmolakare-misshandlade-sin-hoggravida-fru-infor-ogonen-pa-barnen",
-      "guid": "3232eb6a-8742-4eec-898e-59c2e1aead15",
-      "published_at": "2026-11-14T18:00:00+01:00",
-      "fetched_at": "2026-11-14T18:42:05+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/e8eb3590-0d0a-41bc-9f02-5821f35d74ca.jpeg?width=600",
-      "sv": {
-        "title": "Malmöläkare misshandlade sin höggravida fru – inför ögonen på barnen",
-        "summary": "Under flera års tid slog och förnedrade en Malmöläkare sin fru – även när hon var höggravid. Till slut tog kvinnan med sig barnen och flydde. Nu döms läkaren till fängelse. Sannolikt kommer han även att bli av med sin läkarlegitimation.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Malmö doctor assaulted his heavily pregnant wife – in front of the children",
-        "summary": "For several years a Malmö doctor beat and humiliated his wife – even when she was heavily pregnant. In the end the woman took the children and fled. Now the doctor is convicted and sentenced to prison. He will likely also lose his medical licence."
       },
       "translation": {
         "status": "done",

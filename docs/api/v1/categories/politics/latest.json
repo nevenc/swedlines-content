@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-17T15:45:57+01:00",
+  "generated_at": "2026-11-17T16:01:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d3c0257bfb23",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/9Bvo6M/talmannen-haller-presstraff",
+      "guid": "https://www.aftonbladet.se/nyheter/a/9Bvo6M/talmannen-haller-presstraff?utm_medium=rss",
+      "published_at": "2026-11-17T16:00:15+01:00",
+      "fetched_at": "2026-11-17T16:01:22+01:00",
+      "category": "politics",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/bbca2821bd1ecea89c49a97e68205669.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Talmannen håller pressträff",
+        "summary": "Kristersson har bett om mer tid. Och det får han. – Min uppfattning är att den här…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Speaker holds press conference",
+        "summary": "Kristersson has asked for more time. And he gets it. – My understanding is that the here…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:01:28+01:00"
+      }
+    },
+    {
+      "id": "332e8be80bab",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344457",
+      "guid": "rss:sr.se/article/9344457",
+      "published_at": "2026-11-17T15:51:00+01:00",
+      "fetched_at": "2026-11-17T16:01:19+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Furtenbach: Högt tempo ökar hans chanser att bli statsminister",
+        "summary": "M-ledaren Ulf Kristersson bad om mer tid att sondera vid en pressträff i dag men sa samtidigt att han är beredd att gå till omröstning om sig själv inom kort.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Furtenbach: High pace increases his chances of becoming prime minister",
+        "summary": "Moderates leader Ulf Kristersson (M) asked for more time to hold exploratory talks at a press conference today, but said at the same time that he is prepared to go to a vote on himself shortly."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:01:28+01:00"
+      }
+    },
     {
       "id": "dfce1ee626cb",
       "schema_version": 1,
@@ -5336,58 +5389,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T03:31:50+01:00"
-      }
-    },
-    {
-      "id": "5779e5d4b60c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/andersson-s-fortydligar-efter-kritiken-fran-v-feltolkning",
-      "guid": "https://www.expressen.se/nyheter/politik/andersson-s-fortydligar-efter-kritiken-fran-v-feltolkning/",
-      "published_at": "2026-11-14T23:08:46+01:00",
-      "fetched_at": "2026-11-14T23:33:36+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Andersson (S) förtydligar – efter kritiken från V: ”Feltolkning”",
-        "summary": "V är redo att förhandla vidare om en rödgrön regering, skrev S-ledaren i en debattartikel i Expressen. Det tolkades av vissa som att V släppt kravet på ministerposter, vilket partiet gick ut och förnekade. Andersson har nu publicerat ett förtydligande i sociala medier.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Andersson (S) clarifies – after criticism from the Left Party: \"Misinterpretation\"",
-        "summary": "The Left Party is ready to continue negotiating a red-green government, the S leader wrote in a debate article in Expressen. Some interpreted this as the Left Party having dropped its demand for ministerial posts, which the party went out and denied. Andersson has now published a clarification on social media."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "d9c00b9162bd",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ec759b2a-5033-4609-8916-e3d25d1db410",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ec759b2a-5033-4609-8916-e3d25d1db410",
-      "published_at": "2026-11-14T20:28:31+01:00",
-      "fetched_at": "2026-11-14T20:30:10+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Anderssons förtydligande efter artikeln",
-        "summary": "Magdalena Anderssons klargörande om V",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Andersson clarifies after article",
-        "summary": "Magdalena Andersson's clarification on V"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:22+01:00"
       }
     }
   ]

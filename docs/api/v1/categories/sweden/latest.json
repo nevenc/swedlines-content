@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T15:45:57+01:00",
+  "generated_at": "2026-11-17T16:01:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "663e8939a04f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/migrationsdomstolen-de-19-filippinerna-har-ratt-att-arbeta-pa-ssab",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/migrationsdomstolen-de-19-filippinerna-har-ratt-att-arbeta-pa-ssab",
+      "published_at": "2026-11-17T15:52:42+01:00",
+      "fetched_at": "2026-11-17T16:01:18+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Migrationsdomstolen: De 19 filippinerna har rätt att arbeta på SSAB",
+        "summary": "19 filippinska arbetare sattes i Migrationsverkets förvar efter ett polistillslag på SSAB tidigare i år. Nu har även migrationsdomstolen gett arbetarna rätt, rapporterar Södermanlands nyheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Migration Court: The 19 Filipinos have the right to work at SSAB",
+        "summary": "19 Filipino workers were placed in the Migration Agency's custody after a police raid at SSAB earlier this year. Now the Migration Court has also ruled in the workers' favour, reports Södermanlands Nyheter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:01:28+01:00"
+      }
+    },
     {
       "id": "7298cc8add6c",
       "schema_version": 1,
@@ -5391,32 +5417,6 @@
       "en": {
         "title": "After leaks and broken pumps – swimming teacher Joakim wants a new swimming pool in Kungsör",
         "summary": "Kungsör's swimming pool is old, worn and has been forced to close several times in recent years. Now swimming teacher Joakim Carlsson appeals to the politicians to invest in a new pool. – Now it has been patched and mended. But how long will that repair last?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "62332f1e2226",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/de-ar-bast-i-sverige-pa-hallbarhet-barnen-visar-vagen",
-      "guid": "https://www.svt.se/nyheter/lokalt/ost/de-ar-bast-i-sverige-pa-hallbarhet-barnen-visar-vagen",
-      "published_at": "2026-11-11T17:45:03+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "De är bäst i Sverige på hållbarhet – barnen visar vägen",
-        "summary": "På Hansgårdens förskola står barnen själva i centrum för hållbarhetsarbetet. Genom demokratiska omröstningar, odling och återbruk har de fått lära sig hur små handlingar kan göra skillnad. Nu belönas arbetet med utmärkelsen Årets hållbara förskola.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "They are the best in Sweden at sustainability – the children lead the way",
-        "summary": "At Hansgården preschool the children themselves are at the centre of the sustainability work. Through democratic votes, growing and reuse they have learned how small actions can make a difference. Now the work is rewarded with the award Sustainable Preschool of the Year."
       },
       "translation": {
         "status": "done",

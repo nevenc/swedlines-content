@@ -1,7 +1,186 @@
 {
-  "generated_at": "2026-11-17T15:45:57+01:00",
-  "count": 431,
+  "generated_at": "2026-11-17T16:01:29+01:00",
+  "count": 438,
   "items": [
+    {
+      "id": "d3c0257bfb23",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/9Bvo6M/talmannen-haller-presstraff",
+      "guid": "https://www.aftonbladet.se/nyheter/a/9Bvo6M/talmannen-haller-presstraff?utm_medium=rss",
+      "published_at": "2026-11-17T16:00:15+01:00",
+      "fetched_at": "2026-11-17T16:01:22+01:00",
+      "category": "politics",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/bbca2821bd1ecea89c49a97e68205669.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Talmannen håller pressträff",
+        "summary": "Kristersson har bett om mer tid. Och det får han. – Min uppfattning är att den här…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Speaker holds press conference",
+        "summary": "Kristersson has asked for more time. And he gets it. – My understanding is that the here…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:01:28+01:00"
+      }
+    },
+    {
+      "id": "de02d98653c8",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/kristersson-redo-for-votering-efter-en-paus",
+      "guid": "fe953abd-e26b-4f48-91dd-bee0848e5cad",
+      "published_at": "2026-11-17T15:56:21+01:00",
+      "fetched_at": "2026-11-17T16:01:23+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/bb398237-8f6b-4002-9d6a-4d6141e46e3d.jpeg?width=600",
+      "sv": {
+        "title": "Kristersson redo för votering – efter en paus",
+        "summary": "Ulf Kristersson har inte gett upp hoppet om att bilda en ny borgerlig regering med Centerpartiet. M-ledaren är redo att ställas inför en statsministeromröstning – men först behövs några dagars paus.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson ready for vote – after a pause",
+        "summary": "Ulf Kristersson (M) has not given up hope of forming a new centre-right government with the Centre Party. The Moderates leader is ready to face a prime ministerial vote – but first a few days' pause is needed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:01:28+01:00"
+      }
+    },
+    {
+      "id": "663e8939a04f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/migrationsdomstolen-de-19-filippinerna-har-ratt-att-arbeta-pa-ssab",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/migrationsdomstolen-de-19-filippinerna-har-ratt-att-arbeta-pa-ssab",
+      "published_at": "2026-11-17T15:52:42+01:00",
+      "fetched_at": "2026-11-17T16:01:18+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Migrationsdomstolen: De 19 filippinerna har rätt att arbeta på SSAB",
+        "summary": "19 filippinska arbetare sattes i Migrationsverkets förvar efter ett polistillslag på SSAB tidigare i år. Nu har även migrationsdomstolen gett arbetarna rätt, rapporterar Södermanlands nyheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Migration Court: The 19 Filipinos have the right to work at SSAB",
+        "summary": "19 Filipino workers were placed in the Migration Agency's custody after a police raid at SSAB earlier this year. Now the Migration Court has also ruled in the workers' favour, reports Södermanlands Nyheter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:01:28+01:00"
+      }
+    },
+    {
+      "id": "bdd0857dbea8",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/forsvarsministern-720-miljoner-till-for-vapen-i-ukraina",
+      "guid": "https://www.dn.se/sverige/forsvarsministern-720-miljoner-till-for-vapen-i-ukraina/",
+      "published_at": "2026-11-17T15:51:43+01:00",
+      "fetched_at": "2026-11-17T16:01:20+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/82fc85bd-c475-4e02-bb36-d877a72ec749.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Försvarsministern: 720 miljoner till i stöd för Ukraina",
+        "summary": "Sverige utlovar ytterligare 720 miljoner kronor i militärt stöd till Ukraina. Även Tyskland och Norge lovar mer pengar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Defence minister: SEK 720 million more in support for Ukraine",
+        "summary": "Sweden pledges an additional SEK 720 million in military support to Ukraine. Germany and Norway also pledge more money."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:01:28+01:00"
+      }
+    },
+    {
+      "id": "332e8be80bab",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344457",
+      "guid": "rss:sr.se/article/9344457",
+      "published_at": "2026-11-17T15:51:00+01:00",
+      "fetched_at": "2026-11-17T16:01:19+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Furtenbach: Högt tempo ökar hans chanser att bli statsminister",
+        "summary": "M-ledaren Ulf Kristersson bad om mer tid att sondera vid en pressträff i dag men sa samtidigt att han är beredd att gå till omröstning om sig själv inom kort.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Furtenbach: High pace increases his chances of becoming prime minister",
+        "summary": "Moderates leader Ulf Kristersson (M) asked for more time to hold exploratory talks at a press conference today, but said at the same time that he is prepared to go to a vote on himself shortly."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:01:28+01:00"
+      }
+    },
+    {
+      "id": "13a15f90d7b3",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/stor-villa-i-vastra-ingelstad-vellinge-har-fatt-nya-agare-priset-14-000-000-kronor",
+      "guid": "04d81a05-67ed-44c2-a8a3-1612308bb844",
+      "published_at": "2026-11-17T15:49:48+01:00",
+      "fetched_at": "2026-11-17T16:01:24+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Stor villa i Västra Ingelstad, Vellinge har fått nya ägare – priset: 14 000 000 kronor"
+      },
+      "en": {
+        "title": "Large villa in Västra Ingelstad, Vellinge has new owners – price: SEK 14,000,000"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:01:28+01:00"
+      }
+    },
+    {
+      "id": "7d564563c613",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/43-aring-ny-agare-tar-over-villa-LjU8j",
+      "guid": "d04d7592-af5d-4c9f-b60e-eefb3c47f2aa",
+      "published_at": "2026-11-17T15:49:47+01:00",
+      "fetched_at": "2026-11-17T16:01:24+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "43-åring ny ägare tar över villa"
+      },
+      "en": {
+        "title": "43-year-old new owner takes over villa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:01:28+01:00"
+      }
+    },
     {
       "id": "dae4c2a80f35",
       "schema_version": 1,
