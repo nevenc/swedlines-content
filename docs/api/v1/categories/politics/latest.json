@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T08:41:27+01:00",
+  "generated_at": "2026-11-17T08:45:46+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6fb72234b779",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344117",
+      "guid": "rss:sr.se/article/9344117",
+      "published_at": "2026-11-17T08:41:00+01:00",
+      "fetched_at": "2026-11-17T08:45:38+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Riksdagens hemsida strular: ”Felsökning pågår”",
+        "summary": "Det är problem med Sveriges Riksdags hemsida under tisdagsmorgonen. Riksdagens presstjänst uppger för Ekot att de upplever störningar och att felsökning pågår för att lösa problemet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Riksdag website glitches: ”Troubleshooting underway”",
+        "summary": "There are problems with the Riksdag's website on Tuesday morning. The Riksdag's press service tells Ekot that it is experiencing disruptions and that troubleshooting is underway to resolve the problem."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T08:45:46+01:00"
+      }
+    },
     {
       "id": "fd11c9c679f9",
       "schema_version": 1,
@@ -5365,35 +5391,6 @@
       "en": {
         "title": "\"It will be uncomfortable not to work with the Left Party\"",
         "summary": "\"If you choose not to shake hands with us, it becomes difficult for you.\" The Left Party will stand firm on its…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "0cb83a7f980a",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1InZyEkbQi0mmssnBHMSrP/finansministern-om-sin-adhd-diagnos-man-far-kaempa-vaeldigt-mycket",
-      "guid": "1InZyEkbQi0mmssnBHMSrP",
-      "published_at": "2026-11-14T09:55:18+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "NPF-diagnos"
-      ],
-      "sv": {
-        "title": "Finansministern om sin adhd-diagnos: ”Hjärnan är på fullt tryck”",
-        "summary": "Genom att berätta öppet om sin diagnos hoppas Elisabeth Svantesson att hon kan hjälpa andra, inte minst barn och unga. – Jag har inget att tjäna på det här personligen. Att ha adhd är inte min personlighet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Finance minister on her ADHD diagnosis: \"The brain is running at full speed\"",
-        "summary": "By speaking openly about her diagnosis, Elisabeth Svantesson hopes she can help others, not least children and young people. – I have nothing to gain from this personally. Having ADHD is not my personality."
       },
       "translation": {
         "status": "done",
