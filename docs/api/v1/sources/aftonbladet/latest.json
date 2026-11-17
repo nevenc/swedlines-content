@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T13:15:52+01:00",
+  "generated_at": "2026-11-17T13:31:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dab7b0ca175f",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/EbWj8A/annu-ett-fartyg-har-sjunkit-i-svarta-havet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/EbWj8A/annu-ett-fartyg-har-sjunkit-i-svarta-havet?utm_medium=rss",
+      "published_at": "2026-11-17T13:22:56+01:00",
+      "fetched_at": "2026-11-17T13:31:04+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ännu ett fartyg har sjunkit i Svarta havet",
+        "summary": "Ett Liberia-flaggat tankfartyg har sjunkit i Svarta havet utanför den bulgariska kusten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Another ship has sunk in the Black Sea",
+        "summary": "A Liberia-flagged tanker has sunk in the Black Sea off the Bulgarian coast."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:31:17+01:00"
+      }
+    },
     {
       "id": "f0d0450c6484",
       "schema_version": 1,
@@ -189,6 +215,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T12:01:24+01:00"
+      }
+    },
+    {
+      "id": "098a6de357be",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/ARdp0q/radhusbrand-i-sodertalje",
+      "guid": "https://www.aftonbladet.se/nyheter/a/ARdp0q/radhusbrand-i-sodertalje?utm_medium=rss",
+      "published_at": "2026-11-17T11:49:03+01:00",
+      "fetched_at": "2026-11-17T13:31:04+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Radhuslänga brinner i Södertälje",
+        "summary": "Branden är fullt utvecklad och det är kraftig rökutveckling.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Row-house block on fire in Södertälje",
+        "summary": "The fire is fully developed and there is heavy smoke."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:31:17+01:00"
       }
     },
     {
@@ -5330,60 +5382,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:01:06+01:00"
-      }
-    },
-    {
-      "id": "ceaab4122abd",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/530G66/emil-drabbad-av-flygstoppet-i-usa",
-      "guid": "https://www.aftonbladet.se/nyheter/a/530G66/emil-drabbad-av-flygstoppet-i-usa?utm_medium=rss",
-      "published_at": "2026-11-13T23:35:59+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/04caff71-f769-3264-b5ef-0e159c99504d?format=auto&s=90f068da90ec3de2acb7b24c582b98af14de872e&w=1000",
-      "sv": {
-        "title": "Alicia fast på flygplatsen – resenärer bunkrar mat",
-        "summary": "Emil är strandad i kaoset",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Alicia stuck at the airport – travellers stock up on food",
-        "summary": "Emil is stranded in the chaos"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:56:57+01:00"
-      }
-    },
-    {
-      "id": "b6652d058bed",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/aGwWrL/lastfartyg-krockar-med-kryssningsbat-i-new-orleans",
-      "guid": "https://www.aftonbladet.se/nyheter/a/aGwWrL/lastfartyg-krockar-med-kryssningsbat-i-new-orleans?utm_medium=rss",
-      "published_at": "2026-11-13T22:17:52+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/f47cfeb3-6239-3f6b-824e-0ae82b09f483?format=auto&s=54943e50bf68b58d7953c6a33030903eec8c40be&w=1000",
-      "sv": {
-        "title": "Alla räddade när hjulångare rammades i New Orleans",
-        "summary": "Ett lastfartyg har kört in i ett kryssningsfartyg med omkring 180 passagerare och personal ombord i…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "All rescued as paddle steamer rammed in New Orleans",
-        "summary": "A cargo ship has run into a cruise ship with around 180 passengers and crew on board in…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     }
   ]

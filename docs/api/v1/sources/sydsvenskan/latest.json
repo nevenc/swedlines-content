@@ -1,7 +1,56 @@
 {
-  "generated_at": "2026-11-17T13:15:52+01:00",
+  "generated_at": "2026-11-17T13:31:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7aac13206bc1",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/annu-ett-fartyg-har-sjunkit-i-svarta-havet",
+      "guid": "ba1d4497-3dc3-4374-b96a-daebd2dd2a4d",
+      "published_at": "2026-11-17T13:23:20+01:00",
+      "fetched_at": "2026-11-17T13:31:07+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ännu ett fartyg har sjunkit i Svarta havet",
+        "summary": "Ett Liberia-flaggat tankfartyg har sjunkit i Svarta havet utanför den bulgariska kusten. Det är den andra förlisningen på bara två dagar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Another ship has sunk in the Black Sea",
+        "summary": "A Liberia-flagged tanker has sunk in the Black Sea off the Bulgarian coast. It is the second sinking in just two days."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:31:17+01:00"
+      }
+    },
+    {
+      "id": "239d4c49eb8a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/111-kvadratmeter-stort-hus-i-tygelsjo-salt",
+      "guid": "8e7d52cf-b973-44d9-a278-09451b2b2902",
+      "published_at": "2026-11-17T13:18:47+01:00",
+      "fetched_at": "2026-11-17T13:31:07+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "111 kvadratmeter stort hus i Tygelsjö sålt"
+      },
+      "en": {
+        "title": "111-square-metre house in Tygelsjö sold"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:31:17+01:00"
+      }
+    },
     {
       "id": "cf0e3cb4877e",
       "schema_version": 1,
@@ -5215,59 +5264,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:59:12+01:00"
-      }
-    },
-    {
-      "id": "3c5a01269e66",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/sydsvenskan-sport-direkt-de-senaste-nyheterna",
-      "guid": "10666fad-71c5-48d9-a7cf-cebcfd09a284",
-      "published_at": "2026-11-14T14:07:25+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Sporten Direkt",
-        "summary": "Följ nyhetsflödet i Sporten Direkt. Först med det senaste i sportens värld.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sporten Direkt",
-        "summary": "Follow the news feed in Sporten Direkt. First with the latest in the world of sport."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:12+01:00"
-      }
-    },
-    {
-      "id": "780eb0722ca2",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/usa-forlorar-status-som-masslingsfritt-land",
-      "guid": "1ffb0da1-73b3-4fc0-a7c0-24d53ac035bb",
-      "published_at": "2026-11-14T14:00:55+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/6e00e34b-9454-4a2c-b6c4-f9ecddb56e11.jpg?width=600",
-      "sv": {
-        "title": "USA förlorar status som mässlingsfritt land",
-        "summary": "USA är inte längre ett land där mässlingen utrotats. Det slår Världshälsoorganisationens (WHO) amerikanska gren, Pan American Health Organization, fast, rapporterar The Wall Street Journal (WSJ).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "USA loses status as a measles-free country",
-        "summary": "The US is no longer a country where measles has been eliminated. That is the finding of the American branch of the World Health Organization (WHO), the Pan American Health Organization, reports The Wall Street Journal (WSJ)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:36+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T13:15:52+01:00",
+  "generated_at": "2026-11-17T13:31:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8d2ce04606d4",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/mp-koper-inte-hela-totalpaketet",
+      "guid": "https://www.dn.se/sverige/mp-koper-inte-hela-totalpaketet/",
+      "published_at": "2026-11-17T13:19:38+01:00",
+      "fetched_at": "2026-11-17T13:31:03+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/630ce418-8e44-4d40-be4c-e32e5beb3026.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "MP: Köper inte hela totalpaketet",
+        "summary": "Miljöpartiet (MP) köper inte det så kallade totalpaket som Socialdemokraterna har tagit fram. – Nej, totalpaketet var väldigt tydligt ett S-bud till Centerpartiet, säger MP:s ekonomisk-politiska talesperson Janine Alm Ericson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "MP: Not buying the whole package",
+        "summary": "The Green Party (MP) is not buying the so-called total package that the Social Democrats (S) have put forward. - No, the total package was very clearly an S offer to the Centre Party, says MP's economic policy spokesperson Janine Alm Ericson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:31:17+01:00"
+      }
+    },
     {
       "id": "37c5624ec8a4",
       "schema_version": 1,
@@ -5367,33 +5394,6 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T14:56:57+01:00"
-      }
-    },
-    {
-      "id": "9b186672c094",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/har-ar-det-okanda-fangelset-dar-russell-brand-sitter",
-      "guid": "https://www.dn.se/varlden/har-ar-det-okanda-fangelset-dar-russell-brand-sitter/",
-      "published_at": "2026-11-13T21:30:37+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/b15bb032-d09a-4fe6-9ff4-3521cccb7f51.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Här är det ökända fängelset där Russell Brand sitter",
-        "summary": "Russell Brand avtjänar sitt straff på Wandsworth, ett av Storbritanniens mest ökända fängelser präglat av våld, överbeläggningar och droger. Samtidigt anklagar ytterligare sex kvinnor komikern för övergrepp, rapporterar The Times.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here is the notorious prison where Russell Brand is held",
-        "summary": "Russell Brand is serving his sentence at Wandsworth, one of Britain's most notorious prisons, marked by violence, overcrowding and drugs. At the same time a further six women accuse the comedian of abuse, The Times reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
       }
     }
   ]

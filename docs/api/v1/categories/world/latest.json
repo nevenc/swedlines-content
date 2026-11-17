@@ -1,7 +1,111 @@
 {
-  "generated_at": "2026-11-17T13:15:52+01:00",
+  "generated_at": "2026-11-17T13:31:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7aac13206bc1",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/annu-ett-fartyg-har-sjunkit-i-svarta-havet",
+      "guid": "ba1d4497-3dc3-4374-b96a-daebd2dd2a4d",
+      "published_at": "2026-11-17T13:23:20+01:00",
+      "fetched_at": "2026-11-17T13:31:07+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ännu ett fartyg har sjunkit i Svarta havet",
+        "summary": "Ett Liberia-flaggat tankfartyg har sjunkit i Svarta havet utanför den bulgariska kusten. Det är den andra förlisningen på bara två dagar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Another ship has sunk in the Black Sea",
+        "summary": "A Liberia-flagged tanker has sunk in the Black Sea off the Bulgarian coast. It is the second sinking in just two days."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:31:17+01:00"
+      }
+    },
+    {
+      "id": "5cccf379860d",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/9Bv6aw/annu-ett-fartyg-har-sjunkit-i-svarta-havet",
+      "guid": "https://www.svd.se/a/9Bv6aw/annu-ett-fartyg-har-sjunkit-i-svarta-havet?utm_medium=rss",
+      "published_at": "2026-11-17T13:22:58+01:00",
+      "fetched_at": "2026-11-17T13:31:04+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ännu ett fartyg har sjunkit i Svarta havet",
+        "summary": "Ett Liberia-flaggat tankfartyg har sjunkit i Svarta havet utanför den bulgariska kusten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Another ship has sunk in the Black Sea",
+        "summary": "A Liberia-flagged tanker has sunk in the Black Sea off the Bulgarian coast."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:31:17+01:00"
+      }
+    },
+    {
+      "id": "dab7b0ca175f",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/EbWj8A/annu-ett-fartyg-har-sjunkit-i-svarta-havet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/EbWj8A/annu-ett-fartyg-har-sjunkit-i-svarta-havet?utm_medium=rss",
+      "published_at": "2026-11-17T13:22:56+01:00",
+      "fetched_at": "2026-11-17T13:31:04+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ännu ett fartyg har sjunkit i Svarta havet",
+        "summary": "Ett Liberia-flaggat tankfartyg har sjunkit i Svarta havet utanför den bulgariska kusten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Another ship has sunk in the Black Sea",
+        "summary": "A Liberia-flagged tanker has sunk in the Black Sea off the Bulgarian coast."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:31:17+01:00"
+      }
+    },
+    {
+      "id": "db23f2475b2f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/krimbron-delvis-kollapsad-efter-ukrainsk-attack",
+      "guid": "https://www.svt.se/nyheter/utrikes/krimbron-delvis-kollapsad-efter-ukrainsk-attack",
+      "published_at": "2026-11-17T13:18:27+01:00",
+      "fetched_at": "2026-11-17T13:31:01+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Krimbron delvis kollapsad efter ukrainsk attack",
+        "summary": "En del av den viktiga Kertjbron har kollapsat efter ukrainska angrepp – ett allvarligt slag mot Rysslands ockupation av Krim, enligt Johan Huovinen på Försvarshögskolan. – Det här är ett sätt att öka pressen på Moskva inför de kommande förhandlingarna, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Crimea bridge partially collapsed after Ukrainian attack",
+        "summary": "Part of the important Kerch Bridge has collapsed after Ukrainian attacks - a serious blow to Russia's occupation of Crimea, according to Johan Huovinen at the Swedish Defence University. - This is a way to increase pressure on Moscow ahead of the upcoming negotiations, he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:31:17+01:00"
+      }
+    },
     {
       "id": "14ac0e3af3f2",
       "schema_version": 1,
@@ -238,6 +342,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T12:01:24+01:00"
+      }
+    },
+    {
+      "id": "2f15ca25abd4",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/tt-261117-ukrainabroanalys1-25b7d6ef/attacken-pa-krimbron-otroligt-genant-for-putin",
+      "guid": "tt-261117-ukrainabroanalys1-25b7d6ef",
+      "published_at": "2026-11-17T11:51:11+01:00",
+      "fetched_at": "2026-11-17T13:31:05+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Utrikesnyheter"
+      ],
+      "sv": {
+        "title": "Experten: Attacken på Krimbron ”otroligt genant” för Putin",
+        "summary": "Krimbron är det ryska prestigebygge som förbinder den annekterade halvön med Ryssland. Ukraina har flera gånger tidigare försökt att slå ut bron, med syftet att isolera Krim. Den strategiska vinsten är inte längre lika stor, eftersom man också når halvön landvägen över ockuperad mark i Donbass.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Expert: Attack on Crimea bridge 'incredibly embarrassing' for Putin",
+        "summary": "The Crimea bridge is the Russian prestige project that connects the annexed peninsula with Russia. Ukraine has several times previously tried to knock out the bridge, with the aim of isolating Crimea. The strategic gain is no longer as large, since the peninsula can also be reached by land across occupied territory in Donbas."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:31:17+01:00"
       }
     },
     {
@@ -5221,142 +5354,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "7b643e0cb21b",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3tHFQpL47VYEm4onPRtMld/efter-valsegern-demokraterna-splittrade-om-naesta-steg",
-      "guid": "3tHFQpL47VYEm4onPRtMld",
-      "published_at": "2026-11-15T15:43:00+01:00",
-      "fetched_at": "2026-11-15T15:45:41+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Efter valsegern – Demokraterna splittrade om nästa steg",
-        "summary": "Maktkampen har börjat • Trumps skugga vilar tung",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After election victory – the Democrats divided over next steps",
-        "summary": "The power struggle has begun • Trump's shadow looms large"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T15:45:47+01:00"
-      }
-    },
-    {
-      "id": "cef3dfe51c9e",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/torbjorn-petersson-xi-jinping-deltar-bara-i-moten-om-han-vet-hur-de-slutar",
-      "guid": "https://www.dn.se/varlden/torbjorn-petersson-xi-jinping-deltar-bara-i-moten-om-han-vet-hur-de-slutar/",
-      "published_at": "2026-11-15T15:35:36+01:00",
-      "fetched_at": "2026-11-15T15:45:38+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/467f3ad4-5e4f-4cb7-a210-032ed1f7e097.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Torbjörn Petersson: Xi Jinping deltar bara i möten om han vet hur de slutar",
-        "summary": "PEKING. Den kinesiska ledningen vill inte delta i möten med osäker utgång. Att Xi Jinping nu väntas träffa Donald Trump och Vladimir Putin tyder på att Kina har fått försäkringar om hur långt samtalen kan gå.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Torbjörn Petersson: Xi Jinping only attends meetings if he knows how they will end",
-        "summary": "BEIJING. The Chinese leadership does not want to take part in meetings with an uncertain outcome. That Xi Jinping is now expected to meet Donald Trump and Vladimir Putin suggests China has received assurances about how far the talks can go."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T15:45:47+01:00"
-      }
-    },
-    {
-      "id": "234ca3edf0f4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/vodkabraket-med-lavrov-tvingade-mig",
-      "guid": "https://www.expressen.se/tv/nyheter/vodkabraket-med-lavrov-tvingade-mig",
-      "published_at": "2026-11-15T14:54:06+01:00",
-      "fetched_at": "2026-11-15T15:01:05+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Vodkabråket med Lavrov: ”Tvingade mig”",
-        "summary": "Brittiska vodkailskan efter mötet i Moskva: ”Tvingade mig”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Vodka row with Lavrov: \"Forced me\"",
-        "summary": "British vodka ... after the meeting in Moscow: \"Forced me\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T15:01:10+01:00"
-      }
-    },
-    {
-      "id": "e59e213379fe",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/R1Rzed/regeringsstyrkor-retirerar-fran-bab-al-mandab",
-      "guid": "https://www.svd.se/a/R1Rzed/regeringsstyrkor-retirerar-fran-bab-al-mandab?utm_medium=rss",
-      "published_at": "2026-11-15T14:18:38+01:00",
-      "fetched_at": "2026-11-15T16:01:11+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/2a74a52f-87c3-3d0d-9030-73bc67cfdc3e?format=auto&s=12a058c61df5eee7656045ab41a5765f58d5e34e&w=1000",
-      "sv": {
-        "title": "Regimen i Jemen ger upp viktigt sund",
-        "summary": "Styrkor allierade med regeringen i Jemen drar sig tillbaka från slagfälten vid det strategiska…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The regime in Yemen gives up important strait",
-        "summary": "Forces allied with the government in Yemen are withdrawing from the battlefields at the strategic…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "0bd0e001c8bc",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/g37wnA/regeringsstyrkor-retirerar-fran-bab-al-mandab",
-      "guid": "https://www.aftonbladet.se/nyheter/a/g37wnA/regeringsstyrkor-retirerar-fran-bab-al-mandab?utm_medium=rss",
-      "published_at": "2026-11-15T14:18:37+01:00",
-      "fetched_at": "2026-11-15T14:30:56+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/2a74a52f-87c3-3d0d-9030-73bc67cfdc3e?format=auto&s=12a058c61df5eee7656045ab41a5765f58d5e34e&w=1000",
-      "sv": {
-        "title": "Regeringsstyrkor retirerar från Bab al-Mandab",
-        "summary": "Styrkor allierade med regeringen i Jemen meddelar att de drar sig tillbaka från slagfälten vid det…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Government forces retreat from Bab al-Mandab",
-        "summary": "Forces allied with the government in Yemen announce that they are withdrawing from the battlefields near the…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T14:31:04+01:00"
       }
     }
   ]
