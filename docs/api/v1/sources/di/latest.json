@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-17T13:31:18+01:00",
+  "generated_at": "2026-11-17T13:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "51d1f7dc9a19",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/klarna-slar-prognoser-vd-spar-rekordkvartal-valdigt-exalterad",
+      "guid": "2a69eb8a-cdf3-4ba2-b0c6-fedac319ff43",
+      "published_at": "2026-11-17T13:36:59+01:00",
+      "fetched_at": "2026-11-17T13:45:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/bbd50d32-8621-436f-b1d7-e5993ec46dbc.jpeg?width=600",
+      "sv": {
+        "title": "Klarna slår prognoser – vd spår rekordkvartal: ”Väldigt exalterad”",
+        "summary": "Klarna slog sina något dämpade prognoser för det tredje kvartalet både vad gäller intäkter och resultat. För att stoppa aktiens kräftgång, inför deras starkaste säsong, lyfter vd:n Sebastian Siemiatkowski fram ett särskilt nyckeltal.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Klarna beats forecasts – CEO predicts record quarter: \"Very excited\"",
+        "summary": "Klarna beat its somewhat subdued forecasts for the third quarter in both revenue and earnings. To stop the share price's decline ahead of their strongest season, CEO Sebastian Siemiatkowski highlights one particular key figure."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:45:50+01:00"
+      }
+    },
+    {
+      "id": "5ef6ce2ddf67",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/klarnas-vd-vi-gar-mot-ett-rekordstarkt-q4",
+      "guid": "949f3061-3d56-58a5-91c3-836a4b861967",
+      "published_at": "2026-11-17T13:34:52+01:00",
+      "fetched_at": "2026-11-17T13:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Klarnas vd: Vi går mot ett rekordstarkt Q4",
+        "summary": "Klarnas vd Sebastian Siemiatkowski om kvartalet och utsikterna för julhandeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Klarna CEO: We are heading for a record-strong Q4",
+        "summary": "Klarna CEO Sebastian Siemiatkowski on the quarter and the outlook for Christmas shopping."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:45:50+01:00"
+      }
+    },
     {
       "id": "9b8f6abdbda7",
       "schema_version": 1,
@@ -5276,60 +5329,6 @@
       "en": {
         "title": "Around zero on European stock exchanges",
         "summary": "European stock exchanges started the week with cautious movements. The combined Stoxx 600 index was up a marginal 0.1 percent on Monday morning."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T11:00:46+01:00"
-      }
-    },
-    {
-      "id": "f42080d1cd7e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/sb1-mycket-attraktivt-koplage-ser-70-procents-uppsida",
-      "guid": "63d48b2f-ed9c-49a8-954a-023f57ea085e",
-      "published_at": "2026-11-16T10:34:03+01:00",
-      "fetched_at": "2026-11-16T11:00:38+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/d024ca44-ee0e-46c0-8f7b-c20be3c3a77a.jpeg?width=600",
-      "sv": {
-        "title": "SB1: ”Mycket attraktivt köpläge” – ser 70 procents uppsida",
-        "summary": "En kursnedgång på cirka 30 procent från toppen har skapat ett ”mycket attraktivt köpläge” i Lundin Mining. Det skriver SB1 som ser flera faktorer som kan lyfta aktien med 70 procent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "SB1: \"Very attractive buying opportunity\" – sees 70 percent upside",
-        "summary": "A share price decline of about 30 percent from the peak has created a \"very attractive buying opportunity\" in Lundin Mining. SB1 writes that it sees several factors that could lift the stock by 70 percent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T11:00:46+01:00"
-      }
-    },
-    {
-      "id": "844206c93ec7",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/analytikern-inte-en-chans-att-huang-gor-comeback",
-      "guid": "ef4d06c3-1d4f-4c8d-a7c6-cba20cf15dbf",
-      "published_at": "2026-11-16T10:33:03+01:00",
-      "fetched_at": "2026-11-16T11:00:38+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/74ea0a7b-d829-430a-b074-82d3cd222c69.jpeg?width=600",
-      "sv": {
-        "title": "Analytikern: Inte en chans att Huang gör comeback",
-        "summary": "Jensen Huang uppges diskutera möjligheten att återvända till Nvidia. ”Löjligt”, skriver techanalytikern Dan Ives i sitt nyhetsbrev och ger sin syn på den troliga vägen framåt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Analyst: No chance Huang makes a comeback",
-        "summary": "Jensen Huang is reportedly discussing the possibility of returning to Nvidia. \"Ridiculous\", writes tech analyst Dan Ives in his newsletter, giving his view of the likely way forward."
       },
       "translation": {
         "status": "done",
