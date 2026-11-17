@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-17T05:15:51+01:00",
+  "generated_at": "2026-11-17T05:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e598ab53b780",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79983",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79983&utm_medium=rss",
+      "published_at": "2026-11-17T05:23:26+01:00",
+      "fetched_at": "2026-11-17T05:30:59+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Uppgifter: Iran planerar bombdåd i USA"
+      },
+      "en": {
+        "title": "Reports: Iran plans bombing in the USA"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T05:31:08+01:00"
+      }
+    },
     {
       "id": "2c946e9ac5e1",
       "schema_version": 1,
@@ -5343,33 +5366,6 @@
       "en": {
         "title": "Went to the toilet – died in a \"strange accident\"",
         "summary": "Emergency physician James Turpin went to the toilet in the middle of the night. It led to his death, writes the Lexington Herald Leader. \"A strange accident,\" says friend Eric Guerrant."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "d40386f13f76",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://tv.aftonbladet.se/video/410620",
-      "guid": "https://tv.aftonbladet.se/video/410620?utm_medium=rss",
-      "published_at": "2026-11-14T22:17:33+01:00",
-      "fetched_at": "2026-11-14T23:33:35+01:00",
-      "category": "world",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/f3f0a8758281a7fa6fee6cbb203700a4.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "”Trodde jag såg en naken man med pistol”",
-        "summary": "Märkliga detaljen",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"I thought I saw a naked man with a gun\"",
-        "summary": "The strange detail"
       },
       "translation": {
         "status": "done",

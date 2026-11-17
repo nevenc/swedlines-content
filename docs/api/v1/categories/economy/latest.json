@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-17T05:15:51+01:00",
+  "generated_at": "2026-11-17T05:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0695c7d321b2",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/konsumentverket-sa-undviker-du-fallorna-under-black-week",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/konsumentverket-sa-undviker-du-fallorna-under-black-week",
+      "published_at": "2026-11-17T05:30:02+01:00",
+      "fetched_at": "2026-11-17T05:30:57+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Konsumentverket: Så undviker du fällorna under Black Week",
+        "summary": "Black Week är en av handelns viktigaste veckor. Den sista veckan i november handlar svenska konsumenter för drygt sju miljarder kronor mer än under en genomsnittlig vecka, enligt SCB. Men det finns fällor att se upp för.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Consumer Agency: How to avoid the traps during Black Week",
+        "summary": "Black Week is one of the most important weeks for retail. The last week of November, Swedish consumers spend just over SEK 7 billion more than during an average week, according to Statistics Sweden (SCB). But there are traps to watch out for."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T05:31:08+01:00"
+      }
+    },
+    {
+      "id": "ce8e23b91a13",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/kladsajten-som-anmalts-flest-ganger-hamnat-pa-varningslistan",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/kladsajten-som-anmalts-flest-ganger-hamnat-pa-varningslistan",
+      "published_at": "2026-11-17T05:30:02+01:00",
+      "fetched_at": "2026-11-17T05:30:57+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Klädsajten som anmälts flest gånger – hamnat på varningslistan",
+        "summary": "Saga Stockholm hamnade nyligen på Konsumentverkets varningslista. Företaget är den klädsajt som anmälts flest gånger till myndigheten hittills i år. Konsumenter är missnöjda med kläderna som köpts.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Clothing site reported most often – now on the watch list",
+        "summary": "Saga Stockholm recently landed on the Consumer Agency's watch list. The company is the clothing site that has been reported to the authority the most times so far this year. Consumers are dissatisfied with the clothes they bought."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T05:31:08+01:00"
+      }
+    },
+    {
+      "id": "c1b5dc2a922a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/asienborserna-fortsatter-att-dala",
+      "guid": "958c774e-a3ca-4324-8c80-c66f47563e4f",
+      "published_at": "2026-11-17T05:25:35+01:00",
+      "fetched_at": "2026-11-17T05:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/fa4e95e5-2c66-40a2-9a76-97dd812804f3.jpg?width=600",
+      "sv": {
+        "title": "Asienbörserna fortsätter att dala",
+        "summary": "Flera börsindex i Asien backar under tisdagen. Bland handelsdagens sänken finns ett antal teknikbolag som följer Nvidia nedåt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Asian stock markets continue to fall",
+        "summary": "Several stock indexes in Asia are falling on Tuesday. Among the day's declines are a number of tech companies that are following Nvidia downward."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T05:31:08+01:00"
+      }
+    },
     {
       "id": "0e727969b9d4",
       "schema_version": 1,
@@ -5249,97 +5328,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T06:15:47+01:00"
-      }
-    },
-    {
-      "id": "ee7b4af77890",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/tuffare-ar-vantar-hushallen-bygg-krockkuddar",
-      "guid": "f284325c-3c8b-4d6b-99a7-aebaa193ae80",
-      "published_at": "2026-11-16T06:00:17+01:00",
-      "fetched_at": "2026-11-16T06:01:15+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/334ac1e9-601b-486e-83b6-5fdbfee80830.jpg?width=600",
-      "sv": {
-        "title": "Tuffare år väntar hushållen – ”bygg krockkuddar”",
-        "summary": "Dyrare bensin och el, dessutom högre boräntor. Efter några år av återhämtning kan vanliga hushåll räkna med en tusenlapp i högre månadskostnader nästa år. – Det är dags att börja bygga en del krockkuddar inför nästa år, säger Américo Fernández, privatekonom på SEB.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tougher year ahead for households – “build airbags”",
-        "summary": "Higher petrol and electricity prices, plus higher mortgage rates. After a few years of recovery, ordinary households can expect SEK 1,000 more in monthly costs next year. – It is time to start building some airbags for next year, says Américo Fernández, private economist at SEB."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T06:01:32+01:00"
-      }
-    },
-    {
-      "id": "d5c0b438b936",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/g37k90/tuffare-ar-vantar-hushallen-bygg-krockkuddar",
-      "guid": "https://www.svd.se/a/g37k90/tuffare-ar-vantar-hushallen-bygg-krockkuddar?utm_medium=rss",
-      "published_at": "2026-11-16T06:00:12+01:00",
-      "fetched_at": "2026-11-16T06:15:39+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/83617d5f-bdf8-353a-9269-2f2f6d0a53fe?format=auto&s=a8396c73986f0243e626dcc068e3ac8076031fc8&w=1000",
-      "sv": {
-        "title": "Tuffare år väntar hushållen – ”bygg krockkuddar”",
-        "summary": "Dyrare bensin och el, dessutom högre boräntor. Efter några år av återhämtning kan vanliga hushåll…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tougher year ahead for households – \"build crash pads\"",
-        "summary": "More expensive petrol and electricity, and higher mortgage rates on top. After a few years of recovery, ordinary households may…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T06:15:47+01:00"
-      }
-    },
-    {
-      "id": "e7aa0fd0d4dd",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/ekonomi/jacob-wallenbergs-rad-sa-gor-du-karriar-i-framtiden.601fe103-ecc8-5fb9-ad21-50b5f8661b17",
-      "guid": "601fe103-ecc8-5fb9-ad21-50b5f8661b17",
-      "published_at": "2026-11-16T05:52:36+01:00",
-      "fetched_at": "2026-11-16T06:01:14+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Ekonomi",
-        "Tagg: Jacob Wallenberg",
-        "Tagg: Micael Johansson",
-        "Tagg: Carl Bennet",
-        "Tagg: Getinge",
-        "Tagg: Industrier",
-        "Tagg: GP Karriär",
-        "Tagg: Arbetsmarknad"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/2e42cdc8-b3ed-388a-ad7b-759b2a9b976f",
-      "sv": {
-        "title": "Tre toppchefer: Så får du jobb om 3-5 år",
-        "summary": "Jacob Wallenberg och Carl Bennet: Så gör du karriär i framtiden.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Three top executives: how to get a job in 3–5 years",
-        "summary": "Jacob Wallenberg and Carl Bennet: how to build a career in the future."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T06:01:32+01:00"
       }
     }
   ]
