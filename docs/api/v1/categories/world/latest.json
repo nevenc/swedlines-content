@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-17T12:45:56+01:00",
+  "generated_at": "2026-11-17T13:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "14ac0e3af3f2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/attacken-pa-krimbron-otroligt-genant-for-putin",
+      "guid": "25606c74-a095-4dca-8fbc-3a214ba22dcf",
+      "published_at": "2026-11-17T12:51:55+01:00",
+      "fetched_at": "2026-11-17T13:01:13+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/5888f412-039a-41ff-820f-8fba46dad4f5.jpg?width=600",
+      "sv": {
+        "title": "Attacken på Krimbron ”otroligt genant” för Putin",
+        "summary": "Att Ukraina har anfallit Krimbron, och vad det verkar lyckats rasera vägbanan, är ”otroligt genant” för Rysslands ledare Vladimir Putin, enligt experten Fredrik Wesslau. – Det är en rejäl bedrift från Ukrainas sida, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Attack on Crimean bridge “incredibly embarrassing” for Putin",
+        "summary": "That Ukraine has attacked the Crimean bridge, and what appears to have destroyed the roadway, is “incredibly embarrassing” for Russian leader Vladimir Putin, according to expert Fredrik Wesslau. “It is a considerable feat on Ukraine's part,” he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:01:18+01:00"
+      }
+    },
+    {
+      "id": "014b4c1b0891",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344328",
+      "guid": "rss:sr.se/article/9344328",
+      "published_at": "2026-11-17T12:49:00+01:00",
+      "fetched_at": "2026-11-17T13:01:10+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ginna Lindberg: Så länge utredningen är dold kvarstår spekulationer",
+        "summary": "En ny expertrapport ifrågasätter att Jeffrey Epstein tog sitt liv, men amerikanska myndigheter står fast vid bedömningen att det var självmord. Epstein hittades död i sin cell i augusti 2019. Delar av utredningen är fortfarande hemligstämplad, bland annat med hänvisning till offren.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Ginna Lindberg: As long as the investigation is hidden, speculation remains",
+        "summary": "A new expert report questions whether Jeffrey Epstein took his own life, but American authorities maintain their assessment that it was suicide. Epstein was found dead in his cell in August 2019. Parts of the investigation remain classified, partly with reference to the victims."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:01:18+01:00"
+      }
+    },
     {
       "id": "ba2282f2d30c",
       "schema_version": 1,
@@ -5304,60 +5357,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T14:31:04+01:00"
-      }
-    },
-    {
-      "id": "43005078020e",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/dJO5Gj/trumps-tullar-och-hoga-priser-fallde-republikanerna",
-      "guid": "https://www.svd.se/a/dJO5Gj/trumps-tullar-och-hoga-priser-fallde-republikanerna?utm_medium=rss",
-      "published_at": "2026-11-15T14:00:00+01:00",
-      "fetched_at": "2026-11-15T14:01:09+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/694bfbc2-d68a-3dcc-922d-a961eec027da?format=auto&s=866cc4b237fb13f94c454d295431ebb95cf84ab5&w=1000",
-      "sv": {
-        "title": "Tullarna fällde Trumps republikaner",
-        "summary": "Nu får Demokraterna chansen att rädda frihandeln.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tariffs bring down Trump's Republicans",
-        "summary": "Now the Democrats get a chance to save free trade."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T14:01:16+01:00"
-      }
-    },
-    {
-      "id": "7b3ee88e43d5",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/svenska-soldater-reser-till-nato-uppdrag-avskracka-ryska-angrepp",
-      "guid": "https://www.dn.se/sverige/svenska-soldater-reser-till-nato-uppdrag-avskracka-ryska-angrepp/",
-      "published_at": "2026-11-15T13:24:20+01:00",
-      "fetched_at": "2026-11-15T13:30:53+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/7ce800d1-26e0-4734-a619-26e4445787c6.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Svenska soldater reser till Nato-uppdrag: Avskräcka ryska angrepp",
-        "summary": "Uppdraget är att avskräcka ryska angrepp mot Nato. Nu skickas skånska P7-soldater till Lettland för tredje gången – den här gången rustade med ny teknik som ska förändra förutsättningarna i strid.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Swedish soldiers travel on NATO mission: To deter Russian attacks",
-        "summary": "The mission is to deter Russian attacks against NATO. Now Skåne's P7 soldiers are being sent to Latvia for the third time – this time equipped with new technology that will change the conditions in combat"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T13:31:07+01:00"
       }
     }
   ]
