@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-17T15:15:55+01:00",
+  "generated_at": "2026-11-17T15:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0d2946933764",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/huvudledare/finns-det-en-enda-plats-i-malmo-dar-man-far-vara-ifred",
+      "guid": "021ec6f2-cdf6-4eb3-a64f-4ca95b1f1b23",
+      "published_at": "2026-11-17T15:17:00+01:00",
+      "fetched_at": "2026-11-17T15:31:03+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/bc43583b-03ba-455c-961c-637529368050.jpeg?width=600",
+      "sv": {
+        "title": "Finns det en enda plats i Malmö där man får vara ifred?"
+      },
+      "en": {
+        "title": "Is there a single place in Malmö where you can be left in peace?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:31:09+01:00"
+      }
+    },
     {
       "id": "912d41b3513c",
       "schema_version": 1,
@@ -5395,32 +5419,6 @@
       "en": {
         "title": "Students on being single: 'Enjoy my own company'",
         "summary": "How is dating life among students and what is it like to be single today? On Singles' Day, SVT Nyheter Öst asked students at Linköping University about love, dating and why so many are single."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "44abc0d1f01b",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/granskning/ug/moskeerna-utreds-efter-avslojande-om-manggifte-far-miljoner-i-bidrag",
-      "guid": "https://www.svt.se/nyheter/granskning/ug/moskeerna-utreds-efter-avslojande-om-manggifte-far-miljoner-i-bidrag",
-      "published_at": "2026-11-11T15:25:04+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Moskéerna utreds efter avslöjande om månggifte – får miljoner i bidrag",
-        "summary": "Imamer från moskéer runt om i landet erbjuder hjälp till män som vill gifta sig med flera fruar – trots att det är förbjudet i Sverige. Moskéerna har tillsammans fått flera miljoner i statsbidrag de senaste åren. Nu inleder den ansvariga myndigheten en granskning.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Mosques investigated after revelation about polygamy – receive millions in grants",
-        "summary": "Imams from mosques around the country offer help to men who want to marry several wives – even though it is forbidden in Sweden. Together the mosques have received several million in state grants in recent years. Now the responsible authority is launching a review."
       },
       "translation": {
         "status": "done",

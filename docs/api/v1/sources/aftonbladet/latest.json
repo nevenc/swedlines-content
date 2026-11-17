@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T15:15:55+01:00",
+  "generated_at": "2026-11-17T15:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bccaad409c72",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/R1ROMW/psykologen-mobilscrollandet-kan-paverka-din-relation",
+      "guid": "https://www.aftonbladet.se/nyheter/a/R1ROMW/psykologen-mobilscrollandet-kan-paverka-din-relation?utm_medium=rss",
+      "published_at": "2026-11-17T15:27:22+01:00",
+      "fetched_at": "2026-11-17T15:31:01+01:00",
+      "category": "science_tech",
+      "image_url": "https://akamai.vgc.no/v2/images/793ed7f1-3f70-3a9b-a8b0-e389ec6e1031?format=auto&s=074912e4dc5d332ad9a298a98c1ee40796c7022f&w=1000",
+      "sv": {
+        "title": "Psykologen: Mobilscrollandet kan påverka din relation",
+        "summary": "”Långa toalettbesök kan påverka relationen”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Psychologist: Mobile scrolling can affect your relationship",
+        "summary": "\"Long toilet visits can affect the relationship\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:31:09+01:00"
+      }
+    },
     {
       "id": "ed451bd948c1",
       "schema_version": 1,
@@ -5348,33 +5375,6 @@
       "en": {
         "title": "Two arrested for murder of woman",
         "summary": "A woman has been found dead in Luleå during the night to Saturday. Two suspects have been arrested, police say…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:02+01:00"
-      }
-    },
-    {
-      "id": "7a75ea51a743",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/9BvKqw/44-dodade-i-eboladrabbade-kongo-kinshasa",
-      "guid": "https://www.aftonbladet.se/nyheter/a/9BvKqw/44-dodade-i-eboladrabbade-kongo-kinshasa?utm_medium=rss",
-      "published_at": "2026-11-14T03:25:10+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/a6b0dfdc-9e20-3341-9f02-5caf364c9ef4?format=auto&s=a50bf3b3845b5037699d7c537e75502e44117eb0&w=1000",
-      "sv": {
-        "title": "44 dödade i eboladrabbade Kongo-Kinshasa",
-        "summary": "Attacker utförda av beväpnade män med kopplingar till terrorrörelsen IS har krävt minst 44 civila…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "44 killed in Ebola-hit Kongo-Kinshasa",
-        "summary": "Attacks carried out by armed men with links to the terrorist movement IS have claimed at least 44 civilians…"
       },
       "translation": {
         "status": "done",
