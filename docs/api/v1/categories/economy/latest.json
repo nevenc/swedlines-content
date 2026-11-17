@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T16:54:30+01:00",
+  "generated_at": "2026-11-17T17:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "78dfa8a0d247",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/nedgangen-tilltar-pa-wall-street-nvidia-backar-igen",
+      "guid": "3a9b3df2-998e-401d-a45e-caf4e916022a",
+      "published_at": "2026-11-17T16:57:14+01:00",
+      "fetched_at": "2026-11-17T17:01:19+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f0ea042c-5a97-4fe0-adcb-fa186b73e61d.jpeg?width=600",
+      "sv": {
+        "title": "Nedgången tilltar på Wall Street – Nvidia backar igen",
+        "summary": "USA-börserna inledde tisdagen med en försiktig nedgång, men föll sedan tillbaka tydligt och även Stockholmsbörsens dras med i fallet. På bolagsnivå tappar chipjätten Nvidia inför dagens rapport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wall Street declines further – Nvidia falls again",
+        "summary": "US stock markets opened Tuesday with a cautious decline, but then clearly fell back, and the Stockholm exchange is also being dragged down. At company level, chip giant Nvidia is falling ahead of today's report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:01:25+01:00"
+      }
+    },
     {
       "id": "9bb69cdcd3d1",
       "schema_version": 1,
@@ -5226,32 +5253,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T21:01:13+01:00"
-      }
-    },
-    {
-      "id": "99b0e23294c7",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/tekniska-problem-for-jp-morgan-aktien-backar",
-      "guid": "1231b7e7-7321-4c08-a0b2-b87e43cfc9d3",
-      "published_at": "2026-11-16T20:35:14+01:00",
-      "fetched_at": "2026-11-16T20:45:44+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Tekniska problem för JP Morgan – aktien backar",
-        "summary": "Vissa transaktioner tar längre tid än normalt hos JP Morgan Chase på grund av ett tekniskt problem. Det uppger banken på måndagen, skriver Bloomberg News.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Technical problems for JP Morgan – shares fall",
-        "summary": "Some transactions take longer than normal at JP Morgan Chase due to a technical problem. The bank says so on Monday, according to Bloomberg News."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T20:45:49+01:00"
       }
     }
   ]

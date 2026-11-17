@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T16:54:30+01:00",
+  "generated_at": "2026-11-17T17:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "78dfa8a0d247",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/nedgangen-tilltar-pa-wall-street-nvidia-backar-igen",
+      "guid": "3a9b3df2-998e-401d-a45e-caf4e916022a",
+      "published_at": "2026-11-17T16:57:14+01:00",
+      "fetched_at": "2026-11-17T17:01:19+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f0ea042c-5a97-4fe0-adcb-fa186b73e61d.jpeg?width=600",
+      "sv": {
+        "title": "Nedgången tilltar på Wall Street – Nvidia backar igen",
+        "summary": "USA-börserna inledde tisdagen med en försiktig nedgång, men föll sedan tillbaka tydligt och även Stockholmsbörsens dras med i fallet. På bolagsnivå tappar chipjätten Nvidia inför dagens rapport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wall Street declines further – Nvidia falls again",
+        "summary": "US stock markets opened Tuesday with a cautious decline, but then clearly fell back, and the Stockholm exchange is also being dragged down. At company level, chip giant Nvidia is falling ahead of today's report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:01:25+01:00"
+      }
+    },
     {
       "id": "98d83bae870f",
       "schema_version": 1,
@@ -5295,33 +5322,6 @@
       "en": {
         "title": "New AI selloff expected in US: \"Enormous uncertainty\"",
         "summary": "AI companies are falling sharply in US trading on Monday, following Friday's slump. \"There is enormous uncertainty,\" says KKM Financial founder Jeff Kilburg to CNBC."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:15:51+01:00"
-      }
-    },
-    {
-      "id": "5a068bedae9e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/centern-haller-vagen-till-hoger-oppen",
-      "guid": "c0f02a0c-36f0-4c59-97f0-d83a8bd6dfec",
-      "published_at": "2026-11-16T13:58:50+01:00",
-      "fetched_at": "2026-11-16T14:15:44+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/ab2fe30d-dbb1-4f7a-b369-242af2771bfa.jpeg?width=600",
-      "sv": {
-        "title": "Centern håller vägen till höger öppen",
-        "summary": "Kanske har Elisabeth Thand Ringqvist skissat på ett ytterligare scenario. Om vänsterns krav står fast kan Centerpartiet blicka högerut. Till skeptikerna får man då argumentera att vi höll vad vi lovade men att det inte gick hela vägen, skriver Mats Qviberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Party keeps the route to the right open",
-        "summary": "Perhaps Elisabeth Thand Ringqvist has sketched out a further scenario. If the Left Party's demands hold, the Centre Party can look to the right. To skeptics, one can then argue that we kept our promises but that it did not go all the way, writes Mats Qviberg."
       },
       "translation": {
         "status": "done",
