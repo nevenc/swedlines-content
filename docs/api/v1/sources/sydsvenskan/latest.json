@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T14:15:56+01:00",
+  "generated_at": "2026-11-17T14:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8a4488a74f1f",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/vilket-lag-ar-nummer-1-i-skansk-hockey",
+      "guid": "c64a92c2-3459-4cb2-ac13-67027764bf43",
+      "published_at": "2026-11-17T14:30:00+01:00",
+      "fetched_at": "2026-11-17T14:31:08+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Vilket lag är nummer 1 i skånsk hockey?",
+        "summary": "Derbydags i en fullsatt Malmö arena – och chans för Malmö Redhawks att koppla grepp om Rögle?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Which team is number 1 in Skåne hockey?",
+        "summary": "Derby day in a packed Malmö arena – and a chance for Malmö Redhawks to take a firm grip on Rögle?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T14:31:11+01:00"
+      }
+    },
     {
       "id": "32f1b21977c7",
       "schema_version": 1,
@@ -5223,32 +5249,6 @@
       "en": {
         "title": "After alarm over groping in Sjöbo – teacher hired at school in Lund",
         "summary": "Pupils raised the alarm for years that the Lund teacher was overly intimate and made sexist remarks. The man has now been reported to the Teachers' Responsibility Board."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:49+01:00"
-      }
-    },
-    {
-      "id": "f926c2e16c81",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/redhawks-direkt-C95UW",
-      "guid": "a76eeb0d-54aa-4147-9627-e9c1e259a9e1",
-      "published_at": "2026-11-14T15:16:45+01:00",
-      "fetched_at": "2026-11-14T15:17:28+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Redhawks Direkt",
-        "summary": "Här sker all direktrapportering om Malmö Redhawks under säsongen. Följ och kommentera alla SHL-matcher med Theodor Bondestam här.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Redhawks Direkt",
-        "summary": "All live reporting on Malmö Redhawks during the season takes place here. Follow and comment on all SHL matches with Theodor Bondestam here."
       },
       "translation": {
         "status": "done",

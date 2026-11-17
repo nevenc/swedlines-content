@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T14:15:56+01:00",
-  "count": 193,
+  "generated_at": "2026-11-17T14:31:12+01:00",
+  "count": 195,
   "items": [
+    {
+      "id": "b7dd19cb28a6",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/z0G8G4/farligt-att-urholka-skolplikten-i-dagens-marknadsskola-skriver-sara-lundberg",
+      "guid": "https://www.svd.se/a/z0G8G4/farligt-att-urholka-skolplikten-i-dagens-marknadsskola-skriver-sara-lundberg?utm_medium=rss",
+      "published_at": "2026-11-17T14:15:00+01:00",
+      "fetched_at": "2026-11-17T14:31:05+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/0687500f-8a9c-3f0e-be7d-6ae511c84ebc?format=auto&s=fab4332bbce3353f99ac718312bc7d0cc3b80c7f&w=1000",
+      "sv": {
+        "title": "”Farligt att urholka skolplikten i marknadsskolan”",
+        "summary": "Förslaget att urholka skolpliktens krav på närvaro och kraven när det gäller skolans kompensatoriska…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Dangerous to erode compulsory schooling in the market school”",
+        "summary": "The proposal to erode the compulsory schooling requirements on attendance and the requirements regarding the school's compensatory…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T14:31:11+01:00"
+      }
+    },
     {
       "id": "e39a88c7dca2",
       "schema_version": 1,
@@ -53,6 +80,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T12:45:55+01:00"
+      }
+    },
+    {
+      "id": "099bcf755bef",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sodertalje/brand-i-radhus-i-sodertalje",
+      "guid": "https://www.svt.se/nyheter/lokalt/sodertalje/brand-i-radhus-i-sodertalje",
+      "published_at": "2026-11-17T12:34:52+01:00",
+      "fetched_at": "2026-11-17T14:31:03+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Brand i radhus i Hovsjö: ”Har spridit sig till intilliggande bostäder”",
+        "summary": "En radhusbrand rasar i Hovsjö i Södertälje. Totalt ska fyra bostäder vara drabbade. Släckningsarbete pågår. – Det är svårt att säga i nuläget hur omfattande skadorna är, säger Cecilia Lundfeldt på Södertörns brandförsvarsförbund.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "House fire in Hovsjö: “Has spread to adjacent homes”",
+        "summary": "A terraced house fire is raging in Hovsjö in Södertälje. A total of four homes are said to be affected. Extinguishing work is ongoing. – It is difficult to say at this point how extensive the damage is, says Cecilia Lundfeldt of Södertörn fire and rescue association."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T14:31:11+01:00"
       }
     },
     {
