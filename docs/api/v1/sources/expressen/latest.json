@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T20:31:10+01:00",
+  "generated_at": "2026-11-17T20:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "356766972b69",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=0526a568-1b3b-4478-8f3b-e6ca6797f956",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0526a568-1b3b-4478-8f3b-e6ca6797f956",
+      "published_at": "2026-11-17T20:37:31+01:00",
+      "fetched_at": "2026-11-17T20:45:46+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Strul för Apple",
+        "summary": "Stora problem med Apple-tjänster",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trouble for Apple",
+        "summary": "Major problems with Apple services"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T20:45:54+01:00"
+      }
+    },
     {
       "id": "d75c8f71426f",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "School knew about child pornography conviction – sent student to preschool",
         "summary": "Mälardalen University learned as early as June that a preschool teaching student had been convicted of child pornography offences. Despite this, the student was able to start their placement at a preschool in Eskilstuna several months later, Eskilstuna-Kuriren reveals."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "7031279221ad",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/usa-forlorar-status-som-masslingsfritt-land",
-      "guid": "https://www.expressen.se/nyheter/varlden/usa-forlorar-status-som-masslingsfritt-land/",
-      "published_at": "2026-11-14T11:44:54+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "USA förlorar status som mässlingsfritt land",
-        "summary": "USA är inte längre ett land där mässlingen utrotats. Det slår Världshälsoorganisationens (WHO) amerikanska gren, Pan American Health Organization, fast, rapporterar The Wall Street Journal (WSJ).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "USA loses status as measles-free country",
-        "summary": "The USA is no longer a country where measles has been eradicated. This is confirmed by the American branch of the World Health Organization (WHO), the Pan American Health Organization, reports The Wall Street Journal (WSJ)."
       },
       "translation": {
         "status": "done",

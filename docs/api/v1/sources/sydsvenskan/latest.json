@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-17T20:31:10+01:00",
+  "generated_at": "2026-11-17T20:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d19202852973",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/dygnet-runt/malmostudio-kan-vinna-fyra-priser-pa-spelens-oscarsgala",
+      "guid": "8e509d98-564c-4117-b8e0-82bbfe5cdfae",
+      "published_at": "2026-11-17T20:37:56+01:00",
+      "fetched_at": "2026-11-17T20:45:48+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/4bf0250b-3aed-4932-b215-fd7753e93779.jpeg?width=600",
+      "sv": {
+        "title": "Malmöstudio kan vinna fyra priser på spelens Oscarsgala",
+        "summary": "För första gången kan ett spel skapat i Malmö vinna pris som ”Årets spel” på spelvärldens stora internationella prisgala The Game Awards. Malmöstudion IO Interactive kan vinna hela fyra priser för sitt James Bond-spel på galan i december.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Malmö studio could win four prizes at the games' Oscars gala",
+        "summary": "For the first time, a game made in Malmö can win the prize for \"Game of the Year\" at The Game Awards, the major international prize gala of the gaming world. Malmö studio IO Interactive could win as many as four prizes for its James Bond game at the gala in December."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T20:45:54+01:00"
+      }
+    },
+    {
+      "id": "e8c27b2cc8fa",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/svensk-professor-om-epstein-kan-ha-mordats",
+      "guid": "499b2322-fb22-4350-9673-05a4c85b3f72",
+      "published_at": "2026-11-17T20:35:09+01:00",
+      "fetched_at": "2026-11-17T20:45:48+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/5d43e00c-762c-42df-8d7e-2df5090158a0.jpg?width=600",
+      "sv": {
+        "title": "Svensk professor om Epstein: Kan ha mördats",
+        "summary": "Hur gick det egentligen till när Jeffrey Epstein dog? Anders Eriksson, professor emeritus i rättsmedicin, har tillsammans med två andra forskare granskat den sexdömde miljardärens obduktionsprotokoll och ifrågasätter nu den officiella dödsorsaken, suicid.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Swedish professor on Epstein: May have been murdered",
+        "summary": "How did it actually happen when Jeffrey Epstein died? Anders Eriksson, professor emeritus of forensic medicine, together with two other researchers, has examined the autopsy report of the convicted sex offender billionaire and now questions the official cause of death, suicide."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T20:45:54+01:00"
+      }
+    },
     {
       "id": "880ad7705440",
       "schema_version": 1,
@@ -5162,60 +5216,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T11:26:59+01:00"
-      }
-    },
-    {
-      "id": "82a6266ba260",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/tre-doms-till-doden-for-kyrkattack",
-      "guid": "eeb838b9-3426-4d72-8e45-7a9d89855c39",
-      "published_at": "2026-11-15T10:12:21+01:00",
-      "fetched_at": "2026-11-15T11:26:42+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/d3c17e19-225b-4c2c-9e7e-63de10ce6d68.jpg?width=600",
-      "sv": {
-        "title": "Tre döms till döden för kyrkattack",
-        "summary": "Tre män döms till döden för att ha skjutit ihjäl nio personer i en kyrka i Jordanien.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Three sentenced to death for church attack",
-        "summary": "Three men are sentenced to death for shooting nine people dead in a church in Jordan."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T11:27:01+01:00"
-      }
-    },
-    {
-      "id": "15fff184ffe9",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/fullmaktiges-ordforande-bor-avga",
-      "guid": "9474da06-dcbe-4e84-a19f-f6800eef4f7f",
-      "published_at": "2026-11-15T10:10:00+01:00",
-      "fetched_at": "2026-11-15T11:26:42+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/4e617567-0467-4a29-b325-1a10cf9b3ef6.jpeg?width=600",
-      "sv": {
-        "title": "Fullmäktiges ordförande bör avgå",
-        "summary": "Kommunfullmäktiges ordförande Mats Helmfrid (M) bör snarast avgå, med anledning av vad som hänt kring p-bolaget LKP. Det menar en insändarskribent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Chair of the municipal council should resign",
-        "summary": "The chair of the municipal council, Mats Helmfrid (M), should resign immediately, in light of what has happened surrounding the parking company LKP. This is the view of a letter writer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T11:27:01+01:00"
       }
     }
   ]
