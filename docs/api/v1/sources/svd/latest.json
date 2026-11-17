@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T00:15:51+01:00",
+  "generated_at": "2026-11-18T00:29:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8b6c58ac664c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/KLvOa4/min-fru-var-otrogen-vill-latsas-att-allt-ar-bra",
+      "guid": "https://www.svd.se/a/KLvOa4/min-fru-var-otrogen-vill-latsas-att-allt-ar-bra?utm_medium=rss",
+      "published_at": "2026-11-18T00:15:00+01:00",
+      "fetched_at": "2026-11-18T00:29:12+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/dc0d992f-0e59-3e52-a241-9d47014736d1?format=auto&s=dfd87a64ce61a4c859befaf861726f1e44fa6ca2&w=1000",
+      "sv": {
+        "title": "”Min fru var otrogen – vill låtsas att allt är bra”",
+        "summary": "Frun var otrogen men vill nu inte prata om det. ”Är i fritt fall – vad ska jag göra?” undrar maken.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”My wife was unfaithful – wants to pretend everything is fine”",
+        "summary": "Wife was unfaithful but now does not want to talk about it. ”I'm in free fall – what should I do?” asks the husband."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T00:29:17+01:00"
+      }
+    },
     {
       "id": "0e84f4456e69",
       "schema_version": 1,
@@ -5181,29 +5208,6 @@
       "en": {
         "title": "Meloni's own goal could cost her dearly",
         "summary": "Will Giorgia Meloni now have to pay the price for her ideological link to President Trump?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:22+01:00"
-      }
-    },
-    {
-      "id": "ae19d927063c",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79914",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79914&utm_medium=rss",
-      "published_at": "2026-11-14T19:36:48+01:00",
-      "fetched_at": "2026-11-14T20:30:09+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "En död efter båtbrand"
-      },
-      "en": {
-        "title": "One dead after boat fire"
       },
       "translation": {
         "status": "done",
