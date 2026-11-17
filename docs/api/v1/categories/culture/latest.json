@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-17T13:01:19+01:00",
+  "generated_at": "2026-11-17T13:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cf0e3cb4877e",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/melodifestivalen-skrotar-finalkvalet",
+      "guid": "9fbea826-3dae-4453-8074-47f0a759db75",
+      "published_at": "2026-11-17T13:15:39+01:00",
+      "fetched_at": "2026-11-17T13:15:46+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/920692de-261e-495b-8470-f7d2b52ec262.jpg?width=600",
+      "sv": {
+        "title": "Melodifestivalen skrotar finalkvalet",
+        "summary": "Det blir inget finalkval i Melodifestivalen nästa år. SVT slopar konceptet med en andra chans efter 25 år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Melodifestivalen scraps the final qualifier",
+        "summary": "There will be no final qualifier in Melodifestivalen next year. SVT is dropping the concept of a second chance after 25 years."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:15:51+01:00"
+      }
+    },
+    {
+      "id": "37c5624ec8a4",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/birgitta-rubin-auktionen-pa-hilma-af-klints-verk-ar-en-rysare",
+      "guid": "https://www.dn.se/kultur/birgitta-rubin-auktionen-pa-hilma-af-klints-verk-ar-en-rysare/",
+      "published_at": "2026-11-17T13:13:42+01:00",
+      "fetched_at": "2026-11-17T13:15:44+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/c0a97f1d-f5bf-40f6-879d-be556a22a924.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Birgitta Rubin: Auktionen på Hilma af Klints verk är en rysare",
+        "summary": "En abstrakt målning av Hilma af Klint ska nu säljas på Bukowskis moderna auktion. DN:s konstredaktör Birgitta Rubin förklarar bakgrunden till försäljningen och ifrågasätter lämpligheten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Birgitta Rubin: Auction of Hilma af Klint works is a thriller",
+        "summary": "An abstract painting by Hilma af Klint is now to be sold at Bukowskis' modern auction. DN art editor Birgitta Rubin explains the background to the sale and questions its appropriateness."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:15:51+01:00"
+      }
+    },
+    {
+      "id": "671c061f7eca",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/kultur/melodifestivalen-skrotar-finalkvalet",
+      "guid": "https://www.svt.se/kultur/melodifestivalen-skrotar-finalkvalet",
+      "published_at": "2026-11-17T13:05:28+01:00",
+      "fetched_at": "2026-11-17T13:15:44+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Melodifestivalen skrotar finalkvalet",
+        "summary": "Det blir inget finalkval i Melodifestivalen nästa år. SVT slopar konceptet med en andra chans efter 25 år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Melodifestivalen scraps the final qualifier",
+        "summary": "There will be no final qualifier in Melodifestivalen next year. SVT is dropping the concept of a second chance after 25 years."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:15:51+01:00"
+      }
+    },
     {
       "id": "1f77fc22df54",
       "schema_version": 1,
@@ -5544,89 +5624,6 @@
       "en": {
         "title": "Drag artist Admira puts on a show at Fotografiska: 'Sometimes you are unfortunately placed in a joke box'",
         "summary": "Adam Risberg, better known as Admira, has been a drag artist for more than 15 years. This autumn his artistry is on show at Fotografiska in Stockholm under the show concept 'Art of: drag'. – It feels like a privilege to get into the slightly more exclusive rooms, he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "08cd546bf624",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4ixTzgKynfth5bCRDFfxhJ/han-aer-sjuk-dagen-foere-loerdagsfinalen-det-aer-inte-en-jaettegod-tajming",
-      "guid": "4ixTzgKynfth5bCRDFfxhJ",
-      "published_at": "2026-11-13T17:00:12+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "Han är sjuk dagen före finalen: ”Det är inte en jättegod tajming”",
-        "summary": "Inför den femte lördagsfinalen av ”Idol” har Laban Berglin drabbats av förkylning i värsta möjliga läge. Symtomen började redan tidigare i veckan, och nu är det bara timmar kvar till nästa liveframträdande.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "He is ill the day before the final: 'It is not great timing'",
-        "summary": "Ahead of the fifth Saturday final of 'Idol', Laban Berglin has caught a cold at the worst possible moment. The symptoms began earlier in the week, and now there are only hours left until the next live performance."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "ba3d79b83110",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sport/johan-croneman-juridik-politik-och-moral-nar-fragorna-troskades-blev-det-bra",
-      "guid": "https://www.dn.se/sport/johan-croneman-juridik-politik-och-moral-nar-fragorna-troskades-blev-det-bra/",
-      "published_at": "2026-11-13T16:47:45+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/ca6a8381-56af-4374-9c49-173217fb2d37.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Johan Croneman: Juridik, politik och moral – när frågorna tröskades blev det bra",
-        "summary": "DN:s sport-i-tv-krönikör Johan Croneman kallar fotbollsmagasinet ”Bollklubben” för en succé. Och han tycker även att efterföljaren ”Hockeyklubben” visar potential. Ett exempel var när frågan om Rysslands och hockey-VM diskuterades.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Johan Croneman: Law, politics and morality – when the questions were threshed out, it was good",
-        "summary": "DN's sport-on-TV columnist Johan Croneman calls the football magazine 'Bollklubben' a success. And he thinks the successor 'Hockeyklubben' shows potential too. One example was when the question of Russia and the hockey world championship was discussed."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "00e589115f57",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/3-x-franska-smaker",
-      "guid": "https://www.dn.se/kultur/3-x-franska-smaker/",
-      "published_at": "2026-11-13T16:40:17+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/5f975526-9893-4246-a44f-9f62153fe730.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "3 x franska smaker",
-        "summary": "Det franska köket älskas av många. Här är tre restauranger med bistroinriktning i Stockholm som testats det senaste året.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "3 x French flavours",
-        "summary": "French cuisine is loved by many. Here are three bistro-style restaurants in Stockholm tested in the past year."
       },
       "translation": {
         "status": "done",

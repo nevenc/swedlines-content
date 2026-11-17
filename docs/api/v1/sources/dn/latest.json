@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T13:01:19+01:00",
+  "generated_at": "2026-11-17T13:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "37c5624ec8a4",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/birgitta-rubin-auktionen-pa-hilma-af-klints-verk-ar-en-rysare",
+      "guid": "https://www.dn.se/kultur/birgitta-rubin-auktionen-pa-hilma-af-klints-verk-ar-en-rysare/",
+      "published_at": "2026-11-17T13:13:42+01:00",
+      "fetched_at": "2026-11-17T13:15:44+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/c0a97f1d-f5bf-40f6-879d-be556a22a924.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Birgitta Rubin: Auktionen på Hilma af Klints verk är en rysare",
+        "summary": "En abstrakt målning av Hilma af Klint ska nu säljas på Bukowskis moderna auktion. DN:s konstredaktör Birgitta Rubin förklarar bakgrunden till försäljningen och ifrågasätter lämpligheten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Birgitta Rubin: Auction of Hilma af Klint works is a thriller",
+        "summary": "An abstract painting by Hilma af Klint is now to be sold at Bukowskis' modern auction. DN art editor Birgitta Rubin explains the background to the sale and questions its appropriateness."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T13:15:51+01:00"
+      }
+    },
     {
       "id": "a5dafafec882",
       "schema_version": 1,
@@ -5360,32 +5387,6 @@
       "en": {
         "title": "Here is the notorious prison where Russell Brand is held",
         "summary": "Russell Brand is serving his sentence at Wandsworth, one of Britain's most notorious prisons, marked by violence, overcrowding and drugs. At the same time a further six women accuse the comedian of abuse, The Times reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "5c7643d86860",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/13-november-missa-inte-dagens-nyheter",
-      "guid": "https://www.dn.se/varlden/13-november-missa-inte-dagens-nyheter/",
-      "published_at": "2026-11-13T21:20:02+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "13 november: Missa inte dagens nyheter",
-        "summary": "C har fått totalpaket, ökad risk för bedrägeriförsök och Foxtrots ”superanstiftare” kopplas till mordet på Saba – här är dagens nyheter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "13 November: Don't miss today's news",
-        "summary": "C has received total packages, increased risk of fraud attempts and Foxtrot's 'super-instigator' is linked to the murder of Saba – here is today's news."
       },
       "translation": {
         "status": "done",
