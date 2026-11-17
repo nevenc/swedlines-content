@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T11:45:47+01:00",
+  "generated_at": "2026-11-17T12:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ed00e0eba334",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/rasmus-giertz-framtid-osaker-i-frysboxen",
+      "guid": "https://www.dn.se/sverige/rasmus-giertz-framtid-osaker-i-frysboxen/",
+      "published_at": "2026-11-17T11:49:27+01:00",
+      "fetched_at": "2026-11-17T12:01:13+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/db42ece1-6c24-42bf-9e79-b257ccdc9cd0.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Rasmus Giertz framtid osäker: ”I frysboxen”",
+        "summary": "Rasmus Giertz skulle lämna riksdagen – men ändrade sig. Nu utreder SD om han ska uteslutas. Under tiden sitter han kvar på partiets mandat. ”Kort sagt befinner han sig i frysboxen”, skriver SD:s presschef Oskar Cavalli-Björkman.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Rasmus Giertz's future uncertain: \"In the freezer\"",
+        "summary": "Rasmus Giertz was to leave the Riksdag – but changed his mind. Now the Sweden Democrats are investigating whether he should be expelled. In the meantime he remains in the party's seat. \"In short, he is in the freezer\", writes SD press chief Oskar Cavalli-Björkman."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:01:24+01:00"
+      }
+    },
     {
       "id": "b0363b80a699",
       "schema_version": 1,
@@ -5359,33 +5386,6 @@
       "en": {
         "title": "Sweden through to world championship semi-final: 'Built up confidence'",
         "summary": "The dream of the first Swedish championship medal in 19 years lives on. The Swedish women's team took revenge on Switzerland when they won the low-scoring world championship quarter-final 1–0 on Friday evening. – It got unnecessarily exciting, but really nice that it held all the way, says defender Mira Jungåker."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "231fe9ae8bca",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/bessent-pekar-ut-lutnick-for-ai-lackage-till-kina",
-      "guid": "https://www.dn.se/varlden/bessent-pekar-ut-lutnick-for-ai-lackage-till-kina/",
-      "published_at": "2026-11-13T21:10:34+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/e78a0a0f-a181-4771-aa5d-c294dd76ac67.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Bessent pekar ut Lutnick för AI-läckage till Kina",
-        "summary": "Finansminister Scott Bessent pekar finger åt ministerkollegan Howard Lutnick i fråga om varför inte USA bättre lyckats stoppa utförsel av avancerade AI-chip till Kina. Frågan är kopplad till skandalen kring Nvidias tidigare vd Jensen Huang.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bessent points at Lutnick over AI leak to China",
-        "summary": "Treasury Secretary Scott Bessent points the finger at fellow cabinet member Howard Lutnick over why the US has not been more successful in stopping exports of advanced AI chips to China. The question is linked to the scandal surrounding Nvidia's former CEO Jensen Huang."
       },
       "translation": {
         "status": "done",
