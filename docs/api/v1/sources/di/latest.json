@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T16:45:55+01:00",
+  "generated_at": "2026-11-17T16:54:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "98d83bae870f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/jensen-huang-ska-horas-i-usa-s-kongress",
+      "guid": "65ed87b1-135c-426a-9b20-1f9af3de7ced",
+      "published_at": "2026-11-17T16:42:39+01:00",
+      "fetched_at": "2026-11-17T16:54:26+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/485c0468-7249-453b-80e0-ba7e876db168.jpeg?width=600",
+      "sv": {
+        "title": "Jensen Huang ska höras i USA:s kongress",
+        "summary": "Amerikanska chipjätten Nvidias tidigare vd Jensen Huang ska framträda inför USA:s kongress den 1 december.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Jensen Huang to testify before US Congress",
+        "summary": "Former CEO of US chip giant Nvidia Jensen Huang is to appear before the US Congress on 1 December."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:54:30+01:00"
+      }
+    },
     {
       "id": "7ba2469c2c7b",
       "schema_version": 1,
@@ -5302,32 +5329,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T14:15:51+01:00"
-      }
-    },
-    {
-      "id": "5599ec301cf8",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/uppgifter-tomma-serverrack-hittades-i-megaspeed-razzia",
-      "guid": "7c1947aa-e016-4ef7-a4dd-144761bd4170",
-      "published_at": "2026-11-16T13:53:53+01:00",
-      "fetched_at": "2026-11-16T14:01:16+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Uppgifter: Tomma serverrack hittades i Megaspeed-razzia",
-        "summary": "Indonesisk polis har genomfört en razzia i Megaspeeds lokaler i Jakarta, efter misstankar om att företaget har vidareförmedlat Nvidia-chip till Kina på ett otillbörligt sätt. Det rapporterar den singaporeanska tidningen Straits Times.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: Empty server racks found in Megaspeed raid",
-        "summary": "Indonesian police have raided Megaspeed's premises in Jakarta over suspicions that the company improperly passed on Nvidia chips to China. The Singaporean newspaper Straits Times reports this."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:01:29+01:00"
       }
     }
   ]
