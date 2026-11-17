@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-17T02:15:44+01:00",
+  "generated_at": "2026-11-17T02:31:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ece2d70ddb9a",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/qOLJ2m/japan-ryska-plan-krankt-luftrum",
+      "guid": "https://www.aftonbladet.se/nyheter/a/qOLJ2m/japan-ryska-plan-krankt-luftrum?utm_medium=rss",
+      "published_at": "2026-11-17T02:29:52+01:00",
+      "fetched_at": "2026-11-17T02:30:57+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Japan: Ryska plan kränkt luftrum",
+        "summary": "Två flygplan som misstänks komma från Ryssland har kränkt Japans luftrum, uppger japanska…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Japan: Russian Planes Violate Airspace",
+        "summary": "Two aircraft suspected of coming from Russia have violated Japan's airspace, according to Japanese…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T02:31:02+01:00"
+      }
+    },
+    {
+      "id": "9b1619b7e672",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/pMLdoW/kallor-planerar-dad-mot-washington",
+      "guid": "https://www.svd.se/a/pMLdoW/kallor-planerar-dad-mot-washington?utm_medium=rss",
+      "published_at": "2026-11-17T02:24:45+01:00",
+      "fetched_at": "2026-11-17T02:30:57+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/61f60e2e-2fe1-329f-ac83-dd9563202eb5?format=auto&s=f91ed363e341b65a58087877fad2be9ff8e9e8e5&w=1000",
+      "sv": {
+        "title": "Källor: Planerar dåd mot Washington",
+        "summary": "Iran planerar att attackera högt uppsatta personer inom det amerikanska presidentstyret, indikerar…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sources: Planning Attack on Washington",
+        "summary": "Iran is planning to attack high-ranking individuals within the American presidential administration, indicates…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T02:31:02+01:00"
+      }
+    },
+    {
+      "id": "c77afb8b7cee",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/ARd763/kallor-planerar-dad-mot-washington",
+      "guid": "https://www.aftonbladet.se/nyheter/a/ARd763/kallor-planerar-dad-mot-washington?utm_medium=rss",
+      "published_at": "2026-11-17T02:24:44+01:00",
+      "fetched_at": "2026-11-17T02:30:57+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/61f60e2e-2fe1-329f-ac83-dd9563202eb5?format=auto&s=f91ed363e341b65a58087877fad2be9ff8e9e8e5&w=1000",
+      "sv": {
+        "title": "Källor: Planerar dåd mot Washington",
+        "summary": "Iran planerar att attackera högt uppsatta personer inom det amerikanska presidentstyret, indikerar…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sources: Planning Attack on Washington",
+        "summary": "Iran is planning to attack high-ranking individuals within the American presidential administration, indicates…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T02:31:02+01:00"
+      }
+    },
     {
       "id": "26ea1d8e18b8",
       "schema_version": 1,
@@ -5289,88 +5369,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T21:40:46+01:00"
-      }
-    },
-    {
-      "id": "68e005d71aaa",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/9ELvCUU3wvEiHSWGSHVDW/flygexperten-efter-kaoset-moderniseringen-kan-ha-gatt-foer-fort",
-      "guid": "9ELvCUU3wvEiHSWGSHVDW",
-      "published_at": "2026-11-14T20:06:39+01:00",
-      "fetched_at": "2026-11-14T20:30:10+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Flygexperten: Moderniseringen kan ha gått för fort",
-        "summary": "USA:s transportminister Sean Duffy säger att flygstoppet orsakades av arbete med att byta ut gamla kopparledningar mot fiber. Exakt varför systemet havererade är däremot fortfarande inte klarlagt. Samtidigt riktas blickarna mot den pågående moderniseringen av flygledningssystemen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Aviation expert: Modernisation may have gone too fast",
-        "summary": "US Transport Secretary Sean Duffy says the flight stoppage was caused by work replacing old copper lines with fibre. Exactly why the system crashed is still not clarified. Meanwhile, attention is turning to the ongoing modernisation of air traffic control systems."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:22+01:00"
-      }
-    },
-    {
-      "id": "e48445e15cb3",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/WmLnlG/giorgia-meloni-kan-fa-betala-for-sin-koppling-till-trump",
-      "guid": "https://www.svd.se/a/WmLnlG/giorgia-meloni-kan-fa-betala-for-sin-koppling-till-trump?utm_medium=rss",
-      "published_at": "2026-11-14T20:02:02+01:00",
-      "fetched_at": "2026-11-14T20:30:09+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/c353e830-46f3-3c47-a193-e128b9373e65?format=auto&s=1ce340dd24749b49a82e7f9fd284346387edf7e9&w=1000",
-      "sv": {
-        "title": "Melonis självmål kan stå henne dyrt",
-        "summary": "Får Giorgia Meloni nu betala priset för sin ideologiska koppling till president Trump?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Meloni's own goal could cost her dearly",
-        "summary": "Will Giorgia Meloni now have to pay the price for her ideological link to President Trump?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:22+01:00"
-      }
-    },
-    {
-      "id": "ad0625ea41b9",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9339492",
-      "guid": "rss:sr.se/article/9339492",
-      "published_at": "2026-11-14T20:02:00+01:00",
-      "fetched_at": "2026-11-14T20:30:07+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Över 60 000 avslöjade när hemliga polisens arkiv öppnas",
-        "summary": "Över 60 000 namn på ungrare som spionerade på personer i sin omgivning under kommunisttiden finns nu i en databas som alla kan läsa. Ungerns nya regering fullföljer därmed sitt vallöfte att öppna arkiven där den hemliga polisens angivare från kommunisttiden avslöjas.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Over 60,000 exposed as secret police archive opens",
-        "summary": "Over 60,000 names of Hungarians who spied on people around them during the communist era are now in a database that anyone can read. Hungary's new government is thereby fulfilling its election promise to open the archives where the secret police's informers from the communist era are exposed."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:22+01:00"
       }
     }
   ]
