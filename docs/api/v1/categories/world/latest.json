@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T04:01:19+01:00",
+  "generated_at": "2026-11-17T04:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7cfffe1378d3",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/uppgifter-iran-forbereder-bombdad-mot-washington",
+      "guid": "https://www.dn.se/varlden/uppgifter-iran-forbereder-bombdad-mot-washington/",
+      "published_at": "2026-11-17T04:13:51+01:00",
+      "fetched_at": "2026-11-17T04:15:47+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/7f556015-a97b-404c-bff1-1d5a4321a3a1.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Uppgifter: Iran förbereder bombdåd mot Washington",
+        "summary": "WASHINGTON. Iran gör upp planer på ett möjligt attentat med en ”smutsig bomb” i Washington DC, enligt flera underrättelsekällor till CNN. Det föreligger inget omedelbart hot utan handlar om att landet vill ha alternativ om de behöver eskalera konflikten med USA, uppger tv-kanalen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: Iran preparing bomb attack on Washington",
+        "summary": "WASHINGTON. Iran is making plans for a possible attack with a \"dirty bomb\" in Washington DC, according to several intelligence sources speaking to CNN. There is no immediate threat, but the country wants options in case it needs to escalate the conflict with the US, the TV network reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T04:15:53+01:00"
+      }
+    },
     {
       "id": "907236057ba7",
       "schema_version": 1,
@@ -5342,33 +5369,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "1aac4f9e6189",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/vi-kan-starta-massproduktion-av-ballistiska-missiler-om-nagra-manader",
-      "guid": "https://www.dn.se/varlden/vi-kan-starta-massproduktion-av-ballistiska-missiler-om-nagra-manader/",
-      "published_at": "2026-11-14T21:34:24+01:00",
-      "fetched_at": "2026-11-14T21:40:36+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/c21697c9-9109-4f21-8b13-d666a0472f24.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "”Vi kan starta massproduktion av ballistiska missiler om några månader”",
-        "summary": "Ukraina kan starta masstillverkning av ballistiska robotar inom några månader, enligt Iryna Terech, 34, vd för ett av Ukrainas främsta försvarsteknikbolag. Produktionen görs med minimalt beroende av utländska komponenter. – Vi vet att inga politiska beslut går att lita på, säger hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"We can start mass production of ballistic missiles in a few months\"",
-        "summary": "Ukraine can begin mass production of ballistic missiles within a few months, according to Iryna Terech, 34, CEO of one of Ukraine's leading defence technology companies. Production is being done with minimal dependence on foreign components. \"We know that no political decisions can be relied upon,\" she says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T21:40:46+01:00"
       }
     }
   ]

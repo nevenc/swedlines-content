@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T04:01:19+01:00",
+  "generated_at": "2026-11-17T04:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7cfffe1378d3",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/uppgifter-iran-forbereder-bombdad-mot-washington",
+      "guid": "https://www.dn.se/varlden/uppgifter-iran-forbereder-bombdad-mot-washington/",
+      "published_at": "2026-11-17T04:13:51+01:00",
+      "fetched_at": "2026-11-17T04:15:47+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/7f556015-a97b-404c-bff1-1d5a4321a3a1.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Uppgifter: Iran förbereder bombdåd mot Washington",
+        "summary": "WASHINGTON. Iran gör upp planer på ett möjligt attentat med en ”smutsig bomb” i Washington DC, enligt flera underrättelsekällor till CNN. Det föreligger inget omedelbart hot utan handlar om att landet vill ha alternativ om de behöver eskalera konflikten med USA, uppger tv-kanalen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: Iran preparing bomb attack on Washington",
+        "summary": "WASHINGTON. Iran is making plans for a possible attack with a \"dirty bomb\" in Washington DC, according to several intelligence sources speaking to CNN. There is no immediate threat, but the country wants options in case it needs to escalate the conflict with the US, the TV network reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T04:15:53+01:00"
+      }
+    },
     {
       "id": "542954c988d1",
       "schema_version": 1,
@@ -5359,33 +5386,6 @@
       "en": {
         "title": "EU seeks negotiators – 'within a few weeks'",
         "summary": "Sweden supports a broad line-up of European representatives in possible talks with Russia, says Prime Minister Ulf Kristersson (M). Ireland's prime minister wants the question settled within a few weeks."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "4d6237ddd37d",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ekonomi/svenskt-naringsliv-fler-forstadagsintyg-om-karensen-slopas",
-      "guid": "https://www.dn.se/ekonomi/svenskt-naringsliv-fler-forstadagsintyg-om-karensen-slopas/",
-      "published_at": "2026-11-13T14:36:30+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0555f69f-78cc-4829-ab2b-4576b4f1c242.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Svenskt Näringsliv: ”Fler förstadagsintyg om karensen slopas”",
-        "summary": "Slopad karens kan leda till betydligt fler krav på förstadagsintyg. I Svenskt Näringslivs företagarpanel uppger 82 procent att de helt eller troligen skulle begära sådana oftare vid återkommande korttidssjukfrånvaro.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Confederation of Swedish Enterprise: 'More first-day certificates if the waiting day is scrapped'",
-        "summary": "Scrapping the sick-pay waiting day could lead to considerably more demands for first-day medical certificates. In the Confederation of Swedish Enterprise's business panel, 82 per cent say they would definitely or probably request them more often in cases of recurring short-term sick leave."
       },
       "translation": {
         "status": "done",
