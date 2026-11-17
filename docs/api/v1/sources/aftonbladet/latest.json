@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T18:45:46+01:00",
+  "generated_at": "2026-11-17T19:01:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "772b58e3f121",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/M5gO25/ahmed-8-dog-i-containern-i-sandviken",
+      "guid": "https://www.aftonbladet.se/nyheter/a/M5gO25/ahmed-8-dog-i-containern-i-sandviken?utm_medium=rss",
+      "published_at": "2026-11-17T18:59:22+01:00",
+      "fetched_at": "2026-11-17T19:01:14+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/4abb2cc2-ecf7-3662-a0dd-c7a1cf7c2607?format=auto&s=ed43871a57a2a2602fa957c5c6193588a14cb331&w=1000",
+      "sv": {
+        "title": "Ahmed, 8, dog i containern: ”Saknar honom hela tiden”",
+        "summary": "Dog i containern i Sandviken",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ahmed, 8, died in the container: \"I miss him all the time\"",
+        "summary": "Died in the container in Sandviken"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:01:19+01:00"
+      }
+    },
     {
       "id": "2b04318d968f",
       "schema_version": 1,
@@ -5353,33 +5380,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "3e52c0d2b08c",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/9paL55/kronisk-borrelia-finns-inte-som-diagnos-i-sverige",
-      "guid": "https://www.aftonbladet.se/nyheter/a/9paL55/kronisk-borrelia-finns-inte-som-diagnos-i-sverige?utm_medium=rss",
-      "published_at": "2026-11-14T10:51:34+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/3f107d4a-e90d-3c6e-8b35-ac9aa58ad88f?format=auto&s=65633b10505ceb9e6eb87cb1d26b341b71d6ead8&w=1000",
-      "sv": {
-        "title": "Avfärdar diagnos: ”Finns inga vetenskapliga bevis”",
-        "summary": "Patienter upplever att de är sjuka i åratal – och betalar hundratusentals kronor för att bli friska utomlands.Men enligt svensk expertis finns inte sjukdomen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Dismisses diagnosis: \"No scientific evidence exists\"",
-        "summary": "Patients feel sick for years – and pay hundreds of thousands of kronor to get well abroad. But according to Swedish experts, the disease does not exist."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
       }
     }
   ]

@@ -1,7 +1,116 @@
 {
-  "generated_at": "2026-11-17T18:45:46+01:00",
-  "count": 540,
+  "generated_at": "2026-11-17T19:01:20+01:00",
+  "count": 544,
   "items": [
+    {
+      "id": "ff7119b92474",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/antligen-far-vi-veta-mer-om-anna-maria-lenngren-poeten-som-spottade-ur-sig-salta-sarkasmer-om-overklassens-seder",
+      "guid": "b4fbd851-b274-4a35-8269-6b64825012dd",
+      "published_at": "2026-11-17T19:00:00+01:00",
+      "fetched_at": "2026-11-17T19:01:16+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/8e3737bc-1c8d-49bb-8714-18a3d6168e36.png?width=600",
+      "sv": {
+        "title": "Äntligen får vi veta mer om Anna Maria Lenngren – poeten som spottade ur sig salta sarkasmer om överklassens seder",
+        "summary": "Nu finns Ingrid Carlbergs mustiga levnadsteckning av kvinnan som skulle bli en av den svenska litteraturhistoriens roligaste poeter, fortfarande oöverträffad i sina salta redogörelser för flottiga kalas och svettiga danshak, skriver Ann Lingebrandt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "We finally learn more about Anna Maria Lenngren – the poet who spat out salty sarcasm about the manners of the upper class",
+        "summary": "Ingrid Carlberg's musty biography of the woman who would become one of Swedish literary history's most amusing poets is now out, still unmatched in its salty accounts of sloppy banquets and sweaty dance parties, writes Ann Lingebrandt."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:01:19+01:00"
+      }
+    },
+    {
+      "id": "772b58e3f121",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/M5gO25/ahmed-8-dog-i-containern-i-sandviken",
+      "guid": "https://www.aftonbladet.se/nyheter/a/M5gO25/ahmed-8-dog-i-containern-i-sandviken?utm_medium=rss",
+      "published_at": "2026-11-17T18:59:22+01:00",
+      "fetched_at": "2026-11-17T19:01:14+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/4abb2cc2-ecf7-3662-a0dd-c7a1cf7c2607?format=auto&s=ed43871a57a2a2602fa957c5c6193588a14cb331&w=1000",
+      "sv": {
+        "title": "Ahmed, 8, dog i containern: ”Saknar honom hela tiden”",
+        "summary": "Dog i containern i Sandviken",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ahmed, 8, died in the container: \"I miss him all the time\"",
+        "summary": "Died in the container in Sandviken"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:01:19+01:00"
+      }
+    },
+    {
+      "id": "439822a9a6e2",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4LlsLZa5Gfk6haaG6HhWtg/sa-rustar-du-barnen-foer-vintern-utan-att-toemma-planboken",
+      "guid": "4LlsLZa5Gfk6haaG6HhWtg",
+      "published_at": "2026-11-17T18:53:36+01:00",
+      "fetched_at": "2026-11-17T19:01:14+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Så rustar du barnen för vintern – utan att tömma plånboken",
+        "summary": "Vintern innebär för många barnfamiljer inköp av jackor, kängor, skridskor och hjälmar och så vidare. Att köpa allt nytt kan kosta över 9 000 kronor, enligt en beräkning från Ica-banken. – Det som är dyrast är ytterkläderna, säger bankens vardagsekonom Magnus Hjelmér.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "How to kit out the children for winter – without emptying your wallet",
+        "summary": "Winter means many families with children must buy jackets, boots, skates and helmets, and so on. Buying everything new can cost over SEK 9,000, according to a calculation by Ica-banken. \"The most expensive are the outer clothes,\" says the bank's everyday economist Magnus Hjelmér."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:01:19+01:00"
+      }
+    },
+    {
+      "id": "5b4615201d67",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344734",
+      "guid": "rss:sr.se/article/9344734",
+      "published_at": "2026-11-17T18:53:00+01:00",
+      "fetched_at": "2026-11-17T19:01:12+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Moldavien stänger luftrummet i landet",
+        "summary": "Moldaviens luftrum är stängt efter att ryska drönare kränkt landets luftrum under kvällen. En av drönarna flög över huvudstaden Chișinău, skriver landets president Maia Sandu på X.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Moldova closes its airspace",
+        "summary": "Moldova's airspace is closed after Russian drones violated the country's airspace during the evening. One of the drones flew over the capital Chișinău, writes the country's president Maia Sandu on X."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:01:19+01:00"
+      }
+    },
     {
       "id": "bc3cc8c1f3cd",
       "schema_version": 1,
