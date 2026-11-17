@@ -1,7 +1,165 @@
 {
-  "generated_at": "2026-11-17T07:31:08+01:00",
+  "generated_at": "2026-11-17T07:45:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9afc0c7dfc98",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/krimbron-uppges-skadad-vid-nytt-stort-anfall",
+      "guid": "020dff09-907a-4a3c-8b61-18c08fb9959b",
+      "published_at": "2026-11-17T07:39:06+01:00",
+      "fetched_at": "2026-11-17T07:45:44+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/efb33acf-b2a8-4f67-a9b6-7223503ffdc5.jpg?width=600",
+      "sv": {
+        "title": "Krimbron uppges skadad vid nytt stort anfall",
+        "summary": "Ukraina har anfallit Krimbron igen och enligt obekräftade bilder har en av dess stora valvbågar bombats sönder. I Kiev har två av de stora broar som binder samman staden över floden Dnepr träffats vid nya ryska attacker.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Crimea Bridge reportedly damaged in new major attack",
+        "summary": "Ukraine has attacked the Crimea Bridge again and, according to unconfirmed images, one of its large arch spans has been blown apart by bombs. In Kyiv, two of the large bridges that link the city across the Dnipro river have been hit in new Russian attacks."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T07:45:49+01:00"
+      }
+    },
+    {
+      "id": "94b289ae5410",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/riksbankens-it-chef-akte-med-pa-lyxresa-infor-upphandling",
+      "guid": "0e2155b1-9ab4-43a1-989b-449f59341c0a",
+      "published_at": "2026-11-17T07:37:13+01:00",
+      "fetched_at": "2026-11-17T07:45:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/bd862702-bef0-4d7c-97d4-0c67987ecc96.jpeg?width=600",
+      "sv": {
+        "title": "Riksbankens it-chef åkte med på lyxresa inför upphandling",
+        "summary": "Riksbankens it-chef Mats Eklund åkte med på en lyxresa med teknikföretaget Fujitsu inför en it-upphandling värd runt 400 miljoner kronor, där Fujitsu var en av de tänkbara anbudsgivarna, rapporterar Sveriges Radio Ekot.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Riksbank IT chief went on luxury trip ahead of procurement",
+        "summary": "Riksbank IT chief Mats Eklund went on a luxury trip with technology company Fujitsu ahead of an IT procurement worth around SEK 400 million, where Fujitsu was one of the potential bidders, reports Sveriges Radio Ekot."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T07:45:49+01:00"
+      }
+    },
+    {
+      "id": "c196a2f9a424",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/roche-far-fda-ja-for-oral-brostcancerbehandling",
+      "guid": "2910cbb8-f228-4418-b9b9-ed3fd8f35e4b",
+      "published_at": "2026-11-17T07:36:12+01:00",
+      "fetched_at": "2026-11-17T07:45:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Roche får FDA-ja för oral bröstcancerbehandling",
+        "summary": "Amerikanska läkemedelsmyndigheten FDA har godkänt schweiziska läkemedelsbolaget Roches Wilserdly, en oral Serd-behandling, för ER-positiv, ESR1-muterad avancerad bröstcancer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Roche gets FDA approval for oral breast cancer treatment",
+        "summary": "The US Food and Drug Administration (FDA) has approved Swiss pharmaceutical company Roche's Wilserdly, an oral Serd treatment, for ER-positive, ESR1-mutated advanced breast cancer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T07:45:49+01:00"
+      }
+    },
+    {
+      "id": "77af23270d7d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/seb-strateg-ha-inte-pengarna-har-om-ai-bubblan-spricker",
+      "guid": "9c0bfa75-6de0-4c75-9452-8fce9f69c327",
+      "published_at": "2026-11-17T07:34:56+01:00",
+      "fetched_at": "2026-11-17T07:45:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/b75d8a33-e11f-4750-acc9-e54d84f9009b.jpeg?width=600",
+      "sv": {
+        "title": "SEB-strateg: Ha inte pengarna här om AI-bubblan spricker",
+        "summary": "SEB bedömer att oron för ett nära förestående slut på AI-boomen, att det är en bubbla som spricker nu, är överdriven. Om man ändå tror att den gör det, är det fel att parkera pengarna på hemmaplan, argumenterar banken i ett avsnitt om nordiska aktier i publikationen SEB Investment Outlook på…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "SEB strategist: Don't keep the money here if the AI bubble bursts",
+        "summary": "SEB judges that concern over an imminent end to the AI boom, that it is a bubble bursting now, is exaggerated. If you still believe it is, it is wrong to park the money at home, the bank argues in a section on Nordic equities in the publication SEB Investment Outlook on…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T07:45:49+01:00"
+      }
+    },
+    {
+      "id": "294098ae55cb",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/skanska-saljer-hyresbostadsprojekt-for-460-mkr",
+      "guid": "f8acc4f7-0577-417f-81ce-4569500bce6f",
+      "published_at": "2026-11-17T07:34:40+01:00",
+      "fetched_at": "2026-11-17T07:45:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1907e16a-35da-4905-ab15-93a64f9f135f.jpeg?width=600",
+      "sv": {
+        "title": "Skanska säljer hyresbostadsprojekt för 460 Mkr",
+        "summary": "Skanska har tecknat avtal om att avyttra ett egenutvecklat hyresbostadsprojekt i Uppsala till Folksamgruppen genom KPA Pension. Det framgår av ett pressmeddelande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Skanska sells rental housing project for SEK 460 million",
+        "summary": "Skanska has signed an agreement to divest a self-developed rental housing project in Uppsala to Folksam Group through KPA Pension. This is according to a press release."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T07:45:49+01:00"
+      }
+    },
+    {
+      "id": "e9da69121de0",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/EbWbm3/huang-kallas-till-kongressforhor",
+      "guid": "https://www.svd.se/a/EbWbm3/huang-kallas-till-kongressforhor?utm_medium=rss",
+      "published_at": "2026-11-17T07:33:10+01:00",
+      "fetched_at": "2026-11-17T07:45:41+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/f2b01143-f6a2-30e9-85c2-c11fecb034de?format=auto&s=f07acba2522348885b163193e2701a979a84e656&w=1000",
+      "sv": {
+        "title": "Huang kallas till kongressförhör"
+      },
+      "en": {
+        "title": "Huang summoned to congressional hearing"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T07:45:49+01:00"
+      }
+    },
     {
       "id": "3d3233481a16",
       "schema_version": 1,
@@ -54,6 +212,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "cbc177b426a4",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/debatt/sverige-behover-fler-jobb-bankerna-satter-stopp",
+      "guid": "082b3f64-37c2-4519-8711-7a0f8ce7b484",
+      "published_at": "2026-11-17T07:29:17+01:00",
+      "fetched_at": "2026-11-17T07:45:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/99094a76-0bec-4f8e-95dc-1c7eb8e693e3.jpeg?width=600",
+      "sv": {
+        "title": "Sverige behöver fler jobb - bankerna sätter stopp",
+        "summary": "Många vill både investera och anställa om de bara fick chansen. Men den frostiga relationen mellan småföretagare och bankerna hämmar utvecklingen, visar vår nya undersökning, skriver Småföretagarnas riksförbund.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sweden needs more jobs - banks put a stop to it",
+        "summary": "Many want to both invest and hire if they only got the chance. But the frosty relationship between small business owners and banks is holding back development, shows our new survey, writes the Confederation of Swedish Small Businesses."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T07:45:49+01:00"
       }
     },
     {
@@ -5238,194 +5423,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T20:15:51+01:00"
-      }
-    },
-    {
-      "id": "046ab3b5001f",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9343993",
-      "guid": "rss:sr.se/article/9343993",
-      "published_at": "2026-11-16T19:49:00+01:00",
-      "fetched_at": "2026-11-16T20:01:25+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisens varning inför ”Black Week”: Smörgåsbord för bedragare",
-        "summary": "Polisen varnar för ökad risk för bedrägerier under Black Week, med till exempel falska webbshoppar och bluff-sms som kan lura konsumenter på pengar. Enligt Lotta Mauritzson på polisens nationella operativa avdelning används AI för att skapa falska hemsidor som stjäl kortuppgifter.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Police warning ahead of \"Black Week\": Smorgasbord for fraudsters",
-        "summary": "The police warn of an increased risk of fraud during Black Week, with for example fake web shops and scam text messages that can trick consumers out of money. According to Lotta Mauritzson of the police's National Operative Department, AI is being used to create fake websites that steal card details."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T20:01:33+01:00"
-      }
-    },
-    {
-      "id": "4a23c986622a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/nedgangen-tilltar-pa-wall-street-ycRtM",
-      "guid": "d5e7f474-91f2-4a59-b234-8f1b767d7e03",
-      "published_at": "2026-11-16T19:48:20+01:00",
-      "fetched_at": "2026-11-16T20:01:27+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nedgången tilltar på Wall Street",
-        "summary": "USA-börserna sjunker allt längre ned under nollan på måndagskvällen. I täten för nedgången går tekniksektorn där chipjätten Nvidia faller tungt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Wall Street slides further",
-        "summary": "US stock exchanges are falling further below zero on Monday evening. The technology sector leads the decline, with chip giant Nvidia falling sharply."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T20:01:33+01:00"
-      }
-    },
-    {
-      "id": "c37f555acb56",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/potter-vi-vill-vinna",
-      "guid": "ca891f9d-4b66-492b-bb3c-951d02599abe",
-      "published_at": "2026-11-16T19:44:21+01:00",
-      "fetched_at": "2026-11-16T19:45:45+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/639f1865-f9c1-48e6-ad6b-7eb51e24603f.jpg?width=600",
-      "sv": {
-        "title": "Potter: ”Vi vill vinna”",
-        "summary": "Gruppsegern är redan säkrad för fotbollsherrarna. Men förbundskapten Graham Potter vill inte slå av på takten. – Vi spelar för Sverige och vill vinna. Det är viktigt att ha den mentaliteten, säger Potter på en presskonferens i Wroclaw inför tisdagens bortamöte med Polen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Potter: \"We want to win\"",
-        "summary": "The group win is already secured for the men's football team. But head coach Graham Potter does not want to ease off. – We are playing for Sweden and want to win. It is important to have that mentality, Potter says at a press conference in Wroclaw ahead of Tuesday's away match against Poland."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T19:45:48+01:00"
-      }
-    },
-    {
-      "id": "2177153681cf",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9343997",
-      "guid": "rss:sr.se/article/9343997",
-      "published_at": "2026-11-16T19:43:00+01:00",
-      "fetched_at": "2026-11-16T19:45:40+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Kolmården kommer avliva delfiner som lider av hudbakterie",
-        "summary": "Kolmården kommer inte längre behandla delfiner som lider av den hudbakterie som finns på delfinariet, istället kommer man avliva delfiner som mår dåligt av bakterien, säger chefsveterinären Bim Boijsen till Norrköpings tidningar.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Kolmården to euthanise dolphins suffering from skin bacteria",
-        "summary": "Kolmården will no longer treat dolphins suffering from the skin bacteria found at the dolphinarium; instead, dolphins that are unwell due to the bacteria will be put down, chief veterinarian Bim Boijsen tells Norrköpings tidningar."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T19:45:48+01:00"
-      }
-    },
-    {
-      "id": "cf38df757883",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/le-pens-vallofte-stoppa-stodet-till-ukraina",
-      "guid": "b3720ef1-8810-4c94-851b-900b221efa1d",
-      "published_at": "2026-11-16T19:39:43+01:00",
-      "fetched_at": "2026-11-16T20:01:27+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/e81f5305-a66a-44a6-9292-d295cff12d89.jpg?width=600",
-      "sv": {
-        "title": "Le Pens vallöfte: Stoppa stödet till Ukraina",
-        "summary": "Franska ytterhögerns presidentkandidat Marine Le Pen lovar att sluta ge ekonomiskt stöd till Ukraina om hon vinner valet nästa år.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Le Pen election pledge: Stop support for Ukraine",
-        "summary": "French far-right presidential candidate Marine Le Pen promises to stop providing financial support to Ukraine if she wins the election next year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T20:01:33+01:00"
-      }
-    },
-    {
-      "id": "bd63ccf2e166",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/uniper-vill-konvertera-kraftverkssajter-till-datacenter",
-      "guid": "49ee5a29-4a11-4e24-beaf-f2b0a199720a",
-      "published_at": "2026-11-16T19:31:21+01:00",
-      "fetched_at": "2026-11-16T19:45:43+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/e0ac3fba-0eac-4fe4-9e84-766e9b006651.jpeg?width=600",
-      "sv": {
-        "title": "Uniper vill konvertera kraftverkssajter till datacenter",
-        "summary": "Uniper vill sälja eller hyra ut mark vid nedlagda kraftverk till datacenterbolag och sedan sälja el till anläggningarna. Det uppgav bolaget vid en kapitalmarknadsdag på måndagen. Åtminstone tre av de potentiella projekten är belägna i Sverige, rapporterar Di:s nyhetstjänst Energimarknaden.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Uniper wants to convert power plant sites into data centres",
-        "summary": "Uniper wants to sell or lease land at decommissioned power plants to data centre companies and then sell electricity to the facilities. The company said at a capital markets day on Monday. At least three of the potential projects are located in Sweden, reports Di's news service Energimarknaden."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T19:45:48+01:00"
-      }
-    },
-    {
-      "id": "905887e80879",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/7iSO6Lh49PQotQw3sLDynO/nya-beskedet-infoer-atalet-i-sigtunafallet-hoeg-beredskap",
-      "guid": "7iSO6Lh49PQotQw3sLDynO",
-      "published_at": "2026-11-16T19:23:20+01:00",
-      "fetched_at": "2026-11-16T19:31:14+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Nya beskedet inför åtalet i Sigtunafallet: ”Hög beredskap”",
-        "summary": "Torsdagen den 19 november väntas åklagaren Lisa dos Santos väcka åtal i Sigtunafallet. Det meddelade hon till Expressen under förra veckan. Inför det väntade åtalet har skolchefen Sofia Kinberg och skolledningen skickat ut ett nytt meddelande till elevernas vårdnadshavare, något som TV4 Nyheterna…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "New message ahead of charges in the Sigtuna case: \"High alert\"",
-        "summary": "Thursday 19 November is expected to see prosecutor Lisa dos Santos bring charges in the Sigtuna case. She told Expressen this during last week. Ahead of the expected charges, school principal Sofia Kinberg and the school management have sent a new message to pupils' guardians, something TV4 Nyheterna…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T19:31:20+01:00"
       }
     }
   ]
