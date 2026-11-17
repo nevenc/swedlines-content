@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T14:31:12+01:00",
+  "generated_at": "2026-11-17T14:45:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b1c3d86cddd1",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/klimat/a/wdEW74/digitala-pass-pa-klader-ska-ge-battre-koll",
+      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/wdEW74/digitala-pass-pa-klader-ska-ge-battre-koll?utm_medium=rss",
+      "published_at": "2026-11-17T14:43:37+01:00",
+      "fetched_at": "2026-11-17T14:45:42+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/4f0da72a-24f9-3de8-baa3-6cfe81ae1701?format=auto&s=da29062db3a559bc8df899629e251f25ab6ddab7&w=1000",
+      "sv": {
+        "title": "Digitala pass ska ge bättre koll på kläder",
+        "summary": "Underlätta hållbara val - koll på ursprung",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Digital passes to give better oversight of clothing",
+        "summary": "Making sustainable choices easier - tracking origin"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T14:45:49+01:00"
+      }
+    },
     {
       "id": "82a90caa8709",
       "schema_version": 1,
@@ -80,6 +107,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T13:01:18+01:00"
+      }
+    },
+    {
+      "id": "afa9403d9a39",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/mMR8dE/praster-far-fortsatta-neka-samkonade-vigslar",
+      "guid": "https://www.aftonbladet.se/nyheter/a/mMR8dE/praster-far-fortsatta-neka-samkonade-vigslar?utm_medium=rss",
+      "published_at": "2026-11-17T12:40:41+01:00",
+      "fetched_at": "2026-11-17T14:45:42+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/a3fb41ad-0f56-3fb3-90fc-e96bfc810649?format=auto&s=92ed3930b34c642e434e4cf388639de6768d594b&w=1000",
+      "sv": {
+        "title": "Präster får fortsätta neka samkönade vigslar",
+        "summary": "Stor präst-debatt i Svenska kyrkan",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Priests may continue to refuse same-sex weddings",
+        "summary": "Major priest debate in the Church of Sweden"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T14:45:49+01:00"
       }
     },
     {
@@ -5321,60 +5375,6 @@
       "en": {
         "title": "Major flight chaos overnight – now the cause is pointed out",
         "summary": "Total stoppage for four hours ✓ Source: Så startade det"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:06+01:00"
-      }
-    },
-    {
-      "id": "01a752709d93",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/0vnKPo/nationella-provet-har-lackt-pa-tiktok",
-      "guid": "https://www.aftonbladet.se/nyheter/a/0vnKPo/nationella-provet-har-lackt-pa-tiktok?utm_medium=rss",
-      "published_at": "2026-11-14T00:40:25+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/584190f5-bfaa-30e2-bbc7-c5313ac0c284?format=auto&s=e089e7e5ce941229a025944ea2d4785d97455c60&w=1000",
-      "sv": {
-        "title": "Nationella provet läckte på Tiktok – ”Räddat hela min klass”",
-        "summary": "”Har räddat hela min klass”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "National test leaked on TikTok – “Saved my whole class”",
-        "summary": "“Has saved my whole class”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:06+01:00"
-      }
-    },
-    {
-      "id": "3084e0907598",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/QroyyA/stopp-at-bagge-hall-pa-e4",
-      "guid": "https://www.aftonbladet.se/nyheter/a/QroyyA/stopp-at-bagge-hall-pa-e4?utm_medium=rss",
-      "published_at": "2026-11-14T00:25:49+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "weather",
-      "image_url": "https://akamai.vgc.no/v2/images/f301f215-d9c6-35fd-a3b5-886fb4b762c4?format=auto&s=8a8f1c9d7877942eabe73f8b26cb643e5cc3701b&w=1000",
-      "sv": {
-        "title": "Efter snösmockan: ”Har varit trafikkaos”",
-        "summary": "Besvärligt väglag råder på E4 mellan Umeå och Skellefteå med återkommande bärgningsarbeten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the snow chaos: “Has been traffic chaos”",
-        "summary": "Difficult road conditions on the E4 between Umeå and Skellefteå, with recurring recovery operations."
       },
       "translation": {
         "status": "done",
