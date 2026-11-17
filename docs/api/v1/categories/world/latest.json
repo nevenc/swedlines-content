@@ -1,7 +1,89 @@
 {
-  "generated_at": "2026-11-17T07:45:49+01:00",
+  "generated_at": "2026-11-17T08:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "56622c8256d7",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4v0VXRF9qgbiP6oE4z2hGV/kaellor-iran-planerar-attack-i-usa",
+      "guid": "4v0VXRF9qgbiP6oE4z2hGV",
+      "published_at": "2026-11-17T07:58:47+01:00",
+      "fetched_at": "2026-11-17T08:01:19+01:00",
+      "category": "world",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Källor: Iran planerar attack i USA",
+        "summary": "Iran uppges ha tagit fram planer för angrepp mot högt uppsatta tjänstemän i Trump-administrationen i Washington DC. Det rapporterar CNN med hänvisning till sju olika källor.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Sources: Iran plans attack in USA",
+        "summary": "Iran is reported to have drawn up plans for attacks against senior officials in the Trump administration in Washington DC. CNN reports this, citing seven different sources."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T08:01:26+01:00"
+      }
+    },
+    {
+      "id": "2a5ea3194084",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/2vGvvv/landerna-varnar-ryssland-risk-for-karnkraftsolycka",
+      "guid": "https://www.aftonbladet.se/nyheter/a/2vGvvv/landerna-varnar-ryssland-risk-for-karnkraftsolycka?utm_medium=rss",
+      "published_at": "2026-11-17T07:56:21+01:00",
+      "fetched_at": "2026-11-17T08:01:18+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/60f48346-f574-3655-94dc-3aac21092903?format=auto&s=3af998e8c13522cebab3395688bca049518aebee&w=1000",
+      "sv": {
+        "title": "Länderna varnar Moskva: Risk för ”total blackout”",
+        "summary": "”Största på 40 år”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Countries warn Moscow: Risk of \"total blackout\"",
+        "summary": "\"Largest in 40 years\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T08:01:26+01:00"
+      }
+    },
+    {
+      "id": "6ecef2b4f45e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=506659c5-d64a-40fd-bab1-8954d07f469a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=506659c5-d64a-40fd-bab1-8954d07f469a",
+      "published_at": "2026-11-17T07:53:31+01:00",
+      "fetched_at": "2026-11-17T08:01:19+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Tre döda i Grand Canyon",
+        "summary": "Ett flygplan försvann i söndags – har nu hittats",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Three dead in Grand Canyon",
+        "summary": "An aircraft that disappeared on Sunday has now been found"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T08:01:26+01:00"
+      }
+    },
     {
       "id": "9afc0c7dfc98",
       "schema_version": 1,
@@ -5295,86 +5377,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "562da8db5d6e",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/over-100-000-vantas-till-protester-i-tjeckien",
-      "guid": "https://www.dn.se/varlden/over-100-000-vantas-till-protester-i-tjeckien/",
-      "published_at": "2026-11-15T07:46:32+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/6fba167c-37ed-4579-9acb-e9d311d0f386.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Över 100 000 väntas till protester i Tjeckien",
-        "summary": "Över 100 000 demonstranter väntas på söndag delta i protester i Tjeckien, till stöd för ett oberoende public service. Bakom demokratirörelsen finns ett större motstånd mot premiärminister Andrej Babis.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Over 100,000 expected at protests in Czechia",
-        "summary": "Over 100,000 demonstrators are expected to take part in protests in Czechia on Sunday, in support of independent public service media. Behind the democracy movement is wider opposition to Prime Minister Andrej Babis."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "99633eafd2ea",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/bidens-arliga-ord-om-varldsledarna",
-      "guid": "https://www.expressen.se/nyheter/varlden/bidens-arliga-ord-om-varldsledarna/",
-      "published_at": "2026-11-15T07:26:15+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Bidens ärliga ord om världsledarna",
-        "summary": "Hur är Putin i möten, ville Trump spela golf med Biden och hur tacksam var egentligen Zelenskyj? I sin nya bok berättar ex-president Joe Biden om sina möten med världsledarna. Och Ukrainas president får sig en känga.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Biden's candid words about world leaders",
-        "summary": "What is Putin like in meetings, did Trump want to play golf with Biden, and how grateful was Zelenskyy really? In his new book, former president Joe Biden recounts his meetings with world leaders. And Ukraine's president gets a dressing-down."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "347438cd784c",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/vastvarldens-uppgift-ar-att-satta-busen-putin-pa-plats",
-      "guid": "https://www.dn.se/varlden/vastvarldens-uppgift-ar-att-satta-busen-putin-pa-plats/",
-      "published_at": "2026-11-15T07:06:02+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/1f02d480-3bb2-49cb-8213-f6734304fdfb.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "”Västvärldens uppgift är att sätta busen Putin på plats”",
-        "summary": "RIGA. Han är mannen som vet hur Putin fungerar – de jobbade ihop i flera år. Michail Kasianov minns en tid då Putin var tvungen att be mer erfarna ministrar om råd. – Efter att jag lämnade regeringen sade Putin: Om du går med i oppositionen kommer jag att krossa dig.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "“The West's task is to put the troublemaker Putin in his place”",
-        "summary": "RIGA. He is the man who knows how Putin works, as they worked together for several years. Mikhail Kasyanov recalls a time when Putin had to ask more experienced ministers for advice. – After I left the government, Putin said: If you join the opposition, I will crush you."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:08+01:00"
       }
     }
   ]

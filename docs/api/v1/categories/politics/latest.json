@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T07:45:49+01:00",
+  "generated_at": "2026-11-17T08:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "61bf0b6c25c0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/har-ar-c-och-v-faktiskt-overens",
+      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/har-ar-c-och-v-faktiskt-overens/",
+      "published_at": "2026-11-17T07:53:27+01:00",
+      "fetched_at": "2026-11-17T08:01:19+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Här är C och V faktiskt överens",
+        "summary": "C och V är oense om mycket, men de är faktiskt helt överens om en sak: Vänsterpartister i regeringen leder till mer vänsterpartistisk politik. En självklarhet? Uppenbarligen inte.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here's what C and V actually agree on",
+        "summary": "C and V disagree on a lot, but they actually completely agree on one thing: Left Party members in government lead to more Left Party politics. An obvious point? Apparently not."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T08:01:26+01:00"
+      }
+    },
     {
       "id": "fe9593e32f8e",
       "schema_version": 1,
@@ -5375,32 +5401,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:42+01:00"
-      }
-    },
-    {
-      "id": "1e418da16906",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340574",
-      "guid": "rss:sr.se/article/9340574",
-      "published_at": "2026-11-14T06:10:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "LO:s medlemmar om regeringsbildningen: ”Vuxendagis”",
-        "summary": "LO:s ordförande Johan Lindholm reagerar med frustration på den utdragna regeringsprocessen. ”Jag har lagt mycket tid ute på landets arbetsplatser innan valdagen och hört frustration över att det handlat mer om vem som tar vem.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "LO members on the government formation: \"Grown-up daycare\"",
-        "summary": "LO chair Johan Lindholm reacts with frustration to the protracted government process. \"I have spent a lot of time at workplaces across the country before election day and heard frustration that it was more about who takes whom."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:52+01:00"
       }
     }
   ]
