@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T20:16:02+01:00",
+  "generated_at": "2026-11-17T20:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "907184aa2b14",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/kult-och-kontroverser-sa-har-gta-gasat-genom-spelvarlden",
+      "guid": "https://www.dn.se/kultur/kult-och-kontroverser-sa-har-gta-gasat-genom-spelvarlden/",
+      "published_at": "2026-11-17T20:16:40+01:00",
+      "fetched_at": "2026-11-17T20:31:02+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/ea6a16cb-c21f-4e5f-a463-1505abff474a.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Kult och kontroverser – så har ”GTA” gasat genom spelvärlden",
+        "summary": "Efter år av väntan, förseningar och onlineskämt släpps nu ”Grand theft auto VI”. En förklaring till de skyhöga förväntningarna är det avtryck som spelserien gjort sedan starten 1997. Den har sålts i miljontals exemplar, hyllats för sin innovation, och avfärdats som våldsam och sexistisk.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Cult and controversy – how “GTA” has gassed its way through the gaming world",
+        "summary": "After years of waiting, delays and online jokes, “Grand Theft Auto VI” is now being released. One explanation for the sky-high expectations is the mark the game series has left since its start in 1997. It has sold millions of copies, been praised for its innovation, and dismissed as violent and sexist."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T20:31:09+01:00"
+      }
+    },
     {
       "id": "282b71a3f9d1",
       "schema_version": 1,
@@ -5633,33 +5660,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:32+01:00"
-      }
-    },
-    {
-      "id": "03f31e702248",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/xJP8bn/timbros-vd-pm-nilssons-kritik-mot-dn-s-skribent-svin",
-      "guid": "https://www.aftonbladet.se/nyheter/a/xJP8bn/timbros-vd-pm-nilssons-kritik-mot-dn-s-skribent-svin?utm_medium=rss",
-      "published_at": "2026-11-14T07:50:23+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/8c34dd49-9543-32ec-9fed-635cc161b9f0?format=auto&s=7f00ebce21f0919fb0042d56ac61d92a66cae0da&w=1000",
-      "sv": {
-        "title": "PM Nilsson rasar mot DN: ”Svin”",
-        "summary": "Nilssons svar efter kajalkrönikan i DN",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "PM Nilsson lashes out at DN: \"Swine\"",
-        "summary": "Nilsson's response to the eyeliner column in DN"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:42+01:00"
       }
     }
   ]
