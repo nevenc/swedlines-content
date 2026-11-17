@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T17:01:25+01:00",
+  "generated_at": "2026-11-17T17:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2bd0dbc39e7b",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/historien-om-svensk-hiphop-berattas-av-broderna-som-var-med-fran-borjan",
+      "guid": "https://www.dn.se/kultur/historien-om-svensk-hiphop-berattas-av-broderna-som-var-med-fran-borjan/",
+      "published_at": "2026-11-17T17:10:37+01:00",
+      "fetched_at": "2026-11-17T17:15:45+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/ab2d5668-6f39-49d7-ba0f-1a90d77bf3e8.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Historien om svensk hiphop berättas av bröderna som var med från början",
+        "summary": "Två av hiphopens svenska förgrundsfigurer berättar sin historia i ”Mejor futuro”. Bröderna Salazar från Botkyrka, och med Amat Levin som författare. En lika rapp som grundlig bladvändare, skriver Gabriel Zetterström.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The story of Swedish hip hop told by the brothers who were there from the start",
+        "summary": "Two of Swedish hip hop's leading figures tell their story in \"Mejor futuro\". The Salazar brothers from Botkyrka, with Amat Levin as author. As rap as it is thorough a page-turner, writes Gabriel Zetterström."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:15:53+01:00"
+      }
+    },
     {
       "id": "e770ae4b6b3e",
       "schema_version": 1,
@@ -5361,33 +5388,6 @@
       "en": {
         "title": "Company tore off working roof at Carin and her demented husband's home: \"Talked us into it\"",
         "summary": "Carin Selin and her husband, who has dementia, felt pressured into replacing their functioning villa roof for over half a million kronor. When DN looks more closely at the company, a business method emerges in which many customers feel they have been deceived."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:52+01:00"
-      }
-    },
-    {
-      "id": "e7a6d4a9d272",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insidan/hur-ska-jag-veta-vad-jag-verkligen-vill-satsa-pa",
-      "guid": "https://www.dn.se/insidan/hur-ska-jag-veta-vad-jag-verkligen-vill-satsa-pa/",
-      "published_at": "2026-11-14T06:19:38+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/882450d9-cf67-4c54-b8bd-fa7140395b46.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "”Hur ska jag veta vad jag verkligen vill satsa på?”",
-        "summary": "En flytt har väckt frågan till liv: vilken typ av jobb passar honom bäst? Hittills har inget han gjort känts hundra procent rätt – vare sig professionellt eller privat. Psykoterapeuten Daniel Rosenlind ger råd.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"How am I supposed to know what I really want to invest in?\"",
-        "summary": "A move has brought the question to life: what kind of job suits him best? So far, nothing he has done has felt one hundred percent right – either professionally or privately. Psychotherapist Daniel Rosenlind gives advice."
       },
       "translation": {
         "status": "done",

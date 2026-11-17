@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T17:01:25+01:00",
+  "generated_at": "2026-11-17T17:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "14533df436f2",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/JnovgR/fyra-gripna-for-terrorplan-i-grekland",
+      "guid": "https://www.aftonbladet.se/nyheter/a/JnovgR/fyra-gripna-for-terrorplan-i-grekland?utm_medium=rss",
+      "published_at": "2026-11-17T17:11:37+01:00",
+      "fetched_at": "2026-11-17T17:15:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Fyra gripna för terrorplan i Grekland",
+        "summary": "Fyra personer har frihetsberövats i Nordmakedonien, misstänkta för att ha planerat en mordkomplott i…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Four arrested over terror plot in Greece",
+        "summary": "Four people have been detained in North Macedonia, suspected of having planned a murder plot in…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:15:53+01:00"
+      }
+    },
     {
       "id": "62abf686f2b7",
       "schema_version": 1,
@@ -5348,33 +5374,6 @@
       "en": {
         "title": "Maria, 44, got a job – then her son lost support: \"Always hits back\"",
         "summary": "Growth has soared in Sweden. But now the hangover arrives with interest rate hikes and inflation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:42+01:00"
-      }
-    },
-    {
-      "id": "c63ccf0a970b",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/0vnGk0/uppgifter-ryssland-kraver-finlands-uttag-ur-nato",
-      "guid": "https://www.aftonbladet.se/nyheter/a/0vnGk0/uppgifter-ryssland-kraver-finlands-uttag-ur-nato?utm_medium=rss",
-      "published_at": "2026-11-14T08:07:02+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/7ee5c217-7f3c-3246-88fd-c18f71da3a05?format=auto&s=b97c82876219a789eba47a0276cb00b602968865&w=1000",
-      "sv": {
-        "title": "Uppgifter: Ryssland kräver Finlands uttåg ur Nato",
-        "summary": "Natokravet i Abu Dhabi ✓ Förnekar",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: Russia demands Finland's exit from NATO",
-        "summary": "NATO demand in Abu Dhabi ✓ Denies"
       },
       "translation": {
         "status": "done",
