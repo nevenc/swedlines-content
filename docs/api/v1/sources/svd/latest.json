@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-17T19:15:50+01:00",
+  "generated_at": "2026-11-17T19:31:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "154ddb3dac0a",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80014",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80014&utm_medium=rss",
+      "published_at": "2026-11-17T19:30:05+01:00",
+      "fetched_at": "2026-11-17T19:31:12+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Flera döda i olycka med ryskt militärflyg"
+      },
+      "en": {
+        "title": "Several dead in accident involving Russian military aircraft"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:31:23+01:00"
+      }
+    },
+    {
+      "id": "10d05e8a8e4b",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/oMp9ba/misstankt-mordforsok-vid-halsocentral-i-kalix",
+      "guid": "https://www.svd.se/a/oMp9ba/misstankt-mordforsok-vid-halsocentral-i-kalix?utm_medium=rss",
+      "published_at": "2026-11-17T19:17:11+01:00",
+      "fetched_at": "2026-11-17T19:31:12+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/a11792e1-1925-3974-aac7-882dec1c21e1?format=auto&s=3e705a0393cf9d466f8ba16a1e8c66154446746a&w=1000",
+      "sv": {
+        "title": "Misstänkt mordförsök vid hälsocentral i Kalix",
+        "summary": "En man i 50-årsåldern är gripen misstänkt för mordförsök i Kalix. En person anställd på en…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspected attempted murder at health centre in Kalix",
+        "summary": "A man in his 50s has been detained on suspicion of attempted murder in Kalix. A person employed at a..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:31:23+01:00"
+      }
+    },
     {
       "id": "bc3cc8c1f3cd",
       "schema_version": 1,
@@ -5153,56 +5203,6 @@
       "en": {
         "title": "USA loses measles-free status",
         "summary": "The USA is no longer a country where measles has been eradicated. This is confirmed by the World Health Organization…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "b72514d804ec",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79900",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79900&utm_medium=rss",
-      "published_at": "2026-11-14T11:12:14+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Elvira Öberg krossade alla i premiären"
-      },
-      "en": {
-        "title": "Elvira Öberg crushed everyone in the opener"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "d57eed42955e",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/1vk1Re/granslos-teater-om-krigens-eviga-offer",
-      "guid": "https://www.svd.se/a/1vk1Re/granslos-teater-om-krigens-eviga-offer?utm_medium=rss",
-      "published_at": "2026-11-14T11:06:05+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/fa9e07cc-1b03-3a25-b28c-62e35983fa1f?format=auto&s=f015721809b95d7c3315aeb123566cdeab4322c0&w=1000",
-      "sv": {
-        "title": "Gränslös teater om krigens eviga offer",
-        "summary": "Flykt, konflikter och gränsdragningar är eviga europeiska teman som behandlas i scencollaget…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Borderless theatre about the eternal victims of war",
-        "summary": "Flight, conflict and border-drawing are eternal European themes addressed by the stage collective…"
       },
       "translation": {
         "status": "done",

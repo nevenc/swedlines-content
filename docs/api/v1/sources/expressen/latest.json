@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T19:15:50+01:00",
+  "generated_at": "2026-11-17T19:31:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d3e9592e8257",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/udda-videon-pa-kim-jong-un-vid-dotterns-skidtur",
+      "guid": "https://www.expressen.se/nyheter/varlden/udda-videon-pa-kim-jong-un-vid-dotterns-skidtur/",
+      "published_at": "2026-11-17T19:25:21+01:00",
+      "fetched_at": "2026-11-17T19:31:14+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Udda videon på Kim Jong Un vid dotterns skidtur",
+        "summary": "Nordkoreas Kim Jong Un har besökt landets senaste skidanläggning. På bilder syns diktatorns dotter åka nedför backarna – samtidigt som han själv vilar upp sig med en cigarett. Samtidigt rapporteras det att Kim Jong Un väntas dissa Trump.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Odd video of Kim Jong Un during daughter's ski trip",
+        "summary": "North Korea's Kim Jong Un has visited the country's newest ski resort. Photos show the dictator's daughter skiing down the slopes – while he himself relaxes with a cigarette. Meanwhile, it is reported that Kim Jong Un is expected to snub Trump."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:31:23+01:00"
+      }
+    },
     {
       "id": "c096cdde652b",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "0e034bffd020",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=30f7204c-a6c5-4b3c-8515-9903625279ea",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=30f7204c-a6c5-4b3c-8515-9903625279ea",
-      "published_at": "2026-11-14T09:52:56+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "Microsofts problem lösta",
-        "summary": "Drabbade användare i 74 länder",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Microsoft's problems solved",
-        "summary": "Affected users in 74 countries"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:32+01:00"
       }
     }
   ]
