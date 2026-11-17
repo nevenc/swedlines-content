@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-17T06:15:51+01:00",
+  "generated_at": "2026-11-17T06:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fc948d6ee6d3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/lage-att-sakra-vinsten",
+      "guid": "7d436a0c-8091-40bf-b29a-1bca5101a2af",
+      "published_at": "2026-11-17T06:18:14+01:00",
+      "fetched_at": "2026-11-17T06:30:58+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/59dfbe65-1b58-4406-b1fa-08afb87794d1.jpeg?width=600",
+      "sv": {
+        "title": "Läge att säkra vinsten",
+        "summary": "Omsorgsbolagen Ambea och Attendo levererade starka tredje kvartal. Båda bolagen är i god form – men värderingarna är höga. Rådet blir att säkra hem vinsten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Time to lock in the profit",
+        "summary": "Care companies Ambea and Attendo delivered strong third quarters. Both companies are in good shape – but valuations are high. The advice is to secure the profit."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
+    {
+      "id": "4f8482a465ec",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/positiva-femarsdata-for-bioarctics-leqembi",
+      "guid": "a89beb1c-cccd-4493-9722-72317297d1d7",
+      "published_at": "2026-11-17T06:11:03+01:00",
+      "fetched_at": "2026-11-17T06:30:58+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Positiva femårsdata för Bioarctics Leqembi",
+        "summary": "Läkemedelbolaget Bioarctics partner Eisai har presenterat nya femårsdata från Clarity AD-studien och dess förlängningsstudie, som visar en ökad klinisk nytta av kontinuerlig behandling med Leqembi hos patienter med tidig Alzheimers sjukdom.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Positive five-year data for Bioarctic's Leqembi",
+        "summary": "Pharmaceutical company Bioarctic's partner Eisai has presented new five-year data from the Clarity AD study and its extension study, showing increased clinical benefit of continuous treatment with Leqembi in patients with early Alzheimer's disease."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
     {
       "id": "09d26beb4f1c",
       "schema_version": 1,
@@ -5289,60 +5342,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T14:31:04+01:00"
-      }
-    },
-    {
-      "id": "75888e6ecefa",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/iranstodda-rebeller-tar-hardare-kontroll-over-bab-al-mandab",
-      "guid": "0ebf7b3f-32b7-4684-adc5-565229a986b3",
-      "published_at": "2026-11-15T14:03:57+01:00",
-      "fetched_at": "2026-11-15T14:30:57+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/e4e53a08-dd15-4670-9617-25be90ba1eb9.jpeg?width=600",
-      "sv": {
-        "title": "Iranstödda rebeller tar hårdare kontroll över Bab al-Mandab",
-        "summary": "Regeringsstyrkor i Jemen uppger att de drar sig tillbaka från ett område vid Bab al-Mandabsundet. Därmed lämnas den strategiska platsen i huthirebellernas händer, rapporterar Reuters.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Iran-backed rebels tighten control over Bab al-Mandab",
-        "summary": "Government forces in Yemen report that they are withdrawing from an area at the Bab al-Mandab strait. This leaves the strategic site in the hands of the Houthi rebels, Reuters reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T14:31:04+01:00"
-      }
-    },
-    {
-      "id": "1b7d3d30a814",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/energibolag-skalar-upp-sakerhetsarbetet",
-      "guid": "131d51c9-f898-47b2-ac44-b0c9bd0f0599",
-      "published_at": "2026-11-15T13:37:19+01:00",
-      "fetched_at": "2026-11-15T13:45:42+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/ddefc8a2-9c12-4fab-b583-29baf17691a2.jpeg?width=600",
-      "sv": {
-        "title": "Energibolag skalar upp säkerhetsarbetet",
-        "summary": "Europeiska energibolag skalar upp arbetet för att motarbeta sabotage och cyberattacker som utförs med stöd av fientliga stater. Energibolaget Fortum har anställt en tidigare högt uppsatt Natotjänsteman, skriver Financial Times.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Energy companies step up security efforts",
-        "summary": "European energy companies are stepping up efforts to counter sabotage and cyberattacks carried out with the support of hostile states. The energy company Fortum has hired a former senior NATO official, Financial Times reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T13:45:46+01:00"
       }
     }
   ]

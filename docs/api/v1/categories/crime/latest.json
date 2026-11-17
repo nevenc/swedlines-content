@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-17T06:15:51+01:00",
-  "count": 148,
+  "generated_at": "2026-11-17T06:31:06+01:00",
+  "count": 150,
   "items": [
+    {
+      "id": "f6ad8f9694b8",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/ville-traffa-kungen-drog-kniv-mot-hogvakten",
+      "guid": "https://www.expressen.se/nyheter/sverige/ville-traffa-kungen-drog-kniv-mot-hogvakten/",
+      "published_at": "2026-11-17T06:13:50+01:00",
+      "fetched_at": "2026-11-17T06:30:57+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Ville träffa kungen – drog kniv mot högvakten",
+        "summary": "Mannen ville träffa kungen på Stockholms slott. När svaret blev nej drog han fram en kökskniv och krävde att bli skjuten – vilket han slutligen blev. Enligt vittnesmål skrek han ”allahu akbar” och ”alla ska dö”. Nu står mannen åtalad för grovt olaga hot mot sex soldater i högvakten och fyra poliser.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wanted to meet the king – drew a knife on the Royal Guard",
+        "summary": "The man wanted to meet the king at Stockholm Palace. When the answer was no, he drew a kitchen knife and demanded to be shot – which he eventually was. According to witness testimony, he shouted \"allahu akbar\" and \"everyone will die\". The man is now charged with aggravated unlawful threats against six soldiers in the Royal Guard and four police officers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
+    {
+      "id": "867115f931cf",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/gavleborg/polisen-soker-forsvunnen-man-i-hudiksvall",
+      "guid": "https://www.svt.se/nyheter/lokalt/gavleborg/polisen-soker-forsvunnen-man-i-hudiksvall",
+      "published_at": "2026-11-17T06:13:00+01:00",
+      "fetched_at": "2026-11-17T06:30:55+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisen söker försvunnen man i Hudiksvall",
+        "summary": "En äldre, dement man, saknas i Hudiksvall. Han lämnade sin bostad mitt i natten och nu vill polisen ha hjälp med att hitta honom.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police search for missing man in Hudiksvall",
+        "summary": "An elderly man with dementia is missing in Hudiksvall. He left his home in the middle of the night, and now the police want help finding him."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
     {
       "id": "9eebf709b818",
       "schema_version": 1,

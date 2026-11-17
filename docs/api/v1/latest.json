@@ -1,7 +1,195 @@
 {
-  "generated_at": "2026-11-17T06:15:51+01:00",
+  "generated_at": "2026-11-17T06:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "87b6a5b5a892",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/efter-skandalen-nu-slapper-nvidia-delarssiffror",
+      "guid": "https://www.dn.se/ekonomi/efter-skandalen-nu-slapper-nvidia-delarssiffror/",
+      "published_at": "2026-11-17T06:30:17+01:00",
+      "fetched_at": "2026-11-17T06:30:56+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/ffb0d85a-f6fe-43c0-b28f-d5a667c05477.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Efter skandalen – nu släpper Nvidia delårssiffror",
+        "summary": "Efter förra veckans avgång för vd:n Jensen Huang, till följd av otrohetsskandalen, ska nu datachipjätten Nvidia redovisa nya kvartalssiffror.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After the scandal – Nvidia now releases quarterly figures",
+        "summary": "Following last week's departure of CEO Jensen Huang over the infidelity scandal, chip maker Nvidia is now set to report new quarterly figures."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
+    {
+      "id": "0141db7687f4",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/skane/skanes-basta-overnattning-kan-finnas-i-rostanga",
+      "guid": "63f12f2d-0320-43b2-b157-df4fac5039db",
+      "published_at": "2026-11-17T06:30:00+01:00",
+      "fetched_at": "2026-11-17T06:30:59+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/dcc55089-0c51-4bca-a585-cb339e28ae70.jpeg?width=600",
+      "sv": {
+        "title": "Skånes bästa övernattning kan finnas i Röstånga",
+        "summary": "Nackarpsdalen gästgiveri i Röstånga har haft ett intensivt år efter nystarten och har nu blivit nominerad till Skånes bästa övernattning. – Det har varit över förväntan, säger ägaren Mats Lavré.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Skåne's best overnight stay may be in Röstånga",
+        "summary": "Nackarpsdalen gästgiveri in Röstånga has had an intense year since its relaunch and has now been nominated for Skåne's best overnight stay. – It has been beyond expectations, says owner Mats Lavré."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
+    {
+      "id": "b8ca9dc0b0f6",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/900-000-klimatoffer-senaste-30-aren",
+      "guid": "51d9564b-d051-4615-8faf-bf400a73dce4",
+      "published_at": "2026-11-17T06:24:53+01:00",
+      "fetched_at": "2026-11-17T06:30:59+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/c01bc199-5537-4225-b2b2-fae44db8c3e9.jpg?width=600",
+      "sv": {
+        "title": "900 000 klimatoffer senaste 30 åren",
+        "summary": "Värmeböljor, skyfall och jordskred orsakade skador för hundratals miljarder dollar och kostade tiotusentals liv bara under förra året. Spanien, Jamaica och Sri Lanka var bland de värst drabbade, enligt en rapport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "900,000 climate victims in the last 30 years",
+        "summary": "Heatwaves, cloudbursts and landslides caused damage worth hundreds of billions of dollars and killed tens of thousands of people in the last year alone. Spain, Jamaica and Sri Lanka were among the worst hit, according to a report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
+    {
+      "id": "de7a588f5ed6",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/vinterns-elprischock-vantas-bli-varre-an-2022",
+      "guid": "157c511a-4610-4ff4-b9b8-49a888921318",
+      "published_at": "2026-11-17T06:22:42+01:00",
+      "fetched_at": "2026-11-17T06:30:59+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/b0a18ed0-c795-4156-a92a-85b3c2c208ef.jpg?width=600",
+      "sv": {
+        "title": "Vinterns elprischock väntas bli värre än 2022",
+        "summary": "Det blir ovanligt höga elpriser i vinter – högre än krisvintern 2022–2023, enligt en prognos från elhandlaren Bixia. Hushåll och företag i södra Sverige – där tyska och danska elpriser smittar av sig – ser ut att drabbas värst.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Winter electricity price shock expected to be worse than 2022",
+        "summary": "Unusually high electricity prices are expected this winter – higher than during the crisis winter of 2022–2023, according to a forecast from electricity retailer Bixia. Households and businesses in southern Sweden, where German and Danish electricity prices spill over, look set to be hit hardest."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
+    {
+      "id": "fe9593e32f8e",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344033",
+      "guid": "rss:sr.se/article/9344033",
+      "published_at": "2026-11-17T06:19:00+01:00",
+      "fetched_at": "2026-11-17T06:30:55+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Professorn: Behöver inte lägga fram omröstning om Kristersson",
+        "summary": "Under tisdagen ska Ulf Kristersson (M) rapportera till talman Andreas Norlén om sina försök att bilda en regering. Efter helgens besked från Centerpartiet om att man valt att förhandla vidare med Socialdemokraterna skulle en omröstning om Kristersson som statsminister sluta med ett nej.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Professor: No need to put forward a vote on Kristersson",
+        "summary": "On Tuesday, Ulf Kristersson (M) is set to report to Speaker Andreas Norlén on his attempts to form a government. After the Centre Party's weekend announcement that it has chosen to continue negotiating with the Social Democrats, a vote on Kristersson as prime minister would end in a no."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
+    {
+      "id": "fc948d6ee6d3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/lage-att-sakra-vinsten",
+      "guid": "7d436a0c-8091-40bf-b29a-1bca5101a2af",
+      "published_at": "2026-11-17T06:18:14+01:00",
+      "fetched_at": "2026-11-17T06:30:58+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/59dfbe65-1b58-4406-b1fa-08afb87794d1.jpeg?width=600",
+      "sv": {
+        "title": "Läge att säkra vinsten",
+        "summary": "Omsorgsbolagen Ambea och Attendo levererade starka tredje kvartal. Båda bolagen är i god form – men värderingarna är höga. Rådet blir att säkra hem vinsten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Time to lock in the profit",
+        "summary": "Care companies Ambea and Attendo delivered strong third quarters. Both companies are in good shape – but valuations are high. The advice is to secure the profit."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
+    {
+      "id": "e5aef2935169",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ledare/open-ais-senaste-pr-trick-visar-att-foretaget-inte-forstatt-nagonting",
+      "guid": "https://www.dn.se/ledare/open-ais-senaste-pr-trick-visar-att-foretaget-inte-forstatt-nagonting/",
+      "published_at": "2026-11-17T06:18:02+01:00",
+      "fetched_at": "2026-11-17T06:30:56+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/5bff38fa-c6e3-4fc5-b650-6a6facdb49cf.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Ledare: Open AI:s senaste pr-trick visar att företaget inte förstått någonting",
+        "summary": "Open AI föreslår nu att deras datahallar ska byta namn till ”AI compute campuses”. Ett desperat försök till pr-polering.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Editorial: Open AI's latest PR trick shows the company has understood nothing",
+        "summary": "Open AI now proposes that its data halls be renamed \"AI compute campuses\". A desperate attempt at PR polishing."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
     {
       "id": "35c37c7b10c6",
       "schema_version": 1,
@@ -27,6 +215,164 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T06:15:50+01:00"
+      }
+    },
+    {
+      "id": "9f21c82ac07b",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/QroPgR/byggde-skydd-mot-oversvamning-skarpt-lage-direkt",
+      "guid": "https://www.svd.se/a/QroPgR/byggde-skydd-mot-oversvamning-skarpt-lage-direkt?utm_medium=rss",
+      "published_at": "2026-11-17T06:15:13+01:00",
+      "fetched_at": "2026-11-17T06:30:57+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/2186a631-e1a0-39dd-891e-eb79cf2501bf?format=auto&s=42b959a3efc19a9cbfd0919571909cf027317048&w=1000",
+      "sv": {
+        "title": "Byggde skydd mot översvämning – skarpt läge direkt",
+        "summary": "Efter översvämningen 2000 bestämde sig Arvika kommun för att det aldrig skulle få hända igen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Built flood defences – now put to the test immediately",
+        "summary": "After the 2000 flood, Arvika municipality decided that it should never happen again."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
+    {
+      "id": "5a697d47bfdd",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/wdPvrM/byggde-skydd-mot-oversvamning-skarpt-lage-direkt",
+      "guid": "https://www.aftonbladet.se/nyheter/a/wdPvrM/byggde-skydd-mot-oversvamning-skarpt-lage-direkt?utm_medium=rss",
+      "published_at": "2026-11-17T06:15:12+01:00",
+      "fetched_at": "2026-11-17T06:30:57+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/2186a631-e1a0-39dd-891e-eb79cf2501bf?format=auto&s=42b959a3efc19a9cbfd0919571909cf027317048&w=1000",
+      "sv": {
+        "title": "Byggde skydd mot översvämning – skarpt läge direkt",
+        "summary": "Efter översvämningen 2000 bestämde sig Arvika kommun för att det aldrig skulle få hända igen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Built flood defences – now put to the test immediately",
+        "summary": "After the 2000 flood, Arvika municipality decided that it should never happen again."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
+    {
+      "id": "f6ad8f9694b8",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/ville-traffa-kungen-drog-kniv-mot-hogvakten",
+      "guid": "https://www.expressen.se/nyheter/sverige/ville-traffa-kungen-drog-kniv-mot-hogvakten/",
+      "published_at": "2026-11-17T06:13:50+01:00",
+      "fetched_at": "2026-11-17T06:30:57+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Ville träffa kungen – drog kniv mot högvakten",
+        "summary": "Mannen ville träffa kungen på Stockholms slott. När svaret blev nej drog han fram en kökskniv och krävde att bli skjuten – vilket han slutligen blev. Enligt vittnesmål skrek han ”allahu akbar” och ”alla ska dö”. Nu står mannen åtalad för grovt olaga hot mot sex soldater i högvakten och fyra poliser.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wanted to meet the king – drew a knife on the Royal Guard",
+        "summary": "The man wanted to meet the king at Stockholm Palace. When the answer was no, he drew a kitchen knife and demanded to be shot – which he eventually was. According to witness testimony, he shouted \"allahu akbar\" and \"everyone will die\". The man is now charged with aggravated unlawful threats against six soldiers in the Royal Guard and four police officers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
+    {
+      "id": "17a028bd0cfb",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/synen-fran-turiststranden-forbluffar",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/synen-fran-turiststranden-forbluffar",
+      "published_at": "2026-11-17T06:13:00+01:00",
+      "fetched_at": "2026-11-17T06:30:57+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Synen från turiststranden förbluffar",
+        "summary": "Skrämmande upptäckten från ovan i Thailand",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The view from the tourist beach is astonishing",
+        "summary": "Frightening discovery from above in Thailand"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
+    {
+      "id": "867115f931cf",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/gavleborg/polisen-soker-forsvunnen-man-i-hudiksvall",
+      "guid": "https://www.svt.se/nyheter/lokalt/gavleborg/polisen-soker-forsvunnen-man-i-hudiksvall",
+      "published_at": "2026-11-17T06:13:00+01:00",
+      "fetched_at": "2026-11-17T06:30:55+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisen söker försvunnen man i Hudiksvall",
+        "summary": "En äldre, dement man, saknas i Hudiksvall. Han lämnade sin bostad mitt i natten och nu vill polisen ha hjälp med att hitta honom.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police search for missing man in Hudiksvall",
+        "summary": "An elderly man with dementia is missing in Hudiksvall. He left his home in the middle of the night, and now the police want help finding him."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
+    {
+      "id": "4f8482a465ec",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/positiva-femarsdata-for-bioarctics-leqembi",
+      "guid": "a89beb1c-cccd-4493-9722-72317297d1d7",
+      "published_at": "2026-11-17T06:11:03+01:00",
+      "fetched_at": "2026-11-17T06:30:58+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Positiva femårsdata för Bioarctics Leqembi",
+        "summary": "Läkemedelbolaget Bioarctics partner Eisai har presenterat nya femårsdata från Clarity AD-studien och dess förlängningsstudie, som visar en ökad klinisk nytta av kontinuerlig behandling med Leqembi hos patienter med tidig Alzheimers sjukdom.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Positive five-year data for Bioarctic's Leqembi",
+        "summary": "Pharmaceutical company Bioarctic's partner Eisai has presented new five-year data from the Clarity AD study and its extension study, showing increased clinical benefit of continuous treatment with Leqembi in patients with early Alzheimer's disease."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
       }
     },
     {
@@ -5143,351 +5489,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "9adeb1b0bae9",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/proffset-om-vd-jakten-kan-ga-at-helvete",
-      "guid": "c415c981-c76e-4d23-94cd-09a71de59b91",
-      "published_at": "2026-11-16T18:02:19+01:00",
-      "fetched_at": "2026-11-16T18:15:51+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/60e1bc97-5c62-4d22-9132-ce97332245c3.jpeg?width=600",
-      "sv": {
-        "title": "Proffset om vd-jakten: ”Kan gå åt helvete”",
-        "summary": "Hur går det egentligen till när världens tidigare största bolag ska rekrytera en ny vd – mitt i en omsusad skandal? Rekryteraren Fredrik Hillelson berättar om det hemliga spelet bakom kulisserna och Nvidias svåra vägval. ”Då kan det gå käpprätt åt helvete”, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Headhunter on the CEO hunt: \"Could go to hell\"",
-        "summary": "How does it actually work when the world's former largest company is set to recruit a new CEO – in the middle of a much-discussed scandal? Recruiter Fredrik Hillelson describes the secret game behind the scenes and Nvidia's difficult choices. \"Then it could go straight to hell,\" he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "621326cccbf6",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/musk-med-i-oppet-brev-ta-tillbaka-jensen-huang",
-      "guid": "c5aa34b1-f04e-47c1-818b-b265a497044e",
-      "published_at": "2026-11-16T18:01:58+01:00",
-      "fetched_at": "2026-11-16T18:15:51+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b64c9ed1-9a59-461a-b4b4-d979e387f617.jpeg?width=600",
-      "sv": {
-        "title": "Musk med i öppet brev: Ta tillbaka Jensen Huang",
-        "summary": "”Trettiotre år förtjänar ett svar, vi kräver att Nvidia tar Jensen Huang tillbaka”, skrivs i ett öppet brev till chipjättens styrelse med över 170.000 underskrifter – däribland Elon Musk.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Musk joins open letter: Take Jensen Huang back",
-        "summary": "\"Thirty-three years deserves an answer, we demand that Nvidia takes Jensen Huang back,\" says an open letter to the board of the chip giant with over 170,000 signatures – including Elon Musk."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "8f29b7f5079d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/stor-vardeokning-nar-fastighet-i-hofterup-loddekopinge-saljs-igen",
-      "guid": "a752ad2b-d5e5-4bb8-98ae-6cadb7ac5807",
-      "published_at": "2026-11-16T18:01:47+01:00",
-      "fetched_at": "2026-11-16T18:15:52+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Stor värdeökning när fastighet i Hofterup, Löddeköpinge säljs igen"
-      },
-      "en": {
-        "title": "Large value increase as property in Hofterup, Löddeköpinge is sold again"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "5b313965c471",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/ledamot-miljontankar-i-berner-industrier",
-      "guid": "85b6f82c-2534-40eb-a05b-a9270a289f0a",
-      "published_at": "2026-11-16T18:00:54+01:00",
-      "fetched_at": "2026-11-16T18:15:51+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/8a9a09bc-83e6-490d-a051-786c5901e5e2.jpeg?width=600",
-      "sv": {
-        "title": "Ledamot miljontankar i Berner Industrier",
-        "summary": "Investmentbolaget Zubizuri, som kontrolleras av Berner Industriers styrelseledamot Johan Lannebo, har köpt 50.000 aktier i Berner Industrier för cirka 3,5 miljoner kronor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Board member buys shares worth millions in Berner Industrier",
-        "summary": "Investment company Zubizuri, controlled by Berner Industrier board member Johan Lannebo, has bought 50,000 shares in Berner Industrier for about SEK 3.5 million."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "3ba8a6ced7f8",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/dJOvlX/kommer-vansterpartiet-kora-anda-in-i-kaklet",
-      "guid": "https://www.svd.se/a/dJOvlX/kommer-vansterpartiet-kora-anda-in-i-kaklet?utm_medium=rss",
-      "published_at": "2026-11-16T18:00:31+01:00",
-      "fetched_at": "2026-11-16T18:15:49+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/06701a44-d5a3-3aa8-a992-7f95f89f243e?format=auto&s=a0418a3a8bd1a054e253a66e32e7ad2052709805&w=1000",
-      "sv": {
-        "title": "Kommer Vänsterpartiet köra ända in i kaklet?",
-        "summary": "Regeringsbildning på ruta ett. Ska V åter bli dörrmatta, eller hålla ut?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Will the Left Party make it to the finish line?",
-        "summary": "Government formation back at square one. Will V once again become a doormat, or hold out?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "10d9d21c23bd",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/dygnet-runt/efter-100-knivar-nu-ska-malmokocken-oppna-ny-krog-i-city",
-      "guid": "2959a46e-9791-4163-a52b-a99d57ee29e4",
-      "published_at": "2026-11-16T18:00:00+01:00",
-      "fetched_at": "2026-11-16T18:01:16+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/7288e28e-04dd-4b69-a1f4-6e18f09f85be.jpeg?width=600",
-      "sv": {
-        "title": "Efter ”100 knivar”: Nu ska Malmökocken öppna ny krog i city",
-        "summary": "Efter äventyret i ”100 knivar” i TV4 står det nu klart att Malmökocken Cassandra Jakobsson blir kökschef för nya Malmökrogen Mist som öppnar i december. Men hur var det att tävla och vad är en typisk Cassandra-rätt?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After \"100 Knives\": Malmö chef to open new restaurant downtown",
-        "summary": "After her stint on TV4's \"100 knivar\", it is now clear that Malmö chef Cassandra Jakobsson will be head chef at the new Malmö restaurant Mist, opening in December. But what was it like to compete, and what is a typical Cassandra dish?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:01:23+01:00"
-      }
-    },
-    {
-      "id": "22cc675e1b62",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/vi-vet-i-varje-fall-att-vi-kommer-att-fa-en-kass-statsminister",
-      "guid": "21e6a180-1a4c-4176-bc83-f16fbc364942",
-      "published_at": "2026-11-16T18:00:00+01:00",
-      "fetched_at": "2026-11-16T18:01:16+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/f01a171d-ab4a-43e2-9c93-7dd1b331259c.jpeg?width=600",
-      "sv": {
-        "title": "Vi vet i varje fall att vi kommer att få en kass statsminister",
-        "summary": "En kvinna utan principer som inget sa i valrörelsen? Eller en man utan principer som ingen ville se i valrörelsen? Spänningen stiger.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "We at least know we're going to get a lousy prime minister",
-        "summary": "A woman without principles who said nothing during the election campaign? Or a man without principles whom no one wanted to see during the election campaign? The tension is rising."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:01:23+01:00"
-      }
-    },
-    {
-      "id": "cd81038b397e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/tagvardens-sista-resa-med-kokain-for-miljoner",
-      "guid": "8d7df4bd-e282-433e-a984-c84c1ca54346",
-      "published_at": "2026-11-16T18:00:00+01:00",
-      "fetched_at": "2026-11-16T18:01:16+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/f36c94db-fa20-409f-8eed-12fccb8c1d11.jpeg?width=600",
-      "sv": {
-        "title": "Tågvärdens sista resa – med kokain för miljoner",
-        "summary": "Kokain för 27 miljoner kronor stod kvar i bagagevagnen på Öresundståget, och ingen ville kännas vid väskorna. Nu ställs en tågvärd, hans pojkvän och deras väninna inför rätta. Kamerorna avslöjade dem. Men först fick de förklara sig för uppdragsgivaren, med elektroder på bröstet under vapenhot.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "A train attendant's last trip – with cocaine worth millions",
-        "summary": "Cocaine worth SEK 27 million was left in the luggage wagon on the Öresund train, and no one wanted to claim the bags. Now a train attendant, his boyfriend and their friend are going on trial. Cameras exposed them. But first they had to explain themselves to the employer, with electrodes on their chests under gunpoint."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:01:23+01:00"
-      }
-    },
-    {
-      "id": "f124160874c4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/kronikorer/mats-larsson/denna-vecka-blir-en-pr-triumf-for-putin",
-      "guid": "https://www.expressen.se/kronikorer/mats-larsson/denna-vecka-blir-en-pr-triumf-for-putin/",
-      "published_at": "2026-11-16T17:58:52+01:00",
-      "fetched_at": "2026-11-16T18:15:50+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Denna vecka blir en PR-triumf för Putin",
-        "summary": "Detta blir en triumfens vecka för Vladimir Putin. Veckan då han kan visa upp bildbeviset. På att Ryssland åter är en stormakt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This week is a PR triumph for Putin",
-        "summary": "This will be a week of triumph for Vladimir Putin. The week when he can show off the photographic evidence that Russia is once again a great power."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "1bf0f297c86b",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/kooperativa-forbundet-vill-salja-allt-i-morrow-bank",
-      "guid": "d33f9832-1f53-41d5-b819-0f7dfb1145ba",
-      "published_at": "2026-11-16T17:55:47+01:00",
-      "fetched_at": "2026-11-16T18:01:15+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/eb641497-2294-4b2c-83cb-605b98544445.jpeg?width=600",
-      "sv": {
-        "title": "Kooperativa Förbundet vill sälja allt i Morrow Bank",
-        "summary": "Kooperativa Förbundet, KF, vill sälja samtliga sina nästan 33 miljoner aktier i Morrow Bank. Posten motsvarar drygt 10 procent av aktierna i nischbanken.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kooperativa Förbundet wants to sell all of its Morrow Bank shares",
-        "summary": "Kooperativa Förbundet, KF, wants to sell all of its nearly 33 million shares in Morrow Bank. The stake corresponds to just over 10 percent of the shares in the niche bank."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:01:23+01:00"
-      }
-    },
-    {
-      "id": "7090b2736a70",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=783a908f-291b-4071-95d6-115a54f650a9",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=783a908f-291b-4071-95d6-115a54f650a9",
-      "published_at": "2026-11-16T17:54:49+01:00",
-      "fetched_at": "2026-11-16T18:01:14+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Stopp i tågtrafiken mellan Göteborg och Stockholm",
-        "summary": "Signalfel mellan Stockholm och Göteborg",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Train traffic between Göteborg and Stockholm halted",
-        "summary": "Signal fault between Stockholm and Göteborg"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:01:23+01:00"
-      }
-    },
-    {
-      "id": "52db63aba09f",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ledare/isobel-hadley-kamptz-ska-varlden-vara-en-lekplats-for-man-med-svard-eu-maste-valja-sida",
-      "guid": "https://www.dn.se/ledare/isobel-hadley-kamptz-ska-varlden-vara-en-lekplats-for-man-med-svard-eu-maste-valja-sida/",
-      "published_at": "2026-11-16T17:54:32+01:00",
-      "fetched_at": "2026-11-16T18:01:13+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/4a880f45-ee63-41bb-bff4-b74ff9ccf500.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Isobel Hadley-Kamptz: Ska världen vara en lekplats för män med svärd – EU måste välja sida",
-        "summary": "USA:s attacker mot Internationella brottmålsdomstolen – och mot hela den rättsbaserade världsordningen – fortsätter. EU måste sätta emot.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Isobel Hadley-Kamptz: Should the world be a playground for men with swords – the EU must choose a side",
-        "summary": "The US attacks on the International Criminal Court – and on the entire rules-based world order – continue. The EU must push back."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:01:23+01:00"
-      }
-    },
-    {
-      "id": "bbbeb241c8b4",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/damkronornas-forsta-medalj-pa-19-ar-vann-rysare",
-      "guid": "9bca1071-2ada-44d0-99f0-5fcf3a85f61f",
-      "published_at": "2026-11-16T17:54:28+01:00",
-      "fetched_at": "2026-11-16T18:01:16+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/d0d666a8-22ef-4a85-acde-4828c72591eb.jpeg?width=600",
-      "sv": {
-        "title": "Damkronornas första medalj på 19 år – vann rysare",
-        "summary": "Damkronorna tar första mästerskapsmedaljen på 19 år. 0–1 blev 2–1 efter straffar i VM-bronsmatchen mot rivalen Finland. Och därmed skön svensk revansch efter fjärdeplatsen på OS i vintras.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Damkronorna win first medal in 19 years – thriller victory",
-        "summary": "Damkronorna take their first championship medal in 19 years. A 0–1 deficit became 2–1 after penalties in the World Championship bronze medal match against rivals Finland. And thus a sweet Swedish revenge after fourth place at the Olympics last winter."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:01:23+01:00"
       }
     }
   ]

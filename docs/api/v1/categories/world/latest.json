@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T06:15:51+01:00",
+  "generated_at": "2026-11-17T06:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "17a028bd0cfb",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/synen-fran-turiststranden-forbluffar",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/synen-fran-turiststranden-forbluffar",
+      "published_at": "2026-11-17T06:13:00+01:00",
+      "fetched_at": "2026-11-17T06:30:57+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Synen från turiststranden förbluffar",
+        "summary": "Skrämmande upptäckten från ovan i Thailand",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The view from the tourist beach is astonishing",
+        "summary": "Frightening discovery from above in Thailand"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:31:06+01:00"
+      }
+    },
     {
       "id": "ef0790dcd3ed",
       "schema_version": 1,
@@ -5348,32 +5374,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T03:31:50+01:00"
-      }
-    },
-    {
-      "id": "6183b79c14cc",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/0vnQ2J/israel-har-attackerat-hamastopp",
-      "guid": "https://www.svd.se/a/0vnQ2J/israel-har-attackerat-hamastopp?utm_medium=rss",
-      "published_at": "2026-11-15T00:54:04+01:00",
-      "fetched_at": "2026-11-15T01:26:19+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Israel: Har attackerat Hamastopp",
-        "summary": "Israels militär hävdar att man angripit en högt uppsatt medlem i terrorstämplade Hamas, skriver de…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Israel: Has attacked Hamas official",
-        "summary": "Israel's military claims it has attacked a senior member of Hamas, which is designated as a terrorist organisation, writes de…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T01:26:27+01:00"
       }
     }
   ]
