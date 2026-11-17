@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-17T17:45:57+01:00",
+  "generated_at": "2026-11-17T18:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4ea7f696ed0d",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344646",
+      "guid": "rss:sr.se/article/9344646",
+      "published_at": "2026-11-17T17:58:00+01:00",
+      "fetched_at": "2026-11-17T18:01:15+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Gissén om pressen på S: ”Vore en smärre katastrof”",
+        "summary": "S-ledaren Magdalena Andersson välkomnar talmannens besked om ny talmansrunda nästa vecka och säger att hon kommer att fortsätta arbeta intensivt för att Sverige ska få en ny regering.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Gissén on pressure on the Social Democrats: \"Would be a minor catastrophe\"",
+        "summary": "Social Democrat leader Magdalena Andersson welcomes the Speaker's announcement of a new round of talks with party leaders next week and says she will continue working intensively for Sweden to get a new government."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:01:27+01:00"
+      }
+    },
+    {
+      "id": "5eb385b789ff",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/podd/alskade-politik/far-rodgrona-eld-i-baken-av-kristerssons-besked",
+      "guid": "https://www.dn.se/podd/alskade-politik/far-rodgrona-eld-i-baken-av-kristerssons-besked/",
+      "published_at": "2026-11-17T17:47:01+01:00",
+      "fetched_at": "2026-11-17T18:01:16+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/gcs/bilder/podspace/ty2hxvfxy5ng2sgztccw4nzhyjn2g5uk63b4mw6brr3eggrgwtla.png?io=1&width=1000",
+      "sv": {
+        "title": "Får rödgröna eld i baken av Kristerssons besked?",
+        "summary": "Moderatledaren ger inte upp drömmen om regeringsmakten och vill ha mer tid på sig för att locka till sig Centerpartiet. Och talmannen lovar en jul utan politiska förhandlingar om regeringsmakten. Kan dagens besked ge de rödgröna eld i baken?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Do the red-greens feel the heat from Kristersson's announcement?",
+        "summary": "The Moderate leader is not giving up the dream of government power and wants more time to attract the Centre Party. And the Speaker promises a Christmas without political negotiations over government power. Can today's announcement put the red-greens under pressure?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:01:27+01:00"
+      }
+    },
     {
       "id": "d5f4054bffd0",
       "schema_version": 1,
@@ -5343,58 +5396,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T11:26:59+01:00"
-      }
-    },
-    {
-      "id": "73205a2f2328",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/centerpartiet-samlar-distrikten-till-mote-pressas-hart",
-      "guid": "https://www.expressen.se/nyheter/politik/centerpartiet-samlar-distrikten-till-mote-pressas-hart/",
-      "published_at": "2026-11-15T10:22:11+01:00",
-      "fetched_at": "2026-11-15T11:26:39+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Centerpartiet samlas till möte – pressas hårt",
-        "summary": "Centerpartiet närmar sig sitt ödesbeslut. Under dagen håller partiet möte på hög nivå, enligt uppgifter. – Det är press på partiet, säger statsvetaren Jenny Madestam.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Party gathers for meeting – under heavy pressure",
-        "summary": "The Centre Party is approaching its fateful decision. During the day the party holds a high-level meeting, according to reports. – There is pressure on the party, says political scientist Jenny Madestam."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T11:26:59+01:00"
-      }
-    },
-    {
-      "id": "76fd0d6fcea7",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a0ddcdd4-4601-4397-9a20-311f76850c18",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a0ddcdd4-4601-4397-9a20-311f76850c18",
-      "published_at": "2026-11-15T09:53:33+01:00",
-      "fetched_at": "2026-11-15T10:05:48+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "C håller möte med alla",
-        "summary": "Kallar in alla, enligt uppgifter till Aftonbladet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "C holds meeting with everyone",
-        "summary": "Calls in everyone, according to information to Aftonbladet"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T10:06:12+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T17:45:57+01:00",
+  "generated_at": "2026-11-17T18:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3be590e38793",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/nLamxL/antiliberalerna-i-europas-nya-hoger",
+      "guid": "https://www.svd.se/a/nLamxL/antiliberalerna-i-europas-nya-hoger?utm_medium=rss",
+      "published_at": "2026-11-17T17:53:14+01:00",
+      "fetched_at": "2026-11-17T18:01:17+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/55a2979e-0ba1-3f4b-9b03-ae0775c98e9b?format=auto&s=c66022ac77e6bbdfd6bf92a63c03ad5f19aa5a6e&w=1000",
+      "sv": {
+        "title": "Antiliberalerna i Europas nya höger",
+        "summary": "Ser vi en ny järnridå som delar den europeiska ytterhögern?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The anti-liberals in Europe's new right",
+        "summary": "Are we seeing a new Iron Curtain dividing the European far right?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:01:27+01:00"
+      }
+    },
     {
       "id": "188940328edd",
       "schema_version": 1,
@@ -5187,33 +5214,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "30c478cd325b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/z0G5QK/sa-paverkar-arbetstidsforkortning-svenskarnas-matvanor",
-      "guid": "https://www.svd.se/a/z0G5QK/sa-paverkar-arbetstidsforkortning-svenskarnas-matvanor?utm_medium=rss",
-      "published_at": "2026-11-14T10:45:35+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/b5981a47-faed-3946-814b-c05287e377f6?format=auto&s=e398a36916c9b51cebab187eea9dd0f16a08f6d2&w=1000",
-      "sv": {
-        "title": "Kortare arbetstid ger snabbare lunch",
-        "summary": "Fackets krav kan förändra svenskarnas matvanor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Shorter working hours mean faster lunch",
-        "summary": "Union demands could change Swedes' eating habits."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
       }
     }
   ]

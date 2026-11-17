@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-17T17:45:57+01:00",
+  "generated_at": "2026-11-17T18:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b551d7e24318",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/forsvarets-video-timmar-efter-ukrainska-attacken-medvetna",
+      "guid": "https://www.expressen.se/nyheter/sverige/forsvarets-video-timmar-efter-ukrainska-attacken-medvetna/",
+      "published_at": "2026-11-17T17:55:13+01:00",
+      "fetched_at": "2026-11-17T18:01:18+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Försvarets video – timmar efter ukrainska attacken: ”Medvetna”",
+        "summary": "Ukraina slog på torsdagen ut halva Kertjbron som förbinder Krim med Ryssland. Timmar senare publicerade svenska Försvarsmakten ett inlägg på X som handlar om broars betydelse i krig. ”Vi är medvetna om de omfattande ukrainska angreppen”, skriver Henrik Nyström, pressekreterare på Försvarsmakten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Defence Forces video – hours after Ukrainian attack: \"Aware\"",
+        "summary": "Ukraine on Thursday knocked out half of the Kerch Bridge linking Crimea with Russia. Hours later, the Swedish Armed Forces published a post on X about the significance of bridges in war. \"We are aware of the extensive Ukrainian attacks,\" writes Henrik Nyström, press secretary at the Swedish Armed Forces."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:01:27+01:00"
+      }
+    },
+    {
+      "id": "3be590e38793",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/nLamxL/antiliberalerna-i-europas-nya-hoger",
+      "guid": "https://www.svd.se/a/nLamxL/antiliberalerna-i-europas-nya-hoger?utm_medium=rss",
+      "published_at": "2026-11-17T17:53:14+01:00",
+      "fetched_at": "2026-11-17T18:01:17+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/55a2979e-0ba1-3f4b-9b03-ae0775c98e9b?format=auto&s=c66022ac77e6bbdfd6bf92a63c03ad5f19aa5a6e&w=1000",
+      "sv": {
+        "title": "Antiliberalerna i Europas nya höger",
+        "summary": "Ser vi en ny järnridå som delar den europeiska ytterhögern?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The anti-liberals in Europe's new right",
+        "summary": "Are we seeing a new Iron Curtain dividing the European far right?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:01:27+01:00"
+      }
+    },
+    {
+      "id": "1ffdefd7e68c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/markliga-bilderna-fran-paris-mitt-under-protesterna-",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/markliga-bilderna-fran-paris-mitt-under-protesterna-",
+      "published_at": "2026-11-17T17:52:53+01:00",
+      "fetched_at": "2026-11-17T18:01:18+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Underliga draget – mitt framför polisen",
+        "summary": "Bilderna från Paris förvirrar",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Strange move – right in front of the police",
+        "summary": "Images from Paris confuse"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:01:27+01:00"
+      }
+    },
     {
       "id": "42442b0a58d2",
       "schema_version": 1,
@@ -5279,86 +5358,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T17:15:53+01:00"
-      }
-    },
-    {
-      "id": "af31c7ec7d02",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/j3dQRo/iran-tankfartyg-sjonk-i-hormuz",
-      "guid": "https://www.aftonbladet.se/nyheter/a/j3dQRo/iran-tankfartyg-sjonk-i-hormuz?utm_medium=rss",
-      "published_at": "2026-11-15T17:01:15+01:00",
-      "fetched_at": "2026-11-15T17:15:41+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/a5fff4d7-affb-3884-865f-457b0dc642d8?format=auto&s=083a911e09ee8189ac81194c30d728eef85a540e&w=1000",
-      "sv": {
-        "title": "Iran: Tankfartyg sjönk i Hormuz",
-        "summary": "Ett oljetankfartyg med över två miljoner fat olja har sjunkit i Hormuzsundet efter att ha gått…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Iran: Oil tanker sinks in Hormuz",
-        "summary": "An oil tanker carrying over two million barrels of oil has sunk in the Strait of Hormuz after having…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T17:15:53+01:00"
-      }
-    },
-    {
-      "id": "5171b1d740e8",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/omkring-2-200-migranter-till-spanien-pa-tva-dagar",
-      "guid": "https://www.svt.se/nyheter/utrikes/omkring-2-200-migranter-till-spanien-pa-tva-dagar",
-      "published_at": "2026-11-15T16:54:33+01:00",
-      "fetched_at": "2026-11-15T17:01:06+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Omkring 2 200 migranter till Spanien på två dagar",
-        "summary": "Närmare 2 200 migranter har anlänt till Kanarieöarna de senaste två dagarna, enligt Spaniens maritima räddningstjänst.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Around 2,200 migrants to Spain in two days",
-        "summary": "Nearly 2,200 migrants have arrived in the Canary Islands over the past two days, according to Spain's maritime rescue service."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T17:01:25+01:00"
-      }
-    },
-    {
-      "id": "31f455455fc2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/z0GAa5/omkring-2200-migranter-till-spanien-pa-tva-dagar",
-      "guid": "https://www.aftonbladet.se/nyheter/a/z0GAa5/omkring-2200-migranter-till-spanien-pa-tva-dagar?utm_medium=rss",
-      "published_at": "2026-11-15T16:51:40+01:00",
-      "fetched_at": "2026-11-15T17:01:08+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/6088ea67-5163-3205-b8dd-dbfafabe9b0f?format=auto&s=392d72c4e89dd2a05df77e83f6492f181e1bd780&w=1000",
-      "sv": {
-        "title": "Omkring 2 200 migranter till Spanien på två dagar",
-        "summary": "Närmare 2 200 migranter har anlänt till Kanarieöarna de senaste två dagarna, enligt Spaniens…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Around 2,200 migrants to Spain in two days",
-        "summary": "Nearly 2,200 migrants have arrived in the Canary Islands over the past two days, according to Spain's…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T17:01:25+01:00"
       }
     }
   ]

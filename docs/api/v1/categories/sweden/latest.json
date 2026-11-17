@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-17T17:45:57+01:00",
+  "generated_at": "2026-11-17T18:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6c695d6b2bdc",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/malmorestaurang-fargade-kott-med-forbjudet-amne",
+      "guid": "bbcbdb6d-1b9f-45d4-9a9d-4f017c7ea309",
+      "published_at": "2026-11-17T18:00:00+01:00",
+      "fetched_at": "2026-11-17T18:01:20+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/a7098b86-22a1-44b1-b3ee-2257532fdcdf.jpeg?width=600",
+      "sv": {
+        "title": "Malmörestaurang färgade kött med förbjudet ämne",
+        "summary": "En restaurang på Möllan använde livsmedelsfärg för att färga rå kycklingfilé. Men färgen innehöll två otillåtna ämnen. – Jag visste inte att det var förbjudet. Vi har slutat med det nu, säger ägaren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Malmö restaurant coloured meat with banned substance",
+        "summary": "A restaurant in Möllan used food colouring to colour raw chicken fillet. But the colouring contained two prohibited substances. – I didn't know it was banned. We have stopped now, says the owner."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:01:27+01:00"
+      }
+    },
+    {
+      "id": "c4ccd2f54fc8",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/debatt/ivo-offrar-vara-sjuka-barn-pa-principens-altare",
+      "guid": "https://www.dn.se/debatt/ivo-offrar-vara-sjuka-barn-pa-principens-altare/",
+      "published_at": "2026-11-17T17:56:13+01:00",
+      "fetched_at": "2026-11-17T18:01:16+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/b5ba0f9e-fcda-43ba-b0a0-e5c695c76fd0.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "DN Debatt. ”Ivo offrar våra sjuka barn på principens altare”",
+        "summary": "DN DEBATT. Boendet Safiren har varit livsavgörande för våra barn. Tills nu. Ivo vill stänga det av principiella skäl. Men budskapet har gått fram, regionen lär ju göra rätt i framtiden.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "DN Debate. \"Ivo sacrifices our sick children on the altar of principle\"",
+        "summary": "DN DEBATE. The Safiren housing has been vital for our children. Until now. Ivo wants to shut it down for principled reasons. But the message has got through, the region will presumably do the right thing in future."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:01:27+01:00"
+      }
+    },
     {
       "id": "7cf4e6826ba4",
       "schema_version": 1,
@@ -5373,58 +5427,6 @@
       "en": {
         "title": "Young men are the worst at donating blood – Omar, 25: 'Never thought about it'",
         "summary": "The share of Swedes who give blood is falling. Among the groups that donate blood, young men stand out – by their absence. – It is not just us here in Västmanland, the whole of Sweden is crying out for young guys, says Gitte Johansson, process manager for blood donor care in Region Västmanland."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "abd48ac51a84",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/villabrand-i-lulea-huset-gar-inte-att-radda",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/villabrand-i-lulea-huset-gar-inte-att-radda",
-      "published_at": "2026-11-12T15:10:32+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Villabrand i Luleå: ”Huset går inte att rädda”",
-        "summary": "Villan som började brinna på Hällbacken i Luleå under torsdagen är nedbrunnen. – Huset går inte att rädda, konstaterade larmoperatören vid SOS ganska snart efter att larmet inkommit.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "House fire in Luleå: 'The house cannot be saved'",
-        "summary": "The house that caught fire at Hällbacken in Luleå on Thursday has burned down. – The house cannot be saved, the SOS alarm operator concluded fairly soon after the alert came in."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "44b8f43b9e5c",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/granskning/ug/radet-gor-frun-gravid-sa-hon-inte-kan-umgas-med-svenskar-och-judar",
-      "guid": "https://www.svt.se/nyheter/granskning/ug/radet-gor-frun-gravid-sa-hon-inte-kan-umgas-med-svenskar-och-judar",
-      "published_at": "2026-11-12T13:03:04+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Rådet: Gör frun gravid så hon inte kan umgås med svenskar och judar",
-        "summary": "Du ska hålla barnen eller frun borta från svenskar i allmänhet och judar i synnerhet, var beskedet i två moskéer Uppdrag gransknings reportrar besökte med dold kamera.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "The advice: Get your wife pregnant so she cannot socialise with Swedes and Jews",
-        "summary": "You should keep your children or your wife away from Swedes in general and Jews in particular, was the message at two mosques that Uppdrag granskning's reporters visited with a hidden camera."
       },
       "translation": {
         "status": "done",
