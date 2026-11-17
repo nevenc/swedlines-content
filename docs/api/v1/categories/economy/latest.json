@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T14:01:28+01:00",
+  "generated_at": "2026-11-17T14:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cd789cb56b25",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/fed-chef-flera-hojningar-innan-varen-kan-behovas",
+      "guid": "57488568-5ed5-4886-b651-088b84d78552",
+      "published_at": "2026-11-17T13:58:44+01:00",
+      "fetched_at": "2026-11-17T14:15:50+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a2605c6c-ca02-4e64-9cf7-44a5ff9bcb4b.jpeg?width=600",
+      "sv": {
+        "title": "Fed-chef: Flera höjningar innan våren kan behövas",
+        "summary": "Federal Reserve kan behöva höja räntan flera gånger före våren 2027 för att få inflationen under kontroll. Det sa Alberto Musalem, Fed-chef i St Louis, enligt Bloomberg News.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fed chief: Several rate hikes may be needed before spring",
+        "summary": "The Federal Reserve may need to raise interest rates several times before spring 2027 to bring inflation under control. This is what Alberto Musalem, Fed chief in St Louis, said according to Bloomberg News."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T14:15:55+01:00"
+      }
+    },
     {
       "id": "2d8b3e2948ba",
       "schema_version": 1,
@@ -5235,32 +5262,6 @@
       "en": {
         "title": "Trump backs Jensen Huang",
         "summary": "Donald Trump would have no problem seeing Jensen Huang return as Nvidia CEO. The president says so during a press conference at the White House. \"I think he learned a big lesson,\" he says according to Bloomberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:40:19+01:00"
-      }
-    },
-    {
-      "id": "79f35878acb8",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/europarantor-svagt-upp",
-      "guid": "45937cec-38e0-4d0f-ae4b-d0cb8c4e52bf",
-      "published_at": "2026-11-16T16:28:36+01:00",
-      "fetched_at": "2026-11-16T16:40:13+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Europaräntor svagt upp",
-        "summary": "Europaräntorna steg svagt på måndagen, med tyska och franska räntor 1 punkt upp. Dollarn bibehöll i stort förra veckans förstärkning med dollarindex på 103,49.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "European yields slightly up",
-        "summary": "European bond yields rose slightly on Monday, with German and French yields up 1 basis point. The dollar largely maintained last week's strengthening, with the dollar index at 103.49."
       },
       "translation": {
         "status": "done",

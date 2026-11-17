@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T14:01:28+01:00",
+  "generated_at": "2026-11-17T14:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "313fee5bb05b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/trumps-raseri-de-ar-galna",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/trumps-raseri-de-ar-galna",
+      "published_at": "2026-11-17T14:09:19+01:00",
+      "fetched_at": "2026-11-17T14:15:48+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trumps utbrott",
+        "summary": "Trumps ilska mot Iran efter bombuppgifterna • ”Kommer att ...”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's outburst",
+        "summary": "Trump's anger at Iran after the bomb reports • \"Kommer att ...\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T14:15:55+01:00"
+      }
+    },
     {
       "id": "6bbc2f6c428f",
       "schema_version": 1,
@@ -5331,32 +5357,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T16:31:03+01:00"
-      }
-    },
-    {
-      "id": "8302b00f9e43",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/estlands-stanger-gransen-mot-ryssland-i-december",
-      "guid": "https://www.svt.se/nyheter/utrikes/estlands-stanger-gransen-mot-ryssland-i-december",
-      "published_at": "2026-11-15T16:13:37+01:00",
-      "fetched_at": "2026-11-15T16:15:36+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Estland stänger gränsen mot Ryssland i december",
-        "summary": "Estland stänger alla gränsövergångar mot Ryssland den första december, rapporterar Reuters. Anledningen är ett ryskt sabotage mot ett estniskt försvarsföretag.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estonia closes border with Russia in December",
-        "summary": "Estonia will close all border crossings with Russia on 1 December, Reuters reports. The reason is Russian sabotage against an Estonian defence company."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:15:44+01:00"
       }
     }
   ]

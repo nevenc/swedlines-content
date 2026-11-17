@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T14:01:28+01:00",
+  "generated_at": "2026-11-17T14:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fcb24dd70eee",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/johanna-franden-infantinos-utmanare-ar-chanslos-mot-fifa-bossen",
+      "guid": "https://www.dn.se/sport/johanna-franden-infantinos-utmanare-ar-chanslos-mot-fifa-bossen/",
+      "published_at": "2026-11-17T14:14:47+01:00",
+      "fetched_at": "2026-11-17T14:15:46+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/d9b9e0e4-fc78-4f7c-875d-9a6a0decf561.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Johanna Frändén: Infantinos utmanare är chanslös mot Fifa-bossen",
+        "summary": "Det är välkommet att vi till sist fick en motkandidat till Gianni Infantino inför Fifas ordförandeval i vår. Tråkigt bara att Philippe Diallo är den gråaste fotbollsteknokrat man kan föreställa sig.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Johanna Frändén: Infantino's challenger stands no chance against the Fifa boss",
+        "summary": "It is welcome that we finally got a rival to Gianni Infantino ahead of the Fifa presidential election in spring. It is only a shame that Philippe Diallo is the greyest football technocrat imaginable."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T14:15:55+01:00"
+      }
+    },
     {
       "id": "585414aa832a",
       "schema_version": 1,
@@ -5367,33 +5394,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:01:02+01:00"
-      }
-    },
-    {
-      "id": "691a4fa39db2",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/musikeufori-nar-jack-antonoff-tog-sin-lekstuga-till-stockholm",
-      "guid": "https://www.dn.se/kultur/musikeufori-nar-jack-antonoff-tog-sin-lekstuga-till-stockholm/",
-      "published_at": "2026-11-14T00:26:20+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/9d50f03b-57e8-40de-95ea-d2cf5b5c30fe.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Musikeufori när Jack Antonoff tog sin lekstuga till Stockholm",
-        "summary": "Under Bleachers första Sverigespelning tar superproducenten Jack Antonoff med sig musikstudion upp på scen. Resultatet är en helgjuten spelning genomsyrad av musikalisk fröjd, skriver DN:s Mina Asp Romefors.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Musical euphoria as Jack Antonoff brings his playroom to Stockholm",
-        "summary": "At Bleachers' first Swedish concert, superproducer Jack Antonoff brings his music studio onto the stage. The result is a fully formed concert imbued with musical joy, writes DN's Mina Asp Romefors."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:06+01:00"
       }
     }
   ]
