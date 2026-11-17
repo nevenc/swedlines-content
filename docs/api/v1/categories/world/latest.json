@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T10:31:18+01:00",
+  "generated_at": "2026-11-17T10:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "402f28536f73",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/g37zWa/talibanernas-mystiske-ledare-besoker-kabul",
+      "guid": "https://www.aftonbladet.se/nyheter/a/g37zWa/talibanernas-mystiske-ledare-besoker-kabul?utm_medium=rss",
+      "published_at": "2026-11-17T10:41:14+01:00",
+      "fetched_at": "2026-11-17T10:45:48+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/1a954f2e-08dd-3cb5-8493-909bfe2cb652?format=auto&s=db399d9e0387080331a4e38d471a11fa4c5022a0&w=1000",
+      "sv": {
+        "title": "Talibanernas mystiske ledare besöker Kabul",
+        "summary": "Talibanstyrets högste ledare – en man som inte visar sig – uppges vara på besök i Kabul.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Taliban's mysterious leader visits Kabul",
+        "summary": "The Taliban regime's supreme leader – a man who does not show himself – is reportedly visiting Kabul."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:45:55+01:00"
+      }
+    },
     {
       "id": "b2a53d6b012b",
       "schema_version": 1,
@@ -5333,33 +5360,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T11:27:01+01:00"
-      }
-    },
-    {
-      "id": "107201aa5d01",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/dJOw3A/james-savage-brexitbritterna-ar-inga-snyfthistorier",
-      "guid": "https://www.svd.se/a/dJOw3A/james-savage-brexitbritterna-ar-inga-snyfthistorier?utm_medium=rss",
-      "published_at": "2026-11-15T09:55:55+01:00",
-      "fetched_at": "2026-11-15T10:05:48+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/049d9139-8465-3f80-91a4-2ddf27d1ff0f?format=auto&s=9dbf5c04c4f002e39b3802e09e2ef5825d4d7379&w=1000",
-      "sv": {
-        "title": "Kommentar och svar om brexitbritterna",
-        "summary": "James Savage: ”Brexitbritterna är inga snyfthistorier”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Comment and reply on the Brexit Britons",
-        "summary": "James Savage: “The Brexit Britons are not sob stories”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T10:06:12+01:00"
       }
     }
   ]

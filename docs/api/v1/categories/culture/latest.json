@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-17T10:31:18+01:00",
+  "generated_at": "2026-11-17T10:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "287e6fc4ad69",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/recension-amongst-av-eva-hild-pa-galleri-hammaren.6bc37153-43d1-5201-8426-671d1516476b",
+      "guid": "6bc37153-43d1-5201-8426-671d1516476b",
+      "published_at": "2026-11-17T10:21:45+01:00",
+      "fetched_at": "2026-11-17T10:45:49+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: Recension",
+        "Tagg: Konst",
+        "Tagg: Utställning"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/85783111-42b2-3389-9f00-58de5b097f85",
+      "sv": {
+        "title": "”Som att kliva in i Eva Hilds hjärna – och se något nytt”",
+        "summary": "GP:s Karin Frid upptäcker nya sidor av skulptören Eva Hild på Galleri Hammarén.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Like stepping into Eva Hild's brain – and seeing something new”",
+        "summary": "GP's Karin Frid discovers new sides of sculptor Eva Hild at Galleri Hammarén."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:45:55+01:00"
+      }
+    },
     {
       "id": "efa8a091ca48",
       "schema_version": 1,
@@ -5580,33 +5613,6 @@
       "en": {
         "title": "Controversial Kneecap to SVT: 'Have the right to be angry'",
         "summary": "The Northern Irish band Kneecap's views on Palestine and Gaza have led to them being put on trial in the UK and having several concerts cancelled. They themselves do not understand the outrage. – I don't think it is controversial to call what is happening in Palestine a genocide."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "8d670870a4de",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/mat-dryck/helgens-drink-rock-and-rye",
-      "guid": "https://www.dn.se/mat-dryck/helgens-drink-rock-and-rye/",
-      "published_at": "2026-11-13T10:48:39+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/b9efc8e8-2ad6-4148-bf53-eb6b4821fc92.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Helgens drink: Rock and rye",
-        "summary": "DN:s Elin Peters tipsar om en drink i tiden. Denna helg en svängig sötnos.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The weekend's drink: Rock and rye",
-        "summary": "DN's Elin Peters recommends a drink of the moment. This weekend a swinging sweetheart."
       },
       "translation": {
         "status": "done",
