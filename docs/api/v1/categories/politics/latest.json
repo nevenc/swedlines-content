@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T08:15:46+01:00",
+  "generated_at": "2026-11-17T08:31:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fd11c9c679f9",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/bk5Xkg/regeringsbildningen-kristersson-ska-traffa-talmannen",
+      "guid": "https://www.svd.se/a/bk5Xkg/regeringsbildningen-kristersson-ska-traffa-talmannen?utm_medium=rss",
+      "published_at": "2026-11-17T08:26:58+01:00",
+      "fetched_at": "2026-11-17T08:30:57+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/938a3af6-ef07-352e-a22d-d77868dcd286?format=auto&s=0478371bac85870608b139a27d6dc43eb990a9d0&w=1000",
+      "sv": {
+        "title": "”Vill inte stå med kniven mot strupen”",
+        "summary": "Idag ska Kristersson träffa talmannen. Om han sedan lägger fram Ulf Kristersson i en…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Don't want to stand with the knife to the throat\"",
+        "summary": "Today Kristersson is to meet the Speaker. If he then presents Ulf Kristersson (M) in a…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T08:31:03+01:00"
+      }
+    },
     {
       "id": "61bf0b6c25c0",
       "schema_version": 1,
@@ -5374,33 +5401,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "76934299546f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/vellinge/toppmoderat-petas-fran-namnd-efter-maktstrid-i-m",
-      "guid": "3fd36288-fc68-4698-9e67-811ca55a67a7",
-      "published_at": "2026-11-14T08:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/945b6f7f-5c23-4761-957c-6c0fd5e0d7e9.jpeg?width=600",
-      "sv": {
-        "title": "Toppmoderat petas från nämnd – efter maktstrid i M",
-        "summary": "Martin von Gertten, ett av Moderaternas toppnamn i Vellinge, ser ut att petas som nämndsordförande. Själv säger han att det handlar om att han har kritiserat, och konkurrerat med, kommunalrådet och partikollegan Gustav Schyllert. Det tillbakavisas av partiets valberedning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Top-tier official removed from committee – after power struggle in the Moderates",
-        "summary": "Martin von Gertten, one of the Moderates' leading names in Vellinge, appears set to be removed as committee chair. He himself says it is because he has criticised, and competed with, municipal commissioner and party colleague Gustav Schyllert. The party's nomination committee rejects this."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:42+01:00"
       }
     }
   ]
