@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T06:31:06+01:00",
+  "generated_at": "2026-11-17T06:45:44+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "54cdaca9bdb0",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344058",
+      "guid": "rss:sr.se/article/9344058",
+      "published_at": "2026-11-17T06:36:00+01:00",
+      "fetched_at": "2026-11-17T06:45:36+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Protesterar mot bosättarvåldet på Västbanken: ”Vill öppna ögon”",
+        "summary": "Alltfler israeler protesterar nu mot bosättarvåldet, inte bara människorättsaktivister, utan också politiker och generaler. Detta är delvis den pensionerade generalen Yaakov Mendi Or:s förtjänst, som genomfört turer för israeler på Västbanken.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Protests against settler violence in the West Bank: \"Want to open eyes\"",
+        "summary": "Increasing numbers of Israelis are protesting against settler violence, not only human rights activists but also politicians and generals. This is partly thanks to retired general Yaakov Mendi Or, who has led tours for Israelis in the West Bank."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:45:44+01:00"
+      }
+    },
     {
       "id": "17a028bd0cfb",
       "schema_version": 1,
@@ -5341,32 +5367,6 @@
       "en": {
         "title": "Another soldier dies after military accident in Canada",
         "summary": "A further soldier has died of injuries sustained in the severe fire at a military base in Canada in…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T03:31:50+01:00"
-      }
-    },
-    {
-      "id": "d9a5afebd59c",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341151",
-      "guid": "rss:sr.se/article/9341151",
-      "published_at": "2026-11-15T02:09:00+01:00",
-      "fetched_at": "2026-11-15T03:31:39+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Israel: Har attackerat Hamastopp",
-        "summary": "Israel säger sig ha attackerat en högt uppsatt Hamasmedlem i Khan Yunis i södra Gaza. Sjukvårdare säger enligt Reuters att Hamasbefälhavaren ska ha dödats och att flera andra ska ha skadats i luftangreppet, som inträffade på en gata i staden.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Israel: Has attacked Hamas leader",
-        "summary": "Israel says it has attacked a senior Hamas member in Khan Yunis in southern Gaza. Paramedics tell Reuters that the Hamas commander is reported to have been killed and several others reportedly injured in the airstrike, which hit a street in the city."
       },
       "translation": {
         "status": "done",

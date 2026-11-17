@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T06:31:06+01:00",
+  "generated_at": "2026-11-17T06:45:44+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b67b11ab386d",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/alla-heter-allan-i-malmos-nya-korvkrig",
+      "guid": "afd17518-0a71-4cd7-aab0-ff69db29da74",
+      "published_at": "2026-11-17T06:31:00+01:00",
+      "fetched_at": "2026-11-17T06:45:40+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/98a100a1-9d32-426c-a311-1fc32de08cf4.jpeg?width=600",
+      "sv": {
+        "title": "Alla heter Allan i Malmös nya korvkrig",
+        "summary": "Alla heter plötsligt Allan. I ena ringhörnan klassiska Allans korv intill Stadion, i andra nyöppnade Allans grill på Segevång. – Grillen säljer shawarma och falafel och sån skit, säger Burim Zuta på Allans korv.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Everyone is called Allan in Malmö's new sausage war",
+        "summary": "Suddenly everyone is called Allan. In one corner, classic Allans korv next to the stadium, in the other, newly opened Allans grill in Segevång. \"The grill sells shawarma and falafel and such crap,\" says Burim Zuta of Allans korv."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:45:44+01:00"
+      }
+    },
     {
       "id": "0141db7687f4",
       "schema_version": 1,
@@ -5585,35 +5612,6 @@
       "en": {
         "title": "Final part of the Morning Star series lands in our own reality",
         "summary": "Shortly after the sixth part was translated into Swedish, the seventh and concluding novel in Karl Ove Knausgård's great Morning Star series has now been published in Norway. 'Underjordisk' feels unexpectedly realistic – and makes Malin Ullgren think of music."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "bd0922b7ea25",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1TbVtrzxlmty03HQyF2Maf/brast-ut-i-grat-efter-uttaget-blev-foer-mycket",
-      "guid": "1TbVtrzxlmty03HQyF2Maf",
-      "published_at": "2026-11-12T21:00:14+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "Brast ut i gråt efter uttåget: ”Blev för mycket”",
-        "summary": "Bara fyra avsnitt in i “Förrädarna” är stämningen minst sagt tryckt mellan förrädarkollegorna. Förra veckan pekade Robin “Mos” Andersson ut sina allierade, Lasse Kronér och Jessica Almenäs, inför de andra trogna.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Burst into tears after the exit: 'Became too much'",
-        "summary": "Only four episodes into 'Förrädarna', the mood is tense to say the least between the fellow traitors. Last week Robin 'Mos' Andersson pointed out his allies, Lasse Kronér and Jessica Almenäs, in front of the other faithful."
       },
       "translation": {
         "status": "done",
