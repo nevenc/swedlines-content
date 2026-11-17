@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T17:15:54+01:00",
+  "generated_at": "2026-11-17T17:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2eb9bdf20562",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/kammarratten-stanger-safiren-vi-dor-inombords",
+      "guid": "https://www.dn.se/sverige/kammarratten-stanger-safiren-vi-dor-inombords/",
+      "published_at": "2026-11-17T17:27:30+01:00",
+      "fetched_at": "2026-11-17T17:30:59+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/f7751a19-47e6-4edd-8db7-9196391cc881.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Kammarrätten stänger Safiren: ”Vi dör inombords”",
+        "summary": "De multisjuka barnen på LSS-boendet Safiren utanför Stockholm blir av med sina hem på fredag, enligt en ny dom. ”Det finns inte skäl att bevilja ytterligare rådrum”, skriver Kammarrätten. – Vi är förtvivlade, säger en av föräldrarna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Administrative Court of Appeal closes Safiren: “We are dying inside”",
+        "summary": "The severely ill children at the LSS home Safiren outside Stockholm will lose their homes on Friday, according to a new ruling. “There are no grounds to grant any further grace period”, writes the Administrative Court of Appeal. – We are desperate, says one of the parents."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:31:12+01:00"
+      }
+    },
     {
       "id": "4675b98ad595",
       "schema_version": 1,
@@ -5391,32 +5418,6 @@
       "en": {
         "title": "Fewer lynx may be shot in Kalmar County and Kronoberg",
         "summary": "The county administrative boards have now decided how many lynx may be shot in the licensed hunt next year, 2027. In both Kalmar County and Kronoberg County fewer lynx may be shot than in 2026."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "d0e8c40a94f4",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/allt-fler-lodjur-i-jonkopings-lan-klart-for-skyddsjakt",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/allt-fler-lodjur-i-jonkopings-lan-klart-for-skyddsjakt",
-      "published_at": "2026-11-12T10:34:31+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Allt fler lodjur i Jönköpings län – klart för licensjakt",
-        "summary": "Antalet lodjur är nu fler än vad som behövs för att bibehålla en god lodjurstam i Jönköpings län. Därför har Länsstyrelsen fattat beslut om att återuppta licensjakten på lodjur.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "More and more lynx in Jönköping County – licensed hunt approved",
-        "summary": "The number of lynx is now greater than what is needed to maintain a healthy lynx population in Jönköping County. The county administrative board has therefore decided to resume the licensed lynx hunt."
       },
       "translation": {
         "status": "done",

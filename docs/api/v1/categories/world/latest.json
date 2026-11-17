@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-17T17:15:54+01:00",
+  "generated_at": "2026-11-17T17:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "42442b0a58d2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/mats-larsson/slaget-om-broarna-i-ukraina-har-bara-borjat-",
+      "guid": "https://www.expressen.se/kronikorer/mats-larsson/slaget-om-broarna-i-ukraina-har-bara-borjat-/",
+      "published_at": "2026-11-17T17:25:36+01:00",
+      "fetched_at": "2026-11-17T17:31:00+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Slaget om broarna i Ukraina har bara börjat",
+        "summary": "Slaget om broarna rasar för fullt i Ukraina. Men de är svåra mål att slå ut. Kiev kan dock mest fokusera på en och har just gett Vladimir Putin en rejäl käftsmäll.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The battle for the bridges in Ukraine has only just begun",
+        "summary": "The battle for the bridges is raging full-on in Ukraine. But they are difficult targets to knock out. Kyiv can, however, mainly focus on one and has just dealt Vladimir Putin a solid blow."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:31:12+01:00"
+      }
+    },
+    {
+      "id": "db3f264e56b9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344666",
+      "guid": "rss:sr.se/article/9344666",
+      "published_at": "2026-11-17T17:23:00+01:00",
+      "fetched_at": "2026-11-17T17:30:58+01:00",
+      "category": "world",
+      "sv": {
+        "title": "EU vill öka elektrifieringen – mjukar upp kravet på fossilfri el",
+        "summary": "EU stöder ökad elektrifiering på klimatmötet i Antalya, men har mjukat upp formuleringarna kring ett krav på fossilfri el – något som oroar EU-parlamentarikern Heléne Fritzon (S). Målet är att el ska stå för 35 procent av energianvändningen 2035.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "EU wants to increase electrification – softens requirement for fossil-free electricity",
+        "summary": "The EU supports increased electrification at the climate meeting in Antalya, but has softened the wording on a requirement for fossil-free electricity – something that worries MEP Heléne Fritzon (S). The goal is for electricity to account for 35 percent of energy use by 2035."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:31:12+01:00"
+      }
+    },
     {
       "id": "39fa2684b2d7",
       "schema_version": 1,
@@ -5307,58 +5359,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T17:01:25+01:00"
-      }
-    },
-    {
-      "id": "7123c93e5f09",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/estland-stanger-gransen-mot-ryssland",
-      "guid": "755e1c52-bca4-4b09-928a-a958cba19fa3",
-      "published_at": "2026-11-15T16:43:19+01:00",
-      "fetched_at": "2026-11-15T16:45:45+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Estland stänger gränsen mot Ryssland",
-        "summary": "Estland aviserar att landet den 1 december kommer att stänga samtliga gränsövergångar till Ryssland, skriver landets utrikesminister Margus Tsahkna på X.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estonia to close border with Russia",
-        "summary": "Estonia announces that the country will close all border crossings to Russia on 1 December, says Foreign Minister Margus Tsahkna on X."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:45:49+01:00"
-      }
-    },
-    {
-      "id": "6380822e3699",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341276",
-      "guid": "rss:sr.se/article/9341276",
-      "published_at": "2026-11-15T16:32:00+01:00",
-      "fetched_at": "2026-11-15T16:45:40+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Estland stänger gränsen mot Ryssland efter uppgifter om attentatsförsök",
-        "summary": "Estland kommer att stänga alla gränsövergångar mot Ryssland från och med 1 december, meddelar landets utrikesminister. Anledningen uppges vara ett attentatsförsök som ska ha varit riktat mot ett företag inom försvarsindustrin.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Estonia to close border with Russia after reports of attempted attack",
-        "summary": "Estonia will close all border crossings with Russia from 1 December, the foreign minister announces. The reason given is an attempted attack reportedly aimed at a company in the defence industry."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:45:49+01:00"
       }
     }
   ]

@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-17T17:15:54+01:00",
+  "generated_at": "2026-11-17T17:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d5f4054bffd0",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/talmannen-lyckades-med-det-omojliga-att-gora-bade-andersson-och-kristersson-nojda",
+      "guid": "0a610ebe-0564-4868-831b-418ffeaaeb78",
+      "published_at": "2026-11-17T17:26:59+01:00",
+      "fetched_at": "2026-11-17T17:31:02+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/a1218946-1d0c-45ca-b463-86e46f304427.jpeg?width=600",
+      "sv": {
+        "title": "Jultomten Norlén gjorde det omöjliga – uppfyllde både Anderssons och Kristerssons önskan",
+        "summary": "Först ville ingen ha sonderingsuppdraget och ställas inför en statsministeromröstning. Sen ville båda ha den. För samtidigt som Magdalena Andersson förhandlar för fullt med C, V och MP är Ulf Kristersson segerviss.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Father Christmas Norlén did the impossible – fulfilled both Andersson's and Kristersson's wishes",
+        "summary": "First, no one wanted the exploratory mission and to face a prime ministerial vote. Then both wanted it. For while Magdalena Andersson negotiates full-on with C, V and MP, Ulf Kristersson is confident of victory."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:31:12+01:00"
+      }
+    },
+    {
+      "id": "188940328edd",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/4EqRva/ulf-kristersson-forutser-magdalena-anderssons-avgang",
+      "guid": "https://www.svd.se/a/4EqRva/ulf-kristersson-forutser-magdalena-anderssons-avgang?utm_medium=rss",
+      "published_at": "2026-11-17T17:15:14+01:00",
+      "fetched_at": "2026-11-17T17:30:59+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/7679856d-eb0e-30bb-9824-82457f44750d?format=auto&s=b3b48bc568ad722514c8dc63d676fad88b8cd0c6&w=1000",
+      "sv": {
+        "title": "Plot twist – C har inte valt sida",
+        "summary": "Ulf Kristersson var som en försmådd älskare som bara hade gott att säga om Centerpartiet som ratat…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Plot twist – C has not chosen sides",
+        "summary": "Ulf Kristersson was like a spurned lover who had nothing but good to say about the Centre Party, which rejected…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:31:12+01:00"
+      }
+    },
     {
       "id": "e770ae4b6b3e",
       "schema_version": 1,
@@ -5332,59 +5386,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "6d870379b47c",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/bjorn-wiman-tonen-ar-hardare-an-i-ida-gabrielssons-bastu",
-      "guid": "https://www.dn.se/kultur/bjorn-wiman-tonen-ar-hardare-an-i-ida-gabrielssons-bastu/",
-      "published_at": "2026-11-15T07:22:44+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/fa2c9951-533b-4a18-880c-65d736a53559.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Björn Wiman: Tonen är hårdare än i Ida Gabrielssons bastu",
-        "summary": "Regeringsbildningen efter valet ser ut att kunna bli ett brutalt misslyckande för den svenska vänstern. I så fall ett med skrämmande historiska förebilder, skriver Björn Wiman.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Björn Wiman: The tone is harsher than in Ida Gabrielsson's sauna",
-        "summary": "The government formation after the election looks set to become a brutal failure for the Swedish left. If so, one with frightening historical precedents, writes Björn Wiman."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "753d735b7ec1",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9329985",
-      "guid": "rss:sr.se/article/9329985",
-      "published_at": "2026-11-15T06:44:00+01:00",
-      "fetched_at": "2026-11-15T08:29:34+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Svensktest dröjer – Julia kan inte visa att hon uppfyller kraven",
-        "summary": "Språktestet i svenska för den som söker svenskt medborgarskap dröjer och väntas inte vara helt klart förrän tidigast 2030. Samtidigt försvinner det alternativa test som Migrationsverket hänvisat till, Folkuniversitetets Swedex-test, vid årsskiftet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Swedish test delayed – Julia cannot show she meets the requirements",
-        "summary": "The Swedish language test for those applying for Swedish citizenship is delayed and is not expected to be fully ready until 2030 at the earliest. At the same time, the alternative test that the Migration Agency has referred to, the Folkuniversitetet Swedex test, is being discontinued at the turn of the year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:08+01:00"
       }
     }
   ]

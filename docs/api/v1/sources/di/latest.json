@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T17:15:54+01:00",
+  "generated_at": "2026-11-17T17:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5da13307e94f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/sverige-villkorar-eu-budget-med-ukrainastod",
+      "guid": "79e33d1a-b2a1-46da-ba23-6a7b988fe103",
+      "published_at": "2026-11-17T17:16:43+01:00",
+      "fetched_at": "2026-11-17T17:31:01+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/30f591f9-9d18-44ec-bbbd-2250b6d6fa63.jpeg?width=600",
+      "sv": {
+        "title": "Sverige villkorar EU-budget med Ukrainastöd",
+        "summary": "Sverige följer i Tysklands spår och kopplar ihop EU:s budget med stöd till Ukraina. ”Om länder inte är beredda att ställa upp på att stötta Ukraina kommer det givetvis påverka våra ställningstaganden”, säger statsminister Ulf Kristersson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sweden conditions EU budget on Ukraine aid",
+        "summary": "Sweden follows in Germany's footsteps and links the EU budget to support for Ukraine. “If countries are not prepared to stand up to supporting Ukraine, it will of course affect our positions”, says Prime Minister Ulf Kristersson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:31:12+01:00"
+      }
+    },
     {
       "id": "4473659345a0",
       "schema_version": 1,
@@ -5302,33 +5329,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T14:31:14+01:00"
-      }
-    },
-    {
-      "id": "5acbad10c330",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/medieuppgift-klaas-knot-vantas-dra-sig-ur-ecb-kamp",
-      "guid": "a1b3e483-41e8-4f2d-9b4b-3d1634b3ccc0",
-      "published_at": "2026-11-16T14:04:03+01:00",
-      "fetched_at": "2026-11-16T14:15:44+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/9c88bf2b-6a74-4f20-8b2b-7855535e32fb.jpeg?width=600",
-      "sv": {
-        "title": "Medieuppgift: Klaas Knot väntas dra sig ur ECB-kamp",
-        "summary": "Klaas Knot, tidigare chef för Nederländernas centralbank, väntas denna vecka dra sig ur kampen om posten som ECB-chef. Det rapporterar tidningen de Volkskrant.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Media report: Klaas Knot expected to withdraw from ECB race",
-        "summary": "Klaas Knot, former governor of the Dutch central bank, is expected to withdraw from the race for the position of ECB president this week. De Volkskrant reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:15:51+01:00"
       }
     }
   ]
