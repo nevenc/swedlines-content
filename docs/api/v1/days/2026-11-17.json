@@ -1,7 +1,218 @@
 {
-  "generated_at": "2026-11-17T09:45:48+01:00",
-  "count": 190,
+  "generated_at": "2026-11-17T10:01:56+01:00",
+  "count": 203,
   "items": [
+    {
+      "id": "310643cf6855",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/upploppet-pa-plan-b-tva-atalas-for-vald",
+      "guid": "aaf11163-8dcd-4bac-af4a-95b86d0439ef",
+      "published_at": "2026-11-17T10:00:32+01:00",
+      "fetched_at": "2026-11-17T10:01:42+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/79e18996-554d-4b8f-9b98-bbeebc4d177d.jpeg?width=600",
+      "sv": {
+        "title": "Två åtalas för våld efter bråket på Plan B",
+        "summary": "Han hoppsparkade vakterna, slog med knytnävarna och fick själv ett batongslag i skallen. Nu ställs en 38-åring från Bologna till svars för kravallerna på Plan B – och tillsammans med en belgisk man riskerar han både fängelse och utvisning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two charged over violence after brawl at Plan B",
+        "summary": "He kicked the bouncers, punched and was hit on the head with a baton himself. Now a 38-year-old from Bologna is being held to account for the riot at Plan B, and together with a Belgian man he risks both prison and deportation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:01:55+01:00"
+      }
+    },
+    {
+      "id": "685061b6ba76",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/aGwGM2/demoskop-socialdemokraternas-valjare-tveksamma-till-v-s-ministerkrav",
+      "guid": "https://www.aftonbladet.se/nyheter/a/aGwGM2/demoskop-socialdemokraternas-valjare-tveksamma-till-v-s-ministerkrav?utm_medium=rss",
+      "published_at": "2026-11-17T10:00:02+01:00",
+      "fetched_at": "2026-11-17T10:01:40+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/4e52ef17-6291-360a-8eeb-1313813df219?format=auto&s=3389a946e2a539efe8831244b52111595f25ba45&w=1000",
+      "sv": {
+        "title": "Ny undersökning: Sossar tveksamma till V-ministrar",
+        "summary": "Ny undersökning",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New survey: Social Democrats hesitant about Left Party ministers",
+        "summary": "New survey"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:01:55+01:00"
+      }
+    },
+    {
+      "id": "1eaeffb023b6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ledare/europa-kan-forhindra-en-farlig-fred",
+      "guid": "de9151c8-005a-41a5-afc5-0140bd5b0ee7",
+      "published_at": "2026-11-17T09:56:18+01:00",
+      "fetched_at": "2026-11-17T10:01:41+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/4fe35e00-6bf5-4086-91ee-b476e89c1d36.jpeg?width=600",
+      "sv": {
+        "title": "Europa kan förhindra en farlig fred",
+        "summary": "Torsdagens toppmöte mellan Kina, Ryssland och USA:s presidenter väcker otäcka minnen. För att förhindra att historien upprepar sig är det hög tid att Europa tar sitt öde i egna händer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Europe can prevent a dangerous peace",
+        "summary": "Thursday's summit between the presidents of China, Russia and the USA evokes ominous memories. To prevent history from repeating itself, it is high time Europe takes its fate into its own hands."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:01:55+01:00"
+      }
+    },
+    {
+      "id": "10a43660fbd5",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/nibe-chefen-proppen-har-verkligen-gatt-ur",
+      "guid": "1435c3b9-044f-47d4-942d-20158d84ff5b",
+      "published_at": "2026-11-17T09:56:08+01:00",
+      "fetched_at": "2026-11-17T10:01:41+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nibe-chefen: ”Proppen har verkligen gått ur”",
+        "summary": "Nibes gradvisa återhämtning från 2024 har fortsatt och under 2026 har det börjat lossna, vilket tisdagens kvartalsrapport vittnar om enligt värmeteknikbolagets finanschef Hans Backman. ”Proppen har verkligen gått ur”, säger han – men aktien backar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nibe chief: \"The cork has really come out\"",
+        "summary": "Nibe's gradual recovery since 2024 has continued, and in 2026 it has begun to loosen, as Tuesday's quarterly report shows, according to the heat-technology company's CFO Hans Backman. \"The cork has really come out,\" he says, but the share is falling."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:01:55+01:00"
+      }
+    },
+    {
+      "id": "6c4caf3d0715",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/regionanstalld-stangs-av-hade-30-000-sexuella-overgreppsbilder-pa-barn",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/regionanstalld-stangs-av-hade-30-000-sexuella-overgreppsbilder-pa-barn",
+      "published_at": "2026-11-17T09:52:36+01:00",
+      "fetched_at": "2026-11-17T10:01:18+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Regionanställd stängs av – hade 30 000 sexuella övergreppsbilder på barn",
+        "summary": "Region Jönköpings län har stängt av en medarbetare efter att det framkommit att han dömts till ett långt fängelsestraff. Den anställde, en man i 30-årsåldern, hade närmare 30 000 bilder och filmer med barn som utsätts för sexuella övergrepp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Region employee suspended – had 30,000 sexual abuse images of children",
+        "summary": "Region Jönköping County has suspended an employee after it emerged that he has been sentenced to a long prison term. The employee, a man in his 30s, had nearly 30,000 images and videos of children subjected to sexual abuse."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:01:55+01:00"
+      }
+    },
+    {
+      "id": "fbc83d74a254",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/manadens-trade-tror-pa-svenska-smabolag",
+      "guid": "18594977-c1e7-52a8-a079-63a56d44b67a",
+      "published_at": "2026-11-17T09:52:27+01:00",
+      "fetched_at": "2026-11-17T10:01:41+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Månadens trade: Tror på svenska småbolag",
+        "summary": "Di-analytikern Agnetha Jönsson om månadens trade.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Month's trade: Believes in Swedish small caps",
+        "summary": "Di analyst Agnetha Jönsson on the month's trade."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:01:55+01:00"
+      }
+    },
+    {
+      "id": "8e99e2d4803a",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/skane/mordhotade-amanda-lind-atalas",
+      "guid": "https://www.svt.se/nyheter/lokalt/skane/mordhotade-amanda-lind-atalas",
+      "published_at": "2026-11-17T09:48:53+01:00",
+      "fetched_at": "2026-11-17T10:01:18+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Mordhotade Amanda Lind (MP) – man åtalas",
+        "summary": "En man i 45-årsåldern från Östra Göinge åtalas för att ha mordhotat Miljöpartiets språkrör Amanda Lind, skriver Kristianstadsbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Death-threatened Amanda Lind (MP) – man charged",
+        "summary": "A man aged 45 from Östra Göinge is charged with having threatened to murder Green Party spokesperson Amanda Lind, Kristianstadsbladet reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:01:55+01:00"
+      }
+    },
+    {
+      "id": "5f0fbf27d250",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/vd-intervjuer/sampos-vd-vi-har-ett-bra-momentum",
+      "guid": "f37adc21-e20f-5f6b-aed6-27b4b97b4699",
+      "published_at": "2026-11-17T09:48:20+01:00",
+      "fetched_at": "2026-11-17T10:01:41+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Sampos vd: ”Vi har ett bra momentum”",
+        "summary": "Intervju med försäkringskoncernens vd Morten Thorsrud.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sampo's CEO: \"We have a good momentum\"",
+        "summary": "Interview with the insurance group's CEO Morten Thorsrud."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:01:55+01:00"
+      }
+    },
     {
       "id": "1c220b85ca0b",
       "schema_version": 1,
@@ -23,6 +234,109 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T09:45:48+01:00"
+      }
+    },
+    {
+      "id": "e93cec82191b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/pizza-hut-gor-comeback-manader-efter-konkursen",
+      "guid": "https://www.expressen.se/nyheter/sverige/pizza-hut-gor-comeback-manader-efter-konkursen/",
+      "published_at": "2026-11-17T09:42:55+01:00",
+      "fetched_at": "2026-11-17T10:01:40+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Pizza hut gör comeback – månader efter konkursen",
+        "summary": "Pizza hut gick i konkurs i september 2026. Men redan ser det ut som att kedjan är på väg tillbaka. – Just nu förbereder vi restaurangerna, samlar våra team och gör oss redo för öppning, säger Thomas Dahlstedt, vd för Nordrest som står bakom satsningen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pizza Hut makes comeback – months after bankruptcy",
+        "summary": "Pizza Hut went bankrupt in September 2026. But already it looks like the chain is on its way back. \"Right now we are preparing the restaurants, gathering our teams and getting ready to open,\" says Thomas Dahlstedt, CEO of Nordrest, which is behind the venture."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:01:55+01:00"
+      }
+    },
+    {
+      "id": "23f04b0658d8",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/cvc-gor-exit-i-cary-group-nordic-capital-far-sallskap-av-tva-nya-storagare",
+      "guid": "c475809a-4f9e-4953-89d8-59b2b921ac81",
+      "published_at": "2026-11-17T09:41:56+01:00",
+      "fetched_at": "2026-11-17T10:01:41+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/3f8f7dd4-fde5-4281-901a-1ef2274670ea.jpeg?width=600",
+      "sv": {
+        "title": "CVC gör exit i Cary Group – Nordic Capital får sällskap av två nya storägare",
+        "summary": "Riskkapitalbolaget CVC säljer sin halva av det sedan några år tillbaka onoterade bilglasbolaget Cary Group. Två nya storägare kliver in samtidigt som Nordic Capital återinvesterar i bolaget. Vd Anders Jensen gör sin femte exit i bolaget.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "CVC exits Cary Group – Nordic Capital gets two new major owners",
+        "summary": "The risk capital firm CVC is selling its half of the car-glass company Cary Group, which has been unlisted for a few years. Two new major owners are stepping in as Nordic Capital reinvests in the company. CEO Anders Jensen is making his fifth exit from the company."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:01:55+01:00"
+      }
+    },
+    {
+      "id": "4d26343b523b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/seb-tror-pa-aktier-med-usa-i-fokus",
+      "guid": "9375e953-32b5-51d5-894f-86819336db1d",
+      "published_at": "2026-11-17T09:41:03+01:00",
+      "fetched_at": "2026-11-17T10:01:41+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "SEB tror på aktier – med USA i fokus"
+      },
+      "en": {
+        "title": "SEB believes in shares – with focus on USA"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:01:55+01:00"
+      }
+    },
+    {
+      "id": "41475c50b2d0",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/debatt/fran-teknik-till-kundvarde-handeln-maste-vaxla-upp",
+      "guid": "f93659ce-35f0-4a5a-b4d1-a0915e1f0910",
+      "published_at": "2026-11-17T09:40:59+01:00",
+      "fetched_at": "2026-11-17T10:01:41+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/ceec9978-038b-43a4-87b8-d702b52eeacc.jpeg?width=600",
+      "sv": {
+        "title": "Från teknik till kundvärde - handeln måste växla upp",
+        "summary": "Fler företag behöver utveckla egna FoU-strategier, samverka i värdekedjan och bygga kontaktytor med forskningsaktörer. Det är en viktig förutsättning för att möta den allt starkare internationella konkurrensen där förmågan att snabbt omsätta teknik och kunskap till kundvärde blir alltmer…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "From technology to customer value - retail must step up",
+        "summary": "More companies need to develop their own R&D strategies, cooperate across the value chain and build contact points with research actors. It is an important prerequisite for meeting the increasingly strong international competition, where the ability to quickly turn technology and knowledge into customer value becomes ever more…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:01:55+01:00"
       }
     },
     {
@@ -2684,6 +2998,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T07:15:59+01:00"
+      }
+    },
+    {
+      "id": "bc922b79103c",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/410458/operasangaren-testade-ai-som-sangcoach-gne-dur",
+      "guid": "https://tv.aftonbladet.se/video/410458/operasangaren-testade-ai-som-sangcoach-gne-dur?utm_medium=rss",
+      "published_at": "2026-11-17T07:01:22+01:00",
+      "fetched_at": "2026-11-17T10:01:40+01:00",
+      "category": "culture",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/cb1cb34a7574e8ac5e620a18859ce3fe.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Operasångaren testade AI som sångcoach: ”Gne-dur”",
+        "summary": "Operastjärnan chockad",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Opera singer tested AI as singing coach: \"Gne-dur\"",
+        "summary": "Opera star shocked"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:01:55+01:00"
       }
     },
     {
