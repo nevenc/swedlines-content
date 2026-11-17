@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T20:01:27+01:00",
+  "generated_at": "2026-11-17T20:16:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ec273e54344d",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/vkQwWV/xi-putin-och-trump-i-historiskt-mote-men-vad-ska-de-prata-om",
+      "guid": "https://www.svd.se/a/vkQwWV/xi-putin-och-trump-i-historiskt-mote-men-vad-ska-de-prata-om?utm_medium=rss",
+      "published_at": "2026-11-17T20:01:48+01:00",
+      "fetched_at": "2026-11-17T20:15:52+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/c6c38153-bde8-3f16-bd4e-6305d49ef3d3?format=auto&s=e7dd0ec97a3cfa0af29586fac770c9eab64287e0&w=1000",
+      "sv": {
+        "title": "Då syntes irritation i Xis ansikte",
+        "summary": "Fortfarande oklart vad som ska diskuteras • Putin ändå stora vinnaren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Irritation was visible on Xi's face",
+        "summary": "Still unclear what will be discussed • Putin still the big winner."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T20:16:02+01:00"
+      }
+    },
     {
       "id": "154ddb3dac0a",
       "schema_version": 1,
@@ -5308,32 +5335,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T23:30:58+01:00"
-      }
-    },
-    {
-      "id": "a6fafc8468aa",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/overlevde-fall-pa-20--meter-kristins-ord",
-      "guid": "https://www.expressen.se/nyheter/varlden/overlevde-fall-pa-20--meter-kristins-ord/",
-      "published_at": "2026-11-15T23:10:53+01:00",
-      "fetched_at": "2026-11-15T23:15:39+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Överlevde fall på 20 meter – Kristins ord",
-        "summary": "21-åriga Kristin Sargent föll från åttonde våningen – och överlevde ”mirakulöst”, enligt New York Post. Polisen har släppt kroppskamerafilmer som visar Kristin säga direkt efter 20-metersfallet: – Ingen har gjort något dåligt mot mig.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Survived 20-metre fall – Kristin's words",
-        "summary": "21-year-old Kristin Sargent fell from the eighth floor – and survived \"miraculously\", according to the New York Post. Police have released body-camera footage showing Kristin saying right after the 20-metre fall: – Nobody has done anything bad to me."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T23:15:46+01:00"
       }
     }
   ]

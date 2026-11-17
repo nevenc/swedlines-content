@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T20:01:27+01:00",
+  "generated_at": "2026-11-17T20:16:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d75c8f71426f",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/ranare-kom-over-pokemonkort-varda-miljonbelopp",
+      "guid": "https://www.expressen.se/nyheter/varlden/ranare-kom-over-pokemonkort-varda-miljonbelopp/",
+      "published_at": "2026-11-17T20:02:26+01:00",
+      "fetched_at": "2026-11-17T20:15:54+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Rånare kom över Pokémonkort värda miljonbelopp",
+        "summary": "I Danmark rånades i helgen två butiker på Pokémonkort – värda miljonbelopp. Och ett av tillslagen bedöms som särskilt välplanerat. – Självklart tar vi det här på riktigt stor allvar, säger polisen Thomas Ratzlaf till DR.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Robbers got hold of Pokémon cards worth millions",
+        "summary": "In Denmark, two shops were robbed of Pokémon cards over the weekend – worth millions. And one of the raids is judged to have been especially well planned. – Of course we are taking this very seriously, police officer Thomas Ratzlaf tells DR."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T20:16:02+01:00"
+      }
+    },
     {
       "id": "552e5b51080f",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "USA loses status as measles-free country",
         "summary": "The USA is no longer a country where measles has been eradicated. This is confirmed by the American branch of the World Health Organization (WHO), the Pan American Health Organization, reports The Wall Street Journal (WSJ)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "605c22a6b9b0",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/hackare-kom-over-miljarder--med-hjalp-av-stulna-ansikten",
-      "guid": "https://www.expressen.se/nyheter/varlden/hackare-kom-over-miljarder--med-hjalp-av-stulna-ansikten/",
-      "published_at": "2026-11-14T11:28:19+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Hackare kom över miljarder – med hjälp av stulna ansikten",
-        "summary": "Nordkoreanska hackare lurade hundratals personer – med fejkade videosamtal. Sen stal de fyra miljarder kronor. – De utnyttjar vårt förtroende för videoplattformar, säger FBI:s Patrick Grandy i ett uttalande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hackers got billions – using stolen faces",
-        "summary": "North Korean hackers fooled hundreds of people with fake video calls. Then they stole four billion kronor. – They exploit our trust in video platforms, says the FBI's Patrick Grandy in a statement."
       },
       "translation": {
         "status": "done",

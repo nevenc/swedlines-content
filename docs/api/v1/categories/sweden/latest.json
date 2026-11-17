@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T20:01:27+01:00",
+  "generated_at": "2026-11-17T20:16:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0e585fb2f808",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/tank-om-och-radda-safirens-boende-for-skora-barn",
+      "guid": "https://www.dn.se/insandare/tank-om-och-radda-safirens-boende-for-skora-barn/",
+      "published_at": "2026-11-17T20:10:30+01:00",
+      "fetched_at": "2026-11-17T20:15:52+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/3c330ab0-6e71-4852-a067-f72e972ae65a.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Tänk om och rädda Safirens boende för sköra barn",
+        "summary": "INSÄNDARE. Inspektionen för vård och omsorg (Ivo) måste lyssna på protesterna mot ett horribelt beslut att stänga LSS-boendet Safiren. Ändra beslutet! skriver Maria Wollters.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Letter. Think again and save the Safiren home for fragile children",
+        "summary": "LETTER. The Health and Social Care Inspectorate (IVO) must listen to the protests against a horrible decision to close the Safiren LSS home. Change the decision! writes Maria Wollters."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T20:16:02+01:00"
+      }
+    },
     {
       "id": "772b58e3f121",
       "schema_version": 1,
@@ -5409,32 +5436,6 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "1a8ec039e8cc",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/sormland/har-tvattas-nykopings-lasarett-rent-med-hjalp-av-en-dronare",
-      "guid": "https://www.svt.se/nyheter/lokalt/sormland/har-tvattas-nykopings-lasarett-rent-med-hjalp-av-en-dronare",
-      "published_at": "2026-11-12T17:17:59+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Här tvättas Nyköpings lasarett rent – med hjälp av en drönare",
-        "summary": "Rödlaven högt uppe på fasaden till Nyköpings lasarett har många förbipasserande nog lagt märke till. Nu ska den snart vara ett minne blott – tack vare en specialbyggd drönare.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here Nyköping hospital is washed clean – with the help of a drone",
-        "summary": "Many passers-by have probably noticed the red algae high up on the facade of Nyköping hospital. Soon it will be a thing of the past – thanks to a purpose-built drone."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
       }
     }
   ]
