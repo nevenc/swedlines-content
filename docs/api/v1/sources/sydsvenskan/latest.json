@@ -1,7 +1,83 @@
 {
-  "generated_at": "2026-11-17T10:01:56+01:00",
+  "generated_at": "2026-11-17T10:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7fb6410f2ee1",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/besegrade-ukrainska-hyllades-av-putin",
+      "guid": "954684fc-0cfc-4af0-b3d2-fbb92de56ebe",
+      "published_at": "2026-11-17T10:11:43+01:00",
+      "fetched_at": "2026-11-17T10:15:48+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/2b7ca243-ce99-4907-b5f1-0f3372f7244f.jpg?width=600",
+      "sv": {
+        "title": "Besegrade ukrainska – hyllades av Putin",
+        "summary": "Ryska tennisstjärnan Mirra Andrejeva, 19, vann i helgen WTA-slutspelet i Indian Wells efter finalseger mot ukrainskan Elina Svitolina. Då passade Vladimir Putin på att skicka en hälsning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Defeated Ukrainian – praised by Putin",
+        "summary": "Russian tennis star Mirra Andreeva, 19, won the WTA Finals in Indian Wells at the weekend after beating Ukraine's Elina Svitolina in the final. Vladimir Putin then took the opportunity to send a greeting."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:15:53+01:00"
+      }
+    },
+    {
+      "id": "be4cbcecf0a6",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/l-hur-kan-man-missa-att-prioritera-tillsyn-av-forskolor",
+      "guid": "a8927aed-6bde-4ea2-b696-bc4863f8d2e2",
+      "published_at": "2026-11-17T10:10:00+01:00",
+      "fetched_at": "2026-11-17T10:15:48+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "L: Hur kan man missa att prioritera tillsyn av förskolor?",
+        "summary": "Hur kan utbildningsnämnden misslyckas med att prioritera den lagstadgade tillsynen av Lunds fristående förskolor? Det undrar L-politikern Jessica Ulfgren, som också kritiserar de styrande partierna för att inte skjuta till extra pengar för tillsynen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "L: How can you fail to prioritise supervision of preschools?",
+        "summary": "How can the education board fail to prioritise the statutory supervision of Lund's independent preschools? Liberal politician Jessica Ulfgren asks the question, and also criticises the governing parties for not providing extra funds for supervision."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:15:53+01:00"
+      }
+    },
+    {
+      "id": "239bd821963a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/130-kvadratmeter-stort-kedjehus-for-3-6-miljoner",
+      "guid": "8566395b-b32a-4383-b1b1-9ac1236e7757",
+      "published_at": "2026-11-17T10:09:45+01:00",
+      "fetched_at": "2026-11-17T10:15:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "130 kvadratmeter stort kedjehus för 3,6 miljoner"
+      },
+      "en": {
+        "title": "130 square metre terraced house for SEK 3.6 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:15:53+01:00"
+      }
+    },
     {
       "id": "310643cf6855",
       "schema_version": 1,
@@ -5207,86 +5283,6 @@
       "en": {
         "title": "\"Maga ideologue\" – here is Trump's new chief of staff",
         "summary": "He is seen as the architect behind Donald Trump's immigration policy. Critics see his new role in the White House as a radical step towards xenophobia. Stephen Miller has replaced ousted chief of staff Susie Wiles – but who is he?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:42+01:00"
-      }
-    },
-    {
-      "id": "6fbf307432e7",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sydsvenskan-direkt",
-      "guid": "e02963d4-9b31-42b2-9659-d8eaaeb10b46",
-      "published_at": "2026-11-14T07:41:24+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Sydsvenskan Direkt",
-        "summary": "Först med det senaste från Malmö, Lund, Skåne och Danmark. Skicka tips direkt till våra reportrar – vi läser allt, men publicerar inte i flödet. Du kan också ringa vår tipstelefon, 040–71234, eller mejla 71234@sydsvenskan.se.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sydsvenskan Direkt",
-        "summary": "First with the latest from Malmö, Lund, Skåne and Denmark. Send tips directly to our reporters – we read everything, but do not publish in the feed. You can also call our tip line, 040–71234, or email 71234@sydsvenskan.se."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:42+01:00"
-      }
-    },
-    {
-      "id": "777b78437ab8",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/facket-hemarbete-far-fler-att-jobba-heltid",
-      "guid": "27183bb0-6791-4243-a686-4238e5d2471f",
-      "published_at": "2026-11-14T07:31:16+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0d72fb1e-9574-401b-beda-796294e1d634.jpg?width=600",
-      "sv": {
-        "title": "Facket: Hemarbete får fler att jobba heltid",
-        "summary": "Deltidsarbete bland kvinnor har minskat tydligt sedan pandemin, visar en undersökning från Sveriges Ingenjörer. Distansarbetet har gjort det möjligt för fler att jobba heltid. Men en ny trend kan vända utvecklingen igen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Union: Remote work is getting more people into full-time jobs",
-        "summary": "Part-time work among women has clearly declined since the pandemic, a survey from Sveriges Ingenjörer shows. Remote work has made it possible for more people to work full-time. But a new trend could reverse the development again."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:42+01:00"
-      }
-    },
-    {
-      "id": "9dd11274675c",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/mote-mellan-putin-xi-och-trump-i-nasta-vecka",
-      "guid": "7d5bca1a-bc1e-44fa-bdb1-8df8bf565514",
-      "published_at": "2026-11-14T07:26:05+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/b44b9c49-6d0d-4ffb-b9a2-23c8944185a7.jpg?width=600",
-      "sv": {
-        "title": "Möte mellan Putin, Xi och Trump i nästa vecka",
-        "summary": "De tre respektive ledarna för USA, Ryssland och Kina ska mötas på torsdag, uppger Vita huset. Detta i samband med Apecmötet i kinesiska Shenzhen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Meeting between Putin, Xi and Trump next week",
-        "summary": "The leaders of the USA, Russia and China are to meet on Thursday, the White House says. This is in connection with the APEC meeting in Chinese Shenzhen."
       },
       "translation": {
         "status": "done",

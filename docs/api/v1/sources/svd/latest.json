@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T10:01:56+01:00",
+  "generated_at": "2026-11-17T10:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f4798247967c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/dJOJGq/demoskop-rodgrona-valjare-splittrade-om-vansterpartiets-ministerkrav",
+      "guid": "https://www.svd.se/a/dJOJGq/demoskop-rodgrona-valjare-splittrade-om-vansterpartiets-ministerkrav?utm_medium=rss",
+      "published_at": "2026-11-17T10:00:04+01:00",
+      "fetched_at": "2026-11-17T10:15:45+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/b57e409d-b64e-366b-8e2d-00214f57f004?format=auto&s=192db4a5eae3b87f05913c5c82eff6a0f38709ed&w=1000",
+      "sv": {
+        "title": "Varannan S-väljare: Nej till V i regering",
+        "summary": "Vänsterpartiets regeringskrav delar den rödgröna väljarkåren i två läger, visar SvD/Demoskop.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "One in two Social Democrat voters: No to the Left Party in government",
+        "summary": "The Left Party's demand to join government splits the red-green electorate into two camps, according to SvD/Demoskop."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:15:53+01:00"
+      }
+    },
     {
       "id": "1c220b85ca0b",
       "schema_version": 1,
@@ -5192,33 +5219,6 @@
       "en": {
         "title": "Nvidia plunges – then the 'dip buyers' flock",
         "summary": "Swedish retail investors rush into Nvidia as the share falls after the CEO scandal."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:56:57+01:00"
-      }
-    },
-    {
-      "id": "a2869fbd7f7f",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/qOLpB0/hybridkriget-sverige-forebild-i-krisberedskap",
-      "guid": "https://www.svd.se/a/qOLpB0/hybridkriget-sverige-forebild-i-krisberedskap?utm_medium=rss",
-      "published_at": "2026-11-13T21:59:32+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/be4e4409-b802-34a8-98e1-0dd1176be0d5?format=auto&s=d5a2bfc756ee09ca0733c6c1cc5b4bd9c51507db&w=1000",
-      "sv": {
-        "title": "”Inte rustade” – länder spanar in Sverige",
-        "summary": "Utslagna frysar och bombhotade skolor. Cyberattacker skakar länder som blickar mot Sverige som…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "'Not equipped' – countries look to Sweden",
-        "summary": "Knocked-out freezers and bomb-threatened schools. Cyberattacks shake countries that look to Sweden as…"
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-17T10:01:56+01:00",
+  "generated_at": "2026-11-17T10:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "be4cbcecf0a6",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/l-hur-kan-man-missa-att-prioritera-tillsyn-av-forskolor",
+      "guid": "a8927aed-6bde-4ea2-b696-bc4863f8d2e2",
+      "published_at": "2026-11-17T10:10:00+01:00",
+      "fetched_at": "2026-11-17T10:15:48+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "L: Hur kan man missa att prioritera tillsyn av förskolor?",
+        "summary": "Hur kan utbildningsnämnden misslyckas med att prioritera den lagstadgade tillsynen av Lunds fristående förskolor? Det undrar L-politikern Jessica Ulfgren, som också kritiserar de styrande partierna för att inte skjuta till extra pengar för tillsynen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "L: How can you fail to prioritise supervision of preschools?",
+        "summary": "How can the education board fail to prioritise the statutory supervision of Lund's independent preschools? Liberal politician Jessica Ulfgren asks the question, and also criticises the governing parties for not providing extra funds for supervision."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:15:53+01:00"
+      }
+    },
+    {
+      "id": "f4798247967c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/dJOJGq/demoskop-rodgrona-valjare-splittrade-om-vansterpartiets-ministerkrav",
+      "guid": "https://www.svd.se/a/dJOJGq/demoskop-rodgrona-valjare-splittrade-om-vansterpartiets-ministerkrav?utm_medium=rss",
+      "published_at": "2026-11-17T10:00:04+01:00",
+      "fetched_at": "2026-11-17T10:15:45+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/b57e409d-b64e-366b-8e2d-00214f57f004?format=auto&s=192db4a5eae3b87f05913c5c82eff6a0f38709ed&w=1000",
+      "sv": {
+        "title": "Varannan S-väljare: Nej till V i regering",
+        "summary": "Vänsterpartiets regeringskrav delar den rödgröna väljarkåren i två läger, visar SvD/Demoskop.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "One in two Social Democrat voters: No to the Left Party in government",
+        "summary": "The Left Party's demand to join government splits the red-green electorate into two camps, according to SvD/Demoskop."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:15:53+01:00"
+      }
+    },
     {
       "id": "685061b6ba76",
       "schema_version": 1,
@@ -5345,59 +5398,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "97f0fb7f803b",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340977",
-      "guid": "rss:sr.se/article/9340977",
-      "published_at": "2026-11-14T12:31:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Centerpartister delade mellan höger och vänster",
-        "summary": "Centerpartiet är delat i frågan om partiet ska gå högerut eller vänsterut, efter att Moderaterna och Socialdemokraterna lämnat sina regeringsförslag. I Laholm hoppas kommunstyrelsens ordförande Ove Bengtsson på en borgerlig lösning sedan SD släppt kravet på ministerposter, medan Lars Vikinge,…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Centre Party members split between right and left",
-        "summary": "The Centre Party is divided on whether the party should move to the right or the left, after the Moderates and the Social Democrats submitted their government proposals. In Laholm, municipal executive board chair Ove Bengtsson hopes for a bourgeois solution now that the SD has dropped its demand for ministerial posts, while Lars Vikinge,…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "b0b99c96a586",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/tomas-ramberg-c-behover-inte-valja-sida-nu-heller",
-      "guid": "https://www.dn.se/sverige/tomas-ramberg-c-behover-inte-valja-sida-nu-heller/",
-      "published_at": "2026-11-14T11:25:19+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/869d0cc0-2e78-44a6-a7bd-ba54ae76c1f8.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Tomas Ramberg: C behöver inte välja sida nu heller",
-        "summary": "Det är inte slut förrän det är slut. Centern kan ta god tid på sig att välja statsministerkandidat. Ingenting hindrar Elisabeth Thand Ringqvist från att dröja till den fjärde och sista omröstningen innan hon sätter ned foten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tomas Ramberg: C doesn't have to choose a side now either",
-        "summary": "It's not over until it's over. The Centre Party can take its time choosing a prime ministerial candidate. Nothing stops Elisabeth Thand Ringqvist from waiting until the fourth and final vote before she puts her foot down."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
       }
     }
   ]
