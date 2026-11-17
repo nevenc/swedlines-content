@@ -1,7 +1,144 @@
 {
-  "generated_at": "2026-11-17T17:31:12+01:00",
+  "generated_at": "2026-11-17T17:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7cf4e6826ba4",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/efter-kamphundsattacken-rebecca-tvingades-avliva-sin-hast",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/efter-kamphundsattacken-rebecca-tvingades-avliva-sin-hast",
+      "published_at": "2026-11-17T17:43:17+01:00",
+      "fetched_at": "2026-11-17T17:45:46+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Efter kamphundsattacken – Rebecca tvingades avliva sin häst",
+        "summary": "SVT träffade Rebecca Tenser och hennes häst Teeni Weenie i oktober efter den allvarliga hundattacken. Då mådde hästen bättre och framtiden såg ljus ut. Men sen förändrades allt. – Det är nog den finaste hästen jag fått äga under en alldeles för kort stund, säger Rebecca Tenser.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After the dog-attack – Rebecca was forced to put down her horse",
+        "summary": "SVT met Rebecca Tenser and her horse Teeni Weenie in October after the serious dog attack. At that time the horse was doing better and the future looked bright. But then everything changed. – It's probably the finest horse I've been allowed to own for far too short a time, says Rebecca Tenser."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:45:57+01:00"
+      }
+    },
+    {
+      "id": "771f3ad63a1c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trumps-stod-till-jensen-huang-orden-om-vackra-kineser",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-stod-till-jensen-huang-orden-om-vackra-kineser/",
+      "published_at": "2026-11-17T17:36:45+01:00",
+      "fetched_at": "2026-11-17T17:45:50+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trumps stöd till Jensen Huang – orden om ”vackra” kineser",
+        "summary": "Nvidias vd Jensen Huang tvingades avgå flera otrohetsskandaler – bland annat en med en misstänkt kinesisk spion. Donald Trump är inte övertygad. – Om en vacker kvinna kommer hit från Kina säger de att hon är spion, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump backs Jensen Huang – the comments about 'beautiful' Chinese women",
+        "summary": "Nvidia CEO Jensen Huang was forced to resign after several infidelity scandals – including one involving a suspected Chinese spy. Donald Trump is not convinced. – If a beautiful woman comes here from China, they say she's a spy, he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:45:57+01:00"
+      }
+    },
+    {
+      "id": "98617f95f9a8",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/industrivarden-tankar-volvo-for-324-miljoner",
+      "guid": "a2eb360b-2724-4d74-b89c-9e48d476ab19",
+      "published_at": "2026-11-17T17:36:07+01:00",
+      "fetched_at": "2026-11-17T17:45:51+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Industrivärden tankar Volvo för 324 miljoner",
+        "summary": "Industrivärden har på tisdagen i ett antal affärer köpt totalt 1 miljon B-aktier i Volvo.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Industrivärden buys Volvo shares for SEK 324 million",
+        "summary": "On Tuesday, Industrivärden bought a total of 1 million B shares in Volvo in a number of transactions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:45:57+01:00"
+      }
+    },
+    {
+      "id": "f04dfdf1c19c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/tydlig-nedgang-pa-borsen-alla-aktier-i-omxs30-sjonk",
+      "guid": "817786cd-4ab2-4748-bce9-328b1383f7d2",
+      "published_at": "2026-11-17T17:34:22+01:00",
+      "fetched_at": "2026-11-17T17:45:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/9e551be6-605c-4409-ba34-2d7e2f7a75af.jpeg?width=600",
+      "sv": {
+        "title": "Tydlig nedgång på börsen – alla aktier i OMXS30 sjönk",
+        "summary": "Stockholmsbörsen avslutade tisdagen i moll efter att den sura stämningen på Wall Street tyngt humöret ytterligare. På bolagsnivå tillhörde bland annat nyrapporterade Nibe dagens förlorare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Clear decline on the stock exchange – all shares in OMXS30 fell",
+        "summary": "The Stockholm stock exchange closed Tuesday in the red after the gloomy mood on Wall Street weighed further on sentiment. At company level, recently reported Nibe was among the day's biggest losers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:45:57+01:00"
+      }
+    },
+    {
+      "id": "f090e1e7606d",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/varldens-gang/jag-brukade-vara-ironisk-vastlanksanhangare.5c2fb9c5-80bc-5657-ac84-e646e6e30b7a",
+      "guid": "5c2fb9c5-80bc-5657-ac84-e646e6e30b7a",
+      "published_at": "2026-11-17T17:27:44+01:00",
+      "fetched_at": "2026-11-17T17:45:51+01:00",
+      "category": "other",
+      "feed_categories": [
+        "Världens gång",
+        "Tagg: Världens gång",
+        "Tagg: Kåseri"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/f6e4f524-078c-3273-97de-bd25dc369b38",
+      "sv": {
+        "title": "Jag brukade vara ironisk Västlänksanhängare",
+        "summary": "Men på biblioteket hör jag mig själv säga något helt annat.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "I used to be an ironic Västlänken supporter",
+        "summary": "But at the library I hear myself saying something completely different."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:45:57+01:00"
+      }
+    },
     {
       "id": "2eb9bdf20562",
       "schema_version": 1,
@@ -84,6 +221,39 @@
       }
     },
     {
+      "id": "4af81556e1c5",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/trafikverkets-forklaring-efter-dubbla-tagstopp-valdigt-smart-system.c0995a37-f6fb-582a-a7ab-976870a03f77",
+      "guid": "c0995a37-f6fb-582a-a7ab-976870a03f77",
+      "published_at": "2026-11-17T17:26:50+01:00",
+      "fetched_at": "2026-11-17T17:45:51+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: breaking-GP",
+        "Tagg: Tågstopp",
+        "Tagg: Trafikverket"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/350d8d02-c245-32c2-bb61-e3b25d0c69a7",
+      "sv": {
+        "title": "Flera tågstopp på kort tid: ”Väldigt smart system”",
+        "summary": "Därför har hundratals tågresenärer fastnat mellan Göteborg och Stockholm senaste dagarna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Several train stoppages in a short time: 'Very smart system'",
+        "summary": "This is why hundreds of train passengers have been stranded between Göteborg and Stockholm in recent days."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:45:57+01:00"
+      }
+    },
+    {
       "id": "42442b0a58d2",
       "schema_version": 1,
       "source": "expressen",
@@ -133,6 +303,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T17:31:12+01:00"
+      }
+    },
+    {
+      "id": "90c675b96743",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jamtland/centern-i-fokus-i-regeringsbildningen-sa-reagerar-c-i-ostersund",
+      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/centern-i-fokus-i-regeringsbildningen-sa-reagerar-c-i-ostersund",
+      "published_at": "2026-11-17T17:23:17+01:00",
+      "fetched_at": "2026-11-17T17:45:46+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Centern i fokus i regeringsbildningen – så reagerar C i Östersund",
+        "summary": "I 65 dagar har Sverige varit utan ny regering. I händelsernas centrum står inte minst Centerpartiet som vill se Magdalena Andersson som statsminister men som inte vill att Vänsterpartiet ska få några ministerposter.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The Centre Party in focus in government formation – how C reacts in Östersund",
+        "summary": "For 65 days Sweden has been without a new government. At the centre of events is in no small part the Centre Party, which wants to see Magdalena Andersson as prime minister but does not want the Left Party to get any ministerial posts."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:45:57+01:00"
       }
     },
     {
@@ -289,6 +485,43 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T17:15:53+01:00"
+      }
+    },
+    {
+      "id": "9bb8020d894f",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/tidiga-julklappen-regeringsfragan-har-fatt-ett-slutdatum.8f807e27-6c80-56a1-b244-ad9c2fdd8ae8",
+      "guid": "8f807e27-6c80-56a1-b244-ad9c2fdd8ae8",
+      "published_at": "2026-11-17T17:09:18+01:00",
+      "fetched_at": "2026-11-17T17:45:51+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Politik",
+        "Tagg: Ulf Kristersson",
+        "Tagg: Magdalena Andersson",
+        "Tagg: Andreas Norlén",
+        "Tagg: Val",
+        "Tagg: Jul",
+        "Tagg: Elisabeth Thand Ringqvist",
+        "Tagg: breaking-GP"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/859b0c67-558f-3824-a507-b0ad25e8657e",
+      "sv": {
+        "title": "Norléns tidiga julklapp – sätter ett slutdatum",
+        "summary": "Andreas Norlén: ”När svenska folket firar jul så ska man veta att Sverige antingen har en ny regering eller förbereder sig för extra val”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norlén's early Christmas present – sets an end date",
+        "summary": "Andreas Norlén: 'When the Swedish people celebrate Christmas, they should know that Sweden either has a new government or is preparing for snap elections'"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T17:45:57+01:00"
       }
     },
     {
@@ -5092,221 +5325,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T12:01:24+01:00"
-      }
-    },
-    {
-      "id": "f4636b793853",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/duo-begars-haktade-efter-misstankta-mordet-i-lulea",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/duo-begars-haktade-efter-misstankta-mordet-i-lulea",
-      "published_at": "2026-11-17T11:54:56+01:00",
-      "fetched_at": "2026-11-17T12:01:12+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Duo begärs häktade efter misstänkta mordet i Luleå",
-        "summary": "Två män begärs häktade efter misstänkta mordet i Luleå under fredagskvällen. En man i 70-årsåldern misstänks på sannolika skäl för mord, medan den andre mannen misstänks på samma nivå för grovt skyddande av brottsling.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Two men to be remanded in custody over suspected murder in Luleå",
-        "summary": "Two men are to be remanded in custody over the suspected murder in Luleå on Friday evening. A man in his 70s is suspected on probable cause of murder, while the other man is suspected at the same level of aggravated accessory to a crime."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:01:24+01:00"
-      }
-    },
-    {
-      "id": "68447f709d7f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/le-pen-vill-sanka-pensionsaldern",
-      "guid": "f03ebe52-e907-428c-98a3-d6e4651c1948",
-      "published_at": "2026-11-17T11:53:46+01:00",
-      "fetched_at": "2026-11-17T12:01:16+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6c0e3e46-49dc-4291-9a3f-f82924f5b34c.jpeg?width=600",
-      "sv": {
-        "title": "Le Pen vill sänka pensionsåldern",
-        "summary": "Marine Le Pen föreslår en pensionsreform där pensionsåldern i Frankrike blir mellan 60 och 62 år och att en pensionsfond på 900 miljarder euro skapas. Det meddelade hon på en presskonferens, rapporterar Le Figaro.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Le Pen wants to lower the retirement age",
-        "summary": "Marine Le Pen proposes a pension reform under which the retirement age in France would be between 60 and 62, and a pension fund of EUR 900 billion would be created. She announced this at a press conference, reports Le Figaro."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:01:24+01:00"
-      }
-    },
-    {
-      "id": "452ff2dcc6c6",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/z0G8xv/attacken-pa-krimbron-otroligt-genant-for-putin",
-      "guid": "https://www.svd.se/a/z0G8xv/attacken-pa-krimbron-otroligt-genant-for-putin?utm_medium=rss",
-      "published_at": "2026-11-17T11:51:13+01:00",
-      "fetched_at": "2026-11-17T12:01:14+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/88b4e80c-dce7-31f1-a67a-89bf52f582ea?format=auto&s=ca2e8e21e0d238240e2593aac7658cf6a198944b&w=1000",
-      "sv": {
-        "title": "Attacken på Krimbron ”otroligt genant” för Putin",
-        "summary": "Att Ukraina har anfallit Krimbron, och vad det verkar lyckats slå ut den, är ”otroligt genant” för…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Attack on Crimean Bridge \"incredibly embarrassing\" for Putin",
-        "summary": "That Ukraine has attacked the Crimean Bridge, and what it appears to have knocked out, is \"incredibly embarrassing\" for…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:01:24+01:00"
-      }
-    },
-    {
-      "id": "2f15ca25abd4",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/tt-261117-ukrainabroanalys1-25b7d6ef/attacken-pa-krimbron-otroligt-genant-for-putin",
-      "guid": "tt-261117-ukrainabroanalys1-25b7d6ef",
-      "published_at": "2026-11-17T11:51:11+01:00",
-      "fetched_at": "2026-11-17T13:31:05+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "Experten: Attacken på Krimbron ”otroligt genant” för Putin",
-        "summary": "Krimbron är det ryska prestigebygge som förbinder den annekterade halvön med Ryssland. Ukraina har flera gånger tidigare försökt att slå ut bron, med syftet att isolera Krim. Den strategiska vinsten är inte längre lika stor, eftersom man också når halvön landvägen över ockuperad mark i Donbass.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Expert: Attack on Crimea bridge 'incredibly embarrassing' for Putin",
-        "summary": "The Crimea bridge is the Russian prestige project that connects the annexed peninsula with Russia. Ukraine has several times previously tried to knock out the bridge, with the aim of isolating Crimea. The strategic gain is no longer as large, since the peninsula can also be reached by land across occupied territory in Donbas."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:31:17+01:00"
-      }
-    },
-    {
-      "id": "9b9f3795c8cb",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/JnoB7j/attacken-pa-krimbron-otroligt-genant-for-putin",
-      "guid": "https://www.aftonbladet.se/nyheter/a/JnoB7j/attacken-pa-krimbron-otroligt-genant-for-putin?utm_medium=rss",
-      "published_at": "2026-11-17T11:51:11+01:00",
-      "fetched_at": "2026-11-17T12:01:15+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/88b4e80c-dce7-31f1-a67a-89bf52f582ea?format=auto&s=ca2e8e21e0d238240e2593aac7658cf6a198944b&w=1000",
-      "sv": {
-        "title": "Attacken på Krimbron ”otroligt genant” för Putin",
-        "summary": "Att Ukraina har anfallit Krimbron, och vad det verkar lyckats slå ut den, är ”otroligt genant” för…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Attack on Crimean Bridge \"incredibly embarrassing\" for Putin",
-        "summary": "That Ukraine has attacked the Crimean Bridge, and what it appears to have knocked out, is \"incredibly embarrassing\" for…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:01:24+01:00"
-      }
-    },
-    {
-      "id": "c81eaa5ab38b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/bert-sundstrom-svt-ar-klart-hoger",
-      "guid": "https://www.expressen.se/nyheter/sverige/bert-sundstrom-svt-ar-klart-hoger/",
-      "published_at": "2026-11-17T11:50:02+01:00",
-      "fetched_at": "2026-11-17T12:01:15+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Bert Sundström: SVT är klart höger",
-        "summary": "Profilen Bert Sundström lämnar SVT efter 36 år. På tisdagen chattade han med tittare och läsare – och slog fast att SVT ”kanske var vänster på 60-talet”, men: ”I mina ögon är SVT klart höger”, skriver han vidare.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bert Sundström: SVT is clearly right-wing",
-        "summary": "Public figure Bert Sundström is leaving SVT after 36 years. On Tuesday he chatted with viewers and readers – and stated that SVT \"may have been left-wing in the 60s\", but: \"In my eyes SVT is clearly right-wing\", he writes further."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:01:24+01:00"
-      }
-    },
-    {
-      "id": "ed00e0eba334",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/rasmus-giertz-framtid-osaker-i-frysboxen",
-      "guid": "https://www.dn.se/sverige/rasmus-giertz-framtid-osaker-i-frysboxen/",
-      "published_at": "2026-11-17T11:49:27+01:00",
-      "fetched_at": "2026-11-17T12:01:13+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/db42ece1-6c24-42bf-9e79-b257ccdc9cd0.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Rasmus Giertz framtid osäker: ”I frysboxen”",
-        "summary": "Rasmus Giertz skulle lämna riksdagen – men ändrade sig. Nu utreder SD om han ska uteslutas. Under tiden sitter han kvar på partiets mandat. ”Kort sagt befinner han sig i frysboxen”, skriver SD:s presschef Oskar Cavalli-Björkman.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Rasmus Giertz's future uncertain: \"In the freezer\"",
-        "summary": "Rasmus Giertz was to leave the Riksdag – but changed his mind. Now the Sweden Democrats are investigating whether he should be expelled. In the meantime he remains in the party's seat. \"In short, he is in the freezer\", writes SD press chief Oskar Cavalli-Björkman."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:01:24+01:00"
-      }
-    },
-    {
-      "id": "098a6de357be",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/ARdp0q/radhusbrand-i-sodertalje",
-      "guid": "https://www.aftonbladet.se/nyheter/a/ARdp0q/radhusbrand-i-sodertalje?utm_medium=rss",
-      "published_at": "2026-11-17T11:49:03+01:00",
-      "fetched_at": "2026-11-17T13:31:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Radhuslänga brinner i Södertälje",
-        "summary": "Branden är fullt utvecklad och det är kraftig rökutveckling.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Row-house block on fire in Södertälje",
-        "summary": "The fire is fully developed and there is heavy smoke."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:31:17+01:00"
       }
     }
   ]
