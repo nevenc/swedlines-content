@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-17T14:45:49+01:00",
+  "generated_at": "2026-11-17T15:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "029b74ec3af1",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/kristersson-vill-vanta-med-statsministeromrostning",
+      "guid": "0e0f5363-e128-4992-bd15-ce6324e4e903",
+      "published_at": "2026-11-17T15:00:42+01:00",
+      "fetched_at": "2026-11-17T15:01:23+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/abe716a3-a7df-47db-946c-0eaf6944758d.jpg?width=600",
+      "sv": {
+        "title": "Kristersson vill vänta med statsministeromröstning",
+        "summary": "M-ledaren Ulf Kristersson anser att det behövs ytterligare några dagar innan en statsministeromröstning kan äga rum.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson wants to wait with prime minister vote",
+        "summary": "Moderates leader Ulf Kristersson (M) believes a few more days are needed before a prime minister vote can take place."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:01:28+01:00"
+      }
+    },
+    {
+      "id": "f0c4dc9dde75",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/kokain-i-kalsongerna-nu-vill-polisen-ta-malmobons-pengar",
+      "guid": "146fc84e-f0e2-47d5-a9cf-8948c1afe352",
+      "published_at": "2026-11-17T15:00:00+01:00",
+      "fetched_at": "2026-11-17T15:01:23+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/fe908ca4-578f-4614-a7ef-30849f297e4a.jpeg?width=600",
+      "sv": {
+        "title": "Kokain i kalsongerna – nu vill polisen ta Malmöbons pengar",
+        "summary": "Kontanter i garderoben, 200 000 kronor på sparkontot och mängder av falska märkeskläder. Polisen började granska en ung Malmöbos ekonomi sedan han gripits med kokain i kalsongerna. Nu vill de ta hans pengar. De falska märkeskläderna får han behålla.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Cocaine in his underwear – now police want Malmö man's money",
+        "summary": "Cash in the wardrobe, SEK 200,000 in a savings account and large quantities of counterfeit designer clothing. Police began examining the finances of a young Malmö man after he was arrested with cocaine in his underwear. Now they want his money. He is allowed to keep the counterfeit designer clothes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:01:28+01:00"
+      }
+    },
+    {
+      "id": "600c74444725",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/47-aring-ny-agare-tar-over-villa",
+      "guid": "6eba6a58-cbd7-47fd-a02f-fddf3f40ca43",
+      "published_at": "2026-11-17T14:52:47+01:00",
+      "fetched_at": "2026-11-17T15:01:23+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "47-åring ny ägare tar över villa"
+      },
+      "en": {
+        "title": "47-year-old new owner takes over villa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:01:28+01:00"
+      }
+    },
     {
       "id": "a34675445494",
       "schema_version": 1,
@@ -5176,87 +5253,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:58:32+01:00"
-      }
-    },
-    {
-      "id": "b651a03d26c3",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/larm-om-bilbrand-emporia-utryms",
-      "guid": "b29698d3-4788-4b6c-8dfb-6666a1c70579",
-      "published_at": "2026-11-14T16:58:42+01:00",
-      "fetched_at": "2026-11-14T17:07:34+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/7f4c5d31-3f56-4eb6-adf0-f57aa84b670a.jpeg?width=600",
-      "sv": {
-        "title": "Branden i Emporiagaraget släckt – utrymningen avbryts",
-        "summary": "Polis och räddningstjänst är fortfarande på plats vid Emporia efter att en bil fattat eld inne i garaget. Branden är nu släckt och människor släpps återigen in i köpcentrat efter den tidigare utrymningen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fire in the Emporia garage extinguished – evacuation called off",
-        "summary": "Police and the rescue service are still on site at Emporia after a car caught fire inside the garage. The fire is now out and people are being let back into the shopping centre following the earlier evacuation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:32+01:00"
-      }
-    },
-    {
-      "id": "e3e9c070957b",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/forsmarkstopp-kan-ge-dubbel-effekt-pa-elpriset",
-      "guid": "6e400b78-60da-435e-9d91-8e247d4cc38b",
-      "published_at": "2026-11-14T16:43:33+01:00",
-      "fetched_at": "2026-11-14T17:07:34+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/d852bd47-e0bf-4b34-8d9f-fcba275b3a56.jpg?width=600",
-      "sv": {
-        "title": "Forsmarkstopp – kan ge ”dubbel effekt” på elpriset",
-        "summary": "Kärnkraftsreaktorn Forsmark 3 har stoppats helt. Nu kan redan höga elpriser stiga ytterligare i nästa vecka. – Stoppet får stora konsekvenser för elpriset i södra Sverige framför allt, säger elmarknadsanalytikern Christian Holtz.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Forsmark shutdown – may have a \"double effect\" on electricity prices",
-        "summary": "The Forsmark 3 nuclear reactor has been shut down completely. Now already high electricity prices may rise further next week. \"The shutdown will have major consequences for electricity prices in southern Sweden above all,\" says electricity market analyst Christian Holtz."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:32+01:00"
-      }
-    },
-    {
-      "id": "138a4227afa8",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/designerns-jultips-gor-julklappar-av-det-som-finns-i-ladorna-hemma",
-      "guid": "4dcf1545-f67e-4c18-951c-488053fe745a",
-      "published_at": "2026-11-14T16:30:00+01:00",
-      "fetched_at": "2026-11-14T17:07:34+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/433e64f6-5051-4685-a712-37b6a54f939d.jpeg?width=600",
-      "sv": {
-        "title": "Designerns jultips: gör julklappar av det som finns i lådorna hemma",
-        "summary": "Malmös satsning på en jul med återbruk har dragit igång. Designern Helle Robertson är en av deltagarna i årets program för Re:jul. Hennes råd inför julen: ge bort julklappar som är saker du redan har hemma.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Designer's Christmas tip: make gifts from what's in your drawers at home",
-        "summary": "Malmö's push for a reuse-based Christmas has begun. Designer Helle Robertson is one of the participants in this year's Re:jul programme. Her advice for Christmas: give gifts that are things you already have at home."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:49+01:00"
       }
     }
   ]

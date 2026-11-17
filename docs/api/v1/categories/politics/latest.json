@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T14:45:49+01:00",
+  "generated_at": "2026-11-17T15:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "029b74ec3af1",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/kristersson-vill-vanta-med-statsministeromrostning",
+      "guid": "0e0f5363-e128-4992-bd15-ce6324e4e903",
+      "published_at": "2026-11-17T15:00:42+01:00",
+      "fetched_at": "2026-11-17T15:01:23+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/abe716a3-a7df-47db-946c-0eaf6944758d.jpg?width=600",
+      "sv": {
+        "title": "Kristersson vill vänta med statsministeromröstning",
+        "summary": "M-ledaren Ulf Kristersson anser att det behövs ytterligare några dagar innan en statsministeromröstning kan äga rum.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson wants to wait with prime minister vote",
+        "summary": "Moderates leader Ulf Kristersson (M) believes a few more days are needed before a prime minister vote can take place."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:01:28+01:00"
+      }
+    },
     {
       "id": "c5689aaec29c",
       "schema_version": 1,
@@ -5354,33 +5381,6 @@
       "en": {
         "title": "\"Now the Social Democrats are bringing out the heavy artillery\"",
         "summary": "Several Social Democratic moves on the government question have come during Saturday. Ekot's domestic politics commentator, Helena Gissén, says the Social Democrats are now bringing out the heavy artillery and leaking various points from their offer to the Centre Party."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:32+01:00"
-      }
-    },
-    {
-      "id": "562f4a38c307",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/s-mp-och-c-vill-riva-upp-tidos-regler-for-arbetskraftsinvandring",
-      "guid": "https://www.dn.se/sverige/s-mp-och-c-vill-riva-upp-tidos-regler-for-arbetskraftsinvandring/",
-      "published_at": "2026-11-14T16:59:45+01:00",
-      "fetched_at": "2026-11-14T17:07:30+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/41658993-144a-44c1-b8f7-eda1444c0576.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "S, MP och C vill riva upp Tidös regler för arbetskraftsinvandring",
-        "summary": "S, C och MP har kommit överens om flera punkter för att bilda en gemensam regering, erfar DN. Totalt handlar det om sju samarbetsprojekt. Partierna är bland annat överens om att riva upp Tidöpartiernas regler för arbetskraftsinvandring.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "S, MP and C want to scrap the Tidö rules on work permit immigration",
-        "summary": "The Social Democrats, the Centre Party and the Green Party have agreed on several points to form a joint government, DN has learned. In total there are seven cooperation projects. The parties agree, among other things, to scrap the Tidö Parties' rules on labour migration."
       },
       "translation": {
         "status": "done",

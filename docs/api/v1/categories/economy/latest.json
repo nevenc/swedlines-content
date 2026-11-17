@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-17T14:45:49+01:00",
+  "generated_at": "2026-11-17T15:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "600c74444725",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/47-aring-ny-agare-tar-over-villa",
+      "guid": "6eba6a58-cbd7-47fd-a02f-fddf3f40ca43",
+      "published_at": "2026-11-17T14:52:47+01:00",
+      "fetched_at": "2026-11-17T15:01:23+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "47-åring ny ägare tar över villa"
+      },
+      "en": {
+        "title": "47-year-old new owner takes over villa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:01:28+01:00"
+      }
+    },
     {
       "id": "b1c3d86cddd1",
       "schema_version": 1,
@@ -27,6 +50,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T14:45:49+01:00"
+      }
+    },
+    {
+      "id": "e77c8781f155",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/debatt/politiken-hindrar-smaforetagen-att-vaxa",
+      "guid": "3d86612e-5ea7-4892-a15e-cef90ab9fb88",
+      "published_at": "2026-11-17T14:40:32+01:00",
+      "fetched_at": "2026-11-17T15:01:23+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/bf2e1ead-ef53-4fcd-966a-5e8f5c1e2ce8.jpeg?width=600",
+      "sv": {
+        "title": "Politiken hindrar småföretagen att växa",
+        "summary": "När Sverige får en ny regering måste regelförenklingar för småföretagen bli en prioriterad tillväxtfråga, skriver Charlotte von Sydow, vd för Spiris.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Politics is holding back small businesses from growing",
+        "summary": "When Sweden gets a new government, simplification of rules for small businesses must become a priority growth issue, writes Charlotte von Sydow, CEO of Spiris."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:01:28+01:00"
       }
     },
     {
@@ -1120,6 +1170,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T11:45:46+01:00"
+      }
+    },
+    {
+      "id": "77f47d47f5f1",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1jF4Tc7kIhqAP5ZFITT7MH/allt-dyrare-att-driva-ridskola-vi-aer-absolut-oroliga",
+      "guid": "1jF4Tc7kIhqAP5ZFITT7MH",
+      "published_at": "2026-11-17T11:34:12+01:00",
+      "fetched_at": "2026-11-17T15:01:22+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Sport"
+      ],
+      "sv": {
+        "title": "Allt dyrare att driva ridskola: ”Vi är absolut oroliga”",
+        "summary": "Kraftigt ökade kostnader pressar landets ridskolor. När ridavgifterna och ridlektionerna blir dyrare riskerar fler barn att inte längre ha råd att rida. Enligt Svenska Ridsportförbundet har avgifterna för barn och unga ökat med 29 procent sedan 2020.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Running a riding school is getting more expensive: \"We are absolutely worried\"",
+        "summary": "Sharply rising costs are putting pressure on the country's riding schools. As riding fees and riding lessons become more expensive, more children risk no longer being able to afford to ride. According to the Swedish Equestrian Federation, fees for children and young people have risen by 29 percent since 2020."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:01:28+01:00"
       }
     },
     {
@@ -5188,86 +5267,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T17:31:20+01:00"
-      }
-    },
-    {
-      "id": "58e3c12f6857",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9343573",
-      "guid": "rss:sr.se/article/9343573",
-      "published_at": "2026-11-16T17:03:00+01:00",
-      "fetched_at": "2026-11-16T17:15:40+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Trots rekordkylan ovanligt lite kärnkraft igång",
-        "summary": "Sen i helgen är nu bara en tredjedel av de svenska kärnkraftsreaktorerna i drift. Bortfallet av kärnkraftsel är stort för att vara under den kalla perioden på året.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Despite record cold, unusually little nuclear power running",
-        "summary": "As of the weekend, only a third of Sweden's nuclear reactors are now in operation. The loss of nuclear power is large for the cold period of the year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T17:15:50+01:00"
-      }
-    },
-    {
-      "id": "33b8a53b9548",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/foretagarna-rasar-mot-c-beslutet-slag-i-magen",
-      "guid": "ebcf1b0b-d848-4f1f-809a-f3fad9bd4b7b",
-      "published_at": "2026-11-16T16:53:14+01:00",
-      "fetched_at": "2026-11-16T17:01:14+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/ab0c343a-1b6a-4585-a2e8-1c33f3e25ef7.jpeg?width=600",
-      "sv": {
-        "title": "Företagarna rasar mot C-beslutet: ”Slag i magen”",
-        "summary": "Socialdemokraternas ”totalpaket” får skarp kritik från Företagarna. Nu stiger förväntningarna på att C ska ta ”bra betalt” och förhandla bort förslag som slopat karensavdrag.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Business leaders fume at C decision: \"Blow to the gut\"",
-        "summary": "The Social Democrats' \"total package\" draws sharp criticism from Företagarna. Expectations are now rising that the Centre Party will get a \"good price\" and negotiate away proposals that abolish the sick-pay waiting day."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T17:01:20+01:00"
-      }
-    },
-    {
-      "id": "8368021acc71",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/kanadas-centralbankschef-slutar-i-sommar",
-      "guid": "b4c6e435-7c86-473e-9db8-711b5b766887",
-      "published_at": "2026-11-16T16:44:40+01:00",
-      "fetched_at": "2026-11-16T16:54:16+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/bd4178c2-fa1d-409d-99d7-143e3e01c835.jpeg?width=600",
-      "sv": {
-        "title": "Kanadas centralbankschef slutar i sommar",
-        "summary": "Tiff Macklem, chef för Bank of Canada, har informerat styrelsen om att han inte kommer att söka en andra mandatperiod när hans sjuåriga förordnande löper ut den 2 juni 2027.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Canada's central bank governor to leave this summer",
-        "summary": "Tiff Macklem, governor of the Bank of Canada, has informed the board that he will not seek a second term when his seven-year appointment expires on 2 June 2027."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:54:22+01:00"
       }
     }
   ]
