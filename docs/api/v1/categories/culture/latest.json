@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-17T08:45:46+01:00",
+  "generated_at": "2026-11-17T09:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e6ccc7750c2f",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6oegoJLxZCAlvSr1fgY10Z/koettfaerslimpa-med-rostade-rotfrukter-och-graeddsas",
+      "guid": "6oegoJLxZCAlvSr1fgY10Z",
+      "published_at": "2026-11-17T08:58:38+01:00",
+      "fetched_at": "2026-11-17T09:01:14+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Mat"
+      ],
+      "sv": {
+        "title": "Köttfärslimpa med rostade rotfrukter och gräddsås",
+        "summary": "Dagens middagstips bjuder på saftig köttfärslimpa, härligt rostade rotfrukter och en len gräddsås. En lättlagad och komplett middag med välbekanta smaker som hela familjen gillar. Se Zeina Mourtadas recept",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Meatloaf with roasted root vegetables and cream sauce",
+        "summary": "Today's dinner tip features juicy meatloaf, nicely roasted root vegetables and a smooth cream sauce. An easy-to-make, complete dinner with familiar flavours the whole family likes. See Zeina Mourtada's recipe"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T09:01:23+01:00"
+      }
+    },
+    {
+      "id": "db47fd0d0a98",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/bert-sundstrom-slutar-pa-svt",
+      "guid": "https://www.expressen.se/nyheter/sverige/bert-sundstrom-slutar-pa-svt/",
+      "published_at": "2026-11-17T08:51:44+01:00",
+      "fetched_at": "2026-11-17T09:01:14+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Bert Sundström slutar på SVT",
+        "summary": "Tidigare Rysslandskorrespondenten Bert Sundström, 67, slutar på SVT efter 36 år. Det skriver SVT Nyheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bert Sundström leaves SVT",
+        "summary": "Former Russia correspondent Bert Sundström, 67, is leaving SVT after 36 years. SVT Nyheter reports this."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T09:01:23+01:00"
+      }
+    },
     {
       "id": "6f4583a793fb",
       "schema_version": 1,
@@ -5552,60 +5607,6 @@
       "en": {
         "title": "Daniel Kehlmann: 'The genius saw that I was panicking'",
         "summary": "The first time Daniel Kehlmann met Tom Stoppard he was struck dumb by performance anxiety. Then they became friends and it turned out there were connections between their Jewish family histories. Now the German author comes to Stockholm to pay tribute to his late colleague."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "457ffc47ca6e",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/fartig-spanningshojare-om-en-spektakular-bankstot",
-      "guid": "https://www.dn.se/kultur/fartig-spanningshojare-om-en-spektakular-bankstot/",
-      "published_at": "2026-11-13T10:29:54+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/02bf4d11-c05a-471c-8352-9cc6a93198c8.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Fartig spänningshöjare om en spektakulär bankstöt",
-        "summary": "En fiffig bankrånare och en McDonalds-älskande snut drabbar samma i en laddad serie om en stöt i Schweiz och som för ut antagonisterna i en vild tripp över Europa. En lätt daterad men underhållande historia, skriver Fredrik Sahlin.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Pacy thriller about a spectacular bank heist",
-        "summary": "A cunning bank robber and a McDonald's-loving cop clash in a charged series about a heist in Switzerland that takes the antagonists on a wild trip across Europe. A slightly dated but entertaining story, writes Fredrik Sahlin."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "22cae71e2dc7",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/farah-abadi-ersatter-david-druid-sjalvklart",
-      "guid": "https://www.dn.se/kultur/farah-abadi-ersatter-david-druid-sjalvklart/",
-      "published_at": "2026-11-13T10:11:58+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/e78545d2-6ce5-469f-bd79-efaa87227886.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Farah Abadi ersätter David Druid: ”Självklart”",
-        "summary": "Farah Abadi gör sin femte omgång av ”Musikhjälpen”. Med kort varsel ersätter hon David Druid efter hans uppmärksammade avhopp. – Det var självklart för mig att säga ja, säger hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Farah Abadi replaces David Druid: 'Obvious'",
-        "summary": "Farah Abadi is doing her fifth round of 'Musikhjälpen'. At short notice she replaces David Druid after his much-discussed departure. – It was obvious for me to say yes, she says."
       },
       "translation": {
         "status": "done",
