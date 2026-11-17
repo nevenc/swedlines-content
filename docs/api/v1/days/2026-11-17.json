@@ -1,7 +1,115 @@
 {
-  "generated_at": "2026-11-17T19:31:23+01:00",
-  "count": 563,
+  "generated_at": "2026-11-17T19:45:55+01:00",
+  "count": 568,
   "items": [
+    {
+      "id": "65a2647849e9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/statsvetaren-de-gynnas-mest-av-talmannens-drag",
+      "guid": "https://www.expressen.se/nyheter/politik/statsvetaren-de-gynnas-mest-av-talmannens-drag/",
+      "published_at": "2026-11-17T19:41:27+01:00",
+      "fetched_at": "2026-11-17T19:45:48+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Statsvetaren: De gynnas mest av talmannens drag",
+        "summary": "Det blir ingen tredje statsministeromröstning i närtid. I stället ger talmannen partierna ”en veckas anstånd” för fortsatta förhandlingar. Beskedet gynnar de rödgröna mest, menar statsvetaren Andreas Johansson Heinö. – Det är uppenbart att mycket återstår där. Jag tror att de behöver mest tid.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Political scientist: The speaker's move benefits them most",
+        "summary": "There will be no third prime minister vote in the near future. Instead, the speaker gives the parties \"one week's respite\" for continued negotiations. The news benefits the red-greens most, says political scientist Andreas Johansson Heinö. \"It is clear that much remains there. I think they need the most time.\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:45:54+01:00"
+      }
+    },
+    {
+      "id": "5d35f1e22e10",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/grevens-miss-blandade-ihop-von-blixen-med-frun",
+      "guid": "https://www.expressen.se/nyheter/sverige/grevens-miss-blandade-ihop-von-blixen-med-frun/",
+      "published_at": "2026-11-17T19:38:43+01:00",
+      "fetched_at": "2026-11-17T19:45:48+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Grevens miss: Blandade ihop von Blixen med frun",
+        "summary": "Greven blandade ihop hovdamen Kirstine von Blixen-Finecke – med sin döda hustru. Det säger Axel Calissendorff, grevens sista advokat, i rätten. – Några gånger sa han ”Alice” när han talade med Kinne, berättar han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Count's slip: Confused von Blixen with his wife",
+        "summary": "The count confused lady-in-waiting Kirstine von Blixen-Finecke with his late wife. This is what Axel Calissendorff, the count's last lawyer, says in court. \"A few times he said 'Alice' when he spoke with Kinne, he recounts.\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:45:54+01:00"
+      }
+    },
+    {
+      "id": "4bec76d2b051",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/space-x-stiger-mot-strommen",
+      "guid": "f61057dc-478e-4b59-987d-797a0d254e91",
+      "published_at": "2026-11-17T19:35:28+01:00",
+      "fetched_at": "2026-11-17T19:45:49+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e022ade0-5931-4e20-aee5-98cf5a6fea51.jpeg?width=600",
+      "sv": {
+        "title": "Space X stiger mot strömmen",
+        "summary": "Rymdbolaget Space X stiger i spåren av att Bloomberg rapporterat att en del av bolagets planerade obligationer för att finansiera AI-chip kan komma att säljas den här veckan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Space X swims against the tide",
+        "summary": "Space X shares rise after Bloomberg reported that some of the company's planned bonds to finance AI chips may be sold this week."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:45:54+01:00"
+      }
+    },
+    {
+      "id": "d6cebb17b0cf",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/wF6xjN0jccQ6x0Gak0RpL/sagar-storbanken-efter-broed-och-salt-affaeren-en-haerdsmaelta",
+      "guid": "wF6xjN0jccQ6x0Gak0RpL",
+      "published_at": "2026-11-17T19:34:50+01:00",
+      "fetched_at": "2026-11-17T19:45:48+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Sågar storbanken efter Bröd och Salt-affären: ”En härdsmälta”",
+        "summary": "2022 köpte Bröd och Salt ett bolag med ett attraktivt hyreskontrakt i centrala Stockholm för sex miljoner kronor. Säljaren, ett kebabföretag, hade misskött sin bokföring.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Slams major bank over Bröd och Salt affair: \"A meltdown\"",
+        "summary": "In 2022, Bröd och Salt bought a company with an attractive lease in central Stockholm for SEK 6 million. The seller, a kebab company, had mismanaged its bookkeeping."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:45:54+01:00"
+      }
+    },
     {
       "id": "154ddb3dac0a",
       "schema_version": 1,
@@ -315,6 +423,38 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T19:31:23+01:00"
+      }
+    },
+    {
+      "id": "c4f0d8f05fd9",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/hit-reser-svenskarna-under-jul-och-nyar-ny-etta-i-goteborg.e7ad997e-0baa-515c-b836-a5b7382f593a",
+      "guid": "e7ad997e-0baa-515c-b836-a5b7382f593a",
+      "published_at": "2026-11-17T19:15:04+01:00",
+      "fetched_at": "2026-11-17T19:45:50+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Resor",
+        "Tagg: Högtider"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/caca0c5c-4d3d-3206-979f-b24409004443",
+      "sv": {
+        "title": "Hit reser svenskarna under jul och nyår",
+        "summary": "Svenskar är beredda att åka längre bort i jakt på sol och bad under julledigheten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Where Swedes travel over Christmas and New Year",
+        "summary": "Swedes are willing to travel farther away in search of sun and bathing during the Christmas holiday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:45:54+01:00"
       }
     },
     {

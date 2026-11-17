@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T19:31:23+01:00",
+  "generated_at": "2026-11-17T19:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "65a2647849e9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/statsvetaren-de-gynnas-mest-av-talmannens-drag",
+      "guid": "https://www.expressen.se/nyheter/politik/statsvetaren-de-gynnas-mest-av-talmannens-drag/",
+      "published_at": "2026-11-17T19:41:27+01:00",
+      "fetched_at": "2026-11-17T19:45:48+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Statsvetaren: De gynnas mest av talmannens drag",
+        "summary": "Det blir ingen tredje statsministeromröstning i närtid. I stället ger talmannen partierna ”en veckas anstånd” för fortsatta förhandlingar. Beskedet gynnar de rödgröna mest, menar statsvetaren Andreas Johansson Heinö. – Det är uppenbart att mycket återstår där. Jag tror att de behöver mest tid.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Political scientist: The speaker's move benefits them most",
+        "summary": "There will be no third prime minister vote in the near future. Instead, the speaker gives the parties \"one week's respite\" for continued negotiations. The news benefits the red-greens most, says political scientist Andreas Johansson Heinö. \"It is clear that much remains there. I think they need the most time.\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:45:54+01:00"
+      }
+    },
     {
       "id": "a611931ba2dd",
       "schema_version": 1,
@@ -5366,33 +5392,6 @@
       "en": {
         "title": "Election Direct: Everything you need to know about the 2026 election",
         "summary": "Now it is decided who will govern Sweden. Follow the latest here:"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T13:31:07+01:00"
-      }
-    },
-    {
-      "id": "6214e9dd0947",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/qOLP81/uppgift-centertoppar-mots-om-regeringsfragan",
-      "guid": "https://www.svd.se/a/qOLP81/uppgift-centertoppar-mots-om-regeringsfragan?utm_medium=rss",
-      "published_at": "2026-11-15T12:28:09+01:00",
-      "fetched_at": "2026-11-15T13:30:54+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/40ef3d4d-ae71-34c5-9f65-9a6d197ad013?format=auto&s=1303d3c809b4bee3b7242e35d5d6de9b7760163a&w=1000",
-      "sv": {
-        "title": "Uppgift: Centertoppar möts om regeringsfrågan",
-        "summary": "Centerpartiets partistyrelse och riksdagsgrupp har kallats till möte på söndagen för att fatta…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Report: Centre leaders to meet over government question",
-        "summary": "The Centre Party's party board and parliamentary group have been called to a meeting on Sunday to decide…"
       },
       "translation": {
         "status": "done",

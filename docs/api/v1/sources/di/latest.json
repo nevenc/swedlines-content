@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T19:31:23+01:00",
+  "generated_at": "2026-11-17T19:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4bec76d2b051",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/space-x-stiger-mot-strommen",
+      "guid": "f61057dc-478e-4b59-987d-797a0d254e91",
+      "published_at": "2026-11-17T19:35:28+01:00",
+      "fetched_at": "2026-11-17T19:45:49+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e022ade0-5931-4e20-aee5-98cf5a6fea51.jpeg?width=600",
+      "sv": {
+        "title": "Space X stiger mot strömmen",
+        "summary": "Rymdbolaget Space X stiger i spåren av att Bloomberg rapporterat att en del av bolagets planerade obligationer för att finansiera AI-chip kan komma att säljas den här veckan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Space X swims against the tide",
+        "summary": "Space X shares rise after Bloomberg reported that some of the company's planned bonds to finance AI chips may be sold this week."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:45:54+01:00"
+      }
+    },
     {
       "id": "7d39b896ab90",
       "schema_version": 1,
@@ -5295,33 +5322,6 @@
       "en": {
         "title": "AI jitters continue on red Wall Street",
         "summary": "AI companies fell sharply on Wall Street on Friday. On Monday it is the same story as US exchanges open in the red. “Sentiment is too fragile right now”, says IG chief strategist Chris Beauchamp to Reuters."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:40:28+01:00"
-      }
-    },
-    {
-      "id": "eb9b1dc92118",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/elisabeth-thand-ringqvist-da-gar-vi-fran-bordet",
-      "guid": "496fb4cf-c951-4cd6-8308-6a91e8067977",
-      "published_at": "2026-11-16T15:29:58+01:00",
-      "fetched_at": "2026-11-16T15:40:23+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/2fb7e793-6a06-48b1-b33e-95c861b5e6dd.jpeg?width=600",
-      "sv": {
-        "title": "Elisabeth Thand Ringqvist: ”Då går vi från bordet”",
-        "summary": "Centerpartiet står bakom Magdalena Andersson – men vägrar att släppa in Vänsterpartiet i regeringen. I en intervju med Di berättar Elisabeth Thand Ringqvist om: • Varför hon valde Socialdemokraternas totalpaket – och inte Moderaternas.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Elisabeth Thand Ringqvist: “Then we walk away from the table”",
-        "summary": "The Centre Party stands behind Magdalena Andersson – but refuses to let the Left Party into the government. In an interview with Di, Elisabeth Thand Ringqvist explains: • Why she chose the Social Democrats' complete package – and not the Moderates'."
       },
       "translation": {
         "status": "done",

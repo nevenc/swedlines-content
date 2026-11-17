@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-17T19:31:23+01:00",
+  "generated_at": "2026-11-17T19:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c4f0d8f05fd9",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/hit-reser-svenskarna-under-jul-och-nyar-ny-etta-i-goteborg.e7ad997e-0baa-515c-b836-a5b7382f593a",
+      "guid": "e7ad997e-0baa-515c-b836-a5b7382f593a",
+      "published_at": "2026-11-17T19:15:04+01:00",
+      "fetched_at": "2026-11-17T19:45:50+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Resor",
+        "Tagg: Högtider"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/caca0c5c-4d3d-3206-979f-b24409004443",
+      "sv": {
+        "title": "Hit reser svenskarna under jul och nyår",
+        "summary": "Svenskar är beredda att åka längre bort i jakt på sol och bad under julledigheten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Where Swedes travel over Christmas and New Year",
+        "summary": "Swedes are willing to travel farther away in search of sun and bathing during the Christmas holiday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:45:54+01:00"
+      }
+    },
     {
       "id": "ff7119b92474",
       "schema_version": 1,
@@ -5627,33 +5659,6 @@
       "en": {
         "title": "Isn't it about time bragging on social media became embarrassing again?",
         "summary": "Self-promotion is often defended as liberation from the Law of Jante. But the alternative is not to trumpet one's greatness before an audience, writes Nanna Gillberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:52+01:00"
-      }
-    },
-    {
-      "id": "21be3bed4ced",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/sallan-har-trumps-rovarplaner-pa-gronland-framstatt-som-sa-naiva",
-      "guid": "55d39322-faba-44e3-905d-f452c28620d3",
-      "published_at": "2026-11-14T07:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/478a003f-09ea-4b5f-81f8-02e49741c0fb.jpeg?width=600",
-      "sv": {
-        "title": "Sällan har Trumps rövarplaner på Grönland framstått som så naiva",
-        "summary": "Att den stora ön i norr inte går att köpa blir tydligt i en ny stor utställning i Köpenhamn. Unga grönländska konstnärer bearbetar ursinnigt spåren efter den danska kolonialmaktens förtryck, skriver Carolina Söderholm.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump's plans to grab Greenland have rarely looked so naive",
-        "summary": "That the large island in the north cannot be bought becomes clear in a new major exhibition in Copenhagen. Young Greenlandic artists furiously work through the traces of Danish colonial oppression, writes Carolina Söderholm."
       },
       "translation": {
         "status": "done",
