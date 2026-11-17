@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T18:15:57+01:00",
+  "generated_at": "2026-11-17T18:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4a97a2477736",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/efter-albumframgangen-james-blunt-byter-namn",
+      "guid": "bbed81fd-aeb1-4337-94d8-a0357b36181d",
+      "published_at": "2026-11-17T18:19:28+01:00",
+      "fetched_at": "2026-11-17T18:31:06+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/2a9e8ad1-94d3-42cd-95d8-2e92758befbc.jpg?width=600",
+      "sv": {
+        "title": "Efter albumframgången – James Blunt byter namn",
+        "summary": "Sångaren James Blunt lovade att byta namn till Ryan Air om hans nya skiva ”Airplane mode” nådde förstaplatsen på den brittiska albumlistan. Nu verkar namnbytet vara ett faktum.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After album success – James Blunt changes name",
+        "summary": "Singer James Blunt promised to change his name to Ryan Air if his new album \"Airplane mode\" reached number one on the British album chart. Now the name change appears to be a fact."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:31:10+01:00"
+      }
+    },
     {
       "id": "acacb9571ee2",
       "schema_version": 1,
@@ -5181,33 +5208,6 @@
       "en": {
         "title": "District heating stored in the rock – for months",
         "summary": "Deep beneath Finland's Vanda, waste heat from summer is to be saved for winter, when the rock becomes a giant thermos. – This cave is completely enormous, it holds 1 million cubic metres, says Juha Luomala at Vantaan Energia."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "1c5256bf992d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/gud-mod-och-falafel-leijonborg-i-malmo-efter-ovantade-comebacken",
-      "guid": "f120563b-2a57-4b7b-ba27-df220bfbe786",
-      "published_at": "2026-11-15T07:43:52+01:00",
-      "fetched_at": "2026-11-15T08:29:36+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/cc273719-788f-4f86-9b21-398b750eb4af.jpeg?width=600",
-      "sv": {
-        "title": "Gud, mod och falafel – Leijonborg i Malmö efter oväntade comebacken",
-        "summary": "17 år efter att han lämnade riksdagen har den tidigare partiledaren från Stockholm gjort en oväntad comeback – genom att knipa ett Malmömandat. Sydsvenskan möter snart 77-årige Lars Leijonborg över en falafel för att prata om allt från liberalism och intima tv-klipp, till utskällda förslaget som…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "God, courage and falafel – Leijonborg in Malmö after unexpected comeback",
-        "summary": "17 years after leaving the Riksdag, the former party leader from Stockholm has made an unexpected comeback – by winning a Malmö seat. Sydsvenskan will soon meet 77-year-old Lars Leijonborg over a falafel to talk about everything from liberalism and intimate TV clips to the widely criticised proposal that…"
       },
       "translation": {
         "status": "done",
