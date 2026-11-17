@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T22:31:15+01:00",
+  "generated_at": "2026-11-17T22:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1cbd027305b3",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/karl-dalen-att-masslingen-ar-tillbaka-solkar-usas-rykte",
+      "guid": "https://www.dn.se/varlden/karl-dalen-att-masslingen-ar-tillbaka-solkar-usas-rykte/",
+      "published_at": "2026-11-17T22:37:25+01:00",
+      "fetched_at": "2026-11-17T22:45:43+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/96bd1b46-3311-419f-86f3-905fc9f79a57.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Karl Dalén: Att mässlingen är tillbaka solkar USA:s rykte",
+        "summary": "WASHINGTON. Mässlingen är inte längre eliminerad i USA. På tisdagen förlorade landet sin status som det haft sedan år 2000. I år har mässlingsfallen fördubblats och kritik riktas nu mot hälsoministern Robert F Kennedy Jr, en mångårig vaccinskeptiker.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Karl Dalén: Measles' return tarnishes the US's reputation",
+        "summary": "WASHINGTON. Measles is no longer eliminated in the US. On Tuesday the country lost the status it had held since 2000. This year measles cases have doubled, and criticism is now directed at health secretary Robert F Kennedy Jr, a longtime vaccine skeptic."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T22:45:55+01:00"
+      }
+    },
     {
       "id": "bdd60328faa3",
       "schema_version": 1,
@@ -5367,33 +5394,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:58:49+01:00"
-      }
-    },
-    {
-      "id": "8473f0ee9fcc",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/efter-flygstoppet-i-usa-tusentals-sover-pa-flygplatserna",
-      "guid": "https://www.dn.se/varlden/efter-flygstoppet-i-usa-tusentals-sover-pa-flygplatserna/",
-      "published_at": "2026-11-14T14:51:14+01:00",
-      "fetched_at": "2026-11-14T15:17:24+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/3bf801aa-8afb-4ead-94ae-aea0d4edea66.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Efter flygstoppet i USA: Tusentals sover på flygplatserna",
-        "summary": "NEWARK. Tiotusentals flygpassagerare sitter fast på flygplatser över hela USA efter fredagens flygstopp. Flera dagar av inställda och försenade flyg väntar. På flygplatsen Newark utanför New York möts DN av frustrerade och trötta resenärer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the flight stoppage in the US: Thousands sleeping at airports",
-        "summary": "NEWARK. Tens of thousands of air passengers are stranded at airports across the US after Friday's flight stoppage. Several days of cancelled and delayed flights await. At Newark airport outside New York, DN is met by frustrated and tired travellers."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:12+01:00"
       }
     }
   ]

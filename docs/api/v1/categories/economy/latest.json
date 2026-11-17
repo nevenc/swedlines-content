@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T22:31:15+01:00",
+  "generated_at": "2026-11-17T22:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5dc5a505fed0",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344822",
+      "guid": "rss:sr.se/article/9344822",
+      "published_at": "2026-11-17T22:34:00+01:00",
+      "fetched_at": "2026-11-17T22:45:42+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nvidia över förväntan – trots krisen",
+        "summary": "AI-jätten Nvidia redovisar en högre omsättning och vinst än väntat, det redovisas i bolagets kvartalsresultat.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia beats expectations – despite the crisis",
+        "summary": "AI giant Nvidia reports higher revenue and profit than expected, according to its quarterly results."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T22:45:55+01:00"
+      }
+    },
     {
       "id": "07ea10b446d7",
       "schema_version": 1,
@@ -27,6 +53,60 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T22:31:14+01:00"
+      }
+    },
+    {
+      "id": "65b67614cbba",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/lMAJvo/nvidia-klar-forvantningarna-aktien-lyfter",
+      "guid": "https://www.svd.se/a/lMAJvo/nvidia-klar-forvantningarna-aktien-lyfter?utm_medium=rss",
+      "published_at": "2026-11-17T22:30:09+01:00",
+      "fetched_at": "2026-11-17T22:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/17a5972d-ea26-335f-a47f-c841ce57c384?format=auto&s=a6ebce23bd4c83c2673e8c25d8faa6d59d5adc7f&w=1000",
+      "sv": {
+        "title": "Nvidia klår förväntningarna – aktien lyfter",
+        "summary": "AI-jätten Nvidia redovisar en högre omsättning och vinst än väntat. Aktien, som pressats hårt efter…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia beats expectations – shares rise",
+        "summary": "AI giant Nvidia reports higher revenue and profit than expected. The share, which has been hard hit after…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T22:45:55+01:00"
+      }
+    },
+    {
+      "id": "e25909b0cdb4",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Xogdro/nvidias-rapport-stod-inte-i-centrum-ens-ikvall",
+      "guid": "https://www.svd.se/a/Xogdro/nvidias-rapport-stod-inte-i-centrum-ens-ikvall?utm_medium=rss",
+      "published_at": "2026-11-17T22:29:40+01:00",
+      "fetched_at": "2026-11-17T22:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/eb418624-c532-37b0-8013-31bf07886324?format=auto&s=ed4705eafd82be4406562a03e15f45feb4ed9b1d&w=1000",
+      "sv": {
+        "title": "Nu är Nvidia mitt i en politisk kris",
+        "summary": "Otrohetsskandalen i Nvidia har snabbt övergått till ett politiskt bråk.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia is now in the middle of a political crisis",
+        "summary": "The infidelity scandal at Nvidia has quickly turned into a political row."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T22:45:55+01:00"
       }
     },
     {
@@ -5164,86 +5244,6 @@
       "en": {
         "title": "Stubb: Europe must hold direct talks with Putin",
         "summary": "European leaders must hold direct talks with Russia and Vladimir Putin, rather than outsourcing it. Finnish President Alexander Stubb says this in an interview with the Financial Times."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:01:26+01:00"
-      }
-    },
-    {
-      "id": "070602d2b836",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/krimbron-uppges-skadad-efter-nytt-stort-anfall",
-      "guid": "592e8785-82d3-4c6a-b598-ad39591c7f03",
-      "published_at": "2026-11-17T07:46:50+01:00",
-      "fetched_at": "2026-11-17T08:01:20+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/1208e132-1427-4bb4-ba09-d66748850d6d.jpg?width=600",
-      "sv": {
-        "title": "Krimbron uppges skadad efter nytt stort anfall",
-        "summary": "Ukraina har anfallit Krimbron igen och enligt obekräftade bilder har en av dess stora valvbågar bombats sönder. I Kiev har två av de stora broar som binder samman staden över floden Dnepr träffats vid nya ryska attacker.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Crimea bridge reportedly damaged after new large attack",
-        "summary": "Ukraine has attacked the Crimea bridge again and, according to unconfirmed images, one of its large arch spans has been bombed apart. In Kyiv, two of the large bridges that link the city across the Dnipro river were hit in new Russian attacks."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:01:26+01:00"
-      }
-    },
-    {
-      "id": "8a66be5fbeb2",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/bahnhofs-resultat-okade",
-      "guid": "a5be9cc2-fa97-4edb-b4e8-613b5001aa09",
-      "published_at": "2026-11-17T07:40:10+01:00",
-      "fetched_at": "2026-11-17T08:01:20+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/a01773f9-fe53-489b-ac35-4d3826b7cbf9.jpeg?width=600",
-      "sv": {
-        "title": "Bahnhofs resultat ökade",
-        "summary": "Internetoperatören Bahnhof, som norska Telenor lagt budpliktsbud på, redovisar ett rörelseresultat på 75,9 miljoner kronor för det tredje kvartalet 2026, mot 72,1 miljoner tredje kvartalet i fjol.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bahnhof's results rose",
-        "summary": "Internet operator Bahnhof, which Norway's Telenor has made a mandatory bid for, reports an operating profit of SEK 75.9 million for the third quarter of 2026, compared with SEK 72.1 million in the third quarter last year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:01:26+01:00"
-      }
-    },
-    {
-      "id": "7434726e442e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/ai-frossan-fortsatter-nvidia-slapper-kvartalssiffror",
-      "guid": "766df7a9-6388-5db4-9e11-33e89b50a642",
-      "published_at": "2026-11-17T07:38:02+01:00",
-      "fetched_at": "2026-11-17T08:01:20+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "AI-frossan fortsätter – Nvidia släpper kvartalssiffror",
-        "summary": "Morgonens viktigaste nyheter med Andreas Johansson",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "AI frenzy continues – Nvidia releases quarterly figures",
-        "summary": "Morning's most important news with Andreas Johansson"
       },
       "translation": {
         "status": "done",

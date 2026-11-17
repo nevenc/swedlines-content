@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T22:31:15+01:00",
+  "generated_at": "2026-11-17T22:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1cbd027305b3",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/karl-dalen-att-masslingen-ar-tillbaka-solkar-usas-rykte",
+      "guid": "https://www.dn.se/varlden/karl-dalen-att-masslingen-ar-tillbaka-solkar-usas-rykte/",
+      "published_at": "2026-11-17T22:37:25+01:00",
+      "fetched_at": "2026-11-17T22:45:43+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/96bd1b46-3311-419f-86f3-905fc9f79a57.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Karl Dalén: Att mässlingen är tillbaka solkar USA:s rykte",
+        "summary": "WASHINGTON. Mässlingen är inte längre eliminerad i USA. På tisdagen förlorade landet sin status som det haft sedan år 2000. I år har mässlingsfallen fördubblats och kritik riktas nu mot hälsoministern Robert F Kennedy Jr, en mångårig vaccinskeptiker.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Karl Dalén: Measles' return tarnishes the US's reputation",
+        "summary": "WASHINGTON. Measles is no longer eliminated in the US. On Tuesday the country lost the status it had held since 2000. This year measles cases have doubled, and criticism is now directed at health secretary Robert F Kennedy Jr, a longtime vaccine skeptic."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T22:45:55+01:00"
+      }
+    },
     {
       "id": "308b0e2addd6",
       "schema_version": 1,
@@ -5310,32 +5337,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T05:45:47+01:00"
-      }
-    },
-    {
-      "id": "e3654b636411",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341369",
-      "guid": "rss:sr.se/article/9341369",
-      "published_at": "2026-11-16T05:27:00+01:00",
-      "fetched_at": "2026-11-16T05:30:56+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Minst 11 döda efter brand i Phuket",
-        "summary": "I thailändska Phuket har minst 11 personer dött efter en brand i en affärslokal, rapporterar Reuters. Branden spred sig till intilliggande byggnader och 16 personer vårdas för skador. Inga turister finns bland de döda eller skadade, uppger polisen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "At least 11 dead after fire in Phuket",
-        "summary": "In the Thai city of Phuket, at least 11 people have died after a fire in a commercial premises, Reuters reports. The fire spread to neighbouring buildings and 16 people are being treated for injuries. No tourists are among the dead or injured, police say."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T05:31:03+01:00"
       }
     }
   ]
