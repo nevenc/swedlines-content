@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-17T11:31:12+01:00",
+  "generated_at": "2026-11-17T11:45:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "88f78c616d0a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/ny-agare-till-fastigheten-pa-farabacksvagen-86b-i-malmo",
+      "guid": "7331e001-b792-458a-9491-e032794dd1a0",
+      "published_at": "2026-11-17T11:44:46+01:00",
+      "fetched_at": "2026-11-17T11:45:42+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Ny ägare till fastigheten på Fårabäcksvägen 86B i Malmö"
+      },
+      "en": {
+        "title": "New owner of the property at Fårabäcksvägen 86B in Malmö"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T11:45:46+01:00"
+      }
+    },
     {
       "id": "2feb7a7d7275",
       "schema_version": 1,
@@ -5249,33 +5272,6 @@
       "en": {
         "title": "Sophia had her art stolen by fake website",
         "summary": "Sophia Hagelbäck's artworks were hijacked and posted on a fake website. She is one of many Swedish artists who have been hit by the same kind of theft. – What if someone buys this, what do they get then? asks the artist from Malmö."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "2677659768b1",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/darfor-anses-kvarteret-korpen-vara-den-basta-svenska-filmen-nagonsin",
-      "guid": "2833e740-2e21-4232-be7f-612592a9819b",
-      "published_at": "2026-11-14T12:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/aa012c33-6f64-4399-a6ff-d93311cc5c0c.jpeg?width=600",
-      "sv": {
-        "title": "Därför anses ”Kvarteret Korpen” vara den bästa svenska filmen någonsin",
-        "summary": "Nu sätts Bo Widerbergs klassiker upp som opera i Malmö. Men vad är det som gör filmen så speciell?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Why \"Kvarteret Korpen\" is considered the best Swedish film ever",
-        "summary": "Bo Widerberg's classic is now being staged as an opera in Malmö. But what makes the film so special?"
       },
       "translation": {
         "status": "done",

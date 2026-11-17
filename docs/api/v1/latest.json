@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-17T11:31:12+01:00",
+  "generated_at": "2026-11-17T11:45:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "88f78c616d0a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/ny-agare-till-fastigheten-pa-farabacksvagen-86b-i-malmo",
+      "guid": "7331e001-b792-458a-9491-e032794dd1a0",
+      "published_at": "2026-11-17T11:44:46+01:00",
+      "fetched_at": "2026-11-17T11:45:42+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Ny ägare till fastigheten på Fårabäcksvägen 86B i Malmö"
+      },
+      "en": {
+        "title": "New owner of the property at Fårabäcksvägen 86B in Malmö"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T11:45:46+01:00"
+      }
+    },
+    {
+      "id": "6e64eb6cfa18",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/storbanken-darfor-straffas-nibe",
+      "guid": "95ffa0e9-3398-4795-a5c7-f703dd82834f",
+      "published_at": "2026-11-17T11:36:20+01:00",
+      "fetched_at": "2026-11-17T11:45:41+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/466f606e-49ea-4460-b3e5-cd446b530cba.jpeg?width=600",
+      "sv": {
+        "title": "Storbanken: Därför straffas Nibe",
+        "summary": "Nibe-aktien förutspåddes en ljus rapporttisdag av analytiker inför börsöppningen, givet starkare tillväxt och lönsamhet än väntat. Facit strax före lunch: börsens sämsta storbolagsaktie. Storbanken Citi vet varför.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Storbanken: This is why Nibe is being punished",
+        "summary": "Analysts predicted a bright report day for the Nibe share before the market opened, given stronger growth and profitability than expected. The outcome shortly before lunch: the worst large-cap share on the exchange. Citi, the investment bank, knows why."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T11:45:46+01:00"
+      }
+    },
+    {
+      "id": "a92b59282030",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/viktlakemedel-driver-upp-apotekens-forsaljning",
+      "guid": "b964e74b-0a93-4112-a8f7-c00bc1fa9e65",
+      "published_at": "2026-11-17T11:31:59+01:00",
+      "fetched_at": "2026-11-17T11:45:41+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a309a5e0-e7c2-4431-8a91-07e0f2569194.jpg?width=600",
+      "sv": {
+        "title": "Viktläkemedel driver upp apotekens försäljning",
+        "summary": "Apotekens försäljning ökade under 2025, enligt en rapport från Tandvårds- och läkemedelsförmånsverket (TLV). Tillväxten syns inte minst bland viktminskningsläkemedel.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Weight-loss drugs drive up pharmacy sales",
+        "summary": "Pharmacy sales rose during 2025, according to a report from the Dental and Pharmaceutical Benefits Agency (TLV). The growth is most visible in weight-loss drugs."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T11:45:46+01:00"
+      }
+    },
     {
       "id": "2feb7a7d7275",
       "schema_version": 1,
@@ -54,6 +131,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T11:31:11+01:00"
+      }
+    },
+    {
+      "id": "2d0c84f61ef4",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/trumps-radgivare-splittrade-om-kina",
+      "guid": "e1e5e2c6-f478-47c9-bdf7-66e2a6e250a3",
+      "published_at": "2026-11-17T11:28:24+01:00",
+      "fetched_at": "2026-11-17T11:45:41+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/ed428053-c872-47f6-9e1b-2ae5c6d83eee.jpeg?width=600",
+      "sv": {
+        "title": "Trumps rådgivare splittrade om Kina",
+        "summary": "Donald Trumps närmaste medarbetare är på kollisionskurs om USA:s relation till Kina, en konflikt som nått nya höjder i spåren av Nvidia-skandalen. Flera är med på resan när Trump i veckan ska träffa Xi Jinping i Shenzhen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's advisers divided over China",
+        "summary": "Donald Trump's closest aides are on a collision course over the US relationship with China, a conflict that has reached new heights in the wake of the Nvidia scandal. Several are joining the trip when Trump is due to meet Xi Jinping in Shenzhen this week."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T11:45:46+01:00"
       }
     },
     {
@@ -392,6 +496,37 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T11:31:11+01:00"
+      }
+    },
+    {
+      "id": "a169dbeba7c0",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyhetsshowen/kritik-mot-estelles-praoplats-hos-kungen.01605faa-f58e-588a-a023-7790b82a43c3",
+      "guid": "01605faa-f58e-588a-a023-7790b82a43c3",
+      "published_at": "2026-11-17T11:14:54+01:00",
+      "fetched_at": "2026-11-17T11:45:42+01:00",
+      "category": "other",
+      "feed_categories": [
+        "Nyhetsshowen",
+        "Tagg: Nyhetsshowen"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/0d38aaf1-903b-3462-b5e6-dd67e5c7cd2f",
+      "sv": {
+        "title": "Nyhetsshowen 17 november*Kritik mot Estelles praoplats hos kungen",
+        "summary": "Nya uppgifter om Epsteins död, ”bo” i Rådhuset och polisens superradar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The news show 17 November * Criticism of Estelle's internship at the king's court",
+        "summary": "New details on Epstein's death, a \"bo\" in the Town Hall and the police super radar."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T11:45:46+01:00"
       }
     },
     {
@@ -2985,6 +3120,33 @@
       }
     },
     {
+      "id": "0bff273455a2",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/ez85wa/del-av-krimbron-har-kollapsat",
+      "guid": "https://www.aftonbladet.se/nyheter/a/ez85wa/del-av-krimbron-har-kollapsat?utm_medium=rss",
+      "published_at": "2026-11-17T08:55:53+01:00",
+      "fetched_at": "2026-11-17T11:45:40+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/2909c65e-903e-3be3-9bfb-3b243b5266ba?format=auto&s=89df65706e700f879f8edd9b97b4ffcf0a513a5e&w=719",
+      "sv": {
+        "title": "Del av Krimbron har kollapsat",
+        "summary": "Ryssland i krismöte",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Part of the Crimea Bridge has collapsed",
+        "summary": "Russia in crisis meeting"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T11:45:46+01:00"
+      }
+    },
+    {
       "id": "a1e827a87b31",
       "schema_version": 1,
       "source": "sydsvenskan",
@@ -5140,166 +5302,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T06:45:44+01:00"
-      }
-    },
-    {
-      "id": "54cdaca9bdb0",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344058",
-      "guid": "rss:sr.se/article/9344058",
-      "published_at": "2026-11-17T06:36:00+01:00",
-      "fetched_at": "2026-11-17T06:45:36+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Protesterar mot bosättarvåldet på Västbanken: ”Vill öppna ögon”",
-        "summary": "Alltfler israeler protesterar nu mot bosättarvåldet, inte bara människorättsaktivister, utan också politiker och generaler. Detta är delvis den pensionerade generalen Yaakov Mendi Or:s förtjänst, som genomfört turer för israeler på Västbanken.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Protests against settler violence in the West Bank: \"Want to open eyes\"",
-        "summary": "Increasing numbers of Israelis are protesting against settler violence, not only human rights activists but also politicians and generals. This is partly thanks to retired general Yaakov Mendi Or, who has led tours for Israelis in the West Bank."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:45:44+01:00"
-      }
-    },
-    {
-      "id": "03dae9428480",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/sma-ranterorelser-i-usa-_5UMq",
-      "guid": "089b539c-8c75-4ce9-a871-16fbfb6e0688",
-      "published_at": "2026-11-17T06:32:58+01:00",
-      "fetched_at": "2026-11-17T06:45:39+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Små ränterörelser i USA",
-        "summary": "USA-räntor handlas med små rörelser på tisdagen medan dollarn tillfälligt nådde den högsta nivån sedan USA:s president Donald Trumps tullbesked den 2 april 2025.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Small yield movements in the US",
-        "summary": "US yields are trading with small moves on Tuesday, while the dollar temporarily reached its highest level since US President Donald Trump's tariff announcement on 2 April 2025."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:45:44+01:00"
-      }
-    },
-    {
-      "id": "b67b11ab386d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/alla-heter-allan-i-malmos-nya-korvkrig",
-      "guid": "afd17518-0a71-4cd7-aab0-ff69db29da74",
-      "published_at": "2026-11-17T06:31:00+01:00",
-      "fetched_at": "2026-11-17T06:45:40+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/98a100a1-9d32-426c-a311-1fc32de08cf4.jpeg?width=600",
-      "sv": {
-        "title": "Alla heter Allan i Malmös nya korvkrig",
-        "summary": "Alla heter plötsligt Allan. I ena ringhörnan klassiska Allans korv intill Stadion, i andra nyöppnade Allans grill på Segevång. – Grillen säljer shawarma och falafel och sån skit, säger Burim Zuta på Allans korv.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Everyone is called Allan in Malmö's new sausage war",
-        "summary": "Suddenly everyone is called Allan. In one corner, classic Allans korv next to the stadium, in the other, newly opened Allans grill in Segevång. \"The grill sells shawarma and falafel and such crap,\" says Burim Zuta of Allans korv."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:45:44+01:00"
-      }
-    },
-    {
-      "id": "87b6a5b5a892",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ekonomi/efter-skandalen-nu-slapper-nvidia-delarssiffror",
-      "guid": "https://www.dn.se/ekonomi/efter-skandalen-nu-slapper-nvidia-delarssiffror/",
-      "published_at": "2026-11-17T06:30:17+01:00",
-      "fetched_at": "2026-11-17T06:30:56+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/ffb0d85a-f6fe-43c0-b28f-d5a667c05477.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Efter skandalen – nu släpper Nvidia delårssiffror",
-        "summary": "Efter förra veckans avgång för vd:n Jensen Huang, till följd av otrohetsskandalen, ska nu datachipjätten Nvidia redovisa nya kvartalssiffror.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the scandal – Nvidia now releases quarterly figures",
-        "summary": "Following last week's departure of CEO Jensen Huang over the infidelity scandal, chip maker Nvidia is now set to report new quarterly figures."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:31:06+01:00"
-      }
-    },
-    {
-      "id": "0141db7687f4",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/skane/skanes-basta-overnattning-kan-finnas-i-rostanga",
-      "guid": "63f12f2d-0320-43b2-b157-df4fac5039db",
-      "published_at": "2026-11-17T06:30:00+01:00",
-      "fetched_at": "2026-11-17T06:30:59+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/dcc55089-0c51-4bca-a585-cb339e28ae70.jpeg?width=600",
-      "sv": {
-        "title": "Skånes bästa övernattning kan finnas i Röstånga",
-        "summary": "Nackarpsdalen gästgiveri i Röstånga har haft ett intensivt år efter nystarten och har nu blivit nominerad till Skånes bästa övernattning. – Det har varit över förväntan, säger ägaren Mats Lavré.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Skåne's best overnight stay may be in Röstånga",
-        "summary": "Nackarpsdalen gästgiveri in Röstånga has had an intense year since its relaunch and has now been nominated for Skåne's best overnight stay. – It has been beyond expectations, says owner Mats Lavré."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:31:06+01:00"
-      }
-    },
-    {
-      "id": "b8ca9dc0b0f6",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/900-000-klimatoffer-senaste-30-aren",
-      "guid": "51d9564b-d051-4615-8faf-bf400a73dce4",
-      "published_at": "2026-11-17T06:24:53+01:00",
-      "fetched_at": "2026-11-17T06:30:59+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/c01bc199-5537-4225-b2b2-fae44db8c3e9.jpg?width=600",
-      "sv": {
-        "title": "900 000 klimatoffer senaste 30 åren",
-        "summary": "Värmeböljor, skyfall och jordskred orsakade skador för hundratals miljarder dollar och kostade tiotusentals liv bara under förra året. Spanien, Jamaica och Sri Lanka var bland de värst drabbade, enligt en rapport.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "900,000 climate victims in the last 30 years",
-        "summary": "Heatwaves, cloudbursts and landslides caused damage worth hundreds of billions of dollars and killed tens of thousands of people in the last year alone. Spain, Jamaica and Sri Lanka were among the worst hit, according to a report."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:31:06+01:00"
       }
     }
   ]
