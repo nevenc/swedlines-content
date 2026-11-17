@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T03:15:45+01:00",
+  "generated_at": "2026-11-17T03:31:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bf1853aad251",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344032",
+      "guid": "rss:sr.se/article/9344032",
+      "published_at": "2026-11-17T03:20:00+01:00",
+      "fetched_at": "2026-11-17T03:30:58+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "De rödgröna vill förtydliga förslaget till ny abortlag",
+        "summary": "Vid sidan av regeringssamtalen har de rödgröna partierna gjort upp om att det omdebatterade förslaget till ny abortlag ska förtydligas, enligt uppgift till Ekot.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The red-greens want to clarify the proposal for a new abortion law",
+        "summary": "Alongside the government talks, the red-green parties have agreed that the much-debated proposal for a new abortion law should be clarified, according to Ekot."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T03:31:05+01:00"
+      }
+    },
     {
       "id": "907236057ba7",
       "schema_version": 1,
@@ -5418,33 +5444,6 @@
       "en": {
         "title": "Roxette gig recordings become concert film – Gessle: \"A fantastic journey through time\"",
         "summary": "Three Roxette concerts from 1991 have been turned into a newly produced concert film that will be shown both in cinemas and on TV. – The film is a fantastic journey through time. I hope people have fun watching it and get a bit of strength in the dark, says Per Gessle."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:40:19+01:00"
-      }
-    },
-    {
-      "id": "1a64ed2d5dfc",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/5308PK/troligaste-losningen-sa-kan-vi-fa-en-ny-regering",
-      "guid": "https://www.aftonbladet.se/nyheter/a/5308PK/troligaste-losningen-sa-kan-vi-fa-en-ny-regering?utm_medium=rss",
-      "published_at": "2026-11-16T16:36:06+01:00",
-      "fetched_at": "2026-11-16T16:40:12+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/08891047-b9e6-38f5-a3e4-72a3ac5050a4?format=auto&s=075b40e5110150032b85ae004a3ca6c0b8695249&w=1000",
-      "sv": {
-        "title": "Mest troliga lösningen: ”Tolkar det som en öppning”",
-        "summary": "Statsvetarna ser en öppning",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Most likely solution: \"They interpret it as an opening\"",
-        "summary": "Political scientists see an opening"
       },
       "translation": {
         "status": "done",

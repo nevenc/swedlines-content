@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T03:15:45+01:00",
+  "generated_at": "2026-11-17T03:31:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bf1853aad251",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344032",
+      "guid": "rss:sr.se/article/9344032",
+      "published_at": "2026-11-17T03:20:00+01:00",
+      "fetched_at": "2026-11-17T03:30:58+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "De rödgröna vill förtydliga förslaget till ny abortlag",
+        "summary": "Vid sidan av regeringssamtalen har de rödgröna partierna gjort upp om att det omdebatterade förslaget till ny abortlag ska förtydligas, enligt uppgift till Ekot.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The red-greens want to clarify the proposal for a new abortion law",
+        "summary": "Alongside the government talks, the red-green parties have agreed that the much-debated proposal for a new abortion law should be clarified, according to Ekot."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T03:31:05+01:00"
+      }
+    },
     {
       "id": "5625af3d262f",
       "schema_version": 1,
@@ -5376,32 +5402,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:01:02+01:00"
-      }
-    },
-    {
-      "id": "48d8323601bc",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340658",
-      "guid": "rss:sr.se/article/9340658",
-      "published_at": "2026-11-13T19:19:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "60 dagar utan ny regering – det här har hänt",
-        "summary": "I dag har det gått 60 dagar utan en ny regering. Är det svårt att hänga med i regeringsbildningen? Ekot sammanfattar vad som har hänt de här två senaste månaderna i svensk politik.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "60 days without a new government – this is what has happened",
-        "summary": "Today marks 60 days without a new government. Hard to keep up with the government formation? Ekot sums up what has happened in Swedish politics over the past two months."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
       }
     }
   ]
