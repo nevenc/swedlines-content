@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-17T20:45:54+01:00",
+  "generated_at": "2026-11-17T21:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "69f24da986a0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=4c8078b7-ae6e-46c8-a96d-d7feba2738cf",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4c8078b7-ae6e-46c8-a96d-d7feba2738cf",
+      "published_at": "2026-11-17T20:47:05+01:00",
+      "fetched_at": "2026-11-17T21:01:15+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Luftrum över Moldavien stängt",
+        "summary": "Ryska drönare kränkt • Moldaviens stänger luftrum",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Airspace over Moldova closed",
+        "summary": "Russian drones violate airspace • Moldova closes its airspace"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:01:25+01:00"
+      }
+    },
+    {
+      "id": "1bc095a2e239",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/misstanken-al-bara-mejri-dirigerar-foxtrots-mord",
+      "guid": "https://www.expressen.se/nyheter/sverige/misstanken-al-bara-mejri-dirigerar-foxtrots-mord/",
+      "published_at": "2026-11-17T20:44:57+01:00",
+      "fetched_at": "2026-11-17T21:01:15+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Misstanken: Al-Bara Mejri dirigerar Foxtrots mord",
+        "summary": "Pappan Makram Mejri var IS-terrorist och dog i ett självmordsdåd i Irak. Nu jagas sonen Al-Bara Mejri i hela världen – misstänkt för att ha beordrat barn att mörda och spränga åt Foxtrotnätverket.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspicion: Al-Bara Mejri directed Foxtrot murders",
+        "summary": "Father Makram Mejri was an IS terrorist and died in a suicide bombing in Iraq. Now Al-Bara Mejri is being hunted worldwide – suspected of having ordered children to murder and bomb on behalf of the Foxtrot network."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:01:25+01:00"
+      }
+    },
     {
       "id": "356766972b69",
       "schema_version": 1,
@@ -5148,58 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "7bf0e031a01d",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/andersson-da-ar-det-bara-s-och-m-som-kan-styra",
-      "guid": "https://www.expressen.se/nyheter/politik/andersson-da-ar-det-bara-s-och-m-som-kan-styra/",
-      "published_at": "2026-11-14T12:57:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Andersson: Då är det bara S och M som kan styra",
-        "summary": "Magdalena Andersson (S) har lämnat sitt regeringsförslag till C. V är enligt henne redo att förhandla vidare – även om S inte vill ge dem plats i regeringen. Misslyckas de rödgröna finns enligt Andersson bara ett alternativ: Att S och M går ihop. Det skriver S-ledaren i en debattartikel i Expressen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Andersson: Then only the S and the M can govern",
-        "summary": "Magdalena Andersson (S) has submitted her government proposal to the C. According to her, the V is ready to continue negotiating, even though the S does not want to give them seats in the government. If the red-greens fail, Andersson says there is only one alternative: that the S and the M join forces. The S leader writes this in a debate article in Expressen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "c0f870058d93",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/skolan-kande-till-barnporrdomen-skickade-studenten-till-forskola",
-      "guid": "https://www.expressen.se/nyheter/sverige/skolan-kande-till-barnporrdomen-skickade-studenten-till-forskola/",
-      "published_at": "2026-11-14T11:47:14+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Skolan kände till barnporrdomen – skickade studenten till förskola",
-        "summary": "Mälardalens universitet fick redan i juni veta att en förskollärarstudent dömts för barnpornografibrott. Trots det kunde studenten påbörja sin praktik på en förskola i Eskilstuna flera månader senare, avslöjar Eskilstuna-Kuriren.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "School knew about child pornography conviction – sent student to preschool",
-        "summary": "Mälardalen University learned as early as June that a preschool teaching student had been convicted of child pornography offences. Despite this, the student was able to start their placement at a preschool in Eskilstuna several months later, Eskilstuna-Kuriren reveals."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
       }
     }
   ]

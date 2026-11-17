@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T20:45:54+01:00",
+  "generated_at": "2026-11-17T21:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7a3b51e03cab",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/tekniska-problem-for-apple-efter-uppdatering",
+      "guid": "c521ce50-a937-48e6-a494-4b5775899241",
+      "published_at": "2026-11-17T20:44:48+01:00",
+      "fetched_at": "2026-11-17T21:01:16+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Tekniska problem för Apple efter uppdatering",
+        "summary": "Teknikjätten Apple är det senaste bolaget att drabbas av tekniska problem efter att en intern uppdatering gått snett. Det rapporterar Bloomberg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Technical problems for Apple after update",
+        "summary": "Tech giant Apple is the latest company to suffer technical problems after an internal update went wrong. Bloomberg reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:01:25+01:00"
+      }
+    },
     {
       "id": "2f3e2304f5b6",
       "schema_version": 1,
@@ -5294,33 +5320,6 @@
       "en": {
         "title": "Six-week losing streak for bitcoin – they buy the dip",
         "summary": "After six weeks of decline, bitcoin has lost nearly half its value from the peak, which came in October last year. A Nasdaq-listed bitcoin manager has seized the moment to buy – but loses on the exchange."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:16:22+01:00"
-      }
-    },
-    {
-      "id": "a933a5a6add6",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/eu-infor-sanktioner-mot-rysslands-rikaste-kvinna",
-      "guid": "4a973dfb-345c-412b-91e8-eef25e71302f",
-      "published_at": "2026-11-16T16:03:31+01:00",
-      "fetched_at": "2026-11-16T16:16:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/46e7f4d3-a974-41e4-8c6d-f09454750ddc.jpeg?width=600",
-      "sv": {
-        "title": "EU inför sanktioner mot Rysslands rikaste kvinna",
-        "summary": "EU har infört sanktioner mot Tatjana Kim, grundare av Rysslands största e-handelsföretag Wildberries och landets rikaste kvinna. Det rapporterar Bloomberg News.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "EU imposes sanctions on Russia’s richest woman",
-        "summary": "The EU has imposed sanctions on Tatjana Kim, founder of Russia’s largest e-commerce company Wildberries and the country’s richest woman. Bloomberg News reports."
       },
       "translation": {
         "status": "done",

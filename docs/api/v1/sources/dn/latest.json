@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T20:45:54+01:00",
+  "generated_at": "2026-11-17T21:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "be8a0f9974f1",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/17-november-missa-inte-dagens-nyheter",
+      "guid": "https://www.dn.se/varlden/17-november-missa-inte-dagens-nyheter/",
+      "published_at": "2026-11-17T21:00:51+01:00",
+      "fetched_at": "2026-11-17T21:01:14+01:00",
+      "category": "other",
+      "sv": {
+        "title": "17 november: Missa inte dagens nyheter",
+        "summary": "Talmannens slutgiltiga tidsfrist, SD visste inget om Giertz svängning och rekorddyr el kan vänta – här är nyheterna du inte får missa från dagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "17 November: Don't miss today's news",
+        "summary": "The Speaker's final deadline, SD had no knowledge of Giertz's U-turn and record-expensive electricity may wait – here are the news items you must not miss today."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:01:25+01:00"
+      }
+    },
     {
       "id": "36727eb5d4eb",
       "schema_version": 1,
@@ -5368,33 +5394,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:59:12+01:00"
-      }
-    },
-    {
-      "id": "3deae3dc7376",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/turkiet-utmanar-israel-med-nytt-militaravtal-med-libanon",
-      "guid": "https://www.dn.se/varlden/turkiet-utmanar-israel-med-nytt-militaravtal-med-libanon/",
-      "published_at": "2026-11-14T13:57:44+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/57e93f62-cb4b-4a47-98b6-29588b36ee98.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Turkiet utmanar Israel med nytt militäravtal med Libanon",
-        "summary": "JERUSALEM. Det nya militäravtalet mellan Turkiet och Libanon är ett led i president Recep Tayyip Erdogans plan för ökat inflytande i Israels grannländer. Avtalet och dess förarbete utgör också sonen Bilal Erdogans storpolitiska debut.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Turkey challenges Israel with new military agreement with Lebanon",
-        "summary": "JERUSALEM. The new military agreement between Turkey and Lebanon is part of President Recep Tayyip Erdogan's plan for greater influence in Israel's neighbouring countries. The agreement and its groundwork also mark the geopolitical debut of his son Bilal Erdogan."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:36+01:00"
       }
     }
   ]

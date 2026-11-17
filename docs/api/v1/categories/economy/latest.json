@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T20:45:54+01:00",
+  "generated_at": "2026-11-17T21:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7a3b51e03cab",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/tekniska-problem-for-apple-efter-uppdatering",
+      "guid": "c521ce50-a937-48e6-a494-4b5775899241",
+      "published_at": "2026-11-17T20:44:48+01:00",
+      "fetched_at": "2026-11-17T21:01:16+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Tekniska problem för Apple efter uppdatering",
+        "summary": "Teknikjätten Apple är det senaste bolaget att drabbas av tekniska problem efter att en intern uppdatering gått snett. Det rapporterar Bloomberg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Technical problems for Apple after update",
+        "summary": "Tech giant Apple is the latest company to suffer technical problems after an internal update went wrong. Bloomberg reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:01:25+01:00"
+      }
+    },
     {
       "id": "2f3e2304f5b6",
       "schema_version": 1,
@@ -5204,29 +5230,6 @@
       },
       "en": {
         "title": "New owners of villa"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:15:59+01:00"
-      }
-    },
-    {
-      "id": "5524c573a1c2",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/huset-i-akarp-salt-pa-nytt-4bqK2",
-      "guid": "19b818c6-41dc-4a6b-938b-cb90be73dfd9",
-      "published_at": "2026-11-17T07:02:17+01:00",
-      "fetched_at": "2026-11-17T07:15:53+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Huset i Åkarp sålt på nytt"
-      },
-      "en": {
-        "title": "House in Åkarp sold again"
       },
       "translation": {
         "status": "done",

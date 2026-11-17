@@ -1,7 +1,138 @@
 {
-  "generated_at": "2026-11-17T20:45:54+01:00",
-  "count": 602,
+  "generated_at": "2026-11-17T21:01:25+01:00",
+  "count": 609,
   "items": [
+    {
+      "id": "be8a0f9974f1",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/17-november-missa-inte-dagens-nyheter",
+      "guid": "https://www.dn.se/varlden/17-november-missa-inte-dagens-nyheter/",
+      "published_at": "2026-11-17T21:00:51+01:00",
+      "fetched_at": "2026-11-17T21:01:14+01:00",
+      "category": "other",
+      "sv": {
+        "title": "17 november: Missa inte dagens nyheter",
+        "summary": "Talmannens slutgiltiga tidsfrist, SD visste inget om Giertz svängning och rekorddyr el kan vänta – här är nyheterna du inte får missa från dagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "17 November: Don't miss today's news",
+        "summary": "The Speaker's final deadline, SD had no knowledge of Giertz's U-turn and record-expensive electricity may wait – here are the news items you must not miss today."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:01:25+01:00"
+      }
+    },
+    {
+      "id": "6a7244c87203",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/enorma-utslapp-fran-amerikanska-datacenter",
+      "guid": "969ce1d3-ba94-4ec1-8366-deef3f119fbb",
+      "published_at": "2026-11-17T20:47:06+01:00",
+      "fetched_at": "2026-11-17T21:01:17+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/5e320605-2d78-4d7e-a881-d215b32afeb6.jpg?width=600",
+      "sv": {
+        "title": "Enorma utsläpp från amerikanska datacenter",
+        "summary": "Under ett år förbrukar de 400 största datacentren i USA lika mycket el som hela delstater. En studie har kartlagt priset i form av utsläpp för våra satsningar på AI och andra energikrävande verktyg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Huge emissions from American data centres",
+        "summary": "Over the course of a year, the 400 largest data centres in the US consume as much electricity as entire states. A study has mapped the emissions cost of our investments in AI and other energy-intensive tools."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:01:25+01:00"
+      }
+    },
+    {
+      "id": "69f24da986a0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=4c8078b7-ae6e-46c8-a96d-d7feba2738cf",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4c8078b7-ae6e-46c8-a96d-d7feba2738cf",
+      "published_at": "2026-11-17T20:47:05+01:00",
+      "fetched_at": "2026-11-17T21:01:15+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Luftrum över Moldavien stängt",
+        "summary": "Ryska drönare kränkt • Moldaviens stänger luftrum",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Airspace over Moldova closed",
+        "summary": "Russian drones violate airspace • Moldova closes its airspace"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:01:25+01:00"
+      }
+    },
+    {
+      "id": "1bc095a2e239",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/misstanken-al-bara-mejri-dirigerar-foxtrots-mord",
+      "guid": "https://www.expressen.se/nyheter/sverige/misstanken-al-bara-mejri-dirigerar-foxtrots-mord/",
+      "published_at": "2026-11-17T20:44:57+01:00",
+      "fetched_at": "2026-11-17T21:01:15+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Misstanken: Al-Bara Mejri dirigerar Foxtrots mord",
+        "summary": "Pappan Makram Mejri var IS-terrorist och dog i ett självmordsdåd i Irak. Nu jagas sonen Al-Bara Mejri i hela världen – misstänkt för att ha beordrat barn att mörda och spränga åt Foxtrotnätverket.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspicion: Al-Bara Mejri directed Foxtrot murders",
+        "summary": "Father Makram Mejri was an IS terrorist and died in a suicide bombing in Iraq. Now Al-Bara Mejri is being hunted worldwide – suspected of having ordered children to murder and bomb on behalf of the Foxtrot network."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:01:25+01:00"
+      }
+    },
+    {
+      "id": "7a3b51e03cab",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/tekniska-problem-for-apple-efter-uppdatering",
+      "guid": "c521ce50-a937-48e6-a494-4b5775899241",
+      "published_at": "2026-11-17T20:44:48+01:00",
+      "fetched_at": "2026-11-17T21:01:16+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Tekniska problem för Apple efter uppdatering",
+        "summary": "Teknikjätten Apple är det senaste bolaget att drabbas av tekniska problem efter att en intern uppdatering gått snett. Det rapporterar Bloomberg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Technical problems for Apple after update",
+        "summary": "Tech giant Apple is the latest company to suffer technical problems after an internal update went wrong. Bloomberg reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:01:25+01:00"
+      }
+    },
     {
       "id": "36727eb5d4eb",
       "schema_version": 1,
@@ -83,6 +214,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T20:45:54+01:00"
+      }
+    },
+    {
+      "id": "6a5cb99ef446",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4ebYPiLKaHIpqMvy6YbOFI/potters-drag-efter-gruppsegern",
+      "guid": "4ebYPiLKaHIpqMvy6YbOFI",
+      "published_at": "2026-11-17T20:38:19+01:00",
+      "fetched_at": "2026-11-17T21:01:15+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Polen passivt från start – experten förvånad",
+        "summary": "I lördags säkrade Sverige gruppsegern i Nations League efter att ha vunnit 3–2 mot Bosnien-Hercegovina. Nu ska Sverige avsluta årets Nations League-spel borta mot Polen – och Sveriges förbundskapen Graham Potter gör flera ändringar i startelvan. Sju till antalet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Poland passive from the start – expert surprised",
+        "summary": "On Saturday Sweden secured the group win in the Nations League after beating Bosnia-Herzegovina 3–2. Now Sweden will end this year's Nations League games away against Poland – and Sweden's head coach Graham Potter is making several changes to the starting line-up. Seven of them."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:01:25+01:00"
       }
     },
     {
@@ -3789,6 +3949,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T16:54:30+01:00"
+      }
+    },
+    {
+      "id": "5f157210d01d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/klimat/a/WmboWa/da-slutar-danmark-producera-olja-och-gas",
+      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/WmboWa/da-slutar-danmark-producera-olja-och-gas?utm_medium=rss",
+      "published_at": "2026-11-17T16:41:53+01:00",
+      "fetched_at": "2026-11-17T21:01:15+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/39e75aef-df09-3cf7-864f-d21ec864fba8?format=auto&s=cf1c9f5fd58ef83820b7fcfd72f14ac9cce515d8&w=1000",
+      "sv": {
+        "title": "Då slutar Danmark producera olja och gas",
+        "summary": "COP31 Ministern: ”Det blir svårt”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Then Denmark stops producing oil and gas",
+        "summary": "COP31 Minister: “It will be difficult”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:01:25+01:00"
       }
     },
     {

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T20:45:54+01:00",
+  "generated_at": "2026-11-17T21:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "69f24da986a0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=4c8078b7-ae6e-46c8-a96d-d7feba2738cf",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4c8078b7-ae6e-46c8-a96d-d7feba2738cf",
+      "published_at": "2026-11-17T20:47:05+01:00",
+      "fetched_at": "2026-11-17T21:01:15+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Luftrum över Moldavien stängt",
+        "summary": "Ryska drönare kränkt • Moldaviens stänger luftrum",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Airspace over Moldova closed",
+        "summary": "Russian drones violate airspace • Moldova closes its airspace"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:01:25+01:00"
+      }
+    },
     {
       "id": "1658ca5014bd",
       "schema_version": 1,
@@ -736,6 +762,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T16:45:54+01:00"
+      }
+    },
+    {
+      "id": "5f157210d01d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/klimat/a/WmboWa/da-slutar-danmark-producera-olja-och-gas",
+      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/WmboWa/da-slutar-danmark-producera-olja-och-gas?utm_medium=rss",
+      "published_at": "2026-11-17T16:41:53+01:00",
+      "fetched_at": "2026-11-17T21:01:15+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/39e75aef-df09-3cf7-864f-d21ec864fba8?format=auto&s=cf1c9f5fd58ef83820b7fcfd72f14ac9cce515d8&w=1000",
+      "sv": {
+        "title": "Då slutar Danmark producera olja och gas",
+        "summary": "COP31 Ministern: ”Det blir svårt”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Then Denmark stops producing oil and gas",
+        "summary": "COP31 Minister: “It will be difficult”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:01:25+01:00"
       }
     },
     {
@@ -5281,60 +5334,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T01:15:43+01:00"
-      }
-    },
-    {
-      "id": "adc01660526f",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/ARdrX5/prins-harry-pa-besok-i-ukraina",
-      "guid": "https://www.svd.se/a/ARdrX5/prins-harry-pa-besok-i-ukraina?utm_medium=rss",
-      "published_at": "2026-11-16T00:07:12+01:00",
-      "fetched_at": "2026-11-16T00:15:42+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/332db060-9553-39fa-99da-21d002f5890a?format=auto&s=39677f9db5300557bde05f263d9cb1c1456e77e9&w=1000",
-      "sv": {
-        "title": "Prins Harry på besök i Ukraina",
-        "summary": "Storbritanniens prins Harry befann sig under helgen på ett oannonserat besök i Ukraina.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Prince Harry visits Ukraine",
-        "summary": "Britain's Prince Harry was on an unannounced visit to Ukraine over the weekend."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T00:15:51+01:00"
-      }
-    },
-    {
-      "id": "a4e4fd7d09b1",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/6Pjqye/prins-harry-pa-besok-i-ukraina",
-      "guid": "https://www.aftonbladet.se/nyheter/a/6Pjqye/prins-harry-pa-besok-i-ukraina?utm_medium=rss",
-      "published_at": "2026-11-16T00:07:11+01:00",
-      "fetched_at": "2026-11-16T00:15:43+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/332db060-9553-39fa-99da-21d002f5890a?format=auto&s=39677f9db5300557bde05f263d9cb1c1456e77e9&w=1000",
-      "sv": {
-        "title": "Prins Harry på besök i Ukraina",
-        "summary": "Storbritanniens prins Harry befann sig under helgen på ett oannonserat besök i Ukraina.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Prince Harry visits Ukraine",
-        "summary": "Britain's Prince Harry was on an unannounced visit to Ukraine over the weekend."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T00:15:51+01:00"
       }
     }
   ]
