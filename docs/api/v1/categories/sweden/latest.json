@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-17T15:01:28+01:00",
-  "count": 198,
+  "generated_at": "2026-11-17T15:15:55+01:00",
+  "count": 200,
   "items": [
+    {
+      "id": "912d41b3513c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=8a7589e4-22cb-4947-80a0-10ce262a45ff",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8a7589e4-22cb-4947-80a0-10ce262a45ff",
+      "published_at": "2026-11-17T15:13:39+01:00",
+      "fetched_at": "2026-11-17T15:15:44+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Stora störningar i tunnelbanan",
+        "summary": "20 minuter längre resor",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major disruptions on the metro",
+        "summary": "20-minute longer journeys"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:15:54+01:00"
+      }
+    },
+    {
+      "id": "ed451bd948c1",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/r8AmMw/jordbruksverket-varnar-for-fagelinfluensa",
+      "guid": "https://www.aftonbladet.se/nyheter/a/r8AmMw/jordbruksverket-varnar-for-fagelinfluensa?utm_medium=rss",
+      "published_at": "2026-11-17T15:13:25+01:00",
+      "fetched_at": "2026-11-17T15:15:44+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/f3811b74-4085-3822-ad42-6a214e5541e4?format=auto&s=1f8b4933301e85dfe0a6d66a9020d72e408b157c&w=1000",
+      "sv": {
+        "title": "Jordbruksverket varnar för fågelinfluensa",
+        "summary": "Flera konstaterade fall av fågelinfluensa bland vilda fåglar har fått Jordbruksverket att införa…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish Board of Agriculture warns of bird flu",
+        "summary": "Several confirmed cases of bird flu among wild birds have led the Swedish Board of Agriculture to introduce…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:15:54+01:00"
+      }
+    },
     {
       "id": "7597cbc6864f",
       "schema_version": 1,

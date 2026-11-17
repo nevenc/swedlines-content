@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T15:01:28+01:00",
+  "generated_at": "2026-11-17T15:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6edd9b4e7084",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/9Bvozd/kristersson-vill-vanta-med-statsministeromrostning",
+      "guid": "https://www.svd.se/a/9Bvozd/kristersson-vill-vanta-med-statsministeromrostning?utm_medium=rss",
+      "published_at": "2026-11-17T15:00:36+01:00",
+      "fetched_at": "2026-11-17T15:15:43+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/6174c2c8-5fa0-3d83-b5ce-5a42b8eda780?format=auto&s=5d240fba0db0bcd06708688936ba0be44d8df209&w=1000",
+      "sv": {
+        "title": "Kristersson vill vänta med statsministeromröstning",
+        "summary": "M-ledaren Ulf Kristersson anser att det behövs ytterligare några dagar innan en…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson wants to wait with the prime minister vote",
+        "summary": "Moderates leader Ulf Kristersson (M) believes a few more days are needed before a…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:15:54+01:00"
+      }
+    },
     {
       "id": "571b337f048d",
       "schema_version": 1,
@@ -5189,33 +5216,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:32+01:00"
-      }
-    },
-    {
-      "id": "3a84d8b212fe",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/ez8Em9/facket-hemarbete-far-fler-att-jobba-heltid",
-      "guid": "https://www.svd.se/a/ez8Em9/facket-hemarbete-far-fler-att-jobba-heltid?utm_medium=rss",
-      "published_at": "2026-11-14T07:25:27+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/11042fc7-ab5b-36fc-b3c2-103d5b2861b7?format=auto&s=b004ae9d286e58dbe232b050fcb088c1518cc2be&w=1000",
-      "sv": {
-        "title": "Distansarbete gör att fler kvinnor jobbar heltid",
-        "summary": "Deltidsarbete bland kvinnor har minskat tydligt sedan pandemin, visar en undersökning från Sveriges…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Remote work means more women work full-time",
-        "summary": "Part-time work among women has clearly declined since the pandemic, a survey from Sveriges…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:42+01:00"
       }
     }
   ]
