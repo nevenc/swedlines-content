@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T16:31:16+01:00",
+  "generated_at": "2026-11-17T16:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e83f638d5568",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/bk570l/uppfattar-inte-att-nagot-alternativ-har-fallit",
+      "guid": "https://www.svd.se/a/bk570l/uppfattar-inte-att-nagot-alternativ-har-fallit?utm_medium=rss",
+      "published_at": "2026-11-17T16:36:17+01:00",
+      "fetched_at": "2026-11-17T16:45:45+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/869d5809-3d54-3ac5-9adc-9e79a8306e52?format=auto&s=57db6e8b60b64fe0481cfb6e11c4d570eecedeb9&w=1000",
+      "sv": {
+        "title": "”Uppfattar inte att något alternativ har fallit”",
+        "summary": "Ulf Kristersson ber om förlängd tid – trots att Centerpartiet valt sida.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“I don't perceive that any alternative has fallen”",
+        "summary": "Ulf Kristersson (M) asks for extended time – despite the Centre Party having chosen a side."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:45:54+01:00"
+      }
+    },
     {
       "id": "205612d2723b",
       "schema_version": 1,
@@ -5178,33 +5205,6 @@
       },
       "en": {
         "title": "PM Nilsson after eyeliner column: ”Pig”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:32+01:00"
-      }
-    },
-    {
-      "id": "f5da4196162d",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Vxb9wl/totalstopp-pa-forsmark-3",
-      "guid": "https://www.svd.se/a/Vxb9wl/totalstopp-pa-forsmark-3?utm_medium=rss",
-      "published_at": "2026-11-14T09:13:06+01:00",
-      "fetched_at": "2026-11-14T17:07:31+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/a4acfc7c-f84a-3092-8dfe-327a3155ccac?format=auto&s=649e7697c1f5478c17ef151ba26a9f9cc67ec23e&w=1000",
-      "sv": {
-        "title": "Reaktorstopp kan ge ”dubbel effekt” på priset",
-        "summary": "Kärnkraftsreaktorn Forsmark 3 har stoppats helt. Nu kan redan höga elpriser stiga ytterligare i…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reactor stop could have a ”double effect” on the price",
-        "summary": "The Forsmark 3 nuclear reactor has been completely shut down. Now already high electricity prices could rise further in…"
       },
       "translation": {
         "status": "done",

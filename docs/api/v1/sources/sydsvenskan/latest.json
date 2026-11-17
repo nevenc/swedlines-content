@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T16:31:16+01:00",
+  "generated_at": "2026-11-17T16:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "39fa2684b2d7",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/danmark/da-slutar-danmark-producera-olja-och-gas",
+      "guid": "b17a97c6-580c-44dc-a027-fe4f86a70229",
+      "published_at": "2026-11-17T16:44:50+01:00",
+      "fetched_at": "2026-11-17T16:45:48+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/506c1944-f1f7-446f-9d5a-1a7e16d24ab0.jpg?width=600",
+      "sv": {
+        "title": "Då slutar Danmark producera olja och gas",
+        "summary": "Danmark ska ha minskat utsläppen med 85 procent år 2035, enligt en plan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Then Denmark stops producing oil and gas",
+        "summary": "Denmark is to have cut emissions by 85 percent by 2035, according to a plan."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:45:54+01:00"
+      }
+    },
     {
       "id": "748781497454",
       "schema_version": 1,
@@ -5204,33 +5231,6 @@
       "en": {
         "title": "Philippines wins the Asian Eurovision",
         "summary": "Artist Carmelle wins with \"Sobra-Sobra\" in the first Eurovision Song Contest Asia."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:20+01:00"
-      }
-    },
-    {
-      "id": "28761897f225",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/nervost-hv71-brot-tung-svit-pirrigt",
-      "guid": "69d5f0c4-da12-49a3-8a9a-93396f098fa3",
-      "published_at": "2026-11-14T18:38:14+01:00",
-      "fetched_at": "2026-11-14T18:42:05+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/1475f38b-d1ae-4c91-827f-2be1c73250e0.jpg?width=600",
-      "sv": {
-        "title": "Nervöst HV71 bröt tung svit: ”Pirrigt”",
-        "summary": "Efter sju raka förluster fick till slut HV71-supportrarna fira igen. Hemma i Jönköping bröts sviten när Timrå besegrades med 4–3.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nervous HV71 break long losing streak: \"Jittery\"",
-        "summary": "After seven straight losses, HV71 supporters were finally able to celebrate again. At home in Jönköping the streak ended when Timrå were defeated 4–3."
       },
       "translation": {
         "status": "done",

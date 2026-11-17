@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-11-17T16:31:16+01:00",
+  "generated_at": "2026-11-17T16:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e770ae4b6b3e",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/slapp-pa-ministerkraven-innan-det-ar-for-sent",
+      "guid": "https://www.dn.se/insandare/slapp-pa-ministerkraven-innan-det-ar-for-sent/",
+      "published_at": "2026-11-17T16:45:15+01:00",
+      "fetched_at": "2026-11-17T16:45:44+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/cf5b5dbf-0430-4f0c-9dc3-6351690e3c98.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Släpp på ministerkraven innan det är för sent",
+        "summary": "INSÄNDARE. V-ledningen riskerar att med sitt agerande cementera en högerpolitik som man själv säger sig vilja bekämpa. Det är dags för Vänsterpartiet att släppa prestigen, kavla upp ärmarna och börja förhandla om den faktiska politiken, skriver Pererik Holmbom.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Opinion: Drop the ministerial demands before it is too late",
+        "summary": "LETTER. The Left Party leadership risks, through its actions, cementing right-wing policy that it says it wants to fight. It is time for the Left Party to drop its prestige, roll up its sleeves and start negotiating actual policy, writes Pererik Holmbom."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:45:54+01:00"
+      }
+    },
+    {
+      "id": "e83f638d5568",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/bk570l/uppfattar-inte-att-nagot-alternativ-har-fallit",
+      "guid": "https://www.svd.se/a/bk570l/uppfattar-inte-att-nagot-alternativ-har-fallit?utm_medium=rss",
+      "published_at": "2026-11-17T16:36:17+01:00",
+      "fetched_at": "2026-11-17T16:45:45+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/869d5809-3d54-3ac5-9adc-9e79a8306e52?format=auto&s=57db6e8b60b64fe0481cfb6e11c4d570eecedeb9&w=1000",
+      "sv": {
+        "title": "”Uppfattar inte att något alternativ har fallit”",
+        "summary": "Ulf Kristersson ber om förlängd tid – trots att Centerpartiet valt sida.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“I don't perceive that any alternative has fallen”",
+        "summary": "Ulf Kristersson (M) asks for extended time – despite the Centre Party having chosen a side."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:45:54+01:00"
+      }
+    },
+    {
+      "id": "55d1c76468cc",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/kMJmyk/magdalena-andersson-valkomnar-beskedet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/kMJmyk/magdalena-andersson-valkomnar-beskedet?utm_medium=rss",
+      "published_at": "2026-11-17T16:35:54+01:00",
+      "fetched_at": "2026-11-17T16:45:46+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/e4383b3b-6508-3fdf-9699-b00b0a7b8618?format=auto&s=9939f4a65ed15fb0152b9acf52ce873191b4ae9b&w=1000",
+      "sv": {
+        "title": "Magdalena Andersson: Välkomnar beskedet",
+        "summary": "Välkomnar beskedet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Magdalena Andersson: Welcomes the announcement",
+        "summary": "Welcomes the announcement"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:45:54+01:00"
+      }
+    },
     {
       "id": "205612d2723b",
       "schema_version": 1,
@@ -27,6 +108,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T16:31:15+01:00"
+      }
+    },
+    {
+      "id": "121821cbd719",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/eMoeprQEbgW9aDA0TrqAS/tiberg-daerfoer-aer-detta-en-deadline-foer-andersson",
+      "guid": "eMoeprQEbgW9aDA0TrqAS",
+      "published_at": "2026-11-17T16:29:07+01:00",
+      "fetched_at": "2026-11-17T16:45:46+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Valet 2026"
+      ],
+      "sv": {
+        "title": "Tiberg: Därför är detta en deadline – för Andersson"
+      },
+      "en": {
+        "title": "Tiberg: This is why this is a deadline – for Andersson"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:45:54+01:00"
       }
     },
     {
@@ -5278,110 +5385,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:30:08+01:00"
-      }
-    },
-    {
-      "id": "af821d40e6eb",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/moa-berglof/vanstern-har-fel-om-allt-utom-en-sak",
-      "guid": "e237ad98-5052-4a44-873e-8e528c033283",
-      "published_at": "2026-11-15T06:36:00+01:00",
-      "fetched_at": "2026-11-15T08:29:36+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/dd63e8a4-df70-44e4-bb81-7f311612a051.jpeg?width=600",
-      "sv": {
-        "title": "Dadgostar och Gabrielsson har fel om allt – utom en sak"
-      },
-      "en": {
-        "title": "Dadgostar and Gabrielsson are wrong about everything – except one thing"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:08+01:00"
-      }
-    },
-    {
-      "id": "02a2f3ef9069",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/2vGdrx/rikta-de-roda-linjerna-mot-ai-istallet-skriver-jonas-och-hannes-von-essen",
-      "guid": "https://www.svd.se/a/2vGdrx/rikta-de-roda-linjerna-mot-ai-istallet-skriver-jonas-och-hannes-von-essen?utm_medium=rss",
-      "published_at": "2026-11-15T06:00:00+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/b55152d1-fda7-31ac-bda5-11c0e904900c?format=auto&s=d479c03d6b75e8073b72a73442d4dcd9431a9d81&w=1000",
-      "sv": {
-        "title": "”Rikta de röda linjerna mot AI istället”",
-        "summary": "I Sverige diskuterar de röda linjerna mellan partierna. Kanske borde vi ha diskuterat den röda linje…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Turn the red lines towards AI instead\"",
-        "summary": "In Sweden, they are discussing the red lines between the parties. Perhaps we should have discussed the red line…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:14+01:00"
-      }
-    },
-    {
-      "id": "e2c8c1b4d860",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/malas-onskemal-efter-lagandringen-fler-nyanlanda",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/malas-onskemal-efter-lagandringen-fler-nyanlanda",
-      "published_at": "2026-11-15T05:30:07+01:00",
-      "fetched_at": "2026-11-16T09:01:22+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Malås önskemål efter lagändringen: Fler nyanlända",
-        "summary": "Vid årsskiftet får kommunerna mer att säga till om när nyanlända ska fördelas. Nu hoppas Malå kommun kunna få ta emot fler personer än vad Migrationsverket föreslagit. – Det är viktigt för hela Malås framtid. Det föds alldeles för lite barn, säger kommunalrådet Cecilia Festin Stenlund (L).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Malå's wishes after law change: More newly arrived migrants",
-        "summary": "From the turn of the year, municipalities will have more say over the distribution of newly arrived people. Now Malå municipality hopes to be able to take in more people than the Migration Agency has proposed. – It is important for Malå's entire future. Far too few children are being born, says municipal commissioner Cecilia Festin Stenlund (L)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:01:40+01:00"
-      }
-    },
-    {
-      "id": "3fcdb9befa8a",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ledare/inget-kalas-nar-centerpartiet-far-paket",
-      "guid": "https://www.dn.se/ledare/inget-kalas-nar-centerpartiet-far-paket/",
-      "published_at": "2026-11-15T05:23:08+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/7de28c7c-e5b7-4316-81d5-9479ccb916da.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Ledare: Inget kalas när Centerpartiet får paket",
-        "summary": "Varken S- eller M-ledaren har ett paket som håller måttet. Centerpartiet kommer att behöva trycka rött i nästa statsministervotering.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Editorial: No party when the Centre Party gets a package",
-        "summary": "Neither the S nor the M leader has a package that measures up. The Centre Party will need to press red in the next prime ministerial vote."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:14+01:00"
       }
     }
   ]
