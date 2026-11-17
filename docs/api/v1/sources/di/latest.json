@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T22:15:50+01:00",
+  "generated_at": "2026-11-17T22:31:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "97f81db22e4e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/battre-an-vantat-for-nvidia-aktien-stiger",
+      "guid": "16c58845-9260-4618-9620-617843ef6736",
+      "published_at": "2026-11-17T22:27:58+01:00",
+      "fetched_at": "2026-11-17T22:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/4ea7c33f-e3bc-474f-ae30-061b629e61e0.jpeg?width=600",
+      "sv": {
+        "title": "Bättre än väntat för Nvidia – aktien stiger",
+        "summary": "Chipjätten Nvidia redovisade klart högre resultat och intäkter än väntat under det tredje kvartalet. Aktien stiger i den amerikanska efterhandeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Better than expected for Nvidia – shares rise",
+        "summary": "Chip giant Nvidia reported clearly higher earnings and revenue than expected in the third quarter. The share rises in American after-hours trading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T22:31:14+01:00"
+      }
+    },
     {
       "id": "78046edebb55",
       "schema_version": 1,
@@ -5295,32 +5322,6 @@
       "en": {
         "title": "Trump backs Jensen Huang",
         "summary": "Donald Trump would have no problem seeing Jensen Huang return as Nvidia CEO. The president says so during a press conference at the White House. \"I think he learned a big lesson,\" he says according to Bloomberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:40:19+01:00"
-      }
-    },
-    {
-      "id": "79f35878acb8",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/europarantor-svagt-upp",
-      "guid": "45937cec-38e0-4d0f-ae4b-d0cb8c4e52bf",
-      "published_at": "2026-11-16T16:28:36+01:00",
-      "fetched_at": "2026-11-16T16:40:13+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Europaräntor svagt upp",
-        "summary": "Europaräntorna steg svagt på måndagen, med tyska och franska räntor 1 punkt upp. Dollarn bibehöll i stort förra veckans förstärkning med dollarindex på 103,49.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "European yields slightly up",
-        "summary": "European bond yields rose slightly on Monday, with German and French yields up 1 basis point. The dollar largely maintained last week's strengthening, with the dollar index at 103.49."
       },
       "translation": {
         "status": "done",

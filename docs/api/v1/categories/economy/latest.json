@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-11-17T22:15:50+01:00",
+  "generated_at": "2026-11-17T22:31:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "07ea10b446d7",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/nvidia-klar-forvantningarna-aktien-lyfter",
+      "guid": "838f7f06-5975-4979-b8ff-02d2f107c932",
+      "published_at": "2026-11-17T22:30:15+01:00",
+      "fetched_at": "2026-11-17T22:31:09+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f249f11e-58db-4569-9320-99b5a2fb7aca.jpg?width=600",
+      "sv": {
+        "title": "Nvidia klår förväntningarna – aktien lyfter",
+        "summary": "AI-jätten Nvidia redovisar en högre omsättning och vinst än väntat. Aktien, som pressats hårt efter avgångne vd:n Jensen Huangs otrohetsaffärer, stiger i den omedelbara efterhandeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia beats expectations – shares rise",
+        "summary": "AI giant Nvidia reports higher revenue and profit than expected. The share, which has been hammered hard after former CEO Jensen Huang's infidelity affairs, rises in the immediate aftermath."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T22:31:14+01:00"
+      }
+    },
+    {
+      "id": "97f81db22e4e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/battre-an-vantat-for-nvidia-aktien-stiger",
+      "guid": "16c58845-9260-4618-9620-617843ef6736",
+      "published_at": "2026-11-17T22:27:58+01:00",
+      "fetched_at": "2026-11-17T22:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/4ea7c33f-e3bc-474f-ae30-061b629e61e0.jpeg?width=600",
+      "sv": {
+        "title": "Bättre än väntat för Nvidia – aktien stiger",
+        "summary": "Chipjätten Nvidia redovisade klart högre resultat och intäkter än väntat under det tredje kvartalet. Aktien stiger i den amerikanska efterhandeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Better than expected for Nvidia – shares rise",
+        "summary": "Chip giant Nvidia reported clearly higher earnings and revenue than expected in the third quarter. The share rises in American after-hours trading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T22:31:14+01:00"
+      }
+    },
+    {
+      "id": "2d187014e204",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Oypzg1/nvidia-battre-an-forvantat-aktien-stiger",
+      "guid": "https://www.svd.se/a/Oypzg1/nvidia-battre-an-forvantat-aktien-stiger?utm_medium=rss",
+      "published_at": "2026-11-17T22:26:48+01:00",
+      "fetched_at": "2026-11-17T22:31:00+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/25b10f19-45fe-3205-8a48-2c415c4d189c?format=auto&s=7ad2ca8e202e827122ef488f8f1d7be256ec46d6&w=1000",
+      "sv": {
+        "title": "Nvidia bättre än förväntat – aktien stiger",
+        "summary": "Nvidia överträffade förväntningarna när årets tredje kvartalsrapport presenterades.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia better than expected – shares rise",
+        "summary": "Nvidia beat expectations when this year's third-quarter report was presented."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T22:31:14+01:00"
+      }
+    },
     {
       "id": "78046edebb55",
       "schema_version": 1,
@@ -5170,86 +5251,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T08:01:26+01:00"
-      }
-    },
-    {
-      "id": "94b289ae5410",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/riksbankens-it-chef-akte-med-pa-lyxresa-infor-upphandling",
-      "guid": "0e2155b1-9ab4-43a1-989b-449f59341c0a",
-      "published_at": "2026-11-17T07:37:13+01:00",
-      "fetched_at": "2026-11-17T07:45:43+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/bd862702-bef0-4d7c-97d4-0c67987ecc96.jpeg?width=600",
-      "sv": {
-        "title": "Riksbankens it-chef åkte med på lyxresa inför upphandling",
-        "summary": "Riksbankens it-chef Mats Eklund åkte med på en lyxresa med teknikföretaget Fujitsu inför en it-upphandling värd runt 400 miljoner kronor, där Fujitsu var en av de tänkbara anbudsgivarna, rapporterar Sveriges Radio Ekot.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Riksbank IT chief went on luxury trip ahead of procurement",
-        "summary": "Riksbank IT chief Mats Eklund went on a luxury trip with technology company Fujitsu ahead of an IT procurement worth around SEK 400 million, where Fujitsu was one of the potential bidders, reports Sveriges Radio Ekot."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:45:49+01:00"
-      }
-    },
-    {
-      "id": "c196a2f9a424",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/roche-far-fda-ja-for-oral-brostcancerbehandling",
-      "guid": "2910cbb8-f228-4418-b9b9-ed3fd8f35e4b",
-      "published_at": "2026-11-17T07:36:12+01:00",
-      "fetched_at": "2026-11-17T07:45:43+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Roche får FDA-ja för oral bröstcancerbehandling",
-        "summary": "Amerikanska läkemedelsmyndigheten FDA har godkänt schweiziska läkemedelsbolaget Roches Wilserdly, en oral Serd-behandling, för ER-positiv, ESR1-muterad avancerad bröstcancer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Roche gets FDA approval for oral breast cancer treatment",
-        "summary": "The US Food and Drug Administration (FDA) has approved Swiss pharmaceutical company Roche's Wilserdly, an oral Serd treatment, for ER-positive, ESR1-mutated advanced breast cancer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:45:49+01:00"
-      }
-    },
-    {
-      "id": "77af23270d7d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/seb-strateg-ha-inte-pengarna-har-om-ai-bubblan-spricker",
-      "guid": "9c0bfa75-6de0-4c75-9452-8fce9f69c327",
-      "published_at": "2026-11-17T07:34:56+01:00",
-      "fetched_at": "2026-11-17T07:45:43+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b75d8a33-e11f-4750-acc9-e54d84f9009b.jpeg?width=600",
-      "sv": {
-        "title": "SEB-strateg: Ha inte pengarna här om AI-bubblan spricker",
-        "summary": "SEB bedömer att oron för ett nära förestående slut på AI-boomen, att det är en bubbla som spricker nu, är överdriven. Om man ändå tror att den gör det, är det fel att parkera pengarna på hemmaplan, argumenterar banken i ett avsnitt om nordiska aktier i publikationen SEB Investment Outlook på…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "SEB strategist: Don't keep the money here if the AI bubble bursts",
-        "summary": "SEB judges that concern over an imminent end to the AI boom, that it is a bubble bursting now, is exaggerated. If you still believe it is, it is wrong to park the money at home, the bank argues in a section on Nordic equities in the publication SEB Investment Outlook on…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:45:49+01:00"
       }
     }
   ]
