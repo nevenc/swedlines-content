@@ -1,7 +1,113 @@
 {
-  "generated_at": "2026-11-17T12:16:04+01:00",
+  "generated_at": "2026-11-17T12:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1b55d05196a3",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344260",
+      "guid": "rss:sr.se/article/9344260",
+      "published_at": "2026-11-17T12:28:00+01:00",
+      "fetched_at": "2026-11-17T12:30:59+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Höga förväntningar på Nvidias kvartalsrapport",
+        "summary": "Ikväll släpper den amerikanska chiptillverkaren Nvidia sin rapport för tredje kvartalet. Samtidigt som bolaget befinner sig i en kris, där vd:n Jensen Huang fått avgå, förväntas fortsatt ökad omsättning och vinst. ”Det är fortfarande väldigt starka förväntningar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "High expectations for Nvidia's quarterly report",
+        "summary": "Tonight the American chipmaker Nvidia releases its report for the third quarter. While the company is in crisis, with CEO Jensen Huang having been forced to step down, revenue and profit growth are expected to continue. \"There are still very strong expectations."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:31:09+01:00"
+      }
+    },
+    {
+      "id": "f3787290370a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/borsmorgon-17-november-2026-se-hela-programmet",
+      "guid": "15b7fe03-321f-59de-b321-13d3963a6ef7",
+      "published_at": "2026-11-17T12:26:07+01:00",
+      "fetched_at": "2026-11-17T12:31:03+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Börsmorgon 17 november 2026 – se hela programmet",
+        "summary": "Under ledning av Fredrik Lennander och Helena Yohnnes Magnusson",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stock market morning 17 November 2026 – see the full programme",
+        "summary": "Hosted by Fredrik Lennander and Helena Yohnnes Magnusson"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:31:09+01:00"
+      }
+    },
+    {
+      "id": "5863bdaf1173",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/det-avgor-nvidias-rapportode",
+      "guid": "acd1b178-12fc-495e-b11c-625af451ae5a",
+      "published_at": "2026-11-17T12:20:40+01:00",
+      "fetched_at": "2026-11-17T12:31:03+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/24ca65ef-d17e-4c31-8024-69e1eab1fccc.jpeg?width=600",
+      "sv": {
+        "title": "Det avgör Nvidias rapportöde",
+        "summary": "Marknaden håller andan inför den pressade halvledarjätten Nvidias rapport – som för första gången dimper ned utan att Jensen Huang står vid rodret. Enligt teknikförvaltaren Inge Heydorn kommer tre punkter att bli avgörande för placerarnas dom.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This will decide Nvidia's report",
+        "summary": "The market is holding its breath ahead of the under-pressure semiconductor giant Nvidia's report – which for the first time arrives without Jensen Huang at the helm. According to technology fund manager Inge Heydorn, three points will be decisive for investors' verdict."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:31:09+01:00"
+      }
+    },
+    {
+      "id": "9786cd27c686",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/trumps-konton-handlade-nvidia-for-mangmiljonbelopp",
+      "guid": "b663c19e-3e23-4c94-a446-4214f3df76ee",
+      "published_at": "2026-11-17T12:16:26+01:00",
+      "fetched_at": "2026-11-17T12:31:03+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/191e6aaf-2f97-41f2-8f81-7e3ff336f86f.jpeg?width=600",
+      "sv": {
+        "title": "Trumps konton handlade Nvidia för mångmiljonbelopp",
+        "summary": "USA:s president Donald Trumps aktieförvaltare har handlat intensivt i Nvidia-aktien under det senaste året, enligt kontoutdrag som CNBC gått igenom och rapporterar om.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's accounts bought Nvidia for multi-million amounts",
+        "summary": "US President Donald Trump's investment manager has traded heavily in Nvidia shares over the past year, according to account statements that CNBC has reviewed and reports on."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:31:09+01:00"
+      }
+    },
     {
       "id": "cbaed9ea5e48",
       "schema_version": 1,
@@ -5187,113 +5293,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T14:45:56+01:00"
-      }
-    },
-    {
-      "id": "01d1ce300896",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/revolut-far-baxlaxa-for-penningtvattsbrister-igen",
-      "guid": "17a6e5cc-a355-4d22-93c5-bc4beadd1ecb",
-      "published_at": "2026-11-16T14:31:28+01:00",
-      "fetched_at": "2026-11-16T14:45:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/00a04a81-885f-491b-a7af-620fc7c263f5.jpg?width=600",
-      "sv": {
-        "title": "Revolut får baxläxa för penningtvättsbrister – igen",
-        "summary": "Snabbväxande Revolut får återigen bakläxa för sitt arbete mot penningtvätt – denna gång från en domstol i Milano. Nu ska bankutmanarens italienska verksamhet stå under så kallad rättslig tillsyn under ett års tid.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Revolut gets a scolding over money laundering deficiencies – again",
-        "summary": "Fast-growing Revolut is once again being reprimanded for its anti-money laundering work – this time by a court in Milan. Now the challenger bank's Italian operations are to be under so-called judicial supervision for one year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:45:56+01:00"
-      }
-    },
-    {
-      "id": "3649b45eec6e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/landerholm-overklagar-till-hogsta-domstolen",
-      "guid": "e159e701-7cc5-45e7-8fc7-1e148d53703e",
-      "published_at": "2026-11-16T14:17:24+01:00",
-      "fetched_at": "2026-11-16T14:31:07+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/89845160-3e35-4d71-acde-6faa7ee1a64a.jpg?width=600",
-      "sv": {
-        "title": "Landerholm överklagar till Högsta domstolen",
-        "summary": "Henrik Landerholm överklagar till Högsta domstolen, skriver DN med hänvisning till domstolshandlingar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Landerholm appeals to the Supreme Court",
-        "summary": "Henrik Landerholm appeals to the Supreme Court, DN reports, citing court documents."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:31:14+01:00"
-      }
-    },
-    {
-      "id": "2dddb7c26c98",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/warren-buffett-donerar-miljarder",
-      "guid": "4c35e465-3f38-4161-9977-817f3815ed4f",
-      "published_at": "2026-11-16T14:15:05+01:00",
-      "fetched_at": "2026-11-16T14:31:07+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/98127f91-7a1e-477b-83b5-aa0f8e51edc1.jpeg?width=600",
-      "sv": {
-        "title": "Warren Buffett donerar miljarder",
-        "summary": "Finansnestorn Warren Buffett donerar motsvarande 55 miljarder kronor till fyra filantropiska stiftelser, lagom till firandet av Thanksgiving i slutet av november.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Warren Buffett donates billions",
-        "summary": "Finance titan Warren Buffett donates the equivalent of SEK 55 billion to four philanthropic foundations, just in time for the Thanksgiving celebrations at the end of November."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:31:14+01:00"
-      }
-    },
-    {
-      "id": "de43a0b2cd49",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/heba-saljer-fastighet-i-taby-for-83-mkr",
-      "guid": "13ee996b-c2c0-41ae-b4fe-5ca630eb6307",
-      "published_at": "2026-11-16T14:07:53+01:00",
-      "fetched_at": "2026-11-16T14:31:07+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Heba säljer fastighet i Täby för 83 Mkr",
-        "summary": "Fastighetsbolaget Heba har träffat avtal om försäljning av Markan 6 i Täby.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Heba sells property in Täby for SEK 83 million",
-        "summary": "Property company Heba has signed an agreement to sell Markan 6 in Täby."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:31:14+01:00"
       }
     }
   ]

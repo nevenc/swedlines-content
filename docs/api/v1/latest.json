@@ -1,7 +1,267 @@
 {
-  "generated_at": "2026-11-17T12:16:04+01:00",
+  "generated_at": "2026-11-17T12:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f9ca8dca0b67",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/bk57we/flera-bostader-brinner-i-radhusbrand",
+      "guid": "https://www.aftonbladet.se/nyheter/a/bk57we/flera-bostader-brinner-i-radhusbrand?utm_medium=rss",
+      "published_at": "2026-11-17T12:28:28+01:00",
+      "fetched_at": "2026-11-17T12:31:01+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/b253afb0-3bb4-35dd-a8ba-9b63d2210763?format=auto&s=5cbcfd4eb6d3193895b41a95b264fc8d960d24d1&w=1000",
+      "sv": {
+        "title": "Flera bostäder brinner i radhusbrand",
+        "summary": "En brand har brutit ut i en radhuslänga i Södertälje, skriver polisen på sin hemsida.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Several homes burn in row house fire",
+        "summary": "A fire has broken out in a row house block in Södertälje, the police say on their website."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:31:09+01:00"
+      }
+    },
+    {
+      "id": "1b55d05196a3",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344260",
+      "guid": "rss:sr.se/article/9344260",
+      "published_at": "2026-11-17T12:28:00+01:00",
+      "fetched_at": "2026-11-17T12:30:59+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Höga förväntningar på Nvidias kvartalsrapport",
+        "summary": "Ikväll släpper den amerikanska chiptillverkaren Nvidia sin rapport för tredje kvartalet. Samtidigt som bolaget befinner sig i en kris, där vd:n Jensen Huang fått avgå, förväntas fortsatt ökad omsättning och vinst. ”Det är fortfarande väldigt starka förväntningar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "High expectations for Nvidia's quarterly report",
+        "summary": "Tonight the American chipmaker Nvidia releases its report for the third quarter. While the company is in crisis, with CEO Jensen Huang having been forced to step down, revenue and profit growth are expected to continue. \"There are still very strong expectations."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:31:09+01:00"
+      }
+    },
+    {
+      "id": "2ecc6fbf51f6",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80000",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80000&utm_medium=rss",
+      "published_at": "2026-11-17T12:27:11+01:00",
+      "fetched_at": "2026-11-17T12:31:01+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Radhus brinner i Södertälje"
+      },
+      "en": {
+        "title": "Row house on fire in Södertälje"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:31:09+01:00"
+      }
+    },
+    {
+      "id": "f3787290370a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/borsmorgon-17-november-2026-se-hela-programmet",
+      "guid": "15b7fe03-321f-59de-b321-13d3963a6ef7",
+      "published_at": "2026-11-17T12:26:07+01:00",
+      "fetched_at": "2026-11-17T12:31:03+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Börsmorgon 17 november 2026 – se hela programmet",
+        "summary": "Under ledning av Fredrik Lennander och Helena Yohnnes Magnusson",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stock market morning 17 November 2026 – see the full programme",
+        "summary": "Hosted by Fredrik Lennander and Helena Yohnnes Magnusson"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:31:09+01:00"
+      }
+    },
+    {
+      "id": "5fdfbdecee27",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/kultur/kungahuset-till-nye-bond-valkommen",
+      "guid": "https://www.svt.se/kultur/kungahuset-till-nye-bond-valkommen",
+      "published_at": "2026-11-17T12:24:08+01:00",
+      "fetched_at": "2026-11-17T12:30:58+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Kungahuset till nye Bond: ”Välkommen”",
+        "summary": "Inte bara filmvärlden reagerar på nyheten om att Robert Pattinson är den nye agent 007. ”Välkommen till Hans Majestäts hemliga tjänst, mr Bond”, skriver det brittiska kungahuset på Instagram.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Royal Family to the new Bond: \"Welcome\"",
+        "summary": "Not only the film world is reacting to the news that Robert Pattinson is the new agent 007. \"Welcome to His Majesty's secret service, Mr Bond,\" the British royal family writes on Instagram."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:31:09+01:00"
+      }
+    },
+    {
+      "id": "2ea6a87a912a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=463f9db4-7300-43ee-a954-03811fc48ddd",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=463f9db4-7300-43ee-a954-03811fc48ddd",
+      "published_at": "2026-11-17T12:22:21+01:00",
+      "fetched_at": "2026-11-17T12:31:02+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Flera radhus i brand",
+        "summary": "Storbrand i Södertälje, rapporterar P4 Stockholm",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Several row houses on fire",
+        "summary": "Major fire in Södertälje, reports P4 Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:31:09+01:00"
+      }
+    },
+    {
+      "id": "5863bdaf1173",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/det-avgor-nvidias-rapportode",
+      "guid": "acd1b178-12fc-495e-b11c-625af451ae5a",
+      "published_at": "2026-11-17T12:20:40+01:00",
+      "fetched_at": "2026-11-17T12:31:03+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/24ca65ef-d17e-4c31-8024-69e1eab1fccc.jpeg?width=600",
+      "sv": {
+        "title": "Det avgör Nvidias rapportöde",
+        "summary": "Marknaden håller andan inför den pressade halvledarjätten Nvidias rapport – som för första gången dimper ned utan att Jensen Huang står vid rodret. Enligt teknikförvaltaren Inge Heydorn kommer tre punkter att bli avgörande för placerarnas dom.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This will decide Nvidia's report",
+        "summary": "The market is holding its breath ahead of the under-pressure semiconductor giant Nvidia's report – which for the first time arrives without Jensen Huang at the helm. According to technology fund manager Inge Heydorn, three points will be decisive for investors' verdict."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:31:09+01:00"
+      }
+    },
+    {
+      "id": "2f317b6c8aeb",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/beganovic-far-f1-chans-igen",
+      "guid": "https://www.svt.se/nyheter/lokalt/ost/beganovic-far-f1-chans-igen",
+      "published_at": "2026-11-17T12:17:53+01:00",
+      "fetched_at": "2026-11-17T12:30:58+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Beganovic får F1-chans igen",
+        "summary": "Dino Beganovic får återigen chansen att sätta sig bakom ratten i en Formel 1-bil. Svensken kommer att köra det första träningspasset inför Las Vegas GP, då han ersätter Lewis Hamilton i Ferraristallet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Beganovic gets F1 chance again",
+        "summary": "Dino Beganovic gets another chance to sit behind the wheel of a Formula 1 car. The Swede will drive the first practice session ahead of the Las Vegas GP, replacing Lewis Hamilton at Ferrari."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:31:09+01:00"
+      }
+    },
+    {
+      "id": "9786cd27c686",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/trumps-konton-handlade-nvidia-for-mangmiljonbelopp",
+      "guid": "b663c19e-3e23-4c94-a446-4214f3df76ee",
+      "published_at": "2026-11-17T12:16:26+01:00",
+      "fetched_at": "2026-11-17T12:31:03+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/191e6aaf-2f97-41f2-8f81-7e3ff336f86f.jpeg?width=600",
+      "sv": {
+        "title": "Trumps konton handlade Nvidia för mångmiljonbelopp",
+        "summary": "USA:s president Donald Trumps aktieförvaltare har handlat intensivt i Nvidia-aktien under det senaste året, enligt kontoutdrag som CNBC gått igenom och rapporterar om.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's accounts bought Nvidia for multi-million amounts",
+        "summary": "US President Donald Trump's investment manager has traded heavily in Nvidia shares over the past year, according to account statements that CNBC has reviewed and reports on."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:31:09+01:00"
+      }
+    },
+    {
+      "id": "70f67a456374",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=6a06742d-b3eb-4ac1-ada7-678a1ff4a330",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6a06742d-b3eb-4ac1-ada7-678a1ff4a330",
+      "published_at": "2026-11-17T12:16:23+01:00",
+      "fetched_at": "2026-11-17T12:31:02+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Präster får fortsatt säga nej till samkönade",
+        "summary": "Ska utredas",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Priests may continue to refuse same-sex marriages",
+        "summary": "To be investigated"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:31:09+01:00"
+      }
+    },
     {
       "id": "626f5e166378",
       "schema_version": 1,
@@ -5075,270 +5335,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T07:45:49+01:00"
-      }
-    },
-    {
-      "id": "c196a2f9a424",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/roche-far-fda-ja-for-oral-brostcancerbehandling",
-      "guid": "2910cbb8-f228-4418-b9b9-ed3fd8f35e4b",
-      "published_at": "2026-11-17T07:36:12+01:00",
-      "fetched_at": "2026-11-17T07:45:43+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Roche får FDA-ja för oral bröstcancerbehandling",
-        "summary": "Amerikanska läkemedelsmyndigheten FDA har godkänt schweiziska läkemedelsbolaget Roches Wilserdly, en oral Serd-behandling, för ER-positiv, ESR1-muterad avancerad bröstcancer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Roche gets FDA approval for oral breast cancer treatment",
-        "summary": "The US Food and Drug Administration (FDA) has approved Swiss pharmaceutical company Roche's Wilserdly, an oral Serd treatment, for ER-positive, ESR1-mutated advanced breast cancer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:45:49+01:00"
-      }
-    },
-    {
-      "id": "77af23270d7d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/seb-strateg-ha-inte-pengarna-har-om-ai-bubblan-spricker",
-      "guid": "9c0bfa75-6de0-4c75-9452-8fce9f69c327",
-      "published_at": "2026-11-17T07:34:56+01:00",
-      "fetched_at": "2026-11-17T07:45:43+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b75d8a33-e11f-4750-acc9-e54d84f9009b.jpeg?width=600",
-      "sv": {
-        "title": "SEB-strateg: Ha inte pengarna här om AI-bubblan spricker",
-        "summary": "SEB bedömer att oron för ett nära förestående slut på AI-boomen, att det är en bubbla som spricker nu, är överdriven. Om man ändå tror att den gör det, är det fel att parkera pengarna på hemmaplan, argumenterar banken i ett avsnitt om nordiska aktier i publikationen SEB Investment Outlook på…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "SEB strategist: Don't keep the money here if the AI bubble bursts",
-        "summary": "SEB judges that concern over an imminent end to the AI boom, that it is a bubble bursting now, is exaggerated. If you still believe it is, it is wrong to park the money at home, the bank argues in a section on Nordic equities in the publication SEB Investment Outlook on…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:45:49+01:00"
-      }
-    },
-    {
-      "id": "294098ae55cb",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/skanska-saljer-hyresbostadsprojekt-for-460-mkr",
-      "guid": "f8acc4f7-0577-417f-81ce-4569500bce6f",
-      "published_at": "2026-11-17T07:34:40+01:00",
-      "fetched_at": "2026-11-17T07:45:43+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/1907e16a-35da-4905-ab15-93a64f9f135f.jpeg?width=600",
-      "sv": {
-        "title": "Skanska säljer hyresbostadsprojekt för 460 Mkr",
-        "summary": "Skanska har tecknat avtal om att avyttra ett egenutvecklat hyresbostadsprojekt i Uppsala till Folksamgruppen genom KPA Pension. Det framgår av ett pressmeddelande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Skanska sells rental housing project for SEK 460 million",
-        "summary": "Skanska has signed an agreement to divest a self-developed rental housing project in Uppsala to Folksam Group through KPA Pension. This is according to a press release."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:45:49+01:00"
-      }
-    },
-    {
-      "id": "e9da69121de0",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/EbWbm3/huang-kallas-till-kongressforhor",
-      "guid": "https://www.svd.se/a/EbWbm3/huang-kallas-till-kongressforhor?utm_medium=rss",
-      "published_at": "2026-11-17T07:33:10+01:00",
-      "fetched_at": "2026-11-17T07:45:41+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/f2b01143-f6a2-30e9-85c2-c11fecb034de?format=auto&s=f07acba2522348885b163193e2701a979a84e656&w=1000",
-      "sv": {
-        "title": "Huang kallas till kongressförhör"
-      },
-      "en": {
-        "title": "Huang summoned to congressional hearing"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:45:49+01:00"
-      }
-    },
-    {
-      "id": "3d3233481a16",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/sanna-jag-sag-holmes-filmen-i-washington-och-blir-inte-kvitt-henne",
-      "guid": "https://www.dn.se/kultur/sanna-jag-sag-holmes-filmen-i-washington-och-blir-inte-kvitt-henne/",
-      "published_at": "2026-11-17T07:30:00+01:00",
-      "fetched_at": "2026-11-17T07:30:58+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/76a9b9f3-bd87-4953-94f8-371e7e9a701c.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Sanna: Jag såg Holmes-filmen i Washington – och blir inte kvitt henne",
-        "summary": "Slughet byggs i många lager. Sanna och hennes kompis i Los Angeles försöker bearbeta filmen om Elizabeth Holmes.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sanna: I saw the Holmes film in Washington – and can't shake her off",
-        "summary": "Cunning is built up in many layers. Sanna and her friend in Los Angeles try to process the film about Elizabeth Holmes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:31:07+01:00"
-      }
-    },
-    {
-      "id": "684da0f0216b",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/lillebror-i-sverige-forvandlades-jag-till-klumpig-och-sur",
-      "guid": "https://www.dn.se/kultur/lillebror-i-sverige-forvandlades-jag-till-klumpig-och-sur/",
-      "published_at": "2026-11-17T07:30:00+01:00",
-      "fetched_at": "2026-11-17T07:30:58+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/1440649c-4443-430e-9185-cc524ed62a71.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Lillebror: I Sverige förvandlades jag till klumpig och sur",
-        "summary": "Lillebror är för artig i Finland och för burdus i Sverige. Nu tränar han på småorden som får samtalen att flyta bättre i Stockholm.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lillebror: In Sweden I became clumsy and grumpy",
-        "summary": "Lillebror is too polite in Finland and too blunt in Sweden. Now he is practising the small words that help conversations flow better in Stockholm."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:31:07+01:00"
-      }
-    },
-    {
-      "id": "cbc177b426a4",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/sverige-behover-fler-jobb-bankerna-satter-stopp",
-      "guid": "082b3f64-37c2-4519-8711-7a0f8ce7b484",
-      "published_at": "2026-11-17T07:29:17+01:00",
-      "fetched_at": "2026-11-17T07:45:43+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/99094a76-0bec-4f8e-95dc-1c7eb8e693e3.jpeg?width=600",
-      "sv": {
-        "title": "Sverige behöver fler jobb - bankerna sätter stopp",
-        "summary": "Många vill både investera och anställa om de bara fick chansen. Men den frostiga relationen mellan småföretagare och bankerna hämmar utvecklingen, visar vår nya undersökning, skriver Småföretagarnas riksförbund.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sweden needs more jobs - banks put a stop to it",
-        "summary": "Many want to both invest and hire if they only got the chance. But the frosty relationship between small business owners and banks is holding back development, shows our new survey, writes the Confederation of Swedish Small Businesses."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:45:49+01:00"
-      }
-    },
-    {
-      "id": "d8a0296a8a37",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/positivt-resultat-for-smart-eye",
-      "guid": "96aaab5c-447d-4615-ae8b-4746aa4aac63",
-      "published_at": "2026-11-17T07:21:56+01:00",
-      "fetched_at": "2026-11-17T07:31:01+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/78e95cdc-b69f-454c-b003-ae08f1d22f5d.png?width=600",
-      "sv": {
-        "title": "Positivt resultat för Smart Eye",
-        "summary": "Ögonspårningsbolaget Smart Eye ökade omsättningen och lönsamheten under det tredje kvartalet. ”Vi är på väg mot ett positivt helårsresultat”, kommenterar vd Martin Krantz.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Positive result for Smart Eye",
-        "summary": "Eye-tracking company Smart Eye increased revenue and profitability in the third quarter. \"We are on track for a positive full-year result\", comments CEO Martin Krantz."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:31:07+01:00"
-      }
-    },
-    {
-      "id": "eed051c88f9f",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/tre-doda-efter-flygkrasch-vid-grand-canyon",
-      "guid": "https://www.svt.se/nyheter/utrikes/tre-doda-efter-flygkrasch-vid-grand-canyon",
-      "published_at": "2026-11-17T07:20:32+01:00",
-      "fetched_at": "2026-11-17T07:30:57+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Tre döda efter flygkrasch vid Grand Canyon",
-        "summary": "Tre personer dödades när ett mindre flygplan störtade vid Grand Canyon på måndagen, skriver nationalparken på sin hemsida.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Three dead after plane crash at Grand Canyon",
-        "summary": "Three people were killed when a small aircraft crashed at the Grand Canyon on Monday, the national park writes on its website."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:31:07+01:00"
-      }
-    },
-    {
-      "id": "b7aefce49c8c",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344074",
-      "guid": "rss:sr.se/article/9344074",
-      "published_at": "2026-11-17T07:18:00+01:00",
-      "fetched_at": "2026-11-17T07:30:58+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trump landar i Filippinerna – polisen har gripit demonstranter",
-        "summary": "USA:s president Donald Trump landar i dag i Asien. Hans resa börjar i Filippinerna och besöket kantas redan av protester. Inför presidentens ankomst har polisen i Manila gripit hundratals demonstranter som protesterat mot Pax Silica – den USA-ledda pakten som syftar till att säkra leveranskedjor…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Trump lands in the Philippines – police have arrested protesters",
-        "summary": "US President Donald Trump lands in Asia today. His trip begins in the Philippines and the visit is already marked by protests. Ahead of the president's arrival, police in Manila have arrested hundreds of demonstrators who protested against Pax Silica – the US-led pact that aims to secure supply chains…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:31:07+01:00"
       }
     }
   ]
