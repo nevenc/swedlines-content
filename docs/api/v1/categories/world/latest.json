@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-17T13:45:51+01:00",
+  "generated_at": "2026-11-17T14:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6bbc2f6c428f",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5TMI9rEj5vrGWjLBSswlkL/torkan-skapar-slukhal-marken-kan-rasa-grundvattnet-sjunker",
+      "guid": "5TMI9rEj5vrGWjLBSswlkL",
+      "published_at": "2026-11-17T13:45:37+01:00",
+      "fetched_at": "2026-11-17T14:01:20+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Utrikesnyheter"
+      ],
+      "sv": {
+        "title": "Torkan skapar slukhål – marken kan rasa: ”Grundvattnet sjunker”",
+        "summary": "I distriktet Konya i Turkiet har människor brukat jorden i 10 000 år. Men nu har torkan tagit ett grepp om landskapet och grundvattnet sjunker. På Yüksel Ekmekçis mark betade det tidigare massvis av får. Nu finns bara korna kvar. – När det inte finns något vatten blir det ingen skörd.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Drought creates sinkholes – ground may collapse: \"Groundwater is falling\"",
+        "summary": "In the Konya district of Turkey, people have farmed the land for 10,000 years. But now drought has taken hold of the landscape and the groundwater is falling. On Yüksel Ekmekçi's land, masses of sheep used to graze. Now only the cows remain. – When there is no water, there is no harvest."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T14:01:28+01:00"
+      }
+    },
     {
       "id": "1adf547f98ae",
       "schema_version": 1,
@@ -5328,33 +5357,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T16:15:44+01:00"
-      }
-    },
-    {
-      "id": "607c1cc3f834",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/qOLPqE/estland-stanger-gransen-mot-ryssland",
-      "guid": "https://www.aftonbladet.se/nyheter/a/qOLPqE/estland-stanger-gransen-mot-ryssland?utm_medium=rss",
-      "published_at": "2026-11-15T16:11:15+01:00",
-      "fetched_at": "2026-11-15T16:45:42+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/b0510a1a-d23d-383d-9c67-70756b0de840?format=auto&s=4c73dc27e73274a19f000faf7c1bb62efbe4f671&w=1000",
-      "sv": {
-        "title": "Estland stänger gränsen mot Ryssland",
-        "summary": "Misstänks ligga bakom attack",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estonia to close border with Russia",
-        "summary": "Suspected of being behind attack"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:45:49+01:00"
       }
     }
   ]
