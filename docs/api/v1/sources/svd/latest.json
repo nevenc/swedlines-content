@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T23:16:00+01:00",
+  "generated_at": "2026-11-17T23:31:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0e84f4456e69",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/KL3Gr5/sverige-obesegrat-i-nations-league",
+      "guid": "https://www.svd.se/a/KL3Gr5/sverige-obesegrat-i-nations-league?utm_medium=rss",
+      "published_at": "2026-11-17T23:15:08+01:00",
+      "fetched_at": "2026-11-17T23:30:56+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/ede83ec1-9417-3152-9a69-f15b3b6c5ecc?format=auto&s=9c66bedeb7e4ca79c20ac2ef3082b50aeae36cc0&w=1000",
+      "sv": {
+        "title": "Blågult är tillbaka i finrummet",
+        "summary": "Då kan vi vara lika bra som Norge igen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Blue and yellow is back in the parlour",
+        "summary": "Then we can be just as good as Norway again"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T23:31:02+01:00"
+      }
+    },
     {
       "id": "65b67614cbba",
       "schema_version": 1,
@@ -5184,33 +5211,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T20:30:22+01:00"
-      }
-    },
-    {
-      "id": "5a53114459dd",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/0vE5wo/svenska-techbolag-drar-ned-pa-juniorer-nar-ai-effektiviserar",
-      "guid": "https://www.svd.se/a/0vE5wo/svenska-techbolag-drar-ned-pa-juniorer-nar-ai-effektiviserar?utm_medium=rss",
-      "published_at": "2026-11-14T17:28:34+01:00",
-      "fetched_at": "2026-11-14T18:42:02+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/4337a466-adde-3440-a9d8-d3545d1357d6?format=auto&s=f6c82c8b73e5fc6a2fc3a4f1211eea41f3837ca8&w=1000",
-      "sv": {
-        "title": "AI tar juniorjobben – fälla för företagen",
-        "summary": "”Redan nu rekryterar vi inga juniora utvecklare.” Så beskriver ett svenskt techbolag hur…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "AI takes the junior jobs – a trap for companies",
-        "summary": "\"We are not recruiting any junior developers at all right now.\" That is how a Swedish tech company describes how…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:32+01:00"
       }
     }
   ]

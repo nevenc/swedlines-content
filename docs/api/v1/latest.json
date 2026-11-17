@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T23:16:00+01:00",
+  "generated_at": "2026-11-17T23:31:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0e84f4456e69",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/KL3Gr5/sverige-obesegrat-i-nations-league",
+      "guid": "https://www.svd.se/a/KL3Gr5/sverige-obesegrat-i-nations-league?utm_medium=rss",
+      "published_at": "2026-11-17T23:15:08+01:00",
+      "fetched_at": "2026-11-17T23:30:56+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/ede83ec1-9417-3152-9a69-f15b3b6c5ecc?format=auto&s=9c66bedeb7e4ca79c20ac2ef3082b50aeae36cc0&w=1000",
+      "sv": {
+        "title": "Blågult är tillbaka i finrummet",
+        "summary": "Då kan vi vara lika bra som Norge igen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Blue and yellow is back in the parlour",
+        "summary": "Then we can be just as good as Norway again"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T23:31:02+01:00"
+      }
+    },
     {
       "id": "d343a03ad29b",
       "schema_version": 1,
@@ -5374,32 +5401,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T16:45:54+01:00"
-      }
-    },
-    {
-      "id": "f5801143b3bb",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/sjukvardsanstalld-skadad-misstankt-mordforsok",
-      "guid": "https://www.expressen.se/nyheter/sverige/sjukvardsanstalld-skadad-misstankt-mordforsok/",
-      "published_at": "2026-11-17T16:06:54+01:00",
-      "fetched_at": "2026-11-17T16:15:50+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Sjukvårdsanställd skadad – misstänkt mordförsök",
-        "summary": "En anställd på Kalix hälsocentral har skadats i en attack. En man är gripen misstänkt för mordförsök. – Det här är en fruktansvärd händelse, säger regiondirektör Anna Alm Andersson i ett pressmeddelande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Healthcare employee injured – suspected attempted murder",
-        "summary": "An employee at the Kalix health centre has been injured in an attack. A man has been arrested on suspicion of attempted murder. – This is a terrible incident, says regional director Anna Alm Andersson in a press release."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:15:57+01:00"
       }
     }
   ]
