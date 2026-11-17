@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-17T08:31:04+01:00",
+  "generated_at": "2026-11-17T08:41:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b051662134e5",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79987",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79987&utm_medium=rss",
+      "published_at": "2026-11-17T08:31:38+01:00",
+      "fetched_at": "2026-11-17T08:41:19+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "SVT-profilen lämnar efter 36 år"
+      },
+      "en": {
+        "title": "SVT profile leaves after 36 years"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T08:41:27+01:00"
+      }
+    },
     {
       "id": "fd11c9c679f9",
       "schema_version": 1,
@@ -5204,29 +5227,6 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T14:56:57+01:00"
-      }
-    },
-    {
-      "id": "aa21a40c610a",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79889",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79889&utm_medium=rss",
-      "published_at": "2026-11-13T21:28:25+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Sverige slår Schweiz i hockeykvartsfinalen"
-      },
-      "en": {
-        "title": "Sweden beat Switzerland in the hockey quarter-final"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
       }
     }
   ]

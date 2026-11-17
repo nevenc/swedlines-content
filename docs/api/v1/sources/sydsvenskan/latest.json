@@ -1,7 +1,56 @@
 {
-  "generated_at": "2026-11-17T08:31:04+01:00",
+  "generated_at": "2026-11-17T08:41:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6f4583a793fb",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/bert-sundstrom-slutar-pa-svt",
+      "guid": "e04b9ca9-dc13-4b88-8150-a86afd480dbc",
+      "published_at": "2026-11-17T08:38:15+01:00",
+      "fetched_at": "2026-11-17T08:41:22+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Bert Sundström slutar på SVT",
+        "summary": "Journalisten Bert Sundström slutar på SVT efter 36 år, rapporterar SVT Nyheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bert Sundström leaves SVT",
+        "summary": "Journalist Bert Sundström is leaving SVT after 36 years, SVT Nyheter reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T08:41:27+01:00"
+      }
+    },
+    {
+      "id": "08324b8c8570",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/169-kvadratmeter-stort-hus-for-8-9-miljoner",
+      "guid": "07f04dd5-f026-4d6f-abc6-376c75e3897f",
+      "published_at": "2026-11-17T08:35:46+01:00",
+      "fetched_at": "2026-11-17T08:41:22+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "169 kvadratmeter stort hus för 8,9 miljoner"
+      },
+      "en": {
+        "title": "169 square metre house for SEK 8.9 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T08:41:27+01:00"
+      }
+    },
     {
       "id": "ba4640a6b1be",
       "schema_version": 1,
@@ -5253,60 +5302,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:52+01:00"
-      }
-    },
-    {
-      "id": "6f6ae90297a1",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/skulle-handla-korv-och-brod-raddade-livet-pa-lars-utanfor-ica",
-      "guid": "b4880e1a-66b4-410b-b2ad-16a90518400b",
-      "published_at": "2026-11-14T06:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/4bd1d3d6-7aa2-4772-a884-08084bb224af.jpeg?width=600",
-      "sv": {
-        "title": "Skulle handla korv och bröd – räddade livet på Lars utanför Ica",
-        "summary": "I sju minuter låg Lars Anderberg död på marken vid cykelstället utanför Ica Linero. Men tack vare ett mycket snabbt ingripande från Philippa Salomonsson som skulle köpa grillkorv lever han i dag. – Läkarna säger skämtsamt att detta är Lars 2.0, säger Lars Anderberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Was going to buy sausage and bread – saved Lars's life outside Ica",
-        "summary": "For seven minutes Lars Anderberg lay dead on the ground by the bike rack outside Ica Linero. But thanks to a very quick intervention by Philippa Salomonsson, who was going to buy grill sausages, he is alive today. – The doctors jokingly say this is Lars 2.0, says Lars Anderberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:02+01:00"
-      }
-    },
-    {
-      "id": "8cd39dd996b0",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/stoppa-urholkningen-av-hogskolans-resurser-stark-drivkrafterna-att-utbilda-sig",
-      "guid": "22a16433-e008-4f12-95e0-74f02005fa9e",
-      "published_at": "2026-11-14T05:45:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/94170e74-c898-4dde-8b16-5672cb048798.jpeg?width=600",
-      "sv": {
-        "title": "”Stoppa urholkningen av högskolans resurser, stärk drivkrafterna att utbilda sig.”",
-        "summary": "En högskoleutbildning innebär år av studier, ofta med lån och avstådda arbetsinkomster. Investeringen bygger på förtroende för att ansträngningen lönar sig, skriver företrädare för Sveriges akademikers centralorganisation, Saco.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Stop the erosion of higher education resources, strengthen incentives to get an education.\"",
-        "summary": "A higher education degree means years of study, often with loans and forgone earnings. The investment rests on trust that the effort pays off, writes representatives of Saco, the central organisation of Swedish academics."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:02+01:00"
       }
     }
   ]

@@ -1,7 +1,83 @@
 {
-  "generated_at": "2026-11-17T08:31:04+01:00",
+  "generated_at": "2026-11-17T08:41:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "12b9437feb78",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/resultatlyft-for-zinzino",
+      "guid": "7bc3a4a0-9387-4508-a95f-33fffa759187",
+      "published_at": "2026-11-17T08:37:16+01:00",
+      "fetched_at": "2026-11-17T08:41:21+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/5942dc1b-3d2e-47e4-9f82-fe5c037ec4c3.jpeg?width=600",
+      "sv": {
+        "title": "Resultatlyft för Zinzino",
+        "summary": "Zinzino, ett direktförsäljningsföretag som säljer produkter inom kosttillskott redovisar ett ebitda-resultat om 169 miljoner kronor för det tredje kvartalet 2026, ett lyft från 110 miljoner i jämförelsekvartalet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Profit boost for Zinzino",
+        "summary": "Zinzino, a direct-selling company that sells dietary supplement products, reports an EBITDA result of SEK 169 million for the third quarter of 2026, up from SEK 110 million in the comparison quarter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T08:41:27+01:00"
+      }
+    },
+    {
+      "id": "08324b8c8570",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/169-kvadratmeter-stort-hus-for-8-9-miljoner",
+      "guid": "07f04dd5-f026-4d6f-abc6-376c75e3897f",
+      "published_at": "2026-11-17T08:35:46+01:00",
+      "fetched_at": "2026-11-17T08:41:22+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "169 kvadratmeter stort hus för 8,9 miljoner"
+      },
+      "en": {
+        "title": "169 square metre house for SEK 8.9 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T08:41:27+01:00"
+      }
+    },
+    {
+      "id": "1a568703234f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/morgonsammanfattning-usa-s-exportrestriktioner-sanker-asienborserna",
+      "guid": "08328796-010c-5b99-9152-04cbc2ae277a",
+      "published_at": "2026-11-17T08:34:51+01:00",
+      "fetched_at": "2026-11-17T08:41:21+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Morgonsammanfattning: USA:s exportrestriktioner sänker Asienbörserna",
+        "summary": "Andreas Johansson går igenom natten och gårdagens höjdpunkter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Morning summary: US export restrictions drag Asian stock markets lower",
+        "summary": "Andreas Johansson goes through the night and yesterday's highlights."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T08:41:27+01:00"
+      }
+    },
     {
       "id": "6c5a17758bb6",
       "schema_version": 1,
@@ -5237,86 +5313,6 @@
       "en": {
         "title": "Fortnox cuts staff and invests billions in AI",
         "summary": "Fortnox, owned by EQT and Olof Hallrup, is cutting almost a fifth of its workforce and investing SEK 5 billion to become a pure AI company. \"We need to work fundamentally differently to get full return on the AI investments we are making,\" says CEO Tommy Eklund."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:15:48+01:00"
-      }
-    },
-    {
-      "id": "92408dce44a4",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/bekraftat-trump-xi-och-putin-mots-i-veckan",
-      "guid": "d2022522-b5d2-44e2-bc6a-94d2d784940e",
-      "published_at": "2026-11-16T09:03:41+01:00",
-      "fetched_at": "2026-11-16T09:15:41+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/8bde79fa-f930-4603-9b77-38f43d2a40e1.jpg?width=600",
-      "sv": {
-        "title": "Bekräftat: Trump, Xi och Putin möts i veckan",
-        "summary": "Det blir ett trepartsmöte mellan Donald Trump, Xi Jinping och Vladimir Putin senare i veckan. Det står klart då även Kina bekräftar mötet. Ukrainakriget väntas dock inte stå med på dagordningen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Confirmed: Trump, Xi and Putin meet this week",
-        "summary": "A three-way meeting between Donald Trump, Xi Jinping and Vladimir Putin will take place later this week. This became clear when China also confirmed the meeting. The war in Ukraine is not, however, expected to be on the agenda."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:15:48+01:00"
-      }
-    },
-    {
-      "id": "8a1a323fb1fb",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/dampad-borsstart-pa-veckan",
-      "guid": "2e407a89-93a0-4200-ac34-f860b27cfa9e",
-      "published_at": "2026-11-16T09:03:37+01:00",
-      "fetched_at": "2026-11-16T09:15:41+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/88b1f21f-9c29-47eb-a9ef-435b61cb0225.jpeg?width=600",
-      "sv": {
-        "title": "Dämpad börsstart på veckan",
-        "summary": "Stockholmsbörsen inleder veckan med avvaktande rörelser. Således ser indexen ut att stå emot teknikfrossan i Asien – som följde fredagens sura avslut på Wall Street.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Subdued stock market start to the week",
-        "summary": "The Stockholm Stock Exchange starts the week with cautious movements. The indices thus appear set to withstand the tech sell-off in Asia, which followed Friday's sour close on Wall Street."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:15:48+01:00"
-      }
-    },
-    {
-      "id": "8944a58baef3",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/rapportsasongen-vinsterna-fortsatter-uppat",
-      "guid": "59892b8d-ae37-50c5-8a5a-dc57804ea9f6",
-      "published_at": "2026-11-16T09:03:11+01:00",
-      "fetched_at": "2026-11-16T09:15:41+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Rapportsäsongen: Vinsterna fortsätter uppåt",
-        "summary": "Svenska Dagbladets börsanalytiker Peter Malmqvist summerar rapportsäsongen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Earnings season: Profits continue upward",
-        "summary": "Svenska Dagbladet stock market analyst Peter Malmqvist summarises the earnings season."
       },
       "translation": {
         "status": "done",
