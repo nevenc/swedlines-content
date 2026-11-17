@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T00:30:59+01:00",
+  "generated_at": "2026-11-18T00:45:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4f56effa9d67",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/dJOMbO/krimbron-sa-slog-ukraina-ut-den-i-tre-vagor",
+      "guid": "https://www.aftonbladet.se/nyheter/a/dJOMbO/krimbron-sa-slog-ukraina-ut-den-i-tre-vagor?utm_medium=rss",
+      "published_at": "2026-11-18T00:34:54+01:00",
+      "fetched_at": "2026-11-18T00:45:42+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/15c6ed85-6df3-384a-87c2-cae4db83f657?format=auto&s=6a78ab1a006c3d444d9f9b69efa6b33e0a7bc6ee&w=1000",
+      "sv": {
+        "title": "Attack i tre vågor förstörde Putins bro: ”Kejsaren är naken”",
+        "summary": "Källa: Därför kom attacken nu",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Attack in three waves destroyed Putin's bridge: \"The emperor has no clothes\"",
+        "summary": "Source: This is why the attack came now"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T00:45:46+01:00"
+      }
+    },
     {
       "id": "add28af9841a",
       "schema_version": 1,
@@ -5344,33 +5371,6 @@
       "en": {
         "title": "Here are 15 of S's promises to C: “Ready to amend the constitution”",
         "summary": "Sources: “Ready to amend the constitution”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:36+01:00"
-      }
-    },
-    {
-      "id": "ccc1186568ac",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/dJOngw/valdet-fick-studenterna-att-agera-pausade-livet",
-      "guid": "https://www.aftonbladet.se/nyheter/a/dJOngw/valdet-fick-studenterna-att-agera-pausade-livet?utm_medium=rss",
-      "published_at": "2026-11-14T13:41:44+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/5f668705-aadd-381b-80a7-04ac3ab84801?format=auto&s=558d05d0abbde304c93c6f24249039c9ab712abd&w=1000",
-      "sv": {
-        "title": "Våldet fick studenterna att agera: ”Pausade livet”",
-        "summary": "Efter den serbiska valskrällen vill världen nu veta om studentrörelsen kan gå från protester till…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The violence made the students act: “Paused life”",
-        "summary": "After the Serbian election upset, the world now wants to know whether the student movement can move from protests to…"
       },
       "translation": {
         "status": "done",
