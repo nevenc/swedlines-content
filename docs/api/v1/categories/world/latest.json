@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T12:31:10+01:00",
+  "generated_at": "2026-11-17T12:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ba2282f2d30c",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344136",
+      "guid": "rss:sr.se/article/9344136",
+      "published_at": "2026-11-17T12:32:00+01:00",
+      "fetched_at": "2026-11-17T12:45:46+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Amerikaner vill visa: har inte har lämnat klimatfrågan",
+        "summary": "Efter det amerikanska mellanårsvalet har en delegation med 18 kongressledamöter från demokraterna besökt klimatmötet Cop31 i Turkiet. Kongressledamoten Suzanne Bonamici från Oregon säger att de är på plats för att visa att det finns krafter i USA som vill jobba för att lösa problemet med…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Americans want to show: they have not abandoned the climate issue",
+        "summary": "After the US midterm elections, a delegation of 18 Democratic members of Congress has visited the Cop31 climate summit in Turkey. Congresswoman Suzanne Bonamici from Oregon says they are there to show that there are forces in the US that want to work to solve the problem with…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:45:55+01:00"
+      }
+    },
     {
       "id": "b88784d4b0ec",
       "schema_version": 1,
@@ -5325,33 +5351,6 @@
       "en": {
         "title": "Swedish soldiers travel on NATO mission: To deter Russian attacks",
         "summary": "The mission is to deter Russian attacks against NATO. Now Skåne's P7 soldiers are being sent to Latvia for the third time – this time equipped with new technology that will change the conditions in combat"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T13:31:07+01:00"
-      }
-    },
-    {
-      "id": "fae1a69cac60",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/BrR0Ew/lavrov-putins-krav-har-inte-forandrats-alls",
-      "guid": "https://www.svd.se/a/BrR0Ew/lavrov-putins-krav-har-inte-forandrats-alls?utm_medium=rss",
-      "published_at": "2026-11-15T13:20:32+01:00",
-      "fetched_at": "2026-11-15T13:30:54+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/e42e5c7b-6db6-3f09-a5dc-4960452166d8?format=auto&s=9015b3252bda4d90d46a81326f7dbecb75bed244&w=1000",
-      "sv": {
-        "title": "Lavrov: Putins krav har inte förändrats alls",
-        "summary": "Ryssland sätter hårt mot hårt när det görs ett nytt försök att nå en fredslösning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lavrov: Putin's demands have not changed at all",
-        "summary": "Russia is taking a hard line as a new attempt is made to reach a peace settlement"
       },
       "translation": {
         "status": "done",

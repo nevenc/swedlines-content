@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T12:31:10+01:00",
+  "generated_at": "2026-11-17T12:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7c04cabc2d9b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Oypj23/inget-beslut-om-samkonade-vigslar-skjuts-upp",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Oypj23/inget-beslut-om-samkonade-vigslar-skjuts-upp?utm_medium=rss",
+      "published_at": "2026-11-17T12:30:49+01:00",
+      "fetched_at": "2026-11-17T12:45:47+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/b3352f1c-93f6-3922-af44-549ce262f9b1?format=auto&s=479129c51f79d48921a6d117fc4c7e0631bbf675&w=1000",
+      "sv": {
+        "title": "Inget beslut om samkönade vigslar – skjuts upp",
+        "summary": "Det blir inget beslut i frågan om alla präster ska viga samkönade par eller inte.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "No decision on same-sex weddings – postponed",
+        "summary": "There will be no decision on whether all priests should be allowed to marry same-sex couples or not."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:45:55+01:00"
+      }
+    },
     {
       "id": "f9ca8dca0b67",
       "schema_version": 1,
@@ -5350,33 +5377,6 @@
       "en": {
         "title": "Ground stop issued across the whole US: 'Safety reasons'",
         "summary": "The US aviation authority FAA is halting all planes in the country from taking off until further notice because of…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:56:57+01:00"
-      }
-    },
-    {
-      "id": "4c558bcb4057",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/r8AW0A/totalt-flygstopp-i-usa",
-      "guid": "https://www.aftonbladet.se/nyheter/a/r8AW0A/totalt-flygstopp-i-usa?utm_medium=rss",
-      "published_at": "2026-11-13T22:01:14+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/4496d0aa-268d-3064-be5b-2b576fcbd998?format=auto&s=5744c229e9abab568df62997624727ecfce6be35&w=1000",
-      "sv": {
-        "title": "Totalt flygstopp i USA: ”Extraordinära omständigheter”",
-        "summary": "Allvarliga störningar",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Total ground stop in the US: 'Extraordinary circumstances'",
-        "summary": "Serious disruptions"
       },
       "translation": {
         "status": "done",

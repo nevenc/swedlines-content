@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-17T12:31:10+01:00",
+  "generated_at": "2026-11-17T12:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1f77fc22df54",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyhetsshowen/nyhetsshowen-gor-show-pa-rondo.38fb6cfc-0720-5d22-878e-15595142baa3",
+      "guid": "38fb6cfc-0720-5d22-878e-15595142baa3",
+      "published_at": "2026-11-17T12:29:49+01:00",
+      "fetched_at": "2026-11-17T12:45:49+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Nyhetsshowen",
+        "Tagg: Rondo",
+        "Tagg: Nyhetsshowen"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/39181631-3b65-39c6-814b-e0463fc00ec1",
+      "sv": {
+        "title": "Nyhetsshowen gör show på Rondo",
+        "summary": "Den 9 december intar podden en av Göteborgs mest klassiska scener.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The news show makes a splash at Rondo",
+        "summary": "On 9 December the podcast takes over one of Göteborg's most classic stages."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T12:45:55+01:00"
+      }
+    },
     {
       "id": "5fdfbdecee27",
       "schema_version": 1,
@@ -5595,33 +5627,6 @@
       "en": {
         "title": "3 x French flavours",
         "summary": "French cuisine is loved by many. Here are three bistro-style restaurants in Stockholm tested in the past year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "104f606c7664",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/ecco2k-befaster-sin-position-som-konstnarlig-pionjar-pa-echo",
-      "guid": "https://www.dn.se/kultur/ecco2k-befaster-sin-position-som-konstnarlig-pionjar-pa-echo/",
-      "published_at": "2026-11-13T16:35:08+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/18a26daa-2aa7-46da-ab05-56d17201b7c2.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Ecco2k befäster sin position som konstnärlig pionjär på ”Echo”",
-        "summary": "Med viskande självsäkerhet och dova rytmer mejslar Ecco2k fram sitt digitala musikuniversum. Sju år efter debuten släpper han nu det konceptuella albumet ”Echo”, som ibland blir lite väl förutsägbart, skriver Gabriel Zetterström.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ecco2k cements his position as an artistic pioneer on 'Echo'",
-        "summary": "With whispering self-assurance and muted rhythms, Ecco2k carves out his digital musical universe. Seven years after his debut he now releases the conceptual album 'Echo', which at times becomes a little too predictable, writes Gabriel Zetterström."
       },
       "translation": {
         "status": "done",
