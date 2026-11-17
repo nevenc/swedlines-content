@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T06:02:26+01:00",
+  "generated_at": "2026-11-17T06:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6033e7dbb03e",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/dJOLRX/vinterns-elprischock-vantas-bli-varre-an-2022",
+      "guid": "https://www.svd.se/a/dJOLRX/vinterns-elprischock-vantas-bli-varre-an-2022?utm_medium=rss",
+      "published_at": "2026-11-17T06:05:11+01:00",
+      "fetched_at": "2026-11-17T06:15:41+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/b87ddba7-fbc9-3fca-b2ec-da0f4f488c13?format=auto&s=9c091ccad7c79ed5ac94af46ce05dca72f975901&w=1000",
+      "sv": {
+        "title": "Vinterns elprischock väntas bli värre än 2022",
+        "summary": "Det blir ovanligt höga elpriser i vinter – högre än krisvintern 2022–2023, enligt en prognos från…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Winter's electricity price shock expected to be worse than 2022",
+        "summary": "Unusually high electricity prices are expected this winter – higher than the crisis winter of 2022–2023, according to a forecast from…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:15:50+01:00"
+      }
+    },
     {
       "id": "10da0a19df7f",
       "schema_version": 1,
@@ -26,6 +53,48 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T06:02:25+01:00"
+      }
+    },
+    {
+      "id": "a4196a404f09",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/ekonomi/butikerna-som-fuskar-mest-under-black-friday.90fa45ab-d39b-5cd2-b3b6-30ac7063b1d7",
+      "guid": "90fa45ab-d39b-5cd2-b3b6-30ac7063b1d7",
+      "published_at": "2026-11-17T05:56:40+01:00",
+      "fetched_at": "2026-11-17T06:15:44+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi",
+        "Tagg: Black Friday",
+        "Tagg: Detaljhandel",
+        "Tagg: Konsumtion",
+        "Tagg: Konsumentverket",
+        "Tagg: Möbler",
+        "Tagg: Butiker",
+        "Tagg: Handel",
+        "Tagg: Kläder",
+        "Tagg: Hemelektronik",
+        "Tagg: E-handel",
+        "Tagg: Julhandeln",
+        "Tagg: Prisjämförelse"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/480c4008-9404-3a08-b11d-30ea3ae4d7c2",
+      "sv": {
+        "title": "De fuskar mest på Black Friday",
+        "summary": "39 procent av rabatterna stämde inte, visar Konsumentverkets granskning",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "They cheat the most on Black Friday",
+        "summary": "39 percent of the discounts were not correct, according to the Swedish Consumer Agency's review"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T06:15:50+01:00"
       }
     },
     {
@@ -5273,59 +5342,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T07:15:45+01:00"
-      }
-    },
-    {
-      "id": "9eb37eebc729",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/morgonkoll-teknikfall-i-asien",
-      "guid": "9eda724a-7705-49d9-996b-78e3b6c8216c",
-      "published_at": "2026-11-16T06:52:16+01:00",
-      "fetched_at": "2026-11-16T07:01:11+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/41b8cb0c-dac5-4b4f-8f91-abcbe085f377.jpeg?width=600",
-      "sv": {
-        "title": "Morgonkoll: Teknikfall i Asien",
-        "summary": "De asiatiska börserna inleder handelsveckan på minus med utförsäljningar av teknikaktier inför Anthropics kommande börsnotering. I Europa väntas börserna visa små rörelser vid handelsstarten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Morning check: tech slump in Asia",
-        "summary": "Asian stock markets open the trading week in the red, with sell-offs of tech shares ahead of Anthropic's upcoming stock market listing. In Europe, markets are expected to show small movements at the opening."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T07:01:24+01:00"
-      }
-    },
-    {
-      "id": "015346fc49ec",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/fed-chef-inflationen-ror-sig-at-fel-hall",
-      "guid": "128541fb-5ee4-4340-8025-7ab9183f0788",
-      "published_at": "2026-11-16T06:46:24+01:00",
-      "fetched_at": "2026-11-16T07:01:11+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Fed-chef: ”Inflationen rör sig åt fel håll”",
-        "summary": "Inflationen är för hög och Fed behöver göra mer för att få ned den. Det sade Jeff Schmid, Fed-chef i Kansas City, under ett tal på söndagen, rapporterar Bloomberg News.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fed chief: “Inflation is moving in the wrong direction”",
-        "summary": "Inflation is too high and the Fed needs to do more to bring it down. That is what Jeff Schmid, Fed chief in Kansas City, said in a speech on Sunday, reports Bloomberg News."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T07:01:24+01:00"
       }
     }
   ]
