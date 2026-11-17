@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-17T23:01:15+01:00",
+  "generated_at": "2026-11-17T23:16:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d343a03ad29b",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5fqcW6Re6xJQninFhCyLfb/nvidia-slar-foervaentningarna-aktien-stiger-igen-extremt-bra",
+      "guid": "5fqcW6Re6xJQninFhCyLfb",
+      "published_at": "2026-11-17T23:04:43+01:00",
+      "fetched_at": "2026-11-17T23:15:55+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Nvidia slår förväntningarna – aktien stiger igen: ”Extremt bra”",
+        "summary": "Nvidias omsättning steg till 115,84 miljarder dollar under det föregående kvartalet, över marknadens förväntningar. Vinsten per aktie blev också högre än väntat och aktien steg 2,2 procent i den omedelbara efterhandeln. – Det går extremt bra för Nvidia.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Nvidia beats expectations – stock rises again: \"Extremely good\"",
+        "summary": "Nvidia's revenue rose to USD 115.84 billion in the previous quarter, above market expectations. Earnings per share were also higher than expected, and the stock rose 2.2 percent in after-hours trading. – It's going extremely well for Nvidia."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T23:16:00+01:00"
+      }
+    },
+    {
+      "id": "4b34733c3ea9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trump-rasar-mot-banken-efter-lackan",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-rasar-mot-banken-efter-lackan/",
+      "published_at": "2026-11-17T22:59:02+01:00",
+      "fetched_at": "2026-11-17T23:15:55+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump rasar mot banken efter läckan",
+        "summary": "Deutsche Bank råkade lämna ut skatteuppgifter om tusentals kundkonton. Ett av dem tillhörde Donald Trump. – De borde inte ha gjort det, säger den amerikanske presidenten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump lashes out at bank after leak",
+        "summary": "Deutsche Bank accidentally disclosed tax information on thousands of customer accounts. One of them belonged to Donald Trump. – They shouldn't have done that, says the American president."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T23:16:00+01:00"
+      }
+    },
     {
       "id": "605b12936964",
       "schema_version": 1,
@@ -5338,61 +5393,6 @@
       "en": {
         "title": "Healthcare employee injured – suspected attempted murder",
         "summary": "An employee at the Kalix health centre has been injured in an attack. A man has been arrested on suspicion of attempted murder. – This is a terrible incident, says regional director Anna Alm Andersson in a press release."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:15:57+01:00"
-      }
-    },
-    {
-      "id": "ec2ab9946ab0",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/qqQc5UedrZViUsvfGp2WX/talmannens-besked-da-ska-en-ny-regering-vara-pa-plats",
-      "guid": "qqQc5UedrZViUsvfGp2WX",
-      "published_at": "2026-11-17T16:06:45+01:00",
-      "fetched_at": "2026-11-17T16:15:51+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Talmannens besked: Då ska en ny regering vara på plats",
-        "summary": "Talmannen godkänner Kristerssons önskan • ”En veckas anstånd i processen”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Speaker's decision: a new government to be in place within",
-        "summary": "The Speaker approves Kristersson's request • \"One week's extension in the process\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:15:57+01:00"
-      }
-    },
-    {
-      "id": "62b75e0c7b68",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/fruktat-hastvirus-i-timra-tva-hastar-doda",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/fruktat-hastvirus-i-timra-tva-hastar-doda",
-      "published_at": "2026-11-17T16:06:23+01:00",
-      "fetched_at": "2026-11-17T16:15:47+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Fruktat hästvirus i Timrå – två hästar döda",
-        "summary": "Två hästar i Västernorrland har dött av misstänkt herpessmitta. Nu uppmanar länsveterinären till försiktighet. – Jag tycker att man alltid ska agera som om det finns smitta, säger Helén Löfblad på Länsstyrelsen i Västernorrland.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Feared horse virus in Timrå – two horses dead",
-        "summary": "Two horses in Västernorrland have died of suspected herpes infection. The county veterinarian now urges caution. – I think one should always act as if there is infection, says Helén Löfblad at the county administrative board of Västernorrland."
       },
       "translation": {
         "status": "done",
