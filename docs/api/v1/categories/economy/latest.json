@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-17T22:45:55+01:00",
+  "generated_at": "2026-11-17T23:01:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "605b12936964",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/nvidia-klar-forvantningarna-aktien-lyfter",
+      "guid": "https://www.dn.se/ekonomi/nvidia-klar-forvantningarna-aktien-lyfter/",
+      "published_at": "2026-11-17T22:57:15+01:00",
+      "fetched_at": "2026-11-17T23:01:07+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f1a9c47a-acd8-4f3b-bd3f-c2528ec36b04.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Nvidia klår förväntningarna – aktien lyfter",
+        "summary": "AI-jätten Nvidia redovisar en högre omsättning och vinst än väntat. Aktien, som pressats hårt efter avgångne vd:n Jensen Huangs otrohetsaffärer, stiger i den omedelbara efterhandeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia beats expectations – shares rise",
+        "summary": "AI giant Nvidia reports higher revenue and profit than expected. The shares, which have been hit hard after former CEO Jensen Huang's infidelity affairs, rise in immediate after-hours trading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T23:01:15+01:00"
+      }
+    },
+    {
+      "id": "da45e62a3250",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/kallor-nvidia-utreds-av-sec",
+      "guid": "90a2272a-175d-4d82-ab53-f441cd6c997d",
+      "published_at": "2026-11-17T22:53:37+01:00",
+      "fetched_at": "2026-11-17T23:01:11+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/4416d7bb-eaa7-440d-a36c-91a406bae48d.jpeg?width=600",
+      "sv": {
+        "title": "Källor: Nvidia utreds av SEC",
+        "summary": "Den amerikanska finansinspektionen (SEC) har inlett en utredning av chipjätten Nvidia.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sources: Nvidia under investigation by SEC",
+        "summary": "The US Securities and Exchange Commission (SEC) has launched an investigation into chip giant Nvidia."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T23:01:15+01:00"
+      }
+    },
     {
       "id": "5dc5a505fed0",
       "schema_version": 1,
@@ -5197,60 +5251,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T08:15:46+01:00"
-      }
-    },
-    {
-      "id": "44001698fd46",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/15-miljoner-interna-dokument-lackta-fran-storbank",
-      "guid": "3e82cbdc-17c7-4cc9-8caf-10473395cb90",
-      "published_at": "2026-11-17T07:50:16+01:00",
-      "fetched_at": "2026-11-17T08:01:20+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/58bf4205-8c1e-4b9a-94a4-a02f4cb9658f.jpeg?width=600",
-      "sv": {
-        "title": "15 miljoner interna dokument läckta från storbank",
-        "summary": "Över 15 miljoner interna dokument från Deutsche Bank har läckts av visselblåsare. Dokumenten avslöjar bland annat systemiska problem och dåligt beteende från bankens vd och övriga ledning, skriver Financial Times i en stor kartläggning av läckan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "15 million internal documents leaked from major bank",
-        "summary": "Over 15 million internal documents from Deutsche Bank have been leaked by whistleblowers. The documents reveal, among other things, systemic problems and poor conduct by the bank's CEO and other management, the Financial Times writes in a major investigation of the leak."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:01:26+01:00"
-      }
-    },
-    {
-      "id": "0a36a9a51512",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/stubb-europa-maste-fora-direkta-samtal-med-putin",
-      "guid": "212b459b-0f15-4841-af8e-96ecc94aa79d",
-      "published_at": "2026-11-17T07:47:24+01:00",
-      "fetched_at": "2026-11-17T08:01:20+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/ad8ace75-0edc-4b26-b76f-81e7373e85be.jpeg?width=600",
-      "sv": {
-        "title": "Stubb: Europa måste föra direkta samtal med Putin",
-        "summary": "Europeiska ledare måste föra direkta samtal med Ryssland och Vladimir Putin, snarare än att lägga ut det på entreprenad. Det säger Finlands president Alexander Stubb i en intervju med Financial Times.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stubb: Europe must hold direct talks with Putin",
-        "summary": "European leaders must hold direct talks with Russia and Vladimir Putin, rather than outsourcing it. Finnish President Alexander Stubb says this in an interview with the Financial Times."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:01:26+01:00"
       }
     }
   ]

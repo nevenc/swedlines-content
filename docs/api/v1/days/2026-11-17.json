@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-17T22:45:55+01:00",
-  "count": 640,
+  "generated_at": "2026-11-17T23:01:15+01:00",
+  "count": 643,
   "items": [
+    {
+      "id": "605b12936964",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/nvidia-klar-forvantningarna-aktien-lyfter",
+      "guid": "https://www.dn.se/ekonomi/nvidia-klar-forvantningarna-aktien-lyfter/",
+      "published_at": "2026-11-17T22:57:15+01:00",
+      "fetched_at": "2026-11-17T23:01:07+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f1a9c47a-acd8-4f3b-bd3f-c2528ec36b04.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Nvidia klår förväntningarna – aktien lyfter",
+        "summary": "AI-jätten Nvidia redovisar en högre omsättning och vinst än väntat. Aktien, som pressats hårt efter avgångne vd:n Jensen Huangs otrohetsaffärer, stiger i den omedelbara efterhandeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia beats expectations – shares rise",
+        "summary": "AI giant Nvidia reports higher revenue and profit than expected. The shares, which have been hit hard after former CEO Jensen Huang's infidelity affairs, rise in immediate after-hours trading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T23:01:15+01:00"
+      }
+    },
+    {
+      "id": "da45e62a3250",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/kallor-nvidia-utreds-av-sec",
+      "guid": "90a2272a-175d-4d82-ab53-f441cd6c997d",
+      "published_at": "2026-11-17T22:53:37+01:00",
+      "fetched_at": "2026-11-17T23:01:11+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/4416d7bb-eaa7-440d-a36c-91a406bae48d.jpeg?width=600",
+      "sv": {
+        "title": "Källor: Nvidia utreds av SEC",
+        "summary": "Den amerikanska finansinspektionen (SEC) har inlett en utredning av chipjätten Nvidia.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sources: Nvidia under investigation by SEC",
+        "summary": "The US Securities and Exchange Commission (SEC) has launched an investigation into chip giant Nvidia."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T23:01:15+01:00"
+      }
+    },
     {
       "id": "9b2011376796",
       "schema_version": 1,
@@ -1755,6 +1809,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T20:01:26+01:00"
+      }
+    },
+    {
+      "id": "0984d5ccd546",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6bWh9MZ32ZPkPgYO0OFfFW/farmen-wincent-aktuell-med-egen-lat-alder-spelar-ingen-roll",
+      "guid": "6bWh9MZ32ZPkPgYO0OFfFW",
+      "published_at": "2026-11-17T19:55:09+01:00",
+      "fetched_at": "2026-11-17T23:01:10+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Efter fem"
+      ],
+      "sv": {
+        "title": "Farmen-Wincent aktuell med egen låt: ”Ålder spelar ingen roll”",
+        "summary": "Hans Wincent är mest känd som den kunnige mentorn i TV4:s Farmen. Men vid sidan av livet på gården har han även ägnat sig åt musik. Tidigare har han spelat in låtar tillsammans med bland andra 250 kilo kärlek och Sveriges cultband.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Farmen's Wincent releases own song: \"Age doesn't matter\"",
+        "summary": "Hans Wincent is best known as the knowledgeable mentor on TV4's Farmen. But besides life on the farm, he has also devoted himself to music. He has previously recorded songs together with, among others, 250 kilo kärlek and Sveriges cultband."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T23:01:15+01:00"
       }
     },
     {

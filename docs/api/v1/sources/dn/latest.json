@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T22:45:55+01:00",
+  "generated_at": "2026-11-17T23:01:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "605b12936964",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/nvidia-klar-forvantningarna-aktien-lyfter",
+      "guid": "https://www.dn.se/ekonomi/nvidia-klar-forvantningarna-aktien-lyfter/",
+      "published_at": "2026-11-17T22:57:15+01:00",
+      "fetched_at": "2026-11-17T23:01:07+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f1a9c47a-acd8-4f3b-bd3f-c2528ec36b04.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Nvidia klår förväntningarna – aktien lyfter",
+        "summary": "AI-jätten Nvidia redovisar en högre omsättning och vinst än väntat. Aktien, som pressats hårt efter avgångne vd:n Jensen Huangs otrohetsaffärer, stiger i den omedelbara efterhandeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia beats expectations – shares rise",
+        "summary": "AI giant Nvidia reports higher revenue and profit than expected. The shares, which have been hit hard after former CEO Jensen Huang's infidelity affairs, rise in immediate after-hours trading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T23:01:15+01:00"
+      }
+    },
     {
       "id": "1cbd027305b3",
       "schema_version": 1,
@@ -5360,33 +5387,6 @@
       "en": {
         "title": "The Venice Biennale needs to reinvent itself",
         "summary": "Next week the year's art biennale in Venice ends, marked by protests. Adam Rosenkvist writes about the biennale's historical disputes and considers it too simple to point to the national pavilions as the root of the controversies."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:49+01:00"
-      }
-    },
-    {
-      "id": "901edaa193a0",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/sjukskoterskor-kan-forlora-tusenlappar-pa-nytt-avtal",
-      "guid": "https://www.dn.se/sverige/sjukskoterskor-kan-forlora-tusenlappar-pa-nytt-avtal/",
-      "published_at": "2026-11-14T15:14:44+01:00",
-      "fetched_at": "2026-11-14T15:17:24+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0dfc74af-d966-40c4-8309-04f338f4d8b1.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Sjuksköterskor kan förlora tusenlappar på nytt avtal",
-        "summary": "Ett nytt avtal om ob-ersättningen väcker ilska bland privatanställda sjuksköterskor. Många får kraftigt sänkt ersättning – i en del fall med flera tusen kronor. – Vi kräver att avtalet hävs, säger Sara Hammarström, sjuksköterska inom Capio ASIH i Nacka.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Nurses could lose thousands of kronor on new agreement",
-        "summary": "A new agreement on the unsocial hours supplement is causing anger among privately employed nurses. Many face sharply reduced compensation – in some cases by several thousand kronor. \"We demand that the agreement be overturned,\" says Sara Hammarström, a nurse at Capio ASIH in Nacka."
       },
       "translation": {
         "status": "done",
