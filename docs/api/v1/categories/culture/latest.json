@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T05:31:09+01:00",
+  "generated_at": "2026-11-17T05:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2e5c67a915a1",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/lnJ5vM/ett-samtal-vande-smabarnforaldrarnas-kris-till-insikt-i-kansloarbetet",
+      "guid": "https://www.svd.se/a/lnJ5vM/ett-samtal-vande-smabarnforaldrarnas-kris-till-insikt-i-kansloarbetet?utm_medium=rss",
+      "published_at": "2026-11-17T05:39:44+01:00",
+      "fetched_at": "2026-11-17T05:45:43+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/c2f211cd-a460-3ad2-9d94-08ead7341a8b?format=auto&s=c1eec5a6e7c71c40f59e9bd3d09fe4bf5f09c507&w=1000",
+      "sv": {
+        "title": "Var jämställda – sedan fick Agge och Ebba barn",
+        "summary": "Ebba och Agge såg sig som jämställda – sedan fick de barn, och var nära att gå isär.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Were equal – then Agge and Ebba had children",
+        "summary": "Ebba and Agge saw themselves as equal – then they had children, and came close to splitting up."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T05:45:51+01:00"
+      }
+    },
     {
       "id": "6b4cb5f67a13",
       "schema_version": 1,
@@ -5587,32 +5614,6 @@
       "en": {
         "title": "Oscar-tipped Malkovich a morphine-addicted spy in opening film 'Wild Horse Nine'",
         "summary": "The Stockholm Film Festival is under way. Between 11 and 22 November more than 130 films from some 60 countries are shown."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "8bd3e3aa0014",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/kultur/filmfestivalen-har-daddy-issues-manga-filmer-om-pappor-i-ar",
-      "guid": "https://www.svt.se/kultur/filmfestivalen-har-daddy-issues-manga-filmer-om-pappor-i-ar",
-      "published_at": "2026-11-12T07:00:04+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Filmfestivalen har daddy issues: ”många filmer om pappor i år”",
-        "summary": "SVT Kulturnyheterna var på plats på invigningen av Stockholms filmfestival. Programchefen Beatrice Karlsson tipsar om filmer man inte får missa.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The film festival has daddy issues: 'many films about fathers this year'",
-        "summary": "SVT Kulturnyheterna was at the opening of the Stockholm Film Festival. Head of programming Beatrice Karlsson recommends films not to be missed."
       },
       "translation": {
         "status": "done",

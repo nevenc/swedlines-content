@@ -1,7 +1,56 @@
 {
-  "generated_at": "2026-11-17T05:31:09+01:00",
+  "generated_at": "2026-11-17T05:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f92bb90e123b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/trump-tappar-det-lyssna-pa-mig",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/trump-tappar-det-lyssna-pa-mig",
+      "published_at": "2026-11-17T05:36:41+01:00",
+      "fetched_at": "2026-11-17T05:45:45+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Tappar det totalt: ”Du är så patetisk”",
+        "summary": "Trumps raseri – frågas ut om skrytbygget",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Loses it completely: \"You are so pathetic\"",
+        "summary": "Trump's rage – questioned about the vanity project"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T05:45:51+01:00"
+      }
+    },
+    {
+      "id": "d0c2aca30ea1",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79984",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79984&utm_medium=rss",
+      "published_at": "2026-11-17T05:32:01+01:00",
+      "fetched_at": "2026-11-17T05:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Japan: Ryska plan kränkte vårt luftrum"
+      },
+      "en": {
+        "title": "Japan: Russian plane violated our airspace"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T05:45:51+01:00"
+      }
+    },
     {
       "id": "e598ab53b780",
       "schema_version": 1,
@@ -5317,55 +5366,6 @@
       "en": {
         "title": "Mexico dismisses Trump's claim: \"There is no migrant caravan\"",
         "summary": "Mexico dismisses Donald Trump's claims that a large caravan of migrants is heading toward the USA. The president links his accusations to the Democrats' win in the midterm elections and threatens doubled tariffs."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "ced02b2d6d84",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79919",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79919&utm_medium=rss",
-      "published_at": "2026-11-14T23:01:13+01:00",
-      "fetched_at": "2026-11-14T23:33:35+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Efter flygstoppet – förseningar även söndag"
-      },
-      "en": {
-        "title": "After the flight stoppage – delays also on Sunday"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "db960a688500",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/gick-pa-toa-dog--i-marklig-olycka",
-      "guid": "https://www.expressen.se/nyheter/varlden/gick-pa-toa-dog--i-marklig-olycka/",
-      "published_at": "2026-11-14T22:20:32+01:00",
-      "fetched_at": "2026-11-14T23:33:36+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Gick på toa – dog i ”märklig olycka”",
-        "summary": "Akutläkaren James Turpin gick på toa mitt i natten. Det blev hans död, skriver Lexington Herald Leader. – En märklig olycka, säger vännen Eric Guerrant.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Went to the toilet – died in a \"strange accident\"",
-        "summary": "Emergency physician James Turpin went to the toilet in the middle of the night. It led to his death, writes the Lexington Herald Leader. \"A strange accident,\" says friend Eric Guerrant."
       },
       "translation": {
         "status": "done",
