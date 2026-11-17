@@ -1,7 +1,56 @@
 {
-  "generated_at": "2026-11-17T18:31:11+01:00",
+  "generated_at": "2026-11-17T18:45:46+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bc3cc8c1f3cd",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80013",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80013&utm_medium=rss",
+      "published_at": "2026-11-17T18:40:36+01:00",
+      "fetched_at": "2026-11-17T18:45:40+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Moldavien stänger luftrummet efter drönarlarm"
+      },
+      "en": {
+        "title": "Moldova closes its airspace after drone alarm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:45:46+01:00"
+      }
+    },
+    {
+      "id": "2b04318d968f",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/g37pMa/dronare-mot-moldaviens-huvudstad-luftrum-stangt",
+      "guid": "https://www.aftonbladet.se/nyheter/a/g37pMa/dronare-mot-moldaviens-huvudstad-luftrum-stangt?utm_medium=rss",
+      "published_at": "2026-11-17T18:32:53+01:00",
+      "fetched_at": "2026-11-17T18:45:40+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Drönare mot Moldaviens huvudstad – luftrum stängt",
+        "summary": "Moldaviens luftrum är stängt sedan en Shahed-drönare på väg mot huvudstaden Chisinau upptäckts.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Drone heads for Moldova's capital – airspace closed",
+        "summary": "Moldova's airspace has been closed since a Shahed drone heading toward the capital Chisinau was detected."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:45:46+01:00"
+      }
+    },
     {
       "id": "e5655cc98289",
       "schema_version": 1,
@@ -5288,64 +5337,6 @@
       "en": {
         "title": "Marianne Björklund: Hearts beat faster when we get an urgent earthquake warning",
         "summary": "NAGOYA. “This is an urgent earthquake warning.” Shortly after one in the morning in Nagoya, Japan's fourth-largest city, I am just about to meet the Sandman when my mobile phone starts vibrating and shrieking insistently."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T18:31:05+01:00"
-      }
-    },
-    {
-      "id": "251a01228a20",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/5T7hExEbui8TeF4YUgVUvN/trumps-sjaelvklara-eftertraedare-uppges-tveka-tappat-ledartroejan",
-      "guid": "5T7hExEbui8TeF4YUgVUvN",
-      "published_at": "2026-11-15T18:22:05+01:00",
-      "fetched_at": "2026-11-15T18:30:58+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Trumps självklara efterträdare tvekar: ”Tappat ledartröjan”",
-        "summary": "J.D Vance överväger att inte kandidera • Experten: ”Kan bli rätt tufft”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump's presumed successor hesitates: “Lost the leader's jersey”",
-        "summary": "J.D. Vance is considering not running • Expert: “Could become quite tough”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T18:31:05+01:00"
-      }
-    },
-    {
-      "id": "d69472356ebc",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/6pHsOrNBMfnlyXf9ImV66O/smaellen-trump-tappar-sina-podcast-bros-efter-valfiaskot",
-      "guid": "6pHsOrNBMfnlyXf9ImV66O",
-      "published_at": "2026-11-15T18:21:33+01:00",
-      "fetched_at": "2026-11-15T18:30:58+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Trump tappar sina ”podcast bros” efter valfiaskot",
-        "summary": "Trump tappar stödet från sin egen hejarklack • Joe Rogan: ”Förlorade landet”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump loses his “podcast bros” after election fiasco",
-        "summary": "Trump loses support from his own cheering section • Joe Rogan: “Lost the country”"
       },
       "translation": {
         "status": "done",

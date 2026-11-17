@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T18:31:11+01:00",
+  "generated_at": "2026-11-17T18:45:46+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "55dadd757ce7",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/beslut-om-tonarsutvisningarna-de-paverkas-av-nya-stopplagen",
+      "guid": "https://www.svt.se/nyheter/inrikes/beslut-om-tonarsutvisningarna-de-paverkas-av-nya-stopplagen",
+      "published_at": "2026-11-17T18:31:55+01:00",
+      "fetched_at": "2026-11-17T18:45:39+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Beslut om tonårsutvisningarna: De påverkas av nya stopplagen",
+        "summary": "Ett beslut om vilka som omfattas av stopplagen för de så kallade tonårsutvisningarna har fattats. – En viktig milstolpe, säger Jennifer Merelaid Hankins (V), ledamot i socialförsäkringsutskottet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Decision on teen deportations: They are affected by new stop law",
+        "summary": "A decision has been made on who is covered by the stop law for the so-called teen deportations. – An important milestone, says Jennifer Merelaid Hankins (V), member of the Social Insurance Committee."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:45:46+01:00"
+      }
+    },
     {
       "id": "7cf4e6826ba4",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Heavy snowfall hit the Norrland coast – follow the latest",
         "summary": "After the heavy snowstorm along the coast of Västerbotten, Norrbotten and Västernorrland, traffic disruptions continue. Follow SVT's live report on the weather situation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "3b32d810f7f5",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/tva-man-anhallna-i-ornskoldsvik-en-anstalld-av-kommunen",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/tva-man-anhallna-i-ornskoldsvik-en-anstalld-av-kommunen",
-      "published_at": "2026-11-11T14:27:54+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "De två anhållna i bilhärvan frisläppta",
-        "summary": "Två personer varav en anställd på Örnsköldsviks kommun har suttit anhållna misstänkta för 17 fall av olika mutbrottsrubriceringar. Men under torsdagen släpptes de på fri fot. Häktningsskäl föreligger inte, enligt kammaråklagare Markus Hellsten vid Åklagarmyndighetens riksenhet mot korruption.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The two held in the car scandal released",
-        "summary": "Two people, one of them an employee of Örnsköldsvik municipality, had been held on suspicion of 17 counts of various bribery offences. But on Thursday they were released. There are no grounds for remand, according to senior prosecutor Markus Hellsten at the Swedish Prosecution Authority's national anti-corruption unit."
       },
       "translation": {
         "status": "done",

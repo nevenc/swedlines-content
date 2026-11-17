@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T18:31:11+01:00",
+  "generated_at": "2026-11-17T18:45:46+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "55dadd757ce7",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/beslut-om-tonarsutvisningarna-de-paverkas-av-nya-stopplagen",
+      "guid": "https://www.svt.se/nyheter/inrikes/beslut-om-tonarsutvisningarna-de-paverkas-av-nya-stopplagen",
+      "published_at": "2026-11-17T18:31:55+01:00",
+      "fetched_at": "2026-11-17T18:45:39+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Beslut om tonårsutvisningarna: De påverkas av nya stopplagen",
+        "summary": "Ett beslut om vilka som omfattas av stopplagen för de så kallade tonårsutvisningarna har fattats. – En viktig milstolpe, säger Jennifer Merelaid Hankins (V), ledamot i socialförsäkringsutskottet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Decision on teen deportations: They are affected by new stop law",
+        "summary": "A decision has been made on who is covered by the stop law for the so-called teen deportations. – An important milestone, says Jennifer Merelaid Hankins (V), member of the Social Insurance Committee."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:45:46+01:00"
+      }
+    },
     {
       "id": "98d222274d84",
       "schema_version": 1,
@@ -5370,35 +5396,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T13:31:13+01:00"
-      }
-    },
-    {
-      "id": "199f9ba1ba8f",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/5ZfKDIt2fp0T5Mfs5kRVCG/oedesdag-foer-c-hemligt-toppmoete-idag",
-      "guid": "5ZfKDIt2fp0T5Mfs5kRVCG",
-      "published_at": "2026-11-15T11:25:24+01:00",
-      "fetched_at": "2026-11-15T11:26:40+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Svensk politik"
-      ],
-      "sv": {
-        "title": "Ödesdag för C – hemligt toppmöte idag",
-        "summary": "Aftonbladet och DN erfar: Ska fatta beslut om riktning • Mobilförbud",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Doomsday for C – secret summit today",
-        "summary": "Aftonbladet and DN learn: Will decide on direction • Mobile ban"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T11:26:59+01:00"
       }
     }
   ]
