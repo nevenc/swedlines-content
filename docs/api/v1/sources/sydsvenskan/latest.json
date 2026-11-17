@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T23:31:02+01:00",
+  "generated_at": "2026-11-17T23:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "94cbd8b7e1c7",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/norge-till-slutspel-haaland-straffade-danmark",
+      "guid": "cfa5ad1b-e42b-4bb3-8da4-8a15f15fe613",
+      "published_at": "2026-11-17T23:35:02+01:00",
+      "fetched_at": "2026-11-17T23:45:50+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/e8a48206-c4b5-435b-a89c-2b97a795a4ec.jpg?width=600",
+      "sv": {
+        "title": "Norge till slutspel – Haaland straffade Danmark",
+        "summary": "Danmark och Norge gjorde upp om en plats i Nations Leagues slutspel. Där drog Norge det längsta strået – tack vare ett straffmål av Erling Braut Haaland på övertid.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norway into play-offs – Haaland scored penalty against Denmark",
+        "summary": "Denmark and Norway played for a place in the Nations League play-offs. Norway came out on top, thanks to a penalty goal by Erling Braut Haaland in added time."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T23:45:52+01:00"
+      }
+    },
     {
       "id": "9b2011376796",
       "schema_version": 1,
@@ -5184,33 +5211,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T13:31:07+01:00"
-      }
-    },
-    {
-      "id": "811989da0d7c",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/anthropic-till-borsen-stresstest-for-ai-marknaden",
-      "guid": "a3f3b0c5-bab2-4866-84cc-e219fd6b7e5c",
-      "published_at": "2026-11-15T11:34:04+01:00",
-      "fetched_at": "2026-11-15T13:30:56+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/7c1e53a5-63b1-4392-ae4f-36bd0fb22415.jpg?width=600",
-      "sv": {
-        "title": "Anthropic till börsen: Stresstest för AI-marknaden",
-        "summary": "Anthropics börsnotering närmar sig. AI-jättens intåg på Nasdaqbörsen i New York blir därmed en värdemätare för hela sektorn, menar Robert Oldstrand, aktiestrateg på Swedbank. – Det här blir lite av ett stresstest för marknaden, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anthropic goes public: Stress test for the AI market",
-        "summary": "Anthropic's stock market listing is approaching. The AI giant's entry on the Nasdaq exchange in New York will therefore be a gauge for the whole sector, according to Robert Oldstrand, equity strategist at Swedbank. \"This will be a bit of a stress test for the market,\" he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T13:31:13+01:00"
       }
     }
   ]
