@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T10:15:53+01:00",
+  "generated_at": "2026-11-17T10:31:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "efa8a091ca48",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/familj/kunglig-medalj-till-lundaforfattaren-lina-wolff",
+      "guid": "c2b258b6-2ea0-4e00-9af4-1205bf5c70ab",
+      "published_at": "2026-11-17T10:20:00+01:00",
+      "fetched_at": "2026-11-17T10:31:01+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/f36fae6f-1e6a-414c-b32e-13bd9df97b48.jpeg?width=600",
+      "sv": {
+        "title": "Kunglig medalj till Lundaförfattaren Lina Wolff",
+        "summary": "Författaren Lina Wolff, bosatt i Lund och med rötter i Hörby, har tilldelats den kungliga medaljen Litteris et Artibus.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Royal medal for Lund author Lina Wolff",
+        "summary": "Author Lina Wolff, resident in Lund and with roots in Hörby, has been awarded the royal medal Litteris et Artibus."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T10:31:17+01:00"
+      }
+    },
     {
       "id": "e6ccc7750c2f",
       "schema_version": 1,
@@ -5580,33 +5607,6 @@
       "en": {
         "title": "The weekend's drink: Rock and rye",
         "summary": "DN's Elin Peters recommends a drink of the moment. This weekend a swinging sweetheart."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "2429cbabfb7e",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/barnboksfestival-satter-flersprakighet-i-centrum",
-      "guid": "https://www.dn.se/kultur/barnboksfestival-satter-flersprakighet-i-centrum/",
-      "published_at": "2026-11-13T10:42:56+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/2c336da0-36cf-4a90-af60-b3cae19fc1e1.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Barnboksfestival sätter flerspråkighet i centrum",
-        "summary": "I helgen uppmärksammas den internationella barnlitteraturen på Tranströmerbiblioteket i Stockholm. Bibliotekarien Matilda Wallin är projektledare för Språkfesten och tycker det är viktigt att värna flerspråkighet i Sverige. – Med språk kan man mötas, bygga broar och öka förståelse.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Children's book festival puts multilingualism at the centre",
-        "summary": "This weekend international children's literature is celebrated at the Tranströmer Library in Stockholm. Librarian Matilda Wallin is project manager for Språkfesten and thinks it is important to protect multilingualism in Sweden. – With language you can meet, build bridges and increase understanding."
       },
       "translation": {
         "status": "done",
