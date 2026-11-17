@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-17T21:16:10+01:00",
+  "generated_at": "2026-11-17T21:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b7c4eaf4b437",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/uppgift-ny-amerikansk-attack-mot-iran",
+      "guid": "34bc089e-2397-49a0-8e0d-ef4d211ca4bd",
+      "published_at": "2026-11-17T21:27:40+01:00",
+      "fetched_at": "2026-11-17T21:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/9bdb832c-68a2-414a-a040-52e49d434856.jpeg?width=600",
+      "sv": {
+        "title": "Uppgift: Ny amerikansk attack mot Iran",
+        "summary": "USA har genomfört nya attacker mot den iranska ön Qeshm, uppger källor inom militären för flera nyhetsbyråer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Report: New American attack on Iran",
+        "summary": "The United States has carried out new attacks on the Iranian island of Qeshm, according to military sources cited by several news agencies."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:31:08+01:00"
+      }
+    },
+    {
+      "id": "ddf5867da3ff",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/storagare-i-eniro-har-salt-aktier-for-8-3-miljoner",
+      "guid": "803d4d6a-d1b5-4a8f-86a2-849c0cafdcb7",
+      "published_at": "2026-11-17T21:23:50+01:00",
+      "fetched_at": "2026-11-17T21:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6bca6b81-6d78-47a8-ab5b-084af3d431d0.jpeg?width=600",
+      "sv": {
+        "title": "Storägare i Eniro har sålt aktier för 8,3 miljoner",
+        "summary": "Sök- och annonsbolaget Eniros storägare B.O. Intressenter har sålt cirka 252.000 aktier i bolaget för totalt 8,3 miljoner kronor. Det framgår av Finansinspektionens insynsregister.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major shareholder in Eniro has sold shares worth SEK 8.3 million",
+        "summary": "B.O. Intressenter, a major shareholder in the search and advertising company Eniro, has sold approximately 252,000 shares in the company for a total of SEK 8.3 million. This is according to the Financial Supervisory Authority's insider register."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:31:08+01:00"
+      }
+    },
     {
       "id": "61211abed03c",
       "schema_version": 1,
@@ -5188,59 +5242,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T07:31:07+01:00"
-      }
-    },
-    {
-      "id": "740dc29ca227",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9337866",
-      "guid": "rss:sr.se/article/9337866",
-      "published_at": "2026-11-17T07:07:00+01:00",
-      "fetched_at": "2026-11-17T07:15:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Granskning: Statliga pensionsfonder investerar miljarder i oljebolag",
-        "summary": "De 18 största pensionsfonderna och bankerna i Sverige investerar 209 miljarder kronor i bolag inom kol, olja och gas, visar en granskning av Fair Finance Guide och Naturskyddsföreningen som släpps under FN:s klimatmöte i Turkiet. Siffrorna visar en ökning med 11 miljarder jämfört med 2024.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Investigation: State pension funds invest billions in oil companies",
-        "summary": "The 18 largest pension funds and banks in Sweden invest SEK 209 billion in companies in coal, oil and gas, according to an investigation by Fair Finance Guide and the Swedish Society for Nature Conservation, released during the UN climate summit in Turkey. The figures show an increase of SEK 11 billion compared with 2024."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:15:59+01:00"
-      }
-    },
-    {
-      "id": "48ce95b46b6d",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ekonomi/svenskarnas-pensionspengar-satsas-i-fossilgiganter-totalt-oansvarigt",
-      "guid": "https://www.dn.se/ekonomi/svenskarnas-pensionspengar-satsas-i-fossilgiganter-totalt-oansvarigt/",
-      "published_at": "2026-11-17T07:04:29+01:00",
-      "fetched_at": "2026-11-17T07:15:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/54dce69a-0b25-4ce3-9076-1c8a29c85568.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Svenskarnas pensionspengar satsas i fossilgiganter: ”Totalt oansvarigt”",
-        "summary": "Svenska pensionssparare har investerat tiotals miljarder i bolag som är verksamma inom fossila bränslen – bland annat inom oljejakt i Amazonas och Arktis. Det visar en ny rapport som granskat fossilinnehaven AP-fonderna och de svenska bankerna.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Swedes' pension savings invested in fossil giants: \"Totally irresponsible\"",
-        "summary": "Swedish pension savers have invested tens of billions in companies active in fossil fuels, including oil extraction in the Amazon and the Arctic. This is shown by a new report that examined the fossil holdings of the AP funds and Swedish banks."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:15:59+01:00"
       }
     }
   ]

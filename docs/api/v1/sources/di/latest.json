@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-17T21:16:10+01:00",
+  "generated_at": "2026-11-17T21:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b7c4eaf4b437",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/uppgift-ny-amerikansk-attack-mot-iran",
+      "guid": "34bc089e-2397-49a0-8e0d-ef4d211ca4bd",
+      "published_at": "2026-11-17T21:27:40+01:00",
+      "fetched_at": "2026-11-17T21:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/9bdb832c-68a2-414a-a040-52e49d434856.jpeg?width=600",
+      "sv": {
+        "title": "Uppgift: Ny amerikansk attack mot Iran",
+        "summary": "USA har genomfört nya attacker mot den iranska ön Qeshm, uppger källor inom militären för flera nyhetsbyråer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Report: New American attack on Iran",
+        "summary": "The United States has carried out new attacks on the Iranian island of Qeshm, according to military sources cited by several news agencies."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:31:08+01:00"
+      }
+    },
+    {
+      "id": "ddf5867da3ff",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/storagare-i-eniro-har-salt-aktier-for-8-3-miljoner",
+      "guid": "803d4d6a-d1b5-4a8f-86a2-849c0cafdcb7",
+      "published_at": "2026-11-17T21:23:50+01:00",
+      "fetched_at": "2026-11-17T21:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6bca6b81-6d78-47a8-ab5b-084af3d431d0.jpeg?width=600",
+      "sv": {
+        "title": "Storägare i Eniro har sålt aktier för 8,3 miljoner",
+        "summary": "Sök- och annonsbolaget Eniros storägare B.O. Intressenter har sålt cirka 252.000 aktier i bolaget för totalt 8,3 miljoner kronor. Det framgår av Finansinspektionens insynsregister.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major shareholder in Eniro has sold shares worth SEK 8.3 million",
+        "summary": "B.O. Intressenter, a major shareholder in the search and advertising company Eniro, has sold approximately 252,000 shares in the company for a total of SEK 8.3 million. This is according to the Financial Supervisory Authority's insider register."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:31:08+01:00"
+      }
+    },
     {
       "id": "61211abed03c",
       "schema_version": 1,
@@ -5274,60 +5328,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T16:31:07+01:00"
-      }
-    },
-    {
-      "id": "4e98ce349515",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/sex-veckors-forlustsvit-for-bitcoin",
-      "guid": "1bedadf8-d00e-485e-806c-b0fcce78024e",
-      "published_at": "2026-11-16T16:09:10+01:00",
-      "fetched_at": "2026-11-16T16:31:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/ef07c2e6-1fdc-4239-a9e5-9f754a0b52cb.jpeg?width=600",
-      "sv": {
-        "title": "Sex veckors förlustsvit för bitcoin",
-        "summary": "Efter sex veckors nedgång har bitcoin tappat nära hälften av sitt värde jämfört med toppnoteringen, som inföll i oktober i fjol. En Nasdaqnoterad bitcoinförvaltare har passat på att köpa – men tappar på börsen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Six-week losing streak for bitcoin",
-        "summary": "After six weeks of decline, bitcoin has lost nearly half its value from the peak recorded in October last year. A Nasdaq-listed bitcoin fund has taken the opportunity to buy – but is losing ground on the stock exchange."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:31:07+01:00"
-      }
-    },
-    {
-      "id": "0c48cdf60bf6",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/trump-stottar-jensen-huang-nvidia-aterhamtar-sig",
-      "guid": "aae07e6e-4641-45a1-93b7-0d7186b93bcd",
-      "published_at": "2026-11-16T16:04:43+01:00",
-      "fetched_at": "2026-11-16T16:16:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/d876e573-f493-4c0c-9931-a8d5a8f28f1d.jpeg?width=600",
-      "sv": {
-        "title": "Trump stöttar Jensen Huang – Nvidia återhämtar sig",
-        "summary": "Donald Trump skulle inte ha några problem med att se Jensen Huang tillbaka som Nvidia-vd. Det säger presidenten under en presskonferens i Vita huset. ”Jag tror att han lärde sig en stor läxa”, säger han enligt Bloomberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump backs Jensen Huang – Nvidia recovers",
-        "summary": "Donald Trump would have no problem seeing Jensen Huang back as Nvidia CEO. The president says so at a press conference at the White House. “I think he learned a big lesson”, he says according to Bloomberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:16:22+01:00"
       }
     }
   ]

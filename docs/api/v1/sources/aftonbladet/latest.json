@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T21:16:10+01:00",
+  "generated_at": "2026-11-17T21:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b15f24d8896e",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/kMJdwj/uppgift-ny-amerikansk-attack-mot-iran",
+      "guid": "https://www.aftonbladet.se/nyheter/a/kMJdwj/uppgift-ny-amerikansk-attack-mot-iran?utm_medium=rss",
+      "published_at": "2026-11-17T21:17:30+01:00",
+      "fetched_at": "2026-11-17T21:31:01+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Uppgift: Ny amerikansk attack mot Iran",
+        "summary": "USA har genomfört nya attacker mot den iranska ön Qeshm, uppger källor inom militären för flera…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Report: New American attack on Iran",
+        "summary": "The United States has carried out new attacks on the Iranian island of Qeshm, according to military sources cited by several news agencies…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:31:08+01:00"
+      }
+    },
     {
       "id": "5f51078010f6",
       "schema_version": 1,
@@ -5345,33 +5371,6 @@
       "en": {
         "title": "Election in the world's youngest country postponed again",
         "summary": "After just over 15 years as an independent nation, South Sudan was to hold its first election in December, but the…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "24455ac2c86a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/7P0dO4/hotfulla-detaljen-i-rituals-adventskalender-herregud",
-      "guid": "https://www.aftonbladet.se/nyheter/a/7P0dO4/hotfulla-detaljen-i-rituals-adventskalender-herregud?utm_medium=rss",
-      "published_at": "2026-11-14T12:57:17+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/72953d01-c2ca-322c-a2dd-ea10e3bb20bb?format=auto&s=386ebcb7d3aea05f6508194282a8eab8510399d4&w=1000",
-      "sv": {
-        "title": "Hotfulla detaljen i Rituals adventskalender: ”Herregud”",
-        "summary": "”Herregud”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The threatening detail in Rituals' advent calendar: “Good God”",
-        "summary": "“Oh my God”"
       },
       "translation": {
         "status": "done",

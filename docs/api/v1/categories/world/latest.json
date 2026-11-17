@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-17T21:16:10+01:00",
+  "generated_at": "2026-11-17T21:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bdd60328faa3",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/haidar-forsvann-sparlost-till-havs-vi-dor-tusen-ganger-om-dagen",
+      "guid": "https://www.dn.se/varlden/haidar-forsvann-sparlost-till-havs-vi-dor-tusen-ganger-om-dagen/",
+      "published_at": "2026-11-17T21:29:57+01:00",
+      "fetched_at": "2026-11-17T21:30:59+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/d4a86358-d83c-4381-88b6-83daacc74f25.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Haidar försvann spårlöst till havs: ”Vi dör tusen gånger om dagen”",
+        "summary": "22-åriga Haidar Rahman Ali hade havet i blodet. I maj mönstrade han på ett transportfartyg i Hormuzsundet. Sedan dess har ingen hört av honom – som hundratals andra sjömän under Irankriget är han försvunnen. Nu söker hans familj svar. Vad hände med Haidar?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Haidar disappeared without trace at sea: \"We die a thousand times a day\"",
+        "summary": "22-year-old Haidar Rahman Ali had the sea in his blood. In May he signed on to a cargo ship in the Strait of Hormuz. Since then no one has heard from him – like hundreds of other seafarers during the Iran war, he is missing. Now his family is seeking answers. What happened to Haidar?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:31:08+01:00"
+      }
+    },
+    {
+      "id": "baf48f54de43",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/uppgift-ny-amerikansk-attack-mot-iran",
+      "guid": "ec5cde5f-7695-4c9d-ad7c-9f22071d7bd1",
+      "published_at": "2026-11-17T21:26:03+01:00",
+      "fetched_at": "2026-11-17T21:31:04+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Uppgift: Ny amerikansk attack mot Iran",
+        "summary": "USA har genomfört nya attacker mot den iranska ön Qeshm, uppger källor inom militären för flera nyhetsbyråer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Report: New American attack on Iran",
+        "summary": "The United States has carried out new attacks on the Iranian island of Qeshm, according to military sources cited by several news agencies."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:31:08+01:00"
+      }
+    },
+    {
+      "id": "b15f24d8896e",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/kMJdwj/uppgift-ny-amerikansk-attack-mot-iran",
+      "guid": "https://www.aftonbladet.se/nyheter/a/kMJdwj/uppgift-ny-amerikansk-attack-mot-iran?utm_medium=rss",
+      "published_at": "2026-11-17T21:17:30+01:00",
+      "fetched_at": "2026-11-17T21:31:01+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Uppgift: Ny amerikansk attack mot Iran",
+        "summary": "USA har genomfört nya attacker mot den iranska ön Qeshm, uppger källor inom militären för flera…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Report: New American attack on Iran",
+        "summary": "The United States has carried out new attacks on the Iranian island of Qeshm, according to military sources cited by several news agencies…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:31:08+01:00"
+      }
+    },
     {
       "id": "e581f45aa894",
       "schema_version": 1,
@@ -5256,84 +5335,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T02:31:00+01:00"
-      }
-    },
-    {
-      "id": "056fb717ebf9",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/varldsledarna-bryr-sig-mindre-om-forsvagad-trump-nu",
-      "guid": "https://www.expressen.se/nyheter/varlden/varldsledarna-bryr-sig-mindre-om-forsvagad-trump-nu/",
-      "published_at": "2026-11-16T02:22:56+01:00",
-      "fetched_at": "2026-11-16T02:30:55+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Världsledarna bryr sig mindre om ”försvagad” Trump nu",
-        "summary": "Världsledare ”blickar bortom Trump”, skriver Politico. Man ”ser honom som försvagad” av resultatet i mellanårsvalet. Rädslan för presidenten ”har minskat”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "World Leaders Care Less About a \"Weakened\" Trump Now",
-        "summary": "World leaders are \"looking beyond Trump\", writes Politico. They \"see him as weakened\" by the result of the midterm elections. Fear of the president \"has decreased\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T02:31:00+01:00"
-      }
-    },
-    {
-      "id": "fdd4d906a014",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341359",
-      "guid": "rss:sr.se/article/9341359",
-      "published_at": "2026-11-16T02:08:00+01:00",
-      "fetched_at": "2026-11-16T02:15:36+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Textilarbetare i strejk – runt 150 fabriker stängda",
-        "summary": "I Bangladesh har omkring 150 textilfabriker stängts efter omfattande strejker i helgen, där arbetare kräver högre minimilön, rapporterar BBC. I går blockerade demonstranter en större väg i Gazipur, vilket ledde till trafikstopp innan polisen ingrep.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Textile workers on strike – around 150 factories closed",
-        "summary": "In Bangladesh, around 150 textile factories have been closed after widespread strikes over the weekend, where workers demand a higher minimum wage, BBC reports. Yesterday, demonstrators blocked a major road in Gazipur, causing traffic to halt before police intervened."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T02:15:40+01:00"
-      }
-    },
-    {
-      "id": "4472af5f7382",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/7P0pJ3/ryssland-dronarattacker-mot-moskva",
-      "guid": "https://www.aftonbladet.se/nyheter/a/7P0pJ3/ryssland-dronarattacker-mot-moskva?utm_medium=rss",
-      "published_at": "2026-11-16T01:55:11+01:00",
-      "fetched_at": "2026-11-16T02:01:10+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ryssland: Drönarattacker mot Moskva",
-        "summary": "Tiotals drönare i riktning mot den ryska huvudstaden Moskva har avvärjts, hävdar stadens borgmästare…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russia: Drone attacks on Moscow",
-        "summary": "Dozens of drones heading toward the Russian capital Moscow have been intercepted, the city's mayor claims…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T02:01:15+01:00"
       }
     }
   ]
