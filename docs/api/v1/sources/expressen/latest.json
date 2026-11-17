@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T00:01:21+01:00",
+  "generated_at": "2026-11-18T00:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1fc32fe6db4d",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/trump-marco-du-far-sparken",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/trump-marco-du-far-sparken",
+      "published_at": "2026-11-18T00:03:32+01:00",
+      "fetched_at": "2026-11-18T00:15:46+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump: ”Marco, du får sparken”",
+        "summary": "Trumps hån under galamiddagen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump: \"Marco, you're fired\"",
+        "summary": "Trump's mockery at the gala dinner"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T00:15:51+01:00"
+      }
+    },
     {
       "id": "4b34733c3ea9",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:59:12+01:00"
-      }
-    },
-    {
-      "id": "33912aa4d1f0",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/svaret-forbluffar-forskarna-darifran-kom-vikingarna",
-      "guid": "https://www.expressen.se/nyheter/sverige/svaret-forbluffar-forskarna-darifran-kom-vikingarna/",
-      "published_at": "2026-11-14T14:02:54+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "Svaret förbluffar forskarna – därifrån kom vikingarna",
-        "summary": "En tidigare okänd folkvandring och vikingarnas oväntade härkomst. Det är några av fynden i en stor studie som kombinerat dna, arkeologi och språkvetenskap. – Vi blev själva ganska förbluffade, säger Kristian Kristiansen, professor i arkeologi.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The answer baffles researchers – this is where the Vikings came from",
-        "summary": "A previously unknown migration and the Vikings' unexpected origins. These are some of the findings in a large study that combined DNA, archaeology and linguistics. – We ourselves were quite astonished, says Kristian Kristiansen, professor of archaeology."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:36+01:00"
       }
     }
   ]

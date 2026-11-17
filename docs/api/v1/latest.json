@@ -1,7 +1,92 @@
 {
-  "generated_at": "2026-11-18T00:01:21+01:00",
+  "generated_at": "2026-11-18T00:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1fc32fe6db4d",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/trump-marco-du-far-sparken",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/trump-marco-du-far-sparken",
+      "published_at": "2026-11-18T00:03:32+01:00",
+      "fetched_at": "2026-11-18T00:15:46+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump: ”Marco, du får sparken”",
+        "summary": "Trumps hån under galamiddagen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump: \"Marco, you're fired\"",
+        "summary": "Trump's mockery at the gala dinner"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T00:15:51+01:00"
+      }
+    },
+    {
+      "id": "5f05384c82e9",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/elchocken-prisskillnaderna-inom-landet-ett-misslyckande",
+      "guid": "781ab039-890c-4e3b-a75c-3f428c32b69e",
+      "published_at": "2026-11-18T00:02:57+01:00",
+      "fetched_at": "2026-11-18T00:15:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1e74516c-397e-46e0-a93e-9ef2636fc7ee.jpeg?width=600",
+      "sv": {
+        "title": "Elchocken:”Prisskillnaderna inom landet ett misslyckande”",
+        "summary": "De höga elpriserna och stora elprisskillnaderna inom landet har fått flaskhalsinkomsterna till Svenska kraftnät att snabbt närma sig 100 miljarder kronor. Nu vill Svenska kraftnät få grönt ljus för att återföra delar av flaskhalsinkomsterna till de hårdast drabbade elkunderna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Electricity shock: \"Price differences within the country a failure\"",
+        "summary": "High electricity prices and large electricity price differences within the country have caused congestion income for Svenska kraftnät to quickly approach SEK 100 billion. Now Svenska kraftnät wants a green light to return part of the congestion income to the hardest-hit electricity customers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T00:15:51+01:00"
+      }
+    },
+    {
+      "id": "54d2cf603a33",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/ishockey/frolunda/frolundas-nya-utmaning-publiklaget-koln-haie.11f10383-5a1e-5785-9177-d497b30eba59",
+      "guid": "11f10383-5a1e-5785-9177-d497b30eba59",
+      "published_at": "2026-11-17T23:59:03+01:00",
+      "fetched_at": "2026-11-18T00:15:47+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Frölunda",
+        "Tagg: Frölundaborg",
+        "Tagg: Max Friberg"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/1a0bef89-b4ec-3b25-b4cb-4dd1acc95e54",
+      "sv": {
+        "title": "Frölundas nya utmaning: ”18 000 högljudda tyskar”",
+        "summary": "Efter segern mot Växjö väntar det tyska publiklaget Köln Haie i CHL-kvartsfinalen!",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Frölunda's new challenge: \"18,000 loud Germans\"",
+        "summary": "After the win against Växjö, the German crowd of Köln Haie awaits in the CHL quarter-final!"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T00:15:51+01:00"
+      }
+    },
     {
       "id": "94cbd8b7e1c7",
       "schema_version": 1,
@@ -5315,86 +5400,6 @@
       "en": {
         "title": "Swedish companies on the bridge war: “Vulnerability Kremlin is trying to exploit”",
         "summary": "Russia's new war tactic of massive attacks on Ukrainian bridges is hitting business, including Swedish companies present in Kyiv. But President Putin's real goal – to break the civilian population's will to defend itself – has the opposite effect: “Giving up is not on the map – then what awaits is…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:45:54+01:00"
-      }
-    },
-    {
-      "id": "4412b2cf05f9",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344572",
-      "guid": "rss:sr.se/article/9344572",
-      "published_at": "2026-11-17T16:18:00+01:00",
-      "fetched_at": "2026-11-17T16:31:07+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Talmannen kallar till ny talmansrunda nästa vecka",
-        "summary": "Talmannen ger Ulf Kristersson (M) en vecka till på sig att sondera. Dessutom kallar Andreas Norlén till nya talmansrundor på tisdag och onsdag nästa vecka. Då ska han alltså möta alla partiledare var för sig. ”Jag står fast vid att begreppsparet sondering, votering är viktigt”, säger Andreas Norlén.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Speaker calls new round of talks next week",
-        "summary": "The Speaker gives Ulf Kristersson (M) one more week to explore options. In addition, Andreas Norlén calls new speaker's rounds on Tuesday and Wednesday next week. He will then meet all party leaders individually. \"I stand firm that the concept pair sondering, votering is important\", says Andreas Norlén."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:31:15+01:00"
-      }
-    },
-    {
-      "id": "d87eba5b4885",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/doms-for-insiderbrott-efter-ordensmiddag",
-      "guid": "e59f4dc4-203a-4653-80a7-e3bc07205da0",
-      "published_at": "2026-11-17T16:16:57+01:00",
-      "fetched_at": "2026-11-17T16:45:47+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/d32d3e54-8aad-4b61-a083-01da102e155e.jpeg?width=600",
-      "sv": {
-        "title": "Döms för insiderbrott efter ordensmiddag",
-        "summary": "Tre män i 80-årsåldern döms för insiderbrott i härvan runt mjukvarubolaget Pagero, där åtta personer tidigare dömts i ett separat mål. Men trion klarar sig undan fängelse, bland annat med hänvisning till hög ålder.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Convicted of insider crimes after orders dinner",
-        "summary": "Three men in their 80s are convicted of insider trading in the Pagero software company affair, in which eight people were previously convicted in a separate case. But the trio avoids prison, partly citing their advanced age."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:45:54+01:00"
-      }
-    },
-    {
-      "id": "84223512407b",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/svensk-brittiskt-gripen-samarbete-med-ukraina",
-      "guid": "83bae64c-58a6-42b0-a73e-fe505d68e225",
-      "published_at": "2026-11-17T16:13:38+01:00",
-      "fetched_at": "2026-11-17T16:45:47+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/be328595-93e0-459e-a202-ef7a98357c94.jpeg?width=600",
-      "sv": {
-        "title": "Svensk-brittiskt Gripen-samarbete med Ukraina",
-        "summary": "Sverige, Ukraina och Storbritannien har skrivit under en avsiktsförklaring om att samarbeta kring ammunitions- och materielförsörjning till Ukrainas JAS Gripen-stridsflyg. Det framgår av ett pressmeddelande från Regeringskansliet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish-British Gripen cooperation with Ukraine",
-        "summary": "Sweden, Ukraine and the United Kingdom have signed a letter of intent to cooperate on ammunition and materiel supply for Ukraine's JAS Gripen combat aircraft. This is according to a press release from the Government Offices."
       },
       "translation": {
         "status": "done",

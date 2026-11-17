@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T00:01:21+01:00",
+  "generated_at": "2026-11-18T00:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5f05384c82e9",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/elchocken-prisskillnaderna-inom-landet-ett-misslyckande",
+      "guid": "781ab039-890c-4e3b-a75c-3f428c32b69e",
+      "published_at": "2026-11-18T00:02:57+01:00",
+      "fetched_at": "2026-11-18T00:15:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1e74516c-397e-46e0-a93e-9ef2636fc7ee.jpeg?width=600",
+      "sv": {
+        "title": "Elchocken:”Prisskillnaderna inom landet ett misslyckande”",
+        "summary": "De höga elpriserna och stora elprisskillnaderna inom landet har fått flaskhalsinkomsterna till Svenska kraftnät att snabbt närma sig 100 miljarder kronor. Nu vill Svenska kraftnät få grönt ljus för att återföra delar av flaskhalsinkomsterna till de hårdast drabbade elkunderna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Electricity shock: \"Price differences within the country a failure\"",
+        "summary": "High electricity prices and large electricity price differences within the country have caused congestion income for Svenska kraftnät to quickly approach SEK 100 billion. Now Svenska kraftnät wants a green light to return part of the congestion income to the hardest-hit electricity customers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T00:15:51+01:00"
+      }
+    },
     {
       "id": "d343a03ad29b",
       "schema_version": 1,
@@ -5224,32 +5251,6 @@
       "en": {
         "title": "Clearly higher results than expected from Nibe",
         "summary": "Heat-technology company Nibe reports better growth and profitability than analysts' expectations for the third quarter. \"The positive earnings development is explained primarily by the good organic sales growth, good cost discipline and improved productivity,\" comments CEO…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:15:46+01:00"
-      }
-    },
-    {
-      "id": "a428e037d123",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344095",
-      "guid": "rss:sr.se/article/9344095",
-      "published_at": "2026-11-17T08:02:00+01:00",
-      "fetched_at": "2026-11-17T08:15:38+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Elpriserna spås bli högre än krisvintern 2022",
-        "summary": "Elräkningarna ser ut att bli ovanligt höga i vinter. Högre än under krisvintern 2022-2023, med ett snittpris på 1 och 70 per kilowattimme, enligt en prognos från elhandelsbolaget Bixia. Anledningen är framförallt vattenbrist i magasinen i Norge och höga gaspriser i Europa.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Electricity prices forecast to be higher than the crisis winter of 2022",
-        "summary": "Electricity bills look set to be unusually high this winter. Higher than during the crisis winter of 2022-2023, with an average price of 1.70 per kilowatt-hour, according to a forecast from electricity retailer Bixia. The main reason is water shortage in the reservoirs in Norway and high gas prices in Europe."
       },
       "translation": {
         "status": "done",
