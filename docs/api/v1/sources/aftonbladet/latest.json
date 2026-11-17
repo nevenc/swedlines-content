@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T16:01:29+01:00",
+  "generated_at": "2026-11-17T16:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c4a7a16f0218",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Pv9na7/anstalld-vid-vardcentral-attackerad-i-kalix",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Pv9na7/anstalld-vid-vardcentral-attackerad-i-kalix?utm_medium=rss",
+      "published_at": "2026-11-17T16:02:57+01:00",
+      "fetched_at": "2026-11-17T16:15:50+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/47d6d2c9-7611-366f-8da8-30c365058115?format=auto&s=7d009a9ffa0f5d83283fdb32db7e917b19e76383&w=1000",
+      "sv": {
+        "title": "Anställd vid vårdcentral attackerad i Kalix",
+        "summary": "En anställd på en vårdcentral i Kalix har attackerats och skadats av en man med ett tillhygge…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Employee at health centre attacked in Kalix",
+        "summary": "An employee at a health centre in Kalix has been attacked and injured by a man with a blunt object…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:15:57+01:00"
+      }
+    },
     {
       "id": "d3c0257bfb23",
       "schema_version": 1,
@@ -5355,33 +5382,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:52+01:00"
-      }
-    },
-    {
-      "id": "bbe1d547baca",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/GPG3OV/iran-tankrar-har-gatt-pa-minor-i-hormuzsundet",
-      "guid": "https://www.aftonbladet.se/nyheter/a/GPG3OV/iran-tankrar-har-gatt-pa-minor-i-hormuzsundet?utm_medium=rss",
-      "published_at": "2026-11-14T05:15:49+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/039e33f3-ef68-3766-a2f4-4d0b682dbe06?format=auto&s=d2ed93c6b89d394da2b6f9f1d015fa0c0d1f8fc7&w=1000",
-      "sv": {
-        "title": "Iran: Tankrar har gått på minor i Hormuzsundet",
-        "summary": "Två separata oljetankrar har fattat eld efter det att de gått på minor i Hormuzsundet, hävdar…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Iran: Tankers have hit mines in the Strait of Hormuz",
-        "summary": "Two separate oil tankers caught fire after hitting mines in the Strait of Hormuz, claims…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:02+01:00"
       }
     }
   ]

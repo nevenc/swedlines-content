@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-17T16:01:29+01:00",
+  "generated_at": "2026-11-17T16:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "57ace7fe21b1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/italien-kan-sannolikt-lamna-eu-overvakning-nasta-ar",
+      "guid": "af2d95c5-cf9a-42e5-8aaa-9d446741fed4",
+      "published_at": "2026-11-17T16:06:15+01:00",
+      "fetched_at": "2026-11-17T16:15:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/00aeb39d-5d77-4c9d-88a3-97e206b12329.jpeg?width=600",
+      "sv": {
+        "title": "Italien kan sannolikt lämna EU-övervakning nästa år",
+        "summary": "Italiens underskott kommer sannolikt att ligga under EU:s gräns på 3 procent nästa år, vilket öppnar för att landet kan lämna EU:s finanspolitiska övervakningsförfarande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Italy could likely exit EU surveillance next year",
+        "summary": "Italy's deficit is likely to be below the EU's 3 percent limit next year, which opens the way for the country to exit the EU's fiscal surveillance procedure."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:15:57+01:00"
+      }
+    },
+    {
+      "id": "4b1c80631a4d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/usa-s-lager-av-osalda-varor-steg-i-september",
+      "guid": "b1430384-16ed-47bd-8120-6339f1f3adb2",
+      "published_at": "2026-11-17T16:05:43+01:00",
+      "fetched_at": "2026-11-17T16:15:51+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "USA:s lager av osålda varor steg i september",
+        "summary": "Lagren av osålda varor hos USA:s detaljhandel, grossister och fabriker steg med 0,5 procent i september, jämfört med månaden före, enligt USA:s handelsdepartement.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "US unsold goods inventories rose in September",
+        "summary": "Inventories of unsold goods at US retailers, wholesalers and factories rose by 0.5 percent in September compared with the previous month, according to the US Department of Commerce."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T16:15:57+01:00"
+      }
+    },
     {
       "id": "de02d98653c8",
       "schema_version": 1,
@@ -5269,58 +5322,6 @@
       "en": {
         "title": "SHB CEO takes over from Torgeby at the Swedish Bankers' Association",
         "summary": "Handelsbanken CEO Michael Green becomes new chair of the board of the Swedish Bankers' Association. This is according to a press release from the industry organisation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:31:21+01:00"
-      }
-    },
-    {
-      "id": "61e9c650bc78",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/trangt-i-dorren-for-ai-bolaget-lundinbolaget-rusar",
-      "guid": "21625e02-e89f-41dd-8bde-7de7aba999f3",
-      "published_at": "2026-11-16T12:24:00+01:00",
-      "fetched_at": "2026-11-16T12:31:15+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Trångt i dörren för AI-bolaget – Lundinbolaget rusar",
-        "summary": "Stockholmsbörsen handlas kring nollstrecket vid lunchtid på måndagen. Bland vinnarna finns ett Lundin-bolag medan ett AI-bolag, som hotas av avnotering, faller rejält.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Crowded at the door for AI company – Lundin company surges",
-        "summary": "The Stockholm Stock Exchange trades around zero at lunchtime on Monday. Among the winners is a Lundin company, while an AI company, which is threatened with delisting, falls sharply."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:31:21+01:00"
-      }
-    },
-    {
-      "id": "c75182990f5b",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/danske-bank-koprekar-sectra-tror-pa-ny-tillvaxtfas",
-      "guid": "9d0105bc-b288-45d7-b3dd-b96108cae9db",
-      "published_at": "2026-11-16T12:19:50+01:00",
-      "fetched_at": "2026-11-16T12:31:15+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Danske Bank köprekar Sectra – tror på ny tillväxtfas",
-        "summary": "Medicinteknik- och cybersäkerhetsbolaget Sectras konvertering av orderstocken väntas driva nästa tillväxtfas för bolaget. Det skriver Danske Bank i en analys.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Danske Bank upgrades Sectra – believes in new growth phase",
-        "summary": "The conversion of Sectra's order backlog, a medical technology and cybersecurity company, is expected to drive the company's next growth phase. Danske Bank writes in an analysis."
       },
       "translation": {
         "status": "done",
