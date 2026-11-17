@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-17T19:45:55+01:00",
+  "generated_at": "2026-11-17T20:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d5bf55993a03",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/elen-kan-bli-rekorddyr-i-vinter",
+      "guid": "https://www.dn.se/ekonomi/elen-kan-bli-rekorddyr-i-vinter/",
+      "published_at": "2026-11-17T19:54:28+01:00",
+      "fetched_at": "2026-11-17T20:01:14+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1acceda4-b5d9-44c8-b2b2-e285f25e3588.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Elen kan bli rekorddyr i vinter",
+        "summary": "Elpriserna ser ut att bli höga i vinter. Särskilt i södra Sverige, där elen ser ut att bli dyrare än rekordåret 2022. – Det kan bli hushåll som får svårt att betala sina räkningar och industrier som stänger ned sin produktion vissa dagar, säger energianalytikern Christian Holtz.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Electricity could become record expensive this winter",
+        "summary": "Electricity prices look set to be high this winter, especially in southern Sweden, where power looks set to be more expensive than in the record year 2022. – Households may struggle to pay their bills, and industries may shut down production some days, says energy analyst Christian Holtz."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T20:01:26+01:00"
+      }
+    },
+    {
+      "id": "4180d44d5f99",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/nedat-pa-wall-street-infor-nvidias-rapport",
+      "guid": "9962c3fb-11e5-4519-95fd-9aa8e7c28a3a",
+      "published_at": "2026-11-17T19:54:27+01:00",
+      "fetched_at": "2026-11-17T20:01:16+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0c6f73bb-f1ce-4615-8b47-49e27e12bc5f.jpeg?width=600",
+      "sv": {
+        "title": "Nedåt på Wall Street inför Nvidias rapport",
+        "summary": "New York-börserna noterades lägre efter cirka fyra timmars handel på tisdagen, med S&P 500 och Nasdaq Composite ned för fjärde dagen i rad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wall Street down ahead of Nvidia's report",
+        "summary": "New York stock exchanges were lower after about four hours of trading on Tuesday, with the S&P 500 and Nasdaq Composite down for the fourth day in a row."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T20:01:26+01:00"
+      }
+    },
     {
       "id": "4bec76d2b051",
       "schema_version": 1,
@@ -5158,59 +5212,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T07:15:59+01:00"
-      }
-    },
-    {
-      "id": "9007b030699e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/morgonkoll-teknikpress-infor-chipjattens-rapport",
-      "guid": "aedeab75-5d3a-4fe8-95ac-af6458cac0f4",
-      "published_at": "2026-11-17T06:37:00+01:00",
-      "fetched_at": "2026-11-17T06:45:39+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/febd2794-df33-4416-8f1d-a265483c9659.jpeg?width=600",
-      "sv": {
-        "title": "Morgonkoll: Teknikpress inför chipjättens rapport",
-        "summary": "Teknik- och AI-pressen fortsatte i börshandeln i Asien på tisdagsmorgonen, i spåren på breda nedgångar på Wall Street på måndagskvällen. Terminen för Nasdaqs kompositindex pekar dock något upp på tisdagsmorgonen inför chipjätten Nvidias rapport.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Morning check: Tech press ahead of chip giant's report",
-        "summary": "Tech and AI stocks continued to slide in Asian trading on Tuesday morning, following broad declines on Wall Street on Monday evening. Futures for the Nasdaq Composite index are, however, pointing slightly higher on Tuesday morning ahead of chip giant Nvidia's report."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:45:44+01:00"
-      }
-    },
-    {
-      "id": "03dae9428480",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/sma-ranterorelser-i-usa-_5UMq",
-      "guid": "089b539c-8c75-4ce9-a871-16fbfb6e0688",
-      "published_at": "2026-11-17T06:32:58+01:00",
-      "fetched_at": "2026-11-17T06:45:39+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Små ränterörelser i USA",
-        "summary": "USA-räntor handlas med små rörelser på tisdagen medan dollarn tillfälligt nådde den högsta nivån sedan USA:s president Donald Trumps tullbesked den 2 april 2025.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Small yield movements in the US",
-        "summary": "US yields are trading with small moves on Tuesday, while the dollar temporarily reached its highest level since US President Donald Trump's tariff announcement on 2 April 2025."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:45:44+01:00"
       }
     }
   ]

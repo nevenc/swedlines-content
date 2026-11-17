@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T19:45:55+01:00",
+  "generated_at": "2026-11-17T20:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4180d44d5f99",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/nedat-pa-wall-street-infor-nvidias-rapport",
+      "guid": "9962c3fb-11e5-4519-95fd-9aa8e7c28a3a",
+      "published_at": "2026-11-17T19:54:27+01:00",
+      "fetched_at": "2026-11-17T20:01:16+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0c6f73bb-f1ce-4615-8b47-49e27e12bc5f.jpeg?width=600",
+      "sv": {
+        "title": "Nedåt på Wall Street inför Nvidias rapport",
+        "summary": "New York-börserna noterades lägre efter cirka fyra timmars handel på tisdagen, med S&P 500 och Nasdaq Composite ned för fjärde dagen i rad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wall Street down ahead of Nvidia's report",
+        "summary": "New York stock exchanges were lower after about four hours of trading on Tuesday, with the S&P 500 and Nasdaq Composite down for the fourth day in a row."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T20:01:26+01:00"
+      }
+    },
     {
       "id": "4bec76d2b051",
       "schema_version": 1,
@@ -5302,33 +5329,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T16:16:22+01:00"
-      }
-    },
-    {
-      "id": "0ea3579ee8f8",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/ai-frossan-fortsatter-pa-rott-wall-street",
-      "guid": "27878a51-06de-4230-9e82-a84a710f5f8d",
-      "published_at": "2026-11-16T15:31:16+01:00",
-      "fetched_at": "2026-11-16T15:40:23+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/50ce1cef-d8b7-4d67-9f75-97f9f0675634.jpeg?width=600",
-      "sv": {
-        "title": "AI-frossan fortsätter på rött Wall Street",
-        "summary": "AI-bolagen föll tungt på Wall Street i fredags. På måndagen är det samma visa som gäller när USA-börserna öppnar på rött. ”Sentimentet är för skört just”, säger IG:s chefsstrateg Chris Beauchamp till Reuters.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "AI jitters continue on red Wall Street",
-        "summary": "AI companies fell sharply on Wall Street on Friday. On Monday it is the same story as US exchanges open in the red. “Sentiment is too fragile right now”, says IG chief strategist Chris Beauchamp to Reuters."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:40:28+01:00"
       }
     }
   ]

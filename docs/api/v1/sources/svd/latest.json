@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T19:45:55+01:00",
+  "generated_at": "2026-11-17T20:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dce247f2a8a5",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/z0G4j9/strandskyddet-ar-inte-rimligt-utformat-maste-reformeras-skriver-fredrik-wersall",
+      "guid": "https://www.svd.se/a/z0G4j9/strandskyddet-ar-inte-rimligt-utformat-maste-reformeras-skriver-fredrik-wersall?utm_medium=rss",
+      "published_at": "2026-11-17T19:45:00+01:00",
+      "fetched_at": "2026-11-17T20:01:14+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/6a5dde59-bff1-34ad-8b9e-2742e57d89ce?format=auto&s=ca5afee1760de070392cc04ab291b9a0ba49ecbc&w=1000",
+      "sv": {
+        "title": "”Dagens strandskydd är inte rimligt utformat”",
+        "summary": "Det är en sentida företeelse att freda strandområden från byggande , och inte förenligt med en…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”Today's shore protection is not reasonably designed”",
+        "summary": "It is a recent phenomenon to protect shoreline areas from construction, and not compatible with a…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T20:01:26+01:00"
+      }
+    },
     {
       "id": "154ddb3dac0a",
       "schema_version": 1,
@@ -5183,33 +5210,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "c0d353988ec7",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/pMLWqo/usa-forlorar-status-som-masslingsfritt-land",
-      "guid": "https://www.svd.se/a/pMLWqo/usa-forlorar-status-som-masslingsfritt-land?utm_medium=rss",
-      "published_at": "2026-11-14T11:37:35+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/e964e041-242d-3d52-ae48-c28af93121fb?format=auto&s=b54aee2a90b45cd78afee6b1620d016fabf2d6fd&w=1000",
-      "sv": {
-        "title": "USA förlorar status som mässlingsfritt",
-        "summary": "USA är inte längre ett land där mässlingen utrotats. Det slår Världshälsoorganisationens…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "USA loses measles-free status",
-        "summary": "The USA is no longer a country where measles has been eradicated. This is confirmed by the World Health Organization…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
       }
     }
   ]

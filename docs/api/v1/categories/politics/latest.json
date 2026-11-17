@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T19:45:55+01:00",
+  "generated_at": "2026-11-17T20:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dce247f2a8a5",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/z0G4j9/strandskyddet-ar-inte-rimligt-utformat-maste-reformeras-skriver-fredrik-wersall",
+      "guid": "https://www.svd.se/a/z0G4j9/strandskyddet-ar-inte-rimligt-utformat-maste-reformeras-skriver-fredrik-wersall?utm_medium=rss",
+      "published_at": "2026-11-17T19:45:00+01:00",
+      "fetched_at": "2026-11-17T20:01:14+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/6a5dde59-bff1-34ad-8b9e-2742e57d89ce?format=auto&s=ca5afee1760de070392cc04ab291b9a0ba49ecbc&w=1000",
+      "sv": {
+        "title": "”Dagens strandskydd är inte rimligt utformat”",
+        "summary": "Det är en sentida företeelse att freda strandområden från byggande , och inte förenligt med en…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”Today's shore protection is not reasonably designed”",
+        "summary": "It is a recent phenomenon to protect shoreline areas from construction, and not compatible with a…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T20:01:26+01:00"
+      }
+    },
     {
       "id": "65a2647849e9",
       "schema_version": 1,
@@ -26,6 +53,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T19:45:54+01:00"
+      }
+    },
+    {
+      "id": "5403f5d95ee9",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/giertz-informerade-inte-sd-om-svangningen-har-last-i-media",
+      "guid": "https://www.dn.se/sverige/giertz-informerade-inte-sd-om-svangningen-har-last-i-media/",
+      "published_at": "2026-11-17T19:38:30+01:00",
+      "fetched_at": "2026-11-17T20:01:14+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/cfcdn-screen9/img/H/5/H5uDrBbPxQ5IQDZo_35pEw_image/image.jpg?io=1&width=1000",
+      "sv": {
+        "title": "Giertz informerade inte SD om svängningen: ”Har läst i media”",
+        "summary": "SD-ledamoten Rasmus Giertz var överens med partiet om att lämna riksdagen – sedan ändrade han sig. Han har inte informerat partiet om sina nya planer. – Det har jag läst om i media, säger SD:s gruppledare Matheus Enholm.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Giertz did not inform the Sweden Democrats of the U-turn: ”Has read in media”",
+        "summary": "SD member Rasmus Giertz agreed with the party to leave the Riksdag, then changed his mind. He has not informed the party of his new plans. – I have read about it in the media, says the Sweden Democrats' group leader Matheus Enholm."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T20:01:26+01:00"
       }
     },
     {
@@ -5346,59 +5400,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T14:01:16+01:00"
-      }
-    },
-    {
-      "id": "134bce0ec479",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/uppgift-centertoppar-mots-om-regeringsfragan",
-      "guid": "41e82c7f-a146-46d2-a552-4857f7422749",
-      "published_at": "2026-11-15T13:26:07+01:00",
-      "fetched_at": "2026-11-15T13:30:56+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/fa11f270-b017-442d-8dbf-d5467a179a60.jpg?width=600",
-      "sv": {
-        "title": "Uppgift: Centertoppar möts om regeringsfrågan",
-        "summary": "Centerpartiets partistyrelse och riksdagsgrupp har kallats till möte på söndagen för att fatta beslut om regeringsfrågan, erfar Dagens Nyheter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Report: Centre leaders to meet over government question",
-        "summary": "The Centre Party's party board and parliamentary group have been called to a meeting on Sunday to decide on the government question, Dagens Nyheter reports"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T13:31:07+01:00"
-      }
-    },
-    {
-      "id": "78cf3199bbd1",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/valet-direkt-allt-du-behover-veta-om-valet-2026",
-      "guid": "3fa89741-f790-4099-978b-e1282af8020f",
-      "published_at": "2026-11-15T12:49:14+01:00",
-      "fetched_at": "2026-11-15T13:30:56+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Valet Direkt: Allt du behöver veta om valet 2026",
-        "summary": "Nu avgörs vem som ska styra Sverige. Följ det senaste här:",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Election Direct: Everything you need to know about the 2026 election",
-        "summary": "Now it is decided who will govern Sweden. Follow the latest here:"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T13:31:07+01:00"
       }
     }
   ]
