@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-17T11:01:25+01:00",
+  "generated_at": "2026-11-17T11:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b0363b80a699",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/vaderomslag-vantar-med-kyla-och-sno-risk-for-halka",
+      "guid": "https://www.dn.se/sverige/vaderomslag-vantar-med-kyla-och-sno-risk-for-halka/",
+      "published_at": "2026-11-17T11:15:32+01:00",
+      "fetched_at": "2026-11-17T11:15:45+01:00",
+      "category": "weather",
+      "image_url": "https://static.bonniernews.se/ba/5e071581-24b4-4aa7-99a5-5b0188430111.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Väderomslag väntar med kyla och snö – risk för halka",
+        "summary": "November har hittills varit kallare och torrare än normalt på flera håll i landet. Och kallare ska det bli: under veckan slår vädret om och det väntas snö på flera håll med risk för halt väglag. – Längst i norr blir det runt fem till tio minusgrader, säger SMHI:s meteorolog Erik Höjgård-Olsen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Cold Snap and Snow Arrive – Risk of Slippery Roads",
+        "summary": "November has so far been colder and drier than normal in many parts of the country. And it will get colder still: the weather turns this week, and snow is expected in several areas with a risk of icy roads. – The far north will see around five to ten degrees below zero, says SMHI meteorologist Erik Höjgård-Olsen."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T11:15:55+01:00"
+      }
+    },
+    {
+      "id": "dbf3eefb3baa",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/kritiksnack-lena-dunham-borde-aldrig-ha-blivit-beromd",
+      "guid": "https://www.dn.se/kultur/kritiksnack-lena-dunham-borde-aldrig-ha-blivit-beromd/",
+      "published_at": "2026-11-17T11:10:03+01:00",
+      "fetched_at": "2026-11-17T11:15:45+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/e80cd416-e188-4419-a9aa-30d290273679.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Kritiksnack: ”Lena Dunham borde aldrig ha blivit berömd”",
+        "summary": "Lena Dunhams omtalade självbiografi ”Famesick” har kommit ut i svensk översättning. DN:s Hanna Fahl, Tara Moshizi och Mina Asp Romefors läser en bok som ger smaskigt kändisskvaller, inblick i den kronisk sjukes vardag och en titt bakom kulisserna på tv-serien ”Girls”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Critics' Chat: \"Lena Dunham Should Never Have Become Famous\"",
+        "summary": "Lena Dunham's much-discussed memoir \"Famesick\" has been published in Swedish translation. DN's Hanna Fahl, Tara Moshizi and Mina Asp Romefors read a book that offers juicy celebrity gossip, insight into the daily life of a chronically ill person, and a look behind the scenes of the TV series \"Girls\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T11:15:55+01:00"
+      }
+    },
     {
       "id": "a023340abe6c",
       "schema_version": 1,
@@ -5332,60 +5386,6 @@
       "en": {
         "title": "Bessent points at Lutnick over AI leak to China",
         "summary": "Treasury Secretary Scott Bessent points the finger at fellow cabinet member Howard Lutnick over why the US has not been more successful in stopping exports of advanced AI chips to China. The question is linked to the scandal surrounding Nvidia's former CEO Jensen Huang."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "6fcc9f33a208",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/klagade-pa-mogel-i-lyxlagenheten-skot-sex-personer",
-      "guid": "https://www.dn.se/varlden/klagade-pa-mogel-i-lyxlagenheten-skot-sex-personer/",
-      "published_at": "2026-11-13T20:54:35+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/e2069543-4de3-4d99-b3a4-b93fc337d4a0.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Klagade på mögel i lyxlägenheten – sköt sex personer",
-        "summary": "WASHINGTON. Efter flera år med mögel och fukt i lägenheten gick en 55-årig läkare till sitt gym och sköt ihjäl fastighetsförvaltaren och skadade fem andra innan han tog sitt liv. Personer i mannens närhet är förbluffade över torsdagens masskjutning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Complained about mould in the luxury flat – shot six people",
-        "summary": "WASHINGTON. After several years of mould and damp in his flat, a 55-year-old doctor went to his gym and shot dead the property manager and injured five others before taking his own life. People close to the man are astonished by Thursday's mass shooting."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "1387b6b10c5c",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/ukraina-varnar-for-putins-vapenvila",
-      "guid": "https://www.dn.se/varlden/ukraina-varnar-for-putins-vapenvila/",
-      "published_at": "2026-11-13T20:31:24+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/e3bacae5-2a87-4d23-b967-0bec6dcd4dee.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Ukraina varnar för Putins vapenvila",
-        "summary": "Vladimir Putin har föreslagit en tillfällig vapenvila i Kostiantynivka för att få ut civila. Men i Ukraina finns en rädsla för att Ryssland ska använda upplägget för att stärka sina positioner.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Ukraine warns about Putin's ceasefire",
-        "summary": "Vladimir Putin has proposed a temporary ceasefire in Kostiantynivka to get civilians out. But in Ukraine there is a fear that Russia will use the arrangement to strengthen its positions."
       },
       "translation": {
         "status": "done",

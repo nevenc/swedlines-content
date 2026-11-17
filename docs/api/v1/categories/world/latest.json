@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T11:01:25+01:00",
+  "generated_at": "2026-11-17T11:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5899bf54b10f",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Pv9jp0/krislage-med-dystra-siffror-for-frankrike",
+      "guid": "https://www.svd.se/a/Pv9jp0/krislage-med-dystra-siffror-for-frankrike?utm_medium=rss",
+      "published_at": "2026-11-17T11:03:24+01:00",
+      "fetched_at": "2026-11-17T11:15:45+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/a8f864ed-26eb-3d9f-b4b2-e0ef09cedfda?format=auto&s=a3425b04f5bfde8ce8523dd73213b186343f726a&w=1000",
+      "sv": {
+        "title": "Krisläge med dystra siffror för Frankrike",
+        "summary": "Växande statsskuld och budgetunderskott får Frankrike att allt tydligare framstå som nästa krisland…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Crisis Looms with Grim Figures for France",
+        "summary": "Growing public debt and budget deficit increasingly make France look like the next crisis country…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T11:15:55+01:00"
+      }
+    },
     {
       "id": "78abb9388b00",
       "schema_version": 1,
@@ -5331,35 +5358,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T13:31:07+01:00"
-      }
-    },
-    {
-      "id": "5d69ec3bb246",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4JoJIuqNhBHHJdiL5PxHCF/nya-ryska-attacker-mot-zaporizjzja-foerstoerd-kaensla-av-trygghet",
-      "guid": "4JoJIuqNhBHHJdiL5PxHCF",
-      "published_at": "2026-11-15T11:26:30+01:00",
-      "fetched_at": "2026-11-15T13:30:54+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Nya ryska attacker mot Zaporizjzja: ”Förstörd känsla av trygghet”",
-        "summary": "Nästan varje dag de senaste veckorna har boende i den ukrainska staden Zaporizjzja utsatts för ryska anfall. Sent under lördagskvällen slog tolv ryska glidbomber ner i staden. Sex personer skadades, bland dem ett barn, enligt Kyiv Post som hänvisar till ukrainska myndigheter.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "New Russian attacks on Zaporizhzhia: \"Destroyed sense of security\"",
-        "summary": "Almost every day in recent weeks, residents of the Ukrainian city of Zaporizhzhia have been subjected to Russian attacks. Late on Saturday evening, twelve Russian glide bombs hit the city. Six people were injured, including a child, according to Kyiv Post citing Ukrainian authorities."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T13:31:13+01:00"
       }
     }
   ]

@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-17T11:01:25+01:00",
+  "generated_at": "2026-11-17T11:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dbf3eefb3baa",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/kritiksnack-lena-dunham-borde-aldrig-ha-blivit-beromd",
+      "guid": "https://www.dn.se/kultur/kritiksnack-lena-dunham-borde-aldrig-ha-blivit-beromd/",
+      "published_at": "2026-11-17T11:10:03+01:00",
+      "fetched_at": "2026-11-17T11:15:45+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/e80cd416-e188-4419-a9aa-30d290273679.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Kritiksnack: ”Lena Dunham borde aldrig ha blivit berömd”",
+        "summary": "Lena Dunhams omtalade självbiografi ”Famesick” har kommit ut i svensk översättning. DN:s Hanna Fahl, Tara Moshizi och Mina Asp Romefors läser en bok som ger smaskigt kändisskvaller, inblick i den kronisk sjukes vardag och en titt bakom kulisserna på tv-serien ”Girls”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Critics' Chat: \"Lena Dunham Should Never Have Become Famous\"",
+        "summary": "Lena Dunham's much-discussed memoir \"Famesick\" has been published in Swedish translation. DN's Hanna Fahl, Tara Moshizi and Mina Asp Romefors read a book that offers juicy celebrity gossip, insight into the daily life of a chronically ill person, and a look behind the scenes of the TV series \"Girls\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T11:15:55+01:00"
+      }
+    },
+    {
+      "id": "10db3129c282",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/z0G0yb/armemuseum-kommer-att-fa-en-starkare-framtid-skriver-lars-amreus",
+      "guid": "https://www.svd.se/a/z0G0yb/armemuseum-kommer-att-fa-en-starkare-framtid-skriver-lars-amreus?utm_medium=rss",
+      "published_at": "2026-11-17T11:00:00+01:00",
+      "fetched_at": "2026-11-17T11:15:45+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/930c4a34-0b8e-3676-ac2b-eb1a2d89f491?format=auto&s=cc82957b9c2a3f31dd5b3110235e6bad6f8a73a1&w=1000",
+      "sv": {
+        "title": "”Vi vill ge Armé­museum en starkare framtid”",
+        "summary": "Dagens lokaler för Armémuseum är inte ändamåls­enliga för verk­samheten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"We Want to Give the Army Museum a Stronger Future\"",
+        "summary": "The Army Museum's current premises are not fit for purpose for its activities."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T11:15:55+01:00"
+      }
+    },
     {
       "id": "0321de070a22",
       "schema_version": 1,
@@ -5562,60 +5616,6 @@
       "en": {
         "title": "The artist Keisha: 'Cried when I quit my job at Pressbyrån'",
         "summary": "20-year-old Keisha is the artist who has gone from her girlhood bedroom in Jumkil and covers on TikTok to opening for Benjamin Ingrosso and over two million streams on Spotify. On Friday she releases her first EP. – Last night I lay there thinking: Why do I of all people get to do this?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "44e59cad9280",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/fascinerande-verk-med-ren-och-oemotstandlig-pop",
-      "guid": "https://www.dn.se/kultur/fascinerande-verk-med-ren-och-oemotstandlig-pop/",
-      "published_at": "2026-11-13T14:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/e66bd13f-2cf0-4f0e-941c-83c5b1789d8d.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Fascinerande verk med ren och oemotståndlig pop",
-        "summary": "2hollis femte album rymmer såväl klistriga refränger som en av årets bästa hyperpoplåtar. DN:s Frida Söderqvist lyssnar på ”Pirouette” som ibland blir för mycket av det goda.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fascinating work of pure and irresistible pop",
-        "summary": "2hollis's fifth album holds both sticky choruses and one of the year's best hyperpop songs. DN's Frida Söderqvist listens to 'Pirouette', which at times becomes too much of a good thing."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "df0a3e2d29e8",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/maste-julstamningen-vara-sa-har-dalig-i-offentlig-sektor",
-      "guid": "https://www.dn.se/kultur/maste-julstamningen-vara-sa-har-dalig-i-offentlig-sektor/",
-      "published_at": "2026-11-13T13:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/cd266f87-08eb-4eae-a43b-e39159b8781d.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Måste julstämningen vara så här dålig i offentlig sektor?",
-        "summary": "Hela den begåvade ensemblen kämpar verkligen på i Kulturhuset Stadsteaterns julklapp till publiken. På scen blir Jonas Karlssons småputtriga roman ”God jul” lika småaktig som regeringsbildningen, skriver DN:s Lisa Boda.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Does the Christmas spirit have to be this bad in the public sector?",
-        "summary": "The whole talented ensemble really battles on in Kulturhuset Stadsteatern's Christmas present to the audience. On stage, Jonas Karlsson's gently simmering novel 'God jul' becomes as petty as the government formation, writes DN's Lisa Boda."
       },
       "translation": {
         "status": "done",
