@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-11-17T07:15:59+01:00",
+  "generated_at": "2026-11-17T07:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "eed051c88f9f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/tre-doda-efter-flygkrasch-vid-grand-canyon",
+      "guid": "https://www.svt.se/nyheter/utrikes/tre-doda-efter-flygkrasch-vid-grand-canyon",
+      "published_at": "2026-11-17T07:20:32+01:00",
+      "fetched_at": "2026-11-17T07:30:57+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Tre döda efter flygkrasch vid Grand Canyon",
+        "summary": "Tre personer dödades när ett mindre flygplan störtade vid Grand Canyon på måndagen, skriver nationalparken på sin hemsida.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Three dead after plane crash at Grand Canyon",
+        "summary": "Three people were killed when a small aircraft crashed at the Grand Canyon on Monday, the national park writes on its website."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "b7aefce49c8c",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344074",
+      "guid": "rss:sr.se/article/9344074",
+      "published_at": "2026-11-17T07:18:00+01:00",
+      "fetched_at": "2026-11-17T07:30:58+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump landar i Filippinerna – polisen har gripit demonstranter",
+        "summary": "USA:s president Donald Trump landar i dag i Asien. Hans resa börjar i Filippinerna och besöket kantas redan av protester. Inför presidentens ankomst har polisen i Manila gripit hundratals demonstranter som protesterat mot Pax Silica – den USA-ledda pakten som syftar till att säkra leveranskedjor…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Trump lands in the Philippines – police have arrested protesters",
+        "summary": "US President Donald Trump lands in Asia today. His trip begins in the Philippines and the visit is already marked by protests. Ahead of the president's arrival, police in Manila have arrested hundreds of demonstrators who protested against Pax Silica – the US-led pact that aims to secure supply chains…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T07:31:07+01:00"
+      }
+    },
+    {
+      "id": "09146d8f1a3c",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344081",
+      "guid": "rss:sr.se/article/9344081",
+      "published_at": "2026-11-17T07:16:00+01:00",
+      "fetched_at": "2026-11-17T07:30:58+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Tre döda efter flygkrasch i Grand Canyon",
+        "summary": "Tre personer har bekräftats döda efter efter en flygplanskrasch i USA. Planet, av modellen Piper Comanche, försvann sent på söndagskvällen från radarn och vrakdelarna hittades på måndagen i Grand Canyon, skriver New York Post.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Three dead after plane crash in Grand Canyon",
+        "summary": "Three people have been confirmed dead after a plane crash in the US. The aircraft, a Piper Comanche, disappeared from radar late on Sunday evening and wreckage was found in the Grand Canyon on Monday, New York Post reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T07:31:07+01:00"
+      }
+    },
     {
       "id": "3052f68850ac",
       "schema_version": 1,
@@ -5297,85 +5375,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:30:08+01:00"
-      }
-    },
-    {
-      "id": "bd849d01c27a",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/jd-vance-kan-sta-over-presidentvalet-2028-maga-ar-dott",
-      "guid": "https://www.expressen.se/nyheter/varlden/jd-vance-kan-sta-over-presidentvalet-2028-maga-ar-dott/",
-      "published_at": "2026-11-15T06:39:48+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "world",
-      "sv": {
-        "title": "JD Vance kan stå över presidentvalet 2028: ”Maga är dött”",
-        "summary": "JD Vance har pekats ut som Donald Trumps självklara efterträdare. Men nu överväger han att inte ställa upp i presidentvalet, uppger personer i hans närhet för CNN. – Det kanske helt enkelt inte är hans tid. Expressens nyhetsapp ger dig alla nyheter – ladda ned den här",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "JD Vance may sit out the 2028 presidential election: “Maga is dead”",
-        "summary": "JD Vance has been identified as Donald Trump's obvious successor. But now he is considering not running in the presidential election, persons close to him tell CNN. – Maybe it simply isn't his time. Expressen's news app gives you all the news – download it here"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:08+01:00"
-      }
-    },
-    {
-      "id": "5f9803c3371d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Pv36vJ/sa-blev-alvsjo-heta-zoneni-nya-gangkriget",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Pv36vJ/sa-blev-alvsjo-heta-zoneni-nya-gangkriget?utm_medium=rss",
-      "published_at": "2026-11-15T06:05:21+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/f28b9931-9000-369c-a298-5a5d846e3a95?format=auto&s=664a309ad15196bb50ba2ca00a93c6cbf8c98138&w=1000",
-      "sv": {
-        "title": "Blodiga dåden bakom ”heta zonen”",
-        "summary": "✓ Männen ✓ Blodiga dåden ✓ Konflikten",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The bloody acts behind the \"hot zone\"",
-        "summary": "✓ The men ✓ The bloody acts ✓ The conflict"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:14+01:00"
-      }
-    },
-    {
-      "id": "fd18381960e6",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/mMRPgO/iran-attackerat-militarbas-i-bahrain",
-      "guid": "https://www.aftonbladet.se/nyheter/a/mMRPgO/iran-attackerat-militarbas-i-bahrain?utm_medium=rss",
-      "published_at": "2026-11-15T05:38:20+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Iran: Attackerat militärbas i Bahrain",
-        "summary": "Amerikanska radarsystem vid en militärbas i Bahrain har anfallits av Iran, hävdar Revolutionsgardet…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Iran: Military base in Bahrain attacked",
-        "summary": "American radar systems at a military base in Bahrain have been attacked by Iran, the Revolutionary Guard claims…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:14+01:00"
       }
     }
   ]
