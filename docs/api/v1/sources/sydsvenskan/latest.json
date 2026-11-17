@@ -1,7 +1,53 @@
 {
-  "generated_at": "2026-11-17T09:01:23+01:00",
+  "generated_at": "2026-11-17T09:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7cd99d080699",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/vardeokning-for-alviksvagen-17-i-hollviken",
+      "guid": "2b75bbe5-41b7-4446-94c5-cc2bea3d8eb2",
+      "published_at": "2026-11-17T09:13:47+01:00",
+      "fetched_at": "2026-11-17T09:15:46+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Värdeökning för Alviksvägen 17 i Höllviken"
+      },
+      "en": {
+        "title": "Value increase for Alviksvägen 17 in Höllviken"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T09:15:50+01:00"
+      }
+    },
+    {
+      "id": "b19239eb47c2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-140-kvm-saldes-for-6-7-miljoner",
+      "guid": "e585e877-9d54-4334-b8a8-757ab2437a7d",
+      "published_at": "2026-11-17T09:13:47+01:00",
+      "fetched_at": "2026-11-17T09:15:46+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Hus på 140 kvm såldes för 6,7 miljoner"
+      },
+      "en": {
+        "title": "House of 140 square metres sold for 6.7 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T09:15:50+01:00"
+      }
+    },
     {
       "id": "a1e827a87b31",
       "schema_version": 1,
@@ -5248,60 +5294,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:42+01:00"
-      }
-    },
-    {
-      "id": "21be3bed4ced",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/sallan-har-trumps-rovarplaner-pa-gronland-framstatt-som-sa-naiva",
-      "guid": "55d39322-faba-44e3-905d-f452c28620d3",
-      "published_at": "2026-11-14T07:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/478a003f-09ea-4b5f-81f8-02e49741c0fb.jpeg?width=600",
-      "sv": {
-        "title": "Sällan har Trumps rövarplaner på Grönland framstått som så naiva",
-        "summary": "Att den stora ön i norr inte går att köpa blir tydligt i en ny stor utställning i Köpenhamn. Unga grönländska konstnärer bearbetar ursinnigt spåren efter den danska kolonialmaktens förtryck, skriver Carolina Söderholm.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump's plans to grab Greenland have rarely looked so naive",
-        "summary": "That the large island in the north cannot be bought becomes clear in a new major exhibition in Copenhagen. Young Greenlandic artists furiously work through the traces of Danish colonial oppression, writes Carolina Söderholm."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:52+01:00"
-      }
-    },
-    {
-      "id": "b763f6455265",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/byggstok-och-oro-bland-boende-nar-klagshamnsverket-gors-redo-for-framtiden",
-      "guid": "d15c75a2-69f0-439c-a1e6-f6cdf327bc25",
-      "published_at": "2026-11-14T07:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/fe6f3d5f-f906-4db4-a57e-e987ff81cb8f.jpeg?width=600",
-      "sv": {
-        "title": "Byggstök och oro bland boende när Klagshamnsverket görs redo för framtiden",
-        "summary": "VA Syd satsar stort på att bygga ut Klagshamnsverket. Det innebär flera års byggstök i ett populärt och viktigt rekreationsområde: Klagshamns udde. Nu är grannarna oroliga för miljöpåverkan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Construction disruption and residents' concern as Klagshamnsverket is made ready for the future",
-        "summary": "VA Syd is investing heavily in expanding Klagshamnsverket. It means several years of construction disruption in a popular and important recreation area: Klagshamns udde. Now neighbours are worried about the environmental impact."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:52+01:00"
       }
     }
   ]

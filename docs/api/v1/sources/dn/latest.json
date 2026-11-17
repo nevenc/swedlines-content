@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T09:01:23+01:00",
+  "generated_at": "2026-11-17T09:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "66f6254fab8b",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/frida-karlssons-uppladdning-vittnar-mot-stalker",
+      "guid": "https://www.dn.se/sport/frida-karlssons-uppladdning-vittnar-mot-stalker/",
+      "published_at": "2026-11-17T09:09:52+01:00",
+      "fetched_at": "2026-11-17T09:15:44+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/3937cddc-517c-4323-ad34-d742008e3f1d.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Frida Karlssons uppladdning: Vittnar mot stalker",
+        "summary": "I fjol dömdes han för olaga förföljelse mot Frida Karlsson. Trots det fortsatte mannen att försöka få kontakt med skidstjärnan. På onsdag ställs han på nytt inför rätta i Eskilstuna tingsrätt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Frida Karlsson's upload: Testifies against stalker",
+        "summary": "Last year he was convicted of harassment against Frida Karlsson. Despite this, the man continued trying to make contact with the ski star. On Wednesday he is again facing trial at the Eskilstuna district court."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T09:15:50+01:00"
+      }
+    },
     {
       "id": "751987dc8165",
       "schema_version": 1,
@@ -5359,33 +5386,6 @@
       "en": {
         "title": "L source: Kristersson government will need to cooperate with SD",
         "summary": "Kristersson's package to the Centre Party has been a joint effort between M, KD and L. The hardest knot is not policy but what contacts with SD should look like in the coming term. – A minority government will need to talk to SD, says an L source with good insight."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "f158b4ea8736",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/strulet-hos-it-jatten-slar-mot-hakten-i-usa",
-      "guid": "https://www.dn.se/varlden/strulet-hos-it-jatten-slar-mot-hakten-i-usa/",
-      "published_at": "2026-11-13T18:20:02+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/2a745aaa-1617-4382-a337-9829fd6bb009.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Strulet hos it-jätten slår mot häkten i USA",
-        "summary": "Störningarna hos Microsoft fortsätter att orsaka problem för myndigheter, sjukvård och privatpersoner världen över. Antalet drabbade har minskat, men i Colorado riskerar personer att bli kvar i häkte längre än nödvändigt eftersom borgensbetalningarna fortfarande strular.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trouble at the IT giant hits jails in the US",
-        "summary": "The disruptions at Microsoft continue to cause problems for authorities, health care and private individuals around the world. The number of those affected has fallen, but in Colorado people risk being held in jail longer than necessary because bail payments are still not working."
       },
       "translation": {
         "status": "done",
