@@ -1,7 +1,412 @@
 {
-  "generated_at": "2026-11-17T18:01:27+01:00",
-  "count": 510,
+  "generated_at": "2026-11-17T18:15:57+01:00",
+  "count": 528,
   "items": [
+    {
+      "id": "ad2d8af54a9b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/forfattaren-om-gta-6-skammen-blir-en-swiftie",
+      "guid": "https://www.expressen.se/nyheter/sverige/forfattaren-om-gta-6-skammen-blir-en-swiftie/",
+      "published_at": "2026-11-17T18:11:45+01:00",
+      "fetched_at": "2026-11-17T18:15:47+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Författaren om GTA 6-skammen: ”Blir en Swiftie”",
+        "summary": "Grand Theft Auto-spelen har en speciell plats i mångas hjärta. Bland annat hos författaren Mikael Yvesand – som tagit en veckas semester för att spela. – Jag ser så mycket fram emot att bara vända på dygnet, utan skam, och bli radikaliserad av tv-spelsvåld, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Author on GTA 6 shame: \"Becomes a Swiftie\"",
+        "summary": "Grand Theft Auto games have a special place in many hearts. Among them author Mikael Yvesand, who has taken a week's holiday to play. \"I'm really looking forward to just flipping the day-night cycle, without shame, and being radicalised by video game violence,\" he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "0ef6247b82d2",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/pMLr8w/slakting-doms-for-sexuella-overgrepp-mot-barn",
+      "guid": "https://www.aftonbladet.se/nyheter/a/pMLr8w/slakting-doms-for-sexuella-overgrepp-mot-barn?utm_medium=rss",
+      "published_at": "2026-11-17T18:10:52+01:00",
+      "fetched_at": "2026-11-17T18:15:47+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/1165e3fd-a290-3a6d-a7ec-8ece4fe347f7?format=auto&s=6c7b2ed537ef5377182214512f74451410ee8972&w=1000",
+      "sv": {
+        "title": "Släkting döms för sexuella övergrepp mot barn",
+        "summary": "En man i 20-årsåldern i Värmlands län döms till nio års fängelse för flera fall av grova sexuella…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Relative convicted of sexual abuse of children",
+        "summary": "A man in his 20s in Värmland County is sentenced to nine years in prison for multiple counts of aggravated sexual…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "acacb9571ee2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/danmark/tande-eld-hos-judisk-kvinna-atalas-for-terror",
+      "guid": "a6a12829-7374-4e5d-ac33-5c5fa3bbcee0",
+      "published_at": "2026-11-17T18:10:48+01:00",
+      "fetched_at": "2026-11-17T18:15:50+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/99d9c8d8-e538-4be9-b13a-c9f1840e3832.jpg?width=600",
+      "sv": {
+        "title": "Tände eld hos judisk kvinna – åtalas för terror",
+        "summary": "En man i 25-årsåldern i Köpenhamn åtalas för terrorbrott efter att ha satt en judisk kvinnas balkong i brand 2024.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Set fire to Jewish woman's balcony – charged with terrorism",
+        "summary": "A man in his 25s in Copenhagen is charged with terrorism offences after setting fire to a Jewish woman's balcony in 2024."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "a3e89dcbaed7",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/46ZhOLjnlXrgZmYjgVhXL6/foernedrades-och-misshandlades-av-pojkgaeng-stampade-pa-mitt-huvud",
+      "guid": "46ZhOLjnlXrgZmYjgVhXL6",
+      "published_at": "2026-11-17T18:09:24+01:00",
+      "fetched_at": "2026-11-17T18:15:48+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Brott och straff"
+      ],
+      "sv": {
+        "title": "Förnedrades och misshandlades av pojkgäng: ”Stampade på mitt huvud”",
+        "summary": "Domen mot pojkgänget föll i dag i Västmanlands tingsrätt. Sex tonåringar var inblandade i förnedringsmisshandeln, men tre av dem var under 15 år och kunde därför inte åtalas eller dömas.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Humiliated and assaulted by boy gang: \"Stomped on my head\"",
+        "summary": "The verdict against the boy gang was handed down today at Västmanland District Court. Six teenagers were involved in the humiliation assault, but three of them were under 15 and could therefore not be charged or convicted."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "98d222274d84",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/hans-rosen-forloraren-kristersson-serverar-salami-och-blir-en-vinnare",
+      "guid": "https://www.dn.se/sverige/hans-rosen-forloraren-kristersson-serverar-salami-och-blir-en-vinnare/",
+      "published_at": "2026-11-17T18:07:27+01:00",
+      "fetched_at": "2026-11-17T18:15:46+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/306a4b8f-b3e4-4a0f-8dca-714411cac478.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Hans Rosén: Förloraren Kristersson serverar salami – och blir en vinnare",
+        "summary": "Pressen ökar på både S och C när Ulf Kristersson får möjlighet att hålla dörren öppen för Elisabeth Thand Ringqvist en hel vecka till. Men även om M-ledaren förlorar dragkampen har han tagit ett viktigt strategiskt steg mot att förverkliga den dröm han har haft ända sedan 2018.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hans Rosén: Loser Kristersson serves salami – and becomes a winner",
+        "summary": "Pressure is mounting on both the Social Democrats and the Centre Party as Ulf Kristersson (M) gets the chance to keep the door open for Elisabeth Thand Ringqvist for one more week. But even if the Moderates leader loses the tug-of-war, he has taken an important strategic step toward realising the dream he has had since 2018."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "e0dd930142c8",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Qro948/eu-forsvarar-smutsigt-elmal",
+      "guid": "https://www.svd.se/a/Qro948/eu-forsvarar-smutsigt-elmal?utm_medium=rss",
+      "published_at": "2026-11-17T18:05:38+01:00",
+      "fetched_at": "2026-11-17T18:15:46+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/f2e9816b-79a2-3da4-a643-6ee2022c9f3f?format=auto&s=7eef8840b71841ef926ec7177eda885625530fce&w=1000",
+      "sv": {
+        "title": "EU försvarar ”smutsigt” elmål",
+        "summary": "EU ställer sig bakom ett mål om 35 procents elektrifiering fram till 2035, trots att elen kan…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EU defends \"dirty\" electricity target",
+        "summary": "The EU backs a target of 35 percent electrification by 2035, even though electricity can…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "88b4a6b9eca4",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/KL3WgG/eu-forsvarar-smutsigt-elmal",
+      "guid": "https://www.aftonbladet.se/nyheter/a/KL3WgG/eu-forsvarar-smutsigt-elmal?utm_medium=rss",
+      "published_at": "2026-11-17T18:05:37+01:00",
+      "fetched_at": "2026-11-17T18:15:47+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/f2e9816b-79a2-3da4-a643-6ee2022c9f3f?format=auto&s=7eef8840b71841ef926ec7177eda885625530fce&w=1000",
+      "sv": {
+        "title": "EU försvarar ”smutsigt” elmål",
+        "summary": "EU ställer sig bakom ett mål om 35 procents elektrifiering fram till 2035, trots att elen kan…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EU defends \"dirty\" electricity target",
+        "summary": "The EU backs a target of 35 percent electrification by 2035, even though electricity can…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "8eea366d3d31",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/dJOqEJ/tande-eld-hos-judisk-kvinna-atalas-for-terror",
+      "guid": "https://www.aftonbladet.se/nyheter/a/dJOqEJ/tande-eld-hos-judisk-kvinna-atalas-for-terror?utm_medium=rss",
+      "published_at": "2026-11-17T18:04:57+01:00",
+      "fetched_at": "2026-11-17T18:15:47+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/0b5d5013-0dff-35f5-b8b0-1ffb00c69ad8?format=auto&s=dd2f9f1a111bba8ea1d824fafe6eedc7cf1bc098&w=1000",
+      "sv": {
+        "title": "Tände eld hos judisk kvinna – åtalas för terror",
+        "summary": "En man i 25-årsåldern i Köpenhamn åtalas för terrorbrott efter att ha satt en judisk kvinnas balkong…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Set fire to Jewish woman's balcony – charged with terrorism",
+        "summary": "A man in his 25s in Copenhagen is charged with terrorism offences after setting fire to a Jewish woman's balcony…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "73b023c812f3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/silex-vd-allt-loper-pa-enligt-plan-i-usa",
+      "guid": "72b7506d-a885-4871-8a55-84d871deb41e",
+      "published_at": "2026-11-17T18:04:52+01:00",
+      "fetched_at": "2026-11-17T18:15:48+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/7cad7b94-1698-4d4d-8b9d-520c54a64c3f.jpeg?width=600",
+      "sv": {
+        "title": "Silex vd: Allt löper på enligt plan i USA",
+        "summary": "Den svenska chiptillverkaren Silex ser nya möjligheter i USA efter förändringarna i ägarbilden, enligt vd Edvard Kälvesten. Han pekar särskilt ut försvar och datacenter som områden bolaget nu tittar mer på.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Silex CEO: Everything going according to plan in USA",
+        "summary": "The Swedish chip maker Silex sees new opportunities in the USA following changes in its ownership structure, according to CEO Edvard Kälvesten. He points in particular to defence and data centres as areas the company is now looking at more closely."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "fda3213a7372",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/49-aring-ny-agare-till-villa-yrSj0",
+      "guid": "31b0dbe7-088d-4b20-8267-c36b62c2277f",
+      "published_at": "2026-11-17T18:02:28+01:00",
+      "fetched_at": "2026-11-17T18:15:50+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "49-åring ny ägare till villa"
+      },
+      "en": {
+        "title": "49-year-old new owner of villa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "dd03a53edea0",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/173-kvadratmeter-stort-hus-for-10-miljoner",
+      "guid": "e25eff11-f2af-48bf-a3be-b7e83749aaee",
+      "published_at": "2026-11-17T18:02:07+01:00",
+      "fetched_at": "2026-11-17T18:15:50+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "173 kvadratmeter stort hus för 10 miljoner"
+      },
+      "en": {
+        "title": "173 square metre house for 10 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "bd36a2afa547",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/villa-i-hollviken-sald-for-8-2-miljoner",
+      "guid": "c51c0272-8d3e-4d00-b909-06ffd7ebce20",
+      "published_at": "2026-11-17T18:02:05+01:00",
+      "fetched_at": "2026-11-17T18:15:50+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Villa i Höllviken såld – för 8,2 miljoner"
+      },
+      "en": {
+        "title": "Villa in Höllviken sold – for 8.2 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "c75db0b7675f",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/villa-i-akarp-sald-for-5-8-miljoner",
+      "guid": "fd150d85-af87-4a0b-b068-a364fbf0f068",
+      "published_at": "2026-11-17T18:02:05+01:00",
+      "fetched_at": "2026-11-17T18:15:50+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Villa i Åkarp såld – för 5,8 miljoner"
+      },
+      "en": {
+        "title": "Villa in Åkarp sold – for 5.8 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "0800ee447965",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/villa-i-bjarred-sald-for-5-6-miljoner",
+      "guid": "d12abbc6-f06c-489c-8b39-2fa529572552",
+      "published_at": "2026-11-17T18:01:51+01:00",
+      "fetched_at": "2026-11-17T18:15:50+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Villa i Bjärred såld – för 5,6 miljoner"
+      },
+      "en": {
+        "title": "Villa in Bjärred sold – for 5.6 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "f3117120b9e5",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/1930-talshus-saldes-for-2-8-miljoner",
+      "guid": "f4cfc940-a764-4a0f-adfa-26dc170d7291",
+      "published_at": "2026-11-17T18:01:51+01:00",
+      "fetched_at": "2026-11-17T18:15:50+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "1930-talshus såldes för 2,8 miljoner"
+      },
+      "en": {
+        "title": "1930s house sold for 2.8 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
+    {
+      "id": "18614c197970",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/kedjehus-i-loddekopinge-salt-for-2-4-miljoner",
+      "guid": "2a60e545-4dfd-4bba-be5d-a62aa48e7aca",
+      "published_at": "2026-11-17T18:01:47+01:00",
+      "fetched_at": "2026-11-17T18:15:50+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Kedjehus i Löddeköpinge sålt – för 2,4 miljoner"
+      },
+      "en": {
+        "title": "Terraced house in Löddeköpinge sold – for 2.4 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
     {
       "id": "4b8428c023f2",
       "schema_version": 1,
@@ -54,6 +459,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T18:01:27+01:00"
+      }
+    },
+    {
+      "id": "07f2bcdad0ce",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/elpriserna-rusar-svenska-kraftnat-oppnar-for-aterbetalning",
+      "guid": "5f03eab2-0a6b-4099-8055-43b1cf20d667",
+      "published_at": "2026-11-17T17:59:18+01:00",
+      "fetched_at": "2026-11-17T18:15:48+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1581f1d2-b452-462a-b10a-34a01eac415a.jpeg?width=600",
+      "sv": {
+        "title": "Elpriserna rusar – Svenska kraftnät öppnar för återbetalning",
+        "summary": "Elpriserna i södra halvan av Sverige stiger åter brant och riskerar denna veckan att nå högsta snittnivån hittills i år, varnar en analytiker. Statliga Svenska kraftnät öppnar nu för att återbetala delar av de snabbt växande flaskhalsinkomsterna till de hårdast drabbade elkunderna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Electricity prices soar – Svenska kraftnät opens for repayment",
+        "summary": "Electricity prices in the southern half of Sweden are rising sharply again and risk reaching the highest annual average so far this year this week, warns an analyst. The state-owned Svenska kraftnät is now opening up to repay part of the rapidly growing congestion income to the hardest-hit electricity customers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
       }
     },
     {
@@ -239,6 +671,41 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T18:01:27+01:00"
+      }
+    },
+    {
+      "id": "2d7bd0a53440",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/film/filmrecension/recension-you-can-see-everything-i-regi-av-nathan-fielder-och-lance-oppenheim.bf3493c3-a507-563b-bfd5-58b09825067a",
+      "guid": "bf3493c3-a507-563b-bfd5-58b09825067a",
+      "published_at": "2026-11-17T17:47:03+01:00",
+      "fetched_at": "2026-11-17T18:15:49+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Filmrecension",
+        "Tagg: Elizabeth Holmes",
+        "Tagg: Nathan Fielder",
+        "Tagg: Hollywood",
+        "Tagg: Film",
+        "Tagg: Recension"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/9bda3f65-cd75-307c-80c8-7fd4b0c71b77",
+      "sv": {
+        "title": "Så bra är filmen om skandalomsusade Elizabeth Holmes",
+        "summary": "Här får frågan om vad som är sant och falskt en rejäl omgång.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is how good the film about the scandal-ridden Elizabeth Holmes is",
+        "summary": "Here the question of what is true and false gets a thorough going-over."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
       }
     },
     {

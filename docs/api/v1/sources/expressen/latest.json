@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T18:01:27+01:00",
+  "generated_at": "2026-11-17T18:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ad2d8af54a9b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/forfattaren-om-gta-6-skammen-blir-en-swiftie",
+      "guid": "https://www.expressen.se/nyheter/sverige/forfattaren-om-gta-6-skammen-blir-en-swiftie/",
+      "published_at": "2026-11-17T18:11:45+01:00",
+      "fetched_at": "2026-11-17T18:15:47+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Författaren om GTA 6-skammen: ”Blir en Swiftie”",
+        "summary": "Grand Theft Auto-spelen har en speciell plats i mångas hjärta. Bland annat hos författaren Mikael Yvesand – som tagit en veckas semester för att spela. – Jag ser så mycket fram emot att bara vända på dygnet, utan skam, och bli radikaliserad av tv-spelsvåld, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Author on GTA 6 shame: \"Becomes a Swiftie\"",
+        "summary": "Grand Theft Auto games have a special place in many hearts. Among them author Mikael Yvesand, who has taken a week's holiday to play. \"I'm really looking forward to just flipping the day-night cycle, without shame, and being radicalised by video game violence,\" he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
     {
       "id": "b551d7e24318",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Thousands of planes were in the air – then the system crashed",
         "summary": "Around 3,500 planes were in the air when the American aviation authority hit the stop button, according to the BBC. For more than four hours there was total chaos in US airspace. Just days earlier, a new AI-based air traffic control system had been put into use. Now the causes of the flight stoppage are being investigated."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:42+01:00"
-      }
-    },
-    {
-      "id": "7f3ec9bbcbfd",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/kraftiga-ovadret-slar-till-mot-italien-100-evakuerade",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/kraftiga-ovadret-slar-till-mot-italien-100-evakuerade",
-      "published_at": "2026-11-14T08:15:22+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Turistortens larm efter kaosoväder",
-        "summary": "Italienska semesterfavoriten evakuerar",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tourist town raises alarm after chaotic weather",
-        "summary": "Italian holiday favourite evacuates"
       },
       "translation": {
         "status": "done",

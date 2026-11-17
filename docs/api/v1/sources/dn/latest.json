@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T18:01:27+01:00",
+  "generated_at": "2026-11-17T18:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "98d222274d84",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/hans-rosen-forloraren-kristersson-serverar-salami-och-blir-en-vinnare",
+      "guid": "https://www.dn.se/sverige/hans-rosen-forloraren-kristersson-serverar-salami-och-blir-en-vinnare/",
+      "published_at": "2026-11-17T18:07:27+01:00",
+      "fetched_at": "2026-11-17T18:15:46+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/306a4b8f-b3e4-4a0f-8dca-714411cac478.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Hans Rosén: Förloraren Kristersson serverar salami – och blir en vinnare",
+        "summary": "Pressen ökar på både S och C när Ulf Kristersson får möjlighet att hålla dörren öppen för Elisabeth Thand Ringqvist en hel vecka till. Men även om M-ledaren förlorar dragkampen har han tagit ett viktigt strategiskt steg mot att förverkliga den dröm han har haft ända sedan 2018.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hans Rosén: Loser Kristersson serves salami – and becomes a winner",
+        "summary": "Pressure is mounting on both the Social Democrats and the Centre Party as Ulf Kristersson (M) gets the chance to keep the door open for Elisabeth Thand Ringqvist for one more week. But even if the Moderates leader loses the tug-of-war, he has taken an important strategic step toward realising the dream he has had since 2018."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T18:15:56+01:00"
+      }
+    },
     {
       "id": "c4ccd2f54fc8",
       "schema_version": 1,
@@ -5368,33 +5395,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "aa0e656993a7",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sport/damforeningens-sista-dans-nu-ar-det-sista-gangen-for-liksom-alltid",
-      "guid": "https://www.dn.se/sport/damforeningens-sista-dans-nu-ar-det-sista-gangen-for-liksom-alltid/",
-      "published_at": "2026-11-14T09:17:32+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/b72d2a48-1994-404a-bc12-b14b06c7a74b.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Damföreningens sista dans: ”Nu är det sista gången, för liksom alltid”",
-        "summary": "UPPSALA. IK Uppsala har nått vägs ände. Efter söndagens allsvenska avslutning läggs klubben ner. Utvecklingen i svensk damfotboll springer ifrån de rena damföreningarna. – Men jag tycker att det är så viktigt att sådana här klubbar finns kvar, säger mittfältaren Stina Leffler.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The women's club's last dance: ”Now it's the last time, like always”",
-        "summary": "UPPSALA. IK Uppsala has reached the end of the road. After Sunday's Allsvenskan finale the club is being shut down. Developments in Swedish women's football are outpacing the purely women's clubs. – But I think it's so important that clubs like this remain, says midfielder Stina Leffler."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:32+01:00"
       }
     }
   ]
