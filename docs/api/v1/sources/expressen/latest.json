@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T21:45:53+01:00",
+  "generated_at": "2026-11-17T22:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "20148e48d1f2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f32a97aa-b3cc-414c-917b-d54497846ee2",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f32a97aa-b3cc-414c-917b-d54497846ee2",
+      "published_at": "2026-11-17T21:53:00+01:00",
+      "fetched_at": "2026-11-17T22:01:18+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Uppgifter: Amerikansk attack mot Iran",
+        "summary": "Uppgifter: Ny amerikansk attack mot Iran",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: American attack on Iran",
+        "summary": "Reports: New American attack on Iran"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T22:01:24+01:00"
+      }
+    },
     {
       "id": "69f24da986a0",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:59:36+01:00"
-      }
-    },
-    {
-      "id": "e79fc0991c24",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/mordarens-iskalla-svar-jag-skulle-gora-det-en-miljon-ganger",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/mordarens-iskalla-svar-jag-skulle-gora-det-en-miljon-ganger",
-      "published_at": "2026-11-14T13:15:08+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Tittar på familjen – säger iskalla orden",
-        "summary": "Mördarens sex ord i USA chockar alla",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Watching the family – says the chilling words",
-        "summary": "The killer's six words in the US shock everyone"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:51+01:00"
       }
     }
   ]

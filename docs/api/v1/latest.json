@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-17T21:45:53+01:00",
+  "generated_at": "2026-11-17T22:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "868be0fb5c92",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/2vGnpG/kommer-att-alskas-av-buskiskonnassorer",
+      "guid": "https://www.svd.se/a/2vGnpG/kommer-att-alskas-av-buskiskonnassorer?utm_medium=rss",
+      "published_at": "2026-11-17T22:00:00+01:00",
+      "fetched_at": "2026-11-17T22:01:16+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/dce9c8c2-6d18-3c8c-b205-9063d727b90b?format=auto&s=9a110d9803ff03de583b21e3999f4112aa10514c&w=1000",
+      "sv": {
+        "title": "Kommer att älskas av buskiskonnässörer",
+        "summary": "Rolf Lassgård och Lennart Jähkel fått stor frihet att göra sina gubbar i ”Arne goes to space”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Will be loved by connoisseurs of buskis comedy",
+        "summary": "Rolf Lassgård and Lennart Jähkel have been given great freedom to make their characters in \"Arne goes to space\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T22:01:24+01:00"
+      }
+    },
+    {
+      "id": "20148e48d1f2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f32a97aa-b3cc-414c-917b-d54497846ee2",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f32a97aa-b3cc-414c-917b-d54497846ee2",
+      "published_at": "2026-11-17T21:53:00+01:00",
+      "fetched_at": "2026-11-17T22:01:18+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Uppgifter: Amerikansk attack mot Iran",
+        "summary": "Uppgifter: Ny amerikansk attack mot Iran",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: American attack on Iran",
+        "summary": "Reports: New American attack on Iran"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T22:01:24+01:00"
+      }
+    },
     {
       "id": "b2efc0076ab2",
       "schema_version": 1,
@@ -5315,59 +5368,6 @@
       "en": {
         "title": "80,000 savers throw themselves into the giant's slump",
         "summary": "Small savers are buying the dip in Nvidia in unprecedented numbers. At the online brokers Avanza and Nordnet, over 80,000 new owners have poured in over a little more than a week."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T15:45:57+01:00"
-      }
-    },
-    {
-      "id": "5a590404bb96",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/nike-lanserar-nya-finansiella-mal-aktien-stiger",
-      "guid": "123179f4-b724-4087-bf45-cb2af442279f",
-      "published_at": "2026-11-17T15:36:03+01:00",
-      "fetched_at": "2026-11-17T15:45:50+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nike lanserar nya finansiella mål – aktien stiger",
-        "summary": "Sportmodebolaget Nike lanserade på tisdagen nya mål inför en investerardag.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nike launches new financial targets – shares rise",
-        "summary": "Sportswear company Nike on Tuesday launched new targets ahead of an investor day."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T15:45:57+01:00"
-      }
-    },
-    {
-      "id": "7298cc8add6c",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/skane/jordbruksverket-varnar-for-fagelinfluensa",
-      "guid": "4aa081db-8ac8-4292-8bfe-21a15afc8b99",
-      "published_at": "2026-11-17T15:34:47+01:00",
-      "fetched_at": "2026-11-17T15:45:51+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/fd154e8a-7305-4ca7-b5a6-2d3c622ff6a8.jpg?width=600",
-      "sv": {
-        "title": "Jordbruksverket varnar för fågelinfluensa",
-        "summary": "Flera konstaterade fall av fågelinfluensa bland vilda fåglar har fått Jordbruksverket att införa högriskområden i stora delar av södra Sverige för att skydda tama fåglar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Board of Agriculture warns of bird flu",
-        "summary": "Several confirmed cases of bird flu among wild birds have led the Board of Agriculture to introduce high-risk areas across large parts of southern Sweden to protect domestic birds."
       },
       "translation": {
         "status": "done",
