@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-17T15:31:09+01:00",
+  "generated_at": "2026-11-17T15:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dae4c2a80f35",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80006",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80006&utm_medium=rss",
+      "published_at": "2026-11-17T15:43:00+01:00",
+      "fetched_at": "2026-11-17T15:45:48+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Svensk-brittiskt samarbete kring Gripen"
+      },
+      "en": {
+        "title": "Swedish-British cooperation on Gripen"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:45:57+01:00"
+      }
+    },
     {
       "id": "313fee5bb05b",
       "schema_version": 1,
@@ -5324,32 +5347,6 @@
       },
       "en": {
         "title": "Estonia closes border with Russia"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:31:03+01:00"
-      }
-    },
-    {
-      "id": "1f5f114e13f0",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=99494dc8-779a-4c82-8c81-50cd5f6ade14",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=99494dc8-779a-4c82-8c81-50cd5f6ade14",
-      "published_at": "2026-11-15T16:15:36+01:00",
-      "fetched_at": "2026-11-15T16:30:54+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Estland stänger gränsövergång mot Ryssland",
-        "summary": "Estland stänger gräns • Ministern: Ryssland beordrat sabotageattack",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estonia closes border crossing with Russia",
-        "summary": "Estonia closes border • Minister: Russia ordered sabotage attack"
       },
       "translation": {
         "status": "done",

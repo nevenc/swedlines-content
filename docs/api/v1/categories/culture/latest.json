@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T15:31:09+01:00",
+  "generated_at": "2026-11-17T15:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d7d3a8d7250d",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/you-can-see-everything-ar-en-svindlande-briljant-lek-med-sanningen",
+      "guid": "https://www.dn.se/kultur/you-can-see-everything-ar-en-svindlande-briljant-lek-med-sanningen/",
+      "published_at": "2026-11-17T15:40:49+01:00",
+      "fetched_at": "2026-11-17T15:45:47+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/92500591-c421-4b7e-ba97-4454be1105da.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "”You can see everything” är en svindlande briljant lek med sanningen",
+        "summary": "Nathan Fielders glödheta dokumentär om Elizabeth Holmes blir så mycket mer än ett porträtt av en bedragare. Helena Lindblad låter sig både förföras och fascineras av en mörk illusionslek där lögn och sanning flyter samman tills gränsen mellan verklighet och iscensättning upplöses.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"You can see everything\" is a dazzlingly brilliant game with the truth",
+        "summary": "Nathan Fielder's red-hot documentary about Elizabeth Holmes becomes much more than a portrait of a fraudster. Helena Lindblad lets herself be both seduced and fascinated by a dark illusion game where lies and truth merge until the line between reality and staging dissolves."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:45:57+01:00"
+      }
+    },
     {
       "id": "13a7b4d9d824",
       "schema_version": 1,
@@ -5622,37 +5649,6 @@
       "en": {
         "title": "Jens Linder: I started to see a pattern in my cooking",
         "summary": "Column. A good flavour combination can be used with several different main ingredients. Once you have grasped the system, it becomes easier to improvise, notes Jens Linder."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:02+01:00"
-      }
-    },
-    {
-      "id": "5d3217431793",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/debatt/gul-vind-och-roda-linjer.2b40724c-7f36-5193-858f-87bce8f42251",
-      "guid": "2b40724c-7f36-5193-858f-87bce8f42251",
-      "published_at": "2026-11-14T04:55:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Debatt",
-        "Tagg: Språkspalten"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/8ef5ae4d-7bd7-3914-9f41-a90b20643aff",
-      "sv": {
-        "title": "Gul vind och röda linjer",
-        "summary": "GP:s språkexpert Lars-Gunnar Andersson skriver om färger och dess symbolik i språket-",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Yellow wind and red lines",
-        "summary": "GP language expert Lars-Gunnar Andersson writes about colours and their symbolism in language-"
       },
       "translation": {
         "status": "done",

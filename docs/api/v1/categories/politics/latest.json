@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-17T15:31:09+01:00",
+  "generated_at": "2026-11-17T15:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dfce1ee626cb",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/ida-gabrielsson-bluffar-c",
+      "guid": "https://www.dn.se/sverige/ida-gabrielsson-bluffar-c/",
+      "published_at": "2026-11-17T15:40:31+01:00",
+      "fetched_at": "2026-11-17T15:45:47+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/3bf1fcc3-0517-4ab4-8e78-ee6acbd6334a.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Ida Gabrielsson: Bluffar C?",
+        "summary": "Ida Gabrielsson (V) kallar Centerpartiet för ”kräsmagat” efter att ha läst Niels Paarup-Petersens uttalanden i en intervju med DN. Hon undrar om Centern har bluffat genom att välja Socialdemokraternas ”totalpaket”.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Ida Gabrielsson: Bluffing C?",
+        "summary": "Ida Gabrielsson (V) calls the Centre Party \"picky\" after reading Niels Paarup-Petersen's statements in an interview with DN. She wonders whether the Centre has bluffed by choosing the Social Democrats' \"total package\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:45:57+01:00"
+      }
+    },
+    {
+      "id": "32dc85ef3e8f",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/kristersson-m-vill-ha-mer-sonderingstid-talmannens-besked-",
+      "guid": "https://www.expressen.se/nyheter/politik/kristersson-m-vill-ha-mer-sonderingstid-talmannens-besked-/",
+      "published_at": "2026-11-17T15:40:20+01:00",
+      "fetched_at": "2026-11-17T15:45:49+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Kristersson (M) vill ha mer sonderingstid – talmannens besked",
+        "summary": "M-ledaren Ulf Kristersson säger att det är ”alldeles uppenbart” att C inte bestämt sig för vilken regering man vill ingå i. Han vill därför ha mer tid för sonderingar. Talmannen har kallat till pressträff.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson (M) wants more time for exploratory talks – Speaker's decision",
+        "summary": "Moderate leader Ulf Kristersson says it is \"abundantly clear\" that the C has not decided which government it wants to join. He therefore wants more time for exploratory talks. The Speaker has called a press conference."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:45:57+01:00"
+      }
+    },
     {
       "id": "4ecd88c1dd5d",
       "schema_version": 1,
@@ -5335,61 +5388,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T20:30:22+01:00"
-      }
-    },
-    {
-      "id": "a658c8390e05",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/tidigare-v-toppen-jens-holm-vill-se-s-regering",
-      "guid": "https://www.expressen.se/nyheter/sverige/tidigare-v-toppen-jens-holm-vill-se-s-regering/",
-      "published_at": "2026-11-14T19:48:12+01:00",
-      "fetched_at": "2026-11-14T20:30:10+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Tidigare V-toppen Jens Holm vill se S-regering",
-        "summary": "En S-regering som har stöd av V, C och MP. Det tror den tidigare V-toppen Jens Holm är vägen framåt för de rödgröna partierna. Han är inte imponerad av V:s förhandlingsstrategi. – Alternativet kan bli att man schabblar bort allting och att det blir Kristersson fyra år till.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Former Left Party leader Jens Holm wants a Social Democrat government",
-        "summary": "A Social Democrat government supported by the Left Party, the Centre Party and the Green Party. That is what former Left Party leader Jens Holm believes is the way forward for the red-green parties. He is not impressed by the Left Party's negotiating strategy. – The alternative may be that they mess everything up and it becomes Kristersson for four more years."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:22+01:00"
-      }
-    },
-    {
-      "id": "0aa40d3264db",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2y8O1G23gJf3Qavy0Bk2ju/statsvetaren-de-har-foerdel-i-dragkampen-om-c",
-      "guid": "2y8O1G23gJf3Qavy0Bk2ju",
-      "published_at": "2026-11-14T18:41:17+01:00",
-      "fetched_at": "2026-11-14T18:58:08+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Statsvetaren: De har fördel i dragkampen om C",
-        "summary": "Jonas Hinnfors: ”Det blir inte lätt”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Political scientist: They have the advantage in the tug-of-war over C",
-        "summary": "Jonas Hinnfors: \"It won't be easy\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:20+01:00"
       }
     }
   ]

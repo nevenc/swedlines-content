@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-17T15:31:09+01:00",
+  "generated_at": "2026-11-17T15:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7298cc8add6c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/skane/jordbruksverket-varnar-for-fagelinfluensa",
+      "guid": "4aa081db-8ac8-4292-8bfe-21a15afc8b99",
+      "published_at": "2026-11-17T15:34:47+01:00",
+      "fetched_at": "2026-11-17T15:45:51+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/fd154e8a-7305-4ca7-b5a6-2d3c622ff6a8.jpg?width=600",
+      "sv": {
+        "title": "Jordbruksverket varnar för fågelinfluensa",
+        "summary": "Flera konstaterade fall av fågelinfluensa bland vilda fåglar har fått Jordbruksverket att införa högriskområden i stora delar av södra Sverige för att skydda tama fåglar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Board of Agriculture warns of bird flu",
+        "summary": "Several confirmed cases of bird flu among wild birds have led the Board of Agriculture to introduce high-risk areas across large parts of southern Sweden to protect domestic birds."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:45:57+01:00"
+      }
+    },
+    {
+      "id": "19b569d0edca",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/jordbruksverket-varnar-for-fagelinfluensa",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/jordbruksverket-varnar-for-fagelinfluensa",
+      "published_at": "2026-11-17T15:33:09+01:00",
+      "fetched_at": "2026-11-17T15:45:46+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Jordbruksverket varnar för fågelinfluensa",
+        "summary": "Flera konstaterade fall av fågelinfluensa bland vilda fåglar har fått Jordbruksverket att införa högriskområden i stora delar av södra Sverige för att skydda tama fåglar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Board of Agriculture warns of bird flu",
+        "summary": "Several confirmed cases of bird flu among wild birds have led the Board of Agriculture to introduce high-risk areas across large parts of southern Sweden to protect domestic birds."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T15:45:57+01:00"
+      }
+    },
     {
       "id": "0d2946933764",
       "schema_version": 1,
@@ -5364,61 +5417,6 @@
       "en": {
         "title": "They are the best in Sweden at sustainability – the children lead the way",
         "summary": "At Hansgården preschool the children themselves are at the centre of the sustainability work. Through democratic votes, growing and reuse they have learned how small actions can make a difference. Now the work is rewarded with the award Sustainable Preschool of the Year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "ce68b091941b",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/5OKXPu6qgHUTFx6PTv8JKb/insatsstyrkan-slog-till-mot-rysskopplade-fartyget-nu-skuggas-det-av-dansk-militaer",
-      "guid": "5OKXPu6qgHUTFx6PTv8JKb",
-      "published_at": "2026-11-11T17:20:27+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Ryssland"
-      ],
-      "sv": {
-        "title": "Rysskopplat fartyg skuggas under Zelenskyjmöte",
-        "summary": "Nationella insatsstyrkan slog till mot ett stort fartyg vid Gotlands nordvästra kust under natten till den 31 oktober. Fartygets rederi har tidigare varit föremål för utredningar gällande ryska hybridattacker. Enligt uppgifter till TV4 Nyheterna består dess besättning av ryska medborgare.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Russia-linked ship shadowed during Zelensky meeting",
-        "summary": "The National Task Force raided a large ship off Gotland's north-west coast during the night of 31 October. The ship's owner has previously been the subject of investigations into Russian hybrid attacks. According to information given to TV4 Nyheterna, its crew consists of Russian citizens."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "290aaef9d9c5",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/studenterna-om-att-vara-singel-trivs-i-eget-sallskap",
-      "guid": "https://www.svt.se/nyheter/lokalt/ost/studenterna-om-att-vara-singel-trivs-i-eget-sallskap",
-      "published_at": "2026-11-11T16:58:05+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Studenterna om att vara singel: ”Trivs i eget sällskap”",
-        "summary": "Hur går dejtinglivet bland studenterna och hur är det att vara singel i dag? På Singlarnas dag frågade SVT Nyheter Öst studenterna vid Linköpings universitet om kärlek, dejting och varför så många är singlar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Students on being single: 'Enjoy my own company'",
-        "summary": "How is dating life among students and what is it like to be single today? On Singles' Day, SVT Nyheter Öst asked students at Linköping University about love, dating and why so many are single."
       },
       "translation": {
         "status": "done",
