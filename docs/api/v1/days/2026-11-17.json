@@ -1,7 +1,89 @@
 {
-  "generated_at": "2026-11-17T09:31:07+01:00",
-  "count": 185,
+  "generated_at": "2026-11-17T09:45:48+01:00",
+  "count": 190,
   "items": [
+    {
+      "id": "1c220b85ca0b",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79994",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79994&utm_medium=rss",
+      "published_at": "2026-11-17T09:43:11+01:00",
+      "fetched_at": "2026-11-17T09:45:43+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Mordhotade Amanda Lind – åtalas"
+      },
+      "en": {
+        "title": "Murder-threatened Amanda Lind charged"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T09:45:48+01:00"
+      }
+    },
+    {
+      "id": "da2d8592e71f",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/ekonomi/swish-lanserar-ny-funktion-for-fakturor.07c95783-7381-5de5-ad0f-cd1da2569416",
+      "guid": "07c95783-7381-5de5-ad0f-cd1da2569416",
+      "published_at": "2026-11-17T09:34:15+01:00",
+      "fetched_at": "2026-11-17T09:45:44+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi",
+        "Tagg: breaking-GP",
+        "Tagg: Swish",
+        "Tagg: gp-räckvidd"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/55ea0813-b37c-389b-b82f-8dd7459631fe",
+      "sv": {
+        "title": "Nu kan du betala fakturor med Swish",
+        "summary": "Swish lanserar ny funktion – så funkar det.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "You can now pay invoices with Swish",
+        "summary": "Swish launches new feature – here's how it works."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T09:45:48+01:00"
+      }
+    },
+    {
+      "id": "d91de7534511",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=6dd35be7-7482-4fe6-bb5e-9f719efbf6f5",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6dd35be7-7482-4fe6-bb5e-9f719efbf6f5",
+      "published_at": "2026-11-17T09:33:31+01:00",
+      "fetched_at": "2026-11-17T09:45:43+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Nya varningssystemet ska testas i hela Sverige",
+        "summary": "Varningssystem testas nu i hela landet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New warning system to be tested across Sweden",
+        "summary": "Warning system is now being tested across the country"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T09:45:48+01:00"
+      }
+    },
     {
       "id": "832a17542e1a",
       "schema_version": 1,
@@ -27,6 +109,58 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T09:31:07+01:00"
+      }
+    },
+    {
+      "id": "7caa34ccbdec",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/jondetech-i-avtal-med-globalt-teknikbolag-aktien-rusar",
+      "guid": "a6ce39c3-23e6-4e1e-bbd8-df57060bb8f5",
+      "published_at": "2026-11-17T09:28:56+01:00",
+      "fetched_at": "2026-11-17T09:45:44+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Jondetech i avtal med globalt teknikbolag – aktien rusar",
+        "summary": "Sensorbolaget Jondetech steg upp till 25 procent i den inledande handeln på tisdagen, efter nyheten att bolaget ingått avtal med ett globalt teknikbolag specialiserat på smarta hälsoringar, vilket Jondetech aviserade i ett pressmeddelande under morgonen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Jondetech in deal with global tech company – shares soar",
+        "summary": "Sensor company Jondetech rose as much as 25 percent in early trading on Tuesday, after news that the company has entered an agreement with a global tech company specialising in smart health rings, which Jondetech announced in a press release in the morning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T09:45:48+01:00"
+      }
+    },
+    {
+      "id": "80dbf9b20067",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/nyheter/kosttillskottsbolaget-rusar-i-borsoppningen",
+      "guid": "2b9bf117-f4f3-5978-a8df-c663f720f005",
+      "published_at": "2026-11-17T09:28:06+01:00",
+      "fetched_at": "2026-11-17T09:45:44+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Kosttillskottsbolaget rusar i börsöppningen",
+        "summary": "Andreas Johansson går igenom tisdagens börsöppning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dietary supplement company soars at market opening",
+        "summary": "Andreas Johansson reviews Tuesday's market opening."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T09:45:48+01:00"
       }
     },
     {

@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-17T09:31:07+01:00",
+  "generated_at": "2026-11-17T09:45:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "da2d8592e71f",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/ekonomi/swish-lanserar-ny-funktion-for-fakturor.07c95783-7381-5de5-ad0f-cd1da2569416",
+      "guid": "07c95783-7381-5de5-ad0f-cd1da2569416",
+      "published_at": "2026-11-17T09:34:15+01:00",
+      "fetched_at": "2026-11-17T09:45:44+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi",
+        "Tagg: breaking-GP",
+        "Tagg: Swish",
+        "Tagg: gp-räckvidd"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/55ea0813-b37c-389b-b82f-8dd7459631fe",
+      "sv": {
+        "title": "Nu kan du betala fakturor med Swish",
+        "summary": "Swish lanserar ny funktion – så funkar det.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "You can now pay invoices with Swish",
+        "summary": "Swish launches new feature – here's how it works."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T09:45:48+01:00"
+      }
+    },
     {
       "id": "832a17542e1a",
       "schema_version": 1,
@@ -27,6 +60,58 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T09:31:07+01:00"
+      }
+    },
+    {
+      "id": "7caa34ccbdec",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/jondetech-i-avtal-med-globalt-teknikbolag-aktien-rusar",
+      "guid": "a6ce39c3-23e6-4e1e-bbd8-df57060bb8f5",
+      "published_at": "2026-11-17T09:28:56+01:00",
+      "fetched_at": "2026-11-17T09:45:44+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Jondetech i avtal med globalt teknikbolag – aktien rusar",
+        "summary": "Sensorbolaget Jondetech steg upp till 25 procent i den inledande handeln på tisdagen, efter nyheten att bolaget ingått avtal med ett globalt teknikbolag specialiserat på smarta hälsoringar, vilket Jondetech aviserade i ett pressmeddelande under morgonen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Jondetech in deal with global tech company – shares soar",
+        "summary": "Sensor company Jondetech rose as much as 25 percent in early trading on Tuesday, after news that the company has entered an agreement with a global tech company specialising in smart health rings, which Jondetech announced in a press release in the morning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T09:45:48+01:00"
+      }
+    },
+    {
+      "id": "80dbf9b20067",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/nyheter/kosttillskottsbolaget-rusar-i-borsoppningen",
+      "guid": "2b9bf117-f4f3-5978-a8df-c663f720f005",
+      "published_at": "2026-11-17T09:28:06+01:00",
+      "fetched_at": "2026-11-17T09:45:44+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Kosttillskottsbolaget rusar i börsöppningen",
+        "summary": "Andreas Johansson går igenom tisdagens börsöppning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dietary supplement company soars at market opening",
+        "summary": "Andreas Johansson reviews Tuesday's market opening."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T09:45:48+01:00"
       }
     },
     {
@@ -5234,85 +5319,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T10:31:07+01:00"
-      }
-    },
-    {
-      "id": "e05d2e21fe9a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/lundell-tjurigt-for-techbolag-att-noteras",
-      "guid": "bf999d9f-93ec-5436-923f-4161d4d99935",
-      "published_at": "2026-11-16T10:17:21+01:00",
-      "fetched_at": "2026-11-16T10:30:58+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Lundell: ”Tjurigt för techbolag att noteras”",
-        "summary": "Breakits grundare Stefan Lundell om det senaste i techvärlden.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lundell: \"Tough for tech companies to list\"",
-        "summary": "Breakit founder Stefan Lundell on the latest in the tech world."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:31:07+01:00"
-      }
-    },
-    {
-      "id": "3294906899f7",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/fondsvenskan-arets-basta-aktivt-forvaltade-sverigefonder",
-      "guid": "38be08da-3842-524d-9228-97d6aa88e00e",
-      "published_at": "2026-11-16T09:57:11+01:00",
-      "fetched_at": "2026-11-16T10:15:47+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Fondsvenskan: Årets bästa aktivt förvaltade sverigefonder",
-        "summary": "Levlers investeringschef Joakim Bornold om årets bäst presterande sverigefonder.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fondsvenskan: The best actively managed Swedish equity funds of the year",
-        "summary": "Joakim Bornold, chief investment officer at Levler, on the best-performing Swedish equity funds of the year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:15:51+01:00"
-      }
-    },
-    {
-      "id": "fa5075267994",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ledare/baddat-for-it-haveri-nar-staten-ska-styra",
-      "guid": "386498bd-8c9e-41c5-8c3a-194e0c9d38d2",
-      "published_at": "2026-11-16T09:54:23+01:00",
-      "fetched_at": "2026-11-16T10:01:18+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/45652be6-9ca9-43ef-a36f-91fc0443233e.jpeg?width=600",
-      "sv": {
-        "title": "Bäddat för it-haveri när staten ska styra",
-        "summary": "När regioner, kommuner och särskilt staten ska basa över stora it-projekt finns det anledning att känna oro. Journalsystemet Millennium och den nya statliga e-legitimationen är färska exempel som förskräcker.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Set for IT meltdown when the state takes charge",
-        "summary": "When regions, municipalities and especially the state are to run large IT projects, there is reason for concern. The Millennium patient record system and the new state e-identification are recent examples that are alarming."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:01:35+01:00"
       }
     }
   ]
