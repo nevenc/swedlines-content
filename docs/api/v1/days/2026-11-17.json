@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T01:45:41+01:00",
-  "count": 6,
+  "generated_at": "2026-11-17T02:01:16+01:00",
+  "count": 8,
   "items": [
+    {
+      "id": "5625af3d262f",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344054",
+      "guid": "rss:sr.se/article/9344054",
+      "published_at": "2026-11-17T01:55:00+01:00",
+      "fetched_at": "2026-11-17T02:01:09+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Giertz (SD) ändrar sig – lämnar inte riksdagen",
+        "summary": "Sverigedemokraternas riksdagsledamot Rasmus Giertz, som i en artikel i Dagens Nyheter anklagas för sexuella övertramp, säger till Samnytt att han stannar i riksdagen. Detta eftersom han citat \"inte vill låta DN vinna\".",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Giertz (SD) changes his mind – will not leave the Riksdag",
+        "summary": "Sweden Democrat Riksdag member Rasmus Giertz, who is accused of sexual misconduct in an article in Dagens Nyheter, tells Samnytt that he is staying in the Riksdag. The reason, he says, is that he \"does not want to let DN win\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T02:01:15+01:00"
+      }
+    },
     {
       "id": "26ea1d8e18b8",
       "schema_version": 1,
@@ -53,6 +79,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T00:45:47+01:00"
+      }
+    },
+    {
+      "id": "88aceeb1a511",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/qOLJqo/cnn-iran-planerar-attack-med-smutsig-bomb-i-usa",
+      "guid": "https://www.aftonbladet.se/nyheter/a/qOLJqo/cnn-iran-planerar-attack-med-smutsig-bomb-i-usa?utm_medium=rss",
+      "published_at": "2026-11-17T00:15:40+01:00",
+      "fetched_at": "2026-11-17T02:01:11+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/acd8b7fe-237c-361c-b08f-7e80aa59e45c?format=auto&s=fc17fe72cd88b7359b28e49275989934816cb075&w=1000",
+      "sv": {
+        "title": "CNN: Iran planerar dåd i Washington",
+        "summary": "Källor till CNN: ”Mycket detaljerade”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "CNN: Iran plans attack in Washington",
+        "summary": "Sources to CNN: \"Very detailed\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T02:01:15+01:00"
       }
     },
     {

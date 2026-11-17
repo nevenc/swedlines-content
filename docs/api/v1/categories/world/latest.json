@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T01:45:41+01:00",
+  "generated_at": "2026-11-17T02:01:16+01:00",
   "count": 200,
   "items": [
     {
@@ -26,6 +26,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T01:15:49+01:00"
+      }
+    },
+    {
+      "id": "88aceeb1a511",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/qOLJqo/cnn-iran-planerar-attack-med-smutsig-bomb-i-usa",
+      "guid": "https://www.aftonbladet.se/nyheter/a/qOLJqo/cnn-iran-planerar-attack-med-smutsig-bomb-i-usa?utm_medium=rss",
+      "published_at": "2026-11-17T00:15:40+01:00",
+      "fetched_at": "2026-11-17T02:01:11+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/acd8b7fe-237c-361c-b08f-7e80aa59e45c?format=auto&s=fc17fe72cd88b7359b28e49275989934816cb075&w=1000",
+      "sv": {
+        "title": "CNN: Iran planerar dåd i Washington",
+        "summary": "Källor till CNN: ”Mycket detaljerade”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "CNN: Iran plans attack in Washington",
+        "summary": "Sources to CNN: \"Very detailed\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T02:01:15+01:00"
       }
     },
     {
@@ -5337,32 +5364,6 @@
       "en": {
         "title": "Over 60,000 exposed as secret police archive opens",
         "summary": "Over 60,000 names of Hungarians who spied on people around them during the communist era are now in a database that anyone can read. Hungary's new government is thereby fulfilling its election promise to open the archives where the secret police's informers from the communist era are exposed."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:22+01:00"
-      }
-    },
-    {
-      "id": "860d1447094c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/var-hamas-gisslan-larde-kanna-sin-fangvaktare",
-      "guid": "https://www.expressen.se/nyheter/varlden/var-hamas-gisslan-larde-kanna-sin-fangvaktare/",
-      "published_at": "2026-11-14T19:52:17+01:00",
-      "fetched_at": "2026-11-14T20:30:10+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Var Hamas gisslan – lärde känna sin fångvaktare",
-        "summary": "Som Hamas gisslan i Gaza förde Shoshan Hakan dagliga samtal med sin fångvaktare. En bisarr vänskap uppstod med en man som inte skulle tveka att döda henne. – Samtidigt hade han en slags emotionell intelligens, Att vi kunde prata med varandra ger mig trots allt hopp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Was Hamas hostage – got to know her captor",
-        "summary": "As a Hamas hostage in Gaza, Shoshan Hakan had daily conversations with her captor. A bizarre friendship arose with a man who would not hesitate to kill her. – At the same time he had a kind of emotional intelligence. That we could talk to each other gives me hope after all."
       },
       "translation": {
         "status": "done",
