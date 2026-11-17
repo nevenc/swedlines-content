@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-17T19:01:20+01:00",
+  "generated_at": "2026-11-17T19:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "16cf3288a04a",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/tydligt-att-ulf-kristersson-inte-gett-upp-hoppet-om-centerpartiet",
+      "guid": "https://www.svt.se/nyheter/inrikes/tydligt-att-ulf-kristersson-inte-gett-upp-hoppet-om-centerpartiet",
+      "published_at": "2026-11-17T19:11:07+01:00",
+      "fetched_at": "2026-11-17T19:15:41+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "”Tydligt att Ulf Kristersson inte gett upp hoppet om Centerpartiet”",
+        "summary": "Inget tyder på att Vänsterpartiet kommer att släppa sitt krav på ministerposter. Och om de mot förmodan ändå skulle göra det så kommer det med en sakpolitisk nota som kan bli för hög för Centerpartiet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "\"Clear that Ulf Kristersson has not given up hope of the Centre Party\"",
+        "summary": "Nothing suggests the Left Party will drop its demand for ministerial posts. And if they nonetheless did, it would come with a policy memorandum that could be too steep for the Centre Party."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:15:50+01:00"
+      }
+    },
     {
       "id": "55dadd757ce7",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Mosques investigated after revelation about polygamy – receive millions in grants",
         "summary": "Imams from mosques around the country offer help to men who want to marry several wives – even though it is forbidden in Sweden. Together the mosques have received several million in state grants in recent years. Now the responsible authority is launching a review."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "cd65d5376d5c",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/varnar-for-snofall-folj-utvecklingen-har",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/varnar-for-snofall-folj-utvecklingen-har",
-      "published_at": "2026-11-11T14:54:42+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "Kraftigt snöfall drabbade Norrlandskusten – följ senaste nytt",
-        "summary": "Efter det kraftiga snöovädret längs kusten i Västerbotten, Norrbotten och Västernorrland är det fortsatta trafikstörningar. Följ SVT:s liverapport om väderläget.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Heavy snowfall hit the Norrland coast – follow the latest",
-        "summary": "After the heavy snowstorm along the coast of Västerbotten, Norrbotten and Västernorrland, traffic disruptions continue. Follow SVT's live report on the weather situation."
       },
       "translation": {
         "status": "done",

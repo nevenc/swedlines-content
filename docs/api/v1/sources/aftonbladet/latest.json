@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T19:01:20+01:00",
+  "generated_at": "2026-11-17T19:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "97967d8acf46",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/JnovjJ/turkisk-polisrad-mot-oppositionell-tv-kanal",
+      "guid": "https://www.aftonbladet.se/nyheter/a/JnovjJ/turkisk-polisrad-mot-oppositionell-tv-kanal?utm_medium=rss",
+      "published_at": "2026-11-17T19:13:53+01:00",
+      "fetched_at": "2026-11-17T19:15:43+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/1a638c23-4791-3b2b-b8b2-11f458143b48?format=auto&s=e6036b68f5bfec2c56e0cc37318990fff1c2776a&w=1000",
+      "sv": {
+        "title": "Turkisk polisräd mot oppositionell tv-kanal",
+        "summary": "Turkisk polis slog på tisdagen till mot det oberoende mediehuset Sözcü och har gripit flera chefer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Turkish police raid opposition TV channel",
+        "summary": "Turkish police on Tuesday raided the independent media group Sözcü and have detained several of its executives."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:15:50+01:00"
+      }
+    },
     {
       "id": "772b58e3f121",
       "schema_version": 1,
@@ -5346,33 +5373,6 @@
       "en": {
         "title": "Putin's demands stand firm: \"He is likely to raise Sweden\"",
         "summary": "Vladimir Putin wants to redraw the security map of Europe and is likely to raise both Finland and…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "b31b5cdef46d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/z0G7or/svaret-forbluffar-forskarna-darifran-kom-vikingarna",
-      "guid": "https://www.aftonbladet.se/nyheter/a/z0G7or/svaret-forbluffar-forskarna-darifran-kom-vikingarna?utm_medium=rss",
-      "published_at": "2026-11-14T10:58:07+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "science_tech",
-      "image_url": "https://akamai.vgc.no/v2/images/763eaf74-e754-3ff7-bbf5-141ee16c7d3f?format=auto&s=b4749c01b0fc525c866d5bef27aec842ffc92cc7&w=1000",
-      "sv": {
-        "title": "Svaret förbluffar forskarna – därifrån kom vikingarna",
-        "summary": "En tidigare okänd folkvandring och vikingarnas oväntade härkomst. Det är några av fynden i en stor…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The answer astonishes researchers – this is where the Vikings came from",
-        "summary": "A previously unknown migration and the Vikings' unexpected origins. These are some of the findings in a major…"
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-11-17T19:01:20+01:00",
-  "count": 544,
+  "generated_at": "2026-11-17T19:15:50+01:00",
+  "count": 550,
   "items": [
+    {
+      "id": "97967d8acf46",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/JnovjJ/turkisk-polisrad-mot-oppositionell-tv-kanal",
+      "guid": "https://www.aftonbladet.se/nyheter/a/JnovjJ/turkisk-polisrad-mot-oppositionell-tv-kanal?utm_medium=rss",
+      "published_at": "2026-11-17T19:13:53+01:00",
+      "fetched_at": "2026-11-17T19:15:43+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/1a638c23-4791-3b2b-b8b2-11f458143b48?format=auto&s=e6036b68f5bfec2c56e0cc37318990fff1c2776a&w=1000",
+      "sv": {
+        "title": "Turkisk polisräd mot oppositionell tv-kanal",
+        "summary": "Turkisk polis slog på tisdagen till mot det oberoende mediehuset Sözcü och har gripit flera chefer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Turkish police raid opposition TV channel",
+        "summary": "Turkish police on Tuesday raided the independent media group Sözcü and have detained several of its executives."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:15:50+01:00"
+      }
+    },
+    {
+      "id": "c096cdde652b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/paasikivi-om-krimbron-satter-press-pa-ryssarna",
+      "guid": "https://www.expressen.se/nyheter/varlden/paasikivi-om-krimbron-satter-press-pa-ryssarna/",
+      "published_at": "2026-11-17T19:12:30+01:00",
+      "fetched_at": "2026-11-17T19:15:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Paasikivi om Krimbron: ”Sätter press på ryssarna”",
+        "summary": "Halva c har fallit och ser ut att blockera inloppet till Azovska sjön. Det hotar att ställa till det för rysk logistik, militär som civil. – Det här sätter press på ryssarna, säger Joakim Paasikivi, militärexpert.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Paasikivi on the Crimea bridge: \"Puts pressure on the Russians\"",
+        "summary": "Half of the bridge has fallen and appears to block the entrance to the Sea of Azov. This threatens to cause problems for Russian logistics, both military and civilian. – This puts pressure on the Russians, says Joakim Paasikivi, military expert."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:15:50+01:00"
+      }
+    },
+    {
+      "id": "16cf3288a04a",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/tydligt-att-ulf-kristersson-inte-gett-upp-hoppet-om-centerpartiet",
+      "guid": "https://www.svt.se/nyheter/inrikes/tydligt-att-ulf-kristersson-inte-gett-upp-hoppet-om-centerpartiet",
+      "published_at": "2026-11-17T19:11:07+01:00",
+      "fetched_at": "2026-11-17T19:15:41+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "”Tydligt att Ulf Kristersson inte gett upp hoppet om Centerpartiet”",
+        "summary": "Inget tyder på att Vänsterpartiet kommer att släppa sitt krav på ministerposter. Och om de mot förmodan ändå skulle göra det så kommer det med en sakpolitisk nota som kan bli för hög för Centerpartiet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "\"Clear that Ulf Kristersson has not given up hope of the Centre Party\"",
+        "summary": "Nothing suggests the Left Party will drop its demand for ministerial posts. And if they nonetheless did, it would come with a policy memorandum that could be too steep for the Centre Party."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:15:50+01:00"
+      }
+    },
+    {
+      "id": "75514642a8d2",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344746",
+      "guid": "rss:sr.se/article/9344746",
+      "published_at": "2026-11-17T19:07:00+01:00",
+      "fetched_at": "2026-11-17T19:15:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Uppgifter: Topphemligt nätverk i USA ligger nere",
+        "summary": "Ett hemligt nätverk för intern kommunikation på USA:s myndighet för nationell säkerhet (NSA) ska ligga nere, enligt källor till CNN. Nätverket uppges användas av anställda vid NSA för att kommunicera hemligstämplad information internt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Reports: Top-secret network in the US is down",
+        "summary": "A secret network for internal communication at the US National Security Agency (NSA) is reportedly down, according to sources speaking to CNN. The network is said to be used by NSA employees to communicate classified information internally."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:15:50+01:00"
+      }
+    },
+    {
+      "id": "dd5e754d3a13",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/sa-ska-ikea-vanda-dystra-trenden-maste-bli-mer-prisvarda",
+      "guid": "9a3d0090-a084-494e-9915-b406e7939175",
+      "published_at": "2026-11-17T19:00:05+01:00",
+      "fetched_at": "2026-11-17T19:15:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a08475a7-5641-4ac8-b1e4-46ad23176ee6.jpeg?width=600",
+      "sv": {
+        "title": "Så ska Ikea vända dystra trenden: ”Måste bli mer prisvärda”",
+        "summary": "Ikea har blivit för komplicerat. Bolaget måste hitta tillbaka till enkelheten och rötterna från Ingvar Kamprads tid. Det säger Jakub Jankowski i sin första större intervju sedan han tillträdde som vd för Inter Ikea tidigare i år. ”Vi måste bli mer prisvärda”, säger han till Di.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How Ikea will reverse the gloomy trend: \"Must become more affordable\"",
+        "summary": "Ikea has become too complicated. The company must return to the simplicity and roots of the Ingvar Kamprad era. That is what Jakub Jankowski says in his first major interview since taking over as CEO of Inter Ikea earlier this year. \"We must become more affordable\", he tells Di."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:15:50+01:00"
+      }
+    },
     {
       "id": "ff7119b92474",
       "schema_version": 1,
@@ -109,6 +241,39 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T19:01:19+01:00"
+      }
+    },
+    {
+      "id": "421596627831",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/motion-om-konsneutral-aktenskapssyn-i-svenska-kyrkan-avslas.57e241db-aad1-55e7-ab7a-00ca1c824cb3",
+      "guid": "57e241db-aad1-55e7-ab7a-00ca1c824cb3",
+      "published_at": "2026-11-17T18:42:36+01:00",
+      "fetched_at": "2026-11-17T19:15:45+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: Samhällsredaktionen",
+        "Tagg: Motion",
+        "Tagg: Uppsala",
+        "Tagg: Svenska Kyrkan",
+        "Tagg: Äktenskap",
+        "Tagg: Vigsel"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/529fe2ed-f9f6-3d6c-af02-f573069cd559",
+      "sv": {
+        "title": "Kyrkomötet avslår motion om gemensam vigselordning"
+      },
+      "en": {
+        "title": "Church Assembly rejects motion on a common marriage ceremony"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T19:15:50+01:00"
       }
     },
     {
