@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-17T21:01:25+01:00",
+  "generated_at": "2026-11-17T21:16:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e581f45aa894",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344804",
+      "guid": "rss:sr.se/article/9344804",
+      "published_at": "2026-11-17T21:10:00+01:00",
+      "fetched_at": "2026-11-17T21:16:01+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Tillslag mot mediehus i Istanbul – flera chefer gripna",
+        "summary": "Turkisk polis har slagit till mot det oberoende mediehuset Sözcü i Istanbul och gripit flera chefer, rapporterar AFP. Åklagare har tagit kontroll över mediehusets tv-kanal och nyhetssajt, med hänvisning till misstänkta kopplingar till Gülenrörelsen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Police raid media group in Istanbul – several executives detained",
+        "summary": "Turkish police have raided the independent media group Sözcü in Istanbul and detained several executives, reports AFP. Prosecutors have taken control of the media group's TV channel and news website, citing suspected links to the Gülen movement."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:16:10+01:00"
+      }
+    },
+    {
+      "id": "c74cd1f81e41",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344798",
+      "guid": "rss:sr.se/article/9344798",
+      "published_at": "2026-11-17T21:07:00+01:00",
+      "fetched_at": "2026-11-17T21:16:01+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Installation av nya routrar pausas efter flygstoppet i USA",
+        "summary": "USA:s luftfartsmyndighet FAA pausar installationen av nya routrar efter förra veckans flygstopp, rapporterar AP. Felet kopplas till en nyinstallerad router i delstaten Arkansas, som ska ha stört kommunikation och radarsignaler vid 17 av 22 regionala flygledningscentraler.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Installation of new routers paused after US flight stoppage",
+        "summary": "The US Federal Aviation Administration (FAA) is pausing the installation of new routers after last week's flight stoppage, reports AP. The fault is linked to a newly installed router in the state of Arkansas, which reportedly disrupted communications and radar signals at 17 of 22 regional air traffic control centres."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:16:10+01:00"
+      }
+    },
     {
       "id": "69f24da986a0",
       "schema_version": 1,
@@ -5282,58 +5334,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T02:01:15+01:00"
-      }
-    },
-    {
-      "id": "c3237838b979",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/j3d0Xo/mexikos-drogkung-ar-dod",
-      "guid": "https://www.aftonbladet.se/nyheter/a/j3d0Xo/mexikos-drogkung-ar-dod?utm_medium=rss",
-      "published_at": "2026-11-16T01:45:02+01:00",
-      "fetched_at": "2026-11-16T01:45:41+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Mexikos drogkung är död",
-        "summary": "Miguel Angel Félix Gallardo – ”Gudfadern” – som ledde den ökända Guadalajarakartellen, är död.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mexico's drug kingpin is dead",
-        "summary": "Miguel Angel Félix Gallardo – “The Godfather” – who led the notorious Guadalajara Cartel, is dead."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T01:45:45+01:00"
-      }
-    },
-    {
-      "id": "273d785210df",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/putins-bakslag-inte-erovrat-nagonting-alls",
-      "guid": "https://www.expressen.se/nyheter/varlden/putins-bakslag-inte-erovrat-nagonting-alls/",
-      "published_at": "2026-11-16T01:08:00+01:00",
-      "fetched_at": "2026-11-16T01:15:39+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Putins bakslag – ”inte erövrat någonting alls”",
-        "summary": "Ryssland har inte gjort några framsteg på slagfältet i Ukraina i år. Den slutsatsen drar tankesmedjan ISW i en ny analys. Det beskrivs som ”Putins stora huvudvärk” av danska B.T.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Putin's setback – \"has not conquered anything at all\"",
-        "summary": "Russia has made no gains on the battlefield in Ukraine this year. That is the conclusion of the think tank ISW in a new analysis. B.T. of Denmark describes it as \"Putin's big headache\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T01:15:43+01:00"
       }
     }
   ]

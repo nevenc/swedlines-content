@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-17T21:01:25+01:00",
+  "generated_at": "2026-11-17T21:16:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "61211abed03c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/uselt-ar-for-adelmetaller",
+      "guid": "7640381f-aaa9-4fba-908d-98289a81aa98",
+      "published_at": "2026-11-17T21:08:27+01:00",
+      "fetched_at": "2026-11-17T21:16:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f4034b8a-0018-4937-bc9e-e176974dd61c.jpeg?width=600",
+      "sv": {
+        "title": "Uselt år för ädelmetaller",
+        "summary": "De fyra stora ädelmetallerna handlas alla på de lägsta nivåerna på över ett år. Särskilt silver har rasat i pris efter det sprakande rallyt kring årsskiftet. Högre räntor och starkare dollar är två faktorer bakom prisfallen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "A bad year for precious metals",
+        "summary": "All four major precious metals are trading at their lowest levels in over a year. Silver in particular has plunged in price after the explosive rally around the turn of the year. Higher interest rates and a stronger dollar are two factors behind the price falls."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-17T21:16:10+01:00"
+      }
+    },
     {
       "id": "7a3b51e03cab",
       "schema_version": 1,
@@ -5294,32 +5321,6 @@
       "en": {
         "title": "Trump backs Jensen Huang – Nvidia recovers",
         "summary": "Donald Trump would have no problem seeing Jensen Huang back as Nvidia CEO. The president says so at a press conference at the White House. “I think he learned a big lesson”, he says according to Bloomberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:16:22+01:00"
-      }
-    },
-    {
-      "id": "03e5bd6a876a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/sex-veckors-forlustsvit-for-bitcoin-de-koper-dippen",
-      "guid": "1bedadf8-d00e-485e-806c-b0fcce78024e",
-      "published_at": "2026-11-16T16:03:56+01:00",
-      "fetched_at": "2026-11-16T16:16:02+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Sex veckors förlustsvit för bitcoin – de köper dippen",
-        "summary": "Efter sex veckors nedgång har bitcoin tappat nära hälften av sitt värde jämfört med toppnoteringen, som inföll i oktober i fjol. En Nasdaqnoterad bitcoinförvaltare har passat på att köpa – men tappar på börsen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Six-week losing streak for bitcoin – they buy the dip",
-        "summary": "After six weeks of decline, bitcoin has lost nearly half its value from the peak, which came in October last year. A Nasdaq-listed bitcoin manager has seized the moment to buy – but loses on the exchange."
       },
       "translation": {
         "status": "done",
