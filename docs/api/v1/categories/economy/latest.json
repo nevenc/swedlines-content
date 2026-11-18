@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T22:31:07+01:00",
+  "generated_at": "2026-11-18T22:45:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "81c67f58c6ce",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/anthropics-teckningskurs-klart-over-preliminart-intervall",
+      "guid": "9634e8ac-0559-4f0a-a638-ca1b6a7957df",
+      "published_at": "2026-11-18T22:36:17+01:00",
+      "fetched_at": "2026-11-18T22:45:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a50fa1ed-457c-4d9a-87fb-6725b08c6663.jpeg?width=600",
+      "sv": {
+        "title": "Anthropics teckningskurs klart över preliminärt intervall",
+        "summary": "NEW YORK. Anthropic sätter teckningskursen till 83 dollar per aktie inför den väntade börsdebuten på torsdag, vilket är över det tidigare prisintervallet, enligt nyhetskanalen CNBC. Det innebär en bolagsvärdering på omkring 1.500 miljarder dollar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic's subscription price set well above preliminary range",
+        "summary": "NEW YORK. Anthropic is setting the subscription price at 83 dollars per share ahead of its expected stock market debut on Thursday, which is above the previous price range, according to CNBC. This implies a company valuation of around 1,500 billion dollars."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T22:45:46+01:00"
+      }
+    },
     {
       "id": "35369454d910",
       "schema_version": 1,
@@ -5246,33 +5273,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T07:31:11+01:00"
-      }
-    },
-    {
-      "id": "6c05e9f5c8a0",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/det-ar-arets-julklapp-slutsalt-redan-i-maj",
-      "guid": "ae2d9472-9c00-4023-8eda-2219c026886f",
-      "published_at": "2026-11-18T07:07:19+01:00",
-      "fetched_at": "2026-11-18T07:15:47+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/c7212c82-46d3-4a44-ab41-f952166f1c78.jpg?width=600",
-      "sv": {
-        "title": "Det är årets julklapp: ”Slutsålt redan i maj”",
-        "summary": "Årets julklapp är ett startnummer – det vill säga en plats i ett motionslopp – enligt HUI Research. För den som vill följa rådet kan det dock redan vara för sent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This year's Christmas present: \"Sold out already in May\"",
-        "summary": "This year's Christmas present is a race bib – that is, a place in a fun run – according to HUI Research. For those who want to follow the advice, it may already be too late."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
       }
     }
   ]
