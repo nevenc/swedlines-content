@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T19:45:53+01:00",
+  "generated_at": "2026-11-18T20:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "018e80e15d44",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/teknikaktier-leder-aterhamtning-pa-wall-street",
+      "guid": "591cc114-62f5-4534-8716-545320539a72",
+      "published_at": "2026-11-18T19:57:41+01:00",
+      "fetched_at": "2026-11-18T20:01:13+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/62c0045f-7a89-4035-a2f2-e288dd5c43f8.jpeg?width=600",
+      "sv": {
+        "title": "Teknikaktier leder återhämtning på Wall Street",
+        "summary": "USA-börserna handlades med tvära kast under onsdagen men hade intagit en försiktig positiv riktning efter drygt fyra timmars handel, med teknikaktier i spetsen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tech stocks lead recovery on Wall Street",
+        "summary": "US exchanges traded erratically on Wednesday but had taken a cautiously positive direction after just over four hours of trading, with tech stocks in the lead."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:01:24+01:00"
+      }
+    },
     {
       "id": "f72cd24fb0b8",
       "schema_version": 1,
@@ -5215,33 +5242,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T07:01:37+01:00"
-      }
-    },
-    {
-      "id": "4d345cfefa25",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/svenskar-bast-pa-engelska",
-      "guid": "85e368f7-92b3-43c8-8299-75af93fba85d",
-      "published_at": "2026-11-18T06:38:28+01:00",
-      "fetched_at": "2026-11-18T06:45:39+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/fd37daff-8d5b-4122-953f-d46e0b2a7a19.jpeg?width=600",
-      "sv": {
-        "title": "Svenskar bäst på engelska",
-        "summary": "För första gången sedan 2018 placerar sig Sverige på första plats i världen vad det gäller kunskaper i engelska. Svenskar är dock bättre på att höra än att tala engelska.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedes best at English",
-        "summary": "For the first time since 2018, Sweden places first in the world in English proficiency. Swedes are, however, better at listening than at speaking English."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T06:45:43+01:00"
       }
     }
   ]

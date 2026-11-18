@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T19:45:53+01:00",
+  "generated_at": "2026-11-18T20:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "018e80e15d44",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/teknikaktier-leder-aterhamtning-pa-wall-street",
+      "guid": "591cc114-62f5-4534-8716-545320539a72",
+      "published_at": "2026-11-18T19:57:41+01:00",
+      "fetched_at": "2026-11-18T20:01:13+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/62c0045f-7a89-4035-a2f2-e288dd5c43f8.jpeg?width=600",
+      "sv": {
+        "title": "Teknikaktier leder återhämtning på Wall Street",
+        "summary": "USA-börserna handlades med tvära kast under onsdagen men hade intagit en försiktig positiv riktning efter drygt fyra timmars handel, med teknikaktier i spetsen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tech stocks lead recovery on Wall Street",
+        "summary": "US exchanges traded erratically on Wednesday but had taken a cautiously positive direction after just over four hours of trading, with tech stocks in the lead."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:01:24+01:00"
+      }
+    },
     {
       "id": "f72cd24fb0b8",
       "schema_version": 1,
@@ -5307,32 +5334,6 @@
       "en": {
         "title": "Italy could likely exit EU surveillance next year",
         "summary": "Italy's deficit is likely to be below the EU's 3 percent limit next year, which opens the way for the country to exit the EU's fiscal surveillance procedure."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:15:57+01:00"
-      }
-    },
-    {
-      "id": "4b1c80631a4d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/usa-s-lager-av-osalda-varor-steg-i-september",
-      "guid": "b1430384-16ed-47bd-8120-6339f1f3adb2",
-      "published_at": "2026-11-17T16:05:43+01:00",
-      "fetched_at": "2026-11-17T16:15:51+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "USA:s lager av osålda varor steg i september",
-        "summary": "Lagren av osålda varor hos USA:s detaljhandel, grossister och fabriker steg med 0,5 procent i september, jämfört med månaden före, enligt USA:s handelsdepartement.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "US unsold goods inventories rose in September",
-        "summary": "Inventories of unsold goods at US retailers, wholesalers and factories rose by 0.5 percent in September compared with the previous month, according to the US Department of Commerce."
       },
       "translation": {
         "status": "done",
