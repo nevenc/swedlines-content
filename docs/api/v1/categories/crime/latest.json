@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T13:01:24+01:00",
+  "generated_at": "2026-11-18T13:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3ddc85aabb57",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/krim/pappans-misstankta-dubbelliv-chefade-over-knarknatverk-5gnhs",
+      "guid": "https://www.expressen.se/nyheter/krim/pappans-misstankta-dubbelliv-chefade-over-knarknatverk-5gnhs/",
+      "published_at": "2026-11-18T13:02:45+01:00",
+      "fetched_at": "2026-11-18T13:15:52+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Pappans misstänkta dubbelliv – chefade över knarknätverk",
+        "summary": "På spaningsbilder mötte den 30-årige småbarnspappan sina misstänkta narkotikasäljare – med barnvagnen framför sig. Polis pekade ut honom som chef för ett välorganiserat narkotikanätverk i Eskilstuna. Nu döms 14 personer – och pappan till sex års fängelse.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Father's suspected double life – led drug network",
+        "summary": "In surveillance images, the 30-year-old father of young children met his suspected drug dealers – with the pram in front of him. Police identified him as the head of a well-organised drug network in Eskilstuna. Now 14 people are convicted – and the father to six years in prison."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:15:59+01:00"
+      }
+    },
     {
       "id": "f2d5c1fe7b92",
       "schema_version": 1,
@@ -5322,33 +5348,6 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T14:56:57+01:00"
-      }
-    },
-    {
-      "id": "55b60e276e49",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/ARd3On/skott-mot-lagenhet-pa-ostermalm-i-stockholm",
-      "guid": "https://www.aftonbladet.se/nyheter/a/ARd3On/skott-mot-lagenhet-pa-ostermalm-i-stockholm?utm_medium=rss",
-      "published_at": "2026-11-13T21:19:01+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/d9e49926-600a-3582-90c0-49a0bad2d5be?format=auto&s=38c55945ea2420ff600e7c6b5dcc3ce474c3935b&w=1000",
-      "sv": {
-        "title": "Skott mot lägenhet på Östermalm i Stockholm",
-        "summary": "Skott har avlossats mot en dörr i ett flerfamiljshus på Östermalm i Stockholm, uppger polisen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Shots fired at flat in Östermalm in Stockholm",
-        "summary": "Shots have been fired at a door in an apartment building in Östermalm in Stockholm, police say."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
       }
     }
   ]

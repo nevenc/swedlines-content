@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T13:01:24+01:00",
+  "generated_at": "2026-11-18T13:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3ddc85aabb57",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/krim/pappans-misstankta-dubbelliv-chefade-over-knarknatverk-5gnhs",
+      "guid": "https://www.expressen.se/nyheter/krim/pappans-misstankta-dubbelliv-chefade-over-knarknatverk-5gnhs/",
+      "published_at": "2026-11-18T13:02:45+01:00",
+      "fetched_at": "2026-11-18T13:15:52+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Pappans misstänkta dubbelliv – chefade över knarknätverk",
+        "summary": "På spaningsbilder mötte den 30-årige småbarnspappan sina misstänkta narkotikasäljare – med barnvagnen framför sig. Polis pekade ut honom som chef för ett välorganiserat narkotikanätverk i Eskilstuna. Nu döms 14 personer – och pappan till sex års fängelse.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Father's suspected double life – led drug network",
+        "summary": "In surveillance images, the 30-year-old father of young children met his suspected drug dealers – with the pram in front of him. Police identified him as the head of a well-organised drug network in Eskilstuna. Now 14 people are convicted – and the father to six years in prison."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:15:59+01:00"
+      }
+    },
     {
       "id": "f2d5c1fe7b92",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:30:14+01:00"
-      }
-    },
-    {
-      "id": "52e3fb59f198",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/putins-krav-om-europa-for-att--avsluta-kriget",
-      "guid": "https://www.expressen.se/nyheter/varlden/putins-krav-om-europa-for-att--avsluta-kriget/",
-      "published_at": "2026-11-15T00:47:50+01:00",
-      "fetched_at": "2026-11-15T01:26:20+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Putins krav om Europa för att avsluta kriget",
-        "summary": "Putin kräver att Storbritannien slutar försvara Europa med kärnvapen, skriver Telegraph. Det är ett måste för att det ska kunna bli fred i Ukraina, enligt den ryske presidenten. Men britterna avfärdar det ryska kravet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Putin's demand over Europe to end the war",
-        "summary": "Putin demands that Britain stop defending Europe with nuclear weapons, writes the Telegraph. It is a must for peace in Ukraine to be possible, according to the Russian president. But the British reject the Russian demand."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T01:26:27+01:00"
       }
     }
   ]
