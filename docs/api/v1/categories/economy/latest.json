@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-18T18:15:50+01:00",
+  "generated_at": "2026-11-18T18:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6979d76fa10d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/guldbrevs-styrelse-foreslar-extrautdelning",
+      "guid": "a25006ea-a6a9-413f-a488-c0310b7d2102",
+      "published_at": "2026-11-18T18:26:48+01:00",
+      "fetched_at": "2026-11-18T18:31:02+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Guldbrevs styrelse föreslår extrautdelning",
+        "summary": "Guldbrevs styrelse har föreslagit en efterutdelning om 0:75 kronor per aktie, som är villkorad av godkännande vid en extra bolagsstämma.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Guldbrev's board proposes extra distribution",
+        "summary": "Guldbrev's board has proposed a supplementary dividend of SEK 0.75 per share, conditional on approval at an extraordinary general meeting."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T18:31:10+01:00"
+      }
+    },
+    {
+      "id": "69ae8f25b0ba",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/hegseth-i-venezuela-traffar-presidenten",
+      "guid": "f0565418-96d5-4824-b536-1adefb77ba31",
+      "published_at": "2026-11-18T18:18:19+01:00",
+      "fetched_at": "2026-11-18T18:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/5710b418-c20b-4c51-85af-cf6dfbd29581.jpg?width=600",
+      "sv": {
+        "title": "Hegseth i Venezuela – träffar presidenten",
+        "summary": "USA:s krigsminister Pete Hegseth är på besök i Venezuela. Besöket understryker Vita husets strävan att öka sitt inflytande i landet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hegseth in Venezuela – meets the president",
+        "summary": "US Secretary of War Pete Hegseth is visiting Venezuela. The visit underscores the White House's efforts to increase its influence in the country."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T18:31:10+01:00"
+      }
+    },
     {
       "id": "73f4eb83098d",
       "schema_version": 1,
@@ -5179,59 +5232,6 @@
       "en": {
         "title": "Unionen sees strong economy – but warns of AI effect on jobs",
         "summary": "Sweden's economy is developing strongly, according to a new forecast from Unionen. The union expects the economy to grow 2.6 percent next year. But the labour market is lagging behind, and Unionen points to AI effects on certain white-collar jobs that will not increase despite a stronger economic upturn."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T06:15:59+01:00"
-      }
-    },
-    {
-      "id": "a36aceb7ae3f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/xi-och-putin-traffas-fore-trump-motet",
-      "guid": "a9e6a534-c69f-4020-868b-2f6a9fb291b8",
-      "published_at": "2026-11-18T06:02:20+01:00",
-      "fetched_at": "2026-11-18T06:15:41+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/f3d4b6c4-07e4-40c3-9ac6-eb1dc9e1305b.jpg?width=600",
-      "sv": {
-        "title": "Xi och Putin träffas före Trump-mötet",
-        "summary": "Kinas president Xi Jinping och hans ryske dito Vladimir Putin träffas för ett möte på tu man hand innan det historiska trepartsmötet med Donald Trump.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Xi and Putin meet ahead of Trump meeting",
-        "summary": "China's president Xi Jinping and his Russian counterpart Vladimir Putin hold a one-on-one meeting before the historic three-way meeting with Donald Trump."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T06:15:59+01:00"
-      }
-    },
-    {
-      "id": "ec2e959d6cfd",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9343828",
-      "guid": "rss:sr.se/article/9343828",
-      "published_at": "2026-11-18T06:02:00+01:00",
-      "fetched_at": "2026-11-18T06:15:39+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Chef från Riksbanken bjöds med på dyr NHL-match",
-        "summary": "Riksbankens it-chef Mats Eklund och två medarbetare följde med på en NHL-match i Montréal i en privat lounge med en leverantör inför en upphandling. Ekots granskning visar att de kan ha bjudits på tusentals kronor av biljettkostnaden av leverantören.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Riksbank chief was treated to expensive NHL game",
-        "summary": "Riksbank IT chief Mats Eklund and two colleagues attended an NHL game in Montréal in a private lounge with a supplier ahead of a procurement. Ekot's investigation shows they may have been offered thousands of kronor of the ticket cost by the supplier."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-18T18:15:50+01:00",
+  "generated_at": "2026-11-18T18:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8d9f52396423",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/hegseth-i-venezuela-traffar-presidenten",
+      "guid": "ed84428b-8c71-4e1d-9b57-c8859f1e353f",
+      "published_at": "2026-11-18T18:24:09+01:00",
+      "fetched_at": "2026-11-18T18:31:04+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/1207bb44-d64b-4ea5-9d21-3dec3044ad0d.jpg?width=600",
+      "sv": {
+        "title": "Hegseth i Venezuela – träffar presidenten",
+        "summary": "USA:s krigsminister Pete Hegseth är på besök i Venezuela. Besöket understryker Vita husets strävan att öka sitt inflytande i landet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hegseth in Venezuela – meets the president",
+        "summary": "US Secretary of War Pete Hegseth is visiting Venezuela. The visit underscores the White House's efforts to increase its influence in the country."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T18:31:10+01:00"
+      }
+    },
+    {
+      "id": "72b2e13ae629",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/eu-forslag-45-miljarder-euro-i-nya-lan-till-ukraina",
+      "guid": "https://www.dn.se/varlden/eu-forslag-45-miljarder-euro-i-nya-lan-till-ukraina/",
+      "published_at": "2026-11-18T18:22:01+01:00",
+      "fetched_at": "2026-11-18T18:30:59+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/9d07918c-9fa9-4eeb-add6-57c44dc2afb5.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "EU-förslag: 45 miljarder euro i nya lån till Ukraina",
+        "summary": "BRYSSEL. Fjolårets massiva lån till Ukraina räckte inte. Nu föreslår EU-kommissionen nya lån på 45 miljarder euro så att landet ska klara sig nästa år. DN reder ut varifrån pengarna ska komma – och om Ukraina någonsin kan betala tillbaka skulden.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EU proposal: 45 billion euros in new loans to Ukraine",
+        "summary": "BRUSSELS. Last year's massive loans to Ukraine were not enough. Now the European Commission proposes new loans of 45 billion euros so that the country can get through next year. DN explains where the money will come from – and whether Ukraine can ever repay the debt."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T18:31:10+01:00"
+      }
+    },
+    {
+      "id": "284dd523fbad",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/gazabor-mer-an-ett-ar-sedan-vi-tvingades-fly",
+      "guid": "https://www.dn.se/varlden/gazabor-mer-an-ett-ar-sedan-vi-tvingades-fly/",
+      "published_at": "2026-11-18T18:21:00+01:00",
+      "fetched_at": "2026-11-18T18:30:59+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Gazabor: ”Mer än ett år sedan vi tvingades fly”",
+        "summary": "39-åriga Manal har tvingats evakuera tillsammans med sina sex barn efter att Israel inlett en ny insats i Gaza på onsdagen. – Det har alltid förekommit attacker i området.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Gaza: \"More than a year since we were forced to flee\"",
+        "summary": "39-year-old Manal has had to evacuate with her six children after Israel launched a new operation in Gaza on Wednesday. – There have always been attacks in the area."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T18:31:10+01:00"
+      }
+    },
     {
       "id": "08291c67ed4f",
       "schema_version": 1,
@@ -5230,84 +5310,6 @@
       "en": {
         "title": "New flight problems in the US",
         "summary": "United Airlines flights cannot take off due to system problems, Mirror reports. It comes just days after all air traffic was halted in the US."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T23:31:02+01:00"
-      }
-    },
-    {
-      "id": "71ba1e1efbb5",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=c1de6def-5817-48fe-b83f-06d7d9e8ca52",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c1de6def-5817-48fe-b83f-06d7d9e8ca52",
-      "published_at": "2026-11-16T23:18:23+01:00",
-      "fetched_at": "2026-11-16T23:30:56+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Robotar mot Kiev",
-        "summary": "”Kiev attackeras”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Robots against Kyiv",
-        "summary": "\"Kyiv is under attack\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T23:31:02+01:00"
-      }
-    },
-    {
-      "id": "7991dcbb79d8",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/0vn980/burnham-behandla-brexit-som-kejsarens-nya-klader",
-      "guid": "https://www.svd.se/a/0vn980/burnham-behandla-brexit-som-kejsarens-nya-klader?utm_medium=rss",
-      "published_at": "2026-11-16T23:16:11+01:00",
-      "fetched_at": "2026-11-16T23:30:55+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Burnham: Behandla brexit som Kejsarens nya kläder",
-        "summary": "Storbritanniens premiärminister Andy Burnham är optimistisk inför veckans förhandlingar om ett nytt…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Burnham: Treat Brexit as The Emperor's New Clothes",
-        "summary": "UK Prime Minister Andy Burnham is optimistic ahead of this week's negotiations on a new…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T23:31:02+01:00"
-      }
-    },
-    {
-      "id": "06660e98e12c",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/z0GMKb/burnham-behandla-brexit-som-kejsarens-nya-klader",
-      "guid": "https://www.aftonbladet.se/nyheter/a/z0GMKb/burnham-behandla-brexit-som-kejsarens-nya-klader?utm_medium=rss",
-      "published_at": "2026-11-16T23:16:10+01:00",
-      "fetched_at": "2026-11-16T23:30:56+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Burnham: Behandla brexit som Kejsarens nya kläder",
-        "summary": "Storbritanniens premiärminister Andy Burnham är optimistisk inför veckans förhandlingar om ett nytt…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Burnham: Treat Brexit as The Emperor's New Clothes",
-        "summary": "UK Prime Minister Andy Burnham is optimistic ahead of this week's negotiations on a new…"
       },
       "translation": {
         "status": "done",
