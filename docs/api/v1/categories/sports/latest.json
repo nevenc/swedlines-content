@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T17:45:57+01:00",
-  "count": 183,
+  "generated_at": "2026-11-18T18:01:27+01:00",
+  "count": 185,
   "items": [
+    {
+      "id": "3fd5c02be468",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/seger-om-att-mota-ett-lag-som-lever-med-konkurshot-en-speciell-situation",
+      "guid": "4f547f20-2154-4c0b-8c3e-a18879044487",
+      "published_at": "2026-11-18T18:00:00+01:00",
+      "fetched_at": "2026-11-18T18:01:20+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/e927560a-9e42-480e-beb2-ab73793a59d0.jpeg?width=600",
+      "sv": {
+        "title": "Seger om kvalet mot konkurshotat lag: ”Speciell situation”",
+        "summary": "FC Rosengård laddar för ett allsvenskt kval mot ett lag som kanske inte finns kvar om en vecka. – Klart att det är en speciell situation, det är ju ingen här som vill spela den här matchen, säger Caroline Seger, fotbollschef i FC Rosengård.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Win over relegation-threatened club: \"Special situation\"",
+        "summary": "FC Rosengård prepares for an Allsvenskan play-off against a club that may not exist a week from now. – Of course it's a special situation, no one here wants to play this match, says Caroline Seger, football director at FC Rosengård."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T18:01:26+01:00"
+      }
+    },
     {
       "id": "7dc49198cbe9",
       "schema_version": 1,
@@ -143,6 +170,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T15:15:52+01:00"
+      }
+    },
+    {
+      "id": "25e4e0e14a56",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5YGw4vwnlwe2RW8ar1OghY/blindtester-ska-ge-stjaernorna-baettre-skidor-svart-att-inte-bli-paverkad",
+      "guid": "5YGw4vwnlwe2RW8ar1OghY",
+      "published_at": "2026-11-18T14:58:18+01:00",
+      "fetched_at": "2026-11-18T18:01:18+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Sport"
+      ],
+      "sv": {
+        "title": "Blindtester ska ge stjärnorna bättre skidor: ”Viktigt att optimera”",
+        "summary": "I Sporten där allt går att mäta har damlandslaget tagit ett nytt grepp för att hitta de bästa skidorna. Man vill helt enkelt öka tilliten till den egna känslan. – Det är ju svårt att inte bli påverkad.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Blind tests to give the stars better skis: \"Important to optimise\"",
+        "summary": "In Sporten, where everything can be measured, the women's national team has taken a new approach to finding the best skis. They simply want to increase trust in their own feeling. – It's hard not to be influenced."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T18:01:26+01:00"
       }
     },
     {

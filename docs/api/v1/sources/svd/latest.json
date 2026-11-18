@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T17:45:57+01:00",
+  "generated_at": "2026-11-18T18:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "55973c63e9c6",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/3BJoBX/politikerna-har-sabbat-sveriges-elsystem",
+      "guid": "https://www.svd.se/a/3BJoBX/politikerna-har-sabbat-sveriges-elsystem?utm_medium=rss",
+      "published_at": "2026-11-18T17:54:53+01:00",
+      "fetched_at": "2026-11-18T18:01:16+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/e4b494b0-57dc-3819-bed0-2c1bfa890846?format=auto&s=ac8f1b886d34949b230a7d8f339b20312a445c81&w=1000",
+      "sv": {
+        "title": "Politikerna har sabbat Sveriges elsystem",
+        "summary": "Det kan bli en lång och dyr vinter för svenska elkunder – helt i onödan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Politicians have sabotaged Sweden's electricity system",
+        "summary": "It could be a long and expensive winter for Swedish electricity customers – entirely needlessly."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T18:01:26+01:00"
+      }
+    },
     {
       "id": "86cace14eb6f",
       "schema_version": 1,
@@ -5192,33 +5219,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T18:01:20+01:00"
-      }
-    },
-    {
-      "id": "0c63d0a22b4b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/0vnGQJ/karin-kallstrom-c-ar-hogerns-basta-hopp-i-totalpaketens-tid",
-      "guid": "https://www.svd.se/a/0vnGQJ/karin-kallstrom-c-ar-hogerns-basta-hopp-i-totalpaketens-tid?utm_medium=rss",
-      "published_at": "2026-11-15T16:54:07+01:00",
-      "fetched_at": "2026-11-15T17:01:08+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/d99e42c4-298f-3dd3-934f-7d6bcb800b18?format=auto&s=56440563529739b20b058b790f7d71f28d242072&w=1000",
-      "sv": {
-        "title": "Högerns hopp i totalpaketens tid",
-        "summary": "Mitt i regeringsbildningen åker de till Polen hela gänget. Där på scenen står hon: högerns bästa…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The right's hope in the age of total packages",
-        "summary": "In the middle of the government formation, the whole gang travels to Poland. There on stage stands she: the right's best…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T17:01:25+01:00"
       }
     }
   ]

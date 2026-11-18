@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T17:45:57+01:00",
+  "generated_at": "2026-11-18T18:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "79e78e6e14f5",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/cloetta-forbannade-svenska-godisbraket-det-ar-medvetet",
+      "guid": "https://www.expressen.se/nyheter/sverige/cloetta-forbannade-svenska-godisbraket-det-ar-medvetet/",
+      "published_at": "2026-11-18T17:52:57+01:00",
+      "fetched_at": "2026-11-18T18:01:18+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Cloetta förbannade – svenska godisbråket: ”Det är medvetet”",
+        "summary": "Ett godisbråk mellan två jättar har inletts i Sverige. I centrum: Skumtomtar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Cloetta furious – Swedish candy feud: \"It is deliberate\"",
+        "summary": "A candy feud between two giants has broken out in Sweden. At its centre: Skumtomtar."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T18:01:26+01:00"
+      }
+    },
     {
       "id": "6aab4df360a9",
       "schema_version": 1,
@@ -5168,32 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T14:45:42+01:00"
-      }
-    },
-    {
-      "id": "104417fe0db2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/jakob-forssmeds-angrepp-mot-s-om-sd-inte-sant",
-      "guid": "https://www.expressen.se/nyheter/politik/jakob-forssmeds-angrepp-mot-s-om-sd-inte-sant/",
-      "published_at": "2026-11-15T14:04:05+01:00",
-      "fetched_at": "2026-11-15T14:15:43+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Jakob Forssmeds angrepp mot S om SD: Inte sant",
-        "summary": "Om Centern går till höger sviker de löftet om att inte samarbeta med SD. Det är budskapet från S-ledningen – som nu får KD-toppen Jakob Forssmed att gå till motattack. ”Helt enkelt inte sant”‚ skriver han på Facebook.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jakob Forssmed's attack on the Social Democrats over the Sweden Democrats: Not true",
-        "summary": "If the Centre Party moves to the right, they break their promise not to cooperate with the Sweden Democrats. That is the message from the Social Democrat leadership – which now prompts Christian Democrat leader Jakob Forssmed to counterattack. \"Simply not true,\" he writes on Facebook."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T14:15:49+01:00"
       }
     }
   ]
