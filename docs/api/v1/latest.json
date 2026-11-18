@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:15:54+01:00",
+  "generated_at": "2026-11-18T21:31:06+01:00",
   "count": 200,
   "items": [
     {
@@ -161,6 +161,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T21:15:54+01:00"
+      }
+    },
+    {
+      "id": "1b4a95ab179b",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2Zwy43RR5ZTyCyJkgXuR78/kraever-en-foerklaring-efter-oevernattningsdejten",
+      "guid": "2Zwy43RR5ZTyCyJkgXuR78",
+      "published_at": "2026-11-18T21:00:10+01:00",
+      "fetched_at": "2026-11-18T21:31:01+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Nöje"
+      ],
+      "sv": {
+        "title": "Kräver en förklaring efter övernattningsdejten",
+        "summary": "Bonden Oliver Åkerbäcks kärleksresa i ”Bonde söker fru” ställdes på sin spets förra veckan när han fick möjlighet att tillbringa en natt med någon av brevskrivarna. Till en början tackade han nej till programledaren Linda Lindorffs erbjudande av respekt för tjejerna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Demands an explanation after the overnight date",
+        "summary": "Farmer Oliver Åkerbäck's romantic journey in \"Bonde söker fru\" was put to the test last week when he got the chance to spend a night with one of the letter writers. At first he declined host Linda Lindorff's offer out of respect for the women."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T21:31:05+01:00"
       }
     },
     {
@@ -5395,33 +5424,6 @@
       "en": {
         "title": "Larger losses for hair company – to increase sales",
         "summary": "Coegin Pharma, which develops innovations for hair and skin, reports an operating loss of minus SEK 5.8 million (minus 4.1) for the third quarter of 2026."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:01:35+01:00"
-      }
-    },
-    {
-      "id": "a671f5687544",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/skonhetsbolaget-hackat-varnar-kunderna",
-      "guid": "10157d26-c2c3-4ee3-a08a-36595a149652",
-      "published_at": "2026-11-18T15:46:08+01:00",
-      "fetched_at": "2026-11-18T16:01:21+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/216461b9-1e17-4b4d-8db2-9ee8913a74c1.jpeg?width=600",
-      "sv": {
-        "title": "Skönhetsbolaget hackat – varnar kunderna",
-        "summary": "Hårvårds- och skönhetsbolaget Lykos interna system har drabbats av ett intrång där en obehörig part kommit över personuppgifter. Det skriver flera medier.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Beauty company hacked – warns customers",
-        "summary": "The internal systems of hair care and beauty company Lykos have been hit by an intrusion in which an unauthorised party gained access to personal data. Several media outlets report this."
       },
       "translation": {
         "status": "done",
