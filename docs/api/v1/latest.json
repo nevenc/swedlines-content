@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T03:15:51+01:00",
+  "generated_at": "2026-11-18T03:30:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "05e005a1db4d",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/explosion-vid-flerfamiljehus-i-helsingborg",
+      "guid": "https://www.expressen.se/nyheter/sverige/explosion-vid-flerfamiljehus-i-helsingborg/",
+      "published_at": "2026-11-18T03:22:21+01:00",
+      "fetched_at": "2026-11-18T03:30:53+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Explosion vid flerfamiljehus i Helsingborg",
+        "summary": "En explosion har inträffat vid ett flerfamiljehus i Dalhem, Helsingborg, under natten mot onsdagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Explosion at apartment building in Helsingborg",
+        "summary": "An explosion has occurred at an apartment building in Dalhem, Helsingborg, during the night to Wednesday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T03:30:57+01:00"
+      }
+    },
     {
       "id": "b3cad9d17540",
       "schema_version": 1,
@@ -5373,33 +5399,6 @@
       "en": {
         "title": "Then Denmark stops producing oil and gas",
         "summary": "Denmark is to have cut emissions by 85 percent by 2035, according to a plan."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:45:54+01:00"
-      }
-    },
-    {
-      "id": "27f754f29c07",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/yz3OBK/bilderna-som-kan-visa-hur-epstein-dog",
-      "guid": "https://www.aftonbladet.se/nyheter/a/yz3OBK/bilderna-som-kan-visa-hur-epstein-dog?utm_medium=rss",
-      "published_at": "2026-11-17T16:41:27+01:00",
-      "fetched_at": "2026-11-17T16:45:46+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/605b519e-693f-3247-b3de-07cffcd21e10?format=auto&s=89c7e634f002292b0aafd2b8fd22259661d7c486&w=1000",
-      "sv": {
-        "title": "Bilderna från obduktionen visar: Så dog Jeffrey Epstein",
-        "summary": "Svenske läkarens teori ✓ OBS! Starka bilder",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Images from the autopsy show: This is how Jeffrey Epstein died",
-        "summary": "Swedish doctor's theory ✓ WARNING! Graphic images"
       },
       "translation": {
         "status": "done",
