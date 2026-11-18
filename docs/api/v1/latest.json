@@ -1,7 +1,201 @@
 {
-  "generated_at": "2026-11-18T10:01:26+01:00",
+  "generated_at": "2026-11-18T10:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "698462496ed6",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/ilska-pa-toppmotet-skitsnack-och-luft",
+      "guid": "84f7e4d5-7692-46a3-94a5-9329dd56fd25",
+      "published_at": "2026-11-18T10:11:46+01:00",
+      "fetched_at": "2026-11-18T10:15:53+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/a4c89fdd-5eed-4fac-8cf3-352f3ae9bc59.jpg?width=600",
+      "sv": {
+        "title": "Ilska på toppmötet: ”Skitsnack och luft”",
+        "summary": "Frustrationen växer bland vissa förhandlare på klimattoppmötet. – Det är bara vackra tal som inte är mer än skitsnack och luft, säger Panamas miljöminister Juan Carlos Navarro till TT.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anger at the summit: \"Empty talk and hot air\"",
+        "summary": "Frustration is growing among some negotiators at the climate summit. – It's just beautiful words that are no more than empty talk and hot air, says Panama's environment minister Juan Carlos Navarro to TT."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:15:58+01:00"
+      }
+    },
+    {
+      "id": "3341897dc312",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/KL3b7e/gronland-skar-ner-pa-danskundervisning",
+      "guid": "https://www.aftonbladet.se/nyheter/a/KL3b7e/gronland-skar-ner-pa-danskundervisning?utm_medium=rss",
+      "published_at": "2026-11-18T10:10:26+01:00",
+      "fetched_at": "2026-11-18T10:15:51+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/03d329ff-b76a-38d2-92f9-b9df0dd8bb14?format=auto&s=105765ad513e9c2b31ab2a4da8f11a103c143272&w=1000",
+      "sv": {
+        "title": "Grönland skär ner på danskundervisning",
+        "summary": "En ny grundskolelag på Grönland som träder i kraft i augusti nästa år innebär mindre…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Greenland cuts back on Danish lessons",
+        "summary": "A new Greenlandic compulsory school act that takes effect in August next year means less…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:15:58+01:00"
+      }
+    },
+    {
+      "id": "0d3f08840864",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/voyager-1-blir-historisk-ett-ljusdygn-fran-jorden",
+      "guid": "e6990ddd-7698-432e-b6de-1709c25409b6",
+      "published_at": "2026-11-18T10:08:52+01:00",
+      "fetched_at": "2026-11-18T10:15:53+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/d4c8cdff-338d-4a64-9e4a-4a1602128cc2.jpg?width=600",
+      "sv": {
+        "title": "Voyager 1 blir historisk – ett ljusdygn från jorden",
+        "summary": "Den har varit på väg i snart 50 år och har färdats över 25 miljarder kilometer. I dag når rymdsonden Voyager 1 ännu en milstolpe – med bland annat en svensk hälsning ombord.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Voyager 1 makes history – one light-day from Earth",
+        "summary": "It has been on its way for almost 50 years and has travelled over 25 billion kilometres. Today the spacecraft Voyager 1 reaches another milestone – with, among other things, a Swedish greeting on board."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:15:58+01:00"
+      }
+    },
+    {
+      "id": "84fcf022d808",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/har-ar-sveriges-vag-till-em-2028.b6f57f95-8817-5861-ba8a-5cfa93ee4b05",
+      "guid": "b6f57f95-8817-5861-ba8a-5cfa93ee4b05",
+      "published_at": "2026-11-18T10:07:50+01:00",
+      "fetched_at": "2026-11-18T10:15:52+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Fotboll",
+        "Tagg: Uefa",
+        "Tagg: Fotboll",
+        "Tagg: Landslaget i fotboll, herrar",
+        "Tagg: Uefa Nations League"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/066bab84-59f3-3bb8-bd58-00432859828d",
+      "sv": {
+        "title": "Efter gruppsegern: Så ser Sveriges väg till EM 2028 ut",
+        "summary": "Guide: Det här krävs för att Sverige ska nå fotbolls-EM",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After the group win: What Sweden's path to the 2028 European Championship looks like",
+        "summary": "Guide: This is what it takes for Sweden to reach the football European Championship"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:15:58+01:00"
+      }
+    },
+    {
+      "id": "ce118ddf15cd",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/OyplBw/ilska-pa-toppmotet-skitsnack-och-luft",
+      "guid": "https://www.aftonbladet.se/nyheter/a/OyplBw/ilska-pa-toppmotet-skitsnack-och-luft?utm_medium=rss",
+      "published_at": "2026-11-18T10:07:43+01:00",
+      "fetched_at": "2026-11-18T10:15:51+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/938d9c8c-d424-3fb7-bd68-9da4d719e862?format=auto&s=125b9b0f35bf3a79c88782c0b29392c3fa582470&w=1000",
+      "sv": {
+        "title": "Ilska på toppmötet: ”Skitsnack och luft”",
+        "summary": "Frustrationen växer bland vissa förhandlare på klimattoppmötet. – Det är bara vackra tal som inte är…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anger at the summit: \"Empty talk and hot air\"",
+        "summary": "Frustration is growing among some negotiators at the climate summit. – It's just beautiful words that are not…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:15:58+01:00"
+      }
+    },
+    {
+      "id": "8cf111d747ed",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/berglund-den-positiva-trenden-fortsatter-for-saas-bolagen",
+      "guid": "162b4113-e893-58fe-a2df-5d757c81a113",
+      "published_at": "2026-11-18T10:04:44+01:00",
+      "fetched_at": "2026-11-18T10:15:52+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Berglund: Den positiva trenden fortsätter för SaaS-bolagen",
+        "summary": "Robin Berglund på Redeye om läget för SaaS-bolagen, som varit under AI-press det senaste året.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Berglund: The positive trend continues for SaaS companies",
+        "summary": "Robin Berglund at Redeye on the situation for SaaS companies, which have been under AI pressure over the past year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:15:58+01:00"
+      }
+    },
+    {
+      "id": "dc5b0727561d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/elpriserna-vantas-bli-rekordhoga-i-vinter",
+      "guid": "94a8623a-9a03-5c91-9ed1-f1ac8ab97efd",
+      "published_at": "2026-11-18T10:00:37+01:00",
+      "fetched_at": "2026-11-18T10:15:52+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Elpriserna väntas bli rekordhöga i vinter",
+        "summary": "Johan Sigvardsson, elmarknadsanalytiker på Bixia, om prognoserna för elpriserna under vinterhalvåret.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Electricity prices expected to be record-high this winter",
+        "summary": "Johan Sigvardsson, electricity market analyst at Bixia, on forecasts for electricity prices during the winter half-year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:15:58+01:00"
+      }
+    },
     {
       "id": "5bc62e59fa69",
       "schema_version": 1,
@@ -56,6 +250,38 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T10:01:25+01:00"
+      }
+    },
+    {
+      "id": "219efe5355b5",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/gp-historia/fraga-wedel-varfor-morkar-gp-goteborgs-svarta-historia.700b8279-626d-5024-8d7e-7e1304ae7585",
+      "guid": "700b8279-626d-5024-8d7e-7e1304ae7585",
+      "published_at": "2026-11-18T09:51:05+01:00",
+      "fetched_at": "2026-11-18T10:15:52+01:00",
+      "category": "other",
+      "feed_categories": [
+        "GP Historia",
+        "Tagg: GP Historia",
+        "Tagg: Kristian Wedel"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/c07d7b0f-4daf-34ef-ab6e-e6a6143f8bd2",
+      "sv": {
+        "title": "Fråga Wedel: Varför mörkar GP Göteborgs svarta historia?",
+        "summary": "Mellan raderna anas en helvetisk verklighet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ask Wedel: Why does GP hide Göteborg's dark history?",
+        "summary": "Between the lines, a hellish reality can be sensed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:15:58+01:00"
       }
     },
     {
@@ -5090,237 +5316,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T05:31:12+01:00"
-      }
-    },
-    {
-      "id": "22f36bc36752",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80019",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80019&utm_medium=rss",
-      "published_at": "2026-11-18T05:22:32+01:00",
-      "fetched_at": "2026-11-18T05:31:00+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "En till sjukhus efter lägenhetsbrand"
-      },
-      "en": {
-        "title": "One more to hospital after apartment fire"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T05:31:12+01:00"
-      }
-    },
-    {
-      "id": "3af98ede251b",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ledare/susanne-nystrom-ingen-trollkarl-kommer-att-svinga-sin-stav-over-regeringsforhandlingarna",
-      "guid": "https://www.dn.se/ledare/susanne-nystrom-ingen-trollkarl-kommer-att-svinga-sin-stav-over-regeringsforhandlingarna/",
-      "published_at": "2026-11-18T05:22:20+01:00",
-      "fetched_at": "2026-11-18T05:31:00+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/05dae529-0a3f-424a-bf29-4ddfb1658958.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Susanne Nyström: Ingen trollkarl kommer att svinga sin stav över regeringsförhandlingarna",
-        "summary": "Andreas Norlén har gett partiledarna en tydlig deadline. Senast till jul ska en ny regering vara på plats. Annars väntar extra val.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Susanne Nyström: No wizard will wave his wand over the government negotiations",
-        "summary": "Andreas Norlén has given the party leaders a clear deadline. No later than Christmas a new government must be in place. Otherwise, snap elections await."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T05:31:12+01:00"
-      }
-    },
-    {
-      "id": "ca5654ac72a4",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/svensk-tech-satter-rekord-toppar-bnp-ligan",
-      "guid": "e7bad0b7-3c83-488c-ba8d-b314491c44da",
-      "published_at": "2026-11-18T05:20:31+01:00",
-      "fetched_at": "2026-11-18T05:31:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/ce12f25b-e31b-40fa-aec9-fb68a16d51cd.jpeg?width=600",
-      "sv": {
-        "title": "Svensk tech sätter rekord – toppar BNP-ligan",
-        "summary": "Sverige fortsätter vara ett draglok i den europeiska techsektorn och är det land som lockar mest riskkapital i förhållande till sin storlek. Det visar en årlig rapport från riskkapitaljätten Atomico.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Swedish tech sets record – tops GDP league",
-        "summary": "Sweden continues to be a driving force in the European tech sector and is the country that attracts the most venture capital in relation to its size. This is shown by an annual report from venture capital giant Atomico."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T05:31:12+01:00"
-      }
-    },
-    {
-      "id": "305b37035256",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/detta-hander-onsdag-18-november-fhgDC",
-      "guid": "6ab96499-1cfe-46ca-a59d-0c224efcd056",
-      "published_at": "2026-11-18T05:00:00+01:00",
-      "fetched_at": "2026-11-18T05:10:42+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Detta händer onsdag 18 november",
-        "summary": "Bland onsdagens rapportbolag finns Sveafastigheter och Elon. För den som letar julklappsinspiration går HUI ut med ”Årets julklapp” under morgonen. Under kvällen släpper Fed protokollet från sitt senaste räntemöte.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This happens on Wednesday 18 November",
-        "summary": "Among Wednesday's earnings reports are Sveafastigheter and Elon. For those looking for Christmas gift inspiration, HUI is publishing ”Årets julklapp” in the morning. In the evening, the Fed releases the minutes from its latest interest rate meeting."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T05:10:48+01:00"
-      }
-    },
-    {
-      "id": "3c562989dffd",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Qrog2x/autistiske-albin-30-forsvann-fran-strangnas",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Qrog2x/autistiske-albin-30-forsvann-fran-strangnas?utm_medium=rss",
-      "published_at": "2026-11-18T05:00:00+01:00",
-      "fetched_at": "2026-11-18T05:10:41+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/757f4941-361d-3e8b-bd57-a6ce5c0c30e3?format=auto&s=10597b6fd5f192ce0023808fa141a38605fac117&w=1000",
-      "sv": {
-        "title": "Skulle tälta – sen försvann Albin, 30",
-        "summary": "Söks av Missing People ✓ Familjens vädjan",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Planned to camp – then Albin, 30, disappeared",
-        "summary": "Searched for by Missing People ✓ The family's appeal"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T05:10:48+01:00"
-      }
-    },
-    {
-      "id": "4a60cbb2a33c",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/ledare/gastkolumn/krokens-dod-far-inte-ha-skett-forgaves.c29713e4-3268-5868-97b0-2838b0fb0bd4",
-      "guid": "c29713e4-3268-5868-97b0-2838b0fb0bd4",
-      "published_at": "2026-11-18T05:00:00+01:00",
-      "fetched_at": "2026-11-18T05:15:39+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Gästkolumn",
-        "Tagg: Säkerhet",
-        "Tagg: Arbetsmiljö"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/a2003506-6b39-3dd0-b1cf-c889e4633aaf",
-      "sv": {
-        "title": "Ann-Sofie Hermansson: Krokens död får inte ha skett förgäves",
-        "summary": "Bara under 2025 dog 45 svenskar i arbetsplatsolyckor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ann-Sofie Hermansson: Kroken's death must not have happened in vain",
-        "summary": "Just during 2025, 45 Swedes died in workplace accidents."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T05:15:43+01:00"
-      }
-    },
-    {
-      "id": "4af904acf0f9",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/debatt/bevara-sveriges-gedigna-men-eftersatta-hus-med-statliga-renoveringslan.6ad3a287-93b2-5e40-9274-68dbd8a90353",
-      "guid": "6ad3a287-93b2-5e40-9274-68dbd8a90353",
-      "published_at": "2026-11-18T05:00:00+01:00",
-      "fetched_at": "2026-11-18T05:15:39+01:00",
-      "category": "other",
-      "feed_categories": [
-        "Debatt",
-        "Tagg: Kulturhistoria",
-        "Tagg: Bostadsmarknaden",
-        "Tagg: Moms",
-        "Tagg: Hus",
-        "Tagg: Renovering"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/af64478a-89a8-3a75-9f28-afa6ca4bf53c",
-      "sv": {
-        "title": "Rusta upp Sveriges alla eftersatta villor med statliga renoveringslån",
-        "summary": "Precis som staten genom studielånen investerar i människors utbildning bör vi förmånliga lån för att rädda både kulturarvet och klimatet, skriver Torbjörn Lindstedt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Renovate Sweden's neglected villas with state renovation loans",
-        "summary": "Just as the state invests in people's education through student loans, we should offer favourable loans to save both the cultural heritage and the climate, writes Torbjörn Lindstedt."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T05:15:43+01:00"
-      }
-    },
-    {
-      "id": "77e95bb29e1c",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/fria-ord/tragiskt-och-nonchalant-hur-c-och-v-haller-pa.a3acc266-b098-53bd-ae26-94dfe5e70d72",
-      "guid": "a3acc266-b098-53bd-ae26-94dfe5e70d72",
-      "published_at": "2026-11-18T05:00:00+01:00",
-      "fetched_at": "2026-11-18T05:15:39+01:00",
-      "category": "other",
-      "feed_categories": [
-        "Fria ord",
-        "Tagg: Centerpartiet",
-        "Tagg: Vänsterpartiet",
-        "Tagg: Politik",
-        "Tagg: Förhandlingarna om regeringsmakten"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/e5676db5-71c8-391e-8e11-54f7e65488ad",
-      "sv": {
-        "title": "Tragiskt och nonchalant hur C och V håller på",
-        "summary": "Skulle gissa att vid ett nyval, skulle siffrorna ändra sig dramatiskt och framför allt gynna M och även kanske SD, skriver insändarskribenten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "It is tragic and careless how the Centre Party and the Left Party are behaving",
-        "summary": "I would guess that in a snap election, the figures would change dramatically and above all benefit the Moderates and possibly also the Sweden Democrats, writes the letter writer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T05:15:43+01:00"
       }
     }
   ]

@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-18T10:01:26+01:00",
-  "count": 68,
+  "generated_at": "2026-11-18T10:15:58+01:00",
+  "count": 70,
   "items": [
+    {
+      "id": "219efe5355b5",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/gp-historia/fraga-wedel-varfor-morkar-gp-goteborgs-svarta-historia.700b8279-626d-5024-8d7e-7e1304ae7585",
+      "guid": "700b8279-626d-5024-8d7e-7e1304ae7585",
+      "published_at": "2026-11-18T09:51:05+01:00",
+      "fetched_at": "2026-11-18T10:15:52+01:00",
+      "category": "other",
+      "feed_categories": [
+        "GP Historia",
+        "Tagg: GP Historia",
+        "Tagg: Kristian Wedel"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/c07d7b0f-4daf-34ef-ab6e-e6a6143f8bd2",
+      "sv": {
+        "title": "Fråga Wedel: Varför mörkar GP Göteborgs svarta historia?",
+        "summary": "Mellan raderna anas en helvetisk verklighet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ask Wedel: Why does GP hide Göteborg's dark history?",
+        "summary": "Between the lines, a hellish reality can be sensed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:15:58+01:00"
+      }
+    },
     {
       "id": "b982ef52b0ae",
       "schema_version": 1,
@@ -295,6 +327,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T20:31:09+01:00"
+      }
+    },
+    {
+      "id": "1e5621817819",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/410779",
+      "guid": "https://tv.aftonbladet.se/video/410779?utm_medium=rss",
+      "published_at": "2026-11-17T20:14:18+01:00",
+      "fetched_at": "2026-11-18T10:15:51+01:00",
+      "category": "other",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/e214d4e95eabf31e9a98b21ca0f547ef.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "”Vi föds nakna, så varför inte?”",
+        "summary": "Här möts badhusbesökarna av nakna kroppar",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"We are born naked, so why not?\"",
+        "summary": "Here bathhouse visitors are greeted by naked bodies"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:15:58+01:00"
       }
     },
     {

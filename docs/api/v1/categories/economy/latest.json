@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-18T10:01:26+01:00",
+  "generated_at": "2026-11-18T10:15:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8cf111d747ed",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/berglund-den-positiva-trenden-fortsatter-for-saas-bolagen",
+      "guid": "162b4113-e893-58fe-a2df-5d757c81a113",
+      "published_at": "2026-11-18T10:04:44+01:00",
+      "fetched_at": "2026-11-18T10:15:52+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Berglund: Den positiva trenden fortsätter för SaaS-bolagen",
+        "summary": "Robin Berglund på Redeye om läget för SaaS-bolagen, som varit under AI-press det senaste året.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Berglund: The positive trend continues for SaaS companies",
+        "summary": "Robin Berglund at Redeye on the situation for SaaS companies, which have been under AI pressure over the past year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:15:58+01:00"
+      }
+    },
+    {
+      "id": "dc5b0727561d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/elpriserna-vantas-bli-rekordhoga-i-vinter",
+      "guid": "94a8623a-9a03-5c91-9ed1-f1ac8ab97efd",
+      "published_at": "2026-11-18T10:00:37+01:00",
+      "fetched_at": "2026-11-18T10:15:52+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Elpriserna väntas bli rekordhöga i vinter",
+        "summary": "Johan Sigvardsson, elmarknadsanalytiker på Bixia, om prognoserna för elpriserna under vinterhalvåret.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Electricity prices expected to be record-high this winter",
+        "summary": "Johan Sigvardsson, electricity market analyst at Bixia, on forecasts for electricity prices during the winter half-year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:15:58+01:00"
+      }
+    },
     {
       "id": "e8264944ad8a",
       "schema_version": 1,
@@ -5197,52 +5249,6 @@
       },
       "en": {
         "title": "65 square metre house sold for SEK 3.4 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:45:55+01:00"
-      }
-    },
-    {
-      "id": "56e14703b2f5",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-villa-6lfbp",
-      "guid": "2349e70d-5499-45be-aa5b-cb2373559ede",
-      "published_at": "2026-11-17T12:31:46+01:00",
-      "fetched_at": "2026-11-17T12:45:49+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nya ägare till villa"
-      },
-      "en": {
-        "title": "New owners of villa"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:45:55+01:00"
-      }
-    },
-    {
-      "id": "9db92ebef063",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-225-kvm-saldes-for-11-2-miljoner",
-      "guid": "1a910ddb-5376-4377-a8e3-bb0bed2d12af",
-      "published_at": "2026-11-17T12:31:46+01:00",
-      "fetched_at": "2026-11-17T12:45:49+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Hus på 225 kvm såldes för 11,2 miljoner"
-      },
-      "en": {
-        "title": "225 square metre house sold for SEK 11.2 million"
       },
       "translation": {
         "status": "done",
