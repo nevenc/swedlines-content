@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-18T16:45:52+01:00",
+  "generated_at": "2026-11-18T17:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fc2ceeffecf1",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345306",
+      "guid": "rss:sr.se/article/9345306",
+      "published_at": "2026-11-18T16:56:00+01:00",
+      "fetched_at": "2026-11-18T17:01:15+01:00",
+      "category": "world",
+      "sv": {
+        "title": "EU: Ryssland kommer dubbla sina drönarattacker",
+        "summary": "EU har lagt förslag om nytt lånestöd till Ukraina värt 45 miljarder euro. En stor del av de pengarna kommer gå till drönarförsvar som svar på de miljontals drönare som Ryssland attackerar Ukraina med.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "EU: Russia will double its drone attacks",
+        "summary": "The EU has proposed a new loan support package for Ukraine worth 45 billion euros. A large part of the money will go to drone defence in response to the millions of drones Russia is attacking Ukraine with."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T17:01:26+01:00"
+      }
+    },
+    {
+      "id": "c33b6b7bab09",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7dvDUeUkVU2uS56RjHcfVo/ny-israelisk-markinvasion-i-gaza",
+      "guid": "7dvDUeUkVU2uS56RjHcfVo",
+      "published_at": "2026-11-18T16:46:54+01:00",
+      "fetched_at": "2026-11-18T17:01:17+01:00",
+      "category": "world",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Ny israelisk markinvasion i Gaza",
+        "summary": "Sedan vapenvilan infördes i oktober 2025 har Israel fortsatt att attackera mål inne i Gaza, men inte genomfört någon mer omfattande militär operation. Idag meddelar dock den israeliska militären IDF att man inlett en ny markattack med bland annat framryckande stridsvagnar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "New Israeli ground invasion in Gaza",
+        "summary": "Since the ceasefire was introduced in October 2025, Israel has continued to attack targets inside Gaza, but has not carried out any more extensive military operation. Today, however, the Israeli military IDF announces that it has launched a new ground attack, including advancing tanks."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T17:01:26+01:00"
+      }
+    },
     {
       "id": "3af1d44dd7e7",
       "schema_version": 1,
@@ -5270,62 +5325,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T22:01:25+01:00"
-      }
-    },
-    {
-      "id": "02c66b4a32f0",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/2vG9Ja/tredje-amerikanskt-hangarfartyg-i-mellanostern",
-      "guid": "https://www.aftonbladet.se/nyheter/a/2vG9Ja/tredje-amerikanskt-hangarfartyg-i-mellanostern?utm_medium=rss",
-      "published_at": "2026-11-16T21:35:04+01:00",
-      "fetched_at": "2026-11-16T22:01:15+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/babdc2da-daea-3372-95e3-cba50784568e?format=auto&s=f15bfc4410baa8c09428e0c8015fd17c91600421&w=1000",
-      "sv": {
-        "title": "Tredje amerikanskt hangarfartyg i Mellanöstern",
-        "summary": "Ett tredje amerikanskt hangarfartyg har anlänt till Mellanöstern, uppger det amerikanska…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Third American aircraft carrier in the Middle East",
-        "summary": "A third American aircraft carrier has arrived in the Middle East, according to the US military command Centcom on X…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T22:01:25+01:00"
-      }
-    },
-    {
-      "id": "342d341455e6",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/36jaRcFAdtjNLVsjW2dYq5/mist-mina-barn-hade-kaents-baettre-om-jag-hade-doett-med-dem",
-      "guid": "36jaRcFAdtjNLVsjW2dYq5",
-      "published_at": "2026-11-16T21:25:35+01:00",
-      "fetched_at": "2026-11-16T21:30:59+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Nepalkatastrofen"
-      ],
-      "sv": {
-        "title": "”Jag miste mina barn – hade känts bättre om jag dött med dem”",
-        "summary": "Stora områden helt obeboeliga efter störtfloden",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"I lost my children – it would have felt better if I had died with them\"",
-        "summary": "Large areas completely uninhabitable after the flash flood"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T21:31:04+01:00"
       }
     }
   ]

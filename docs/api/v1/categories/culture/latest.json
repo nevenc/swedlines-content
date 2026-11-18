@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-18T16:45:52+01:00",
+  "generated_at": "2026-11-18T17:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a07c56321787",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/quiz/vad-vet-du-om-den-klassiska-skolmaten",
+      "guid": "6710c951-4d7f-4c5c-bb04-9aef3c6eb159",
+      "published_at": "2026-11-18T17:00:00+01:00",
+      "fetched_at": "2026-11-18T17:01:19+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Vad vet du om den klassiska skolmaten?",
+        "summary": "I år fyller den svenska skolmaten 80 år. För att fira det har elever runt om i landet fått testa tidlösa klassiker som köttfärslåda med curry och Flygande Jakob. Men vad kan du om forna tiders favoriter från skolbespisningen?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "What do you know about classic school food?",
+        "summary": "This year Swedish school food turns 80. To mark the occasion, pupils across the country have been able to try timeless classics such as minced meat casserole with curry and Flying Jacob. But what do you know about the past's favourites from school catering?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T17:01:26+01:00"
+      }
+    },
+    {
+      "id": "ad9f67de85fe",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/8PmEyW/svd-lajvstreamar-gta-vi",
+      "guid": "https://www.svd.se/a/8PmEyW/svd-lajvstreamar-gta-vi?utm_medium=rss",
+      "published_at": "2026-11-18T17:00:00+01:00",
+      "fetched_at": "2026-11-18T17:01:16+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/244dd42f-395f-3dbe-9a5f-76e2b61b4cd3?format=auto&s=1352294848f549efc31e943346efe355dd24b8e0&w=1000",
+      "sv": {
+        "title": "SvD livestreamar GTA VI",
+        "summary": "SvD bjuder in kända gäster för att fira årets mest hajpade spelsläpp under en åtta timmar lång…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SvD livestreams GTA VI",
+        "summary": "SvD invites well-known guests to celebrate this year's most hyped game release during an eight-hour-long…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T17:01:26+01:00"
+      }
+    },
     {
       "id": "5b4f2ddae3d3",
       "schema_version": 1,
@@ -5547,62 +5600,6 @@
       "en": {
         "title": "Iconic dance band makes comeback after 25 years",
         "summary": "Barbados' reunion premieres at Partille Arena."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T11:26:59+01:00"
-      }
-    },
-    {
-      "id": "84320452135e",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/svart-att-jazza-fram-odsligheten-i-kvarteret-korpen",
-      "guid": "https://www.dn.se/kultur/svart-att-jazza-fram-odsligheten-i-kvarteret-korpen/",
-      "published_at": "2026-11-15T10:37:14+01:00",
-      "fetched_at": "2026-11-15T11:26:37+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/22ef366c-7aa6-4088-9c1f-60aa63c2ffd9.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Svårt att jazza fram ödsligheten i ”Kvarteret Korpen”",
-        "summary": "Bo Widerbergs film ”Kvarteret Korpen” är en odödlig Malmöskildring. Som opera blir det en levande och underbart jazzig föreställning – men hopplösheten fäster inte, skriver DN:s Kristina Lindquist.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hard to jazz up the desolation in \"Kvarteret Korpen\"",
-        "summary": "Bo Widerberg's film \"Kvarteret Korpen\" is an immortal portrayal of Malmö. As an opera it becomes a lively and wonderfully jazzy performance – but the hopelessness doesn't land, writes DN's Kristina Lindquist."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T11:26:59+01:00"
-      }
-    },
-    {
-      "id": "21152b7e750e",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/7JsWwhfEM58da3vGvy7Nxc/dansbandet-barbados-aterfoerenas-med-alla-originalmedlemmar",
-      "guid": "7JsWwhfEM58da3vGvy7Nxc",
-      "published_at": "2026-11-15T10:35:41+01:00",
-      "fetched_at": "2026-11-15T11:26:40+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "Barbados återförenas – efter snart 25 år",
-        "summary": "Carlsson lämnade Barbados hösten 2002 för en internationell karriär med Alcazar och därefter som soloartist. Nu återförenas originalmedlemmarna för en rikstäckande arenaturné. – Det har varit på tal många gånger men det ska också funka med de liv vi lever, säger basisten Peter Samuelsson.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Barbados reunites – after nearly 25 years",
-        "summary": "Carlsson left Barbados in autumn 2002 for an international career with Alcazar and later as a solo artist. Now the original members are reuniting for a nationwide arena tour. – It's been discussed many times but it also has to work with the lives we live, says bassist Peter Samuelsson."
       },
       "translation": {
         "status": "done",

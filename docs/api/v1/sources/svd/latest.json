@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-18T16:45:52+01:00",
+  "generated_at": "2026-11-18T17:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ad9f67de85fe",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/8PmEyW/svd-lajvstreamar-gta-vi",
+      "guid": "https://www.svd.se/a/8PmEyW/svd-lajvstreamar-gta-vi?utm_medium=rss",
+      "published_at": "2026-11-18T17:00:00+01:00",
+      "fetched_at": "2026-11-18T17:01:16+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/244dd42f-395f-3dbe-9a5f-76e2b61b4cd3?format=auto&s=1352294848f549efc31e943346efe355dd24b8e0&w=1000",
+      "sv": {
+        "title": "SvD livestreamar GTA VI",
+        "summary": "SvD bjuder in kända gäster för att fira årets mest hajpade spelsläpp under en åtta timmar lång…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SvD livestreams GTA VI",
+        "summary": "SvD invites well-known guests to celebrate this year's most hyped game release during an eight-hour-long…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T17:01:26+01:00"
+      }
+    },
+    {
+      "id": "4442bda240d8",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/mMRvXL/nya-betygen-kommer-inte-att-bli-rattvisa-skriver-klara-wistrand",
+      "guid": "https://www.svd.se/a/mMRvXL/nya-betygen-kommer-inte-att-bli-rattvisa-skriver-klara-wistrand?utm_medium=rss",
+      "published_at": "2026-11-18T16:45:00+01:00",
+      "fetched_at": "2026-11-18T17:01:16+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/0a8c5d61-8981-3bf8-83db-20fb727cb0b5?format=auto&s=9c718cddbdaa281c3c07deb0936b74b237e64c08&w=1000",
+      "sv": {
+        "title": "”Nya betygen kommer inte att bli rättvisa”",
+        "summary": "Att skapa strukturella hinder för en elev att få de betyg den förtjänar är fel.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"The new grades will not be fair\"",
+        "summary": "Creating structural obstacles for a pupil to get the grades they deserve is wrong."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T17:01:26+01:00"
+      }
+    },
     {
       "id": "ae0ddd4925a0",
       "schema_version": 1,
@@ -5157,56 +5211,6 @@
       "en": {
         "title": "Estonia closes border with Russia",
         "summary": "Estonia announces that on 1 December the country will close all border crossings to…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:31:03+01:00"
-      }
-    },
-    {
-      "id": "4b40436001ab",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/7P03A8/oppnar-for-andring-av-brittisk-samtyckeslag-efter-sexskandalerna",
-      "guid": "https://www.svd.se/a/7P03A8/oppnar-for-andring-av-brittisk-samtyckeslag-efter-sexskandalerna?utm_medium=rss",
-      "published_at": "2026-11-15T16:22:27+01:00",
-      "fetched_at": "2026-11-15T16:30:54+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/b62bd97e-fabc-356c-982c-3f8221cff337?format=auto&s=3fa85aa5b8adf2263760c612a1943e9af596c9c1&w=1000",
-      "sv": {
-        "title": "Efter skandalerna – vill se lagändring",
-        "summary": "Två stora skandaler om sexuella övergrepp skakar Storbritannien – nu ökar pressen ökar på regeringen…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the scandals – wants law change",
-        "summary": "Two major scandals over sexual abuse are shaking Britain – now the pressure on the government is increasing…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:31:03+01:00"
-      }
-    },
-    {
-      "id": "30122c2f2d7b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79937",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79937&utm_medium=rss",
-      "published_at": "2026-11-15T16:15:42+01:00",
-      "fetched_at": "2026-11-15T16:30:54+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Estland stänger gränsen mot Ryssland"
-      },
-      "en": {
-        "title": "Estonia closes border with Russia"
       },
       "translation": {
         "status": "done",
