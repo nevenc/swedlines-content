@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T02:01:10+01:00",
+  "generated_at": "2026-11-18T02:15:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "500dd014968b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/nya-beskedet-om-putins-hemliga-dotter",
+      "guid": "https://www.expressen.se/nyheter/varlden/nya-beskedet-om-putins-hemliga-dotter/",
+      "published_at": "2026-11-18T02:04:55+01:00",
+      "fetched_at": "2026-11-18T02:15:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Nya beskedet om Putins ”hemliga dotter”",
+        "summary": "Hon påstås vara Putins ”hemliga dotter”. Nu framkommer nya uppgifter om Luiza Rozova, 23.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New update on Putin's \"secret daughter\"",
+        "summary": "She is alleged to be Putin's \"secret daughter\". New details have emerged about Luiza Rozova, 23."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T02:15:46+01:00"
+      }
+    },
     {
       "id": "4f56effa9d67",
       "schema_version": 1,
@@ -5305,33 +5331,6 @@
       "en": {
         "title": "New electrification target could give the world a climate boost",
         "summary": "A new target for increased electrification could give the world some push to cut climate emissions, according to Olof Johansson Stenman, chair of the Climate Policy Council, at the UN climate meeting in Antalya, Turkey."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T06:01:32+01:00"
-      }
-    },
-    {
-      "id": "5ce06732a386",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/XogM7x/nytt-krig-mot-haitis-gang-efter-kidnappning-okand",
-      "guid": "https://www.svd.se/a/XogM7x/nytt-krig-mot-haitis-gang-efter-kidnappning-okand?utm_medium=rss",
-      "published_at": "2026-11-16T05:45:12+01:00",
-      "fetched_at": "2026-11-16T06:01:12+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/fc4194bf-1720-3147-9cea-b44af4cca929?format=auto&s=a31a539c764d3f18d0dd1359d05fa06f03b8323b&w=1000",
-      "sv": {
-        "title": "Nytt krig mot Haitis gäng efter kidnappning: ”Ökänd”",
-        "summary": "Presidenten i El Salvador har bestämt sig för att utrota gängen i Haiti.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New war on Haiti’s gangs after kidnapping: “Notorious”",
-        "summary": "The president of El Salvador has decided to wipe out the gangs in Haiti."
       },
       "translation": {
         "status": "done",
