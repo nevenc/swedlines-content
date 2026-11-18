@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T12:15:57+01:00",
+  "generated_at": "2026-11-18T12:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "12bccf24406b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/domkapitlet-pausar-utredning-av-birgitta-ed",
+      "guid": "9097a466-e77e-4101-a7b0-b67dd09df433",
+      "published_at": "2026-11-18T12:25:49+01:00",
+      "fetched_at": "2026-11-18T12:30:58+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/18f499f6-7b23-4db6-96fc-dac8cf24f24b.jpg?width=600",
+      "sv": {
+        "title": "Domkapitlet pausar utredning av Birgitta Ed",
+        "summary": "Domkapitlet i Strängnäs stift tar en paus i sin utredning av om statsminister Ulf Kristerssons hustru Birgitta Ed är lämplig som präst.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Diocesan chapter pauses investigation of Birgitta Ed",
+        "summary": "The diocesan chapter of the Strängnäs diocese is pausing its investigation into whether Prime Minister Ulf Kristersson's wife Birgitta Ed is suitable as a priest."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
     {
       "id": "7f0890d383fe",
       "schema_version": 1,
@@ -5144,33 +5171,6 @@
       "en": {
         "title": "Russia demands financial compensation from World Championship host",
         "summary": "If Germany bars the Russian national team from the ice hockey World Championship, Russia will demand financial compensation. A request has already been submitted to the International Ice Hockey Federation (IIHF)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:31:08+01:00"
-      }
-    },
-    {
-      "id": "b6e589632384",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/bekraftat-trump-xi-och-putin-mots-i-veckan",
-      "guid": "345ce549-4c3b-4764-8da6-f539b30eed35",
-      "published_at": "2026-11-16T09:25:41+01:00",
-      "fetched_at": "2026-11-16T09:31:01+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/a226784e-d9b6-4876-a630-583d17c99c14.jpg?width=600",
-      "sv": {
-        "title": "Bekräftat: Trump, Xi och Putin möts i veckan",
-        "summary": "Det blir ett trepartsmöte mellan Donald Trump, Xi Jinping och Vladimir Putin senare i veckan. Det står klart då även Kina bekräftar mötet. Ukrainakriget väntas dock inte stå med på dagordningen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Confirmed: Trump, Xi and Putin to meet this week",
-        "summary": "A three-way meeting between Donald Trump, Xi Jinping and Vladimir Putin will take place later this week. This became clear as China also confirmed the meeting. The Ukraine war is not, however, expected to be on the agenda."
       },
       "translation": {
         "status": "done",

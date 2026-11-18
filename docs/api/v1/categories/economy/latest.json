@@ -1,7 +1,274 @@
 {
-  "generated_at": "2026-11-18T12:15:57+01:00",
+  "generated_at": "2026-11-18T12:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "019c7fb804b8",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/morka-ai-moln-over-stormotet-i-kina",
+      "guid": "337adde6-94e8-4ce4-88b3-9616f2e8800e",
+      "published_at": "2026-11-18T12:29:13+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a876a38f-c4ba-470f-8776-acaaa5f6259c.jpeg?width=600",
+      "sv": {
+        "title": "Mörka AI-moln över stormötet i Kina",
+        "summary": "SHENZHEN. Tanken var att Donald Trump och Xi Jinping skulle hålla ett välordnat möte i Kina och ta försiktiga steg mot en mildring av handelskonflikten. Men de senaste dagarnas AI-kaos leder nu i stället till ökade spänningar. Många lokala kineser som Di talat med rycker dock på axlarna åt mötet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dark AI clouds over the summit in China",
+        "summary": "SHENZHEN. The plan was for Donald Trump and Xi Jinping to hold a well-ordered meeting in China and take cautious steps toward easing the trade conflict. But the past days' AI chaos is now instead leading to increased tensions. Many local Chinese people Di has spoken with shrug at the meeting, however."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "e0a7660d8f6b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/500-miljarder-kronor-i-nytt-eu-lan-till-ukraina",
+      "guid": "c9da5f45-ad41-43cf-8684-1a9dc8c4db54",
+      "published_at": "2026-11-18T12:26:31+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "500 miljarder kronor i nytt EU-lån till Ukraina",
+        "summary": "EU-kommissionen föreslår ett lån till Ukraina på 500 miljarder kronor för att hjälpa landet genom 2027.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SEK 500 billion in new EU loan to Ukraine",
+        "summary": "The European Commission proposes a loan to Ukraine of SEK 500 billion to help the country through 2027."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "c9f9ff295319",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/klarna-vd-n-om-tunga-chefsavhoppen-ingen-varningssignal",
+      "guid": "45382038-1f9c-48dc-ae3e-b931898fc3ac",
+      "published_at": "2026-11-18T12:24:30+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f8014eca-95e2-4647-b6d8-e5e9f579545e.jpeg?width=600",
+      "sv": {
+        "title": "Klarna-vd:n om tunga chefsavhoppen: Ingen varningssignal",
+        "summary": "Under 2026 har tre av vd:n Sebastian Siemiatkowskis närmsta toppchefer valt att lämna betaljätten Klarna, bara något år efter noteringen på New York-börsen. Grundaren och vd:n själv menar dock att det inte ska tolkas som någon varningssignal för aktien och bolaget.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Klarna CEO on senior executive departures: No warning sign",
+        "summary": "In 2026, three of CEO Sebastian Siemiatkowski's closest senior executives have chosen to leave the payments giant Klarna, just a year after its listing on the New York stock exchange. The founder and CEO himself argues, however, that this should not be interpreted as a warning sign for the share and the company."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "6de4299aa620",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345218",
+      "guid": "rss:sr.se/article/9345218",
+      "published_at": "2026-11-18T12:19:00+01:00",
+      "fetched_at": "2026-11-18T12:30:54+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Analytiker inför Anthropics notering: ”Hisnande belopp”",
+        "summary": "Under torsdagen väntas AI-jätten Anthropic, som ligger bakom tjänsten Claude, noteras på Nasdaqbörsen. Noteringen kan bli en av de största hittills, sett till börsvärde. ”Det spekuleras i att värderingen kan komma upp till 1 400 miljarder dollar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Analyst ahead of Anthropic's listing: “Staggering sum”",
+        "summary": "On Thursday, AI giant Anthropic, behind the service Claude, is expected to be listed on the Nasdaq exchange. The listing could be one of the largest so far, in terms of market value. “There is speculation that the valuation could reach USD 1,400 billion."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "a527e89d7aa3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/superbetyg-for-hajpade-spelet-aktien-stiger",
+      "guid": "fc9dc88c-266e-42d1-a053-864c838dde15",
+      "published_at": "2026-11-18T12:17:25+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/7038d03c-2375-44b3-bb40-920c6d8d6c26.jpeg?width=600",
+      "sv": {
+        "title": "Superbetyg för hajpade spelet – aktien stiger",
+        "summary": "Take Twos emotsedda storspel GTA VI fick positiva omdömen av kritikerna när recensionsembargot släpptes på onsdagen i samband med att spelet släpptes i Nya Zeeland. Take Two-aktien steg drygt 6 procent i den amerikanska förhandeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Superb reviews for the hyped game – shares rise",
+        "summary": "Take-Two's long-awaited blockbuster GTA VI received positive reviews from critics when the review embargo lifted on Wednesday, in connection with the game's release in New Zealand. Take-Two shares rose just over 6 percent in American trading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "150be3576fa6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/bred-enighet-om-klimatmalen-men-oenighet-om-vagen-dit",
+      "guid": "757a3400-7713-40d0-9bcd-bef46ba0b27b",
+      "published_at": "2026-11-18T12:17:07+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d2edfae1-0789-44b0-93f2-e693ae59e33c.jpeg?width=600",
+      "sv": {
+        "title": "Bred enighet om klimatmålen – men oenighet om vägen dit",
+        "summary": "När en ny regering tillträder, blir det bråttom att ställa om för att inte missa klimatmålen. Därför är utredningen ”Vägen mot utfasning” (SOU 2026:33), populärt kallad Styrmedelsutredningen, helt central.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Broad agreement on climate goals – but disagreement on the path there",
+        "summary": "When a new government takes office, there will be a rush to restructure in order not to miss the climate goals. That is why the inquiry “The path towards phase-out” (SOU 2026:33), popularly known as the Policy Instruments Inquiry, is absolutely central."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "0854bde7062f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/di-avslojar-storagaren-nobbar-pricer-budet-ska-ha-betydligt-mer",
+      "guid": "d0d9d35c-7845-425d-86a0-837a17c4d874",
+      "published_at": "2026-11-18T12:16:41+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/18866c4c-2d4e-4ebe-a13c-cdba527eda93.jpeg?width=600",
+      "sv": {
+        "title": "Di avslöjar: Storägaren nobbar Pricer-budet – ”ska ha betydligt mer”",
+        "summary": "Pricers storägare Göran Sundholm sågar budet på prisetikettbolaget – och uppger att han redan tackat nej. Med över 10 procent av aktierna innebär det att det nu liggande erbjudandet faller. ”Jag har sagt att jag ska ha betydligt mer”, säger den finländske entreprenören till Di.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Di reveals: Major shareholder rejects Pricer bid – “should be worth significantly more”",
+        "summary": "Pricer's major shareholder Göran Sundholm slams the bid for the price-tag company – and states that he has already turned it down. With over 10 percent of the shares, this means the current offer falls. “I have said that I should get significantly more,” says the Finnish entrepreneur to Di."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "6e020df4eda0",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/analytikern-klarna-ar-fortfarande-forlustdrivet",
+      "guid": "c04009db-7119-417a-aeeb-eab46fcb6f68",
+      "published_at": "2026-11-18T12:16:38+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1aada6bb-b3c3-4560-9a18-d0dd297d5236.jpeg?width=600",
+      "sv": {
+        "title": "Analytikern: ”Klarna är fortfarande förlustdrivet”",
+        "summary": "Lägre kreditförluster och bättre kommunikation är utropstecken i Klarnas rapport, anser Redeyes rådgivare Robin Berglund. Men han ser ändå inget köpläge i aktien.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Analyst: “Klarna is still loss-driven”",
+        "summary": "Lower credit losses and better communication are exclamation marks in Klarna's report, says Robin Berglund, adviser at Redeye. But he still sees no buying opportunity in the share."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "0717230b5968",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/nyheter/agendan-alla-ogonen-pa-anthropics-monsternotering",
+      "guid": "8ba6f39c-4b39-55bd-a145-88d1e60015fd",
+      "published_at": "2026-11-18T12:00:00+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Agendan: Alla ögonen på Anthropics monsternotering",
+        "summary": "Sam Bornstein går igenom torsdagens viktigaste marknadshändelser.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The agenda: All eyes on Anthropic's monster listing",
+        "summary": "Sam Bornstein goes through Thursday's most important market events."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "65b8a4ccabda",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/generation-z-oon-politikon",
+      "guid": "edb8cd4c-2577-4ba9-98f3-54c3b7f98437",
+      "published_at": "2026-11-18T12:00:00+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8cb4183d-7156-4b01-bc15-35d7b9ecf988.jpeg?width=600",
+      "sv": {
+        "title": "Generation (Z)oon politikon",
+        "summary": "Hur många följer COP31? Jag ställer frågan till en hel årskurs i Aulan. 300 studenter. En lärare räcker upp handen. Ingen student.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Generation (Z)oon politikon",
+        "summary": "How many follow COP31? I ask a whole year group in the Aula. 300 students. One teacher raises a hand. No students."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
     {
       "id": "774f42f0e829",
       "schema_version": 1,
@@ -4998,273 +5265,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T14:45:49+01:00"
-      }
-    },
-    {
-      "id": "e77c8781f155",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/politiken-hindrar-smaforetagen-att-vaxa",
-      "guid": "3d86612e-5ea7-4892-a15e-cef90ab9fb88",
-      "published_at": "2026-11-17T14:40:32+01:00",
-      "fetched_at": "2026-11-17T15:01:23+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/bf2e1ead-ef53-4fcd-966a-5e8f5c1e2ce8.jpeg?width=600",
-      "sv": {
-        "title": "Politiken hindrar småföretagen att växa",
-        "summary": "När Sverige får en ny regering måste regelförenklingar för småföretagen bli en prioriterad tillväxtfråga, skriver Charlotte von Sydow, vd för Spiris.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Politics is holding back small businesses from growing",
-        "summary": "When Sweden gets a new government, simplification of rules for small businesses must become a priority growth issue, writes Charlotte von Sydow, CEO of Spiris."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T15:01:28+01:00"
-      }
-    },
-    {
-      "id": "2690147de64e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/amerikanska-importpriser-steg-mer-an-vantat",
-      "guid": "f3beb491-c9ba-4638-bedf-31eb025f5c7e",
-      "published_at": "2026-11-17T14:37:14+01:00",
-      "fetched_at": "2026-11-17T14:45:43+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Amerikanska importpriser steg mer än väntat",
-        "summary": "De amerikanska importpriserna steg 1,1 procent i oktober, jämfört med månaden före. Det framgår av statistik från Bureau of Labor Statistics (BLS).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "US import prices rose more than expected",
-        "summary": "US import prices rose 1.1 percent in October compared with the previous month. This is according to statistics from the Bureau of Labor Statistics (BLS)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T14:45:49+01:00"
-      }
-    },
-    {
-      "id": "a1e89b376a4c",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/litet-amerikanskt-detaljhandelslyft",
-      "guid": "fde017c5-43de-4a55-9d6a-339bdac01e21",
-      "published_at": "2026-11-17T14:36:18+01:00",
-      "fetched_at": "2026-11-17T14:45:43+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Litet amerikanskt detaljhandelslyft",
-        "summary": "Detaljhandelns försäljning i USA steg 0,2 procent i oktober, jämfört med månaden före.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "A small US retail boost",
-        "summary": "Retail sales in the US rose 0.2 percent in October compared with the previous month."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T14:45:49+01:00"
-      }
-    },
-    {
-      "id": "577662838f1d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/analys/kop-100-smabolag-pa-en-gang",
-      "guid": "f2d1ef60-1aa6-499a-87fc-86e6465322ce",
-      "published_at": "2026-11-17T14:29:52+01:00",
-      "fetched_at": "2026-11-17T14:45:43+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/fdb38bd4-4e37-4356-8b1d-636230bfb898.jpeg?width=600",
-      "sv": {
-        "title": "Köp 100 småbolag – på en gång",
-        "summary": "Under hösten har intresset för småbolag ökat. Vi tror att trenden håller i sig och köper en bred exponering mot svenska småbolag – och lägger på lite belåning för att öka hävstången.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Buy 100 small-cap companies – all at once",
-        "summary": "Interest in small-cap companies has increased during the autumn. We believe the trend will continue and are buying broad exposure to Swedish small-cap companies – and adding some borrowing to increase leverage."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T14:45:49+01:00"
-      }
-    },
-    {
-      "id": "79d90154e604",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/techprofilernas-digitalbank-blir-paknoppad-igen",
-      "guid": "69f96452-8fd2-4409-8c18-9dc0475184da",
-      "published_at": "2026-11-17T14:23:38+01:00",
-      "fetched_at": "2026-11-17T14:31:07+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/ba3fdc0e-fe5a-47d1-a9c7-34c384a3958c.jpeg?width=600",
-      "sv": {
-        "title": "Techprofilernas digitalbank blir påknoppad igen",
-        "summary": "Den svenskgrundade digitalbanken Majority går ihop med telekombolaget Rebtel. ”Tillsammans blir vi lönsamma och skapar förmåga att investera i nya produkter”, säger vd Magnus Larsson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tech profiles' digital bank gets pumped up again",
-        "summary": "The Swedish-founded digital bank Majority is merging with telecom company Rebtel. “Together we will become profitable and gain the ability to invest in new products,” says CEO Magnus Larsson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T14:31:11+01:00"
-      }
-    },
-    {
-      "id": "cd789cb56b25",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/fed-chef-flera-hojningar-innan-varen-kan-behovas",
-      "guid": "57488568-5ed5-4886-b651-088b84d78552",
-      "published_at": "2026-11-17T13:58:44+01:00",
-      "fetched_at": "2026-11-17T14:15:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/a2605c6c-ca02-4e64-9cf7-44a5ff9bcb4b.jpeg?width=600",
-      "sv": {
-        "title": "Fed-chef: Flera höjningar innan våren kan behövas",
-        "summary": "Federal Reserve kan behöva höja räntan flera gånger före våren 2027 för att få inflationen under kontroll. Det sa Alberto Musalem, Fed-chef i St Louis, enligt Bloomberg News.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fed chief: Several rate hikes may be needed before spring",
-        "summary": "The Federal Reserve may need to raise interest rates several times before spring 2027 to bring inflation under control. This is what Alberto Musalem, Fed chief in St Louis, said according to Bloomberg News."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T14:15:55+01:00"
-      }
-    },
-    {
-      "id": "2d8b3e2948ba",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/sa-ska-skf-vertevo-sta-pa-egna-ben-en-utmanande-marknad",
-      "guid": "10560802-023b-4055-9dea-d4cc875c6912",
-      "published_at": "2026-11-17T13:56:21+01:00",
-      "fetched_at": "2026-11-17T14:01:20+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/ad869d46-65f5-46b5-88a7-5df94bd3d700.jpeg?width=600",
-      "sv": {
-        "title": "Så ska SKF Vertevo stå på egna ben: ”En utmanande marknad”",
-        "summary": "Mitt i kristider för bilindustrin ska kullagerjätten SKF:s fordonsverksamhet börsnoteras. Vd för avknoppade SKF Vertevo är Kerstin Enochsson, tidigare inköpschef på Volvo Cars. ”Det är en utmanande marknad, men vi har verkat där länge och har en bra strategi”, säger hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is how SKF Vertevo will stand on its own feet: \"A challenging market\"",
-        "summary": "In the midst of hard times for the car industry, bearing giant SKF's vehicle operations are to be listed on the stock exchange. The CEO of the spun-off SKF Vertevo is Kerstin Enochsson, formerly purchasing manager at Volvo Cars. \"It is a challenging market, but we have operated there for a long time and have a good strategy,\" she says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T14:01:28+01:00"
-      }
-    },
-    {
-      "id": "2618c5d8e4e9",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/styrelseavhopp-ger-nytt-ras-i-utbombade-bolaget",
-      "guid": "0d0bafd4-f1e7-46cd-9e20-0d0b1a2b03b2",
-      "published_at": "2026-11-17T13:54:00+01:00",
-      "fetched_at": "2026-11-17T14:01:20+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Styrelseavhopp ger nytt ras i utbombade bolaget",
-        "summary": "Styrelseledamoten Johan Eriksson avgår med omedelbar verkan från forskningsbolaget Cereno Scientifics styrelse, på egen begäran och efter stora kursförluster i bolaget. Nyheten får den redan utbombade aktien att rasa ytterligare.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Board resignation triggers new slide in the already bombed-out company",
-        "summary": "Board member Johan Eriksson is leaving the board of research company Cereno Scientific with immediate effect, at his own request and after heavy share price losses in the company. The news is sending the already battered share down further."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T14:01:28+01:00"
-      }
-    },
-    {
-      "id": "6e437708bec8",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/stada-upp-i-ai-branschen",
-      "guid": "fc586e53-9073-44e0-8fb2-3b3bfda4513b",
-      "published_at": "2026-11-17T13:52:45+01:00",
-      "fetched_at": "2026-11-17T14:01:20+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/5d1374a3-4431-4f58-8a1f-6478d904daf0.jpeg?width=600",
-      "sv": {
-        "title": "Städa upp i AI-branschen",
-        "summary": "Med AI Act införs krav på hur AI- leverantörer ska hantera risker, skydda information och skapa insyn. Det är en välkommen upprensning som sätter press på aktörer att ta ansvar och ger seriösa bolag mer rättvisa konkurrensvillkor, skriver Ricard Chramer, vd för Meetric.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Clean up the AI industry",
-        "summary": "With the AI Act, requirements are introduced on how AI providers must handle risks, protect information and create transparency. It is a welcome clean-up that puts pressure on actors to take responsibility and gives serious companies fairer competitive conditions, writes Ricard Chramer, CEO of Meetric."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T14:01:28+01:00"
-      }
-    },
-    {
-      "id": "29ab317be5c9",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/klarna-chefen-oroas-inte-av-honungsfallorna",
-      "guid": "54e2dee7-8346-4237-b358-64115c93675f",
-      "published_at": "2026-11-17T13:45:29+01:00",
-      "fetched_at": "2026-11-17T13:45:46+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/8b614095-215a-4352-97e9-ec30afbdabf7.jpg?width=600",
-      "sv": {
-        "title": "Klarna-chefen oroas inte av honungsfällorna",
-        "summary": "Betaltjänsten Klarna drog in oväntat mycket pengar på sina affärer under tredje kvartalet, visar en delårsrapport. Nya lagar och direktiv om skärpta kreditprövningar oroar inte Klarnas vd Sebastian Siemiatkowski.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Klarna CEO not worried by honey traps",
-        "summary": "Payment service Klarna drew unexpectedly large sums from its business in the third quarter, an interim report shows. New laws and directives on stricter credit checks do not worry Klarna CEO Sebastian Siemiatkowski."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:45:50+01:00"
       }
     }
   ]

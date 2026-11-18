@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-18T12:15:57+01:00",
+  "generated_at": "2026-11-18T12:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bf108689050e",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/militarexperten-attacken-mot-krimbron-kan-fa-stor-betydelse",
+      "guid": "https://www.dn.se/varlden/militarexperten-attacken-mot-krimbron-kan-fa-stor-betydelse/",
+      "published_at": "2026-11-18T12:23:02+01:00",
+      "fetched_at": "2026-11-18T12:30:55+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/90781158-cfce-4597-b39d-972df652c8a1.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Militärexperten: Attacken mot Krimbron kan få stor betydelse",
+        "summary": "Ukrainas attack förstörde stora delar av Krimbron och är en prestigeförlust för Vladimir Putin. Den annekterade halvön har nu blivit än mer isolerad – vilket kan öppna upp för nya ukrainska framryckningar. – Den ryska försörjningslinjen är väldigt försvagad nu, säger militärexperten Johan Huovinen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Military expert: Attack on the Crimean Bridge may be of great significance",
+        "summary": "Ukraine's attack destroyed large parts of the Crimean Bridge and is a loss of prestige for Vladimir Putin. The annexed peninsula has now become even more isolated – which could open the way for new Ukrainian advances. “The Russian supply line is very weakened now,” says military expert Johan Huovinen."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "29ca48dd5e63",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/kinesisk-trump-fest-pompoms-och-stat",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/kinesisk-trump-fest-pompoms-och-stat/",
+      "published_at": "2026-11-18T12:20:54+01:00",
+      "fetched_at": "2026-11-18T12:30:56+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Kinesisk Trump-fest – pompoms och ståt",
+        "summary": "Håret gungade med • Kramen med Xi",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Chinese Trump fest – pompoms and pageantry",
+        "summary": "Hair swaying with • The hug with Xi"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
     {
       "id": "054b9fd07abe",
       "schema_version": 1,
@@ -5277,62 +5330,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T16:16:22+01:00"
-      }
-    },
-    {
-      "id": "9804ab358e17",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/yz3zwr/trumps-hint-kim-jong-un-kanske-kommer",
-      "guid": "https://www.aftonbladet.se/nyheter/a/yz3zwr/trumps-hint-kim-jong-un-kanske-kommer?utm_medium=rss",
-      "published_at": "2026-11-16T15:41:49+01:00",
-      "fetched_at": "2026-11-16T22:45:43+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/f0f39441-f752-3a7c-8535-b04af60178bd?format=auto&s=f3ad68c2cf245d8d8dd211943ab2a2681e11ff10&w=1000",
-      "sv": {
-        "title": "Trumps hint: Kim Jong-un kanske kommer",
-        "summary": "Trump: ”Han kanske kommer”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump hints: Kim Jong-un may come",
-        "summary": "Trump: \"He may come\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T22:45:49+01:00"
-      }
-    },
-    {
-      "id": "4854f7a8b595",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/41LUL5S2iFcp00GAVNlGgB/en-manad-sedan-svensken-greps-ud-saknar-fortfarande-besked",
-      "guid": "41LUL5S2iFcp00GAVNlGgB",
-      "published_at": "2026-11-16T15:39:02+01:00",
-      "fetched_at": "2026-11-16T15:45:43+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "En månad sedan svensken greps – UD saknar fortfarande besked",
-        "summary": "Uppgifterna om gripandet kom den 15 oktober. Enligt den ryska underrättelsetjänsten FSB greps mannen, som är i 35-årsåldern, misstänkt för att ha ”planerat terrorattacker mot militära anläggningar” i Ryssland. I en video som FSB publicerade syns mannen förhöras.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "A month since Swede was arrested – Foreign Ministry still lacks clarity",
-        "summary": "The details of the arrest emerged on 15 October. According to the Russian intelligence service FSB, the man, who is in his mid-thirties, was arrested on suspicion of having \"planned terrorist attacks against military facilities\" in Russia. In a video published by the FSB, the man can be seen being interrogated."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:45:48+01:00"
       }
     }
   ]

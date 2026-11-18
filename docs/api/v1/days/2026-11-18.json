@@ -1,7 +1,435 @@
 {
-  "generated_at": "2026-11-18T12:15:57+01:00",
-  "count": 308,
+  "generated_at": "2026-11-18T12:31:14+01:00",
+  "count": 326,
   "items": [
+    {
+      "id": "019c7fb804b8",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/morka-ai-moln-over-stormotet-i-kina",
+      "guid": "337adde6-94e8-4ce4-88b3-9616f2e8800e",
+      "published_at": "2026-11-18T12:29:13+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a876a38f-c4ba-470f-8776-acaaa5f6259c.jpeg?width=600",
+      "sv": {
+        "title": "Mörka AI-moln över stormötet i Kina",
+        "summary": "SHENZHEN. Tanken var att Donald Trump och Xi Jinping skulle hålla ett välordnat möte i Kina och ta försiktiga steg mot en mildring av handelskonflikten. Men de senaste dagarnas AI-kaos leder nu i stället till ökade spänningar. Många lokala kineser som Di talat med rycker dock på axlarna åt mötet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dark AI clouds over the summit in China",
+        "summary": "SHENZHEN. The plan was for Donald Trump and Xi Jinping to hold a well-ordered meeting in China and take cautious steps toward easing the trade conflict. But the past days' AI chaos is now instead leading to increased tensions. Many local Chinese people Di has spoken with shrug at the meeting, however."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "e0a7660d8f6b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/500-miljarder-kronor-i-nytt-eu-lan-till-ukraina",
+      "guid": "c9da5f45-ad41-43cf-8684-1a9dc8c4db54",
+      "published_at": "2026-11-18T12:26:31+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "500 miljarder kronor i nytt EU-lån till Ukraina",
+        "summary": "EU-kommissionen föreslår ett lån till Ukraina på 500 miljarder kronor för att hjälpa landet genom 2027.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SEK 500 billion in new EU loan to Ukraine",
+        "summary": "The European Commission proposes a loan to Ukraine of SEK 500 billion to help the country through 2027."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "12bccf24406b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/domkapitlet-pausar-utredning-av-birgitta-ed",
+      "guid": "9097a466-e77e-4101-a7b0-b67dd09df433",
+      "published_at": "2026-11-18T12:25:49+01:00",
+      "fetched_at": "2026-11-18T12:30:58+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/18f499f6-7b23-4db6-96fc-dac8cf24f24b.jpg?width=600",
+      "sv": {
+        "title": "Domkapitlet pausar utredning av Birgitta Ed",
+        "summary": "Domkapitlet i Strängnäs stift tar en paus i sin utredning av om statsminister Ulf Kristerssons hustru Birgitta Ed är lämplig som präst.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Diocesan chapter pauses investigation of Birgitta Ed",
+        "summary": "The diocesan chapter of the Strängnäs diocese is pausing its investigation into whether Prime Minister Ulf Kristersson's wife Birgitta Ed is suitable as a priest."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "a52d64ab3726",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=be081fa4-3347-4398-b830-f9beb6e22f3e",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=be081fa4-3347-4398-b830-f9beb6e22f3e",
+      "published_at": "2026-11-18T12:25:28+01:00",
+      "fetched_at": "2026-11-18T12:30:56+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Bråk om älskade julgodiset",
+        "summary": "Konkurrentens ilska – vill förbjuda",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fight over the beloved Christmas candy",
+        "summary": "Rival's anger – wants to ban"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "4e4bfe508f38",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/v-bor-noja-sig-med-statssekreterare-under-s-ministrar",
+      "guid": "https://www.dn.se/insandare/v-bor-noja-sig-med-statssekreterare-under-s-ministrar/",
+      "published_at": "2026-11-18T12:25:09+01:00",
+      "fetched_at": "2026-11-18T12:30:55+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/3aaa5a84-1b11-4c89-a703-6fdd51e94be4.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. V bör nöja sig med statssekreterare under S-ministrar",
+        "summary": "INSÄNDARE. Vänsterpartiet bör omsätta sitt mandat i konkret sakpolitik och använda kravet på ministerposter som ett förhandlingskort. En lösning vore att få in ett antal statssekreterare och politiskt sakkunniga från Vänsterpartiet i Regeringskansliet, skriver tolv medlemmar i det antirasistiska…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Letter. The Left Party should settle for state secretaries under S ministers",
+        "summary": "LETTER. The Left Party should turn its mandate into concrete policy and use its demand for ministerial posts as a bargaining chip. One solution would be to secure a number of state secretaries and political advisers from the Left Party in the Government Offices, write twelve members of the anti-racist…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "c9f9ff295319",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/klarna-vd-n-om-tunga-chefsavhoppen-ingen-varningssignal",
+      "guid": "45382038-1f9c-48dc-ae3e-b931898fc3ac",
+      "published_at": "2026-11-18T12:24:30+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f8014eca-95e2-4647-b6d8-e5e9f579545e.jpeg?width=600",
+      "sv": {
+        "title": "Klarna-vd:n om tunga chefsavhoppen: Ingen varningssignal",
+        "summary": "Under 2026 har tre av vd:n Sebastian Siemiatkowskis närmsta toppchefer valt att lämna betaljätten Klarna, bara något år efter noteringen på New York-börsen. Grundaren och vd:n själv menar dock att det inte ska tolkas som någon varningssignal för aktien och bolaget.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Klarna CEO on senior executive departures: No warning sign",
+        "summary": "In 2026, three of CEO Sebastian Siemiatkowski's closest senior executives have chosen to leave the payments giant Klarna, just a year after its listing on the New York stock exchange. The founder and CEO himself argues, however, that this should not be interpreted as a warning sign for the share and the company."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "bf108689050e",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/militarexperten-attacken-mot-krimbron-kan-fa-stor-betydelse",
+      "guid": "https://www.dn.se/varlden/militarexperten-attacken-mot-krimbron-kan-fa-stor-betydelse/",
+      "published_at": "2026-11-18T12:23:02+01:00",
+      "fetched_at": "2026-11-18T12:30:55+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/90781158-cfce-4597-b39d-972df652c8a1.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Militärexperten: Attacken mot Krimbron kan få stor betydelse",
+        "summary": "Ukrainas attack förstörde stora delar av Krimbron och är en prestigeförlust för Vladimir Putin. Den annekterade halvön har nu blivit än mer isolerad – vilket kan öppna upp för nya ukrainska framryckningar. – Den ryska försörjningslinjen är väldigt försvagad nu, säger militärexperten Johan Huovinen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Military expert: Attack on the Crimean Bridge may be of great significance",
+        "summary": "Ukraine's attack destroyed large parts of the Crimean Bridge and is a loss of prestige for Vladimir Putin. The annexed peninsula has now become even more isolated – which could open the way for new Ukrainian advances. “The Russian supply line is very weakened now,” says military expert Johan Huovinen."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "29ca48dd5e63",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/kinesisk-trump-fest-pompoms-och-stat",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/kinesisk-trump-fest-pompoms-och-stat/",
+      "published_at": "2026-11-18T12:20:54+01:00",
+      "fetched_at": "2026-11-18T12:30:56+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Kinesisk Trump-fest – pompoms och ståt",
+        "summary": "Håret gungade med • Kramen med Xi",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Chinese Trump fest – pompoms and pageantry",
+        "summary": "Hair swaying with • The hug with Xi"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "0d95da422508",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/frida-karlsson-i-ratten-vill-att-det-ska-ta-slut",
+      "guid": "https://www.dn.se/sport/frida-karlsson-i-ratten-vill-att-det-ska-ta-slut/",
+      "published_at": "2026-11-18T12:19:44+01:00",
+      "fetched_at": "2026-11-18T12:30:55+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/4860d3ef-7915-4952-a2d5-a2431a82b002.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Frida Karlsson i rätten: ”Vill att det ska ta slut”",
+        "summary": "Det var en känslosam Frida Karlsson som återigen mötte sin misstänkte stalker i rätten. Mannen som misstänks ha förföljt henne nekar till brott. – Jag vill bara att det ska ta slut, sade skidstjärnan via videolänk under sitt förhör.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Frida Karlsson in court: “Want it to end”",
+        "summary": "It was an emotional Frida Karlsson who once again met her suspected stalker in court. The man suspected of having stalked her denies any crime. “I just want it to end,” the ski star said via video link during her questioning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "235464a66d81",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Vxbdm6/busch-kritisk-till-anderssons-strategi-mot-centerpartiet",
+      "guid": "https://www.svd.se/a/Vxbdm6/busch-kritisk-till-anderssons-strategi-mot-centerpartiet?utm_medium=rss",
+      "published_at": "2026-11-18T12:19:44+01:00",
+      "fetched_at": "2026-11-18T12:30:55+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/6d466b36-9ef2-3670-94ed-392558a1d406?format=auto&s=f927694d7a1ff9e0ad185a92092a5f3fdbbcb518&w=1000",
+      "sv": {
+        "title": "Attacken: ”Pinpointat varenda centerpartist”",
+        "summary": "Ebba Busch går till anfall mot Magdalena Anderssons strategi. Hon menar att S…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The attack: “Pinpointed every Centre Party member”",
+        "summary": "Ebba Busch attacks Magdalena Andersson's strategy. She argues that S…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "6dddda5c40ac",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/8PmxQr/tva-unga-man-atalas-for-dodsmisshandel-i-karlstad",
+      "guid": "https://www.aftonbladet.se/nyheter/a/8PmxQr/tva-unga-man-atalas-for-dodsmisshandel-i-karlstad?utm_medium=rss",
+      "published_at": "2026-11-18T12:19:14+01:00",
+      "fetched_at": "2026-11-18T12:30:55+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/90834d25-fd73-38be-be1d-0730795634b1?format=auto&s=a70985ebf03c1d28706443dc873462fcf46590de&w=1000",
+      "sv": {
+        "title": "Två unga män åtalas för dödsmisshandel i Karlstad",
+        "summary": "Två män i 20-årsåldern åtalas misstänkta för dödsmisshandeln av en man i 50-årsåldern i Karlstad i…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two young men charged with fatal assault in Karlstad",
+        "summary": "Two men in their 20s are charged on suspicion of fatally assaulting a man in his 50s in Karlstad in…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "6de4299aa620",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345218",
+      "guid": "rss:sr.se/article/9345218",
+      "published_at": "2026-11-18T12:19:00+01:00",
+      "fetched_at": "2026-11-18T12:30:54+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Analytiker inför Anthropics notering: ”Hisnande belopp”",
+        "summary": "Under torsdagen väntas AI-jätten Anthropic, som ligger bakom tjänsten Claude, noteras på Nasdaqbörsen. Noteringen kan bli en av de största hittills, sett till börsvärde. ”Det spekuleras i att värderingen kan komma upp till 1 400 miljarder dollar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Analyst ahead of Anthropic's listing: “Staggering sum”",
+        "summary": "On Thursday, AI giant Anthropic, behind the service Claude, is expected to be listed on the Nasdaq exchange. The listing could be one of the largest so far, in terms of market value. “There is speculation that the valuation could reach USD 1,400 billion."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "a527e89d7aa3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/superbetyg-for-hajpade-spelet-aktien-stiger",
+      "guid": "fc9dc88c-266e-42d1-a053-864c838dde15",
+      "published_at": "2026-11-18T12:17:25+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/7038d03c-2375-44b3-bb40-920c6d8d6c26.jpeg?width=600",
+      "sv": {
+        "title": "Superbetyg för hajpade spelet – aktien stiger",
+        "summary": "Take Twos emotsedda storspel GTA VI fick positiva omdömen av kritikerna när recensionsembargot släpptes på onsdagen i samband med att spelet släpptes i Nya Zeeland. Take Two-aktien steg drygt 6 procent i den amerikanska förhandeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Superb reviews for the hyped game – shares rise",
+        "summary": "Take-Two's long-awaited blockbuster GTA VI received positive reviews from critics when the review embargo lifted on Wednesday, in connection with the game's release in New Zealand. Take-Two shares rose just over 6 percent in American trading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "150be3576fa6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/bred-enighet-om-klimatmalen-men-oenighet-om-vagen-dit",
+      "guid": "757a3400-7713-40d0-9bcd-bef46ba0b27b",
+      "published_at": "2026-11-18T12:17:07+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d2edfae1-0789-44b0-93f2-e693ae59e33c.jpeg?width=600",
+      "sv": {
+        "title": "Bred enighet om klimatmålen – men oenighet om vägen dit",
+        "summary": "När en ny regering tillträder, blir det bråttom att ställa om för att inte missa klimatmålen. Därför är utredningen ”Vägen mot utfasning” (SOU 2026:33), populärt kallad Styrmedelsutredningen, helt central.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Broad agreement on climate goals – but disagreement on the path there",
+        "summary": "When a new government takes office, there will be a rush to restructure in order not to miss the climate goals. That is why the inquiry “The path towards phase-out” (SOU 2026:33), popularly known as the Policy Instruments Inquiry, is absolutely central."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "0854bde7062f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/di-avslojar-storagaren-nobbar-pricer-budet-ska-ha-betydligt-mer",
+      "guid": "d0d9d35c-7845-425d-86a0-837a17c4d874",
+      "published_at": "2026-11-18T12:16:41+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/18866c4c-2d4e-4ebe-a13c-cdba527eda93.jpeg?width=600",
+      "sv": {
+        "title": "Di avslöjar: Storägaren nobbar Pricer-budet – ”ska ha betydligt mer”",
+        "summary": "Pricers storägare Göran Sundholm sågar budet på prisetikettbolaget – och uppger att han redan tackat nej. Med över 10 procent av aktierna innebär det att det nu liggande erbjudandet faller. ”Jag har sagt att jag ska ha betydligt mer”, säger den finländske entreprenören till Di.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Di reveals: Major shareholder rejects Pricer bid – “should be worth significantly more”",
+        "summary": "Pricer's major shareholder Göran Sundholm slams the bid for the price-tag company – and states that he has already turned it down. With over 10 percent of the shares, this means the current offer falls. “I have said that I should get significantly more,” says the Finnish entrepreneur to Di."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "6e020df4eda0",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/analytikern-klarna-ar-fortfarande-forlustdrivet",
+      "guid": "c04009db-7119-417a-aeeb-eab46fcb6f68",
+      "published_at": "2026-11-18T12:16:38+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1aada6bb-b3c3-4560-9a18-d0dd297d5236.jpeg?width=600",
+      "sv": {
+        "title": "Analytikern: ”Klarna är fortfarande förlustdrivet”",
+        "summary": "Lägre kreditförluster och bättre kommunikation är utropstecken i Klarnas rapport, anser Redeyes rådgivare Robin Berglund. Men han ser ändå inget köpläge i aktien.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Analyst: “Klarna is still loss-driven”",
+        "summary": "Lower credit losses and better communication are exclamation marks in Klarna's report, says Robin Berglund, adviser at Redeye. But he still sees no buying opportunity in the share."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
     {
       "id": "2e9835caff1d",
       "schema_version": 1,
@@ -174,6 +602,59 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T12:15:57+01:00"
+      }
+    },
+    {
+      "id": "0717230b5968",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/nyheter/agendan-alla-ogonen-pa-anthropics-monsternotering",
+      "guid": "8ba6f39c-4b39-55bd-a145-88d1e60015fd",
+      "published_at": "2026-11-18T12:00:00+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Agendan: Alla ögonen på Anthropics monsternotering",
+        "summary": "Sam Bornstein går igenom torsdagens viktigaste marknadshändelser.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The agenda: All eyes on Anthropic's monster listing",
+        "summary": "Sam Bornstein goes through Thursday's most important market events."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
+      }
+    },
+    {
+      "id": "65b8a4ccabda",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/generation-z-oon-politikon",
+      "guid": "edb8cd4c-2577-4ba9-98f3-54c3b7f98437",
+      "published_at": "2026-11-18T12:00:00+01:00",
+      "fetched_at": "2026-11-18T12:30:57+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8cb4183d-7156-4b01-bc15-35d7b9ecf988.jpeg?width=600",
+      "sv": {
+        "title": "Generation (Z)oon politikon",
+        "summary": "Hur många följer COP31? Jag ställer frågan till en hel årskurs i Aulan. 300 studenter. En lärare räcker upp handen. Ingen student.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Generation (Z)oon politikon",
+        "summary": "How many follow COP31? I ask a whole year group in the Aula. 300 students. One teacher raises a hand. No students."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:31:14+01:00"
       }
     },
     {
