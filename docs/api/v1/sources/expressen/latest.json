@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T12:45:52+01:00",
+  "generated_at": "2026-11-18T13:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f2d5c1fe7b92",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/tva-man-atalas-for-dodsmisshandeln-av-mattias-48-i-karlstad",
+      "guid": "https://www.expressen.se/nyheter/sverige/tva-man-atalas-for-dodsmisshandeln-av-mattias-48-i-karlstad/",
+      "published_at": "2026-11-18T12:50:27+01:00",
+      "fetched_at": "2026-11-18T13:01:16+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Två män åtalas för dödsmisshandeln av Mattias, 48, i Karlstad",
+        "summary": "Två män i 20-årsåldern har åtalats för dödsmisshandeln av Mattias, 48, i Karlstad i somras, rapporterar Nya Wermlands-Tidningen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two men charged over fatal assault of Mattias, 48, in Karlstad",
+        "summary": "Two men in their 20s have been charged over the fatal assault of Mattias, 48, in Karlstad last summer, reports Nya Wermlands-Tidningen."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:01:24+01:00"
+      }
+    },
     {
       "id": "a52d64ab3726",
       "schema_version": 1,
@@ -5161,32 +5187,6 @@
       "en": {
         "title": "Putin's demand over Europe to end the war",
         "summary": "Putin demands that Britain stop defending Europe with nuclear weapons, writes the Telegraph. It is a must for peace in Ukraine to be possible, according to the Russian president. But the British reject the Russian demand."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T01:26:27+01:00"
-      }
-    },
-    {
-      "id": "609e8fd48c1e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/turister-struntade-i-varning-tva-dog",
-      "guid": "https://www.expressen.se/nyheter/varlden/turister-struntade-i-varning-tva-dog/",
-      "published_at": "2026-11-14T23:56:52+01:00",
-      "fetched_at": "2026-11-15T01:26:20+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Turister struntade i varning – två dog",
-        "summary": "De två amerikanerna ignorerade varningen på semesterfavoriten Bahamas. Det blev turisternas död, skriver ABC News.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tourists ignored warning – two died",
-        "summary": "The two Americans ignored the warning at the holiday favourite Bahamas. It became the death of the tourists, writes ABC News."
       },
       "translation": {
         "status": "done",

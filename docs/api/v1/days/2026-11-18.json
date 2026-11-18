@@ -1,7 +1,272 @@
 {
-  "generated_at": "2026-11-18T12:45:52+01:00",
-  "count": 336,
+  "generated_at": "2026-11-18T13:01:24+01:00",
+  "count": 346,
   "items": [
+    {
+      "id": "0c7d902813c0",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/skane/har-skulle-skane-fa-ett-nytt-barseback-men-planen-har-slagit-helt-fel",
+      "guid": "1d896ac7-170e-4664-b17b-e313a8761995",
+      "published_at": "2026-11-18T13:00:00+01:00",
+      "fetched_at": "2026-11-18T13:01:18+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/d9108ae6-cb3a-492b-a7d4-3b03e8fc1f05.jpeg?width=600",
+      "sv": {
+        "title": "Här skulle Skåne få ett nytt Barsebäck – men planen har slagit helt fel"
+      },
+      "en": {
+        "title": "Here Skåne was to get a new Barsebäck – but the plan has gone completely wrong"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:01:24+01:00"
+      }
+    },
+    {
+      "id": "75cfe027eb76",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/vellinge/vellinge-slar-av-pa-byggtakten-investeringar-for-300-miljoner-2027",
+      "guid": "792ae476-01f8-48e7-95a8-110a0f5617dd",
+      "published_at": "2026-11-18T13:00:00+01:00",
+      "fetched_at": "2026-11-18T13:01:18+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/95dc4667-4437-4c8f-9d4e-fb24b74a1adf.jpeg?width=600",
+      "sv": {
+        "title": "Vellinge slår av på byggtakten – investeringar för 300 miljoner 2027",
+        "summary": "Efter flera stora byggen av skolor och omsorgsverksamheter slår Vellinge av på investeringstakten. Men trots det väntar en del stora satsningar även de närmaste åren. Det har blivit dags igen för politikerna att besluta om hur Vellinge kommuns pengar ska användas nästa år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Vellinge slows building pace – investments of SEK 300 million in 2027",
+        "summary": "After several major builds of schools and care facilities, Vellinge is slowing its investment pace. Yet a number of large projects are still planned in the coming years. It is once again time for politicians to decide how Vellinge municipality's money will be used next year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:01:24+01:00"
+      }
+    },
+    {
+      "id": "875872855b84",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/eqt-overvager-salja-indisk-fertilitetskedja",
+      "guid": "1ad56834-3d6e-40ef-ad0c-b47cd38f6059",
+      "published_at": "2026-11-18T12:58:36+01:00",
+      "fetched_at": "2026-11-18T13:01:17+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/71698bca-8898-4b19-8062-513ead8dd17b.jpeg?width=600",
+      "sv": {
+        "title": "EQT överväger sälja indisk fertilitetskedja",
+        "summary": "EQT uppges överväga att sälja sin indiska fertilitetsverksamhet Indira IVF Hospital, landets största, till en värdering motsvarande runt 15 miljarder kronor. Det skriver Bloomberg baserat på källor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EQT considers selling Indian fertility chain",
+        "summary": "EQT is reportedly considering selling its Indian fertility business Indira IVF Hospital, the country's largest, at a valuation of around SEK 15 billion. Bloomberg writes this based on sources."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:01:24+01:00"
+      }
+    },
+    {
+      "id": "c23588c79d16",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/universitetet-har-skickat-ut-47-000-kataloger-med-fel-namn",
+      "guid": "https://www.svt.se/nyheter/lokalt/ost/universitetet-har-skickat-ut-47-000-kataloger-med-fel-namn",
+      "published_at": "2026-11-18T12:55:23+01:00",
+      "fetched_at": "2026-11-18T13:01:13+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Universitetet har skickat ut 47 000 kataloger med fel namn",
+        "summary": "47 000 kataloger om programmen och studentlivet vid Linköpings universitet har skickats ut till gymnasieelever i hela landet som snart ska ta studenten. Men förnamnen har blandats ihop och alla kataloger har postats med felaktiga namn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "University has sent out 47,000 catalogues with wrong names",
+        "summary": "47,000 catalogues about programmes and student life at Linköping University have been sent to upper secondary school students across the country who will soon take their final exams. But the first names have been mixed up and all catalogues were posted with incorrect names."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:01:24+01:00"
+      }
+    },
+    {
+      "id": "254f4e5e60da",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345129",
+      "guid": "rss:sr.se/article/9345129",
+      "published_at": "2026-11-18T12:53:00+01:00",
+      "fetched_at": "2026-11-18T13:01:14+01:00",
+      "category": "world",
+      "sv": {
+        "title": "EU: Nytt lån på 500 miljarder till Ukraina",
+        "summary": "EU-kommissionen föreslår ett lån till Ukraina på 500 miljarder kronor för att hjälpa landet genom 2027. Det meddelade EU-kommissionen idag. Ytterligare ett sanktionspaket riktat mot Ryssland ska presenteras nästa vecka enligt kommissionens ordförande Ursula von der Leyen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EU: New loan of SEK 500 billion to Ukraine",
+        "summary": "The European Commission proposes a loan to Ukraine of SEK 500 billion to help the country through 2027. The European Commission announced this today. A further sanctions package targeting Russia is to be presented next week, according to Commission President Ursula von der Leyen."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:01:24+01:00"
+      }
+    },
+    {
+      "id": "f2d5c1fe7b92",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/tva-man-atalas-for-dodsmisshandeln-av-mattias-48-i-karlstad",
+      "guid": "https://www.expressen.se/nyheter/sverige/tva-man-atalas-for-dodsmisshandeln-av-mattias-48-i-karlstad/",
+      "published_at": "2026-11-18T12:50:27+01:00",
+      "fetched_at": "2026-11-18T13:01:16+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Två män åtalas för dödsmisshandeln av Mattias, 48, i Karlstad",
+        "summary": "Två män i 20-årsåldern har åtalats för dödsmisshandeln av Mattias, 48, i Karlstad i somras, rapporterar Nya Wermlands-Tidningen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two men charged over fatal assault of Mattias, 48, in Karlstad",
+        "summary": "Two men in their 20s have been charged over the fatal assault of Mattias, 48, in Karlstad last summer, reports Nya Wermlands-Tidningen."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:01:24+01:00"
+      }
+    },
+    {
+      "id": "649d30bf2029",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/sa-sakrade-nordnet-forspranget-i-anthropic",
+      "guid": "6c58a5f9-302b-4834-b328-f33bf1447e98",
+      "published_at": "2026-11-18T12:49:55+01:00",
+      "fetched_at": "2026-11-18T13:01:17+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/96d0d741-04c3-40d3-95f9-2e5735ca7ba7.jpeg?width=600",
+      "sv": {
+        "title": "Så säkrade Nordnet försprånget i Anthropic",
+        "summary": "När Anthropic går till börsen har Nordnet något som Avanza saknar: möjligheten att erbjuda småspararna teckning inför noteringen. Nordnet lägger locket på om hur affären kom till – men spåren leder till en Wall Street-jätte.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is how Nordnet secured its position in Anthropic",
+        "summary": "When Anthropic goes public, Nordnet has something Avanza lacks: the ability to offer small savers subscriptions ahead of the listing. Nordnet does not disclose how the deal came about – but the trail leads to a Wall Street giant."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:01:24+01:00"
+      }
+    },
+    {
+      "id": "f6b2e649c63f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/demonstration-oroar-butiker-hojer-sakerheten",
+      "guid": "15e5816c-5db9-43ef-a235-8e433e42c75c",
+      "published_at": "2026-11-18T12:49:02+01:00",
+      "fetched_at": "2026-11-18T13:01:17+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/309a0947-20c9-4b91-b033-3b1929689914.jpeg?width=600",
+      "sv": {
+        "title": "Demonstration oroar butiker – höjer säkerheten",
+        "summary": "Fredagen den 20 november planeras en demonstration i Stockholm. Bland annat är Ung Vänster och Revolutionär Kommunistisk Ungdom organisatörer. Även grupper som Extinction Rebellion stödjer demonstrationen. Det har fått vissa butiker att höja sin säkerhet i innerstaden. Men polisen är inte orolig.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Demonstration worries shops – raises security",
+        "summary": "A demonstration is planned in Stockholm on Friday 20 November. Ung Vänster and Revolutionär Kommunistisk Ungdom are among the organisers. Groups such as Extinction Rebellion also support the demonstration. This has led some shops in the city centre to raise their security. But the police are not worried."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:01:24+01:00"
+      }
+    },
+    {
+      "id": "4fc6ba581852",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6f9Fs3LpDMUXW0YZnGAyFb/ny-teknik-ska-underlaetta-foer-kolpatienter",
+      "guid": "6f9Fs3LpDMUXW0YZnGAyFb",
+      "published_at": "2026-11-18T12:45:05+01:00",
+      "fetched_at": "2026-11-18T13:01:16+01:00",
+      "category": "science_tech",
+      "feed_categories": [
+        "Nyhetsmorgon"
+      ],
+      "sv": {
+        "title": "Ny teknik ska underlätta för kolpatienter",
+        "summary": "För patienter med kol är det viktigt att få snabb behandling när man behöver det – men hur vet man om man behöver vård? Det ska en ny teknik nu hjälpa till med.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "New technology to ease life for COPD patients",
+        "summary": "For patients with COPD, it is important to get quick treatment when needed – but how do you know whether you need care? A new technology is now set to help with that."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:01:24+01:00"
+      }
+    },
+    {
+      "id": "92d6ccef2556",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345242",
+      "guid": "rss:sr.se/article/9345242",
+      "published_at": "2026-11-18T12:44:00+01:00",
+      "fetched_at": "2026-11-18T13:01:14+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Regeringens besked om ryska idrottare: ”Väldigt väntat”",
+        "summary": "Regeringen sa under en pressträff på onsdagen att ryska idrottare kan innebära en säkerhetsrisk för Sverige, vilket i sin tur kan möjliggöra för myndigheter att neka visum för ryska idrottare.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Government's decision on Russian athletes: \"Very expected\"",
+        "summary": "At a press conference on Wednesday, the government said Russian athletes may pose a security risk to Sweden, which in turn could enable authorities to deny visas to Russian athletes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:01:24+01:00"
+      }
+    },
     {
       "id": "7c66e7c6cb3f",
       "schema_version": 1,

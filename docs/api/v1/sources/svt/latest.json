@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T12:45:52+01:00",
+  "generated_at": "2026-11-18T13:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c23588c79d16",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/universitetet-har-skickat-ut-47-000-kataloger-med-fel-namn",
+      "guid": "https://www.svt.se/nyheter/lokalt/ost/universitetet-har-skickat-ut-47-000-kataloger-med-fel-namn",
+      "published_at": "2026-11-18T12:55:23+01:00",
+      "fetched_at": "2026-11-18T13:01:13+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Universitetet har skickat ut 47 000 kataloger med fel namn",
+        "summary": "47 000 kataloger om programmen och studentlivet vid Linköpings universitet har skickats ut till gymnasieelever i hela landet som snart ska ta studenten. Men förnamnen har blandats ihop och alla kataloger har postats med felaktiga namn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "University has sent out 47,000 catalogues with wrong names",
+        "summary": "47,000 catalogues about programmes and student life at Linköping University have been sent to upper secondary school students across the country who will soon take their final exams. But the first names have been mixed up and all catalogues were posted with incorrect names."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:01:24+01:00"
+      }
+    },
     {
       "id": "7c66e7c6cb3f",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Therese Johaug laughs after SVT's revelation: 'Fake news'",
         "summary": "Therese Johaug has got cold feet after SVT Sport earlier this week revealed her target time for her marathon debut in Valencia. – Fake news, laughs Johaug on the podcast Gukild & Johaug."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "11a24d981538",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/dyrare-diesel-kungligt-kalas-och-fangelseplatser-det-innehaller-budgeten",
-      "guid": "https://www.svt.se/nyheter/inrikes/dyrare-diesel-kungligt-kalas-och-fangelseplatser-det-innehaller-budgeten",
-      "published_at": "2026-11-12T08:00:04+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Dyrare diesel, kungligt kalas och fängelseplatser – det innehåller budgeten",
-        "summary": "Idag presenterar Elisabeth Svantesson (M) sin övergångsbudget. Den har tagits fram utifrån strikta regler, men finansministern har ändå gjort vissa undantag.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Dearer diesel, royal celebration and prison places – this is what the budget contains",
-        "summary": "Today Elisabeth Svantesson (M) presents her transitional budget. It has been drawn up under strict rules, but the finance minister has still made certain exceptions."
       },
       "translation": {
         "status": "done",

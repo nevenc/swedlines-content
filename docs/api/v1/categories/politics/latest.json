@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T12:45:52+01:00",
+  "generated_at": "2026-11-18T13:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "92d6ccef2556",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345242",
+      "guid": "rss:sr.se/article/9345242",
+      "published_at": "2026-11-18T12:44:00+01:00",
+      "fetched_at": "2026-11-18T13:01:14+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Regeringens besked om ryska idrottare: ”Väldigt väntat”",
+        "summary": "Regeringen sa under en pressträff på onsdagen att ryska idrottare kan innebära en säkerhetsrisk för Sverige, vilket i sin tur kan möjliggöra för myndigheter att neka visum för ryska idrottare.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Government's decision on Russian athletes: \"Very expected\"",
+        "summary": "At a press conference on Wednesday, the government said Russian athletes may pose a security risk to Sweden, which in turn could enable authorities to deny visas to Russian athletes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:01:24+01:00"
+      }
+    },
     {
       "id": "235464a66d81",
       "schema_version": 1,
@@ -5377,32 +5403,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T23:15:46+01:00"
-      }
-    },
-    {
-      "id": "0ab3eeed0f2c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/ida-gabrielsson-v-efter-cs-val-ska-inga-i-regeringen",
-      "guid": "https://www.expressen.se/nyheter/sverige/ida-gabrielsson-v-efter-cs-val-ska-inga-i-regeringen/",
-      "published_at": "2026-11-15T20:49:25+01:00",
-      "fetched_at": "2026-11-15T21:01:07+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Ida Gabrielsson (V) efter C:s val: ”Ska ingå i regeringen”",
-        "summary": "Centerpartiet väljer Magdalena Anderssons totalpaket. Då återupprepar V sina regeringskrav. – Beskedet att vi ska ingå i regeringen, ligger fast, säger vice partiledare Ida Gabrielsson till SVT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ida Gabrielsson (V) after the Centre Party's choice: \"Will be part of the government\"",
-        "summary": "The Centre Party chooses Magdalena Andersson's package deal. The Left Party then reiterates its government demands. – The message that we will be part of the government stands, says deputy party leader Ida Gabrielsson to SVT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T21:01:14+01:00"
       }
     }
   ]

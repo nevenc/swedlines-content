@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-18T12:45:52+01:00",
+  "generated_at": "2026-11-18T13:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0c7d902813c0",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/skane/har-skulle-skane-fa-ett-nytt-barseback-men-planen-har-slagit-helt-fel",
+      "guid": "1d896ac7-170e-4664-b17b-e313a8761995",
+      "published_at": "2026-11-18T13:00:00+01:00",
+      "fetched_at": "2026-11-18T13:01:18+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/d9108ae6-cb3a-492b-a7d4-3b03e8fc1f05.jpeg?width=600",
+      "sv": {
+        "title": "Här skulle Skåne få ett nytt Barsebäck – men planen har slagit helt fel"
+      },
+      "en": {
+        "title": "Here Skåne was to get a new Barsebäck – but the plan has gone completely wrong"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:01:24+01:00"
+      }
+    },
+    {
+      "id": "75cfe027eb76",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/vellinge/vellinge-slar-av-pa-byggtakten-investeringar-for-300-miljoner-2027",
+      "guid": "792ae476-01f8-48e7-95a8-110a0f5617dd",
+      "published_at": "2026-11-18T13:00:00+01:00",
+      "fetched_at": "2026-11-18T13:01:18+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/95dc4667-4437-4c8f-9d4e-fb24b74a1adf.jpeg?width=600",
+      "sv": {
+        "title": "Vellinge slår av på byggtakten – investeringar för 300 miljoner 2027",
+        "summary": "Efter flera stora byggen av skolor och omsorgsverksamheter slår Vellinge av på investeringstakten. Men trots det väntar en del stora satsningar även de närmaste åren. Det har blivit dags igen för politikerna att besluta om hur Vellinge kommuns pengar ska användas nästa år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Vellinge slows building pace – investments of SEK 300 million in 2027",
+        "summary": "After several major builds of schools and care facilities, Vellinge is slowing its investment pace. Yet a number of large projects are still planned in the coming years. It is once again time for politicians to decide how Vellinge municipality's money will be used next year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:01:24+01:00"
+      }
+    },
+    {
+      "id": "c23588c79d16",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/universitetet-har-skickat-ut-47-000-kataloger-med-fel-namn",
+      "guid": "https://www.svt.se/nyheter/lokalt/ost/universitetet-har-skickat-ut-47-000-kataloger-med-fel-namn",
+      "published_at": "2026-11-18T12:55:23+01:00",
+      "fetched_at": "2026-11-18T13:01:13+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Universitetet har skickat ut 47 000 kataloger med fel namn",
+        "summary": "47 000 kataloger om programmen och studentlivet vid Linköpings universitet har skickats ut till gymnasieelever i hela landet som snart ska ta studenten. Men förnamnen har blandats ihop och alla kataloger har postats med felaktiga namn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "University has sent out 47,000 catalogues with wrong names",
+        "summary": "47,000 catalogues about programmes and student life at Linköping University have been sent to upper secondary school students across the country who will soon take their final exams. But the first names have been mixed up and all catalogues were posted with incorrect names."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:01:24+01:00"
+      }
+    },
     {
       "id": "12bccf24406b",
       "schema_version": 1,
@@ -5350,84 +5427,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "f7466653152e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/villabrand-i-stode-e14-avstangd-under-slackningsarbetet",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/villabrand-i-stode-e14-avstangd-under-slackningsarbetet",
-      "published_at": "2026-11-14T09:57:21+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Villabrand i Stöde: ”Får brinna ner”",
-        "summary": "Räddningstjänsten i Medelpad fick på lördagen larm om en brand i Stöde. Branden startade i en carport och spred sig därefter till boningshuset, som enligt räddningstjänsten var övertänt. Trafiken på E14 var under en tid helt avstängd.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "House fire in Stöde: \"Will burn down\"",
-        "summary": "The rescue service in Medelpad received an alarm on Saturday about a fire in Stöde. The fire started in a carport and then spread to the house, which according to the rescue service was fully engulfed. Traffic on the E14 was completely closed for a time."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "573b1304d359",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/man-forsvunnen-helikopter-satts-in",
-      "guid": "https://www.expressen.se/nyheter/sverige/man-forsvunnen-helikopter-satts-in/",
-      "published_at": "2026-11-14T09:32:46+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Försvunnen man i Kristianstad hittad",
-        "summary": "Polisen söker efter en förvunnen man utanför Kristianstad. Nu sätts helikopter in – och polisen vädjar om hjälp från allmänheten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Missing man in Kristianstad found",
-        "summary": "Police are searching for a missing man outside Kristianstad. Now a helicopter is being deployed – and police are appealing for help from the public."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:32+01:00"
-      }
-    },
-    {
-      "id": "43bc455e4211",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/kalvklippet-vacker-ilska-koncentrationslager-for-kor",
-      "guid": "https://www.svt.se/nyheter/utrikes/kalvklippet-vacker-ilska-koncentrationslager-for-kor",
-      "published_at": "2026-11-14T09:24:58+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Kalvklippet väcker ilska: ”Koncentrationsläger för kor”",
-        "summary": "”Är detta AI? Man måste vara psykopat för att bygga det här”, skriver en av dem som sett klippet på de tiotusentals kalvarna som hålls ensamma i rader av hyddor. Men videon är äkta – och fenomenet förekommer även i Sverige fast i mindre skala, visar Verifieringshjälpens granskning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Calf clip sparks anger: ”Concentration camp for cows”",
-        "summary": "”Is this AI? You have to be a psychopath to build this”, writes one of those who saw the clip of the tens of thousands of calves kept alone in rows of huts. But the video is authentic – and the phenomenon also occurs in Sweden, though on a smaller scale, the Verifieringshjälpen investigation shows."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:32+01:00"
       }
     }
   ]
