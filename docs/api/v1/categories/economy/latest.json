@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-18T09:31:21+01:00",
+  "generated_at": "2026-11-18T09:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "af1bc2c3bcf5",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/vkmBlj/klarna-vill-ha-uppgifter-om-din-lon-sa-paverkas-du-av-nya-kreditlagen",
+      "guid": "https://www.svd.se/a/vkmBlj/klarna-vill-ha-uppgifter-om-din-lon-sa-paverkas-du-av-nya-kreditlagen?utm_medium=rss",
+      "published_at": "2026-11-18T09:35:45+01:00",
+      "fetched_at": "2026-11-18T09:45:43+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/fd8a210c-354f-3418-8729-26cc44670dce?format=auto&s=713eb63dd155292cb66dac36950bc19a6619075a&w=1000",
+      "sv": {
+        "title": "Nya kreditregler – då nekas ditt köp",
+        "summary": "Nu skärps reglerna för kreditköp – och betalbolag som Klarna måste pröva om du verkligen har råd med…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New credit rules – this is when your purchase is denied",
+        "summary": "Now the rules for credit purchases are tightened – and payment companies such as Klarna must assess whether you can really afford…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:45:56+01:00"
+      }
+    },
+    {
+      "id": "e5d57e3ae3b1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/volvo-bussar-tar-order-pa-108-bussar-i-peru",
+      "guid": "3432022f-947c-4887-8042-e39e115f6a37",
+      "published_at": "2026-11-18T09:35:42+01:00",
+      "fetched_at": "2026-11-18T09:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Volvo Bussar tar order på 108 bussar i Peru",
+        "summary": "Volvo Bussar har fått två order om totalt 108 bussar i Peru. Det framgår av ett pressmeddelande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Volvo Buses wins orders for 108 buses in Peru",
+        "summary": "Volvo Buses has received two orders totalling 108 buses in Peru. This is according to a press release."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:45:56+01:00"
+      }
+    },
     {
       "id": "c1fc0660b845",
       "schema_version": 1,
@@ -5203,60 +5256,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T12:16:04+01:00"
-      }
-    },
-    {
-      "id": "68447f709d7f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/le-pen-vill-sanka-pensionsaldern",
-      "guid": "f03ebe52-e907-428c-98a3-d6e4651c1948",
-      "published_at": "2026-11-17T11:53:46+01:00",
-      "fetched_at": "2026-11-17T12:01:16+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6c0e3e46-49dc-4291-9a3f-f82924f5b34c.jpeg?width=600",
-      "sv": {
-        "title": "Le Pen vill sänka pensionsåldern",
-        "summary": "Marine Le Pen föreslår en pensionsreform där pensionsåldern i Frankrike blir mellan 60 och 62 år och att en pensionsfond på 900 miljarder euro skapas. Det meddelade hon på en presskonferens, rapporterar Le Figaro.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Le Pen wants to lower the retirement age",
-        "summary": "Marine Le Pen proposes a pension reform under which the retirement age in France would be between 60 and 62, and a pension fund of EUR 900 billion would be created. She announced this at a press conference, reports Le Figaro."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:01:24+01:00"
-      }
-    },
-    {
-      "id": "a4a04d736592",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/anthropic-har-en-inbyggd-ranta-pa-ranta-broms",
-      "guid": "aa31267d-d7c8-4af0-93fe-3362660169c8",
-      "published_at": "2026-11-17T11:46:33+01:00",
-      "fetched_at": "2026-11-17T12:01:16+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/d2b5167c-88bc-40ea-909b-791305d27eef.jpeg?width=600",
-      "sv": {
-        "title": "Anthropic har en inbyggd ränta-på-ränta-broms",
-        "summary": "Anthropic går med stormsteg mot börsen. När analytiker och investerare räknar på framtida vinster och filar på strategier har Di hittat en annan mustig detalj: AI-bjässen har byggt in en slags ränta-på-ränta-broms.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anthropic has a built-in compound interest brake",
-        "summary": "Anthropic is rapidly heading for the stock market. As analysts and investors calculate future profits and work on strategies, Di has found another juicy detail: the AI giant has built in a kind of compound interest brake."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:01:24+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T09:31:21+01:00",
+  "generated_at": "2026-11-18T09:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e5d57e3ae3b1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/volvo-bussar-tar-order-pa-108-bussar-i-peru",
+      "guid": "3432022f-947c-4887-8042-e39e115f6a37",
+      "published_at": "2026-11-18T09:35:42+01:00",
+      "fetched_at": "2026-11-18T09:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Volvo Bussar tar order på 108 bussar i Peru",
+        "summary": "Volvo Bussar har fått två order om totalt 108 bussar i Peru. Det framgår av ett pressmeddelande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Volvo Buses wins orders for 108 buses in Peru",
+        "summary": "Volvo Buses has received two orders totalling 108 buses in Peru. This is according to a press release."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:45:56+01:00"
+      }
+    },
     {
       "id": "c1fc0660b845",
       "schema_version": 1,
@@ -5286,33 +5312,6 @@
       "en": {
         "title": "SEB strategist: Don't keep the money here if the AI bubble bursts",
         "summary": "SEB judges that concern over an imminent end to the AI boom, that it is a bubble bursting now, is exaggerated. If you still believe it is, it is wrong to park the money at home, the bank argues in a section on Nordic equities in the publication SEB Investment Outlook on…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:45:49+01:00"
-      }
-    },
-    {
-      "id": "294098ae55cb",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/skanska-saljer-hyresbostadsprojekt-for-460-mkr",
-      "guid": "f8acc4f7-0577-417f-81ce-4569500bce6f",
-      "published_at": "2026-11-17T07:34:40+01:00",
-      "fetched_at": "2026-11-17T07:45:43+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/1907e16a-35da-4905-ab15-93a64f9f135f.jpeg?width=600",
-      "sv": {
-        "title": "Skanska säljer hyresbostadsprojekt för 460 Mkr",
-        "summary": "Skanska har tecknat avtal om att avyttra ett egenutvecklat hyresbostadsprojekt i Uppsala till Folksamgruppen genom KPA Pension. Det framgår av ett pressmeddelande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Skanska sells rental housing project for SEK 460 million",
-        "summary": "Skanska has signed an agreement to divest a self-developed rental housing project in Uppsala to Folksam Group through KPA Pension. This is according to a press release."
       },
       "translation": {
         "status": "done",

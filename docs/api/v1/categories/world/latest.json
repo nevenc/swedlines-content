@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T09:31:21+01:00",
+  "generated_at": "2026-11-18T09:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "21d046863872",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/se-forodelsen-efter-ukrainska-attacken",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/se-forodelsen-efter-ukrainska-attacken",
+      "published_at": "2026-11-18T09:32:29+01:00",
+      "fetched_at": "2026-11-18T09:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Bilderna sprids",
+        "summary": "Krimbron attackerad – se förödelsen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The pictures spread",
+        "summary": "Crimean Bridge attacked – see the devastation"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:45:56+01:00"
+      }
+    },
     {
       "id": "579152d3e2c4",
       "schema_version": 1,
@@ -5303,35 +5329,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T12:31:21+01:00"
-      }
-    },
-    {
-      "id": "a24ffa9104a7",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4OOl9te0qWiKjrnPZG6XY0/putins-nya-mal-uppges-vara-maten-experten-inte-oevertygad",
-      "guid": "4OOl9te0qWiKjrnPZG6XY0",
-      "published_at": "2026-11-16T11:51:40+01:00",
-      "fetched_at": "2026-11-16T12:01:15+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Putins nya mål uppges vara maten – experten: ”Inte övertygad”",
-        "summary": "Ryssland förbereder attacker mot livsmedelsindustrins anläggningar över hela Ukraina, inklusive ukrainska och utländska företag, rapporterar Kyiv Post med hänvisning till en källa inom Ukrainas militära underrättelsetjänst (HUR).",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Putin's new target reportedly food – expert: \"Not convinced\"",
-        "summary": "Russia is preparing attacks on food industry facilities across Ukraine, including Ukrainian and foreign companies, Kyiv Post reports, citing a source in Ukraine's military intelligence service (HUR)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:01:23+01:00"
       }
     }
   ]

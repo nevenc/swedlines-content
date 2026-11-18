@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-18T09:31:21+01:00",
+  "generated_at": "2026-11-18T09:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "52c20f4b9719",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/edward-blom-rasar-mot-arets-julklapp-kan-do",
+      "guid": "https://www.expressen.se/nyheter/sverige/edward-blom-rasar-mot-arets-julklapp-kan-do/",
+      "published_at": "2026-11-18T09:39:44+01:00",
+      "fetched_at": "2026-11-18T09:45:44+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Edward Blom rasar mot årets julklapp: ”Kan dö”",
+        "summary": "Etikettexperten Edward Blom totalsågar årets julklapp 2026. Att ge bort ett startnummer till ett lopp är både oförskämt och farligt för hälsan. – Man kan få en hjärtattack och dö, säger han till Expressen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Edward Blom slams this year's Christmas gift: \"Can die\"",
+        "summary": "Etiquette expert Edward Blom totally pans this year's 2026 Christmas gift. Giving away a race bib to a race is both rude and dangerous to health. – You can get a heart attack and die, he tells Expressen."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:45:56+01:00"
+      }
+    },
+    {
+      "id": "21d046863872",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/se-forodelsen-efter-ukrainska-attacken",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/se-forodelsen-efter-ukrainska-attacken",
+      "published_at": "2026-11-18T09:32:29+01:00",
+      "fetched_at": "2026-11-18T09:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Bilderna sprids",
+        "summary": "Krimbron attackerad – se förödelsen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The pictures spread",
+        "summary": "Crimean Bridge attacked – see the devastation"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:45:56+01:00"
+      }
+    },
     {
       "id": "73e86e4c0b9b",
       "schema_version": 1,
@@ -5142,58 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "bb383e7133b5",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/ekonomi/stoppet-i-forsmark-3-kan-ge-dubbel-effekt-pa-elpriset",
-      "guid": "https://www.expressen.se/ekonomi/stoppet-i-forsmark-3-kan-ge-dubbel-effekt-pa-elpriset/",
-      "published_at": "2026-11-14T21:39:32+01:00",
-      "fetched_at": "2026-11-14T23:33:36+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Stoppet i Forsmark 3 kan ge ”dubbel effekt” på elpriset",
-        "summary": "Kärnkraftsreaktorn Forsmark 3 har stoppats helt. Nu kan redan höga elpriser stiga ytterligare i nästa vecka. – Stoppet får stora konsekvenser för elpriset i södra Sverige framför allt, säger elmarknadsanalytikern Christian Holtz.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Shutdown at Forsmark 3 may have \"double effect\" on electricity prices",
-        "summary": "The Forsmark 3 nuclear reactor has been fully shut down. Already high electricity prices could now rise further next week. \"The shutdown will have major consequences for electricity prices, mainly in southern Sweden,\" says electricity market analyst Christian Holtz."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "d9c00b9162bd",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=ec759b2a-5033-4609-8916-e3d25d1db410",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=ec759b2a-5033-4609-8916-e3d25d1db410",
-      "published_at": "2026-11-14T20:28:31+01:00",
-      "fetched_at": "2026-11-14T20:30:10+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Anderssons förtydligande efter artikeln",
-        "summary": "Magdalena Anderssons klargörande om V",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Andersson clarifies after article",
-        "summary": "Magdalena Andersson's clarification on V"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:22+01:00"
       }
     }
   ]
