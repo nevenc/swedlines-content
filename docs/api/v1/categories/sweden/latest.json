@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T22:01:20+01:00",
+  "generated_at": "2026-11-18T22:15:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "690019938f8c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/branden-pa-limhamn-har-spridits-boende-har-lamnat-lagenheterna",
+      "guid": "0d0345a4-b84c-4164-b6ec-d7c074e841e1",
+      "published_at": "2026-11-18T22:14:16+01:00",
+      "fetched_at": "2026-11-18T22:15:44+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/4773cc03-dfcc-48be-a281-072ba21752c7.jpeg?width=600",
+      "sv": {
+        "title": "Branden på Limhamn har spridits – boende har lämnat lägenheterna",
+        "summary": "Räddningstjänsten har larmats till centrala Limhamn efter att det börjat brinna i en lägenhet. Branden i lägenheten släcktes, men senare kunde räddningstjänsten konstatera att den trots allt spridits genom konstruktionen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The fire in Limhamn has spread – residents have left their apartments",
+        "summary": "The rescue service was alerted to central Limhamn after a fire broke out in an apartment. The fire in the apartment was extinguished, but later the rescue service could establish that it had nevertheless spread through the structure."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T22:15:48+01:00"
+      }
+    },
     {
       "id": "1aab40b68cbe",
       "schema_version": 1,
@@ -5394,32 +5421,6 @@
       "en": {
         "title": "Fighting honour culture and religious oppression – now the Migration Agency wants to deport her",
         "summary": "Since Hêlan Çiya came to Malmö as a writer in exile, she has been an important voice against all forms of oppression of women. Now she faces deportation. Do we not have the least bit of humanism left in our latitudes, writes Kurdo Baksi, who urges the Migration Agency to take its common sense captive."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:08+01:00"
-      }
-    },
-    {
-      "id": "48035fcf036e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/sodertalje/lanthandel-i-sodertalje-brann-ner",
-      "guid": "https://www.svt.se/nyheter/lokalt/sodertalje/lanthandel-i-sodertalje-brann-ner",
-      "published_at": "2026-11-15T06:52:22+01:00",
-      "fetched_at": "2026-11-15T08:29:34+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Lanthandel i Södertälje brann ner",
-        "summary": "En brand rasade under natten mot söndagen i en lantbruksfastighet i Mölnbo i Södertälje kommun. Ett hus som innehöll en lanthandel gick inte att rädda, utan fick brinna ner.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Village shop in Södertälje burned down",
-        "summary": "A fire raged during the night to Sunday at an agricultural property in Mölnbo in Södertälje Municipality. A house containing a village shop could not be saved and was left to burn down."
       },
       "translation": {
         "status": "done",

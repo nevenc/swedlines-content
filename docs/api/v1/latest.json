@@ -1,7 +1,146 @@
 {
-  "generated_at": "2026-11-18T22:01:20+01:00",
+  "generated_at": "2026-11-18T22:15:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "690019938f8c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/branden-pa-limhamn-har-spridits-boende-har-lamnat-lagenheterna",
+      "guid": "0d0345a4-b84c-4164-b6ec-d7c074e841e1",
+      "published_at": "2026-11-18T22:14:16+01:00",
+      "fetched_at": "2026-11-18T22:15:44+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/4773cc03-dfcc-48be-a281-072ba21752c7.jpeg?width=600",
+      "sv": {
+        "title": "Branden på Limhamn har spridits – boende har lämnat lägenheterna",
+        "summary": "Räddningstjänsten har larmats till centrala Limhamn efter att det börjat brinna i en lägenhet. Branden i lägenheten släcktes, men senare kunde räddningstjänsten konstatera att den trots allt spridits genom konstruktionen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The fire in Limhamn has spread – residents have left their apartments",
+        "summary": "The rescue service was alerted to central Limhamn after a fire broke out in an apartment. The fire in the apartment was extinguished, but later the rescue service could establish that it had nevertheless spread through the structure."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T22:15:48+01:00"
+      }
+    },
+    {
+      "id": "977b4d23c71b",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/dJdgMo/ik-uppsala-lagger-ner-sin-verksamhet-efter-sasongen-2026",
+      "guid": "https://www.svd.se/a/dJdgMo/ik-uppsala-lagger-ner-sin-verksamhet-efter-sasongen-2026?utm_medium=rss",
+      "published_at": "2026-11-18T22:12:55+01:00",
+      "fetched_at": "2026-11-18T22:15:42+01:00",
+      "category": "sports",
+      "image_url": "https://akamai.vgc.no/v2/images/f2169c8f-223a-3d79-b514-890b0c0c5882?format=auto&s=1a5b21eb21de578be4772274594cc3be1596af33&w=1000",
+      "sv": {
+        "title": "”Ett år präglat av oerhört svåra beslut”",
+        "summary": "Tårarna rinner när slutsignalen ljuder på Studenternas. För IK Uppsala är inte bara säsongen…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"A year marked by extremely difficult decisions\"",
+        "summary": "Tears flow when the final whistle sounds at Studenternas. For IK Uppsala it is not only the season that…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T22:15:48+01:00"
+      }
+    },
+    {
+      "id": "179ef557545a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/atalet-kvinna-och-man-valdtog-man-med-kotthammare",
+      "guid": "https://www.expressen.se/nyheter/sverige/atalet-kvinna-och-man-valdtog-man-med-kotthammare/",
+      "published_at": "2026-11-18T22:11:28+01:00",
+      "fetched_at": "2026-11-18T22:15:42+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Åtalet: Kvinna och man våldtog man med kötthammare",
+        "summary": "En kvinna och en man åtalas för att ha misshandlat och våldtagit en man med en kötthammare. Motivet ska ha varit att de anklagade offret för att ha antastat kvinnan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Charges: Woman and man raped man with meat tenderiser",
+        "summary": "A woman and a man are charged with assaulting and raping a man with a meat tenderiser. The motive is said to have been that they accused the victim of having molested the woman."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T22:15:48+01:00"
+      }
+    },
+    {
+      "id": "f54f88eba9b1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/blandat-pa-wall-street-nvidia-foll",
+      "guid": "686ee6f1-a311-4c09-9c47-9da69d4341e2",
+      "published_at": "2026-11-18T22:05:48+01:00",
+      "fetched_at": "2026-11-18T22:15:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c61bc800-3d3e-4e37-94da-e15d27b93229.jpeg?width=600",
+      "sv": {
+        "title": "Blandat på Wall Street – Nvidia föll",
+        "summary": "USA-börserna bjöd på en blandad utveckling under onsdagen. Chipjätten Nvidia föll trots en stark rapport medan cybersäkerhetsbolag steg på bred front.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mixed on Wall Street – Nvidia fell",
+        "summary": "US stock markets showed a mixed performance on Wednesday. Chip giant Nvidia fell despite a strong report, while cybersecurity companies rose across the board."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T22:15:48+01:00"
+      }
+    },
+    {
+      "id": "2b2864fcdc18",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/bk-hacken-ff/bk-hacken-ff-vagrar-ge-upp-slutspelsdrommen-kommer-aldrig-saga-att-det-ar-helt-slut.499ed243-9057-5c02-862c-f75a610ae391",
+      "guid": "499ed243-9057-5c02-862c-f75a610ae391",
+      "published_at": "2026-11-18T22:01:55+01:00",
+      "fetched_at": "2026-11-18T22:15:43+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "BK Häcken FF",
+        "Tagg: BK Häcken",
+        "Tagg: BK Häcken FF"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/8ed166cc-bfcd-3dfa-b22a-3cbb6d22a9a8",
+      "sv": {
+        "title": "Elena Sadiku vägrar ge upp slutspelsdrömmen: ”Kommer aldrig säga att det är slut”",
+        "summary": "Hoppet lever – trots smällen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elena Sadiku refuses to give up on play-off dream: \"Will never say it's over\"",
+        "summary": "Hope lives on – despite the blow."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T22:15:48+01:00"
+      }
+    },
     {
       "id": "680517b8c913",
       "schema_version": 1,
@@ -5313,138 +5452,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T16:16:01+01:00"
-      }
-    },
-    {
-      "id": "7a4457a1b006",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/svangigt-pa-wall-street",
-      "guid": "ccdc2d5b-a017-4ad8-811c-1dfc381a318f",
-      "published_at": "2026-11-18T16:04:36+01:00",
-      "fetched_at": "2026-11-18T16:15:52+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/3276de88-23f4-431e-94d3-53dd472dd4ad.jpeg?width=600",
-      "sv": {
-        "title": "Svängigt på Wall Street",
-        "summary": "USA-börserna pendlar fram och tillbaka i onsdagens inledande handel. Chipjätten Nvidia steg i den inledande handeln, men vände sedan snabbt ned under nollan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Volatile on Wall Street",
-        "summary": "US stock markets swing back and forth in Wednesday's opening trade. Chip giant Nvidia rose in the opening trade, but then quickly turned down below zero."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:16:01+01:00"
-      }
-    },
-    {
-      "id": "ff4bac82d182",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/mats-olssons-memoarer-ar-en-lasfest-for-alla-som-gillar-att-komma-nara-stora-rockstjarnor",
-      "guid": "53b03fd9-df2f-45f3-9f11-ef486b4e92d7",
-      "published_at": "2026-11-18T16:00:00+01:00",
-      "fetched_at": "2026-11-18T16:01:22+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/422bf0e7-fa26-406f-bc3c-424daa9e541a.png?width=600",
-      "sv": {
-        "title": "Mats Olssons memoarer är en läsfest för alla som gillar att komma nära stora rockstjärnor",
-        "summary": "Fotboll, pop och skånska män är tre huvudingredienser i ”Sluta aldrig skriv”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mats Olsson's memoirs are a reading feast for anyone who likes getting close to big rock stars",
-        "summary": "Football, pop and Skåne men are three main ingredients in “Sluta aldrig skriv”."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:01:35+01:00"
-      }
-    },
-    {
-      "id": "4abdd3a50b50",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/dromvarvningar-infor-nasta-ar-hade-varit-klockren",
-      "guid": "1e0f9139-a70a-471c-b521-42a30bac41f1",
-      "published_at": "2026-11-18T15:59:01+01:00",
-      "fetched_at": "2026-11-18T16:01:22+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Drömvärvningar inför nästa år: ”Hade varit klockren”",
-        "summary": "Denna landslagsvecka i november tar vi ett samlat grepp om damlagets säsong. Är tredjeplatsen ett misslyckande eller en framgång? Dessutom får alla välja en drömvärvning som skulle lyfta MFF:s herrlag ordentligt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Dream signings for next year: “Would have been spot on”",
-        "summary": "This national team week in November we take a comprehensive look at the women's team's season. Is third place a failure or a success? In addition, everyone gets to choose a dream signing who would lift MFF's men's team significantly."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:01:35+01:00"
-      }
-    },
-    {
-      "id": "5423863fbdba",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345517",
-      "guid": "rss:sr.se/article/9345517",
-      "published_at": "2026-11-18T15:58:00+01:00",
-      "fetched_at": "2026-11-18T16:01:19+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Läkaren tipsar: Så återfuktar du huden i vinter",
-        "summary": "Spruckna händer, narig och torr hud kommer som ett brev på posten när temperaturen sjunker. Så hur gör man för att återfukta huden och slippa bli torr?",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "The doctor advises: How to rehydrate your skin this winter",
-        "summary": "Cracked hands, rough and dry skin arrive like a letter in the post when temperatures drop. So how do you rehydrate the skin and avoid getting dry?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:01:35+01:00"
-      }
-    },
-    {
-      "id": "28b333583ca2",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/ny-israelisk-insats-i-gaza",
-      "guid": "c143718b-a6f1-48b6-8bfd-229f3236481c",
-      "published_at": "2026-11-18T15:57:17+01:00",
-      "fetched_at": "2026-11-18T16:01:22+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ny israelisk insats i Gaza",
-        "summary": "Den israeliska militären har på onsdagen inlett en insats i Gaza.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New Israeli operation in Gaza",
-        "summary": "The Israeli military on Wednesday launched an operation in Gaza."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:01:35+01:00"
       }
     }
   ]

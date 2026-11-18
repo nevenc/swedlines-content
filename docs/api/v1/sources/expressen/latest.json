@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T22:01:20+01:00",
+  "generated_at": "2026-11-18T22:15:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "179ef557545a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/atalet-kvinna-och-man-valdtog-man-med-kotthammare",
+      "guid": "https://www.expressen.se/nyheter/sverige/atalet-kvinna-och-man-valdtog-man-med-kotthammare/",
+      "published_at": "2026-11-18T22:11:28+01:00",
+      "fetched_at": "2026-11-18T22:15:42+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Åtalet: Kvinna och man våldtog man med kötthammare",
+        "summary": "En kvinna och en man åtalas för att ha misshandlat och våldtagit en man med en kötthammare. Motivet ska ha varit att de anklagade offret för att ha antastat kvinnan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Charges: Woman and man raped man with meat tenderiser",
+        "summary": "A woman and a man are charged with assaulting and raping a man with a meat tenderiser. The motive is said to have been that they accused the victim of having molested the woman."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T22:15:48+01:00"
+      }
+    },
     {
       "id": "143719c7068a",
       "schema_version": 1,
@@ -5161,32 +5187,6 @@
       "en": {
         "title": "Football talent disappeared – unexpected life choice",
         "summary": "He was the super talent in football who disappeared. But he returned to eat 25 raw beef steaks over two days. Now Nikola Zivkovic's food tips have led to party leaders courting him and he is getting to open his own restaurant. – There have been a lot of tears, he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T18:01:20+01:00"
-      }
-    },
-    {
-      "id": "0a01f72b8f88",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ess-sa-kan-hon-mota-sprickan-i-grind",
-      "guid": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ess-sa-kan-hon-mota-sprickan-i-grind/",
-      "published_at": "2026-11-15T17:44:19+01:00",
-      "fetched_at": "2026-11-15T18:01:12+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Thand Ringqvists ess – så kan hon mota sprickan i grind",
-        "summary": "Centerpartiet riskerar en intern svekdebatt. Men partiledaren Elisabeth Thand Ringqvist kan ha ett ess i rockärmen – för att blidka de värsta internkritikerna. – En lösning kan ju då vara att personen i fråga får en ministerpost, säger statsvetaren Jenny Madestam.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Thand Ringqvist's ace – how she can plug the gap in the grid",
-        "summary": "The Centre Party risks an internal betrayal debate. But party leader Elisabeth Thand Ringqvist may have an ace up her sleeve – to placate the harshest internal critics. – One solution could be that the person in question gets a ministerial post, says political scientist Jenny Madestam."
       },
       "translation": {
         "status": "done",

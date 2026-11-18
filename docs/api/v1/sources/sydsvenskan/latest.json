@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T22:01:20+01:00",
+  "generated_at": "2026-11-18T22:15:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "690019938f8c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/branden-pa-limhamn-har-spridits-boende-har-lamnat-lagenheterna",
+      "guid": "0d0345a4-b84c-4164-b6ec-d7c074e841e1",
+      "published_at": "2026-11-18T22:14:16+01:00",
+      "fetched_at": "2026-11-18T22:15:44+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/4773cc03-dfcc-48be-a281-072ba21752c7.jpeg?width=600",
+      "sv": {
+        "title": "Branden på Limhamn har spridits – boende har lämnat lägenheterna",
+        "summary": "Räddningstjänsten har larmats till centrala Limhamn efter att det börjat brinna i en lägenhet. Branden i lägenheten släcktes, men senare kunde räddningstjänsten konstatera att den trots allt spridits genom konstruktionen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The fire in Limhamn has spread – residents have left their apartments",
+        "summary": "The rescue service was alerted to central Limhamn after a fire broke out in an apartment. The fire in the apartment was extinguished, but later the rescue service could establish that it had nevertheless spread through the structure."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T22:15:48+01:00"
+      }
+    },
     {
       "id": "acc11a612754",
       "schema_version": 1,
@@ -5098,33 +5125,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T05:45:51+01:00"
-      }
-    },
-    {
-      "id": "317303dccc7a",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/burnham-behandla-brexit-som-kejsarens-nya-klader",
-      "guid": "5e832edc-9431-4061-a4bc-21b234da2f7c",
-      "published_at": "2026-11-16T23:45:21+01:00",
-      "fetched_at": "2026-11-16T23:45:45+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/036e66a2-a200-49ae-9e09-3831a733355b.jpg?width=600",
-      "sv": {
-        "title": "Burnham: Behandla brexit som Kejsarens nya kläder",
-        "summary": "Storbritanniens premiärminister Andy Burnham är optimistisk inför veckans förhandlingar om ett nytt avtal med EU. Men samtalen bör hållas utan att brexit nämns, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Burnham: Treat Brexit as The Emperor's New Clothes",
-        "summary": "UK Prime Minister Andy Burnham is optimistic ahead of this week's negotiations on a new agreement with the EU. But the talks should be held without mentioning Brexit, he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T23:45:47+01:00"
       }
     }
   ]
