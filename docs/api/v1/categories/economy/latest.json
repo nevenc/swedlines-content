@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T05:10:48+01:00",
+  "generated_at": "2026-11-18T05:15:44+01:00",
   "count": 200,
   "items": [
     {
@@ -26,6 +26,41 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T05:10:48+01:00"
+      }
+    },
+    {
+      "id": "94844c2cfb4e",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/asikt-och-debatt/ledare/hoga-elpriser-gor-europa-beroende-av-kina.7f9fb148-7f9d-55ca-a10b-f902ed3c7a22",
+      "guid": "7f9fb148-7f9d-55ca-a10b-f902ed3c7a22",
+      "published_at": "2026-11-18T05:00:00+01:00",
+      "fetched_at": "2026-11-18T05:15:39+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ledare",
+        "Tagg: Kina",
+        "Tagg: Europa",
+        "Tagg: EU",
+        "Tagg: Donald Trump",
+        "Tagg: Import"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/895d28ca-32c9-37b8-ab87-277a52741dca",
+      "sv": {
+        "title": "Adam Cwejman: Höga elpriser gör Europa beroende av Kina",
+        "summary": "Europas politiker talar om självständighet men så länge våra elpriser inte går ned kommer ingen industristrategi att fungera.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Adam Cwejman: High electricity prices make Europe dependent on China",
+        "summary": "Europe's politicians talk about independence, but as long as our electricity prices do not come down, no industrial strategy will work."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:15:43+01:00"
       }
     },
     {
@@ -5231,32 +5266,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T08:31:03+01:00"
-      }
-    },
-    {
-      "id": "069d8eecbe1f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/anders-jensen-overtygad-att-vi-hamnar-pa-borsen",
-      "guid": "db08475c-b327-5f60-b720-4afa4dd27358",
-      "published_at": "2026-11-17T08:07:16+01:00",
-      "fetched_at": "2026-11-17T08:15:40+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Anders Jensen: Övertygad att vi hamnar på börsen",
-        "summary": "CPP Investments och Ontario Teachers blir delägare i Cary Group tillsammans med Nordic Capital. Samtidigt köps CVC ut.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anders Jensen: Convinced we will end up on the stock exchange",
-        "summary": "CPP Investments and Ontario Teachers become co-owners of Cary Group together with Nordic Capital. At the same time, CVC is bought out."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:15:46+01:00"
       }
     }
   ]
