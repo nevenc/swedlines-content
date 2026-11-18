@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-11-18T05:45:57+01:00",
+  "generated_at": "2026-11-18T06:01:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7a2bd0029e6e",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/bussarna-ar-till-for-att-ga-skanetrafiken",
+      "guid": "d33cfaa0-59a7-4914-9451-b1aaf02df4ed",
+      "published_at": "2026-11-18T05:58:00+01:00",
+      "fetched_at": "2026-11-18T06:01:18+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/2a77769e-a5c7-4ee3-9227-f4db762a93fa.jpeg?width=600",
+      "sv": {
+        "title": "Bussarna är till för att gå, Skånetrafiken"
+      },
+      "en": {
+        "title": "The Buses Are There to Be Ridden, Skånetrafiken"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:01:29+01:00"
+      }
+    },
+    {
+      "id": "56071e4dabf6",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/lMAKl7/dold-kamera-avslojar-misstankt-djurplageri",
+      "guid": "https://www.aftonbladet.se/nyheter/a/lMAKl7/dold-kamera-avslojar-misstankt-djurplageri?utm_medium=rss",
+      "published_at": "2026-11-18T05:51:59+01:00",
+      "fetched_at": "2026-11-18T06:01:15+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/3664bc15-ca4b-312a-8a88-0d414720df56?format=auto&s=c5b272a3e5ea9f395cd4e2da58665913c238230f&w=1000",
+      "sv": {
+        "title": "Dold kamera avslöjar misstänkt djurplågeri",
+        "summary": "Filmerna avslöjar hur kycklingar utsätts för onödigt lidande hos uppfödaren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hidden Camera Reveals Suspected Animal Cruelty",
+        "summary": "The films reveal how chickens are subjected to unnecessary suffering at a breeder."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:01:29+01:00"
+      }
+    },
+    {
+      "id": "822c3e9e4ee7",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/4EqmqV/lantbrukarens-svar-pa-kritiken-tar-detta-pa-storsta-allvar",
+      "guid": "https://www.aftonbladet.se/nyheter/a/4EqmqV/lantbrukarens-svar-pa-kritiken-tar-detta-pa-storsta-allvar?utm_medium=rss",
+      "published_at": "2026-11-18T05:51:50+01:00",
+      "fetched_at": "2026-11-18T06:01:15+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/cdc26f63-9057-3706-93f6-e6b6ea2de0d5?format=auto&s=e4b88195965e08d8d2960357df68a9ce397425a7&w=902",
+      "sv": {
+        "title": "Lantbrukarens svar på kritiken: ”Tar detta på största allvar”",
+        "summary": "”Inte följt reglerna” ✓ Polisanmäler för intrång",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Farmer's Response to Criticism: \"Taking This Very Seriously\"",
+        "summary": "\"Did not follow the rules\" ✓ Reported to police for trespassing"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:01:29+01:00"
+      }
+    },
     {
       "id": "285406eda9a1",
       "schema_version": 1,
@@ -5357,88 +5435,6 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "6a5c3aebfee4",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/vantar-pa-svenska-statens-ursakt-far-en-ny-hemsida",
-      "guid": "https://www.dn.se/sverige/vantar-pa-svenska-statens-ursakt-far-en-ny-hemsida/",
-      "published_at": "2026-11-13T13:45:46+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/47331eb7-10ec-4e26-8949-fe9c951af5ba.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Väntar på svenska statens ursäkt – får en ny hemsida",
-        "summary": "Regeringens uppdrag: inrätta ett nytt nationellt resurscentrum för adopterade. I praktiken innebär satsningen en ny hemsida. – I dagsläget har vi inte fått några extra medel, säger Helena Bäcklund, avdelningschef på myndigheten Mfof.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Waiting for the Swedish state's apology – gets a new website",
-        "summary": "The government's assignment: set up a new national resource centre for adoptees. In practice the initiative means a new website. – At present we have not received any extra funding, says Helena Bäcklund, head of department at the agency Mfof."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "7ad5a031a33c",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/anita-gimvall-doms-for-utedasset-vid-stentrasket",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/anita-gimvall-doms-for-utedasset-vid-stentrasket",
-      "published_at": "2026-11-13T13:42:53+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Anita Gimvall döms för utedasset vid Stenträsket",
-        "summary": "Lycksele tingsrätt dömde under fredagen Anita Gimvall för brott mot områdesskyddet, för att ha uppfört ett utedass vid Stenträsket. – Vi kommer överklaga, säger ombudet Tage Collberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anita Gimvall convicted over the outhouse at Stenträsket",
-        "summary": "On Friday Lycksele District Court convicted Anita Gimvall of violating area protection rules, for having built an outhouse at Stenträsket. – We will appeal, says her representative Tage Collberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "d3c45a7bef76",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2XCOc8TanNPqElhkJfGoZm/mobbades-foer-sin-diabetes-nu-hjaelper-hon-andra-unga",
-      "guid": "2XCOc8TanNPqElhkJfGoZm",
-      "published_at": "2026-11-13T10:53:13+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Nyhetsmorgon"
-      ],
-      "sv": {
-        "title": "Wilma slutade ta insulin – när hon mobbades för sin diabetes",
-        "summary": "Wilma Berngarn, 20, fick diagnosen diabetes typ 1 redan som sexåring. Då fanns inga pumpar eller sensorer utan hon var tvungen att ta sprutor med insulin. De andra barnen ville först inte sitta bredvid henne i klassrummet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Wilma stopped taking insulin – when she was bullied for her diabetes",
-        "summary": "Wilma Berngarn, 20, was diagnosed with type 1 diabetes as early as age six. Back then there were no pumps or sensors; she had to take insulin injections. At first the other children did not want to sit next to her in the classroom."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
       }
     }
   ]
