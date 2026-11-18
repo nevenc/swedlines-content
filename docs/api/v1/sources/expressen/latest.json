@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-18T13:45:54+01:00",
+  "generated_at": "2026-11-18T14:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "aaac3a8b908a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/har-mots-putin-och-trump-i-kina-deltar-i-toppmote",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-mots-putin-och-trump-i-kina-deltar-i-toppmote/",
+      "published_at": "2026-11-18T13:45:48+01:00",
+      "fetched_at": "2026-11-18T14:01:13+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump tar Putin i hand",
+        "summary": "Här möts världsledarna • Se klippet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump shakes hands with Putin",
+        "summary": "Here the world leaders meet • Watch the clip"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T14:01:21+01:00"
+      }
+    },
+    {
+      "id": "d55675254a01",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/fallet-malin-pappa-pressades-av-socialtjansten",
+      "guid": "https://www.expressen.se/nyheter/sverige/fallet-malin-pappa-pressades-av-socialtjansten/",
+      "published_at": "2026-11-18T13:43:59+01:00",
+      "fetched_at": "2026-11-18T14:01:13+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Fallet Malin: Pappa pressades av socialtjänsten",
+        "summary": "Malins son omhändertogs när han var tre dagar – på felaktiga grunder. Nu berättar pappan om hur han pressades av socialtjänsten att peka ut Malin för att inte förlora sonen. – Jag fick kasta henne under bussen. Annars hade Leo inte haft någon pappa heller, säger han till SVT:s Uppdrag granskning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Malin case: Father was pressured by social services",
+        "summary": "Malin's son was taken into care when he was three days old – on wrong grounds. Now the father describes how social services pressured him to point out Malin in order not to lose his son. \"I had to throw her under the bus. Otherwise Leo wouldn't have had a father either,\" he tells SVT's Uppdrag granskning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T14:01:21+01:00"
+      }
+    },
     {
       "id": "bbf180468346",
       "schema_version": 1,
@@ -5135,58 +5187,6 @@
       "en": {
         "title": "Putin's \"flagship\" burns",
         "summary": "Oil inferno after factory attack overnight • One of Europe's largest"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "99633eafd2ea",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/bidens-arliga-ord-om-varldsledarna",
-      "guid": "https://www.expressen.se/nyheter/varlden/bidens-arliga-ord-om-varldsledarna/",
-      "published_at": "2026-11-15T07:26:15+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Bidens ärliga ord om världsledarna",
-        "summary": "Hur är Putin i möten, ville Trump spela golf med Biden och hur tacksam var egentligen Zelenskyj? I sin nya bok berättar ex-president Joe Biden om sina möten med världsledarna. Och Ukrainas president får sig en känga.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Biden's candid words about world leaders",
-        "summary": "What is Putin like in meetings, did Trump want to play golf with Biden, and how grateful was Zelenskyy really? In his new book, former president Joe Biden recounts his meetings with world leaders. And Ukraine's president gets a dressing-down."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "ecaa42565e20",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=024dca98-0caf-41ef-947e-b05c19b0a814",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=024dca98-0caf-41ef-947e-b05c19b0a814",
-      "published_at": "2026-11-15T07:20:07+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Mor och son greps för rån i Linköping",
-        "summary": "Tog sig in i bostad – rånade",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mother and son arrested for robbery in Linköping",
-        "summary": "Entered a home – robbed"
       },
       "translation": {
         "status": "done",
