@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:30:57+01:00",
+  "generated_at": "2026-11-18T03:45:48+01:00",
   "count": 200,
   "items": [
     {
@@ -26,6 +26,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T03:30:57+01:00"
+      }
+    },
+    {
+      "id": "af83306ce3d2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=dbcd9f82-4308-4271-9818-77488dca01a3",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=dbcd9f82-4308-4271-9818-77488dca01a3",
+      "published_at": "2026-11-18T03:22:21+01:00",
+      "fetched_at": "2026-11-18T03:45:44+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Explosion vid flerfamiljehus i Helsingborg",
+        "summary": "Vid flerfamiljehus",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Explosion at apartment building in Helsingborg",
+        "summary": "At apartment building"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T03:45:47+01:00"
       }
     },
     {
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "One dead in train crash outside Värnamo",
         "summary": "Train crash outside Värnamo"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:12+01:00"
-      }
-    },
-    {
-      "id": "54a340530aea",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/stora-bakslaget-for-elon-musk",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/stora-bakslaget-for-elon-musk",
-      "published_at": "2026-11-14T14:20:31+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "Musks jättebakslag",
-        "summary": "Rymdplanen spricker direkt • Enorm explosion",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Musk's huge setback",
-        "summary": "Space plans crack immediately • Huge explosion"
       },
       "translation": {
         "status": "done",

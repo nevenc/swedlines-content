@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:30:57+01:00",
+  "generated_at": "2026-11-18T03:45:48+01:00",
   "count": 200,
   "items": [
     {
@@ -26,6 +26,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T03:30:57+01:00"
+      }
+    },
+    {
+      "id": "af83306ce3d2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=dbcd9f82-4308-4271-9818-77488dca01a3",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=dbcd9f82-4308-4271-9818-77488dca01a3",
+      "published_at": "2026-11-18T03:22:21+01:00",
+      "fetched_at": "2026-11-18T03:45:44+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Explosion vid flerfamiljehus i Helsingborg",
+        "summary": "Vid flerfamiljehus",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Explosion at apartment building in Helsingborg",
+        "summary": "At apartment building"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T03:45:47+01:00"
       }
     },
     {
@@ -5407,32 +5433,6 @@
       "en": {
         "title": "Sailor off Trelleborg rescued after extensive operation",
         "summary": "The solo sailor off Trelleborg has now been rescued and is on his way to hospital by helicopter after a rescue operation that had been under way since Thursday afternoon."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "e446056a1497",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/stor-trafikpaverkan-efter-olycka-i-linkoping",
-      "guid": "https://www.svt.se/nyheter/lokalt/ost/stor-trafikpaverkan-efter-olycka-i-linkoping",
-      "published_at": "2026-11-12T19:58:22+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Taxi körde in i hjullastare i Linköping",
-        "summary": "Klockan 19.40 på torsdagskvällen inträffade en trafikolycka på Industrigatan nära Rydsrondellen i Linköping.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Taxi drove into wheel loader in Linköping",
-        "summary": "At 19.40 on Thursday evening a traffic accident occurred on Industrigatan near Rydsrondellen in Linköping."
       },
       "translation": {
         "status": "done",
