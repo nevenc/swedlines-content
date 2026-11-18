@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T21:45:54+01:00",
+  "generated_at": "2026-11-18T22:01:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8b8f82dc5038",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/0vnb8J/ny-dom-mot-istanbuls-borgmastare",
+      "guid": "https://www.aftonbladet.se/nyheter/a/0vnb8J/ny-dom-mot-istanbuls-borgmastare?utm_medium=rss",
+      "published_at": "2026-11-18T21:48:17+01:00",
+      "fetched_at": "2026-11-18T22:01:14+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/a70a8754-a4cd-3eed-b349-58d22d3e6c9d?format=auto&s=f98fcb82b5b8bd6320c9da1bbbde9e5dede23c23&w=1000",
+      "sv": {
+        "title": "Ny dom mot Istanbuls borgmästare",
+        "summary": "Istanbuls fängslade borgmästare Ekrem Imamoglu har dömts till ännu ett fängelsestraff, nu för att ha…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New conviction against Istanbul's mayor",
+        "summary": "Istanbul's jailed mayor Ekrem Imamoglu has been sentenced to yet another prison term, this time for having…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T22:01:19+01:00"
+      }
+    },
     {
       "id": "acc11a612754",
       "schema_version": 1,
@@ -5300,33 +5327,6 @@
       "en": {
         "title": "Japan: Russian Planes Violate Airspace",
         "summary": "Two aircraft suspected of coming from Russia have violated Japan's airspace, according to Japanese…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T02:31:02+01:00"
-      }
-    },
-    {
-      "id": "9b1619b7e672",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/pMLdoW/kallor-planerar-dad-mot-washington",
-      "guid": "https://www.svd.se/a/pMLdoW/kallor-planerar-dad-mot-washington?utm_medium=rss",
-      "published_at": "2026-11-17T02:24:45+01:00",
-      "fetched_at": "2026-11-17T02:30:57+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/61f60e2e-2fe1-329f-ac83-dd9563202eb5?format=auto&s=f91ed363e341b65a58087877fad2be9ff8e9e8e5&w=1000",
-      "sv": {
-        "title": "Källor: Planerar dåd mot Washington",
-        "summary": "Iran planerar att attackera högt uppsatta personer inom det amerikanska presidentstyret, indikerar…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sources: Planning Attack on Washington",
-        "summary": "Iran is planning to attack high-ranking individuals within the American presidential administration, indicates…"
       },
       "translation": {
         "status": "done",

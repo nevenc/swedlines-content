@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T21:45:54+01:00",
+  "generated_at": "2026-11-18T22:01:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d58f93bd7787",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/svedbergs-vd-har-salt-aktier-for-1-7-miljoner",
+      "guid": "a6cc5812-8997-4d93-b394-587a3514baaa",
+      "published_at": "2026-11-18T21:55:21+01:00",
+      "fetched_at": "2026-11-18T22:01:16+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a58b8f86-5ef9-4859-94b1-bde5513df7cd.jpeg?width=600",
+      "sv": {
+        "title": "Svedbergs vd har sålt aktier för 1,7 miljoner",
+        "summary": "Svedbergs vd Per-Arne Andersson har på måndagen sålt 28.138 aktier i badrumsföretaget för närmare 1,7 miljoner kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Svedberg's CEO sells shares worth SEK 1.7 million",
+        "summary": "Svedberg's CEO Per-Arne Andersson sold 28,138 shares in the bathroom company on Monday for close to SEK 1.7 million."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T22:01:19+01:00"
+      }
+    },
     {
       "id": "9b2e81f68ab1",
       "schema_version": 1,
@@ -5307,33 +5334,6 @@
       "en": {
         "title": "Nordic Capital: Then Cary Group could be listed again",
         "summary": "Nordic Capital is making its third exit from car glass company Cary Group – a unique situation for the private equity firm, which usually has a much shorter investment horizon than it has here. “It is about us still seeing a great deal of opportunities”, says responsible partner Joakim Andreasson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:45:54+01:00"
-      }
-    },
-    {
-      "id": "b190257dd9eb",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/talmannen-kraver-svar-av-partierna-ett-slut-fore-jul",
-      "guid": "a8c43449-c1ed-4840-a3bf-5ebc11a33bef",
-      "published_at": "2026-11-17T16:29:26+01:00",
-      "fetched_at": "2026-11-17T16:45:47+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/c372d37f-d4de-4785-aa4e-a833f0a15285.jpeg?width=600",
-      "sv": {
-        "title": "Talmannen kräver svar av partierna: Ett slut före jul",
-        "summary": "Talmannen Andreas Norlén ger partierna en vecka på sig – sedan vill han ha besked. “När svenska folket firar jul så ska man veta att Sverige antingen har en ny regering eller förbereder sig för ett extraval”, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Speaker demands answers from the parties: An end before Christmas",
-        "summary": "Speaker Andreas Norlén gives the parties a week – then he wants an answer. “When the Swedish people celebrate Christmas, they should know that Sweden either has a new government or is preparing for a snap election”, he says."
       },
       "translation": {
         "status": "done",

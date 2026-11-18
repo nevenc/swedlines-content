@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T21:45:54+01:00",
+  "generated_at": "2026-11-18T22:01:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "680517b8c913",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/3BJxOM/knausgard-vagrar-knyta-ihop-sacken",
+      "guid": "https://www.svd.se/a/3BJxOM/knausgard-vagrar-knyta-ihop-sacken?utm_medium=rss",
+      "published_at": "2026-11-18T22:00:00+01:00",
+      "fetched_at": "2026-11-18T22:01:14+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/fc729c10-b3ff-381c-b999-1da79afefb44?format=auto&s=c0fee2697ec1c8e601e5619e96bf25de8b99b336&w=1000",
+      "sv": {
+        "title": "Knausgård vägrar knyta ihop säcken",
+        "summary": "Böckerna om Morgonstjärnan var nog aldrig tänkta att bli en helhet, konstaterar John Sjögren efter…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Knausgård refuses to tie up the loose ends",
+        "summary": "The Morningstar books were probably never meant to form a whole, John Sjögren notes after…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T22:01:19+01:00"
+      }
+    },
     {
       "id": "f495957ffc47",
       "schema_version": 1,
@@ -5607,42 +5634,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T22:15:59+01:00"
-      }
-    },
-    {
-      "id": "bb00b2f28fa6",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/restaurang/okidokis-grundare-om-sitt-stammishak-olhallen-7-an.32956b56-f6f7-5779-8085-e2270568a240",
-      "guid": "32956b56-f6f7-5779-8085-e2270568a240",
-      "published_at": "2026-11-15T21:31:14+01:00",
-      "fetched_at": "2026-11-15T22:01:15+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Restaurang",
-        "Tagg: Restauranger",
-        "Tagg: Barer",
-        "Tagg: Krogar",
-        "Tagg: Två Dagar",
-        "Tagg: Arkitektur",
-        "Tagg: Foodflow"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/13c08ce9-6d0a-31e9-a305-12974715f00e",
-      "sv": {
-        "title": "Här är krogarkitekternas favoritbar i Göteborg: ”Inte så jävla tjusigt”",
-        "summary": "Okidoki-grundarna har skapat restauranger i tjugo år, men själva söker de sig till det tidlösa.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here is the restaurant architects' favourite bar in Göteborg: ”Not so damn fancy”",
-        "summary": "The founders of Okidoki have created restaurants for twenty years, but they themselves seek out the timeless."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T22:01:19+01:00"
       }
     }
   ]
