@@ -1,7 +1,245 @@
 {
-  "generated_at": "2026-11-18T07:01:37+01:00",
+  "generated_at": "2026-11-18T07:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6c05e9f5c8a0",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/det-ar-arets-julklapp-slutsalt-redan-i-maj",
+      "guid": "ae2d9472-9c00-4023-8eda-2219c026886f",
+      "published_at": "2026-11-18T07:07:19+01:00",
+      "fetched_at": "2026-11-18T07:15:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c7212c82-46d3-4a44-ab41-f952166f1c78.jpg?width=600",
+      "sv": {
+        "title": "Det är årets julklapp: ”Slutsålt redan i maj”",
+        "summary": "Årets julklapp är ett startnummer – det vill säga en plats i ett motionslopp – enligt HUI Research. För den som vill följa rådet kan det dock redan vara för sent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This year's Christmas present: \"Sold out already in May\"",
+        "summary": "This year's Christmas present is a race bib – that is, a place in a fun run – according to HUI Research. For those who want to follow the advice, it may already be too late."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:15:54+01:00"
+      }
+    },
+    {
+      "id": "b3e7102e9b48",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/daniel-sachs-kreditforvaltare-oppnar-tyskt-kontor",
+      "guid": "db93da2d-462e-4cf1-96ea-763b085f87f1",
+      "published_at": "2026-11-18T07:06:06+01:00",
+      "fetched_at": "2026-11-18T07:15:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0b7c1c84-64f9-4d3f-950b-b661c1a5a7e2.jpeg?width=600",
+      "sv": {
+        "title": "Daniel Sachs kreditförvaltare öppnar tyskt kontor",
+        "summary": "Kreditförvaltaren P Capital Partners, där Daniel Sachs är en av grundarna, öppnar sitt första tyska kontor. Bakom satsningen ligger växande finansieringsbehov hos europeiska företag – och behovet av att Europa ska kunna stå på egna ben.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Daniel Sachs' credit manager opens German office",
+        "summary": "Credit manager P Capital Partners, where Daniel Sachs is one of the founders, is opening its first German office. Behind the move are growing financing needs at European companies – and the need for Europe to be able to stand on its own feet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:15:54+01:00"
+      }
+    },
+    {
+      "id": "98c1edf18bda",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/villa-i-loddekopinge-dyraste-forsaljningen-i-ar",
+      "guid": "2dbe474b-b617-48db-8c3c-5b30ce7cb182",
+      "published_at": "2026-11-18T07:03:11+01:00",
+      "fetched_at": "2026-11-18T07:15:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Villa i Löddeköpinge dyraste försäljningen i år"
+      },
+      "en": {
+        "title": "Villa in Löddeköpinge the most expensive sale this year"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:15:54+01:00"
+      }
+    },
+    {
+      "id": "069018a00480",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-villa-Gh6oW",
+      "guid": "2f3285eb-819b-48f6-b86b-053a23d6f2d6",
+      "published_at": "2026-11-18T07:02:51+01:00",
+      "fetched_at": "2026-11-18T07:15:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nya ägare till villa"
+      },
+      "en": {
+        "title": "New owners of villa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:15:54+01:00"
+      }
+    },
+    {
+      "id": "8dfbfe5f0ad6",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-106-kvm-saldes-for-5-3-miljoner",
+      "guid": "fc5f57ed-73d5-4435-bff2-64584b582f58",
+      "published_at": "2026-11-18T07:02:26+01:00",
+      "fetched_at": "2026-11-18T07:15:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Hus på 106 kvm såldes för 5,3 miljoner"
+      },
+      "en": {
+        "title": "House of 106 sq m sold for 5.3 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:15:54+01:00"
+      }
+    },
+    {
+      "id": "080f0455fbac",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/60-talshus-i-revingeby-revinge-salt-for-1-9-miljoner",
+      "guid": "ba8daea5-2060-4c5a-a326-9dd0fb283e7b",
+      "published_at": "2026-11-18T07:02:10+01:00",
+      "fetched_at": "2026-11-18T07:15:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "60-talshus i Revingeby, Revinge sålt – för 1,9 miljoner"
+      },
+      "en": {
+        "title": "1960s house in Revingeby, Revinge sold – for 1.9 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:15:54+01:00"
+      }
+    },
+    {
+      "id": "02dfd41bd816",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-villa-rX8CQ",
+      "guid": "7bffcc6b-ae06-447d-b42d-f85ec1c1cd41",
+      "published_at": "2026-11-18T07:02:02+01:00",
+      "fetched_at": "2026-11-18T07:15:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nya ägare till villa"
+      },
+      "en": {
+        "title": "New owners of villa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:15:54+01:00"
+      }
+    },
+    {
+      "id": "158fedda11d2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/stor-vardeokning-nar-fastighet-i-hollviken-saljs-igen-RYnwe",
+      "guid": "e129fd27-c70e-4ebd-adf6-e7f010419538",
+      "published_at": "2026-11-18T07:02:01+01:00",
+      "fetched_at": "2026-11-18T07:15:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Stor värdeökning när fastighet i Höllviken säljs igen"
+      },
+      "en": {
+        "title": "Large value increase when property in Höllviken is sold again"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:15:54+01:00"
+      }
+    },
+    {
+      "id": "5df30e125915",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/villa-i-staffanstorp-sald-for-4-miljoner",
+      "guid": "a6b5ac7b-1c41-42e7-b3cd-4d6ce3884483",
+      "published_at": "2026-11-18T07:01:56+01:00",
+      "fetched_at": "2026-11-18T07:15:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Villa i Staffanstorp såld – för 4 miljoner"
+      },
+      "en": {
+        "title": "Villa in Staffanstorp sold – for 4 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:15:54+01:00"
+      }
+    },
+    {
+      "id": "daec26a88a0a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/huset-i-klagerup-salt-pa-nytt",
+      "guid": "6e2dd33d-d684-4e06-88b4-993651558710",
+      "published_at": "2026-11-18T07:01:54+01:00",
+      "fetched_at": "2026-11-18T07:15:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Huset i Klågerup sålt på nytt"
+      },
+      "en": {
+        "title": "House in Klågerup sold again"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:15:54+01:00"
+      }
+    },
     {
       "id": "e82108b88eef",
       "schema_version": 1,
@@ -5022,275 +5260,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T10:01:55+01:00"
-      }
-    },
-    {
-      "id": "da2d8592e71f",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/ekonomi/swish-lanserar-ny-funktion-for-fakturor.07c95783-7381-5de5-ad0f-cd1da2569416",
-      "guid": "07c95783-7381-5de5-ad0f-cd1da2569416",
-      "published_at": "2026-11-17T09:34:15+01:00",
-      "fetched_at": "2026-11-17T09:45:44+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Ekonomi",
-        "Tagg: breaking-GP",
-        "Tagg: Swish",
-        "Tagg: gp-räckvidd"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/55ea0813-b37c-389b-b82f-8dd7459631fe",
-      "sv": {
-        "title": "Nu kan du betala fakturor med Swish",
-        "summary": "Swish lanserar ny funktion – så funkar det.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "You can now pay invoices with Swish",
-        "summary": "Swish launches new feature – here's how it works."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:45:48+01:00"
-      }
-    },
-    {
-      "id": "832a17542e1a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/klimat/a/9Bvq69/svenska-pensionsinvesteringar-okar-i-fossila-bolag",
-      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/9Bvq69/svenska-pensionsinvesteringar-okar-i-fossila-bolag?utm_medium=rss",
-      "published_at": "2026-11-17T09:29:53+01:00",
-      "fetched_at": "2026-11-17T09:30:58+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/cdd26baa-8798-3055-ac91-02a7790dad29?format=auto&s=f065774bde5d172758fefecc52afeebe14c52157&w=1000",
-      "sv": {
-        "title": "Svenska pensionsinvesteringar ökar i fossila bolag",
-        "summary": "Har ökat med flera miljarder",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish Pension Investments in Fossil Fuel Companies Rise",
-        "summary": "Up by several billion"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:31:07+01:00"
-      }
-    },
-    {
-      "id": "7caa34ccbdec",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/jondetech-i-avtal-med-globalt-teknikbolag-aktien-rusar",
-      "guid": "a6ce39c3-23e6-4e1e-bbd8-df57060bb8f5",
-      "published_at": "2026-11-17T09:28:56+01:00",
-      "fetched_at": "2026-11-17T09:45:44+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Jondetech i avtal med globalt teknikbolag – aktien rusar",
-        "summary": "Sensorbolaget Jondetech steg upp till 25 procent i den inledande handeln på tisdagen, efter nyheten att bolaget ingått avtal med ett globalt teknikbolag specialiserat på smarta hälsoringar, vilket Jondetech aviserade i ett pressmeddelande under morgonen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jondetech in deal with global tech company – shares soar",
-        "summary": "Sensor company Jondetech rose as much as 25 percent in early trading on Tuesday, after news that the company has entered an agreement with a global tech company specialising in smart health rings, which Jondetech announced in a press release in the morning."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:45:48+01:00"
-      }
-    },
-    {
-      "id": "80dbf9b20067",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/nyheter/kosttillskottsbolaget-rusar-i-borsoppningen",
-      "guid": "2b9bf117-f4f3-5978-a8df-c663f720f005",
-      "published_at": "2026-11-17T09:28:06+01:00",
-      "fetched_at": "2026-11-17T09:45:44+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Kosttillskottsbolaget rusar i börsöppningen",
-        "summary": "Andreas Johansson går igenom tisdagens börsöppning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Dietary supplement company soars at market opening",
-        "summary": "Andreas Johansson reviews Tuesday's market opening."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:45:48+01:00"
-      }
-    },
-    {
-      "id": "af566ec9fc05",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/alla-omxs30-bolagen-sjunker-utom-ett",
-      "guid": "babda0aa-1425-4191-bbe8-0f44d6315844",
-      "published_at": "2026-11-17T09:27:41+01:00",
-      "fetched_at": "2026-11-17T09:30:59+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/2cb857c6-cb56-4663-a063-d951b69ff3d9.jpeg?width=600",
-      "sv": {
-        "title": "Alla OMXS30-bolagen sjunker – utom ett",
-        "summary": "Måndagens knallröda börsdag i USA, där AI-sektorn föll, pressar Stockholmsbörsen vid tisdagens öppning. På rapportfronten handlas värmepumpstillverkaren Nibe slagigt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "All OMXS30 Companies Fall – Except One",
-        "summary": "Monday's deep-red trading day in the US, where the AI sector fell, weighs on the Stockholm Stock Exchange at Tuesday's opening. On the earnings front, heat pump maker Nibe is trading sluggishly."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:31:07+01:00"
-      }
-    },
-    {
-      "id": "47778b4c7556",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/kinesiska-medier-reagerar-pa-drevet-mot-huang",
-      "guid": "a4b453c7-95d4-5d52-b420-b5a1c24534b2",
-      "published_at": "2026-11-17T09:24:41+01:00",
-      "fetched_at": "2026-11-17T09:30:59+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Kinesiska medier reagerar på drevet mot Huang"
-      },
-      "en": {
-        "title": "Chinese Media React to the Campaign Against Huang"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:31:07+01:00"
-      }
-    },
-    {
-      "id": "bb572e795272",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/pizza-hut-atervander-till-sverige",
-      "guid": "6a2d2a1a-2627-4e0a-98bb-3d906a9dacc3",
-      "published_at": "2026-11-17T09:23:39+01:00",
-      "fetched_at": "2026-11-17T09:30:59+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/94c6d683-98a0-4b20-9cde-759cbdf2e093.jpeg?width=600",
-      "sv": {
-        "title": "Pizza Hut återvänder till Sverige",
-        "summary": "Den 9 september skrev Di att bolaget som driver Pizza Hut i Sverige försatts i konkurs. Nu ser den amerikanska pizzakedjan ut att återvända.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Pizza Hut Returns to Sweden",
-        "summary": "On 9 September, Di reported that the company operating Pizza Hut in Sweden had been declared bankrupt. Now the American pizza chain appears set to return."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:31:07+01:00"
-      }
-    },
-    {
-      "id": "430f8c7c4dc7",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/nibes-vd-missar-rapportpresentationen",
-      "guid": "0a13d097-e8cb-4800-bd92-6742c6413a7c",
-      "published_at": "2026-11-17T09:22:49+01:00",
-      "fetched_at": "2026-11-17T09:30:59+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/2148a646-c0fe-40c5-852d-e1411ebceca5.jpeg?width=600",
-      "sv": {
-        "title": "Nibes vd missar rapportpresentationen",
-        "summary": "Värmeteknikbolaget Nibe stod för en stark delårsrapport som var bättre än marknadens förväntningar. Vd:n Gerteric Lindquist kommer dock inte medverka på rapportpresentationen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nibe CEO Misses Earnings Presentation",
-        "summary": "Heat technology company Nibe delivered a strong interim report that was better than market expectations. However, CEO Gerteric Lindquist will not take part in the earnings presentation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:31:07+01:00"
-      }
-    },
-    {
-      "id": "456f059f3900",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/ny-elprognos-blir-en-riktigt-dyr-vinter",
-      "guid": "2ecabcd8-3530-4f13-bb52-944c9fb7fcdc",
-      "published_at": "2026-11-17T09:19:55+01:00",
-      "fetched_at": "2026-11-17T09:30:59+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/138242b5-3863-4d0f-9c29-8be20d66f7bb.jpeg?width=600",
-      "sv": {
-        "title": "Ny elprognos: ”Blir en riktigt dyr vinter”",
-        "summary": "Elpriserna i södra halvan av Sverige stiger åter brant och kan denna veckan nå den högsta snittnivån hittills i år. Samtidigt visar en ny prognos att elpriserna i vinter riskerar att bli högre än under elkrisen 2022–2023.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "New Electricity Forecast: \"It Will Be a Very Expensive Winter\"",
-        "summary": "Electricity prices in the southern half of Sweden are rising sharply again and could this week reach the highest average level so far this year. At the same time, a new forecast shows that electricity prices this winter risk being higher than during the 2022–2023 electricity crisis."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:31:07+01:00"
-      }
-    },
-    {
-      "id": "7f6025d82791",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/cvc-gor-exit-i-cary-group-nordic-capital-far-sallskap-av-tva-nya-storagare",
-      "guid": "c475809a-4f9e-4953-89d8-59b2b921ac81",
-      "published_at": "2026-11-17T09:18:14+01:00",
-      "fetched_at": "2026-11-17T09:30:59+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "CVC gör exit i Cary Group – Nordic Capital får sällskap av två nya storägare",
-        "summary": "Riskkapitalbolaget CVC säljer sin halva av det sedan några år onoterade bilglasbolaget Cary Group. Två nya storägare kliver in samtidigt som Nordic Capital återinvesterar i bolaget.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "CVC Exits Cary Group – Nordic Capital Gets Two New Major Owners",
-        "summary": "Private equity firm CVC is selling its half of the car glass company Cary Group, which has been unlisted for some years. Two new major owners are coming in while Nordic Capital reinvests in the company."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:31:07+01:00"
       }
     }
   ]

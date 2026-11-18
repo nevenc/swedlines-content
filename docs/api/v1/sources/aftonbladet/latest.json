@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T07:01:37+01:00",
+  "generated_at": "2026-11-18T07:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "53d5aa5eda45",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/9BvrlM/expert-osannolikt-att-bron-kan-lagas-under-kriget",
+      "guid": "https://www.aftonbladet.se/nyheter/a/9BvrlM/expert-osannolikt-att-bron-kan-lagas-under-kriget?utm_medium=rss",
+      "published_at": "2026-11-18T07:07:11+01:00",
+      "fetched_at": "2026-11-18T07:15:46+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/9bf740b0-809d-3cc2-958b-3d12d9ddf796?format=auto&s=a1be9b385bd9a82b173fdd201b5edd10d5bf2511&w=1000",
+      "sv": {
+        "title": "Expert: Osannolikt att bron kan lagas under kriget",
+        "summary": "Delar av Krimbron ligger på havets botten efter riktade ukrainska attacker.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expert: Unlikely the bridge can be repaired during the war",
+        "summary": "Parts of the Crimean Bridge lie on the seabed after targeted Ukrainian attacks."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:15:54+01:00"
+      }
+    },
     {
       "id": "901a67fc6fdc",
       "schema_version": 1,
@@ -5349,33 +5376,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T20:30:22+01:00"
-      }
-    },
-    {
-      "id": "8c9a2a989e3a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://tv.aftonbladet.se/video/410612",
-      "guid": "https://tv.aftonbladet.se/video/410612?utm_medium=rss",
-      "published_at": "2026-11-14T19:22:02+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "sweden",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/3f9599359f3989cc35c8758dab8b8ce6.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "100 000 liter färg brinner – flyr i panik",
-        "summary": "Flyr i panik från giftiga röken",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "100,000 litres of paint burning – fleeing in panic",
-        "summary": "Fleeing in panic from the toxic smoke"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:14+01:00"
       }
     }
   ]

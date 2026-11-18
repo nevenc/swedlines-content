@@ -1,7 +1,53 @@
 {
-  "generated_at": "2026-11-18T07:01:37+01:00",
+  "generated_at": "2026-11-18T07:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ffa02809b535",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=6d907af1-eb0c-4f39-b772-e2688dd1ab89",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6d907af1-eb0c-4f39-b772-e2688dd1ab89",
+      "published_at": "2026-11-18T07:09:38+01:00",
+      "fetched_at": "2026-11-18T07:15:46+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Xi och Putin träffas – i morgon kommer Trump"
+      },
+      "en": {
+        "title": "Xi and Putin meet – Trump comes tomorrow"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:15:54+01:00"
+      }
+    },
+    {
+      "id": "c94c2eec1114",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=0dfe086f-3929-4824-89d2-24c8bb1fc969",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0dfe086f-3929-4824-89d2-24c8bb1fc969",
+      "published_at": "2026-11-18T07:07:12+01:00",
+      "fetched_at": "2026-11-18T07:15:46+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "Gul vädervarning"
+      },
+      "en": {
+        "title": "Yellow weather warning"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:15:54+01:00"
+      }
+    },
     {
       "id": "548667381473",
       "schema_version": 1,
@@ -5148,58 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T20:30:32+01:00"
-      }
-    },
-    {
-      "id": "5f12712ecbaa",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/c-profilerna-om-svara-vagvalet-tiden-ar-inne",
-      "guid": "https://www.expressen.se/nyheter/politik/c-profilerna-om-svara-vagvalet-tiden-ar-inne/",
-      "published_at": "2026-11-14T18:38:00+01:00",
-      "fetched_at": "2026-11-14T18:42:03+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "C-profilerna om svåra vägvalet: ”Tiden är inne”",
-        "summary": "Ett rödgrönt mittenparti eller ett borgerligt parti. Centerpartiet har ett strategiskt vägval framför sig. – Tiden är inne för Centerpartiet att välja hur det här ska sluta, säger C-profilen Karin Källström.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "C figures on the difficult choice: \"The time has come\"",
-        "summary": "A red-green centrist party or a bourgeois party. The Centre Party faces a strategic choice. – The time has come for the Centre Party to decide how this is going to end, says C figure Karin Källström."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:20+01:00"
-      }
-    },
-    {
-      "id": "fcd82f759ee6",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/sigtunaskolans-ledning-utbuad--pa-informationsdag-folk-skrek",
-      "guid": "https://www.expressen.se/nyheter/sverige/sigtunaskolans-ledning-utbuad--pa-informationsdag-folk-skrek/",
-      "published_at": "2026-11-14T18:21:44+01:00",
-      "fetched_at": "2026-11-14T18:42:03+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Sigtunaskolans ledning utbuad på informationsdag: ”Folk skrek”",
-        "summary": "Sex elever på Sigtunaskolan misstänks för grova brott mot andra elever. Skolan hade informationsdag på lördagen och föräldrar var mycket kritiska mot ledningen, erfar Expressen. – Folk skrek och buade, säger en person som var på plats.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sigtuna School management booed at information day: \"People shouted\"",
-        "summary": "Six pupils at Sigtunaskolan are suspected of serious crimes against other pupils. The school held an information day on Saturday and parents were very critical of management, Expressen reports. – People shouted and booed, says a person who was there."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:20+01:00"
       }
     }
   ]
