@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T19:01:17+01:00",
+  "generated_at": "2026-11-18T19:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "789a19071d6d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/LoA664/vagrar-begrava-skytten-michal-oksinski-i-krakow",
+      "guid": "https://www.aftonbladet.se/nyheter/a/LoA664/vagrar-begrava-skytten-michal-oksinski-i-krakow?utm_medium=rss",
+      "published_at": "2026-11-18T19:09:34+01:00",
+      "fetched_at": "2026-11-18T19:15:46+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/8a70789c-6789-3366-aa08-8bad7643ecfd?format=auto&s=f9e4fc7781e0385fe30ef8377d7dc05b8c03853d&w=1000",
+      "sv": {
+        "title": "Vägrar begrava skytten – kan skänka bort kroppen",
+        "summary": "Mormorn har en annan idé",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Refuses to bury the shooter – may donate the body",
+        "summary": "Grandmother has a different idea"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T19:15:55+01:00"
+      }
+    },
     {
       "id": "548208beb017",
       "schema_version": 1,
@@ -5329,33 +5356,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:58:49+01:00"
-      }
-    },
-    {
-      "id": "74e25fda9c92",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/ez8J19/pojke-haktas-efter-dodsskjutning",
-      "guid": "https://www.aftonbladet.se/nyheter/a/ez8J19/pojke-haktas-efter-dodsskjutning?utm_medium=rss",
-      "published_at": "2026-11-14T14:29:38+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/4a13c802-c6a6-31d5-811c-82fd5032439b?format=auto&s=49f2e825bf2ba438ca4009139a59f6e706e27019&w=1000",
-      "sv": {
-        "title": "Pojke häktas efter dödsskjutning",
-        "summary": "En tonårspojke häktas misstänkt för medhjälp till mord efter dödsskjutningen i Bagarmossen i södra…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Boy remanded in custody after fatal shooting",
-        "summary": "A teenage boy is remanded in custody on suspicion of accessory to murder after the fatal shooting in Bagarmossen in southern…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:12+01:00"
       }
     }
   ]

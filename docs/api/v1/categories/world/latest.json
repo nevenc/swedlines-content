@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-11-18T19:01:17+01:00",
+  "generated_at": "2026-11-18T19:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "644d4e8606e5",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345713",
+      "guid": "rss:sr.se/article/9345713",
+      "published_at": "2026-11-18T19:09:00+01:00",
+      "fetched_at": "2026-11-18T19:15:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Misstänkt mord på Jylland – två vuxna och ett barn döda",
+        "summary": "I den danska orten Give, på Jylland, misstänker polisen att tre personer har mördats, rapporterar danska medier. Det handlar om en tioårig flicka och två vuxna, som hittades i deras hem under förmiddagen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Suspected murder in Jutland – two adults and a child dead",
+        "summary": "In the Danish town of Give, in Jutland, police suspect three people have been murdered, Danish media report. It concerns a ten-year-old girl and two adults, who were found in their home during the morning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T19:15:55+01:00"
+      }
+    },
+    {
+      "id": "6352b887ea67",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/det-ar-sma-stater-som-betalar-priset-om-stormakterna-far-bestamma.5463c188-6323-5756-b85c-dccd6c8929c5",
+      "guid": "5463c188-6323-5756-b85c-dccd6c8929c5",
+      "published_at": "2026-11-18T18:53:44+01:00",
+      "fetched_at": "2026-11-18T19:15:48+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Shenzhen",
+        "Tagg: Vladimir Putin",
+        "Tagg: Europa",
+        "Tagg: Donald Trump",
+        "Tagg: Volodymyr Zelenskyj",
+        "Tagg: Xi Jinping",
+        "Tagg: Ryssland",
+        "Tagg: USA",
+        "Tagg: Kina",
+        "Tagg: Ge mig perspektiv - BEHOV"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/567aace7-a599-3885-ada4-b3b731f10ed6",
+      "sv": {
+        "title": "Analys: Därför ska du oroa dig för stormaktsmötet",
+        "summary": "Donald Trump möter Rysslands Vladimir Putin och Kinas Xi Jinping ska ha ett historiskt trepartssamtal. Det finns goda skäl att oroa sig för vad de kommer att diskutera, skriver GP:s Andreas Granath.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Analysis: Why you should be worried about the superpower summit",
+        "summary": "Donald Trump meets Russia's Vladimir Putin, and China's Xi Jinping is reportedly to hold a historic three-way conversation. There are good reasons to be concerned about what they will discuss, writes GP's Andreas Granath."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T19:15:55+01:00"
+      }
+    },
     {
       "id": "8d9f52396423",
       "schema_version": 1,
@@ -5265,58 +5331,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T23:45:47+01:00"
-      }
-    },
-    {
-      "id": "b9900248895e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/trumps-nya-plan-for-att-sla-tillbaka-mot-utredningar",
-      "guid": "https://www.expressen.se/nyheter/varlden/trumps-nya-plan-for-att-sla-tillbaka-mot-utredningar/",
-      "published_at": "2026-11-16T23:43:27+01:00",
-      "fetched_at": "2026-11-16T23:45:43+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trumps nya plan för att slå tillbaka mot utredningar",
-        "summary": "Demokraterna är på jakt efter Trump och hans närmaste. Men presidenten ”kommer att försöka blockera kongressutredningar”, skriver CNN. – Mycket skadligt, säger demokratiske senatorn Peter Welch.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump's new plan to fight back against investigations",
-        "summary": "Democrats are going after Trump and his closest associates. But the president \"will try to block congressional investigations\", CNN writes. – Very harmful, says Democratic Senator Peter Welch."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T23:45:47+01:00"
-      }
-    },
-    {
-      "id": "ec107a85e029",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/nya-flygproblem-i-usa",
-      "guid": "https://www.expressen.se/nyheter/varlden/nya-flygproblem-i-usa/",
-      "published_at": "2026-11-16T23:23:23+01:00",
-      "fetched_at": "2026-11-16T23:30:56+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Nya flygproblem i USA",
-        "summary": "United Airlines-plan kan inte lyfta på grund av systemproblem, skriver Mirror. Det kommer bara några dagar efter att all flygtrafik stoppades i USA.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New flight problems in the US",
-        "summary": "United Airlines flights cannot take off due to system problems, Mirror reports. It comes just days after all air traffic was halted in the US."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T23:31:02+01:00"
       }
     }
   ]
