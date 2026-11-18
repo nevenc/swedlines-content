@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T14:01:22+01:00",
+  "generated_at": "2026-11-18T14:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f7803eedb55e",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/fotboll/har-ar-sveriges-trupp-infor-avgorande-vm-playoff-mot-skottland",
+      "guid": "https://www.svt.se/sport/fotboll/har-ar-sveriges-trupp-infor-avgorande-vm-playoff-mot-skottland",
+      "published_at": "2026-11-18T14:09:01+01:00",
+      "fetched_at": "2026-11-18T14:15:43+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Här är Sveriges trupp inför avgörande VM-playoff mot Skottland",
+        "summary": "En VM-biljett står på spel. Här är Sveriges trupp som ska göra upp om den mot Skottland i ett dubbelmöte. Då saknas Stina Blackstenius och in kommer Cornelia Kapocs. – Jättekul att hon får chansen, säger förbundskapten Tony Gustavsson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here is Sweden's squad for the decisive World Cup play-off against Scotland",
+        "summary": "A World Cup ticket is at stake. Here is Sweden's squad that will decide it against Scotland in a two-legged tie. Stina Blackstenius is absent and Cornelia Kapocs is coming in. \"Really fun that she gets the chance,\" says head coach Tony Gustavsson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T14:15:54+01:00"
+      }
+    },
     {
       "id": "864f8281daaf",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "The gap grows – climate targets ever further away",
         "summary": "Sweden looks set to miss all its climate targets – and the gap to reaching them has widened in the past year. That emerges from the transitional budget the government presented today. Both the distance to the 2030 target and to the 2045 target have increased according to the government's assessment."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "d0e8c40a94f4",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/allt-fler-lodjur-i-jonkopings-lan-klart-for-skyddsjakt",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/allt-fler-lodjur-i-jonkopings-lan-klart-for-skyddsjakt",
-      "published_at": "2026-11-12T10:34:31+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Allt fler lodjur i Jönköpings län – klart för licensjakt",
-        "summary": "Antalet lodjur är nu fler än vad som behövs för att bibehålla en god lodjurstam i Jönköpings län. Därför har Länsstyrelsen fattat beslut om att återuppta licensjakten på lodjur.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "More and more lynx in Jönköping County – licensed hunt approved",
-        "summary": "The number of lynx is now greater than what is needed to maintain a healthy lynx population in Jönköping County. The county administrative board has therefore decided to resume the licensed lynx hunt."
       },
       "translation": {
         "status": "done",

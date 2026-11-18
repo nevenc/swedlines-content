@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T14:01:22+01:00",
+  "generated_at": "2026-11-18T14:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "53d1f014a93b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/kommunen-vinner-nya-idrottsplatsen-pa-brunnshog-far-byggas",
+      "guid": "5ba374b2-e46e-4a43-bb9a-8dbce76496de",
+      "published_at": "2026-11-18T14:14:00+01:00",
+      "fetched_at": "2026-11-18T14:15:48+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/942ca8d4-d9d3-4493-aa2d-2fd1f38d8f7a.jpeg?width=600",
+      "sv": {
+        "title": "Kommunen vinner – nya idrottsplatsen på Brunnshög får byggas",
+        "summary": "Båda idrottsplatserna som ska ersätta Smörlyckan överklagades. Men nu vinner Lunds kommun den juridiska striden om en av dem.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Municipality wins – new sports ground at Brunnshög may be built",
+        "summary": "Both sports grounds that were to replace Smörlyckan were appealed. But now Lund Municipality wins the legal battle over one of them."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T14:15:54+01:00"
+      }
+    },
     {
       "id": "d55675254a01",
       "schema_version": 1,
@@ -5398,33 +5425,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "af164f5ef24f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/skane/magproblem-tio-vanliga-sjukdomar-och-raden-som-kan-hjalpa",
-      "guid": "17534a87-1471-4743-83c9-ff2866d0dd42",
-      "published_at": "2026-11-14T10:55:23+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/8d54a75a-268e-45a5-bba2-978311790b17.png?width=600",
-      "sv": {
-        "title": "Magproblem? Tio vanliga sjukdomar – och råden som kan hjälpa",
-        "summary": "Det kan hända en del mellan gom och ändtarm. IBS, gallsten, halsbränna och divertikulit, till exempel. Men vad kan du själv göra för att minska risken – och vilken hjälp finns om du blir sjuk?",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Stomach trouble? Ten common conditions – and the advice that can help",
-        "summary": "Quite a lot can go wrong between the mouth and the rectum. IBS, gallstones, heartburn and diverticulitis, for example. But what can you do yourself to reduce the risk – and what help is available if you become ill?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
       }
     }
   ]

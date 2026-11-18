@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T14:01:22+01:00",
+  "generated_at": "2026-11-18T14:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ab2ce942abe3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/kungligt/har-praoar-prinsessan-estelle-hos-alexander-stubb",
+      "guid": "https://www.expressen.se/nyheter/kungligt/har-praoar-prinsessan-estelle-hos-alexander-stubb/",
+      "published_at": "2026-11-18T14:02:17+01:00",
+      "fetched_at": "2026-11-18T14:15:46+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Här praoar prinsessan Estelle hos Alexander Stubb",
+        "summary": "Förra veckan praoade prinsessan Estelle, 14, hos sin morfar, kungen. Nu fortsätter hon hos Finlands president Alexander Stubb. ”Kul och lärorikt”, sa prinsessan om första praoveckan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Princess Estelle does work experience with Alexander Stubb",
+        "summary": "Last week Princess Estelle, 14, did work experience with her maternal grandfather, the King. Now she continues with Finnish President Alexander Stubb. \"Fun and educational,\" the princess said about her first work-experience week."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T14:15:54+01:00"
+      }
+    },
     {
       "id": "aaac3a8b908a",
       "schema_version": 1,
@@ -5161,32 +5187,6 @@
       "en": {
         "title": "Dominik Hasek's anger at Melania Trump: \"Repulsive\"",
         "summary": "Melania Trump received Putin's envoy Kirill Dmitriev at the White House. The Russian handed over a gift – which makes hockey icon Dominik Hasek hit the roof. – It's terrible, I'm stunned, he tells Expressen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "e23a79ade044",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/massiv-brand-efter-dronarattack-mot-rysk-industrianlaggning-",
-      "guid": "https://www.expressen.se/tv/nyheter/massiv-brand-efter-dronarattack-mot-rysk-industrianlaggning-",
-      "published_at": "2026-11-15T08:24:15+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Putins ”flaggskepp” brinner",
-        "summary": "Oljeinferno efter fabriksattacken i natt • En av Europas största",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Putin's \"flagship\" burns",
-        "summary": "Oil inferno after factory attack overnight • One of Europe's largest"
       },
       "translation": {
         "status": "done",
