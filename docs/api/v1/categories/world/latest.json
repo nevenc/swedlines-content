@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-18T18:01:27+01:00",
+  "generated_at": "2026-11-18T18:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "08291c67ed4f",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/vkQ83l/hegseth-i-venezuela-traffar-presidenten",
+      "guid": "https://www.aftonbladet.se/nyheter/a/vkQ83l/hegseth-i-venezuela-traffar-presidenten?utm_medium=rss",
+      "published_at": "2026-11-18T18:13:44+01:00",
+      "fetched_at": "2026-11-18T18:15:42+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/559d5fac-dbd0-3ffb-a44e-817ff6edd249?format=auto&s=875ba4ecf04798098c892054c2985067bae07b11&w=1000",
+      "sv": {
+        "title": "Hegseth i Venezuela – träffar presidenten",
+        "summary": "USA:s krigsminister Pete Hegseth är på besök i Venezuela. Besöket understryker Vita husets strävan…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hegseth in Venezuela – meets president",
+        "summary": "US Secretary of War Pete Hegseth is visiting Venezuela. The visit underscores the White House's efforts…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T18:15:50+01:00"
+      }
+    },
+    {
+      "id": "9e6fc80e474d",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/har-gar-trump-loss-med-flaggorna",
+      "guid": "https://www.expressen.se/tv/nyheter/har-gar-trump-loss-med-flaggorna/",
+      "published_at": "2026-11-18T18:10:55+01:00",
+      "fetched_at": "2026-11-18T18:15:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Här går Trump loss – med flaggorna",
+        "summary": "Tar emot två små flaggor – viftandet blir en uppvisning",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here Trump lets loose – with the flags",
+        "summary": "Receives two small flags – the waving becomes a display"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T18:15:50+01:00"
+      }
+    },
     {
       "id": "bc20f70669c8",
       "schema_version": 1,
@@ -5262,61 +5315,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T23:31:02+01:00"
-      }
-    },
-    {
-      "id": "f3402b80e458",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/mor-och-dotter-dog-inom-nagra-timmar-av-olika-orsaker",
-      "guid": "https://www.expressen.se/nyheter/varlden/mor-och-dotter-dog-inom-nagra-timmar-av-olika-orsaker/",
-      "published_at": "2026-11-16T23:10:25+01:00",
-      "fetched_at": "2026-11-16T23:15:45+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Mor och dotter dog inom några timmar – av olika orsaker",
-        "summary": "En toppolitikers fru och dotter dog inom några timmar på samma sjukhus – av olika sjukdomar, skriver BBC. Det beskrivs som en ”dubbel tragedi” och ”en djup personlig chock”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mother and daughter died within hours of each other – from different causes",
-        "summary": "The wife and daughter of a senior politician died within hours of each other at the same hospital – from different illnesses, BBC reports. It is described as a \"double tragedy\" and \"a profound personal shock\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T23:15:52+01:00"
-      }
-    },
-    {
-      "id": "6ebd12ee6a06",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3fQBmirdplMhxwBeO5ZYBk/svensk-expert-epstein-kan-ha-blivit-moerdad",
-      "guid": "3fQBmirdplMhxwBeO5ZYBk",
-      "published_at": "2026-11-16T22:38:09+01:00",
-      "fetched_at": "2026-11-16T22:45:43+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Svenske experten till TV4: Epstein kan ha blivit mördad",
-        "summary": "Jeffrey Epsteins död klassades som självmord efter att den dömde sexförbrytaren hittats död i sin häktescell i New York sommaren 2019. Nu ifrågasätts den officiella slutsatsen på nytt, rapporterar flera medier.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Swedish expert to TV4: Epstein may have been murdered",
-        "summary": "Jeffrey Epstein's death was classified as suicide after the convicted sex offender was found dead in his remand cell in New York in the summer of 2019. Now the official conclusion is being questioned again, reports several media outlets."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T22:45:49+01:00"
       }
     }
   ]

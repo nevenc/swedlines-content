@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-18T18:01:27+01:00",
+  "generated_at": "2026-11-18T18:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "73f4eb83098d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/jordanien-ska-avsalta-vatten-for-67-miljarder-kronor",
+      "guid": "a613deb2-4712-417b-a41a-196aaca21d6d",
+      "published_at": "2026-11-18T18:05:43+01:00",
+      "fetched_at": "2026-11-18T18:15:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/eea8f301-71e4-4c2c-8912-d78ab9294e0f.jpg?width=600",
+      "sv": {
+        "title": "Jordanien ska avsalta vatten för 67 miljarder kronor",
+        "summary": "Ett enormt avsaltningsprojekt ska ge dricksvatten till fem miljoner människor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Jordan to desalinate water for SEK 67 billion",
+        "summary": "A huge desalination project is to supply drinking water to five million people."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T18:15:50+01:00"
+      }
+    },
+    {
+      "id": "974c66b19e48",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/alfa-lavals-vd-ai-ar-inte-en-bubbla",
+      "guid": "46e6188e-9371-4ce9-a757-1b84fed00061",
+      "published_at": "2026-11-18T18:03:30+01:00",
+      "fetched_at": "2026-11-18T18:15:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6b5ff25b-9260-4762-a973-fd17601a9d97.jpeg?width=600",
+      "sv": {
+        "title": "Alfa Lavals vd: AI är inte en bubbla",
+        "summary": "Alfa Lavals orderingång växer kraftigt med hjälp av en stark cykel inom fartygsdivisionen Ocean och AI-boomen. Medan fartygsbyggandet väntas vända ned uppger vd Tom Erixon att AI-trenden bara har börjat.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Alfa Laval CEO: AI is not a bubble",
+        "summary": "Alfa Laval's order intake is growing strongly, driven by a strong cycle in the Ocean ship division and the AI boom. While shipbuilding is expected to turn down, CEO Tom Erixon says the AI trend has only just begun."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T18:15:50+01:00"
+      }
+    },
     {
       "id": "1ab747471154",
       "schema_version": 1,
@@ -5285,56 +5339,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T15:15:54+01:00"
-      }
-    },
-    {
-      "id": "04886467bbeb",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/nyheter/live-presstraff-med-ulf-kristersson",
-      "guid": "fa1137e2-e624-52cd-93b8-5f1a90399dba",
-      "published_at": "2026-11-17T15:00:00+01:00",
-      "fetched_at": "2026-11-17T15:15:45+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "LIVE: Pressträff med Ulf Kristersson"
-      },
-      "en": {
-        "title": "LIVE: Press conference with Ulf Kristersson"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T15:15:54+01:00"
-      }
-    },
-    {
-      "id": "e77c8781f155",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/politiken-hindrar-smaforetagen-att-vaxa",
-      "guid": "3d86612e-5ea7-4892-a15e-cef90ab9fb88",
-      "published_at": "2026-11-17T14:40:32+01:00",
-      "fetched_at": "2026-11-17T15:01:23+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/bf2e1ead-ef53-4fcd-966a-5e8f5c1e2ce8.jpeg?width=600",
-      "sv": {
-        "title": "Politiken hindrar småföretagen att växa",
-        "summary": "När Sverige får en ny regering måste regelförenklingar för småföretagen bli en prioriterad tillväxtfråga, skriver Charlotte von Sydow, vd för Spiris.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Politics is holding back small businesses from growing",
-        "summary": "When Sweden gets a new government, simplification of rules for small businesses must become a priority growth issue, writes Charlotte von Sydow, CEO of Spiris."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T15:01:28+01:00"
       }
     }
   ]
