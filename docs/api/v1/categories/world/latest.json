@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-18T11:31:06+01:00",
+  "generated_at": "2026-11-18T11:45:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1960ed1aed6d",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/lMAOLM/i-jamforelse-med-sverige-kanns-det-stabilt",
+      "guid": "https://www.svd.se/a/lMAOLM/i-jamforelse-med-sverige-kanns-det-stabilt?utm_medium=rss",
+      "published_at": "2026-11-18T11:41:56+01:00",
+      "fetched_at": "2026-11-18T11:45:43+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/8ae9ea3b-bb28-3c04-bc99-822d554c06b5?format=auto&s=e41bdc17d028165fde6990782ca07a4de9675188&w=1000",
+      "sv": {
+        "title": "I jämförelse med Sverige känns det stabilt",
+        "summary": "Storbritannien lider av brexitbaksmälla.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Compared with Sweden, it feels stable",
+        "summary": "Britain is suffering a Brexit hangover."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:45:58+01:00"
+      }
+    },
+    {
+      "id": "b02bc9dd56b3",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/ibland-ar-ens-plikt-inte-att-forverkliga-ideal-utan-att-forhindra-en-katastrof",
+      "guid": "https://www.dn.se/varlden/ibland-ar-ens-plikt-inte-att-forverkliga-ideal-utan-att-forhindra-en-katastrof/",
+      "published_at": "2026-11-18T11:36:11+01:00",
+      "fetched_at": "2026-11-18T11:45:43+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/d75bec1c-3c03-4153-8000-8e5804142f78.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "”Ibland är ens plikt inte att förverkliga ideal, utan att förhindra en katastrof”",
+        "summary": "TEL AVIV–JAFFA. Abed Abu Shehadehs telefon vill inte sluta ringa. På gatan i Jaffa gratuleras och omfamnas han vart han går, av araber och av judar. När DN träffar honom har det gått en dryg vecka sen han greps med buller och bång av säkerhetstjänsten Shabak, och ett par dagar sedan han släpptes,…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "\"Sometimes one's duty is not to realise ideals, but to prevent a catastrophe\"",
+        "summary": "TEL AVIV–JAFFA. Abed Abu Shehadeh's phone won't stop ringing. On the street in Jaffa he is congratulated and embraced wherever he goes, by Arabs and Jews. When DN meets him, a little over a week has passed since he was arrested with great fanfare by the security service Shabak, and a couple of days since he was released,…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:45:58+01:00"
+      }
+    },
     {
       "id": "e5904bb79eee",
       "schema_version": 1,
@@ -161,6 +215,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "c0fd2f1da4aa",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/yz39je/trump-har-landat-i-kina",
+      "guid": "https://www.aftonbladet.se/nyheter/a/yz39je/trump-har-landat-i-kina?utm_medium=rss",
+      "published_at": "2026-11-18T10:24:59+01:00",
+      "fetched_at": "2026-11-18T11:45:43+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/905bf14e-cc37-320b-be94-18075e0c99d6?format=auto&s=e7828443a554a7b88d7bf0dfde6bcf9ac8168351&w=1000",
+      "sv": {
+        "title": "Trump har landat i Kina – möttes av efterlängtad kram",
+        "summary": "Trump har fått sin kram ✓ ”Är fantastisk”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump has landed in China – greeted with a long-awaited hug",
+        "summary": "Trump has got his hug ✓ \"Is fantastic\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:45:58+01:00"
       }
     },
     {
@@ -5251,87 +5332,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T15:31:07+01:00"
-      }
-    },
-    {
-      "id": "00e3d2f33913",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/firades-som-danmarks-aldsta-hade-morkt-forflutet",
-      "guid": "https://www.dn.se/varlden/firades-som-danmarks-aldsta-hade-morkt-forflutet/",
-      "published_at": "2026-11-16T15:12:03+01:00",
-      "fetched_at": "2026-11-16T15:16:56+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/0aa58c2e-18d4-4bf9-bc04-5da5e618b98b.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Firades som Danmarks äldsta – hade mörkt förflutet",
-        "summary": "Hon har under hösten firats som den äldsta personen i Danmarks historia. Men av uppmärksamheten följde avslöjanden från en mörkare del av hennes liv.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Celebrated as Denmark's Oldest – Had a Dark Past",
-        "summary": "She was celebrated this autumn as the oldest person in Danish history. But the attention was followed by revelations from a darker part of her life."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:17:06+01:00"
-      }
-    },
-    {
-      "id": "0ae5211811b4",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/g373O5/omstritt-utkast-nar-klimatmote-gar-in-i-finalvecka",
-      "guid": "https://www.svd.se/a/g373O5/omstritt-utkast-nar-klimatmote-gar-in-i-finalvecka?utm_medium=rss",
-      "published_at": "2026-11-16T15:11:51+01:00",
-      "fetched_at": "2026-11-16T15:16:56+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/ff6110b3-eb9c-3a79-8141-13d62746948d?format=auto&s=88d299f23fa722551df114010d26ae696ce21eaa&w=1000",
-      "sv": {
-        "title": "Omstritt utkast när klimatmöte går in i finalvecka",
-        "summary": "Förhandlingarna blir skarpare när klimattoppmötet COP31 nu går in i sina andra vecka.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Controversial Draft as Climate Talks Enter Final Week",
-        "summary": "Negotiations are becoming tougher as the COP31 climate summit enters its second week."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:17:06+01:00"
-      }
-    },
-    {
-      "id": "1c964865ac26",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/ez8zB9/omstritt-utkast-nar-klimatmote-gar-in-i-finalvecka",
-      "guid": "https://www.aftonbladet.se/nyheter/a/ez8zB9/omstritt-utkast-nar-klimatmote-gar-in-i-finalvecka?utm_medium=rss",
-      "published_at": "2026-11-16T15:11:50+01:00",
-      "fetched_at": "2026-11-16T15:16:58+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/ff6110b3-eb9c-3a79-8141-13d62746948d?format=auto&s=88d299f23fa722551df114010d26ae696ce21eaa&w=1000",
-      "sv": {
-        "title": "Omstritt utkast när klimatmöte går in i finalvecka",
-        "summary": "Förhandlingarna blir skarpare när klimattoppmötet COP31 nu går in i sina andra vecka.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Controversial Draft as Climate Talks Enter Final Week",
-        "summary": "Negotiations are becoming tougher as the COP31 climate summit enters its second week."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:17:06+01:00"
       }
     }
   ]

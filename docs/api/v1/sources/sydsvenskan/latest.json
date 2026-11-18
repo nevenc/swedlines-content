@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-18T11:31:06+01:00",
+  "generated_at": "2026-11-18T11:45:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "be13477bf198",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/guldpennan-till-staffan-heimerson",
+      "guid": "d41a96bb-a183-48c3-9a4c-e0e8134312a0",
+      "published_at": "2026-11-18T11:42:57+01:00",
+      "fetched_at": "2026-11-18T11:45:45+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/f5ddad38-9b3e-4284-8e4c-9cdbf53fc3d0.jpg?width=600",
+      "sv": {
+        "title": "Guldpennan till Staffan Heimerson",
+        "summary": "Journalisten och författaren Staffan Heimerson får Publicistklubbens utmärkelse Guldpennan för att han ”i decennier förgyllt svensk journalistik”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Guldpennan award goes to Staffan Heimerson",
+        "summary": "Journalist and author Staffan Heimerson receives the Publicistklubben's Guldpennan award for having \"gilded Swedish journalism for decades\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:45:58+01:00"
+      }
+    },
+    {
+      "id": "76a6fff6e327",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/oktober-stark-manad-for-svensk-vindkraft",
+      "guid": "a57bb8ba-a686-4cb2-85a9-f26d5c032fa8",
+      "published_at": "2026-11-18T11:37:05+01:00",
+      "fetched_at": "2026-11-18T11:45:45+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/00ca6301-26b8-4c37-90b1-a79648d970db.jpg?width=600",
+      "sv": {
+        "title": "Oktober stark månad för svensk vindkraft",
+        "summary": "Vindkraften slog vatten- och kärnkraften i oktober, enligt branschorganisationen Green Power Sweden. Även för helåret är vinden på väg om kärnkraftsproduktionen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "October a strong month for Swedish wind power",
+        "summary": "Wind power outproduced hydro and nuclear power in October, according to the industry organisation Green Power Sweden. For the full year, wind is also on course to overtake nuclear production."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:45:58+01:00"
+      }
+    },
     {
       "id": "209bf56ad285",
       "schema_version": 1,
@@ -5124,60 +5178,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T09:01:40+01:00"
-      }
-    },
-    {
-      "id": "b836cb67bdbb",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/kampen-i-kasan-star-mot-mer-an-bara-lera-och-kyla",
-      "guid": "6b0ed90e-a849-4c86-8fbc-9386d69a65e9",
-      "published_at": "2026-11-16T09:00:00+01:00",
-      "fetched_at": "2026-11-16T09:01:27+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/8abc2c13-5d08-4a32-9b8e-2725af2a4f5d.jpeg?width=600",
-      "sv": {
-        "title": "Kampen i ”Kåsan” står mot mer än bara lera och kyla",
-        "summary": "Att orka är den stora utmaningen i Novemberkåsan. Tävlingsledaren fick inte riktigt som han önskade: För många förare tog sig i mål. När enduroklassikern kördes för hundrade gången var stämningen mestadels på topp men i leran utbröt också en konflikt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "The battle in \"Kåsan\" is about more than mud and cold",
-        "summary": "Endurance is the big challenge at the Novemberkåsan. The race leader did not get what he wanted: too many riders finished. When the enduro classic was run for the hundredth time, the mood was mostly high, but a conflict also broke out in the mud."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:01:40+01:00"
-      }
-    },
-    {
-      "id": "0511dbc0d11e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/gabrielsson-andersson-ar-inte-som-jultomten",
-      "guid": "dc87fd40-22cd-44cd-b406-9b49c5ad34be",
-      "published_at": "2026-11-16T08:30:19+01:00",
-      "fetched_at": "2026-11-16T08:31:02+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/87c2dccc-acbc-4568-8fdd-8e28c0fca1f0.jpg?width=600",
-      "sv": {
-        "title": "Gabrielsson: Andersson är inte som jultomten",
-        "summary": "Centerpartiet måste återupprätta sitt förtroende efter närmandet högerut, och kan inte önska vilka paket som helst i förhandlingarna. Det säger Ida Gabrielsson, vice partiledare för Vänsterpartiet, i P1 Morgon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Gabrielsson: Andersson is not like Santa Claus",
-        "summary": "The Centre Party must rebuild its trust after its move to the right, and cannot wish for just any packages in the negotiations. That is what Ida Gabrielsson, deputy leader of the Left Party, says on P1 Morgon."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T08:31:06+01:00"
       }
     }
   ]

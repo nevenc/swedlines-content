@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-18T11:31:06+01:00",
+  "generated_at": "2026-11-18T11:45:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1960ed1aed6d",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/lMAOLM/i-jamforelse-med-sverige-kanns-det-stabilt",
+      "guid": "https://www.svd.se/a/lMAOLM/i-jamforelse-med-sverige-kanns-det-stabilt?utm_medium=rss",
+      "published_at": "2026-11-18T11:41:56+01:00",
+      "fetched_at": "2026-11-18T11:45:43+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/8ae9ea3b-bb28-3c04-bc99-822d554c06b5?format=auto&s=e41bdc17d028165fde6990782ca07a4de9675188&w=1000",
+      "sv": {
+        "title": "I jämförelse med Sverige känns det stabilt",
+        "summary": "Storbritannien lider av brexitbaksmälla.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Compared with Sweden, it feels stable",
+        "summary": "Britain is suffering a Brexit hangover."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:45:58+01:00"
+      }
+    },
+    {
+      "id": "71e153145853",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/7P0mEK/dick-harrison-om-slaget-vid-lutzen-och-massgraven-pa-museum-lutzen-1632",
+      "guid": "https://www.svd.se/a/7P0mEK/dick-harrison-om-slaget-vid-lutzen-och-massgraven-pa-museum-lutzen-1632?utm_medium=rss",
+      "published_at": "2026-11-18T11:30:00+01:00",
+      "fetched_at": "2026-11-18T11:45:43+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/479faabc-41c5-3b92-a74e-e632bb8f0dbc?format=auto&s=fc136b3f2fc7b83fc713226886b52c5ff8611d4c&w=1000",
+      "sv": {
+        "title": "Upprättelse för de stupade vid Lützen",
+        "summary": "De omkring 8 000 som dog i slaget vid Lützen har – med ett undantag – varit förbluffande osynliga.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Vindication for the fallen at Lützen",
+        "summary": "The roughly 8,000 who died in the battle of Lützen have, with one exception, been strikingly invisible."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:45:58+01:00"
+      }
+    },
     {
       "id": "4acbd9e1e074",
       "schema_version": 1,
@@ -5157,56 +5211,6 @@
       "en": {
         "title": "The 68 generation leaves the bill to the grandchildren",
         "summary": "Boomers' debt and growth crisis drive Generation Z to protest."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T11:26:59+01:00"
-      }
-    },
-    {
-      "id": "357577765407",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79929",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79929&utm_medium=rss",
-      "published_at": "2026-11-15T10:58:18+01:00",
-      "fetched_at": "2026-11-15T11:26:38+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Öbergs succé fortsätter – vinner sprinten"
-      },
-      "en": {
-        "title": "Öberg's success continues – wins the sprint"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T11:26:59+01:00"
-      }
-    },
-    {
-      "id": "07d18b954ccc",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/LoAM9R/barbados-aterforenas-efter-25-ar-med-magnus-carlsson",
-      "guid": "https://www.svd.se/a/LoAM9R/barbados-aterforenas-efter-25-ar-med-magnus-carlsson?utm_medium=rss",
-      "published_at": "2026-11-15T10:45:06+01:00",
-      "fetched_at": "2026-11-15T11:26:38+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/0cac326c-fba1-3825-9cd6-05325db508d8?format=auto&s=318f2079edd85007916ca2a0ae95ee2bb638e9af&w=1000",
-      "sv": {
-        "title": "Barbados återförenas – med Magnus Carlsson",
-        "summary": "Här är glädjenyheten för alla dansbandsfans: Barbados återförenas – med Magnus Carlsson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Barbados reunites – with Magnus Carlsson",
-        "summary": "Here is the good news for all dance band fans: Barbados is reuniting – with Magnus Carlsson."
       },
       "translation": {
         "status": "done",
