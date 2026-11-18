@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-18T10:15:58+01:00",
+  "generated_at": "2026-11-18T10:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4c687f77c8d5",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/nyheter/ebba-busch-om-regeringsbildningen",
+      "guid": "0f5c9862-8c70-535f-9207-00a027fb7572",
+      "published_at": "2026-11-18T10:28:07+01:00",
+      "fetched_at": "2026-11-18T10:31:02+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Ebba Busch om regeringsbildningen",
+        "summary": "Kristdemokraternas partiledar höll pressträff i riksdagen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ebba Busch on government formation",
+        "summary": "The Christian Democrats' party leader held a press conference at the Riksdag"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "57be367a2517",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/efter-haveriet-klart-med-nytt-kvittningssystem-i-riksdagen",
+      "guid": "8880c5f9-fb1e-4913-afa2-6b595a55760a",
+      "published_at": "2026-11-18T10:21:01+01:00",
+      "fetched_at": "2026-11-18T10:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/87c12cee-88b0-4a7e-b03b-b0422671a0ab.jpg?width=600",
+      "sv": {
+        "title": "Efter haveriet: Klart med nytt kvittningssystem i riksdagen",
+        "summary": "Riksdagspartierna är överens om en ny kvittningsöverenskommelse. Det gamla avtalet havererade för sex månader sedan och har orsakat kaos i riksdagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After the breakdown: new pairing system in the Riksdag agreed",
+        "summary": "The Riksdag parties have agreed on a new pairing agreement. The old agreement broke down six months ago and has caused chaos in the Riksdag."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "d94f26cd051a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/di-weekend/jag-ar-ju-en-lantis-fran-lappland",
+      "guid": "d2b77520-58aa-40f2-8615-7932a330c19e",
+      "published_at": "2026-11-18T10:15:40+01:00",
+      "fetched_at": "2026-11-18T10:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/9c9c5e37-b99e-4352-8edc-9ef078b97df3.jpeg?width=600",
+      "sv": {
+        "title": "”Jag är ju en lantis från Lappland”",
+        "summary": "Efter mer än tre decennier i näringslivets toppskikt har Carl-Henric Svanberg lämnat sina maktpositioner. Nu ägnar han sig åt familjeimperiet – men hur mycket det är värt vill han inte avslöja. ”Jag brukar säga att det är som ett mindre börsnoterat investmentbolag”, säger han till Di Weekend.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "\"I'm just a country bumpkin from Lapland\"",
+        "summary": "After more than three decades at the top of business, Carl-Henric Svanberg has left his positions of power. Now he is devoting himself to the family empire – but he does not want to reveal how much it is worth. \"I usually say it is like a smaller listed investment company,\" he tells Di Weekend."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:31:10+01:00"
+      }
+    },
     {
       "id": "8cf111d747ed",
       "schema_version": 1,
@@ -5240,83 +5320,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T08:15:46+01:00"
-      }
-    },
-    {
-      "id": "3958e2c81278",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/klart-hogre-resultat-an-vantat-fran-nibe",
-      "guid": "6a6c5812-15eb-4a6b-91aa-839905127e56",
-      "published_at": "2026-11-17T08:06:14+01:00",
-      "fetched_at": "2026-11-17T08:15:40+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6dc454dd-93f7-45af-8ca4-7c2d750c7573.jpeg?width=600",
-      "sv": {
-        "title": "Klart högre resultat än väntat från Nibe",
-        "summary": "Värmteteknikbolaget Nibe rapporterar bättre tillväxt och lönsamhet än analytikernas förväntningar för det tredje kvartalet. ”Den positiva resultatutvecklingen förklaras framför allt av den goda organiska omsättningstillväxten, en god kostnadsdisciplin och förbättrad produktivitet”, kommenterar vd…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Clearly higher results than expected from Nibe",
-        "summary": "Heat-technology company Nibe reports better growth and profitability than analysts' expectations for the third quarter. \"The positive earnings development is explained primarily by the good organic sales growth, good cost discipline and improved productivity,\" comments CEO…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:15:46+01:00"
-      }
-    },
-    {
-      "id": "a31c1389774d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/live-borsmorgon-17-november",
-      "guid": "4af0418e-e01e-5a98-b9f5-75c78cf4dd02",
-      "published_at": "2026-11-17T08:00:00+01:00",
-      "fetched_at": "2026-11-17T08:15:40+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "LIVE: Börsmorgon 17 november"
-      },
-      "en": {
-        "title": "LIVE: Stock market morning 17 November"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:15:46+01:00"
-      }
-    },
-    {
-      "id": "44001698fd46",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/15-miljoner-interna-dokument-lackta-fran-storbank",
-      "guid": "3e82cbdc-17c7-4cc9-8caf-10473395cb90",
-      "published_at": "2026-11-17T07:50:16+01:00",
-      "fetched_at": "2026-11-17T08:01:20+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/58bf4205-8c1e-4b9a-94a4-a02f4cb9658f.jpeg?width=600",
-      "sv": {
-        "title": "15 miljoner interna dokument läckta från storbank",
-        "summary": "Över 15 miljoner interna dokument från Deutsche Bank har läckts av visselblåsare. Dokumenten avslöjar bland annat systemiska problem och dåligt beteende från bankens vd och övriga ledning, skriver Financial Times i en stor kartläggning av läckan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "15 million internal documents leaked from major bank",
-        "summary": "Over 15 million internal documents from Deutsche Bank have been leaked by whistleblowers. The documents reveal, among other things, systemic problems and poor conduct by the bank's CEO and other management, the Financial Times writes in a major investigation of the leak."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:01:26+01:00"
       }
     }
   ]

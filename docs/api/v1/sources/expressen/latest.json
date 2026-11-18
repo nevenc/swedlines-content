@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-18T10:15:58+01:00",
+  "generated_at": "2026-11-18T10:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e49689de834a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=32f575a7-9d08-46c1-afd4-52af8d0f5c11",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=32f575a7-9d08-46c1-afd4-52af8d0f5c11",
+      "published_at": "2026-11-18T10:21:15+01:00",
+      "fetched_at": "2026-11-18T10:31:01+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Nytt kvittningssystem",
+        "summary": "Beskedet: Alla riksdagspartier överens",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New pairing system",
+        "summary": "Verdict: All Riksdag parties agree"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "c18b8a499e23",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/atalas-for-att-ha-dodat-sin-bebis-ar-lakare-",
+      "guid": "https://www.expressen.se/nyheter/sverige/atalas-for-att-ha-dodat-sin-bebis-ar-lakare-/",
+      "published_at": "2026-11-18T10:16:23+01:00",
+      "fetched_at": "2026-11-18T10:31:01+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Åtalas för att ha dödat sin bebis – är läkare",
+        "summary": "En mamma i 35-årsåldern åtalas för att ha dödat sin bebis. Enligt nyhetsbyrån Siren är hon legitimerad läkare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Charged with killing her baby – is a doctor",
+        "summary": "A woman in her mid-30s is charged with killing her baby. According to the news agency Siren, she is a licensed physician."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:31:10+01:00"
+      }
+    },
     {
       "id": "52c20f4b9719",
       "schema_version": 1,
@@ -5135,58 +5187,6 @@
       "en": {
         "title": "Set fire to Brenda, 80, outside her home",
         "summary": "Brenda Raymond was on her way home. Then someone set fire to the 80-year-old woman. She suffered \"catastrophic injuries\", writes Metro."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "5779e5d4b60c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/andersson-s-fortydligar-efter-kritiken-fran-v-feltolkning",
-      "guid": "https://www.expressen.se/nyheter/politik/andersson-s-fortydligar-efter-kritiken-fran-v-feltolkning/",
-      "published_at": "2026-11-14T23:08:46+01:00",
-      "fetched_at": "2026-11-14T23:33:36+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Andersson (S) förtydligar – efter kritiken från V: ”Feltolkning”",
-        "summary": "V är redo att förhandla vidare om en rödgrön regering, skrev S-ledaren i en debattartikel i Expressen. Det tolkades av vissa som att V släppt kravet på ministerposter, vilket partiet gick ut och förnekade. Andersson har nu publicerat ett förtydligande i sociala medier.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Andersson (S) clarifies – after criticism from the Left Party: \"Misinterpretation\"",
-        "summary": "The Left Party is ready to continue negotiating a red-green government, the S leader wrote in a debate article in Expressen. Some interpreted this as the Left Party having dropped its demand for ministerial posts, which the party went out and denied. Andersson has now published a clarification on social media."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "db960a688500",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/gick-pa-toa-dog--i-marklig-olycka",
-      "guid": "https://www.expressen.se/nyheter/varlden/gick-pa-toa-dog--i-marklig-olycka/",
-      "published_at": "2026-11-14T22:20:32+01:00",
-      "fetched_at": "2026-11-14T23:33:36+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Gick på toa – dog i ”märklig olycka”",
-        "summary": "Akutläkaren James Turpin gick på toa mitt i natten. Det blev hans död, skriver Lexington Herald Leader. – En märklig olycka, säger vännen Eric Guerrant.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Went to the toilet – died in a \"strange accident\"",
-        "summary": "Emergency physician James Turpin went to the toilet in the middle of the night. It led to his death, writes the Lexington Herald Leader. \"A strange accident,\" says friend Eric Guerrant."
       },
       "translation": {
         "status": "done",
