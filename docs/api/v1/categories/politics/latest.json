@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T08:45:51+01:00",
+  "generated_at": "2026-11-18T09:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c6526d7d9f60",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/s-toppens-ord-efter-raset-tror-att-det-ar-otalighet",
+      "guid": "https://www.expressen.se/nyheter/politik/s-toppens-ord-efter-raset-tror-att-det-ar-otalighet/",
+      "published_at": "2026-11-18T08:45:16+01:00",
+      "fetched_at": "2026-11-18T09:01:13+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "S-toppens ord efter raset: ”Tror att det är otålighet”",
+        "summary": "Socialdemokraterna forsätter att tappa väljarstöd, enligt en ny mätning från Novus. Det är för att svenska folket är otåliga och vill ha en regering på plats – ledd av Magdalena Andersson. Det säger Socialdemokraternas partisekreterare Tobias Baudin.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Social Democrat top's words after the slump: \"Think it is impatience\"",
+        "summary": "The Social Democrats continue to lose voter support, according to a new Novus poll. It is because the Swedish people are impatient and want a government in place – led by Magdalena Andersson. That is what the Social Democrats' party secretary Tobias Baudin says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:01:20+01:00"
+      }
+    },
     {
       "id": "5cc529416e6c",
       "schema_version": 1,
@@ -5379,33 +5405,6 @@
       "en": {
         "title": "Confirmed: The Centre chooses the Social Democrats",
         "summary": "The Centre Party chooses S package deal, party leader Elisabeth Thand Ringqvist tells SVT in a comment. – After reviewing Andersson's package deal, our decision is that the Social Democrats' alternative is the one we choose to negotiate further, says Thand Ringqvist."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T20:01:22+01:00"
-      }
-    },
-    {
-      "id": "b7dcefa5f7eb",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/R1RjyW/centern-valjer-socialdemokraterna",
-      "guid": "https://www.aftonbladet.se/nyheter/a/R1RjyW/centern-valjer-socialdemokraterna?utm_medium=rss",
-      "published_at": "2026-11-15T19:47:57+01:00",
-      "fetched_at": "2026-11-15T20:01:12+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/870c4f68-8292-3efd-8ccf-aea3ee90a454?format=auto&s=c9ece079d41e60aee08fa0b73443bea8872950d1&w=1000",
-      "sv": {
-        "title": "Centern väljer socialdemokraterna",
-        "summary": "Thand Ringqvist bekräftar ✓ ”Välkommet”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Centre chooses the Social Democrats",
-        "summary": "Thand Ringqvist confirms ✓ \"Welcome\""
       },
       "translation": {
         "status": "done",

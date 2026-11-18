@@ -1,7 +1,248 @@
 {
-  "generated_at": "2026-11-18T08:45:51+01:00",
+  "generated_at": "2026-11-18T09:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a4bd2f6cc34a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/skanetrafikens-nya-bussrutter-ar-positiva-for-oss",
+      "guid": "8583ea56-7d8f-4412-8525-e782f24199c2",
+      "published_at": "2026-11-18T09:00:00+01:00",
+      "fetched_at": "2026-11-18T09:01:15+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Skånetrafikens nya bussrutter är positiva för oss",
+        "summary": "Alla är inte negativa till de nya dragningarna av busslinjerna. För oss som pendlar från norra Malmö till universitetssjukhuset i Lund borde detta innebära en stor förbättring, skriver dagens insändarskribent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Skånetrafiken's new bus routes are positive for us",
+        "summary": "Not everyone is negative about the new bus line routings. For us who commute from northern Malmö to the university hospital in Lund, this should mean a major improvement, writes today's letter writer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:01:20+01:00"
+      }
+    },
+    {
+      "id": "313c0fec53ed",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/experten-varnar-kriminella-ligor-bakom-brf-konkurser",
+      "guid": "https://www.dn.se/ekonomi/experten-varnar-kriminella-ligor-bakom-brf-konkurser/",
+      "published_at": "2026-11-18T08:56:24+01:00",
+      "fetched_at": "2026-11-18T09:01:12+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/13564b7a-7bf0-4814-beec-8d42684b009b.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Experten varnar: Kriminella ligor bakom BRF-konkurser",
+        "summary": "Drygt 200 bostadsrättsföreningar gick i konkurs under 2024 och 2025. I många fall kan det vara kriminella ligor som ligger bakom. – Det är tyvärr lite för lätt att tömma bostadsrättsföreningar på pengar, säger Sara Persson på Ekobrottsmyndigheten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expert warns: Criminal gangs behind housing association bankruptcies",
+        "summary": "Just over 200 housing cooperatives went bankrupt in 2024 and 2025. In many cases, criminal gangs may be behind them. – It is unfortunately a little too easy to drain housing cooperatives of money, says Sara Persson at the Economic Crime Authority."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:01:20+01:00"
+      }
+    },
+    {
+      "id": "894aa2339bdd",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/hasse-eriksson-supervinsten-far-inte-skandalen-att-forsvinna",
+      "guid": "https://www.dn.se/ekonomi/hasse-eriksson-supervinsten-far-inte-skandalen-att-forsvinna/",
+      "published_at": "2026-11-18T08:53:12+01:00",
+      "fetched_at": "2026-11-18T09:01:12+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/5c156c38-14e9-43db-9b41-84dd2cdb1328.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Hasse Eriksson: Supervinsten får inte skandalen att försvinna",
+        "summary": "Nvidia gör kanonvinst. Samtidigt solkar otrohetsskandalen bolaget. DN:s ekonomireporter Hasse Eriksson svarar på tre frågor om läget i AI-jätten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hasse Eriksson: Super profit does not make the scandal disappear",
+        "summary": "Nvidia makes a stellar profit. At the same time, the infidelity scandal tarnishes the company. DN's economics reporter Hasse Eriksson answers three questions about the situation at the AI giant."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:01:20+01:00"
+      }
+    },
+    {
+      "id": "0385be881585",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/kopparpriset-faller-till-lagsta-nivan-sedan-april",
+      "guid": "56045873-d5fe-43b1-aaaf-2a7d89da4641",
+      "published_at": "2026-11-18T08:51:37+01:00",
+      "fetched_at": "2026-11-18T09:01:14+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/5648de78-be64-4c74-94b6-74087d884f8e.jpeg?width=600",
+      "sv": {
+        "title": "Kopparpriset faller till lägsta nivån sedan april",
+        "summary": "Kopparpriset föll på onsdagsmorgonen till den lägsta nivån sedan april i samband med ett bredare prisfall för både bas- och ädelmetaller.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Copper price falls to lowest level since April",
+        "summary": "The copper price fell on Wednesday morning to its lowest level since April, in connection with a broader price decline for both base and precious metals."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:01:20+01:00"
+      }
+    },
+    {
+      "id": "10f9d19f19f8",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5wG3eu8GIrZQGX1VSjKiS0/kycklinggryta-med-oliver-kapris-och-matvetesallad",
+      "guid": "5wG3eu8GIrZQGX1VSjKiS0",
+      "published_at": "2026-11-18T08:51:18+01:00",
+      "fetched_at": "2026-11-18T09:01:13+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Mat"
+      ],
+      "sv": {
+        "title": "Kycklinggryta med oliver, kapris och matvetesallad",
+        "summary": "Dagens middagstips bjuder på en kycklinggryta med sardeller, kapris och gröna oliver, serverad med en ljummen matvetesallad med fetaost, citron och dill. Perfekt middag när du vill ha mycket smak på tallriken! Se Stefan Ekengrens recept",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Chicken stew with olives, capers and bulgur salad",
+        "summary": "Today's dinner tip is a chicken stew with anchovies, capers and green olives, served with a lukewarm bulgur salad with feta, lemon and dill. Perfect dinner when you want lots of flavour on the plate! See Stefan Ekengren's recipe"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:01:20+01:00"
+      }
+    },
+    {
+      "id": "2b689cd868ce",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/liten-organisk-tillvaxt-i-elon",
+      "guid": "e30438fa-a51f-4b17-9cbe-fcc578479ce0",
+      "published_at": "2026-11-18T08:49:01+01:00",
+      "fetched_at": "2026-11-18T09:01:14+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Liten organisk tillväxt i Elon",
+        "summary": "Elon redovisar ett rörelseresultat på 38 miljoner kronor för tredje kvartalet 2026, jämfört med -34 miljoner kronor motsvarande period föregående år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Slight organic growth at Elon",
+        "summary": "Elon reports an operating profit of SEK 38 million for the third quarter of 2026, compared with an operating loss of SEK 34 million for the same period last year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:01:20+01:00"
+      }
+    },
+    {
+      "id": "9060539e5ec9",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/vd-intervjuer/kopparbergs-vd-vm-gav-positiv-effekt-i-kvartalet",
+      "guid": "f4bf0e03-bff0-5f45-ad9b-08c1b05a93ec",
+      "published_at": "2026-11-18T08:47:40+01:00",
+      "fetched_at": "2026-11-18T09:01:14+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Kopparbergs vd: VM gav positiv effekt i kvartalet",
+        "summary": "Bryggeriet Kopparbergs ökade omsättningen och lönsamheten under det tredje kvartalet där sommarens fotbolls-VM hade en positiv effekt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kopparberg CEO: World Cup had positive effect in the quarter",
+        "summary": "Brewery Kopparberg increased turnover and profitability in the third quarter, where the summer football World Cup had a positive effect."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:01:20+01:00"
+      }
+    },
+    {
+      "id": "c6526d7d9f60",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/s-toppens-ord-efter-raset-tror-att-det-ar-otalighet",
+      "guid": "https://www.expressen.se/nyheter/politik/s-toppens-ord-efter-raset-tror-att-det-ar-otalighet/",
+      "published_at": "2026-11-18T08:45:16+01:00",
+      "fetched_at": "2026-11-18T09:01:13+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "S-toppens ord efter raset: ”Tror att det är otålighet”",
+        "summary": "Socialdemokraterna forsätter att tappa väljarstöd, enligt en ny mätning från Novus. Det är för att svenska folket är otåliga och vill ha en regering på plats – ledd av Magdalena Andersson. Det säger Socialdemokraternas partisekreterare Tobias Baudin.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Social Democrat top's words after the slump: \"Think it is impatience\"",
+        "summary": "The Social Democrats continue to lose voter support, according to a new Novus poll. It is because the Swedish people are impatient and want a government in place – led by Magdalena Andersson. That is what the Social Democrats' party secretary Tobias Baudin says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:01:20+01:00"
+      }
+    },
+    {
+      "id": "fa701ced15f2",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/rubio-inga-samband-mellan-senaste-tidens-teknikstrul",
+      "guid": "3ef0becc-bdee-4e39-a67e-e760301edb4f",
+      "published_at": "2026-11-18T08:43:25+01:00",
+      "fetched_at": "2026-11-18T09:01:14+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/359d8790-268f-46d0-a1f7-3156b074c0e1.jpeg?width=600",
+      "sv": {
+        "title": "Rubio: Inga samband mellan senaste tidens teknikstrul",
+        "summary": "USA:s utrikesminister Marco Rubio uppger att det inte finns några belägg för att den senaste tidens omfattande tekniska störningar inom bland annat flygtrafik, banker och techjättar hänger samman. Det sade han vid en pressträff i Filippinerna på onsdagen, skriver CBS News.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Rubio: No links between recent technology outages",
+        "summary": "US Secretary of State Marco Rubio states there is no evidence that the recent widespread technical disruptions affecting, among other things, air traffic, banks and tech giants are connected. He said this at a press conference in the Philippines on Wednesday, writes CBS News."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:01:20+01:00"
+      }
+    },
     {
       "id": "1f193d39de19",
       "schema_version": 1,
@@ -56,6 +297,32 @@
       }
     },
     {
+      "id": "56866d6310e5",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/di-s-analytiker-nvidias-aktie-har-bottnat",
+      "guid": "c12470bd-dc89-5c7c-9bcb-dd340dc15423",
+      "published_at": "2026-11-18T08:40:55+01:00",
+      "fetched_at": "2026-11-18T09:01:14+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Di:s analytiker: Nvidias aktie har bottnat",
+        "summary": "Robert Andersson kommenterar Nvidias rapport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Di's analyst: Nvidia's share has bottomed out",
+        "summary": "Robert Andersson comments on Nvidia's report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:01:20+01:00"
+      }
+    },
+    {
       "id": "d3cd7f539147",
       "schema_version": 1,
       "source": "aftonbladet",
@@ -80,6 +347,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T08:45:50+01:00"
+      }
+    },
+    {
+      "id": "5f09298eef87",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/tyskland-sanker-omstridd-elskatt",
+      "guid": "c83db251-221b-48ff-9772-f5f1681b9a50",
+      "published_at": "2026-11-18T08:40:19+01:00",
+      "fetched_at": "2026-11-18T09:01:14+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/3c9cc949-63d4-498a-90fb-c04465655ec7.jpeg?width=600",
+      "sv": {
+        "title": "Tyskland sänker omstridd elskatt",
+        "summary": "Den tyska koalitionsregeringen har efter veckor av oenighet kommit överens om att sänka elskatten för hushållen. Det skriver Handelsblatt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Germany cuts controversial electricity tax",
+        "summary": "The German coalition government has, after weeks of disagreement, agreed to lower the electricity tax for households. Handelsblatt writes this."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:01:20+01:00"
       }
     },
     {
@@ -5060,310 +5354,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T22:31:14+01:00"
-      }
-    },
-    {
-      "id": "2d187014e204",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Oypzg1/nvidia-battre-an-forvantat-aktien-stiger",
-      "guid": "https://www.svd.se/a/Oypzg1/nvidia-battre-an-forvantat-aktien-stiger?utm_medium=rss",
-      "published_at": "2026-11-17T22:26:48+01:00",
-      "fetched_at": "2026-11-17T22:31:00+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/25b10f19-45fe-3205-8a48-2c415c4d189c?format=auto&s=7ad2ca8e202e827122ef488f8f1d7be256ec46d6&w=1000",
-      "sv": {
-        "title": "Nvidia bättre än förväntat – aktien stiger",
-        "summary": "Nvidia överträffade förväntningarna när årets tredje kvartalsrapport presenterades.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nvidia better than expected – shares rise",
-        "summary": "Nvidia beat expectations when this year's third-quarter report was presented."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T22:31:14+01:00"
-      }
-    },
-    {
-      "id": "1b418334e66d",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/ishockey/frolunda/samuel-fagemo-fralste-frolunda-skot-laget-till-chl-kvartsfinal.3a2b27eb-9f10-569e-8530-9c3a83b452c2",
-      "guid": "3a2b27eb-9f10-569e-8530-9c3a83b452c2",
-      "published_at": "2026-11-17T22:21:51+01:00",
-      "fetched_at": "2026-11-17T22:45:46+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Frölunda",
-        "Tagg: Samuel Fagemo",
-        "Tagg: Frölundaborg"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/5120e9e7-99a6-30be-a053-83ab273ffc34",
-      "sv": {
-        "title": "Frölundatjärnan stor hjälte: ”Ni får gärna tjata på honom”",
-        "summary": "Samuel Fagemo räddade dagen när Frölunda tog sig vidare till kvartsfinal i CHL!",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Frölundatjärnan a big hero: ”Feel free to keep pestering him”",
-        "summary": "Samuel Fagemo saved the day when Frölunda advanced to the CHL quarter-final!"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T22:45:55+01:00"
-      }
-    },
-    {
-      "id": "add28af9841a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/8PmRMQ/sva-varnar-for-fagelinfluensan-och-duvpesten",
-      "guid": "https://www.aftonbladet.se/nyheter/a/8PmRMQ/sva-varnar-for-fagelinfluensan-och-duvpesten?utm_medium=rss",
-      "published_at": "2026-11-17T22:14:17+01:00",
-      "fetched_at": "2026-11-17T22:15:43+01:00",
-      "category": "other",
-      "image_url": "https://akamai.vgc.no/v2/images/fe5dad60-3dd5-393c-b96d-2c8c0ca8f163?format=auto&s=af19d24bd7b08ea24384fdef7e54b3ba83b58384&w=1000",
-      "sv": {
-        "title": "Dubbelhotet från vilda duvor: ”Högriskperiod”",
-        "summary": "”Låt inte husdjur komma nära” ✓ Döda i centrum",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The double hotel from wild pigeons: \"High-risk period\"",
-        "summary": "\"Do not let pets come near\" ✓ Dead in the centre"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T22:15:50+01:00"
-      }
-    },
-    {
-      "id": "78046edebb55",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/fed-topp-ser-inget-behov-av-dramatisk-rantehojning",
-      "guid": "cdf17d89-1974-46d2-8474-a7a5d469a759",
-      "published_at": "2026-11-17T22:05:03+01:00",
-      "fetched_at": "2026-11-17T22:15:45+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Fed-topp ser inget behov av dramatisk räntehöjning",
-        "summary": "Den amerikanska centralbanken Federal Reserve har fortfarande arbete kvar för att få tillbaka inflationen till målet på 2 procent, men läget kräver ingen kraftig räntehöjning. Det sade John Williams, Fed-chef i New York, enligt Bloomberg News.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fed top sees no need for a dramatic rate hike",
-        "summary": "The US central bank, the Federal Reserve, still has work to do to bring inflation back to the 2 percent target, but the situation does not call for a sharp rate hike. That is what John Williams, Fed chief in New York, said according to Bloomberg News."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T22:15:50+01:00"
-      }
-    },
-    {
-      "id": "308b0e2addd6",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2piB8IYYzzBmYZds6tlkDE/epsteins-bror-publicerar-obduktionsbilder-uppmanar-allmaenheten",
-      "guid": "2piB8IYYzzBmYZds6tlkDE",
-      "published_at": "2026-11-17T22:03:16+01:00",
-      "fetched_at": "2026-11-17T22:15:44+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "Brodern publicerar obduktionsbilder – uppmanar allmänheten",
-        "summary": "Den amerikanske finansmannen Jeffrey Epstein hittades död i sin häktescell i New York i augusti 2019. Han satt då häktad, misstänkt för människohandel med minderåriga och sexuella övergrepp mot flickor. Han hittades hängande i sin cell och dödsfallet utreddes som självmord.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Brother publishes autopsy photos – calls on the public",
-        "summary": "The American financier Jeffrey Epstein was found dead in his remand cell in New York in August 2019. He was then remanded in custody, suspected of human trafficking of minors and sexual abuse of girls. He was found hanging in his cell and the death was investigated as suicide."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T22:15:50+01:00"
-      }
-    },
-    {
-      "id": "2094b9d06c56",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/rott-pa-wall-street-nvidia-backade-infor-rapport",
-      "guid": "859b64a4-17d2-4839-a36d-da60c89e72ed",
-      "published_at": "2026-11-17T22:02:41+01:00",
-      "fetched_at": "2026-11-17T22:15:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/096d5b7a-1ee3-4576-afab-f3117cccade5.jpeg?width=600",
-      "sv": {
-        "title": "Rött på Wall Street – Nvidia backade inför rapport",
-        "summary": "Tisdagen blev en trist historia på USA-börserna som sjönk för fjärde dagen i rad. På bolagsnivå tappade chipjätten Nvidia inför den kommande kvartalsrapporten som publiceras efter börsstängning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Red on Wall Street – Nvidia slipped ahead of report",
-        "summary": "Tuesday was a dismal affair on the US exchanges, which fell for the fourth day in a row. At company level, chip giant Nvidia lost ground ahead of the upcoming quarterly report to be published after the market closes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T22:15:50+01:00"
-      }
-    },
-    {
-      "id": "868be0fb5c92",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/2vGnpG/kommer-att-alskas-av-buskiskonnassorer",
-      "guid": "https://www.svd.se/a/2vGnpG/kommer-att-alskas-av-buskiskonnassorer?utm_medium=rss",
-      "published_at": "2026-11-17T22:00:00+01:00",
-      "fetched_at": "2026-11-17T22:01:16+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/dce9c8c2-6d18-3c8c-b205-9063d727b90b?format=auto&s=9a110d9803ff03de583b21e3999f4112aa10514c&w=1000",
-      "sv": {
-        "title": "Kommer att älskas av buskiskonnässörer",
-        "summary": "Rolf Lassgård och Lennart Jähkel fått stor frihet att göra sina gubbar i ”Arne goes to space”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Will be loved by connoisseurs of buskis comedy",
-        "summary": "Rolf Lassgård and Lennart Jähkel have been given great freedom to make their characters in \"Arne goes to space\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T22:01:24+01:00"
-      }
-    },
-    {
-      "id": "20148e48d1f2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f32a97aa-b3cc-414c-917b-d54497846ee2",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f32a97aa-b3cc-414c-917b-d54497846ee2",
-      "published_at": "2026-11-17T21:53:00+01:00",
-      "fetched_at": "2026-11-17T22:01:18+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Uppgifter: Amerikansk attack mot Iran",
-        "summary": "Uppgifter: Ny amerikansk attack mot Iran",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: American attack on Iran",
-        "summary": "Reports: New American attack on Iran"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T22:01:24+01:00"
-      }
-    },
-    {
-      "id": "b2efc0076ab2",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/59kgkMro7rnGZSJAkwwHPj/efter-chockuttaget-bjoern-frantzens-foervaning-vad-fan-haende",
-      "guid": "59kgkMro7rnGZSJAkwwHPj",
-      "published_at": "2026-11-17T21:35:53+01:00",
-      "fetched_at": "2026-11-17T21:45:48+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "Efter chockuttåget – Björn Frantzéns förvåning: ”Vad fan hände?”",
-        "summary": "Inför tisdagens lagtävling i ”100 knivar” framställs lag lila som den stora favoriten. – Jag vet inte vad vi ska göra för att stoppa dem, säger lag guls kock Micke Jingryd.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "After the shock exit – Björn Frantzén's astonishment: ”What the hell happened?”",
-        "summary": "Ahead of Tuesday's team competition in ”100 knivar”, team purple is portrayed as the big favourite. – I don't know what we're going to do to stop them, says team yellow's chef Micke Jingryd."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T21:45:53+01:00"
-      }
-    },
-    {
-      "id": "bdd60328faa3",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/haidar-forsvann-sparlost-till-havs-vi-dor-tusen-ganger-om-dagen",
-      "guid": "https://www.dn.se/varlden/haidar-forsvann-sparlost-till-havs-vi-dor-tusen-ganger-om-dagen/",
-      "published_at": "2026-11-17T21:29:57+01:00",
-      "fetched_at": "2026-11-17T21:30:59+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/d4a86358-d83c-4381-88b6-83daacc74f25.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Haidar försvann spårlöst till havs: ”Vi dör tusen gånger om dagen”",
-        "summary": "22-åriga Haidar Rahman Ali hade havet i blodet. I maj mönstrade han på ett transportfartyg i Hormuzsundet. Sedan dess har ingen hört av honom – som hundratals andra sjömän under Irankriget är han försvunnen. Nu söker hans familj svar. Vad hände med Haidar?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Haidar disappeared without trace at sea: \"We die a thousand times a day\"",
-        "summary": "22-year-old Haidar Rahman Ali had the sea in his blood. In May he signed on to a cargo ship in the Strait of Hormuz. Since then no one has heard from him – like hundreds of other seafarers during the Iran war, he is missing. Now his family is seeking answers. What happened to Haidar?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T21:31:08+01:00"
-      }
-    },
-    {
-      "id": "b7c4eaf4b437",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/uppgift-ny-amerikansk-attack-mot-iran",
-      "guid": "34bc089e-2397-49a0-8e0d-ef4d211ca4bd",
-      "published_at": "2026-11-17T21:27:40+01:00",
-      "fetched_at": "2026-11-17T21:31:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/9bdb832c-68a2-414a-a040-52e49d434856.jpeg?width=600",
-      "sv": {
-        "title": "Uppgift: Ny amerikansk attack mot Iran",
-        "summary": "USA har genomfört nya attacker mot den iranska ön Qeshm, uppger källor inom militären för flera nyhetsbyråer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Report: New American attack on Iran",
-        "summary": "The United States has carried out new attacks on the Iranian island of Qeshm, according to military sources cited by several news agencies."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T21:31:08+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T08:45:51+01:00",
+  "generated_at": "2026-11-18T09:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a4bd2f6cc34a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/skanetrafikens-nya-bussrutter-ar-positiva-for-oss",
+      "guid": "8583ea56-7d8f-4412-8525-e782f24199c2",
+      "published_at": "2026-11-18T09:00:00+01:00",
+      "fetched_at": "2026-11-18T09:01:15+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Skånetrafikens nya bussrutter är positiva för oss",
+        "summary": "Alla är inte negativa till de nya dragningarna av busslinjerna. För oss som pendlar från norra Malmö till universitetssjukhuset i Lund borde detta innebära en stor förbättring, skriver dagens insändarskribent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Skånetrafiken's new bus routes are positive for us",
+        "summary": "Not everyone is negative about the new bus line routings. For us who commute from northern Malmö to the university hospital in Lund, this should mean a major improvement, writes today's letter writer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:01:20+01:00"
+      }
+    },
     {
       "id": "b283a3ecefed",
       "schema_version": 1,
@@ -5404,33 +5430,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:01:06+01:00"
-      }
-    },
-    {
-      "id": "a2869fbd7f7f",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/qOLpB0/hybridkriget-sverige-forebild-i-krisberedskap",
-      "guid": "https://www.svd.se/a/qOLpB0/hybridkriget-sverige-forebild-i-krisberedskap?utm_medium=rss",
-      "published_at": "2026-11-13T21:59:32+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/be4e4409-b802-34a8-98e1-0dd1176be0d5?format=auto&s=d5a2bfc756ee09ca0733c6c1cc5b4bd9c51507db&w=1000",
-      "sv": {
-        "title": "”Inte rustade” – länder spanar in Sverige",
-        "summary": "Utslagna frysar och bombhotade skolor. Cyberattacker skakar länder som blickar mot Sverige som…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "'Not equipped' – countries look to Sweden",
-        "summary": "Knocked-out freezers and bomb-threatened schools. Cyberattacks shake countries that look to Sweden as…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     }
   ]
