@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T16:31:12+01:00",
+  "generated_at": "2026-11-18T16:32:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5302f0cce899",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/varmland/sveriges-forsta-asagravplats-invigd-trots-samfundets-upplosande",
+      "guid": "https://www.svt.se/nyheter/lokalt/varmland/sveriges-forsta-asagravplats-invigd-trots-samfundets-upplosande",
+      "published_at": "2026-11-18T16:29:54+01:00",
+      "fetched_at": "2026-11-18T16:32:40+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Sveriges första asagravplats invigd – trots samfundets upplösande",
+        "summary": "Under onsdagen öppnade den första gravplatsen i Sverige för asatroende.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sweden's first Æsir grave site opened – despite the community's dissolution",
+        "summary": "On Wednesday, the first burial site in Sweden for followers of Asatro was opened."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T16:32:47+01:00"
+      }
+    },
     {
       "id": "8ed93398dc1d",
       "schema_version": 1,
@@ -5397,32 +5423,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:58:49+01:00"
-      }
-    },
-    {
-      "id": "8c9528139010",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/emilia-18-om-scoutboomen-ungdomar-ar-trotta-pa-det-uppkopplade",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/emilia-18-om-scoutboomen-ungdomar-ar-trotta-pa-det-uppkopplade",
-      "published_at": "2026-11-14T14:53:55+01:00",
-      "fetched_at": "2026-11-14T15:17:22+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Emilia, 18 om scoutboomen: ”Ungdomar är trötta på det uppkopplade”",
-        "summary": "Intresset för scouting fortsätter att öka. Antalet medlemmar i scouterna har nu ökat tolv år i rad. I helgen träffades över 1 500 scouter i Jönköping. – Ungdomar i dag är trötta på det artificiella och det uppkopplade, man vill ta sig ut, säger 18-åriga Emilia Thomasson från Gotland som varit…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Emilia, 18, on the scouting boom: “Young people are tired of being online”",
-        "summary": "Interest in scouting continues to grow. Membership in the Scouts has now risen for twelve years in a row. Over the weekend more than 1,500 scouts met in Jönköping. – Young people today are tired of the artificial and being online, they want to get out, says 18-year-old Emilia Thomasson from Gotland who has been…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:12+01:00"
       }
     }
   ]
