@@ -1,7 +1,295 @@
 {
-  "generated_at": "2026-11-18T05:31:12+01:00",
-  "count": 37,
+  "generated_at": "2026-11-18T05:45:57+01:00",
+  "count": 48,
   "items": [
+    {
+      "id": "b3af385bb1a6",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/larmet-medel-fran-potatisfalt-kan-skada-barns-hjarnor",
+      "guid": "https://www.dn.se/sverige/larmet-medel-fran-potatisfalt-kan-skada-barns-hjarnor/",
+      "published_at": "2026-11-18T05:45:25+01:00",
+      "fetched_at": "2026-11-18T05:45:46+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/7ce94b7e-7e0a-4c65-a68f-847bf8c81d77.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Larmet: Medel från potatisfält kan skada barns hjärnor",
+        "summary": "Barns hjärnor kan skadas av ett bekämpningsmedel som används på svenska potatisfält. Det anser två forskare vid Stockholms universitet – som grävt i en 20 år gammal studie. – Det rapporterade resultatet var falskt. Medlet borde inte ha godkänts, säger forskaren Axel Mie.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alarm: Potato field agent may harm children's brains",
+        "summary": "A pesticide used on Swedish potato fields may damage children's brains, according to two researchers at Stockholm University who have examined a 20-year-old study. \"The reported result was false. The agent should not have been approved,\" says researcher Axel Mie."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "d7582737bba6",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insidan/malet-ar-en-partner-som-ar-battre-an-en-sjalv-men-valdigt-lik",
+      "guid": "https://www.dn.se/insidan/malet-ar-en-partner-som-ar-battre-an-en-sjalv-men-valdigt-lik/",
+      "published_at": "2026-11-18T05:33:04+01:00",
+      "fetched_at": "2026-11-18T05:45:46+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/1675e120-33b5-4614-a565-1c2acf460907.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "”Målet är en partner som är bättre än en själv – men väldigt lik”",
+        "summary": "Du väljer inte partner efter första ögonkastet – utan efter vem som är din spegelbild. – Man söker ofta och omedvetet efter en uppgraderad version av sig själv, säger personlighetsforskaren Petri Kajonius.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"The goal is a partner who is better than oneself – but very similar\"",
+        "summary": "You don't choose a partner at first sight – but according to who is your mirror image. \"One often searches unconsciously for an upgraded version of oneself,\" says personality researcher Petri Kajonius."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "224e565c34d5",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/han-sags-vara-foxtrots-valdskoordinator-kopplas-till-bussmordet",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/han-sags-vara-foxtrots-valdskoordinator-kopplas-till-bussmordet",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Pekas ut som Foxtrots våldskoordinator – kopplas till bussmordet i Tyresö",
+        "summary": "Ett konto med namnet ”Jihadi John” återkommer i flera utredningar om grova våldsbrott. Bakom aliaset misstänker polisen att en man i 20-årsåldern finns – som enligt uppgifter till SVT pekas ut som Foxtrots nya våldskoordinator.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Named as Foxtrot's violence coordinator – linked to the Tyresö bus murder",
+        "summary": "An account under the name \"Jihadi John\" recurs in several investigations of serious violent crimes. Behind the alias, police suspect a man in his 20s is behind it – who, according to information to SVT, is named as Foxtrot's new violence coordinator."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "285406eda9a1",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/uppsala/unika-fossiler-i-uppsala-forsta-samlingen-att-bli-varldsarv-i-skandinavien",
+      "guid": "https://www.svt.se/nyheter/lokalt/uppsala/unika-fossiler-i-uppsala-forsta-samlingen-att-bli-varldsarv-i-skandinavien",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Unika fossiler i Uppsala – första samlingen att bli världsarv i Skandinavien",
+        "summary": "Fossiler från Kina – i Uppsala. Nu har Lagreliussamlingen blivit geologiskt världsarv. – Det är den finaste utmärkelsen vi kan få, säger Jan Ove Ebbestad, museiintendent vid Evolutionsmuseet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Unique fossils in Uppsala – first collection to become a World Heritage Site in Scandinavia",
+        "summary": "Fossils from China – in Uppsala. The Lagerlius collection has now become a geological World Heritage Site. \"It is the finest distinction we could receive,\" says Jan Ove Ebbestad, museum curator at the Evolutionsmuseet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "5118b63804f9",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sodertalje/astra-zeneca-investerar-30-miljoner-i-ny-fetmaforskning-med-karolinska",
+      "guid": "https://www.svt.se/nyheter/lokalt/sodertalje/astra-zeneca-investerar-30-miljoner-i-ny-fetmaforskning-med-karolinska",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Astra Zeneca investerar 30 miljoner i obesitasforskning med Karolinska",
+        "summary": "Genom att studera fettvävnadens funktioner hoppas Astra Zeneca lägga grunden till bland annat nya läkemedel mot kraftig övervikt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "AstraZeneca invests SEK 30 million in obesity research with Karolinska",
+        "summary": "By studying the functions of adipose tissue, AstraZeneca hopes to lay the groundwork for, among other things, new drugs against severe overweight."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "7781adfb91de",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/sa-avslojades-misstankte-bussmordaren-mitt-i-eskilstuna",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/sa-avslojades-misstankte-bussmordaren-mitt-i-eskilstuna",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Så avslöjades misstänkte bussmördaren – mitt i Eskilstuna",
+        "summary": "I mars i år sköts en ung man ihjäl på en buss vid Tyresö gymnasium utanför Stockholm. Några dagar senare lyckades polisen avslöja den misstänktes skytten gömställe – en tryckarlägenhet i centrala Eskilstuna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How the suspected bus murderer was revealed – in the middle of Eskilstuna",
+        "summary": "In March this year, a young man was shot dead on a bus outside Tyresö gymnasium, south of Stockholm. A few days later, police managed to reveal the hiding place of the suspected shooter – a rented flat in central Eskilstuna."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "9fa0bbfa41cb",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/ingrid-96-och-ingegard-99-vagrar-flytta-till-fagerstas-nya-aldreboende",
+      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/ingrid-96-och-ingegard-99-vagrar-flytta-till-fagerstas-nya-aldreboende",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Ingrid, 96, och Ingegärd, 99, vägrar flytta till Fagerstas nya äldreboende",
+        "summary": "Efter mer än ett år på äldreboendet Malmen i Fagersta blev Ingrid Olsson, 96 år, plötsligt uppsagd. Istället vill kommunen att hon flyttar till Fagerstas nya äldreboende, där flera rum står tomma.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Ingrid, 96, and Ingegärd, 99, refuse to move to Fagersta's new care home",
+        "summary": "After more than a year at the Malmen care home in Fagersta, Ingrid Olsson, 96, was suddenly given notice. Instead, the municipality wants her to move to Fagersta's new care home, where several rooms are empty."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "a23c2a2f108e",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jamtland/skolbarnen-maste-springa-over-vagen-i-bole-20-ars-kamp-for-overgangsstalle",
+      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/skolbarnen-maste-springa-over-vagen-i-bole-20-ars-kamp-for-overgangsstalle",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Skolbarnen måste springa över vägen i Böle – 20 års kamp för övergångsställe",
+        "summary": "I dag måste elever som tar sig till och från Böle byskola med buss passera den stundtals hårt trafikerade länsväg 592. Det innebär ofta lång väntan på luckor och att barnen måste springa mellan bilarna. Trafikverket tror att en lösning med en upphöjd passage kan finnas på plats under 2027.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Schoolchildren must run across the road in Böle – 20 years of campaigning for a pedestrian crossing",
+        "summary": "Today, pupils travelling to and from Böle village school by bus must pass the sometimes heavily trafficked County Road 592. This often means long waits for gaps and children having to run between cars. The Transport Administration believes a solution with a raised crossing could be in place by 2027."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "ac4b19df74fc",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/lycksele-kommun-ar-antibiotikasmart-elvira-5-viktigt-med-tval",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/lycksele-kommun-ar-antibiotikasmart-elvira-5-viktigt-med-tval",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Lycksele kommun är antibiotikasmart – Elvira, 5: ”Viktigt med tvål”",
+        "summary": "Lycksele kommun är först i Västerbotten med att jobba ”antibiotikasmart” i alla förskolor. Där jobbar man aktivt för att minska smittor och sjukdomar. – Om man inte tar tvål försvinner inte bakterierna, säger femåriga Elvira Karytska Engman på förskolan Daggkåpan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lycksele municipality is antibiotic-smart – Elvira, 5: \"Soap is important\"",
+        "summary": "Lycksele municipality is the first in Västerbotten to work \"antibiotic-smart\" in all preschools. There, staff actively work to reduce infections and illness. \"If you don't use soap, the bacteria don't disappear,\" says five-year-old Elvira Karytska Engman at the Daggkåpan preschool."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "cbad90281a1e",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/granskning/ug/pappan-jag-pressades-att-baktala-malin-nar-var-son-omhandertogs",
+      "guid": "https://www.svt.se/nyheter/granskning/ug/pappan-jag-pressades-att-baktala-malin-nar-var-son-omhandertogs",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Pappan: Jag pressades att baktala Malin när vår son omhändertogs",
+        "summary": "”Leo” var tre dagar gammal när han tvångsomhändertogs av socialtjänsten. Hans mamma Malin stämplades felaktigt som en olämplig förälder. Nu träder ”Leos” pappa fram och berättar att han ställdes inför ett ultimatum: Håll med socialtjänsten – eller förlora din son.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The father: I was pressured to slander Malin when our son was taken into care",
+        "summary": "\"Leo\" was three days old when he was compulsorily taken into care by social services. His mother Malin was wrongly labelled an unsuitable parent. Now \"Leo's\" father steps forward and says he was given an ultimatum: agree with social services – or lose your son."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "d56b8d75295c",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/smaland/forskningsledaren-om-problem-uttern-som-jagas-pa-oland-gjort-allt-vi-kan",
+      "guid": "https://www.svt.se/nyheter/lokalt/smaland/forskningsledaren-om-problem-uttern-som-jagas-pa-oland-gjort-allt-vi-kan",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Forskningsledaren om problem-uttern som jagas på Öland: ”Gjort allt vi kan”",
+        "summary": "Ett ovanligt beslut om skyddsjakt skapar debatt bland djurvänner. I centrum står ett unikt forskningsprojekt som anses ha så högt allmänintresse att två uttrar får lov att jagas på Ölands södra udde. – Flytta uttern är inget alternativ.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Research leader on the problem otter hunted on Öland: \"Done everything we can\"",
+        "summary": "An unusual decision on controlled hunting is creating debate among animal lovers. At the centre is a unique research project considered to be of such high public interest that two otters may be hunted on Öland's southern point. \"Relocating the otter is not an option.\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
     {
       "id": "0fa38d6f2178",
       "schema_version": 1,

@@ -1,7 +1,295 @@
 {
-  "generated_at": "2026-11-18T05:31:12+01:00",
+  "generated_at": "2026-11-18T05:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b3af385bb1a6",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/larmet-medel-fran-potatisfalt-kan-skada-barns-hjarnor",
+      "guid": "https://www.dn.se/sverige/larmet-medel-fran-potatisfalt-kan-skada-barns-hjarnor/",
+      "published_at": "2026-11-18T05:45:25+01:00",
+      "fetched_at": "2026-11-18T05:45:46+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/7ce94b7e-7e0a-4c65-a68f-847bf8c81d77.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Larmet: Medel från potatisfält kan skada barns hjärnor",
+        "summary": "Barns hjärnor kan skadas av ett bekämpningsmedel som används på svenska potatisfält. Det anser två forskare vid Stockholms universitet – som grävt i en 20 år gammal studie. – Det rapporterade resultatet var falskt. Medlet borde inte ha godkänts, säger forskaren Axel Mie.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alarm: Potato field agent may harm children's brains",
+        "summary": "A pesticide used on Swedish potato fields may damage children's brains, according to two researchers at Stockholm University who have examined a 20-year-old study. \"The reported result was false. The agent should not have been approved,\" says researcher Axel Mie."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "d7582737bba6",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insidan/malet-ar-en-partner-som-ar-battre-an-en-sjalv-men-valdigt-lik",
+      "guid": "https://www.dn.se/insidan/malet-ar-en-partner-som-ar-battre-an-en-sjalv-men-valdigt-lik/",
+      "published_at": "2026-11-18T05:33:04+01:00",
+      "fetched_at": "2026-11-18T05:45:46+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/1675e120-33b5-4614-a565-1c2acf460907.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "”Målet är en partner som är bättre än en själv – men väldigt lik”",
+        "summary": "Du väljer inte partner efter första ögonkastet – utan efter vem som är din spegelbild. – Man söker ofta och omedvetet efter en uppgraderad version av sig själv, säger personlighetsforskaren Petri Kajonius.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"The goal is a partner who is better than oneself – but very similar\"",
+        "summary": "You don't choose a partner at first sight – but according to who is your mirror image. \"One often searches unconsciously for an upgraded version of oneself,\" says personality researcher Petri Kajonius."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "224e565c34d5",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/han-sags-vara-foxtrots-valdskoordinator-kopplas-till-bussmordet",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/han-sags-vara-foxtrots-valdskoordinator-kopplas-till-bussmordet",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Pekas ut som Foxtrots våldskoordinator – kopplas till bussmordet i Tyresö",
+        "summary": "Ett konto med namnet ”Jihadi John” återkommer i flera utredningar om grova våldsbrott. Bakom aliaset misstänker polisen att en man i 20-årsåldern finns – som enligt uppgifter till SVT pekas ut som Foxtrots nya våldskoordinator.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Named as Foxtrot's violence coordinator – linked to the Tyresö bus murder",
+        "summary": "An account under the name \"Jihadi John\" recurs in several investigations of serious violent crimes. Behind the alias, police suspect a man in his 20s is behind it – who, according to information to SVT, is named as Foxtrot's new violence coordinator."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "285406eda9a1",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/uppsala/unika-fossiler-i-uppsala-forsta-samlingen-att-bli-varldsarv-i-skandinavien",
+      "guid": "https://www.svt.se/nyheter/lokalt/uppsala/unika-fossiler-i-uppsala-forsta-samlingen-att-bli-varldsarv-i-skandinavien",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Unika fossiler i Uppsala – första samlingen att bli världsarv i Skandinavien",
+        "summary": "Fossiler från Kina – i Uppsala. Nu har Lagreliussamlingen blivit geologiskt världsarv. – Det är den finaste utmärkelsen vi kan få, säger Jan Ove Ebbestad, museiintendent vid Evolutionsmuseet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Unique fossils in Uppsala – first collection to become a World Heritage Site in Scandinavia",
+        "summary": "Fossils from China – in Uppsala. The Lagerlius collection has now become a geological World Heritage Site. \"It is the finest distinction we could receive,\" says Jan Ove Ebbestad, museum curator at the Evolutionsmuseet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "5118b63804f9",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sodertalje/astra-zeneca-investerar-30-miljoner-i-ny-fetmaforskning-med-karolinska",
+      "guid": "https://www.svt.se/nyheter/lokalt/sodertalje/astra-zeneca-investerar-30-miljoner-i-ny-fetmaforskning-med-karolinska",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Astra Zeneca investerar 30 miljoner i obesitasforskning med Karolinska",
+        "summary": "Genom att studera fettvävnadens funktioner hoppas Astra Zeneca lägga grunden till bland annat nya läkemedel mot kraftig övervikt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "AstraZeneca invests SEK 30 million in obesity research with Karolinska",
+        "summary": "By studying the functions of adipose tissue, AstraZeneca hopes to lay the groundwork for, among other things, new drugs against severe overweight."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "7781adfb91de",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/sa-avslojades-misstankte-bussmordaren-mitt-i-eskilstuna",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/sa-avslojades-misstankte-bussmordaren-mitt-i-eskilstuna",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Så avslöjades misstänkte bussmördaren – mitt i Eskilstuna",
+        "summary": "I mars i år sköts en ung man ihjäl på en buss vid Tyresö gymnasium utanför Stockholm. Några dagar senare lyckades polisen avslöja den misstänktes skytten gömställe – en tryckarlägenhet i centrala Eskilstuna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How the suspected bus murderer was revealed – in the middle of Eskilstuna",
+        "summary": "In March this year, a young man was shot dead on a bus outside Tyresö gymnasium, south of Stockholm. A few days later, police managed to reveal the hiding place of the suspected shooter – a rented flat in central Eskilstuna."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "9fa0bbfa41cb",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/ingrid-96-och-ingegard-99-vagrar-flytta-till-fagerstas-nya-aldreboende",
+      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/ingrid-96-och-ingegard-99-vagrar-flytta-till-fagerstas-nya-aldreboende",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Ingrid, 96, och Ingegärd, 99, vägrar flytta till Fagerstas nya äldreboende",
+        "summary": "Efter mer än ett år på äldreboendet Malmen i Fagersta blev Ingrid Olsson, 96 år, plötsligt uppsagd. Istället vill kommunen att hon flyttar till Fagerstas nya äldreboende, där flera rum står tomma.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Ingrid, 96, and Ingegärd, 99, refuse to move to Fagersta's new care home",
+        "summary": "After more than a year at the Malmen care home in Fagersta, Ingrid Olsson, 96, was suddenly given notice. Instead, the municipality wants her to move to Fagersta's new care home, where several rooms are empty."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "a23c2a2f108e",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jamtland/skolbarnen-maste-springa-over-vagen-i-bole-20-ars-kamp-for-overgangsstalle",
+      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/skolbarnen-maste-springa-over-vagen-i-bole-20-ars-kamp-for-overgangsstalle",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Skolbarnen måste springa över vägen i Böle – 20 års kamp för övergångsställe",
+        "summary": "I dag måste elever som tar sig till och från Böle byskola med buss passera den stundtals hårt trafikerade länsväg 592. Det innebär ofta lång väntan på luckor och att barnen måste springa mellan bilarna. Trafikverket tror att en lösning med en upphöjd passage kan finnas på plats under 2027.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Schoolchildren must run across the road in Böle – 20 years of campaigning for a pedestrian crossing",
+        "summary": "Today, pupils travelling to and from Böle village school by bus must pass the sometimes heavily trafficked County Road 592. This often means long waits for gaps and children having to run between cars. The Transport Administration believes a solution with a raised crossing could be in place by 2027."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "ac4b19df74fc",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/lycksele-kommun-ar-antibiotikasmart-elvira-5-viktigt-med-tval",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/lycksele-kommun-ar-antibiotikasmart-elvira-5-viktigt-med-tval",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Lycksele kommun är antibiotikasmart – Elvira, 5: ”Viktigt med tvål”",
+        "summary": "Lycksele kommun är först i Västerbotten med att jobba ”antibiotikasmart” i alla förskolor. Där jobbar man aktivt för att minska smittor och sjukdomar. – Om man inte tar tvål försvinner inte bakterierna, säger femåriga Elvira Karytska Engman på förskolan Daggkåpan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lycksele municipality is antibiotic-smart – Elvira, 5: \"Soap is important\"",
+        "summary": "Lycksele municipality is the first in Västerbotten to work \"antibiotic-smart\" in all preschools. There, staff actively work to reduce infections and illness. \"If you don't use soap, the bacteria don't disappear,\" says five-year-old Elvira Karytska Engman at the Daggkåpan preschool."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "cbad90281a1e",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/granskning/ug/pappan-jag-pressades-att-baktala-malin-nar-var-son-omhandertogs",
+      "guid": "https://www.svt.se/nyheter/granskning/ug/pappan-jag-pressades-att-baktala-malin-nar-var-son-omhandertogs",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Pappan: Jag pressades att baktala Malin när vår son omhändertogs",
+        "summary": "”Leo” var tre dagar gammal när han tvångsomhändertogs av socialtjänsten. Hans mamma Malin stämplades felaktigt som en olämplig förälder. Nu träder ”Leos” pappa fram och berättar att han ställdes inför ett ultimatum: Håll med socialtjänsten – eller förlora din son.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The father: I was pressured to slander Malin when our son was taken into care",
+        "summary": "\"Leo\" was three days old when he was compulsorily taken into care by social services. His mother Malin was wrongly labelled an unsuitable parent. Now \"Leo's\" father steps forward and says he was given an ultimatum: agree with social services – or lose your son."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
+    {
+      "id": "d56b8d75295c",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/smaland/forskningsledaren-om-problem-uttern-som-jagas-pa-oland-gjort-allt-vi-kan",
+      "guid": "https://www.svt.se/nyheter/lokalt/smaland/forskningsledaren-om-problem-uttern-som-jagas-pa-oland-gjort-allt-vi-kan",
+      "published_at": "2026-11-18T05:30:03+01:00",
+      "fetched_at": "2026-11-18T05:45:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Forskningsledaren om problem-uttern som jagas på Öland: ”Gjort allt vi kan”",
+        "summary": "Ett ovanligt beslut om skyddsjakt skapar debatt bland djurvänner. I centrum står ett unikt forskningsprojekt som anses ha så högt allmänintresse att två uttrar får lov att jagas på Ölands södra udde. – Flytta uttern är inget alternativ.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Research leader on the problem otter hunted on Öland: \"Done everything we can\"",
+        "summary": "An unusual decision on controlled hunting is creating debate among animal lovers. At the centre is a unique research project considered to be of such high public interest that two otters may be hunted on Öland's southern point. \"Relocating the otter is not an option.\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:45:56+01:00"
+      }
+    },
     {
       "id": "0fa38d6f2178",
       "schema_version": 1,
@@ -5126,309 +5414,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T17:45:57+01:00"
-      }
-    },
-    {
-      "id": "98617f95f9a8",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/industrivarden-tankar-volvo-for-324-miljoner",
-      "guid": "a2eb360b-2724-4d74-b89c-9e48d476ab19",
-      "published_at": "2026-11-17T17:36:07+01:00",
-      "fetched_at": "2026-11-17T17:45:51+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Industrivärden tankar Volvo för 324 miljoner",
-        "summary": "Industrivärden har på tisdagen i ett antal affärer köpt totalt 1 miljon B-aktier i Volvo.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Industrivärden buys Volvo shares for SEK 324 million",
-        "summary": "On Tuesday, Industrivärden bought a total of 1 million B shares in Volvo in a number of transactions."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:45:57+01:00"
-      }
-    },
-    {
-      "id": "f04dfdf1c19c",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/tydlig-nedgang-pa-borsen-alla-aktier-i-omxs30-sjonk",
-      "guid": "817786cd-4ab2-4748-bce9-328b1383f7d2",
-      "published_at": "2026-11-17T17:34:22+01:00",
-      "fetched_at": "2026-11-17T17:45:51+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/9e551be6-605c-4409-ba34-2d7e2f7a75af.jpeg?width=600",
-      "sv": {
-        "title": "Tydlig nedgång på börsen – alla aktier i OMXS30 sjönk",
-        "summary": "Stockholmsbörsen avslutade tisdagen i moll efter att den sura stämningen på Wall Street tyngt humöret ytterligare. På bolagsnivå tillhörde bland annat nyrapporterade Nibe dagens förlorare.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Clear decline on the stock exchange – all shares in OMXS30 fell",
-        "summary": "The Stockholm stock exchange closed Tuesday in the red after the gloomy mood on Wall Street weighed further on sentiment. At company level, recently reported Nibe was among the day's biggest losers."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:45:57+01:00"
-      }
-    },
-    {
-      "id": "f090e1e7606d",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/varldens-gang/jag-brukade-vara-ironisk-vastlanksanhangare.5c2fb9c5-80bc-5657-ac84-e646e6e30b7a",
-      "guid": "5c2fb9c5-80bc-5657-ac84-e646e6e30b7a",
-      "published_at": "2026-11-17T17:27:44+01:00",
-      "fetched_at": "2026-11-17T17:45:51+01:00",
-      "category": "other",
-      "feed_categories": [
-        "Världens gång",
-        "Tagg: Världens gång",
-        "Tagg: Kåseri"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/f6e4f524-078c-3273-97de-bd25dc369b38",
-      "sv": {
-        "title": "Jag brukade vara ironisk Västlänksanhängare",
-        "summary": "Men på biblioteket hör jag mig själv säga något helt annat.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "I used to be an ironic Västlänken supporter",
-        "summary": "But at the library I hear myself saying something completely different."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:45:57+01:00"
-      }
-    },
-    {
-      "id": "2eb9bdf20562",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/kammarratten-stanger-safiren-vi-dor-inombords",
-      "guid": "https://www.dn.se/sverige/kammarratten-stanger-safiren-vi-dor-inombords/",
-      "published_at": "2026-11-17T17:27:30+01:00",
-      "fetched_at": "2026-11-17T17:30:59+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/f7751a19-47e6-4edd-8db7-9196391cc881.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Kammarrätten stänger Safiren: ”Vi dör inombords”",
-        "summary": "De multisjuka barnen på LSS-boendet Safiren utanför Stockholm blir av med sina hem på fredag, enligt en ny dom. ”Det finns inte skäl att bevilja ytterligare rådrum”, skriver Kammarrätten. – Vi är förtvivlade, säger en av föräldrarna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Administrative Court of Appeal closes Safiren: “We are dying inside”",
-        "summary": "The severely ill children at the LSS home Safiren outside Stockholm will lose their homes on Friday, according to a new ruling. “There are no grounds to grant any further grace period”, writes the Administrative Court of Appeal. – We are desperate, says one of the parents."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:31:12+01:00"
-      }
-    },
-    {
-      "id": "1686d2570357",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/nvidias-avgangne-vd-kallad-till-kongressen",
-      "guid": "c34eec07-c04d-4a25-abd8-09f3f686be04",
-      "published_at": "2026-11-17T17:27:29+01:00",
-      "fetched_at": "2026-11-17T17:31:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/907a7ce3-29e9-42d7-b0cf-c5ff687d6adc.jpg?width=600",
-      "sv": {
-        "title": "Nvidias avgångne vd: Redo att återvända",
-        "summary": "Nvidias avgångne vd Jensen Huang säger att han är redo att återvända. ”Jag har begått allvarliga misstag i mitt privatliv”, säger han i ett uttalande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nvidia's former CEO: Ready to return",
-        "summary": "Nvidia's former CEO Jensen Huang says he is ready to return. “I have made serious mistakes in my private life”, he says in a statement."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:31:12+01:00"
-      }
-    },
-    {
-      "id": "d5f4054bffd0",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/talmannen-lyckades-med-det-omojliga-att-gora-bade-andersson-och-kristersson-nojda",
-      "guid": "0a610ebe-0564-4868-831b-418ffeaaeb78",
-      "published_at": "2026-11-17T17:26:59+01:00",
-      "fetched_at": "2026-11-17T17:31:02+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/a1218946-1d0c-45ca-b463-86e46f304427.jpeg?width=600",
-      "sv": {
-        "title": "Jultomten Norlén gjorde det omöjliga – uppfyllde både Anderssons och Kristerssons önskan",
-        "summary": "Först ville ingen ha sonderingsuppdraget och ställas inför en statsministeromröstning. Sen ville båda ha den. För samtidigt som Magdalena Andersson förhandlar för fullt med C, V och MP är Ulf Kristersson segerviss.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Father Christmas Norlén did the impossible – fulfilled both Andersson's and Kristersson's wishes",
-        "summary": "First, no one wanted the exploratory mission and to face a prime ministerial vote. Then both wanted it. For while Magdalena Andersson negotiates full-on with C, V and MP, Ulf Kristersson is confident of victory."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:31:12+01:00"
-      }
-    },
-    {
-      "id": "4af81556e1c5",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/trafikverkets-forklaring-efter-dubbla-tagstopp-valdigt-smart-system.c0995a37-f6fb-582a-a7ab-976870a03f77",
-      "guid": "c0995a37-f6fb-582a-a7ab-976870a03f77",
-      "published_at": "2026-11-17T17:26:50+01:00",
-      "fetched_at": "2026-11-17T17:45:51+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: breaking-GP",
-        "Tagg: Tågstopp",
-        "Tagg: Trafikverket"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/350d8d02-c245-32c2-bb61-e3b25d0c69a7",
-      "sv": {
-        "title": "Flera tågstopp på kort tid: ”Väldigt smart system”",
-        "summary": "Därför har hundratals tågresenärer fastnat mellan Göteborg och Stockholm senaste dagarna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Several train stoppages in a short time: 'Very smart system'",
-        "summary": "This is why hundreds of train passengers have been stranded between Göteborg and Stockholm in recent days."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:45:57+01:00"
-      }
-    },
-    {
-      "id": "42442b0a58d2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/kronikorer/mats-larsson/slaget-om-broarna-i-ukraina-har-bara-borjat-",
-      "guid": "https://www.expressen.se/kronikorer/mats-larsson/slaget-om-broarna-i-ukraina-har-bara-borjat-/",
-      "published_at": "2026-11-17T17:25:36+01:00",
-      "fetched_at": "2026-11-17T17:31:00+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Slaget om broarna i Ukraina har bara börjat",
-        "summary": "Slaget om broarna rasar för fullt i Ukraina. Men de är svåra mål att slå ut. Kiev kan dock mest fokusera på en och har just gett Vladimir Putin en rejäl käftsmäll.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The battle for the bridges in Ukraine has only just begun",
-        "summary": "The battle for the bridges is raging full-on in Ukraine. But they are difficult targets to knock out. Kyiv can, however, mainly focus on one and has just dealt Vladimir Putin a solid blow."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:31:12+01:00"
-      }
-    },
-    {
-      "id": "932316ec0307",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/tidigare-nvidia-chefen-bryter-tystnaden-efter-otrohetsaffarerna",
-      "guid": "https://www.expressen.se/nyheter/varlden/tidigare-nvidia-chefen-bryter-tystnaden-efter-otrohetsaffarerna/",
-      "published_at": "2026-11-17T17:24:30+01:00",
-      "fetched_at": "2026-11-17T17:31:00+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Tidigare Nvidia-chefen bryter tystnaden efter otrohetsaffärerna",
-        "summary": "Jensen Huang är beredd att återvända som vd för Nvidia om bolagets styrelse ber honom. Det säger han i sitt första offentliga uttalande sedan han lämnade chipjätten efter avslöjandena om sina otrohetsaffärer. – Jag skapade problem för styrelsen som jag djupt ångrar.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Former Nvidia chief breaks silence after affair scandals",
-        "summary": "Jensen Huang is prepared to return as CEO of Nvidia if the company's board asks him to. He says so in his first public statement since leaving the chip giant following revelations about his affairs. – I created problems for the board that I deeply regret."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:31:12+01:00"
-      }
-    },
-    {
-      "id": "90c675b96743",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jamtland/centern-i-fokus-i-regeringsbildningen-sa-reagerar-c-i-ostersund",
-      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/centern-i-fokus-i-regeringsbildningen-sa-reagerar-c-i-ostersund",
-      "published_at": "2026-11-17T17:23:17+01:00",
-      "fetched_at": "2026-11-17T17:45:46+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Centern i fokus i regeringsbildningen – så reagerar C i Östersund",
-        "summary": "I 65 dagar har Sverige varit utan ny regering. I händelsernas centrum står inte minst Centerpartiet som vill se Magdalena Andersson som statsminister men som inte vill att Vänsterpartiet ska få några ministerposter.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "The Centre Party in focus in government formation – how C reacts in Östersund",
-        "summary": "For 65 days Sweden has been without a new government. At the centre of events is in no small part the Centre Party, which wants to see Magdalena Andersson as prime minister but does not want the Left Party to get any ministerial posts."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:45:57+01:00"
-      }
-    },
-    {
-      "id": "db3f264e56b9",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344666",
-      "guid": "rss:sr.se/article/9344666",
-      "published_at": "2026-11-17T17:23:00+01:00",
-      "fetched_at": "2026-11-17T17:30:58+01:00",
-      "category": "world",
-      "sv": {
-        "title": "EU vill öka elektrifieringen – mjukar upp kravet på fossilfri el",
-        "summary": "EU stöder ökad elektrifiering på klimatmötet i Antalya, men har mjukat upp formuleringarna kring ett krav på fossilfri el – något som oroar EU-parlamentarikern Heléne Fritzon (S). Målet är att el ska stå för 35 procent av energianvändningen 2035.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "EU wants to increase electrification – softens requirement for fossil-free electricity",
-        "summary": "The EU supports increased electrification at the climate meeting in Antalya, but has softened the wording on a requirement for fossil-free electricity – something that worries MEP Heléne Fritzon (S). The goal is for electricity to account for 35 percent of energy use by 2035."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:31:12+01:00"
       }
     }
   ]
