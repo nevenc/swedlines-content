@@ -1,7 +1,58 @@
 {
-  "generated_at": "2026-11-18T16:16:02+01:00",
+  "generated_at": "2026-11-18T16:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9a26209a861b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/huvudledare/m-forlorade-valet-men-vann-valjarna",
+      "guid": "f9e50317-ba03-4f21-8f50-f24716f9ce18",
+      "published_at": "2026-11-18T16:27:00+01:00",
+      "fetched_at": "2026-11-18T16:31:06+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/6185149b-10d6-4868-9a2a-ddc5c46f7be1.jpeg?width=600",
+      "sv": {
+        "title": "M förlorade valet – men vann väljarna"
+      },
+      "en": {
+        "title": "The Moderates lost the election – but won the voters"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T16:31:12+01:00"
+      }
+    },
+    {
+      "id": "19e61deb1592",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/akesson-sd-har-haft-samtal-med-ungdomsforbundet",
+      "guid": "https://www.dn.se/sverige/akesson-sd-har-haft-samtal-med-ungdomsforbundet/",
+      "published_at": "2026-11-18T16:16:05+01:00",
+      "fetched_at": "2026-11-18T16:31:00+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/b7d5eb05-d169-4560-8840-c7626149617b.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Åkesson (SD): ”Har haft samtal med ungdomsförbundet”",
+        "summary": "SD-ledaren Jimmie Åkesson har haft samtal med partiets ungdomsförbund, efter DN:s granskning om kulturen i Ungsvenskarna. – Jag känner mig förvissad om att man tar det på det allvar som det förtjänar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Åkesson (SD): \"Have had talks with the youth league\"",
+        "summary": "SD leader Jimmie Åkesson has held talks with the party's youth league, following DN's review of the culture in Ungsvenskarna. – I am confident that they are taking it as seriously as it deserves."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T16:31:12+01:00"
+      }
+    },
     {
       "id": "dc481cf3ceac",
       "schema_version": 1,
@@ -5349,58 +5400,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T23:01:14+01:00"
-      }
-    },
-    {
-      "id": "cc1f38903be3",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/positionerna-ar-lika-lasta",
-      "guid": "https://www.svt.se/nyheter/inrikes/positionerna-ar-lika-lasta",
-      "published_at": "2026-11-15T22:26:03+01:00",
-      "fetched_at": "2026-11-15T22:30:54+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "”Positionerna är lika låsta”",
-        "summary": "Centerpartiet har inte suddat ut några röda linjer. De stora tvistefrågorna är fortfarande olösta och positionerna är lika låsta. Men om inte Vänsterpartiet eller Centerpartiet ändrar sig kan bollen i något skede komma tillbaka till Ulf Kristersson (M) eller extraval.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"The positions are just as locked\"",
-        "summary": "The Centre Party has not erased any red lines. The major contentious issues remain unresolved and the positions are just as locked. But if neither the Left Party nor the Centre Party changes its stance, the ball could at some point return to Ulf Kristersson (M) or a snap election."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T22:31:01+01:00"
-      }
-    },
-    {
-      "id": "24fcd4febc49",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/s-totalpaket-vinststopp-i-skolan-och-nej-till-fackligt-veto",
-      "guid": "https://www.svt.se/nyheter/inrikes/s-totalpaket-vinststopp-i-skolan-och-nej-till-fackligt-veto",
-      "published_at": "2026-11-15T22:04:29+01:00",
-      "fetched_at": "2026-11-15T22:15:42+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "S totalpaket: Vinststopp i skolan och nej till fackligt veto",
-        "summary": "SVT har nu tagit del av Magdalena Andersson (S) totalpaket i sin helhet. S vill bland annat se slopat lönegolv för arbetskraftsinvandring, vinststopp i skolan samt lättnader för jordbruket.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Social Democrats' full package: profit cap in schools and no to union veto",
-        "summary": "SVT has now obtained Magdalena Andersson (S)'s full package in its entirety. Among other things, the Social Democrats want to scrap the wage floor for labour immigration, introduce a profit cap in schools and ease rules for agriculture."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T22:15:59+01:00"
       }
     }
   ]
