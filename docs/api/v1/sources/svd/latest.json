@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T04:15:45+01:00",
+  "generated_at": "2026-11-18T04:31:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5740f99cb1b5",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/4EqWwR/demokrat-vinner-sista-senatsvalet",
+      "guid": "https://www.svd.se/a/4EqWwR/demokrat-vinner-sista-senatsvalet?utm_medium=rss",
+      "published_at": "2026-11-18T04:24:58+01:00",
+      "fetched_at": "2026-11-18T04:30:58+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/5be8bdad-8beb-3b69-8031-25f1621d4137?format=auto&s=eecddd828c122d274a9e333bfdfacb2135049eab&w=1000",
+      "sv": {
+        "title": "Demokrat vinner sista senatsvalet",
+        "summary": "Den sista platsen i USA:s senat går till demokraten Mary Peltola, som vinner valet i Alaska enligt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Democrat wins final Senate seat",
+        "summary": "The final seat in the US Senate goes to Democrat Mary Peltola, who wins the election in Alaska according to…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T04:31:02+01:00"
+      }
+    },
     {
       "id": "9e45b25c1e11",
       "schema_version": 1,
@@ -5190,30 +5217,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "c8e466b6ba05",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79917",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79917&utm_medium=rss",
-      "published_at": "2026-11-14T20:55:38+01:00",
-      "fetched_at": "2026-11-14T21:40:36+01:00",
-      "category": "sports",
-      "image_url": "https://akamai.vgc.no/v2/images/46d1f8b0-536e-3c3a-8695-0285f8126564?format=auto&s=bf9149338711099c732897673edf2b97ca81cd96&w=1000",
-      "sv": {
-        "title": "Sverige tar ledningen direkt"
-      },
-      "en": {
-        "title": "Sweden take the lead straight away"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T21:40:46+01:00"
       }
     }
   ]

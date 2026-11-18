@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-18T04:15:45+01:00",
+  "generated_at": "2026-11-18T04:31:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5740f99cb1b5",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/4EqWwR/demokrat-vinner-sista-senatsvalet",
+      "guid": "https://www.svd.se/a/4EqWwR/demokrat-vinner-sista-senatsvalet?utm_medium=rss",
+      "published_at": "2026-11-18T04:24:58+01:00",
+      "fetched_at": "2026-11-18T04:30:58+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/5be8bdad-8beb-3b69-8031-25f1621d4137?format=auto&s=eecddd828c122d274a9e333bfdfacb2135049eab&w=1000",
+      "sv": {
+        "title": "Demokrat vinner sista senatsvalet",
+        "summary": "Den sista platsen i USA:s senat går till demokraten Mary Peltola, som vinner valet i Alaska enligt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Democrat wins final Senate seat",
+        "summary": "The final seat in the US Senate goes to Democrat Mary Peltola, who wins the election in Alaska according to…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T04:31:02+01:00"
+      }
+    },
+    {
+      "id": "fc5b5377700b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/8PmOME/demokrat-vinner-sista-senatsvalet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/8PmOME/demokrat-vinner-sista-senatsvalet?utm_medium=rss",
+      "published_at": "2026-11-18T04:24:57+01:00",
+      "fetched_at": "2026-11-18T04:30:58+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/5be8bdad-8beb-3b69-8031-25f1621d4137?format=auto&s=eecddd828c122d274a9e333bfdfacb2135049eab&w=1000",
+      "sv": {
+        "title": "Demokrat vinner sista senatsvalet",
+        "summary": "Den sista platsen i USA:s senat går till demokraten Mary Peltola, som vinner valet i Alaska enligt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Democrat wins final Senate seat",
+        "summary": "The final seat in the US Senate goes to Democrat Mary Peltola, who wins the election in Alaska according to…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T04:31:02+01:00"
+      }
+    },
     {
       "id": "359a3fd5420a",
       "schema_version": 1,
@@ -5350,60 +5404,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T16:45:54+01:00"
-      }
-    },
-    {
-      "id": "39fa2684b2d7",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/danmark/da-slutar-danmark-producera-olja-och-gas",
-      "guid": "b17a97c6-580c-44dc-a027-fe4f86a70229",
-      "published_at": "2026-11-17T16:44:50+01:00",
-      "fetched_at": "2026-11-17T16:45:48+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/506c1944-f1f7-446f-9d5a-1a7e16d24ab0.jpg?width=600",
-      "sv": {
-        "title": "Då slutar Danmark producera olja och gas",
-        "summary": "Danmark ska ha minskat utsläppen med 85 procent år 2035, enligt en plan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Then Denmark stops producing oil and gas",
-        "summary": "Denmark is to have cut emissions by 85 percent by 2035, according to a plan."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:45:54+01:00"
-      }
-    },
-    {
-      "id": "98d83bae870f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/jensen-huang-ska-horas-i-usa-s-kongress",
-      "guid": "65ed87b1-135c-426a-9b20-1f9af3de7ced",
-      "published_at": "2026-11-17T16:42:39+01:00",
-      "fetched_at": "2026-11-17T16:54:26+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/485c0468-7249-453b-80e0-ba7e876db168.jpeg?width=600",
-      "sv": {
-        "title": "Jensen Huang ska höras i USA:s kongress",
-        "summary": "Amerikanska chipjätten Nvidias tidigare vd Jensen Huang ska framträda inför USA:s kongress den 1 december.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jensen Huang to testify before US Congress",
-        "summary": "Former CEO of US chip giant Nvidia Jensen Huang is to appear before the US Congress on 1 December."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:54:30+01:00"
       }
     }
   ]

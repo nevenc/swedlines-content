@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-18T04:15:45+01:00",
+  "generated_at": "2026-11-18T04:31:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5740f99cb1b5",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/4EqWwR/demokrat-vinner-sista-senatsvalet",
+      "guid": "https://www.svd.se/a/4EqWwR/demokrat-vinner-sista-senatsvalet?utm_medium=rss",
+      "published_at": "2026-11-18T04:24:58+01:00",
+      "fetched_at": "2026-11-18T04:30:58+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/5be8bdad-8beb-3b69-8031-25f1621d4137?format=auto&s=eecddd828c122d274a9e333bfdfacb2135049eab&w=1000",
+      "sv": {
+        "title": "Demokrat vinner sista senatsvalet",
+        "summary": "Den sista platsen i USA:s senat går till demokraten Mary Peltola, som vinner valet i Alaska enligt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Democrat wins final Senate seat",
+        "summary": "The final seat in the US Senate goes to Democrat Mary Peltola, who wins the election in Alaska according to…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T04:31:02+01:00"
+      }
+    },
+    {
+      "id": "fc5b5377700b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/8PmOME/demokrat-vinner-sista-senatsvalet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/8PmOME/demokrat-vinner-sista-senatsvalet?utm_medium=rss",
+      "published_at": "2026-11-18T04:24:57+01:00",
+      "fetched_at": "2026-11-18T04:30:58+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/5be8bdad-8beb-3b69-8031-25f1621d4137?format=auto&s=eecddd828c122d274a9e333bfdfacb2135049eab&w=1000",
+      "sv": {
+        "title": "Demokrat vinner sista senatsvalet",
+        "summary": "Den sista platsen i USA:s senat går till demokraten Mary Peltola, som vinner valet i Alaska enligt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Democrat wins final Senate seat",
+        "summary": "The final seat in the US Senate goes to Democrat Mary Peltola, who wins the election in Alaska according to…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T04:31:02+01:00"
+      }
+    },
     {
       "id": "b3cad9d17540",
       "schema_version": 1,
@@ -5269,58 +5323,6 @@
       "en": {
         "title": "Several dead after fire in Phuket",
         "summary": "At least eleven people have died and several have been injured after a large fire in a retail premises in Phuket, Thailand."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T06:15:47+01:00"
-      }
-    },
-    {
-      "id": "1bdd35009c3f",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341364",
-      "guid": "rss:sr.se/article/9341364",
-      "published_at": "2026-11-16T06:10:00+01:00",
-      "fetched_at": "2026-11-16T06:15:38+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Generalstrejk i Venezuela: ”Missnöjet är alltför stort”",
-        "summary": "I dag har en generalstrejk utlysts i Venezuela i protest mot uteblivna löner i statlig sektor. Keta Stephany, professor i utvecklingsstudier på Venezuelas centraluniversitet, säger att hon och många landsbor tvingas överleva på löner på under en dollar i månaden.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "General strike in Venezuela: \"The discontent is too great\"",
-        "summary": "A general strike has been called in Venezuela today in protest against unpaid wages in the public sector. Keta Stephany, professor of development studies at Venezuela's Central University, says that she and many villagers are forced to survive on wages of less than one dollar a month."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T06:15:47+01:00"
-      }
-    },
-    {
-      "id": "97174caf3151",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341344",
-      "guid": "rss:sr.se/article/9341344",
-      "published_at": "2026-11-16T06:01:00+01:00",
-      "fetched_at": "2026-11-16T06:15:38+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Gazabor efter skyfallen: ”Kan inte skydda oss”",
-        "summary": "Skyfallen som drabbat Gaza ledde till att 70 000 tält översvämmades och minst fem människor dog. Nu fruktar Gazaborna nästa regnoväder. Världshälsoorganisationen, WHO, varnar nu för en dramatisk ökning av luftvägsinfektioner i Gaza till följd av regn, fukt, mögel och trångboddhet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Gazans after downpours: \"We cannot protect ourselves\"",
-        "summary": "The downpours that have hit Gaza flooded 70,000 tents and killed at least five people. Now the Gazans fear the next rainstorm. The World Health Organization, WHO, is warning of a dramatic increase in respiratory infections in Gaza due to rain, damp, mould and overcrowding."
       },
       "translation": {
         "status": "done",
