@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T14:45:54+01:00",
+  "generated_at": "2026-11-18T15:01:26+01:00",
   "count": 200,
   "items": [
     {
@@ -56,6 +56,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T14:01:21+01:00"
+      }
+    },
+    {
+      "id": "bbb819b081eb",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/polisen-utreder-hot-mot-skola-i-skelleftea",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/polisen-utreder-hot-mot-skola-i-skelleftea",
+      "published_at": "2026-11-18T13:23:13+01:00",
+      "fetched_at": "2026-11-18T15:01:14+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisen utreder hot mot gymnasieskola i Skellefteå",
+        "summary": "Polisen i Skellefteå utreder just nu ett eventuellt olaga hot riktat mot Baldergymnasiet. En person är hämtad för förhör.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police investigating threats against upper secondary school in Skellefteå",
+        "summary": "Police in Skellefteå are currently investigating a possible unlawful threat directed at Baldergymnasiet. One person has been brought in for questioning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T15:01:25+01:00"
       }
     },
     {
@@ -5322,32 +5348,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:52+01:00"
-      }
-    },
-    {
-      "id": "9d60c9f9832f",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/kvinna-hittad-dod-i-lulea-tva-gripna",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/kvinna-hittad-dod-i-lulea-tva-gripna",
-      "published_at": "2026-11-14T04:29:21+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Kvinna hittad död i Luleå – två anhållna",
-        "summary": "En kvinna i 50-årsåldern har hittats död i Luleå under fredagskvällen, uppger polisen. Polisen misstänker mord, alternativt dråp, och två personer har anhållits.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Woman found dead in Luleå – two detained",
-        "summary": "A woman in her fifties has been found dead in Luleå on Friday evening, police say. Police suspect murder, or alternatively manslaughter, and two people have been detained."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:02+01:00"
       }
     }
   ]

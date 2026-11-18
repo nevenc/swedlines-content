@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T14:45:54+01:00",
+  "generated_at": "2026-11-18T15:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "861376da69fa",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/har-far-vasterasarna-veta-vad-arets-julklapp-ar",
+      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/har-far-vasterasarna-veta-vad-arets-julklapp-ar",
+      "published_at": "2026-11-18T14:50:51+01:00",
+      "fetched_at": "2026-11-18T15:01:14+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Här får västeråsarna veta vad årets julklapp är",
+        "summary": "Hur skulle du reagera om du fick en startplats i ett långlopp i julklapp? Med en julklapp under armen gick SVT:s team ut och kollade med västeråsarna – och åsikterna gick isär. – På riktigt? Det är förjävligt, utbrister Vide Helmin när han öppnar julklappen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here's what Västerås residents get for this year's Christmas present",
+        "summary": "How would you react if you got a starting place in a long-distance race as a Christmas present? With a Christmas present under their arm, SVT's team went out and asked Västerås residents – and opinions differed. \"For real? That's awful,\" exclaims Vide Helmin as he opens the present."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T15:01:25+01:00"
+      }
+    },
     {
       "id": "14e481d61768",
       "schema_version": 1,
@@ -104,6 +130,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T13:45:53+01:00"
+      }
+    },
+    {
+      "id": "bbb819b081eb",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/polisen-utreder-hot-mot-skola-i-skelleftea",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/polisen-utreder-hot-mot-skola-i-skelleftea",
+      "published_at": "2026-11-18T13:23:13+01:00",
+      "fetched_at": "2026-11-18T15:01:14+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisen utreder hot mot gymnasieskola i Skellefteå",
+        "summary": "Polisen i Skellefteå utreder just nu ett eventuellt olaga hot riktat mot Baldergymnasiet. En person är hämtad för förhör.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police investigating threats against upper secondary school in Skellefteå",
+        "summary": "Police in Skellefteå are currently investigating a possible unlawful threat directed at Baldergymnasiet. One person has been brought in for questioning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T15:01:25+01:00"
       }
     },
     {
@@ -5141,58 +5193,6 @@
       "en": {
         "title": "Manchester United sack Michael Carrick",
         "summary": "Now it is official. Manchester United and manager Michael Carrick are going their separate ways."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "4fa0dcb2eca2",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/flera-grova-stolder-i-skelleftea-polis-soker-vittnen",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/flera-grova-stolder-i-skelleftea-polis-soker-vittnen",
-      "published_at": "2026-11-12T11:17:15+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Flera grova stölder i Skellefteå – polis söker vittnen",
-        "summary": "De senaste dagarna har fem grova stölder i villor anmälts i Skellefteå. Nu söker polisen vittnen då man tror att inbrotten hänger ihop.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Several aggravated thefts in Skellefteå – police seek witnesses",
-        "summary": "In recent days five aggravated thefts from houses have been reported in Skellefteå. Police are now seeking witnesses as they believe the break-ins are connected."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "21cf28775a47",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/smaland/farre-lodjur-far-skjutas-i-kalmar-lan-och-kronoberg",
-      "guid": "https://www.svt.se/nyheter/lokalt/smaland/farre-lodjur-far-skjutas-i-kalmar-lan-och-kronoberg",
-      "published_at": "2026-11-12T10:50:35+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Färre lodjur får skjutas i Kalmar län och Kronoberg",
-        "summary": "Länsstyrelserna har nu beslutat om hur många lodjur som kommer att få skjutas i licensjakten nästa år, 2027. I både Kalmar län och Kronobergs län kommer färre lodjur att få skjutas än i år 2026.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fewer lynx may be shot in Kalmar County and Kronoberg",
-        "summary": "The county administrative boards have now decided how many lynx may be shot in the licensed hunt next year, 2027. In both Kalmar County and Kronoberg County fewer lynx may be shot than in 2026."
       },
       "translation": {
         "status": "done",
