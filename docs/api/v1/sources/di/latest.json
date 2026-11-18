@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-18T07:45:52+01:00",
+  "generated_at": "2026-11-18T08:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5f6dcc7158ff",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/skanska-tecknar-tillaggskontrakt-vart-760-miljoner",
+      "guid": "a7dc0117-99df-4af4-8ec8-bc5f31d9a20d",
+      "published_at": "2026-11-18T07:45:05+01:00",
+      "fetched_at": "2026-11-18T08:01:14+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d9026fec-2848-4462-b51d-d932b21f98b2.jpeg?width=600",
+      "sv": {
+        "title": "Skanska tecknar tilläggskontrakt värt 760 miljoner",
+        "summary": "Skanska har tecknat ett tilläggskontrakt med en befintlig kund för en teknikanläggning i USA. Kontraktet är värt cirka 760 miljoner kronor, vilket kommer att inkluderas i orderingången för USA för fjärde kvartalet 2026.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Skanska signs additional contract worth SEK 760 million",
+        "summary": "Skanska has signed an additional contract with an existing customer for a technology facility in the USA. The contract is worth approximately SEK 760 million and will be included in the US order intake for the fourth quarter of 2026."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T08:01:19+01:00"
+      }
+    },
+    {
+      "id": "6eb4958451e3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/nvidia-overtraffar-forvantningarna",
+      "guid": "cb50a040-6cb2-5d7c-adaa-83d543c07875",
+      "published_at": "2026-11-18T07:40:08+01:00",
+      "fetched_at": "2026-11-18T08:01:14+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nvidia överträffar förväntningarna",
+        "summary": "Morgonens viktigaste nyheter med Andreas Johansson",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nvidia beats expectations",
+        "summary": "Morning's most important news with Andreas Johansson"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T08:01:19+01:00"
+      }
+    },
     {
       "id": "d44427178c25",
       "schema_version": 1,
@@ -5277,58 +5330,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T20:15:51+01:00"
-      }
-    },
-    {
-      "id": "4ffef5069d60",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/jonas-dahlberg-blir-ny-vd-for-sinch",
-      "guid": "9a77f2c4-e418-472d-8c98-79a1f2647f05",
-      "published_at": "2026-11-16T19:55:33+01:00",
-      "fetched_at": "2026-11-16T20:01:27+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Jonas Dahlberg blir ny vd för Sinch",
-        "summary": "Molnkommunikationsbolaget Sinch styrelse har utsett Jonas Dahlberg till ny vd. Jonas Dahlberg har varit tillförordnad vd för bolaget sedan den 8 juni.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jonas Dahlberg becomes new CEO of Sinch",
-        "summary": "The board of cloud communications company Sinch has appointed Jonas Dahlberg as new CEO. Jonas Dahlberg has been acting CEO of the company since 8 June."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T20:01:33+01:00"
-      }
-    },
-    {
-      "id": "4a23c986622a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/nedgangen-tilltar-pa-wall-street-ycRtM",
-      "guid": "d5e7f474-91f2-4a59-b234-8f1b767d7e03",
-      "published_at": "2026-11-16T19:48:20+01:00",
-      "fetched_at": "2026-11-16T20:01:27+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nedgången tilltar på Wall Street",
-        "summary": "USA-börserna sjunker allt längre ned under nollan på måndagskvällen. I täten för nedgången går tekniksektorn där chipjätten Nvidia faller tungt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Wall Street slides further",
-        "summary": "US stock exchanges are falling further below zero on Monday evening. The technology sector leads the decline, with chip giant Nvidia falling sharply."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T20:01:33+01:00"
       }
     }
   ]

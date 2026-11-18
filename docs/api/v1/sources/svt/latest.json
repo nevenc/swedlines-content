@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T07:45:52+01:00",
+  "generated_at": "2026-11-18T08:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fd8cca340727",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/fotboll/kif-orebro-begars-i-konkurs-dagen-innan-kvalet",
+      "guid": "https://www.svt.se/sport/fotboll/kif-orebro-begars-i-konkurs-dagen-innan-kvalet",
+      "published_at": "2026-11-18T07:57:41+01:00",
+      "fetched_at": "2026-11-18T08:01:10+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Kif Örebro begärs i konkurs",
+        "summary": "Kif Örebro slutade trea i elitettan och ska kvala upp till damallsvenskan. Men nu, dagen innan första kvalmatchen mot Rosengård, stårt det klart att klubben har begärts i konkurs. Det hela bekräftar klubbens ordförande till P4 Örebro.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kif Örebro declared bankrupt",
+        "summary": "Kif Örebro finished third in the Elitettan and must play off to reach the Damallsvenskan. But now, the day before the first play-off match against Rosengård, it has emerged that the club has been declared bankrupt. The club's chairman confirms this to P4 Örebro."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T08:01:19+01:00"
+      }
+    },
     {
       "id": "b57bf1ac8eb4",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Review: Swedish Christmas film 'Bara till jul' directed by Adam Pålsson",
         "summary": "Two sisters come from an unnamed Swedish island. One has stayed and been trained into the family business and the other has made a career in Stockholm. Neither seems particularly happy with her choice, and just in time for Christmas everything comes to a head."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "5097dd558e6e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/smaland/byggebos-vd-far-privata-mil-betalda-av-hyresgasterna-kort-tva-varv-runt-jorden",
-      "guid": "https://www.svt.se/nyheter/lokalt/smaland/byggebos-vd-far-privata-mil-betalda-av-hyresgasterna-kort-tva-varv-runt-jorden",
-      "published_at": "2026-11-12T05:30:07+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Byggebos vd får privata mil betalda av hyresgästerna – motsvarar två varv runt jorden",
-        "summary": "Benoni Ingelsjö – vd för Oskarshamns kommunala bostadsbolag Byggebo – rattar en splitterny Mercedes i premiumklassen. Bolaget betalar drivmedlet när han kör bilen privat – ett avtal som är unikt bland kommunala bostadsbolag som SVT granskat.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Byggebo's CEO has private mileage paid by the tenants – equivalent to two laps around the earth",
-        "summary": "Benoni Ingelsjö – CEO of Oskarshamn's municipal housing company Byggebo – drives a brand-new premium-class Mercedes. The company pays for the fuel when he drives the car privately – an agreement that is unique among the municipal housing companies SVT has examined."
       },
       "translation": {
         "status": "done",

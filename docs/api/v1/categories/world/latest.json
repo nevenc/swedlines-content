@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-18T07:45:52+01:00",
+  "generated_at": "2026-11-18T08:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b75446f932b4",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/wdP9OG/ovanlig-kontakt-med-utsatt-urfolk-i-amazonas",
+      "guid": "https://www.aftonbladet.se/nyheter/a/wdP9OG/ovanlig-kontakt-med-utsatt-urfolk-i-amazonas?utm_medium=rss",
+      "published_at": "2026-11-18T08:00:20+01:00",
+      "fetched_at": "2026-11-18T08:01:13+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/7ab0e0aa-936a-3e83-93b0-5845990f4094?format=auto&s=a6f1690f5369c3f3273b7c0c74c44710ee491c33&w=1000",
+      "sv": {
+        "title": "Ovanlig kontakt med utsatt urfolk i Amazonas",
+        "summary": "En isolerad grupp tillhörande urfolket awá i Brasiliens regnskog har för första gången tagit kontakt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Unusual contact with vulnerable indigenous people in the Amazon",
+        "summary": "An isolated group belonging to the awá indigenous people in Brazil's rainforest has for the first time made contact…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T08:01:19+01:00"
+      }
+    },
+    {
+      "id": "b121852f44c3",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344914",
+      "guid": "rss:sr.se/article/9344914",
+      "published_at": "2026-11-18T07:57:00+01:00",
+      "fetched_at": "2026-11-18T08:01:11+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Stor oro för Ukraina när stormakterna möts",
+        "summary": "Ett historiskt möte mellan Donald Trump, Xi Jinping och Vladimir Putin i Shenzhen imorgon. Oron har varit stor att de tre ledarna ska diskutera Ukrainakriget, utan att vare sig Europa eller Ukraina har en plats vid bordet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Great concern for Ukraine as the great powers meet",
+        "summary": "A historic meeting between Donald Trump, Xi Jinping and Vladimir Putin in Shenzhen tomorrow. There is great concern that the three leaders will discuss the war in Ukraine, without either Europe or Ukraine having a seat at the table."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T08:01:19+01:00"
+      }
+    },
     {
       "id": "8faf6261d5b8",
       "schema_version": 1,
@@ -5283,59 +5336,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T11:00:46+01:00"
-      }
-    },
-    {
-      "id": "6e145336669f",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/wdPAL5/rysslands-knep-gratisresor-till-ockuperade-ukraina",
-      "guid": "https://www.aftonbladet.se/nyheter/a/wdPAL5/rysslands-knep-gratisresor-till-ockuperade-ukraina?utm_medium=rss",
-      "published_at": "2026-11-16T10:20:35+01:00",
-      "fetched_at": "2026-11-16T10:30:57+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/f514d881-379a-38cf-aa80-2d3adc29c353?format=auto&s=955a699b0d0b86a620b7be928d2d9971f6bf067d&w=1000",
-      "sv": {
-        "title": "Rysslands knep – gratisresor till ockuperade Ukraina",
-        "summary": "”Nyttiga idioter”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russia's trick – free trips to occupied Ukraine",
-        "summary": "\"Useful idiots\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:31:07+01:00"
-      }
-    },
-    {
-      "id": "c77a52ae66af",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/flyr-nar-de-ser-vad-som-narmar-sig",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/flyr-nar-de-ser-vad-som-narmar-sig",
-      "published_at": "2026-11-16T10:16:55+01:00",
-      "fetched_at": "2026-11-16T10:30:57+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Flyr när de ser vad som närmar sig",
-        "summary": "Sekunder senare blir det panik i trafikkön i Sichuan",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Flee when they see what is approaching",
-        "summary": "Seconds later panic breaks out in the traffic queue in Sichuan"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:31:07+01:00"
       }
     }
   ]
