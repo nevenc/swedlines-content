@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T06:45:43+01:00",
+  "generated_at": "2026-11-18T07:01:37+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b7161320e8a8",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/skane/man-i-25-ars-aldern-skarskadad-i-osby",
+      "guid": "https://www.svt.se/nyheter/lokalt/skane/man-i-25-ars-aldern-skarskadad-i-osby",
+      "published_at": "2026-11-18T06:43:56+01:00",
+      "fetched_at": "2026-11-18T07:01:15+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Man i 25-årsåldern skärskadad i Osby – en gripen",
+        "summary": "Under natten till onsdag fick polisen larm om en man med stick- eller skärskador i Osby. En man har gripits, misstänkt för grov misshandel.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man in his mid-20s with cutting injuries in Osby – one arrested",
+        "summary": "During the night to Wednesday, police received an alarm about a man with stab or cutting injuries in Osby. One man has been arrested on suspicion of aggravated assault."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:01:37+01:00"
+      }
+    },
     {
       "id": "439aeb1aad2f",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Unique trout spawning in Locknesjön captured on camera",
         "summary": "In Locknesjön, a couple of dozen kilometres outside Östersund, the county administrative board has had underwater cameras in place for just over a month to try to document an unusual trout spawning. And they believe they have succeeded."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "fff8a7044b11",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/minst-en-dod-och-tolv-skadade-efter-husras-i-brooklyn",
-      "guid": "https://www.svt.se/nyheter/utrikes/minst-en-dod-och-tolv-skadade-efter-husras-i-brooklyn",
-      "published_at": "2026-11-12T00:53:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Dödssiffran stiger efter husras i Brooklyn",
-        "summary": "Dödssiffran har stigit till minst åtta personer sedan en tre våningar hög byggnad rasade i Brooklyn i New York på onsdagseftermiddagen, rapporterar CNN.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Death toll rises after building collapse in Brooklyn",
-        "summary": "The death toll has risen to at least eight people since a three-storey building collapsed in Brooklyn, New York, on Wednesday afternoon, CNN reports."
       },
       "translation": {
         "status": "done",
