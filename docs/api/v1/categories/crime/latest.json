@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T15:01:26+01:00",
+  "generated_at": "2026-11-18T15:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a63a025e2392",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/handavtrycket-avslojade-skytten-i-bussmordet-i-tyreso",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/handavtrycket-avslojade-skytten-i-bussmordet-i-tyreso",
+      "published_at": "2026-11-18T15:03:48+01:00",
+      "fetched_at": "2026-11-18T15:15:43+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Handavtrycket avslöjade skytten i bussmordet i Tyresö",
+        "summary": "I dag började rättegången efter mordet på 18-årige Ghaith i Tyresö i mars. Nu står den misstänkte skytten och fyra män inför rätta.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Handprint revealed the shooter in the Tyresö bus murder",
+        "summary": "Today the trial began over the murder of 18-year-old Ghaith in Tyresö in March. Now the suspected shooter and four men stand trial."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T15:15:52+01:00"
+      }
+    },
     {
       "id": "b17733df03fb",
       "schema_version": 1,
@@ -5318,29 +5344,6 @@
       "en": {
         "title": "Barbro, 77, was duped by a shop that does not exist",
         "summary": "Parcels from China ✓ Warning sign: \"1234567\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:52+01:00"
-      }
-    },
-    {
-      "id": "7d4b16847f22",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79892",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79892&utm_medium=rss",
-      "published_at": "2026-11-14T06:11:43+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Kvinna mördad – två gripna i Luleå"
-      },
-      "en": {
-        "title": "Woman murdered – two arrested in Luleå"
       },
       "translation": {
         "status": "done",

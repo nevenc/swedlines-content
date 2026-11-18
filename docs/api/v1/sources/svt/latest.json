@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T15:01:26+01:00",
+  "generated_at": "2026-11-18T15:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a63a025e2392",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/handavtrycket-avslojade-skytten-i-bussmordet-i-tyreso",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/handavtrycket-avslojade-skytten-i-bussmordet-i-tyreso",
+      "published_at": "2026-11-18T15:03:48+01:00",
+      "fetched_at": "2026-11-18T15:15:43+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Handavtrycket avslöjade skytten i bussmordet i Tyresö",
+        "summary": "I dag började rättegången efter mordet på 18-årige Ghaith i Tyresö i mars. Nu står den misstänkte skytten och fyra män inför rätta.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Handprint revealed the shooter in the Tyresö bus murder",
+        "summary": "Today the trial began over the murder of 18-year-old Ghaith in Tyresö in March. Now the suspected shooter and four men stand trial."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T15:15:52+01:00"
+      }
+    },
     {
       "id": "861376da69fa",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "No prison on Frösön after all – Prison and Probation Service cancels the project",
         "summary": "The Swedish Prison and Probation Service is withdrawing from the planned prison project on Frösön. The agency says the reason is that the project has taken too long and is becoming too costly. It is choosing instead to focus on the establishment in Furulund, just north of Östersund."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "72a8fd455d1e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/fotboll/manchester-united-sparkar-michael-carrick",
-      "guid": "https://www.svt.se/sport/fotboll/manchester-united-sparkar-michael-carrick",
-      "published_at": "2026-11-12T11:37:12+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Manchester United sparkar Michael Carrick",
-        "summary": "Nu är det officiellt. Manchester United och tränaren Michael Carrick går skilda vägar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Manchester United sack Michael Carrick",
-        "summary": "Now it is official. Manchester United and manager Michael Carrick are going their separate ways."
       },
       "translation": {
         "status": "done",

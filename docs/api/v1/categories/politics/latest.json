@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-18T15:01:26+01:00",
+  "generated_at": "2026-11-18T15:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6af851ed948e",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/47Autf56IgjOr5RkL29Voe/oecd-kritisk-mot-svensk-bistandreform",
+      "guid": "47Autf56IgjOr5RkL29Voe",
+      "published_at": "2026-11-18T15:05:45+01:00",
+      "fetched_at": "2026-11-18T15:15:45+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "OECD kritisk mot svensk biståndreform",
+        "summary": "Sverige har i internationella sammanhang setts som en stark aktör för bistånd och utveckling. Enligt en ny rapport av OECD (organisationen för ekonomiskt samarbete och utveckling), var Sverige det första landet i världen som nådde FN:s mål, att 0,7 % av BNI ska gå till utvecklingsbistånd.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "OECD critical of Swedish aid reform",
+        "summary": "Sweden has internationally been seen as a strong actor in aid and development. According to a new OECD (Organisation for Economic Co-operation and Development) report, Sweden was the first country in the world to reach the UN target of 0.7% of GNI going to development aid."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T15:15:52+01:00"
+      }
+    },
     {
       "id": "864f8281daaf",
       "schema_version": 1,
@@ -5373,32 +5402,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T21:15:49+01:00"
-      }
-    },
-    {
-      "id": "af6a55160261",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/7P0p78/kristersson-ska-diskutera-nasta-steg-med-talmannen",
-      "guid": "https://www.aftonbladet.se/nyheter/a/7P0p78/kristersson-ska-diskutera-nasta-steg-med-talmannen?utm_medium=rss",
-      "published_at": "2026-11-15T21:11:25+01:00",
-      "fetched_at": "2026-11-15T21:42:16+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Kristersson: Dörren står öppen",
-        "summary": "Kristersson om C-beskedet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kristersson: The door is open",
-        "summary": "Kristersson on the Centre Party's message"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T21:42:21+01:00"
       }
     }
   ]
