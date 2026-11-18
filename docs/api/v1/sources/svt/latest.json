@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T11:45:59+01:00",
+  "generated_at": "2026-11-18T12:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e31020ffa99a",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/polisen-sag-inte-ens-foraren-genom-immiga-rutorna-nu-atalas-mannen",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/polisen-sag-inte-ens-foraren-genom-immiga-rutorna-nu-atalas-mannen",
+      "published_at": "2026-11-18T11:53:25+01:00",
+      "fetched_at": "2026-11-18T12:01:16+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisen såg inte ens föraren genom immiga rutorna – nu åtalas mannen",
+        "summary": "En man i 25-årsåldern kallas nu till Eksjö tingsrätt för att stå till svars för att ha kört bil med immiga bilrutor. Polisen uppger att de inte ens såg föraren genom rutan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police did not even see the driver through the fogged windows – now the man is charged",
+        "summary": "A man in his mid-twenties is now summoned to Eksjö district court to answer for driving a car with fogged-up windows. The police state that they did not even see the driver through the window."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:01:25+01:00"
+      }
+    },
     {
       "id": "0aba575f8596",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Wild commentary after Nils Höglander's goal: 'Oh my God – what a finish'",
         "summary": "Nashville won in Anaheim 4–2 – after a work of art of a goal by Nils Höglander. The commentator went completely wild. – Oh my God – what a finish, he exclaims."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "4d75cffb0362",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jamtland/voltad-bil-och-installda-bussturer",
-      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/voltad-bil-och-installda-bussturer",
-      "published_at": "2026-11-12T07:34:23+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "Trafikläget: Voltad bil och inställda bussturer",
-        "summary": "Det senaste dygnet har bjudit på vinterns första riktiga snöfall i större delen av länet – vilket fått konsekvenser i trafiken. Just före klockan 7 onsdag inträffade en singelolycka på E 14 i Optand utanför Östersund.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Traffic situation: Overturned car and cancelled bus services",
-        "summary": "The past day has brought the winter's first real snowfall across most of the county – with consequences for traffic. Just before 7 on Wednesday a single-vehicle accident occurred on the E14 at Optand outside Östersund."
       },
       "translation": {
         "status": "done",
