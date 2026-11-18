@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T02:15:47+01:00",
+  "generated_at": "2026-11-18T02:31:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3da7a7f0c1e6",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Wmb8Bj/huang-gar-med-pa-senatsforhor",
+      "guid": "https://www.svd.se/a/Wmb8Bj/huang-gar-med-pa-senatsforhor?utm_medium=rss",
+      "published_at": "2026-11-18T02:24:27+01:00",
+      "fetched_at": "2026-11-18T02:30:58+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/2a38e0a6-bd77-32b8-b65b-30ec391110f6?format=auto&s=a934e30c1e9854ae64848e96e997ebf5859a3d53&w=1000",
+      "sv": {
+        "title": "Huang går med på senatsförhör",
+        "summary": "Nvidias avgående vd Jensen Huang går med på att vittna i senaten i USA:s kongress, rapporterar…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Huang agrees to Senate hearing",
+        "summary": "Nvidia's outgoing CEO Jensen Huang agrees to testify before the Senate in the US Congress, reports…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T02:31:04+01:00"
+      }
+    },
     {
       "id": "5f05384c82e9",
       "schema_version": 1,
@@ -5224,33 +5251,6 @@
       "en": {
         "title": "Five things to keep an eye on ahead of the stock market opening",
         "summary": "The Stockholm stock exchange is expected to open the trading day in the red, like other European exchanges. Reporting Nibe beat expectations. Here are five things to keep an eye on ahead of the market opening."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:15:46+01:00"
-      }
-    },
-    {
-      "id": "3958e2c81278",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/klart-hogre-resultat-an-vantat-fran-nibe",
-      "guid": "6a6c5812-15eb-4a6b-91aa-839905127e56",
-      "published_at": "2026-11-17T08:06:14+01:00",
-      "fetched_at": "2026-11-17T08:15:40+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6dc454dd-93f7-45af-8ca4-7c2d750c7573.jpeg?width=600",
-      "sv": {
-        "title": "Klart högre resultat än väntat från Nibe",
-        "summary": "Värmteteknikbolaget Nibe rapporterar bättre tillväxt och lönsamhet än analytikernas förväntningar för det tredje kvartalet. ”Den positiva resultatutvecklingen förklaras framför allt av den goda organiska omsättningstillväxten, en god kostnadsdisciplin och förbättrad produktivitet”, kommenterar vd…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Clearly higher results than expected from Nibe",
-        "summary": "Heat-technology company Nibe reports better growth and profitability than analysts' expectations for the third quarter. \"The positive earnings development is explained primarily by the good organic sales growth, good cost discipline and improved productivity,\" comments CEO…"
       },
       "translation": {
         "status": "done",
