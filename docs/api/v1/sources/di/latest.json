@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T05:15:44+01:00",
+  "generated_at": "2026-11-18T05:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ca5654ac72a4",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/svensk-tech-satter-rekord-toppar-bnp-ligan",
+      "guid": "e7bad0b7-3c83-488c-ba8d-b314491c44da",
+      "published_at": "2026-11-18T05:20:31+01:00",
+      "fetched_at": "2026-11-18T05:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/ce12f25b-e31b-40fa-aec9-fb68a16d51cd.jpeg?width=600",
+      "sv": {
+        "title": "Svensk tech sätter rekord – toppar BNP-ligan",
+        "summary": "Sverige fortsätter vara ett draglok i den europeiska techsektorn och är det land som lockar mest riskkapital i förhållande till sin storlek. Det visar en årlig rapport från riskkapitaljätten Atomico.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Swedish tech sets record – tops GDP league",
+        "summary": "Sweden continues to be a driving force in the European tech sector and is the country that attracts the most venture capital in relation to its size. This is shown by an annual report from venture capital giant Atomico."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:31:12+01:00"
+      }
+    },
     {
       "id": "305b37035256",
       "schema_version": 1,
@@ -5295,33 +5322,6 @@
       "en": {
         "title": "EU camp for deportees in Rwanda agreed",
         "summary": "The first camp in a new project for deportations from EU countries will be set up in Rwanda. \"Now we are seriously starting to take back control over Europe's borders\", says Danish Prime Minister Mette Frederiksen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:54:22+01:00"
-      }
-    },
-    {
-      "id": "067e318be6af",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/profilen-vadjar-till-miljardaren-gor-som-akelius",
-      "guid": "03c23f64-1131-44db-9e77-652be0f020cf",
-      "published_at": "2026-11-16T16:39:57+01:00",
-      "fetched_at": "2026-11-16T16:54:16+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/907bc016-7294-4ebd-8260-2d4fd2e53b76.jpeg?width=600",
-      "sv": {
-        "title": "Profilen vädjar till miljardären: Gör som Akelius",
-        "summary": "Fastighetsprofilen Dag Klerfelt är med och driver på för att Sveafastigheter ska göra som Castellum – avyttra fastigheter i stor skala för att återköpa aktier.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Property figure appeals to billionaire: Do as Akelius",
-        "summary": "Property figure Dag Klerfelt is helping push for Sveafastigheter to do as Castellum has done – divest properties on a large scale to buy back shares."
       },
       "translation": {
         "status": "done",

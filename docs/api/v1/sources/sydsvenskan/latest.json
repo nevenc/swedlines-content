@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T05:15:44+01:00",
+  "generated_at": "2026-11-18T05:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0fa38d6f2178",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/nar-staten-vill-begransa-manniskors-frihet-racker-det-inte-att-hanvisa-till-osakra-berakningar",
+      "guid": "ba3641cf-e4b3-4e66-aac5-515a0a1beb20",
+      "published_at": "2026-11-18T05:30:00+01:00",
+      "fetched_at": "2026-11-18T05:31:03+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/c3473aee-50f1-4d53-9fdd-b764e0edaf76.jpeg?width=600",
+      "sv": {
+        "title": "”När människors frihet begränsas räcker det inte att hänvisa till osäkra beräkningar.”",
+        "summary": "Med personlig assistans gick vi från att vara föremål för omsorg till att få makt över våra egna liv, skriver Jonas Franksson och Jessica Smaaland, företrädare för den ideella föreningen och assistanskooperativet STIL.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“When people's freedom is restricted, it is not enough to refer to uncertain calculations.”",
+        "summary": "With personal assistance, we went from being objects of care to gaining power over our own lives, write Jonas Franksson and Jessica Smaaland, representatives of the non-profit association and assistance cooperative STIL."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:31:12+01:00"
+      }
+    },
     {
       "id": "00290a7c666e",
       "schema_version": 1,
@@ -5177,33 +5204,6 @@
       "en": {
         "title": "Your phone reveals your travel habits – do you drive or cycle?",
         "summary": "Residents of Vildanden in Lund and Västra hamnen in Malmö have reduced their car dependence since 2023. With new technology, the phone can be tracked to calculate where residents are most car-dependent – and where they instead choose to take the bus, cycle or walk"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T13:31:07+01:00"
-      }
-    },
-    {
-      "id": "b6c0d589256e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/svenskarnas-styrkebesked-nara-pallen",
-      "guid": "71e5496e-4989-41c3-97e3-30cc3f412e7f",
-      "published_at": "2026-11-15T13:02:17+01:00",
-      "fetched_at": "2026-11-15T13:30:56+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/48fcb52d-3062-4d2a-823c-d3be7b093c20.jpg?width=600",
-      "sv": {
-        "title": "Svenskarnas styrkebesked – nära pallen",
-        "summary": "William Hansson och Fabian Ax Swartz stod för ett bra förstaåk i herrarnas slalomtävling i finländska Levi. Hansson är femma och Ax Swartz nia inför det andra åket.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish strength display – close to the podium",
-        "summary": "William Hansson and Fabian Ax Swartz put in good first runs in the men's slalom in Levi, Finland. Hansson is fifth and Ax Swartz ninth before the second run"
       },
       "translation": {
         "status": "done",

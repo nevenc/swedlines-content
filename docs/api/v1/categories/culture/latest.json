@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T05:15:44+01:00",
+  "generated_at": "2026-11-18T05:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "462831b87b31",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/4O9jvG/sa-blir-du-mer-narvarande-forskarnas-rad",
+      "guid": "https://www.svd.se/a/4O9jvG/sa-blir-du-mer-narvarande-forskarnas-rad?utm_medium=rss",
+      "published_at": "2026-11-18T05:29:20+01:00",
+      "fetched_at": "2026-11-18T05:31:00+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/562a5314-4b4f-3d2a-a903-518fe63a9e9d?format=auto&s=f336a6e8cdfdfee428768e0592ff241174244391&w=1000",
+      "sv": {
+        "title": "Forskarnas föräldraråd: Använd mobil ”högljutt”",
+        "summary": "Vi räknar barnens skärmminuter, men glömmer vårt eget mobil­användande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Researchers' parenting advice: Use your phone “loudly”",
+        "summary": "We count our children's screen minutes but forget our own mobile use."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:31:12+01:00"
+      }
+    },
     {
       "id": "868be0fb5c92",
       "schema_version": 1,
@@ -5638,41 +5665,6 @@
       "en": {
         "title": "Nina Hemmingsson's poems are limp – but offer comfort and recognition",
         "summary": "A jumble of witty statements about lust, wine-drinking and mental ill health, according to GP's Katja Palo."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "fb9ac00c4f70",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/livsstil/extremt-lagintensiv-traning-ny-trend.d503832b-ec2d-52ef-88dc-0df2f2a70206",
-      "guid": "d503832b-ec2d-52ef-88dc-0df2f2a70206",
-      "published_at": "2026-11-14T10:18:37+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Livsstil",
-        "Tagg: Träning",
-        "Tagg: Cykling",
-        "Tagg: Forskning",
-        "Tagg: Styrketräning",
-        "Tagg: Hjälp mig - BEHOV"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/e886f3dc-b04f-31d8-a327-f5189bb09183",
-      "sv": {
-        "title": "Städa, laga mat och stretcha - nya träningstrenden",
-        "summary": "”Ett tillstånd strax ovanför total inaktivtet” – minimal ansträngning som knappt känns",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Cleaning, cooking and stretching – new workout trend",
-        "summary": "\"A state just above total inactivity\" – minimal exertion that barely feels like anything"
       },
       "translation": {
         "status": "done",
