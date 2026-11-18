@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-18T14:15:54+01:00",
+  "generated_at": "2026-11-18T14:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ad796feafca6",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/smhi-varnar-svar-halka-pa-vagarna",
+      "guid": "https://www.expressen.se/nyheter/sverige/smhi-varnar-svar-halka-pa-vagarna/",
+      "published_at": "2026-11-18T14:19:05+01:00",
+      "fetched_at": "2026-11-18T14:31:00+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "SMHI varnar: Svår halka på vägarna",
+        "summary": "SMHI varnar för plötslig ishalka runt Umeå och Luleå.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI warns: Severe slippery roads",
+        "summary": "SMHI warns of sudden ice on the roads around Umeå and Luleå."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T14:31:07+01:00"
+      }
+    },
+    {
+      "id": "777a27c7227e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=34b7cc65-bf9a-4bc0-b685-35a2abd9c765",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=34b7cc65-bf9a-4bc0-b685-35a2abd9c765",
+      "published_at": "2026-11-18T14:16:40+01:00",
+      "fetched_at": "2026-11-18T14:31:00+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Åhléns varslar: ”Är nödvändigt”",
+        "summary": "80 anställda tvingas lämna",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Åhléns issues redundancy notice: \"Is necessary\"",
+        "summary": "80 employees forced to leave"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T14:31:07+01:00"
+      }
+    },
     {
       "id": "ab2ce942abe3",
       "schema_version": 1,
@@ -5142,58 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T10:06:12+01:00"
-      }
-    },
-    {
-      "id": "a90dbde7b6ab",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=cc5d6662-e012-4255-8e5b-8f5db391fd6f",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=cc5d6662-e012-4255-8e5b-8f5db391fd6f",
-      "published_at": "2026-11-15T08:24:39+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Stort krogbråk på Avenyn i Göteborg",
-        "summary": "Insats på Avenyn i natt",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Major bar brawl on Avenyn in Göteborg",
-        "summary": "Police called to Avenyn overnight"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "fba10b6f3abd",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/sport/hockey/dominik-haseks-ilska-mot-melania-trump-motbjudande",
-      "guid": "https://www.expressen.se/sport/hockey/dominik-haseks-ilska-mot-melania-trump-motbjudande/",
-      "published_at": "2026-11-15T08:24:33+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Dominik Haseks ilska mot Melania Trump: ”Motbjudande”",
-        "summary": "Melania Trump tog emot Putins sändebud Kirill Dmitriev i Vita huset. Ryssen överräckte en gåva – som får hockeyikonen Dominik Hasek att gå i taket. – Det är fruktansvärt, jag tappar hakan, säger han till Expressen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Dominik Hasek's anger at Melania Trump: \"Repulsive\"",
-        "summary": "Melania Trump received Putin's envoy Kirill Dmitriev at the White House. The Russian handed over a gift – which makes hockey icon Dominik Hasek hit the roof. – It's terrible, I'm stunned, he tells Expressen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
       }
     }
   ]

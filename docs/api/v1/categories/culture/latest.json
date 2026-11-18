@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-18T14:15:54+01:00",
+  "generated_at": "2026-11-18T14:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "da3ea267d375",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/forhandshajpade-you-can-see-everything-hyllas-av-kritikerna",
+      "guid": "https://www.dn.se/kultur/forhandshajpade-you-can-see-everything-hyllas-av-kritikerna/",
+      "published_at": "2026-11-18T14:18:26+01:00",
+      "fetched_at": "2026-11-18T14:30:59+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/bc5ccb34-9fa0-4f0f-ad99-0bd9bfe8370b.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Förhandshajpade ”You can see everything” hyllas av kritikerna",
+        "summary": "Filmen ”You can see everything” har fått skyhöga betyg av internationella och svenska kritiker. Även hemmarecensenterna på sajten Letterboxd ger filmen rekordbetyg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hyped preview \"You can see everything\" praised by critics",
+        "summary": "The film \"You can see everything\" has received sky-high ratings from international and Swedish critics. Home reviewers on the site Letterboxd also give the film record ratings."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T14:31:07+01:00"
+      }
+    },
+    {
+      "id": "14e481d61768",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/kultur/recension-you-can-see-everything-om-elizabeth-holmes",
+      "guid": "https://www.svt.se/kultur/recension-you-can-see-everything-om-elizabeth-holmes",
+      "published_at": "2026-11-18T14:17:23+01:00",
+      "fetched_at": "2026-11-18T14:30:58+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Recension: ”You can see everything” om Elizabeth Holmes",
+        "summary": "Ja, den är så bra som alla säger, tycker Kulturnyheternas kritiker.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Review: \"You can see everything\" about Elizabeth Holmes",
+        "summary": "Yes, it is as good as everyone says, according to Kulturnyheterna's critic."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T14:31:07+01:00"
+      }
+    },
     {
       "id": "b05c38db0f5b",
       "schema_version": 1,
@@ -5570,64 +5623,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:30:14+01:00"
-      }
-    },
-    {
-      "id": "da38e8daec8c",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/musik/konsertrecension/recension-miss-li-scandinavium-14-november.e0c698ba-ccd6-5ebd-8eaf-84724fc71904",
-      "guid": "e0c698ba-ccd6-5ebd-8eaf-84724fc71904",
-      "published_at": "2026-11-15T02:22:17+01:00",
-      "fetched_at": "2026-11-15T03:31:44+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Konsertrecension",
-        "Tagg: Konsertrecension"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/0ea90e06-d833-3ef3-8531-84e22e734d60",
-      "sv": {
-        "title": "Genuint artisteri – men Miss Li gör få riktiga avtryck",
-        "summary": "GP:s Daniel Claeson ser en megastjärna fylla Scandinavium och undrar varför alla sitter ner.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Genuine artistry – but Miss Li leaves few real marks",
-        "summary": "GP's Daniel Claeson sees a mega-star fill the Scandinavium and wonders why everyone is sitting down."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T03:31:50+01:00"
-      }
-    },
-    {
-      "id": "6ed586b71c23",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/overraskningen-far-avicii-arena-att-koka-benjamin-ingrosso-nar-nya-jubelnivaer",
-      "guid": "https://www.dn.se/kultur/overraskningen-far-avicii-arena-att-koka-benjamin-ingrosso-nar-nya-jubelnivaer/",
-      "published_at": "2026-11-14T23:41:48+01:00",
-      "fetched_at": "2026-11-15T01:26:18+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/01f04f2e-68c1-4872-be1a-4da3e677bdb8.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Överraskningen får Avicii arena att koka – Benjamin Ingrosso når nya jubelnivåer",
-        "summary": "Benjamin Ingrosso följer receptet för en modern arenaturné med bravur. Kanske blir det emellanåt lite väl mycket av det goda, skriver DN:s Mina Asp Romefors.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Surprise sets Avicii Arena ablaze – Benjamin Ingrosso reaches new heights of jubilation",
-        "summary": "Benjamin Ingrosso follows the recipe for a modern arena tour with bravado. Perhaps at times there is a little too much of a good thing, writes DN's Mina Asp Romefors."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T01:26:27+01:00"
       }
     }
   ]
