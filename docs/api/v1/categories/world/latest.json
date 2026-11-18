@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T11:16:04+01:00",
+  "generated_at": "2026-11-18T11:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e5904bb79eee",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/har-far-putin-langa-applader-av-internationella-naringslivstoppar",
+      "guid": "https://www.dn.se/varlden/har-far-putin-langa-applader-av-internationella-naringslivstoppar/",
+      "published_at": "2026-11-18T11:22:19+01:00",
+      "fetched_at": "2026-11-18T11:30:57+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/77d732fe-3e2a-4e24-acbd-da0e72244a4a.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Här får Putin långa applåder av internationella näringslivstoppar",
+        "summary": "SHENZHEN. Rysslands president riskerar att gripas i över 120 länder efter att en internationell arresteringsorder utfärdats för honom. Men i Kina är han en välkommen gäst. På toppmötet Apec fick Vladimir Putin långa applåder vid ett tal inför bland annat internationella näringslivstoppar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin receives long applause from international business leaders here",
+        "summary": "SHENZHEN. The Russian president risks arrest in over 120 countries after an international arrest warrant was issued against him. But in China he is a welcome guest. At the Apec summit, Vladimir Putin received long applause during a speech before, among others, international business leaders."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:31:06+01:00"
+      }
+    },
     {
       "id": "d101815e85f5",
       "schema_version": 1,
@@ -5305,32 +5332,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T15:17:06+01:00"
-      }
-    },
-    {
-      "id": "7e6d3b076568",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/utrikesministern-absurda-krav-fran-putin",
-      "guid": "https://www.expressen.se/nyheter/varlden/utrikesministern-absurda-krav-fran-putin/",
-      "published_at": "2026-11-16T14:56:46+01:00",
-      "fetched_at": "2026-11-16T15:01:11+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Utrikesministern: ”Absurda” krav från Putin",
-        "summary": "Absurt, säger utrikesminister Maria Malmer Stenergard (M) om ryska förhandlingskrav på att Finland och andra ska lämna Nato. Samtidigt är det nu slutrest i EU för Rysslands rikaste kvinna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Foreign minister: “Absurd” demands from Putin",
-        "summary": "Absurd, says Foreign Minister Maria Malmer Stenergard (M) about Russian negotiating demands that Finland and others leave NATO. Meanwhile, the EU is now left with a remainder for Russia's richest woman."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:01:16+01:00"
       }
     }
   ]

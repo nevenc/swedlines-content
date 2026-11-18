@@ -1,7 +1,83 @@
 {
-  "generated_at": "2026-11-18T11:16:04+01:00",
+  "generated_at": "2026-11-18T11:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "209bf56ad285",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/tva-karnkraftsreaktorer-gar-igang-onsdag-kvall",
+      "guid": "f5cefa20-6636-49c4-9d91-12b0f6507761",
+      "published_at": "2026-11-18T11:30:08+01:00",
+      "fetched_at": "2026-11-18T11:31:01+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/aca2d968-ada4-44d9-b9f8-d50419aa743a.jpg?width=600",
+      "sv": {
+        "title": "Två kärnkraftsreaktorer går igång onsdag kväll",
+        "summary": "Två av Forsmarks reaktorer som varit avstängda går igång onsdag kväll, meddelar kärnkraftverket. Ett välkommet besked för hårt pressade elkonsumenter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two nuclear reactors to restart Wednesday evening",
+        "summary": "Two of Forsmark's reactors that have been shut down will restart Wednesday evening, the nuclear power plant announces. A welcome message for hard-pressed electricity consumers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:31:06+01:00"
+      }
+    },
+    {
+      "id": "828a1757f561",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/146-kvadratmeter-stort-radhus-gick-for-5-8-miljoner",
+      "guid": "bf7173e6-9991-4946-a3ca-fcd028773f49",
+      "published_at": "2026-11-18T11:25:54+01:00",
+      "fetched_at": "2026-11-18T11:31:01+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "146 kvadratmeter stort radhus gick för 5,8 miljoner"
+      },
+      "en": {
+        "title": "146 square metre terraced house sold for SEK 5.8 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:31:06+01:00"
+      }
+    },
+    {
+      "id": "27d329085a6c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/eu-s-nya-ukrainalan-ska-radda-2027",
+      "guid": "c9da5f45-ad41-43cf-8684-1a9dc8c4db54",
+      "published_at": "2026-11-18T11:10:22+01:00",
+      "fetched_at": "2026-11-18T11:30:59+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "EU:s nya Ukrainalån ska rädda 2027",
+        "summary": "EU-kommissionen föreslår ett lån till Ukraina på 45 miljarder euro för att hjälpa landet genom år 2027.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EU's new Ukraine loan to save 2027",
+        "summary": "The European Commission proposes a loan to Ukraine of EUR 45 billion to help the country through 2027."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:31:06+01:00"
+      }
+    },
     {
       "id": "213a6f46c8cb",
       "schema_version": 1,
@@ -5181,81 +5257,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T13:45:50+01:00"
-      }
-    },
-    {
-      "id": "5ef6ce2ddf67",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/klarnas-vd-vi-gar-mot-ett-rekordstarkt-q4",
-      "guid": "949f3061-3d56-58a5-91c3-836a4b861967",
-      "published_at": "2026-11-17T13:34:52+01:00",
-      "fetched_at": "2026-11-17T13:45:45+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Klarnas vd: Vi går mot ett rekordstarkt Q4",
-        "summary": "Klarnas vd Sebastian Siemiatkowski om kvartalet och utsikterna för julhandeln.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Klarna CEO: We are heading for a record-strong Q4",
-        "summary": "Klarna CEO Sebastian Siemiatkowski on the quarter and the outlook for Christmas shopping."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:45:50+01:00"
-      }
-    },
-    {
-      "id": "239d4c49eb8a",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/111-kvadratmeter-stort-hus-i-tygelsjo-salt",
-      "guid": "8e7d52cf-b973-44d9-a278-09451b2b2902",
-      "published_at": "2026-11-17T13:18:47+01:00",
-      "fetched_at": "2026-11-17T13:31:07+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "111 kvadratmeter stort hus i Tygelsjö sålt"
-      },
-      "en": {
-        "title": "111-square-metre house in Tygelsjö sold"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:31:17+01:00"
-      }
-    },
-    {
-      "id": "9b8f6abdbda7",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/svag-elproduktion-tynger-gigasuns-resultat",
-      "guid": "66278464-03e0-4738-bf7e-d141b595bffc",
-      "published_at": "2026-11-17T13:13:52+01:00",
-      "fetched_at": "2026-11-17T13:31:06+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Svag elproduktion tynger Gigasuns resultat",
-        "summary": "Gigasun, som bedriver solenergiverksamhet i Kina, redovisar ett rörelseresultat om 16,1 miljoner kronor (41,1) för det tredje kvartalet 2026.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Weak electricity production weighs on Gigasun's results",
-        "summary": "Gigasun, which runs solar energy operations in China, reports an operating profit of SEK 16.1 million (41.1) for the third quarter of 2026."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:31:17+01:00"
       }
     }
   ]
