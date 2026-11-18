@@ -1,7 +1,68 @@
 {
-  "generated_at": "2026-11-18T13:31:06+01:00",
+  "generated_at": "2026-11-18T13:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ba3c857299aa",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/leksaken-som-far-folk-att-rasa",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/leksaken-som-far-folk-att-rasa/",
+      "published_at": "2026-11-18T13:34:49+01:00",
+      "fetched_at": "2026-11-18T13:45:45+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Leksaken som får folk att rasa",
+        "summary": "Quack! Skapar kontrovers i Tyskland",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The toy that makes people furious",
+        "summary": "Quack! Causes controversy in Germany"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:45:53+01:00"
+      }
+    },
+    {
+      "id": "d349c5210a6d",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/leia-molund-om-blavitts-allsvenska-fest-och-missforstandet.ffb445b5-d257-525c-80ff-f3b811ab5afb",
+      "guid": "ffb445b5-d257-525c-80ff-f3b811ab5afb",
+      "published_at": "2026-11-18T13:18:46+01:00",
+      "fetched_at": "2026-11-18T13:45:46+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "IFK Göteborg",
+        "Tagg: IFK Göteborg",
+        "Tagg: Kamratgården",
+        "Tagg: Inga dönare",
+        "Tagg: Damallsvenskan",
+        "Tagg: Fokus sport"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/02943187-17e5-33b1-bb99-1f542b617971",
+      "sv": {
+        "title": "Avslöjar missförståndet på IFK Göteborgs fest",
+        "summary": "Gästar veckans avsnitt av ”Inga Dönare”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reveals the misunderstanding at IFK Göteborg's party",
+        "summary": "Guests in this week's episode of \"Inga Dönare\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:45:53+01:00"
+      }
+    },
     {
       "id": "d4be0c9e2669",
       "schema_version": 1,
@@ -5570,73 +5631,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "e7665b1444db",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/restaurang/mot-evelina-anggren-vinnare-av-arets-kock-2026.fd061d30-9b87-5ec2-9a35-c0c3043af1cb",
-      "guid": "fd061d30-9b87-5ec2-9a35-c0c3043af1cb",
-      "published_at": "2026-11-14T21:30:36+01:00",
-      "fetched_at": "2026-11-14T23:33:37+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Restaurang",
-        "Tagg: Årets kock",
-        "Tagg: Restauranger",
-        "Tagg: Kockar",
-        "Tagg: Krogar",
-        "Tagg: Mat",
-        "Tagg: Jobb & karriär",
-        "Tagg: Två Dagar",
-        "Tagg: Foodflow"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/388486bf-2e75-3184-bcd4-59088d27f42c",
-      "sv": {
-        "title": "Evelina Änggren, 25, är Årets kock – kunde lika gärna ha blivit snickare",
-        "summary": "Nu väntar ett år i rampljuset för den unga vinnaren, som redan drömmer om en egen krog.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Evelina Änggren, 25, is Chef of the Year – could just as easily have become a carpenter",
-        "summary": "Now a year in the spotlight awaits the young winner, who already dreams of her own restaurant."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "3211f30de3be",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/6ghv7VYjbvl0G7FXqBgzyI/juryn-haller-inte-tillbaka-har-ni-barn-sa-hall-foer-oeronen",
-      "guid": "6ghv7VYjbvl0G7FXqBgzyI",
-      "published_at": "2026-11-14T20:30:00+01:00",
-      "fetched_at": "2026-11-14T21:40:37+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "Juryn håller inte tillbaka: ”Har ni barn, så håll för öronen”",
-        "summary": "Stående ovationer • ”Tar mig tillbaka till Justin Timberlake”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Judges hold nothing back: \"If you have kids, cover their ears\"",
-        "summary": "Standing ovations • \"It takes me back to Justin Timberlake\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T21:40:46+01:00"
       }
     }
   ]

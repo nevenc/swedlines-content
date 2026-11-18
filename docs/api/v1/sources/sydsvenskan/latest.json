@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-18T13:31:06+01:00",
+  "generated_at": "2026-11-18T13:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2bd4e5278164",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-145-kvm-saldes-for-9-4-miljoner",
+      "guid": "0875bc1f-fa2d-49b5-81df-c683c2a9541c",
+      "published_at": "2026-11-18T13:37:45+01:00",
+      "fetched_at": "2026-11-18T13:45:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Hus på 145 kvm såldes för 9,4 miljoner"
+      },
+      "en": {
+        "title": "House of 145 sqm sold for 9.4 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T13:45:53+01:00"
+      }
+    },
     {
       "id": "8b15f6367102",
       "schema_version": 1,
@@ -5131,33 +5154,6 @@
       "en": {
         "title": "Reader's question: GDPR parents throw a spanner in the works for the team photo – what should I do?",
         "summary": "The parents do not want their child in the team photos the club publishes, but still want to be in the picture. Is that reasonable, asks the letter writer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T11:31:23+01:00"
-      }
-    },
-    {
-      "id": "0751d5c1ece0",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/polen-utan-viktiga-kuggar-mot-sverige",
-      "guid": "e0af269f-7cff-4244-9142-6032ce0f7775",
-      "published_at": "2026-11-16T11:20:11+01:00",
-      "fetched_at": "2026-11-16T11:31:11+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/55d9d46a-0c4f-4646-947c-4e6be80cc006.jpg?width=600",
-      "sv": {
-        "title": "Polen utan viktiga kuggar mot Sverige",
-        "summary": "Polen ser ut att få klara sig utan flera tunga namn i tisdagens Nations League-match mot Sverige, rapporterar polska medier.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Poland without key players against Sweden",
-        "summary": "Poland look set to manage without several heavyweight names in Tuesday's Nations League match against Sweden, Polish media report."
       },
       "translation": {
         "status": "done",
