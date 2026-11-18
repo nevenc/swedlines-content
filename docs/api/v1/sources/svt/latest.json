@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T08:04:14+01:00",
+  "generated_at": "2026-11-18T08:15:51+01:00",
   "count": 200,
   "items": [
     {
@@ -78,6 +78,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T07:31:11+01:00"
+      }
+    },
+    {
+      "id": "303b02c9c2b6",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/ran-i-tenhult-under-natten",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/ran-i-tenhult-under-natten",
+      "published_at": "2026-11-18T07:17:22+01:00",
+      "fetched_at": "2026-11-18T08:15:42+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Två personer bakbands av rånare – tvingades föra över kryptovaluta",
+        "summary": "Två personer rånades i natt när flera gärningspersoner bröt sig in i deras hem i Tenhult i Jönköpings kommun. De utsattes för våld och tvingades att föra över kryptovaluta till ett konto.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two people tied up by robbers – forced to transfer cryptocurrency",
+        "summary": "Two people were robbed last night when several perpetrators broke into their home in Tenhult in Jönköping Municipality. They were subjected to violence and forced to transfer cryptocurrency to an account."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T08:15:50+01:00"
       }
     },
     {
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Transitional budget presented today – without party-political initiatives",
         "summary": "Sweden still lacks a government. Because of this, Finance Minister Elisabeth Svantesson (M) today presents a so-called transitional budget – completely free of party politics and new initiatives."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "236a69b40ca7",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/kultur/recension-svenska-julfilmen-bara-till-jul",
-      "guid": "https://www.svt.se/kultur/recension-svenska-julfilmen-bara-till-jul",
-      "published_at": "2026-11-12T05:30:07+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Recension: Svenska julfilmen ”Bara till jul” i regi av Adam Pålsson",
-        "summary": "Två systrar kommer från en icke namngiven svensk ö. Den ena har stannat kvar och tränats in i familjeföretaget och den andra har gjort karriär i Stockholm. Ingen verkar speciellt nöjd med sitt val och lagom till jul ställs allt på sin spets.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Review: Swedish Christmas film 'Bara till jul' directed by Adam Pålsson",
-        "summary": "Two sisters come from an unnamed Swedish island. One has stayed and been trained into the family business and the other has made a career in Stockholm. Neither seems particularly happy with her choice, and just in time for Christmas everything comes to a head."
       },
       "translation": {
         "status": "done",

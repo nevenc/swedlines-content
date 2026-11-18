@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T08:04:14+01:00",
+  "generated_at": "2026-11-18T08:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "303b02c9c2b6",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/ran-i-tenhult-under-natten",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/ran-i-tenhult-under-natten",
+      "published_at": "2026-11-18T07:17:22+01:00",
+      "fetched_at": "2026-11-18T08:15:42+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Två personer bakbands av rånare – tvingades föra över kryptovaluta",
+        "summary": "Två personer rånades i natt när flera gärningspersoner bröt sig in i deras hem i Tenhult i Jönköpings kommun. De utsattes för våld och tvingades att föra över kryptovaluta till ett konto.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two people tied up by robbers – forced to transfer cryptocurrency",
+        "summary": "Two people were robbed last night when several perpetrators broke into their home in Tenhult in Jönköping Municipality. They were subjected to violence and forced to transfer cryptocurrency to an account."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T08:15:50+01:00"
+      }
+    },
     {
       "id": "b7161320e8a8",
       "schema_version": 1,
@@ -5316,32 +5342,6 @@
       "en": {
         "title": "75-year-old's remains found in burnt-out car",
         "summary": "It all began with a burning car in Sandnäset outside Luleå municipality one December night last year. Since the car was in a water protection area it could not be extinguished and was therefore left to burn out."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "a9e5697a681b",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasmalet-forsvararen-byts-ut-bedoms-vara-javig",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasmalet-forsvararen-byts-ut-bedoms-vara-javig",
-      "published_at": "2026-11-11T16:21:52+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Brattåsmålet: Försvararen byts ut – bedöms vara jävig",
-        "summary": "Försvararen i målet om dubbelmordet i Brattås i Härnösand skiljs från sitt uppdrag. Nya uppgifter i utredningen gör att det uppstått ett jävsförhållande för advokat Johan Lavås.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "The Brattås case: Defence lawyer replaced – judged to have a conflict of interest",
-        "summary": "The defence lawyer in the case of the double murder in Brattås in Härnösand is removed from the assignment. New information in the investigation has created a conflict of interest for lawyer Johan Lavås."
       },
       "translation": {
         "status": "done",
