@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T19:31:10+01:00",
+  "generated_at": "2026-11-18T19:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f72cd24fb0b8",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/cybersakerhetsbolag-stiger-efter-java-varning",
+      "guid": "9b50001c-6803-468e-bab0-b10f908ad038",
+      "published_at": "2026-11-18T19:36:28+01:00",
+      "fetched_at": "2026-11-18T19:45:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0ecef62f-47f1-4b13-8f72-f45a26e42543.jpeg?width=600",
+      "sv": {
+        "title": "Cybersäkerhetsbolag stiger efter Java-varning",
+        "summary": "Cybersäkerhetsaktier stiger på Wall Street i spåren av att den amerikanska cybersäkerhetsmyndigheten CISA varnat för en ”kritisk Java-sårbarhet”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Cybersecurity company shares rise after Java warning",
+        "summary": "Cybersecurity shares rise on Wall Street following a warning from the US cybersecurity agency CISA about a \"critical Java vulnerability\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T19:45:52+01:00"
+      }
+    },
     {
       "id": "027092846350",
       "schema_version": 1,
@@ -5208,32 +5235,6 @@
       "en": {
         "title": "Swedes best at English",
         "summary": "For the first time since 2018, Sweden places first in the world in English proficiency. Swedes are, however, better at listening than at speaking English."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T06:45:43+01:00"
-      }
-    },
-    {
-      "id": "439aeb1aad2f",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/ekonomi/jensen-huang-ska-vittna-i-oppet-senatsforhor",
-      "guid": "https://www.svt.se/nyheter/ekonomi/jensen-huang-ska-vittna-i-oppet-senatsforhor",
-      "published_at": "2026-11-18T06:31:59+01:00",
-      "fetched_at": "2026-11-18T06:45:36+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Jensen Huang ska vittna i öppet senatsförhör",
-        "summary": "Nvidias avgående vd Jensen Huang går med på att vittna i senaten i USA:s kongress, rapporterar Politico.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jensen Huang to testify at open Senate hearing",
-        "summary": "Nvidia's outgoing CEO Jensen Huang agrees to testify before the Senate of the US Congress, reports Politico."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T19:31:10+01:00",
+  "generated_at": "2026-11-18T19:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "55d4a606062d",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/har-ar-10-evenemang-och-premiarer-du-inte-vill-missa-6",
+      "guid": "https://www.dn.se/kultur/har-ar-10-evenemang-och-premiarer-du-inte-vill-missa-6/",
+      "published_at": "2026-11-18T19:30:46+01:00",
+      "fetched_at": "2026-11-18T19:45:44+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/f2c42c8f-a0d6-4593-967d-a3eedb3daf83.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Här är 10 evenemang och premiärer du inte vill missa",
+        "summary": "Den svenska synden, ett litterärt ”underbarn”, en guldgruva för spelfantaster och utställning om våra fulaste känslor. DN:s Anders Haraldsson guidar till de mest sevärda konserterna, utställningarna och premiärerna – boka innan det är för sent. Se ännu fler tips och evenemang här – nya varje dag",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here are 10 events and premieres you won't want to miss",
+        "summary": "The Swedish sin, a literary \"wunderkind\", a goldmine for gaming fans and an exhibition about our ugliest emotions. DN's Anders Haraldsson guides you to the most worthwhile concerts, exhibitions and premieres – book before it's too late. See even more tips and events here – new every day"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T19:45:52+01:00"
+      }
+    },
     {
       "id": "3d9632d9f563",
       "schema_version": 1,
@@ -5593,33 +5620,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T17:01:25+01:00"
-      }
-    },
-    {
-      "id": "59c407aff419",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/marit-kaplas-barn-dog-under-forlossningen-jag-laser-boken-med-skrack-i-halsen-och-sorg-i-brostet",
-      "guid": "d951ebc5-a6ce-467e-9533-15ae752ef9ee",
-      "published_at": "2026-11-15T16:00:00+01:00",
-      "fetched_at": "2026-11-15T16:01:14+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/351cd7c5-f82d-4543-ad4b-84657e6ab071.jpeg?width=600",
-      "sv": {
-        "title": "Marit Kaplas barn dog under förlossningen – jag läser boken med skräck i halsen och sorg i bröstet",
-        "summary": "”Barnsäng” tar sin utgångspunkt i en förlossning för 24 år sedan. Dramatiken är subtil. Paradoxalt nog får det smärtan att framstå med intensiv skärpa, skriver Alice Claps Hansen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Marit Kapla's child died during childbirth – I read the book with dread in my throat and sorrow in my chest",
-        "summary": "\"Barnsäng\" takes its starting point in a childbirth 24 years ago. The drama is subtle. Paradoxically, this makes the pain appear with intense sharpness, writes Alice Claps Hansen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:01:23+01:00"
       }
     }
   ]

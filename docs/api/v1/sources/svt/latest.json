@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T19:31:10+01:00",
+  "generated_at": "2026-11-18T19:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8e8aa281f86c",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/kultur/problem-med-playstation-infor-gta-6-slappet",
+      "guid": "https://www.svt.se/kultur/problem-med-playstation-infor-gta-6-slappet",
+      "published_at": "2026-11-18T19:42:59+01:00",
+      "fetched_at": "2026-11-18T19:45:42+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Problem med Playstation inför GTA 6-släppet",
+        "summary": "Inför GTA 6-släppet är det många som vill in på playstation network. Många användare rapporterar just nu att de har problem med uppkopplingen, enligt sajten Downdetector.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Problems with PlayStation ahead of GTA 6 release",
+        "summary": "Ahead of the GTA 6 release, many people are trying to log in to PlayStation Network. Many users are currently reporting connection problems, according to the site Downdetector."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T19:45:52+01:00"
+      }
+    },
     {
       "id": "ecf11adccdc1",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Mighty light phenomenon filmed in Njurunda – seen over half of Sweden",
         "summary": "Anette Sjöbom in Njurunda wanted to keep an eye on the horses on the farm and put up surveillance cameras. The horses are fine, and the other day the camera also managed to capture a light phenomenon that was seen over half of Sweden. And Norway."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "abd48ac51a84",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/villabrand-i-lulea-huset-gar-inte-att-radda",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/villabrand-i-lulea-huset-gar-inte-att-radda",
-      "published_at": "2026-11-12T15:10:32+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Villabrand i Luleå: ”Huset går inte att rädda”",
-        "summary": "Villan som började brinna på Hällbacken i Luleå under torsdagen är nedbrunnen. – Huset går inte att rädda, konstaterade larmoperatören vid SOS ganska snart efter att larmet inkommit.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "House fire in Luleå: 'The house cannot be saved'",
-        "summary": "The house that caught fire at Hällbacken in Luleå on Thursday has burned down. – The house cannot be saved, the SOS alarm operator concluded fairly soon after the alert came in."
       },
       "translation": {
         "status": "done",

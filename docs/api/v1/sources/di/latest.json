@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T19:31:10+01:00",
+  "generated_at": "2026-11-18T19:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f72cd24fb0b8",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/cybersakerhetsbolag-stiger-efter-java-varning",
+      "guid": "9b50001c-6803-468e-bab0-b10f908ad038",
+      "published_at": "2026-11-18T19:36:28+01:00",
+      "fetched_at": "2026-11-18T19:45:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0ecef62f-47f1-4b13-8f72-f45a26e42543.jpeg?width=600",
+      "sv": {
+        "title": "Cybersäkerhetsbolag stiger efter Java-varning",
+        "summary": "Cybersäkerhetsaktier stiger på Wall Street i spåren av att den amerikanska cybersäkerhetsmyndigheten CISA varnat för en ”kritisk Java-sårbarhet”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Cybersecurity company shares rise after Java warning",
+        "summary": "Cybersecurity shares rise on Wall Street following a warning from the US cybersecurity agency CISA about a \"critical Java vulnerability\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T19:45:52+01:00"
+      }
+    },
     {
       "id": "027092846350",
       "schema_version": 1,
@@ -5313,33 +5340,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T16:15:57+01:00"
-      }
-    },
-    {
-      "id": "de02d98653c8",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/kristersson-redo-for-votering-efter-en-paus",
-      "guid": "fe953abd-e26b-4f48-91dd-bee0848e5cad",
-      "published_at": "2026-11-17T15:56:21+01:00",
-      "fetched_at": "2026-11-17T16:01:23+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/bb398237-8f6b-4002-9d6a-4d6141e46e3d.jpeg?width=600",
-      "sv": {
-        "title": "Kristersson redo för votering – efter en paus",
-        "summary": "Ulf Kristersson har inte gett upp hoppet om att bilda en ny borgerlig regering med Centerpartiet. M-ledaren är redo att ställas inför en statsministeromröstning – men först behövs några dagars paus.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kristersson ready for vote – after a pause",
-        "summary": "Ulf Kristersson (M) has not given up hope of forming a new centre-right government with the Centre Party. The Moderates leader is ready to face a prime ministerial vote – but first a few days' pause is needed."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:01:28+01:00"
       }
     }
   ]
