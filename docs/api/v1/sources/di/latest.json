@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-18T20:01:25+01:00",
+  "generated_at": "2026-11-18T20:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9d0fc7b97d12",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/eqt-topp-har-salt-aktier-for-31-5-miljoner",
+      "guid": "9ac3b4a4-9428-4397-8dca-d740ed7e54fd",
+      "published_at": "2026-11-18T20:04:47+01:00",
+      "fetched_at": "2026-11-18T20:15:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/57c36722-9fae-4c27-9215-6bdf1b454bff.jpeg?width=600",
+      "sv": {
+        "title": "EQT-topp har sålt aktier för 31,5 miljoner",
+        "summary": "James Yu, som är partner på EQT med titeln head of global client solutions, har sålt 100.000 aktier i riskkapitalbolaget.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EQT top executive sells shares worth SEK 31.5 million",
+        "summary": "James Yu, partner at EQT with the title head of global client solutions, has sold 100,000 shares in the private equity firm."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:15:50+01:00"
+      }
+    },
+    {
+      "id": "0d68ea9531cf",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/ai-jattens-elnota-kan-hamna-hos-hushallen",
+      "guid": "c36ce5e4-97b0-449f-9541-11baa34cb20a",
+      "published_at": "2026-11-18T20:01:52+01:00",
+      "fetched_at": "2026-11-18T20:15:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/4bb4e129-b863-48f3-a7fe-9ae7bd57b0bd.jpeg?width=600",
+      "sv": {
+        "title": "AI-jättens elnota kan hamna hos hushållen",
+        "summary": "NEW YORK. Teknikjätten Amazon har byggt datacenter i Indiana för börsaktuella Anthropic, medan lokala energibolag byggt ut elnätet för att möta den stigande efterfrågan.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "AI giant's electricity bill could land on households",
+        "summary": "NEW YORK. Tech giant Amazon has built data centres in Indiana for the publicly traded Anthropic, while local energy companies have expanded the grid to meet rising demand."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:15:50+01:00"
+      }
+    },
     {
       "id": "018e80e15d44",
       "schema_version": 1,
@@ -5288,59 +5342,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T16:45:54+01:00"
-      }
-    },
-    {
-      "id": "ad60b9835459",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/stamningen-bland-usa-s-husbyggare-sjonk-ytterligare",
-      "guid": "0163873e-c666-4c71-a21e-03ed40db785a",
-      "published_at": "2026-11-17T16:08:14+01:00",
-      "fetched_at": "2026-11-17T16:45:47+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Stämningen bland USA:s husbyggare sjönk ytterligare",
-        "summary": "Stämningsläget bland amerikanska husbyggare sjönk i oktober jämfört med månaden före.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sentiment among US homebuilders fell further",
-        "summary": "Sentiment among American homebuilders fell in October compared with the previous month."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:45:54+01:00"
-      }
-    },
-    {
-      "id": "57ace7fe21b1",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/italien-kan-sannolikt-lamna-eu-overvakning-nasta-ar",
-      "guid": "af2d95c5-cf9a-42e5-8aaa-9d446741fed4",
-      "published_at": "2026-11-17T16:06:15+01:00",
-      "fetched_at": "2026-11-17T16:15:51+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/00aeb39d-5d77-4c9d-88a3-97e206b12329.jpeg?width=600",
-      "sv": {
-        "title": "Italien kan sannolikt lämna EU-övervakning nästa år",
-        "summary": "Italiens underskott kommer sannolikt att ligga under EU:s gräns på 3 procent nästa år, vilket öppnar för att landet kan lämna EU:s finanspolitiska övervakningsförfarande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Italy could likely exit EU surveillance next year",
-        "summary": "Italy's deficit is likely to be below the EU's 3 percent limit next year, which opens the way for the country to exit the EU's fiscal surveillance procedure."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:15:57+01:00"
       }
     }
   ]
