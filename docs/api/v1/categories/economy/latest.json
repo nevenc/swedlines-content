@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-18T22:15:48+01:00",
+  "generated_at": "2026-11-18T22:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "35369454d910",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/anthropics-teckningskurs-klart-over-tidigare-intervall",
+      "guid": "9634e8ac-0559-4f0a-a638-ca1b6a7957df",
+      "published_at": "2026-11-18T22:25:39+01:00",
+      "fetched_at": "2026-11-18T22:31:02+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Anthropics teckningskurs klart över tidigare intervall",
+        "summary": "Det amerikanska AI-bolaget Anthropic har fastställt teckningskursen inför torsdagens börsdebut till 83 dollar per aktie.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic sets IPO price above earlier range",
+        "summary": "US AI company Anthropic has set the subscription price ahead of Thursday's stock market debut at 83 dollars per share."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T22:31:07+01:00"
+      }
+    },
+    {
+      "id": "c103eaf7b848",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/harda-tider-over-nu-ar-det-klipplage-i-salongerna",
+      "guid": "34a1efdf-3148-42d3-9cba-51398ae3fa9e",
+      "published_at": "2026-11-18T22:16:58+01:00",
+      "fetched_at": "2026-11-18T22:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/b80192cb-eb7d-4899-bc3d-612fd06c9d37.jpeg?width=600",
+      "sv": {
+        "title": "Hårda tider över – nu är det klippläge i salongerna",
+        "summary": "Efter lågkonjunkturens käftsmäll har salongerna fått upp farten på nytt. Nu omsätter Sveriges frisörer mer än hela den inhemska musikindustrin – och saxen går säker för AI-hotet. ”Vi spår en ljus framtid, det känns överallt att det bubblar”, säger Frisörföretagarnas vice vd Wiveka Gillow Forsman.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hard times are over – it's time to cut in the salons",
+        "summary": "After the recession's knockout blow, salons have picked up speed again. Sweden's hairdressers now turn over more than the entire domestic music industry – and the scissors are safe from the AI threat. \"We predict a bright future, it feels like there's bubbling everywhere,\" says Wiveka Gillow Forsman, deputy CEO of Frisörföretagarna."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T22:31:07+01:00"
+      }
+    },
     {
       "id": "f54f88eba9b1",
       "schema_version": 1,
@@ -5213,56 +5266,6 @@
       "en": {
         "title": "This year's Christmas present: \"Sold out already in May\"",
         "summary": "This year's Christmas present is a race bib – that is, a place in a fun run – according to HUI Research. For those who want to follow the advice, it may already be too late."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "b3e7102e9b48",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/daniel-sachs-kreditforvaltare-oppnar-tyskt-kontor",
-      "guid": "db93da2d-462e-4cf1-96ea-763b085f87f1",
-      "published_at": "2026-11-18T07:06:06+01:00",
-      "fetched_at": "2026-11-18T07:15:47+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0b7c1c84-64f9-4d3f-950b-b661c1a5a7e2.jpeg?width=600",
-      "sv": {
-        "title": "Daniel Sachs kreditförvaltare öppnar tyskt kontor",
-        "summary": "Kreditförvaltaren P Capital Partners, där Daniel Sachs är en av grundarna, öppnar sitt första tyska kontor. Bakom satsningen ligger växande finansieringsbehov hos europeiska företag – och behovet av att Europa ska kunna stå på egna ben.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Daniel Sachs' credit manager opens German office",
-        "summary": "Credit manager P Capital Partners, where Daniel Sachs is one of the founders, is opening its first German office. Behind the move are growing financing needs at European companies – and the need for Europe to be able to stand on its own feet."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "98c1edf18bda",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/villa-i-loddekopinge-dyraste-forsaljningen-i-ar",
-      "guid": "2dbe474b-b617-48db-8c3c-5b30ce7cb182",
-      "published_at": "2026-11-18T07:03:11+01:00",
-      "fetched_at": "2026-11-18T07:15:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Villa i Löddeköpinge dyraste försäljningen i år"
-      },
-      "en": {
-        "title": "Villa in Löddeköpinge the most expensive sale this year"
       },
       "translation": {
         "status": "done",
