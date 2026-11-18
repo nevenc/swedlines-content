@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T14:31:08+01:00",
+  "generated_at": "2026-11-18T14:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6a4a13f6def2",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/xJP9XG/omojligt-att-veta-vad-som-ar-autentiskt",
+      "guid": "https://www.svd.se/a/xJP9XG/omojligt-att-veta-vad-som-ar-autentiskt?utm_medium=rss",
+      "published_at": "2026-11-18T14:33:20+01:00",
+      "fetched_at": "2026-11-18T14:45:45+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/c315dbdc-0c28-3049-8ff7-edf81d2f394d?format=auto&s=add8448176a3d6979d28a4f41955ff05d0c9abac&w=1000",
+      "sv": {
+        "title": "Omöjligt att veta vad som är autentiskt",
+        "summary": "Nu får årets mest hajpade film svensk biopremiär – så bra är dokumentären om Elizabeth Holmes.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Impossible to know what is authentic",
+        "summary": "This year's most hyped film now gets a Swedish cinema premiere – this is how good the documentary about Elizabeth Holmes is."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T14:45:54+01:00"
+      }
+    },
     {
       "id": "da3ea267d375",
       "schema_version": 1,
@@ -5586,43 +5613,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:30:08+01:00"
-      }
-    },
-    {
-      "id": "d2f947a74320",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/linnea-claesons-regnbagshar-var-overallt-sedan-forsvann-hon.9b51c9c9-7817-5fe7-be42-fd65ec43f6f0",
-      "guid": "9b51c9c9-7817-5fe7-be42-fd65ec43f6f0",
-      "published_at": "2026-11-15T06:03:23+01:00",
-      "fetched_at": "2026-11-15T08:29:36+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Kultur",
-        "Tagg: Linnéa Claeson",
-        "Tagg: woke",
-        "Tagg: Feminism",
-        "Tagg: Sexuella trakasserier",
-        "Tagg: Mänskliga rättigheter",
-        "Tagg: Civilsamhälle",
-        "Tagg: fb_x_exkludera"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/f7842268-5a6a-332e-9953-b19365ed66bf",
-      "sv": {
-        "title": "Drev och stalkers nära att knäcka Linnéa Claeson",
-        "summary": "”Jag vill bara ta tillbaka min historia och berätta vad som är sant.”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Harassment and stalkers close to breaking Linnéa Claeson",
-        "summary": "\"I just want to take back my story and tell what is true.\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:14+01:00"
       }
     }
   ]

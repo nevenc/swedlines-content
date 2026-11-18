@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T14:31:08+01:00",
+  "generated_at": "2026-11-18T14:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d484b0ced9f1",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/textilarbetare-drabbar-samman-med-polis",
+      "guid": "21360082-fbba-4d84-855f-60be2eb576be",
+      "published_at": "2026-11-18T14:39:49+01:00",
+      "fetched_at": "2026-11-18T14:45:49+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/0e20bcae-d35a-44cc-8c2b-a663864f14d7.jpg?width=600",
+      "sv": {
+        "title": "Textilarbetare drabbar samman med polis",
+        "summary": "Protester i Bangladesh har på nytt brutit ut och blivit våldsamma. Polis har gått ut hårt mot de tusentals textilarbetarna som kräver höjd lön.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Textile workers clash with police",
+        "summary": "Protests in Bangladesh have broken out again and turned violent. Police have cracked down hard on the thousands of textile workers demanding higher wages."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T14:45:54+01:00"
+      }
+    },
     {
       "id": "ac8405ab8f96",
       "schema_version": 1,
@@ -5303,32 +5330,6 @@
       "en": {
         "title": "EU countries ready to send asylum seekers to Rwanda",
         "summary": "Five EU countries have reached an agreement to send asylum seekers whose applications have been rejected to a camp…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "f124160874c4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/kronikorer/mats-larsson/denna-vecka-blir-en-pr-triumf-for-putin",
-      "guid": "https://www.expressen.se/kronikorer/mats-larsson/denna-vecka-blir-en-pr-triumf-for-putin/",
-      "published_at": "2026-11-16T17:58:52+01:00",
-      "fetched_at": "2026-11-16T18:15:50+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Denna vecka blir en PR-triumf för Putin",
-        "summary": "Detta blir en triumfens vecka för Vladimir Putin. Veckan då han kan visa upp bildbeviset. På att Ryssland åter är en stormakt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This week is a PR triumph for Putin",
-        "summary": "This will be a week of triumph for Vladimir Putin. The week when he can show off the photographic evidence that Russia is once again a great power."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-18T14:31:08+01:00",
+  "generated_at": "2026-11-18T14:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d6742ee7d1f3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/bostadsbyggandet-okar-i-usa",
+      "guid": "2295c2e3-bc3e-447b-afec-d87dffe6a71b",
+      "published_at": "2026-11-18T14:38:45+01:00",
+      "fetched_at": "2026-11-18T14:45:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Bostadsbyggandet ökar i USA",
+        "summary": "Bostadsbyggandet i USA steg 9,9 procent i oktober, jämfört med månaden före, till en säsongsjusterad årstakt på 1.309 miljoner bostäder. Det framgår av statistik från USA:s handelsdepartement.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "US housing construction rises",
+        "summary": "US housing construction rose 9.9 percent in October compared with the previous month, to a seasonally adjusted annual rate of 1.309 million homes. This is according to statistics from the US Department of Commerce."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T14:45:54+01:00"
+      }
+    },
+    {
+      "id": "62c0937f35a6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/fedtoppen-kan-behova-chocka",
+      "guid": "6081a574-0c51-4389-96e0-458bf403cc75",
+      "published_at": "2026-11-18T14:35:38+01:00",
+      "fetched_at": "2026-11-18T14:45:48+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0cea1d4c-5598-4c4f-a369-adfe1d974fc1.jpeg?width=600",
+      "sv": {
+        "title": "Fedtoppen: Kan behöva chocka",
+        "summary": "Fed-guvernören Christopher Waller upprepade att räntan kan behöva höjas med 50 punkter i december för att ”chocka” människor. Det sa han i en intervju med CNBC.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fed chief: may need to shock",
+        "summary": "Fed Governor Christopher Waller repeated that the rate may need to be raised by 50 basis points in December to \"shock\" people. He said so in an interview with CNBC."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T14:45:54+01:00"
+      }
+    },
     {
       "id": "cd42b669eaf3",
       "schema_version": 1,
@@ -5274,58 +5327,6 @@
       "en": {
         "title": "It Was No Honey Trap",
         "summary": "The Alice affair is not a spy story, but a symptom of a power struggle between the US and China, and between differing ideas about what a company actually is. And what a market is. PM Nilsson is CEO of the think tank Timbro and a freelance columnist on Di's editorial page."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T10:31:17+01:00"
-      }
-    },
-    {
-      "id": "4b9cbc57716d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/nyheter/hall-koll-det-hander-pa-borsen-i-morgon-Wmji7",
-      "guid": "095c9c62-e2ca-51cb-a22a-fee199faf063",
-      "published_at": "2026-11-17T10:25:13+01:00",
-      "fetched_at": "2026-11-17T10:31:00+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Håll koll: Det händer på börsen i morgon",
-        "summary": "Andreas Johansson om morgondagens höjdpunkter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Keep an eye on it: what happens on the stock market tomorrow",
-        "summary": "Andreas Johansson on tomorrow's highlights."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T10:31:17+01:00"
-      }
-    },
-    {
-      "id": "57610ed2eb44",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/krokig-vag-mot-regeringsbildningen",
-      "guid": "1a2a2245-2d15-550e-b21a-658f944d1c77",
-      "published_at": "2026-11-17T10:21:57+01:00",
-      "fetched_at": "2026-11-17T10:31:00+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Krokig väg mot regeringsbildningen",
-        "summary": "Sofia Bougt-Hernnäs, chefsekonom på Arena Idé, och Sigrun Fagerfjäll, chefsekonom på Timbro, om regeringsbildningen och Centerpartiets besked i söndags.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bumpy road to government formation",
-        "summary": "Sofia Bougt-Hernnäs, chief economist at Arena Idé, and Sigrun Fagerfjäll, chief economist at Timbro, on the government formation and the Centre Party's announcement on Sunday."
       },
       "translation": {
         "status": "done",

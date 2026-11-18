@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-18T14:31:08+01:00",
+  "generated_at": "2026-11-18T14:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d6742ee7d1f3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/bostadsbyggandet-okar-i-usa",
+      "guid": "2295c2e3-bc3e-447b-afec-d87dffe6a71b",
+      "published_at": "2026-11-18T14:38:45+01:00",
+      "fetched_at": "2026-11-18T14:45:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Bostadsbyggandet ökar i USA",
+        "summary": "Bostadsbyggandet i USA steg 9,9 procent i oktober, jämfört med månaden före, till en säsongsjusterad årstakt på 1.309 miljoner bostäder. Det framgår av statistik från USA:s handelsdepartement.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "US housing construction rises",
+        "summary": "US housing construction rose 9.9 percent in October compared with the previous month, to a seasonally adjusted annual rate of 1.309 million homes. This is according to statistics from the US Department of Commerce."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T14:45:54+01:00"
+      }
+    },
+    {
+      "id": "62c0937f35a6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/fedtoppen-kan-behova-chocka",
+      "guid": "6081a574-0c51-4389-96e0-458bf403cc75",
+      "published_at": "2026-11-18T14:35:38+01:00",
+      "fetched_at": "2026-11-18T14:45:48+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0cea1d4c-5598-4c4f-a369-adfe1d974fc1.jpeg?width=600",
+      "sv": {
+        "title": "Fedtoppen: Kan behöva chocka",
+        "summary": "Fed-guvernören Christopher Waller upprepade att räntan kan behöva höjas med 50 punkter i december för att ”chocka” människor. Det sa han i en intervju med CNBC.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fed chief: may need to shock",
+        "summary": "Fed Governor Christopher Waller repeated that the rate may need to be raised by 50 basis points in December to \"shock\" people. He said so in an interview with CNBC."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T14:45:54+01:00"
+      }
+    },
+    {
+      "id": "edaf3f34a8b5",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/2vGoLx/ryska-oligarker-gomde-formogenheter-pa-deutsche-bank-i-schweiz-enligt-massiv-banklacka",
+      "guid": "https://www.svd.se/a/2vGoLx/ryska-oligarker-gomde-formogenheter-pa-deutsche-bank-i-schweiz-enligt-massiv-banklacka?utm_medium=rss",
+      "published_at": "2026-11-18T14:32:32+01:00",
+      "fetched_at": "2026-11-18T14:45:45+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/36aa8a5c-1f83-376d-a1da-9f7fded2eef9?format=auto&s=c1b2f6c5eb45dec72d90d7ea56567b491be9fb79&w=1000",
+      "sv": {
+        "title": "Bankens hemliga lista: ”Lojal mot Putin”",
+        "summary": "Större än Panamadokumenten och dråpslag mot bankvärlden. Så beskrivs avslöjandet att Deutsche Bank…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The bank's secret list: \"Loyal to Putin\"",
+        "summary": "Bigger than the Panama Papers and a blow to the banking world. This is how the revelation that Deutsche Bank… is described"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T14:45:54+01:00"
+      }
+    },
     {
       "id": "cd42b669eaf3",
       "schema_version": 1,
@@ -5191,83 +5271,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T17:31:12+01:00"
-      }
-    },
-    {
-      "id": "5da13307e94f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/sverige-villkorar-eu-budget-med-ukrainastod",
-      "guid": "79e33d1a-b2a1-46da-ba23-6a7b988fe103",
-      "published_at": "2026-11-17T17:16:43+01:00",
-      "fetched_at": "2026-11-17T17:31:01+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/30f591f9-9d18-44ec-bbbd-2250b6d6fa63.jpeg?width=600",
-      "sv": {
-        "title": "Sverige villkorar EU-budget med Ukrainastöd",
-        "summary": "Sverige följer i Tysklands spår och kopplar ihop EU:s budget med stöd till Ukraina. ”Om länder inte är beredda att ställa upp på att stötta Ukraina kommer det givetvis påverka våra ställningstaganden”, säger statsminister Ulf Kristersson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sweden conditions EU budget on Ukraine aid",
-        "summary": "Sweden follows in Germany's footsteps and links the EU budget to support for Ukraine. “If countries are not prepared to stand up to supporting Ukraine, it will of course affect our positions”, says Prime Minister Ulf Kristersson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:31:12+01:00"
-      }
-    },
-    {
-      "id": "6980f6c99684",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80011",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80011&utm_medium=rss",
-      "published_at": "2026-11-17T17:09:43+01:00",
-      "fetched_at": "2026-11-17T17:15:46+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Jensen Huang vill återvända som VD"
-      },
-      "en": {
-        "title": "Jensen Huang wants to return as CEO"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:15:53+01:00"
-      }
-    },
-    {
-      "id": "4473659345a0",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/jensen-huang-villig-att-bli-vd-for-nvidia-igen",
-      "guid": "0a87c89f-eaee-4b8d-82f2-920abf18477c",
-      "published_at": "2026-11-17T17:07:39+01:00",
-      "fetched_at": "2026-11-17T17:15:48+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/f770fdfc-2f51-4eba-b78b-73518bda952f.jpeg?width=600",
-      "sv": {
-        "title": "Jensen Huang villig att bli vd för Nvidia igen",
-        "summary": "Chipjätten Nvidias tidigare vd Jensen Huang är villig att göra comeback som vd om bolagets styrelse anser att det är den bästa lösningen. Det säger han i ett uttalande på tisdagen enligt Wall Street Journal.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jensen Huang willing to become CEO of Nvidia again",
-        "summary": "Chip giant Nvidia's former CEO Jensen Huang is willing to make a comeback as CEO if the company's board considers it the best solution. He says so in a statement on Tuesday, according to the Wall Street Journal."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:15:53+01:00"
       }
     }
   ]
