@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T17:15:54+01:00",
+  "generated_at": "2026-11-18T17:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a6ace3221d5e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/storagare-tankar-aktier-i-mtg-for-20-miljoner",
+      "guid": "a48d2e05-86bd-450f-b3e0-d9e4393a84c5",
+      "published_at": "2026-11-18T17:15:26+01:00",
+      "fetched_at": "2026-11-18T17:31:05+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Storägare tankar aktier i MTG för 20 miljoner",
+        "summary": "MTG:s styrelseledamot Florian Schuhbauer har via bolaget Active Ownership (AOC) köpt drygt 190.000 aktier i gamingbolaget för drygt 20 miljoner kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major owner buys MTG shares for SEK 20 million",
+        "summary": "MTG board member Florian Schuhbauer has, via the company Active Ownership (AOC), bought just over 190,000 shares in the gaming company for just over SEK 20 million."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T17:31:12+01:00"
+      }
+    },
     {
       "id": "e5231817f1e2",
       "schema_version": 1,
@@ -5303,33 +5329,6 @@
       "en": {
         "title": "Board resignation triggers new slide in the already bombed-out company",
         "summary": "Board member Johan Eriksson is leaving the board of research company Cereno Scientific with immediate effect, at his own request and after heavy share price losses in the company. The news is sending the already battered share down further."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T14:01:28+01:00"
-      }
-    },
-    {
-      "id": "6e437708bec8",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/stada-upp-i-ai-branschen",
-      "guid": "fc586e53-9073-44e0-8fb2-3b3bfda4513b",
-      "published_at": "2026-11-17T13:52:45+01:00",
-      "fetched_at": "2026-11-17T14:01:20+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/5d1374a3-4431-4f58-8a1f-6478d904daf0.jpeg?width=600",
-      "sv": {
-        "title": "Städa upp i AI-branschen",
-        "summary": "Med AI Act införs krav på hur AI- leverantörer ska hantera risker, skydda information och skapa insyn. Det är en välkommen upprensning som sätter press på aktörer att ta ansvar och ger seriösa bolag mer rättvisa konkurrensvillkor, skriver Ricard Chramer, vd för Meetric.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Clean up the AI industry",
-        "summary": "With the AI Act, requirements are introduced on how AI providers must handle risks, protect information and create transparency. It is a welcome clean-up that puts pressure on actors to take responsibility and gives serious companies fairer competitive conditions, writes Ricard Chramer, CEO of Meetric."
       },
       "translation": {
         "status": "done",

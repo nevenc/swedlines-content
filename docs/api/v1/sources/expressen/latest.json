@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T17:15:54+01:00",
+  "generated_at": "2026-11-18T17:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6aab4df360a9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/strommer-m-med-oss-kan-c-andra-strandskyddet",
+      "guid": "https://www.expressen.se/nyheter/politik/strommer-m-med-oss-kan-c-andra-strandskyddet/",
+      "published_at": "2026-11-18T17:15:37+01:00",
+      "fetched_at": "2026-11-18T17:31:05+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Strömmer (M): Med oss kan C ändra strandskyddet",
+        "summary": "Moderaternas erbjudande till Centerpartiet innehåller ett reformerat strandskydd. Men det ska inte ses som ett lockbete, menar Gunnar Strömmer (M). – Möjligheterna att genomföra det är förstås mycket bättre i ett samarbete med oss.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Strömmer (M): With us, C can change the shoreline protection",
+        "summary": "The Moderates' offer to the Centre Party includes a reformed shoreline protection. But it should not be seen as bait, says Gunnar Strömmer (M). – The possibilities of implementing it are of course much better in cooperation with us."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T17:31:12+01:00"
+      }
+    },
     {
       "id": "d10952e29fb5",
       "schema_version": 1,
@@ -5161,32 +5187,6 @@
       "en": {
         "title": "Jakob Forssmed's attack on the Social Democrats over the Sweden Democrats: Not true",
         "summary": "If the Centre Party moves to the right, they break their promise not to cooperate with the Sweden Democrats. That is the message from the Social Democrat leadership – which now prompts Christian Democrat leader Jakob Forssmed to counterattack. \"Simply not true,\" he writes on Facebook."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T14:15:49+01:00"
-      }
-    },
-    {
-      "id": "12e495741c48",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/kungligt/prinsessan-madeleine-slapper-tv-serie-inspirerades-av-kungen",
-      "guid": "https://www.expressen.se/nyheter/kungligt/prinsessan-madeleine-slapper-tv-serie-inspirerades-av-kungen/",
-      "published_at": "2026-11-15T14:00:12+01:00",
-      "fetched_at": "2026-11-15T14:15:43+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Prinsessan Madeleine släpper tv-serie – inspirerades av kungen",
-        "summary": "Prinsessan Madeleine släpper en tv-serie för barn. På lanseringen avslöjade hon varifrån hon fått sina idéer. – Jag skulle säga att pappa har faktiskt varit en stor inspirationskälla till det här, säger hon till Hänt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Princess Madeleine releases TV series – inspired by the king",
-        "summary": "Princess Madeleine is releasing a children's TV series. At the launch she revealed where she got her ideas. \"I would say that Dad has actually been a great source of inspiration for this,\" she tells Hänt."
       },
       "translation": {
         "status": "done",

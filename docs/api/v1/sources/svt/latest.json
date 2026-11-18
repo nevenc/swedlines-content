@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T17:15:54+01:00",
+  "generated_at": "2026-11-18T17:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5882bf1df98e",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/frida-karlssons-stalker-ska-genomga-sinnesundersokning",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/frida-karlssons-stalker-ska-genomga-sinnesundersokning",
+      "published_at": "2026-11-18T17:08:24+01:00",
+      "fetched_at": "2026-11-18T17:31:01+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Frida Karlssons stalker ska genomgå sinnesundersökning",
+        "summary": "Frida Karlssons stalker ska genomgå en liten sinnesundersökning. Det stod klart efter ondagens förhandlingar i Eskilstuna tingsrätt där Frida Karlsson vittnade. – Jag har en högre grundstress, känner hela tiden ett obehag, sa hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Frida Karlsson's stalker to undergo mental examination",
+        "summary": "Frida Karlsson's stalker is to undergo a brief mental examination. This became clear after Tuesday's hearings at the Eskilstuna district court, where Frida Karlsson testified. – I have a higher baseline stress, I constantly feel discomfort, she said."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T17:31:12+01:00"
+      }
+    },
     {
       "id": "2b0917c95dba",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Former Guif chairman admits crime",
         "summary": "Former Guif chairman Björn Frössevi is on trial for forging documents. At the trial in Eskilstuna District Court he admits the crime, according to Eskilstuna-Kuriren."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "19adea8f96ea",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/gick-pa-rockbar-i-lulea-med-hakkors-i-pannan-doms",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/gick-pa-rockbar-i-lulea-med-hakkors-i-pannan-doms",
-      "published_at": "2026-11-12T14:36:42+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Gick på rockbar i Luleå med hakkors i pannan – döms",
-        "summary": "En man i 40-årsåldern gick på en rockbar i Luleå med en svastika ritad i pannan. Han hävdade själv att det var en indisk lyckosymbol men nu döms han för hets mot folkgrupp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Went to a rock bar in Luleå with a swastika on his forehead – convicted",
-        "summary": "A man in his 40s went to a rock bar in Luleå with a swastika drawn on his forehead. He himself claimed it was an Indian symbol of good luck, but now he is convicted of incitement against an ethnic group."
       },
       "translation": {
         "status": "done",
