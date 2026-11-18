@@ -1,7 +1,68 @@
 {
-  "generated_at": "2026-11-18T18:31:10+01:00",
+  "generated_at": "2026-11-18T18:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cbf91076a8e5",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/livsmedelsverket-lussebullar-en-gang-om-aret-paverkar-inte-barns-halsa",
+      "guid": "https://www.dn.se/sverige/livsmedelsverket-lussebullar-en-gang-om-aret-paverkar-inte-barns-halsa/",
+      "published_at": "2026-11-18T18:41:10+01:00",
+      "fetched_at": "2026-11-18T18:45:41+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/c52394bb-6d7b-467a-a51d-7c9ae4e5fb06.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Livsmedelsverket: Lussebullar en gång om året påverkar inte barns hälsa",
+        "summary": "I en del av Göteborg har förskolorna bestämt att låta bli lussebullsbaket för att hålla nere barnens sockerintag. De hänvisar till Livsmedelsverkets rekommendationer. Men de ”kan tolkas åt båda hållen”, säger Elin Sandström vid myndigheten.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Livsmedelsverket: Lucia buns once a year do not affect children's health",
+        "summary": "In part of Göteborg, preschools have decided to stop baking Lucia buns to keep children's sugar intake down. They refer to Livsmedelsverket's recommendations. But they \"can be interpreted both ways\", says Elin Sandström at the agency."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T18:45:55+01:00"
+      }
+    },
+    {
+      "id": "8b77434037ca",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/goran-johansson-ska-fa-en-gata-uppkallad-efter-sig-i-goteborg.4781047d-619c-5050-a1f3-4300abd9a7cf",
+      "guid": "4781047d-619c-5050-a1f3-4300abd9a7cf",
+      "published_at": "2026-11-18T18:30:33+01:00",
+      "fetched_at": "2026-11-18T18:45:43+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Politik",
+        "Tagg: SKF",
+        "Tagg: Göran Johansson",
+        "Tagg: Gamlestaden",
+        "Tagg: Göteborgs stad"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/e1fb4955-f668-3323-a35a-8a0cf87f674c",
+      "sv": {
+        "title": "Göteborgs starke man får en gata – här ska den ligga",
+        "summary": "Förklaringen bakom var Göran Johanssons gata ska finnas.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Göteborg's strong man gets a street – here is where it will be",
+        "summary": "The explanation behind where Göran Johansson's street will be located."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T18:45:55+01:00"
+      }
+    },
     {
       "id": "5a1f7237af1f",
       "schema_version": 1,
@@ -5374,56 +5435,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T20:30:22+01:00"
-      }
-    },
-    {
-      "id": "ae19d927063c",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79914",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79914&utm_medium=rss",
-      "published_at": "2026-11-14T19:36:48+01:00",
-      "fetched_at": "2026-11-14T20:30:09+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "En död efter båtbrand"
-      },
-      "en": {
-        "title": "One dead after boat fire"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:22+01:00"
-      }
-    },
-    {
-      "id": "8c9a2a989e3a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://tv.aftonbladet.se/video/410612",
-      "guid": "https://tv.aftonbladet.se/video/410612?utm_medium=rss",
-      "published_at": "2026-11-14T19:22:02+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "sweden",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/3f9599359f3989cc35c8758dab8b8ce6.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "100 000 liter färg brinner – flyr i panik",
-        "summary": "Flyr i panik från giftiga röken",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "100,000 litres of paint burning – fleeing in panic",
-        "summary": "Fleeing in panic from the toxic smoke"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:14+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T18:31:10+01:00",
+  "generated_at": "2026-11-18T18:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ecf11adccdc1",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/35-fragor-har-ar-de-rodgrona-partierna-overens-och-inte",
+      "guid": "https://www.svt.se/nyheter/35-fragor-har-ar-de-rodgrona-partierna-overens-och-inte",
+      "published_at": "2026-11-18T18:43:07+01:00",
+      "fetched_at": "2026-11-18T18:45:39+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "35 frågor: Här är de rödgröna partierna överens – och inte",
+        "summary": "Regeringsförhandlingar pågår just nu mellan de rödgröna partierna. Förutom vilka partier som ska sitta i en eventuell regering behöver de komma överens om en rad sakpolitiska förslag. Se SVT:s genomgång av frågor som förenar – och skiljer dem åt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "35 questions: Here is where the red-greens agree – and where they don't",
+        "summary": "Government negotiations are currently under way between the red-green parties. In addition to which parties should sit in a possible government, they need to agree on a number of policy proposals. See SVT's overview of issues that unite them – and divide them."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T18:45:55+01:00"
+      }
+    },
     {
       "id": "55973c63e9c6",
       "schema_version": 1,
@@ -5363,33 +5389,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T06:15:47+01:00"
-      }
-    },
-    {
-      "id": "7328b71f4a38",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Wmb0Eg/professor-i-forhandling-forvanas-over-partiledarnas-missade-chanser-i-regeringsbildningen",
-      "guid": "https://www.svd.se/a/Wmb0Eg/professor-i-forhandling-forvanas-over-partiledarnas-missade-chanser-i-regeringsbildningen?utm_medium=rss",
-      "published_at": "2026-11-16T05:36:31+01:00",
-      "fetched_at": "2026-11-16T05:45:36+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/f4b07dbf-1225-33db-9535-56124bf34b55?format=auto&s=bce8dc7e879195115f74e4413834511aa9d1e1df&w=1000",
-      "sv": {
-        "title": "Förhandlingsexpert: De stärker sina röda linjer",
-        "summary": "Bristerna i politikernas förmåga att komma överens förvånar Lars-Johan Åge, professor i förhandling…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Negotiation expert: They are strengthening their red lines",
-        "summary": "The shortcomings in politicians' ability to reach agreement surprise Lars-Johan Åge, professor of negotiation…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T05:45:47+01:00"
       }
     }
   ]
