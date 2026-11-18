@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T07:15:54+01:00",
+  "generated_at": "2026-11-18T07:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "de8a219827d8",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/wdP9PA/stor-brand-pa-atervinningsanlaggning",
+      "guid": "https://www.aftonbladet.se/nyheter/a/wdP9PA/stor-brand-pa-atervinningsanlaggning?utm_medium=rss",
+      "published_at": "2026-11-18T07:20:13+01:00",
+      "fetched_at": "2026-11-18T07:31:02+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Stor brand på återvinningsanläggning",
+        "summary": "En kraftig brand har brutit ut på en återvinningsanläggning i Halmstad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major fire at recycling facility",
+        "summary": "A large fire has broken out at a recycling facility in Halmstad."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
+      }
+    },
     {
       "id": "53d5aa5eda45",
       "schema_version": 1,
@@ -27,6 +53,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T07:15:54+01:00"
+      }
+    },
+    {
+      "id": "b982ef52b0ae",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/M5RdMM/starnumret-ar-arets-julklapp",
+      "guid": "https://www.aftonbladet.se/nyheter/a/M5RdMM/starnumret-ar-arets-julklapp?utm_medium=rss",
+      "published_at": "2026-11-18T06:56:36+01:00",
+      "fetched_at": "2026-11-18T07:31:02+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/d5129884-ed22-388d-a2f0-2198df137fad?format=auto&s=af5ed7843625d14d83a1783b4f13931b0c49c753&w=1000",
+      "sv": {
+        "title": "Startnumret är årets julklapp",
+        "summary": "”Motiverar och enar”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The starting number is this year's Christmas present",
+        "summary": "\"Motivates and unites\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
       }
     },
     {
@@ -5315,60 +5368,6 @@
       "en": {
         "title": "Aina's hotel shock: \"Nowhere to sleep\"",
         "summary": "Had booked the dream in advance"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:22+01:00"
-      }
-    },
-    {
-      "id": "22f1cf4005e2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/XogbJo/3d-printad-skalle-visar-filosofens-plagor",
-      "guid": "https://www.aftonbladet.se/nyheter/a/XogbJo/3d-printad-skalle-visar-filosofens-plagor?utm_medium=rss",
-      "published_at": "2026-11-14T19:43:46+01:00",
-      "fetched_at": "2026-11-14T20:30:09+01:00",
-      "category": "science_tech",
-      "image_url": "https://akamai.vgc.no/v2/images/551382de-8b0b-3831-9977-71a7d1d32922?format=auto&s=0dc54288d321c18f9d3701a4f603ff51370d17d6&w=1000",
-      "sv": {
-        "title": "3D-printad skalle visar filosofens plågor",
-        "summary": "Jeremy Bentham led av kronisk tandvärk och hade svår artros i käken. Det visar en nyligen genomförd…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "3D-printed skull shows the philosopher's suffering",
-        "summary": "Jeremy Bentham suffered from chronic toothache and had severe arthrosis in his jaw. This is shown by a recently conducted…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:22+01:00"
-      }
-    },
-    {
-      "id": "76ba39f8ca64",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Pv94q7/person-avliden-efter-en-batbrand-i-tjorn",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Pv94q7/person-avliden-efter-en-batbrand-i-tjorn?utm_medium=rss",
-      "published_at": "2026-11-14T19:39:12+01:00",
-      "fetched_at": "2026-11-14T20:30:09+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/e5145cd1-7b1c-311f-a528-f5fc16c8f2c8?format=auto&s=ee888fe8316e5060cddd7f776fef118836a58800&w=1000",
-      "sv": {
-        "title": "Person avliden efter en båtbrand i Tjörn",
-        "summary": "En man i 60-årsåldern har avlidit efter att ha hittats ombord i samband med en rökutveckling på en…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Person dies after boat fire in Tjörn",
-        "summary": "A man in his 60s has died after being found on board in connection with smoke development on a…"
       },
       "translation": {
         "status": "done",

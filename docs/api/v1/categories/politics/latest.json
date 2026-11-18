@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T07:15:54+01:00",
+  "generated_at": "2026-11-18T07:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c86d0400ed7b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344892",
+      "guid": "rss:sr.se/article/9344892",
+      "published_at": "2026-11-18T07:19:00+01:00",
+      "fetched_at": "2026-11-18T07:30:59+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "M går om S – blir största partiet",
+        "summary": "Moderaterna är största parti i en ny Novusmätning som publiceras i TV4 och Göteborgs-Posten, med 26,5 procent av väljarstödet. Moderaterna ökar med 2,6 procentenheter, medan Socialdemokraterna backar med 1 procentenhet till 24,9 procent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "M overtakes S – becomes largest party",
+        "summary": "The Moderates are the largest party in a new Novus poll published by TV4 and Göteborgs-Posten, with 26.5 percent of voter support. The Moderates gain 2.6 percentage points, while the Social Democrats fall by 1 percentage point to 24.9 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
+      }
+    },
     {
       "id": "84492f85e356",
       "schema_version": 1,
@@ -5386,32 +5412,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T19:15:45+01:00"
-      }
-    },
-    {
-      "id": "0a01f72b8f88",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ess-sa-kan-hon-mota-sprickan-i-grind",
-      "guid": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ess-sa-kan-hon-mota-sprickan-i-grind/",
-      "published_at": "2026-11-15T17:44:19+01:00",
-      "fetched_at": "2026-11-15T18:01:12+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Thand Ringqvists ess – så kan hon mota sprickan i grind",
-        "summary": "Centerpartiet riskerar en intern svekdebatt. Men partiledaren Elisabeth Thand Ringqvist kan ha ett ess i rockärmen – för att blidka de värsta internkritikerna. – En lösning kan ju då vara att personen i fråga får en ministerpost, säger statsvetaren Jenny Madestam.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Thand Ringqvist's ace – how she can plug the gap in the grid",
-        "summary": "The Centre Party risks an internal betrayal debate. But party leader Elisabeth Thand Ringqvist may have an ace up her sleeve – to placate the harshest internal critics. – One solution could be that the person in question gets a ministerial post, says political scientist Jenny Madestam."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T18:01:20+01:00"
       }
     }
   ]

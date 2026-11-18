@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T07:15:54+01:00",
+  "generated_at": "2026-11-18T07:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ece946a8bdf4",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/varmland/stor-brand-pa-stena-recycling-i-halmstad",
+      "guid": "https://www.svt.se/nyheter/lokalt/varmland/stor-brand-pa-stena-recycling-i-halmstad",
+      "published_at": "2026-11-18T07:29:37+01:00",
+      "fetched_at": "2026-11-18T07:30:57+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Stor brand på Stena recycling i Halmstad",
+        "summary": "En kraftig brand har brutit ut på en återvinningsanläggning i Halmstad. Branden är inte under kontroll och det finns stor risk för spridning, rapporterar P4 Halland.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major fire at Stena Recycling in Halmstad",
+        "summary": "A large fire has broken out at a recycling facility in Halmstad. The fire is not under control and there is a high risk of spread, reports P4 Halland."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
+      }
+    },
     {
       "id": "b7161320e8a8",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "After leaks and broken pumps – swimming teacher Joakim wants a new swimming pool in Kungsör",
         "summary": "Kungsör's swimming pool is old, worn and has been forced to close several times in recent years. Now swimming teacher Joakim Carlsson appeals to the politicians to invest in a new pool. – Now it has been patched and mended. But how long will that repair last?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "d4d6b6c87c6e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jamtland/unik-oringlek-i-locknesjon-fangad-pa-bild",
-      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/unik-oringlek-i-locknesjon-fangad-pa-bild",
-      "published_at": "2026-11-12T05:30:07+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "Unik öringlek i Locknesjön fångad på bild",
-        "summary": "I Locknesjön, ett par mil utanför Östersund, har länsstyrelsen under en dryg månad haft undervattenskameror utplacerade för att försöka dokumentera en ovanlig öringlek. Och man tror att man lyckats.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unique trout spawning in Locknesjön captured on camera",
-        "summary": "In Locknesjön, a couple of dozen kilometres outside Östersund, the county administrative board has had underwater cameras in place for just over a month to try to document an unusual trout spawning. And they believe they have succeeded."
       },
       "translation": {
         "status": "done",

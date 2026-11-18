@@ -1,7 +1,320 @@
 {
-  "generated_at": "2026-11-18T07:15:54+01:00",
-  "count": 121,
+  "generated_at": "2026-11-18T07:31:11+01:00",
+  "count": 134,
   "items": [
+    {
+      "id": "ece946a8bdf4",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/varmland/stor-brand-pa-stena-recycling-i-halmstad",
+      "guid": "https://www.svt.se/nyheter/lokalt/varmland/stor-brand-pa-stena-recycling-i-halmstad",
+      "published_at": "2026-11-18T07:29:37+01:00",
+      "fetched_at": "2026-11-18T07:30:57+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Stor brand på Stena recycling i Halmstad",
+        "summary": "En kraftig brand har brutit ut på en återvinningsanläggning i Halmstad. Branden är inte under kontroll och det finns stor risk för spridning, rapporterar P4 Halland.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major fire at Stena Recycling in Halmstad",
+        "summary": "A large fire has broken out at a recycling facility in Halmstad. The fire is not under control and there is a high risk of spread, reports P4 Halland."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
+      }
+    },
+    {
+      "id": "32fa2fcfd4ff",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=00122c30-e1e0-4e93-9be9-35cd4a2e160e",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=00122c30-e1e0-4e93-9be9-35cd4a2e160e",
+      "published_at": "2026-11-18T07:29:18+01:00",
+      "fetched_at": "2026-11-18T07:31:03+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Brand på återvinning",
+        "summary": "Är inte under kontroll – stor spridningsrisk",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fire at recycling facility",
+        "summary": "Not under control – high risk of spread"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
+      }
+    },
+    {
+      "id": "93c0f9558af5",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/sveafastigheter-meddelar-ny-utdelningspolicy",
+      "guid": "6ecd670a-e95f-47ba-b053-803b2047f6ee",
+      "published_at": "2026-11-18T07:29:07+01:00",
+      "fetched_at": "2026-11-18T07:31:03+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Sveafastigheter meddelar ny utdelningspolicy",
+        "summary": "Fastighetsbolaget Sveafastigheter fastställer nya finansiella mål efter fusionen med Klarabo och presenterar ny utdelningspolicy.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sveafastigheter announces new dividend policy",
+        "summary": "Property company Sveafastigheter sets new financial targets following the merger with Klarabo and presents a new dividend policy."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
+      }
+    },
+    {
+      "id": "97c99eed4b5d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/debatt/vi-riskerar-4-forlorade-ar",
+      "guid": "8642504e-28fd-40b1-b60c-e457c6be3242",
+      "published_at": "2026-11-18T07:29:06+01:00",
+      "fetched_at": "2026-11-18T07:31:03+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/54c174c3-e7ac-4b35-8490-e4554ba9f933.jpeg?width=600",
+      "sv": {
+        "title": "Vi riskerar 4 förlorade år",
+        "summary": "Centerpartiet måste stå emot de reformer som skulle medföra ett stukat företagsklimat. Annars väntar fyra förlorade år, skriver Magnus Demervall, vd Företagarna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "We risk 4 lost years",
+        "summary": "The Centre Party must resist the reforms that would lead to a weakened business climate. Otherwise four lost years await, writes Magnus Demervall, CEO of Företagarna."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
+      }
+    },
+    {
+      "id": "bf5782e0cd9b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344898",
+      "guid": "rss:sr.se/article/9344898",
+      "published_at": "2026-11-18T07:27:00+01:00",
+      "fetched_at": "2026-11-18T07:30:59+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Krav på att släppa alla politiska fångar i Venezuela",
+        "summary": "I Venezuela har familjer börjat tälta utanför amerikanska ambassaden i Caracas för att kräva att USA ser till att den venezolanska regeringen släpper de sista politiska fångarna. \"Delcy Rodriguez vill få USA att tro att hon släppt alla politiska fångar i Venezuela.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Demand to release all political prisoners in Venezuela",
+        "summary": "In Venezuela, families have begun camping outside the American embassy in Caracas to demand that the US ensure the Venezuelan government releases the last political prisoners. \"Delcy Rodriguez wants the US to believe she has released all political prisoners in Venezuela."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
+      }
+    },
+    {
+      "id": "aa648dbafc1b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/ted-astrom-har-fatt-amputera-benet",
+      "guid": "df74cf9b-b299-46f4-ab59-161bd6b6a22c",
+      "published_at": "2026-11-18T07:26:19+01:00",
+      "fetched_at": "2026-11-18T07:31:05+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/daaa9fbb-d8d8-4a1c-9336-ec676f6b8b5f.jpg?width=600",
+      "sv": {
+        "title": "Ted Åström har fått amputera benet",
+        "summary": "Ted Åström var nära att få kallbrand och har tvingats amputera sitt ena ben. – Det är för jävligt att det har hänt, säger skådespelaren till Aftonbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ted Åström has had to amputate a leg",
+        "summary": "Ted Åström came close to getting frostbite and has been forced to amputate one of his legs. \"It is so damn unfair that it has happened,\" the actor tells Aftonbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
+      }
+    },
+    {
+      "id": "5f8a5ebd19c9",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/har-ar-onsdagens-aktierekar",
+      "guid": "cb0ca8b9-013c-460f-a58d-df9bd405e5e3",
+      "published_at": "2026-11-18T07:25:57+01:00",
+      "fetched_at": "2026-11-18T07:31:03+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1d6189f8-6665-4701-9e24-04da9301a6d8.jpeg?width=600",
+      "sv": {
+        "title": "Här är onsdagens aktierekar",
+        "summary": "Bland dagens nya rekommendationer sticker Axfood ut när Arctic inleder bevakning med köp och ser tydlig uppsida i aktien. Samtidigt höjs riktkurserna för småspararaktien Nibe, som rapporterade på tisdagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here are Wednesday's stock picks",
+        "summary": "Among today's new recommendations, Axfood stands out as Arctic initiates coverage with a buy rating and sees clear upside in the stock. Meanwhile, price targets are raised for retail-investor favourite Nibe, which reported on Tuesday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
+      }
+    },
+    {
+      "id": "e1f0573a9f37",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80033",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80033&utm_medium=rss",
+      "published_at": "2026-11-18T07:22:38+01:00",
+      "fetched_at": "2026-11-18T07:31:00+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Brand på avfallsanläggning – ”stor spridningsrisk”"
+      },
+      "en": {
+        "title": "Fire at waste facility – \"high risk of spread\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
+      }
+    },
+    {
+      "id": "e9817a27f7c0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/forsvarschefen-har--ar-putins-huvudvark",
+      "guid": "https://www.expressen.se/nyheter/sverige/forsvarschefen-har--ar-putins-huvudvark/",
+      "published_at": "2026-11-18T07:22:21+01:00",
+      "fetched_at": "2026-11-18T07:31:03+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Försvarschefen: Här är Putins huvudvärk",
+        "summary": "Rysslands strategiska huvudvärk stavas Kaliningrad. Den tidigare så hotfulla exklaven är nu omringad av Nato och har förvandlats till en sårbarhet, enligt Försvarsstabens chef Carl-Johan Edström. Med Sverige och Finland i alliansen kan området blockeras och isoleras vid en konflikt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Defence chief: here is Putin's headache",
+        "summary": "Russia's strategic headache is called Kaliningrad. The once-threatening exclave is now surrounded by NATO and has become a vulnerability, according to Carl-Johan Edström, head of the Swedish Armed Forces' Defence Staff. With Sweden and Finland in the alliance, the area can be blockaded and isolated in a conflict."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
+      }
+    },
+    {
+      "id": "de8a219827d8",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/wdP9PA/stor-brand-pa-atervinningsanlaggning",
+      "guid": "https://www.aftonbladet.se/nyheter/a/wdP9PA/stor-brand-pa-atervinningsanlaggning?utm_medium=rss",
+      "published_at": "2026-11-18T07:20:13+01:00",
+      "fetched_at": "2026-11-18T07:31:02+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Stor brand på återvinningsanläggning",
+        "summary": "En kraftig brand har brutit ut på en återvinningsanläggning i Halmstad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major fire at recycling facility",
+        "summary": "A large fire has broken out at a recycling facility in Halmstad."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
+      }
+    },
+    {
+      "id": "c86d0400ed7b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344892",
+      "guid": "rss:sr.se/article/9344892",
+      "published_at": "2026-11-18T07:19:00+01:00",
+      "fetched_at": "2026-11-18T07:30:59+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "M går om S – blir största partiet",
+        "summary": "Moderaterna är största parti i en ny Novusmätning som publiceras i TV4 och Göteborgs-Posten, med 26,5 procent av väljarstödet. Moderaterna ökar med 2,6 procentenheter, medan Socialdemokraterna backar med 1 procentenhet till 24,9 procent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "M overtakes S – becomes largest party",
+        "summary": "The Moderates are the largest party in a new Novus poll published by TV4 and Göteborgs-Posten, with 26.5 percent of voter support. The Moderates gain 2.6 percentage points, while the Social Democrats fall by 1 percentage point to 24.9 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
+      }
+    },
+    {
+      "id": "171c9d5feb8b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/expert-osannolikt-att-bron-kan-lagas-under-kriget",
+      "guid": "801df8b4-1354-4c1e-bc5f-0d6f0b8ecfec",
+      "published_at": "2026-11-18T07:15:48+01:00",
+      "fetched_at": "2026-11-18T07:31:03+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/2f21764c-256a-4d1a-8216-f51391a04bf5.jpg?width=600",
+      "sv": {
+        "title": "Expert: Osannolikt att bron kan lagas under kriget",
+        "summary": "Delar av Krimbron ligger på havets botten efter riktade ukrainska attacker. Ryssland lovar att bygga upp den, men militärexperten Emil Kastehelmi ser det som osannolikt, så länge som kriget pågår. ”Det går inte bara att bygga en ny stålkropp och sätta den på plats”, säger han till TT.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expert: Unlikely the bridge can be repaired during the war",
+        "summary": "Parts of the Crimean Bridge lie on the seabed after targeted Ukrainian attacks. Russia promises to rebuild it, but military expert Emil Kastehelmi considers this unlikely as long as the war continues. \"You can't simply build a new steel structure and put it in place,\" he tells TT."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
+      }
+    },
     {
       "id": "ffa02809b535",
       "schema_version": 1,
@@ -635,6 +948,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T07:01:37+01:00"
+      }
+    },
+    {
+      "id": "b982ef52b0ae",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/M5RdMM/starnumret-ar-arets-julklapp",
+      "guid": "https://www.aftonbladet.se/nyheter/a/M5RdMM/starnumret-ar-arets-julklapp?utm_medium=rss",
+      "published_at": "2026-11-18T06:56:36+01:00",
+      "fetched_at": "2026-11-18T07:31:02+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/d5129884-ed22-388d-a2f0-2198df137fad?format=auto&s=af5ed7843625d14d83a1783b4f13931b0c49c753&w=1000",
+      "sv": {
+        "title": "Startnumret är årets julklapp",
+        "summary": "”Motiverar och enar”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The starting number is this year's Christmas present",
+        "summary": "\"Motivates and unites\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:31:11+01:00"
       }
     },
     {
