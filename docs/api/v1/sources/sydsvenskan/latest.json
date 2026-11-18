@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-18T06:01:29+01:00",
+  "generated_at": "2026-11-18T06:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4f4be056e801",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/13-spannande-forslag-som-inte-kommer-att-bli-verklighet",
+      "guid": "6570d9a4-9a24-433d-9565-a896a12163bd",
+      "published_at": "2026-11-18T06:12:02+01:00",
+      "fetched_at": "2026-11-18T06:15:42+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/5c087ba2-bae5-4a6f-b220-e3e4f3cf559a.png?width=600",
+      "sv": {
+        "title": "13 spännande förslag som inte kommer att bli verklighet",
+        "summary": "Gratis tåg- och bussresor för Lunds ungdomar hela året om. Fri parkering i p-hus. Sänkt skatt. Billigare bad. Och stopp för politikernas gratisfika. Här är 13 spännande förslag från Lunds oppositionspartier som alla kommer att röstas ner.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "13 exciting proposals that will not become reality",
+        "summary": "Free train and bus travel for Lund's young people all year round. Free parking in multi-storey car parks. Lower tax. Cheaper swimming. And an end to politicians' free coffee. Here are 13 exciting proposals from Lund's opposition parties that will all be voted down."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
+      "id": "c1602c72b5d4",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/demokrat-vinner-i-alaska-alla-senatsval-klara",
+      "guid": "248cd2f7-f07a-4ada-b3de-ad249e98b0b3",
+      "published_at": "2026-11-18T06:06:53+01:00",
+      "fetched_at": "2026-11-18T06:15:42+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/8344cad0-6fb0-4e08-8e0a-2f0c5745d365.jpg?width=600",
+      "sv": {
+        "title": "Demokrat vinner i Alaska – alla senatsval klara",
+        "summary": "Den sista platsen i USA:s senat går till Alaska-demokraten Mary Peltola, beräknar flera amerikanska medier. – Tack Alaska, vi gjorde det, säger Peltola i ett videoklipp på sociala medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Democrat wins in Alaska – all Senate races decided",
+        "summary": "The last seat in the US Senate goes to Alaska Democrat Mary Peltola, several American media outlets estimate. “Thank you Alaska, we did it,” Peltola says in a video clip on social media."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
     {
       "id": "9b72d65f99bb",
       "schema_version": 1,
@@ -5154,60 +5208,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T14:01:16+01:00"
-      }
-    },
-    {
-      "id": "f6a87f77ab76",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/skane/ta-det-lugnt-i-trafiken-risk-for-ishalka-i-veckan",
-      "guid": "113626e1-2d48-4e33-9e1a-3d56d3f25f8b",
-      "published_at": "2026-11-15T14:00:00+01:00",
-      "fetched_at": "2026-11-15T14:01:12+01:00",
-      "category": "weather",
-      "image_url": "https://static.bonniernews.se/ba/c861d102-086c-4cd4-aa44-c7900f5091b5.jpeg?width=600",
-      "sv": {
-        "title": "Ta det lugnt i trafiken – risk för ishalka i veckan",
-        "summary": "Regn och rusk dagtid, men risk för ishalka om temperaturen rasar nattetid. Jourhavande meterolog Linnea Rehn Wittskog uppmanar skånska trafikanter att ta det lugnt i veckan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Take it easy in traffic – risk of black ice this week",
-        "summary": "Rain and sleet during the day, but risk of black ice if temperatures plunge at night. On-duty meteorologist Linnea Rehn Wittskog urges road users in Skåne to take it easy this week."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T14:01:16+01:00"
-      }
-    },
-    {
-      "id": "ca8fcb2a1d1c",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/svensken-missade-pga-tourkortet-pa-sista-halet",
-      "guid": "1f950c1f-8d27-44b3-9570-b2e00e156b53",
-      "published_at": "2026-11-15T13:41:25+01:00",
-      "fetched_at": "2026-11-15T13:45:43+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/28fb5b60-c2dd-4d7a-abb3-93934a249362.jpg?width=600",
-      "sv": {
-        "title": "Svensken missade PGA-tourkortet – på sista hålet",
-        "summary": "Par på sista hålet i säsongsfinalen i Dubai hade räckt för att Mikael Lindberg skulle säkra ett PGA-tourkort till nästa år. Då slog den svenske golfstjärnan i vattnet – och noterades för en bogey.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swede misses PGA Tour card – on the final hole",
-        "summary": "Par on the final hole of the season-ending finale in Dubai would have been enough for Mikael Lindberg to secure a PGA Tour card for next year. Then the Swedish golf star put his ball in the water and was recorded with a bogey."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T13:45:46+01:00"
       }
     }
   ]

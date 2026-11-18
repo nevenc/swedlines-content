@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-11-18T06:01:29+01:00",
+  "generated_at": "2026-11-18T06:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4f4be056e801",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/13-spannande-forslag-som-inte-kommer-att-bli-verklighet",
+      "guid": "6570d9a4-9a24-433d-9565-a896a12163bd",
+      "published_at": "2026-11-18T06:12:02+01:00",
+      "fetched_at": "2026-11-18T06:15:42+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/5c087ba2-bae5-4a6f-b220-e3e4f3cf559a.png?width=600",
+      "sv": {
+        "title": "13 spännande förslag som inte kommer att bli verklighet",
+        "summary": "Gratis tåg- och bussresor för Lunds ungdomar hela året om. Fri parkering i p-hus. Sänkt skatt. Billigare bad. Och stopp för politikernas gratisfika. Här är 13 spännande förslag från Lunds oppositionspartier som alla kommer att röstas ner.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "13 exciting proposals that will not become reality",
+        "summary": "Free train and bus travel for Lund's young people all year round. Free parking in multi-storey car parks. Lower tax. Cheaper swimming. And an end to politicians' free coffee. Here are 13 exciting proposals from Lund's opposition parties that will all be voted down."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
+      "id": "116eb8875905",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/74eccnE9H81mrUSWlvWXSA/m-passerar-s-i-ny-maetning-och-tidoepartierna-klart-stoerre",
+      "guid": "74eccnE9H81mrUSWlvWXSA",
+      "published_at": "2026-11-18T06:00:08+01:00",
+      "fetched_at": "2026-11-18T06:15:40+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Valet 2026"
+      ],
+      "sv": {
+        "title": "M passerar S i ny mätning – och Tidöpartierna klart större",
+        "summary": "I Novus senaste väljarbarometer, genomförd mellan 6 och 15 november, ökar Moderaterna med 2,6 procentenheter sedan den föregående mätningen i oktober och når därmed 26,5 procent. En uppgång med 6,6 procentenheter jämfört med valresultatet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The Moderates (M) pass the Social Democrats (S) in new poll – and the Tidö parties clearly ahead",
+        "summary": "In Novus' latest voter barometer, conducted between 6 and 15 November, the Moderates rise 2.6 percentage points since the previous poll in October, reaching 26.5 percent. A rise of 6.6 percentage points compared with the election result."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
+      "id": "afcd331c795b",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/m-gar-om-s-i-ny-matning-spektakulart.d52605fa-f829-5509-97fa-3ed913561de6",
+      "guid": "d52605fa-f829-5509-97fa-3ed913561de6",
+      "published_at": "2026-11-18T06:00:01+01:00",
+      "fetched_at": "2026-11-18T06:15:41+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Politik",
+        "Tagg: Magdalena Andersson",
+        "Tagg: Andreas Johansson Heinö",
+        "Tagg: Socialdemokraterna",
+        "Tagg: GP/Novus"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/b186929c-8c8b-3bda-ac55-df8fbe36ae83",
+      "sv": {
+        "title": "M större än S i ny mätning: ”Det är spektakulärt”",
+        "summary": "Moderaterna rusar för andra månaden i rad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Moderates (M) larger than the Social Democrats (S) in new poll: “It is spectacular”",
+        "summary": "The Moderates surge for the second month in a row."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
     {
       "id": "0fa38d6f2178",
       "schema_version": 1,
@@ -5321,85 +5411,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T17:01:25+01:00"
-      }
-    },
-    {
-      "id": "e11955708b58",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/v-politiker-i-skarholmen-utan-vanstern-blir-det-tido-light",
-      "guid": "https://www.svt.se/nyheter/inrikes/v-politiker-i-skarholmen-utan-vanstern-blir-det-tido-light",
-      "published_at": "2026-11-15T16:45:16+01:00",
-      "fetched_at": "2026-11-15T17:01:06+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "V-politiker i Skärholmen: ”Utan vänstern blir det Tidö light”",
-        "summary": "Allt ifrån popstjärnan Robyn till höga fackliga företrädare vill att vänstern ska backa från sitt krav på att sitta i regering. Men partiet håller fast vid sin ståndpunkt. – Utan Vänsterpartiet blir det inte vänsterpolitik.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Left Party politician in Skärholmen: “Without the left it becomes Tidö light”",
-        "summary": "Everyone from pop star Robyn to senior union figures wants the Left Party to back down from its demand to sit in government. But the party sticks to its position. “Without the Left Party, it won't be left-wing policy.”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T17:01:25+01:00"
-      }
-    },
-    {
-      "id": "157a2d013ec9",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/yz3R4g/det-kravs-stabila-regler-i-energipolitiken-skriver-fack-och-arbetsgivare-inom-industrin",
-      "guid": "https://www.svd.se/a/yz3R4g/det-kravs-stabila-regler-i-energipolitiken-skriver-fack-och-arbetsgivare-inom-industrin?utm_medium=rss",
-      "published_at": "2026-11-15T16:45:00+01:00",
-      "fetched_at": "2026-11-15T17:01:08+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/a9d99676-d2a9-38ea-887a-c1ee0109d798?format=auto&s=5372651a4f20587b4b422bcd7c582397c5feb2b1&w=1000",
-      "sv": {
-        "title": "”Det krävs stabila regler i energipolitiken”",
-        "summary": "Sverige har haft svårt att skapa den långsiktighet som krävs i energi­politiken.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "“Stable rules are needed in energy policy”",
-        "summary": "Sweden has had difficulty creating the long-term stability that energy policy requires."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T17:01:25+01:00"
-      }
-    },
-    {
-      "id": "941127657d92",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/inifran-cs-odesvecka-sa-var--de-hemliga-forhandlingarna",
-      "guid": "https://www.expressen.se/nyheter/politik/inifran-cs-odesvecka-sa-var--de-hemliga-forhandlingarna/",
-      "published_at": "2026-11-15T16:41:52+01:00",
-      "fetched_at": "2026-11-15T16:45:43+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Inifrån C:s ödesvecka – så var de hemliga förhandlingarna",
-        "summary": "Regeringsbildningens ödesvecka står inför ett avgörande – när Centerpartiet väljer väg. Tre tunga politiker har funnits vid Elisabeth Thand Ringqvists sida under den gångna veckans förhandlingar. Expressen kan nu avslöja vilka som suttit med i de hemliga rummen för de rödgröna partierna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Inside the Centre Party's fateful week – how the secret negotiations unfolded",
-        "summary": "The government formation's fateful week faces a decisive moment – when the Centre Party chooses its path. Three heavyweight politicians have been at Elisabeth Thand Ringqvist's side during last week's negotiations. Expressen can now reveal who has sat in the secret rooms for the red-green parties."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:45:49+01:00"
       }
     }
   ]

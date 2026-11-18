@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T06:01:29+01:00",
+  "generated_at": "2026-11-18T06:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1679fbfd0741",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ledare/lisa-magnusson-bakom-kulisserna-ar-svenska-djurparker-allt-annat-an-djurvanliga",
+      "guid": "https://www.dn.se/ledare/lisa-magnusson-bakom-kulisserna-ar-svenska-djurparker-allt-annat-an-djurvanliga/",
+      "published_at": "2026-11-18T06:09:17+01:00",
+      "fetched_at": "2026-11-18T06:15:39+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/a6e39f5d-59f5-4369-9f1f-98050558b35b.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Lisa Magnusson: Bakom kulisserna är svenska djurparker allt annat än djurvänliga",
+        "summary": "Kolmården, Vildriket och Furuvik hävdar att de alltid ser till djurens bästa. Verkligheten talar ett annat språk.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lisa Magnusson: Behind the scenes, Swedish animal parks are anything but animal-friendly",
+        "summary": "Kolmården, Vildriket and Furuvik claim they always look after the animals' best interests. Reality speaks a different language."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
     {
       "id": "b3af385bb1a6",
       "schema_version": 1,
@@ -5367,33 +5394,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:58:32+01:00"
-      }
-    },
-    {
-      "id": "cd97d0996ad0",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/motor/darfor-tvekar-svenskarna-kring-elbilskopet",
-      "guid": "https://www.dn.se/motor/darfor-tvekar-svenskarna-kring-elbilskopet/",
-      "published_at": "2026-11-14T16:31:53+01:00",
-      "fetched_at": "2026-11-14T17:07:30+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/8bddc223-8882-463d-be8f-c3c2f0d02edf.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Därför tvekar svenskarna kring elbilsköpet",
-        "summary": "Begränsad räckvidd, batterioro och högt inköpspris får svenska bilköpare att tveka inför elbilsköpet. Men av dem som redan har gått den elektriska vägen är valet enklare. Sju av tio uppger att de skulle välja el nästa gång. Det visar en ny rapport från mobilitetsbanken Ziklo Bank.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is why Swedes hesitate over buying an electric car",
-        "summary": "Limited range, battery worries and a high purchase price make Swedish car buyers hesitate over buying an electric car. But among those who have already gone electric, the choice is easier. Seven in ten say they would choose electric next time. This is shown by a new report from the mobility bank Ziklo Bank."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:49+01:00"
       }
     }
   ]

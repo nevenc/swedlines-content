@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-18T06:01:29+01:00",
+  "generated_at": "2026-11-18T06:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f77403b062e1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=96ed0198-838d-4337-a469-367ae7b16fb1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=96ed0198-838d-4337-a469-367ae7b16fb1",
+      "published_at": "2026-11-18T06:13:13+01:00",
+      "fetched_at": "2026-11-18T06:15:40+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Tsunamivarning",
+        "summary": "Invånare i Nya Zeeland varnas: ”Lämna”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tsunami warning",
+        "summary": "Residents of New Zealand warned: “Leave”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
+      "id": "c1602c72b5d4",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/demokrat-vinner-i-alaska-alla-senatsval-klara",
+      "guid": "248cd2f7-f07a-4ada-b3de-ad249e98b0b3",
+      "published_at": "2026-11-18T06:06:53+01:00",
+      "fetched_at": "2026-11-18T06:15:42+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/8344cad0-6fb0-4e08-8e0a-2f0c5745d365.jpg?width=600",
+      "sv": {
+        "title": "Demokrat vinner i Alaska – alla senatsval klara",
+        "summary": "Den sista platsen i USA:s senat går till Alaska-demokraten Mary Peltola, beräknar flera amerikanska medier. – Tack Alaska, vi gjorde det, säger Peltola i ett videoklipp på sociala medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Democrat wins in Alaska – all Senate races decided",
+        "summary": "The last seat in the US Senate goes to Alaska Democrat Mary Peltola, several American media outlets estimate. “Thank you Alaska, we did it,” Peltola says in a video clip on social media."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
+      "id": "6ab6c310ec7d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/3BJPyv/tsunamivarning-i-nya-zeeland",
+      "guid": "https://www.aftonbladet.se/nyheter/a/3BJPyv/tsunamivarning-i-nya-zeeland?utm_medium=rss",
+      "published_at": "2026-11-18T06:04:46+01:00",
+      "fetched_at": "2026-11-18T06:15:40+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Nya Zeeland varnades för tsunami",
+        "summary": "”Lämna stränder”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New Zealand warned of tsunami",
+        "summary": "“Leave the shores”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
     {
       "id": "9b72d65f99bb",
       "schema_version": 1,
@@ -5259,86 +5338,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T09:31:08+01:00"
-      }
-    },
-    {
-      "id": "fd8569e09ef5",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341413",
-      "guid": "rss:sr.se/article/9341413",
-      "published_at": "2026-11-16T08:28:00+01:00",
-      "fetched_at": "2026-11-16T08:45:42+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ryska uppgifter: 600 drönare mot Moskva under natten",
-        "summary": "Ukraina har skjutit omkring 600 drönare mot ryska huvudstaden Moskva under natten och söndagskvällen, hävdar stadens borgmästare Sergej Sobjanin. Samtidigt har Ukraina utsatts för flera attacker under natten, bland annat har en man dödats i en attack i Zaporizjzja, enligt guvernören Ivan Fedorov.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Russian claims: 600 drones toward Moscow overnight",
-        "summary": "Ukraine has fired around 600 drones at the Russian capital Moscow overnight and Sunday evening, claims the city's mayor Sergei Sobyanin. Meanwhile, Ukraine has been subjected to several attacks overnight, including one in which a man was killed in an attack in Zaporizhzhia, according to governor Ivan Fedorov."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T08:45:53+01:00"
-      }
-    },
-    {
-      "id": "34e888f4306f",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/qOLWxE/putins-money-man-kan-tala-trumps-sprak",
-      "guid": "https://www.svd.se/a/qOLWxE/putins-money-man-kan-tala-trumps-sprak?utm_medium=rss",
-      "published_at": "2026-11-16T08:26:00+01:00",
-      "fetched_at": "2026-11-16T08:30:59+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/d6aa419f-b718-3558-8ab6-bb440f7fb1d3?format=auto&s=add3a181f2406082980243b09c15d7b110c3bc0f&w=1000",
-      "sv": {
-        "title": "Putins ”money man” – kan tala Trumps språk",
-        "summary": "Putins ”money man” har lyckats få Trump att lyssna. Och fler affärer mellan USA och Ryssland kan…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Putin's \"money man\" – can speak Trump's language",
-        "summary": "Putin's \"money man\" has managed to get Trump to listen. And more deals between the USA and Russia could…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T08:31:06+01:00"
-      }
-    },
-    {
-      "id": "a2e390459122",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://tv.aftonbladet.se/video/410677",
-      "guid": "https://tv.aftonbladet.se/video/410677?utm_medium=rss",
-      "published_at": "2026-11-16T08:11:31+01:00",
-      "fetched_at": "2026-11-16T14:01:15+01:00",
-      "category": "world",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/46b4edeebca63e4fa8becd9b96020d63.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "11 döda på turistön",
-        "summary": "Brand bröt ut",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "11 dead on tourist island",
-        "summary": "Fire broke out"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:01:29+01:00"
       }
     }
   ]

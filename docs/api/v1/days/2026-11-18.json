@@ -1,7 +1,278 @@
 {
-  "generated_at": "2026-11-18T06:01:29+01:00",
-  "count": 61,
+  "generated_at": "2026-11-18T06:15:59+01:00",
+  "count": 78,
   "items": [
+    {
+      "id": "f77403b062e1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=96ed0198-838d-4337-a469-367ae7b16fb1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=96ed0198-838d-4337-a469-367ae7b16fb1",
+      "published_at": "2026-11-18T06:13:13+01:00",
+      "fetched_at": "2026-11-18T06:15:40+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Tsunamivarning",
+        "summary": "Invånare i Nya Zeeland varnas: ”Lämna”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tsunami warning",
+        "summary": "Residents of New Zealand warned: “Leave”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
+      "id": "4f4be056e801",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/13-spannande-forslag-som-inte-kommer-att-bli-verklighet",
+      "guid": "6570d9a4-9a24-433d-9565-a896a12163bd",
+      "published_at": "2026-11-18T06:12:02+01:00",
+      "fetched_at": "2026-11-18T06:15:42+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/5c087ba2-bae5-4a6f-b220-e3e4f3cf559a.png?width=600",
+      "sv": {
+        "title": "13 spännande förslag som inte kommer att bli verklighet",
+        "summary": "Gratis tåg- och bussresor för Lunds ungdomar hela året om. Fri parkering i p-hus. Sänkt skatt. Billigare bad. Och stopp för politikernas gratisfika. Här är 13 spännande förslag från Lunds oppositionspartier som alla kommer att röstas ner.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "13 exciting proposals that will not become reality",
+        "summary": "Free train and bus travel for Lund's young people all year round. Free parking in multi-storey car parks. Lower tax. Cheaper swimming. And an end to politicians' free coffee. Here are 13 exciting proposals from Lund's opposition parties that will all be voted down."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
+      "id": "1679fbfd0741",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ledare/lisa-magnusson-bakom-kulisserna-ar-svenska-djurparker-allt-annat-an-djurvanliga",
+      "guid": "https://www.dn.se/ledare/lisa-magnusson-bakom-kulisserna-ar-svenska-djurparker-allt-annat-an-djurvanliga/",
+      "published_at": "2026-11-18T06:09:17+01:00",
+      "fetched_at": "2026-11-18T06:15:39+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/a6e39f5d-59f5-4369-9f1f-98050558b35b.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Lisa Magnusson: Bakom kulisserna är svenska djurparker allt annat än djurvänliga",
+        "summary": "Kolmården, Vildriket och Furuvik hävdar att de alltid ser till djurens bästa. Verkligheten talar ett annat språk.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lisa Magnusson: Behind the scenes, Swedish animal parks are anything but animal-friendly",
+        "summary": "Kolmården, Vildriket and Furuvik claim they always look after the animals' best interests. Reality speaks a different language."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
+      "id": "f559e0f1afee",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/ville-ga-snabb-utbildning-maste-betala-90-00",
+      "guid": "https://www.expressen.se/nyheter/sverige/ville-ga-snabb-utbildning-maste-betala-90-00/",
+      "published_at": "2026-11-18T06:08:54+01:00",
+      "fetched_at": "2026-11-18T06:15:40+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Ville gå snabb utbildning – måste betala 90 00",
+        "summary": "De lockar med gratis utbildning och fast anställning – på bara tolv veckor. Men studenter vittnar om osäkra villkor och risk att bli skyldiga tiotusentals kronor. Det visar Arbetets granskning av Satellite Groups yrkesutbildningar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wanted a fast course – must pay 90 00",
+        "summary": "They lure with free training and permanent employment – in just twelve weeks. But students testify to uncertain conditions and the risk of owing tens of thousands of kronor. This is revealed by Arbetet's investigation of Satellite Group's vocational training."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
+      "id": "c1602c72b5d4",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/demokrat-vinner-i-alaska-alla-senatsval-klara",
+      "guid": "248cd2f7-f07a-4ada-b3de-ad249e98b0b3",
+      "published_at": "2026-11-18T06:06:53+01:00",
+      "fetched_at": "2026-11-18T06:15:42+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/8344cad0-6fb0-4e08-8e0a-2f0c5745d365.jpg?width=600",
+      "sv": {
+        "title": "Demokrat vinner i Alaska – alla senatsval klara",
+        "summary": "Den sista platsen i USA:s senat går till Alaska-demokraten Mary Peltola, beräknar flera amerikanska medier. – Tack Alaska, vi gjorde det, säger Peltola i ett videoklipp på sociala medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Democrat wins in Alaska – all Senate races decided",
+        "summary": "The last seat in the US Senate goes to Alaska Democrat Mary Peltola, several American media outlets estimate. “Thank you Alaska, we did it,” Peltola says in a video clip on social media."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
+      "id": "6ab6c310ec7d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/3BJPyv/tsunamivarning-i-nya-zeeland",
+      "guid": "https://www.aftonbladet.se/nyheter/a/3BJPyv/tsunamivarning-i-nya-zeeland?utm_medium=rss",
+      "published_at": "2026-11-18T06:04:46+01:00",
+      "fetched_at": "2026-11-18T06:15:40+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Nya Zeeland varnades för tsunami",
+        "summary": "”Lämna stränder”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New Zealand warned of tsunami",
+        "summary": "“Leave the shores”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
+      "id": "b96be84c13dc",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344504",
+      "guid": "rss:sr.se/article/9344504",
+      "published_at": "2026-11-18T06:03:00+01:00",
+      "fetched_at": "2026-11-18T06:15:39+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Unionen spår stark ekonomi – men varnar för AI-effekt för jobben",
+        "summary": "Sveriges ekonomi utvecklas starkt, enligt en ny prognos från Unionen. Facket spår att ekonomin växer med 2,6 procent nästa år. Men arbetsmarknaden släpar efter, och Unionen pekar på AI-effekter när det gäller vissa tjänstemannajobb som inte blir fler trots en starkare konjunktur.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Unionen sees strong economy – but warns of AI effect on jobs",
+        "summary": "Sweden's economy is developing strongly, according to a new forecast from Unionen. The union expects the economy to grow 2.6 percent next year. But the labour market is lagging behind, and Unionen points to AI effects on certain white-collar jobs that will not increase despite a stronger economic upturn."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
+      "id": "c8bd25f53841",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/johanna-hagstroms-dubbla-mal-infor-vm-sasongen.8a7769c6-8af4-5b98-90bd-884afdafa26c",
+      "guid": "8a7769c6-8af4-5b98-90bd-884afdafa26c",
+      "published_at": "2026-11-18T06:02:54+01:00",
+      "fetched_at": "2026-11-18T06:15:41+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Sport",
+        "Tagg: Fokus sport",
+        "Tagg: Johanna Hagström",
+        "Tagg: Längdskidor"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/b10be53f-56a2-3f2d-ac18-080827bdd1fa",
+      "sv": {
+        "title": "Johanna Hagström har rest sog efter OS-besvikelsen – siktar mot dubbla mål",
+        "summary": "Johanna Hagström vill slåss om VM-medalj i Falun och om sprintcupen i Ulricehamn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Johanna Hagström has recovered from Olympic disappointment – aims for two goals",
+        "summary": "Johanna Hagström wants to fight for a World Championship medal in Falun and the sprint cup in Ulricehamn."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
+      "id": "a36aceb7ae3f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/xi-och-putin-traffas-fore-trump-motet",
+      "guid": "a9e6a534-c69f-4020-868b-2f6a9fb291b8",
+      "published_at": "2026-11-18T06:02:20+01:00",
+      "fetched_at": "2026-11-18T06:15:41+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f3d4b6c4-07e4-40c3-9ac6-eb1dc9e1305b.jpg?width=600",
+      "sv": {
+        "title": "Xi och Putin träffas före Trump-mötet",
+        "summary": "Kinas president Xi Jinping och hans ryske dito Vladimir Putin träffas för ett möte på tu man hand innan det historiska trepartsmötet med Donald Trump.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Xi and Putin meet ahead of Trump meeting",
+        "summary": "China's president Xi Jinping and his Russian counterpart Vladimir Putin hold a one-on-one meeting before the historic three-way meeting with Donald Trump."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
+      "id": "ec2e959d6cfd",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9343828",
+      "guid": "rss:sr.se/article/9343828",
+      "published_at": "2026-11-18T06:02:00+01:00",
+      "fetched_at": "2026-11-18T06:15:39+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Chef från Riksbanken bjöds med på dyr NHL-match",
+        "summary": "Riksbankens it-chef Mats Eklund och två medarbetare följde med på en NHL-match i Montréal i en privat lounge med en leverantör inför en upphandling. Ekots granskning visar att de kan ha bjudits på tusentals kronor av biljettkostnaden av leverantören.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Riksbank chief was treated to expensive NHL game",
+        "summary": "Riksbank IT chief Mats Eklund and two colleagues attended an NHL game in Montréal in a private lounge with a supplier ahead of a procurement. Ekot's investigation shows they may have been offered thousands of kronor of the ticket cost by the supplier."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
     {
       "id": "9b72d65f99bb",
       "schema_version": 1,
@@ -81,6 +352,95 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T06:01:29+01:00"
+      }
+    },
+    {
+      "id": "116eb8875905",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/74eccnE9H81mrUSWlvWXSA/m-passerar-s-i-ny-maetning-och-tidoepartierna-klart-stoerre",
+      "guid": "74eccnE9H81mrUSWlvWXSA",
+      "published_at": "2026-11-18T06:00:08+01:00",
+      "fetched_at": "2026-11-18T06:15:40+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Valet 2026"
+      ],
+      "sv": {
+        "title": "M passerar S i ny mätning – och Tidöpartierna klart större",
+        "summary": "I Novus senaste väljarbarometer, genomförd mellan 6 och 15 november, ökar Moderaterna med 2,6 procentenheter sedan den föregående mätningen i oktober och når därmed 26,5 procent. En uppgång med 6,6 procentenheter jämfört med valresultatet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The Moderates (M) pass the Social Democrats (S) in new poll – and the Tidö parties clearly ahead",
+        "summary": "In Novus' latest voter barometer, conducted between 6 and 15 November, the Moderates rise 2.6 percentage points since the previous poll in October, reaching 26.5 percent. A rise of 6.6 percentage points compared with the election result."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
+      "id": "718feb86d120",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/rattegangen-mot-frida-karlssons-stalker-inleds-i-eskilstuna-tingsratt",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/rattegangen-mot-frida-karlssons-stalker-inleds-i-eskilstuna-tingsratt",
+      "published_at": "2026-11-18T06:00:08+01:00",
+      "fetched_at": "2026-11-18T06:15:38+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Rättegången mot Frida Karlssons stalker inleds i Eskilstuna tingsrätt",
+        "summary": "Förra året dömdes en man från Eskilstuna för att ha förföljt Frida Karlsson. Men trots dom och kontaktförbud så ska mannen ha fortsatt skicka meddelanden till skidstjärnan. Nu inleds rättegången i Eskilstuna tingsrätt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trial of Frida Karlsson's stalker opens in Eskilstuna district court",
+        "summary": "Last year a man from Eskilstuna was convicted of stalking Frida Karlsson. But despite the conviction and a restraining order, the man is said to have continued sending messages to the ski star. Now the trial opens at Eskilstuna district court."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
+      "id": "afcd331c795b",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/m-gar-om-s-i-ny-matning-spektakulart.d52605fa-f829-5509-97fa-3ed913561de6",
+      "guid": "d52605fa-f829-5509-97fa-3ed913561de6",
+      "published_at": "2026-11-18T06:00:01+01:00",
+      "fetched_at": "2026-11-18T06:15:41+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Politik",
+        "Tagg: Magdalena Andersson",
+        "Tagg: Andreas Johansson Heinö",
+        "Tagg: Socialdemokraterna",
+        "Tagg: GP/Novus"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/b186929c-8c8b-3bda-ac55-df8fbe36ae83",
+      "sv": {
+        "title": "M större än S i ny mätning: ”Det är spektakulärt”",
+        "summary": "Moderaterna rusar för andra månaden i rad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Moderates (M) larger than the Social Democrats (S) in new poll: “It is spectacular”",
+        "summary": "The Moderates surge for the second month in a row."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
       }
     },
     {
@@ -165,6 +525,33 @@
       }
     },
     {
+      "id": "84f3b93747e9",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/seoulborsen-studsar-upp",
+      "guid": "dec91689-29c8-41a0-a34b-814cd020d4ab",
+      "published_at": "2026-11-18T05:59:32+01:00",
+      "fetched_at": "2026-11-18T06:15:41+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a32b41d7-3ebf-4017-adf1-2bb02a9de63a.jpg?width=600",
+      "sv": {
+        "title": "Seoulbörsen studsar upp",
+        "summary": "Börserna pekar nedåt på många håll runtomkring i Asien under den inledande onsdagshandeln. Men Seoulbörsen studsar upp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Seoul stock market bounces back",
+        "summary": "Stock markets point downward in many places across Asia during the opening Wednesday trading session. But the Seoul stock exchange bounces back."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
       "id": "08f4e89bd2b8",
       "schema_version": 1,
       "source": "expressen",
@@ -215,6 +602,40 @@
       }
     },
     {
+      "id": "9a1345755239",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/kulturdebatt/forfattare-ska-halla-sig-borta-fran-litteraturkritiken.1bb1addf-160d-521c-8f39-9f2b775c5c2f",
+      "guid": "1bb1addf-160d-521c-8f39-9f2b775c5c2f",
+      "published_at": "2026-11-18T05:55:42+01:00",
+      "fetched_at": "2026-11-18T06:15:41+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kulturdebatt",
+        "Tagg: Stockholm",
+        "Tagg: Författare",
+        "Tagg: Caroline Ringskog Ferrada-Noli",
+        "Tagg: Aftonbladet"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/77c3ae06-d1e8-3bc2-b15f-a2cef03f356c",
+      "sv": {
+        "title": "Författare ska inte styra litteraturkritiken",
+        "summary": "Caroline Ringskog Ferrada-Noli avfärdade min recension på bästa sändningstid.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Authors should not steer literary criticism",
+        "summary": "Caroline Ringskog Ferrada-Noli dismissed my review at prime time."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
+      }
+    },
+    {
       "id": "e37f39502015",
       "schema_version": 1,
       "source": "sr",
@@ -238,6 +659,39 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T06:01:29+01:00"
+      }
+    },
+    {
+      "id": "d246541a052a",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/ekonomi/kladbutik-stanger-i-nordstan-rear-ut-allt.3081baf3-2acc-5675-b6f1-ce82dc749a11",
+      "guid": "3081baf3-2acc-5675-b6f1-ce82dc749a11",
+      "published_at": "2026-11-18T05:53:56+01:00",
+      "fetched_at": "2026-11-18T06:15:41+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi",
+        "Tagg: Nordstan",
+        "Tagg: Hufvudstaden",
+        "Tagg: Butiker"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/ca324fad-5401-32ca-b1c5-ebbb340df5e1",
+      "sv": {
+        "title": "Butik stänger – rear ut allt",
+        "summary": "Haft butiken i 16 år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Shop closing – everything must go",
+        "summary": "Had the shop for 16 years."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
       }
     },
     {
@@ -318,6 +772,41 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T06:01:29+01:00"
+      }
+    },
+    {
+      "id": "d453fd71dca1",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/sj-s-vd-lovar-snabbare-resor-mellan-goteborg-och-stockholm.16411363-2b25-55f5-b368-fe017316f804",
+      "guid": "16411363-2b25-55f5-b368-fe017316f804",
+      "published_at": "2026-11-18T05:45:47+01:00",
+      "fetched_at": "2026-11-18T06:15:41+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Politik",
+        "Tagg: SJ",
+        "Tagg: Infrastruktur",
+        "Tagg: Tågtrafik",
+        "Tagg: Resor",
+        "Tagg: Järnvägar"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/cbdb5809-da1c-3f36-8f30-5a26508a283c",
+      "sv": {
+        "title": "SJ:s vd förstår om man inte vågar lita på tåget",
+        "summary": "Lovar snabbare resor mellan Göteborg och Stockholm – nästa år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SJ's CEO understands if you don't dare trust the train",
+        "summary": "Promises faster journeys between Göteborg and Stockholm – next year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:15:59+01:00"
       }
     },
     {
