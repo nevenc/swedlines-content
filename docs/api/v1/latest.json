@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-18T02:31:04+01:00",
+  "generated_at": "2026-11-18T02:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9e45b25c1e11",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/OypzBO/iranska-attacker-mot-bahrain-och-kuwait",
+      "guid": "https://www.svd.se/a/OypzBO/iranska-attacker-mot-bahrain-och-kuwait?utm_medium=rss",
+      "published_at": "2026-11-18T02:39:44+01:00",
+      "fetched_at": "2026-11-18T02:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Iranska attacker mot Bahrain och Kuwait",
+        "summary": "Både Kuwait och Bahrain har varnat för attacker från Iran under natten mot onsdag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Iranian attacks on Bahrain and Kuwait",
+        "summary": "Both Kuwait and Bahrain have warned of attacks from Iran during the night toward Wednesday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T02:45:50+01:00"
+      }
+    },
+    {
+      "id": "b233fdb2ecb9",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/530WlK/iranska-attacker-mot-bahrain-och-kuwait",
+      "guid": "https://www.aftonbladet.se/nyheter/a/530WlK/iranska-attacker-mot-bahrain-och-kuwait?utm_medium=rss",
+      "published_at": "2026-11-18T02:39:42+01:00",
+      "fetched_at": "2026-11-18T02:45:45+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Iranska attacker mot Bahrain och Kuwait",
+        "summary": "Både Kuwait och Bahrain har varnat för attacker från Iran under natten mot onsdag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Iranian attacks on Bahrain and Kuwait",
+        "summary": "Both Kuwait and Bahrain have warned of attacks from Iran during the night toward Wednesday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T02:45:50+01:00"
+      }
+    },
     {
       "id": "3da7a7f0c1e6",
       "schema_version": 1,
@@ -5349,60 +5401,6 @@
       "en": {
         "title": "Nordic Capital: Then Cary Group could be listed again",
         "summary": "Nordic Capital is making its third exit from car glass company Cary Group – a unique situation for the private equity firm, which usually has a much shorter investment horizon than it has here. “It is about us still seeing a great deal of opportunities”, says responsible partner Joakim Andreasson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:45:54+01:00"
-      }
-    },
-    {
-      "id": "e83f638d5568",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/bk570l/uppfattar-inte-att-nagot-alternativ-har-fallit",
-      "guid": "https://www.svd.se/a/bk570l/uppfattar-inte-att-nagot-alternativ-har-fallit?utm_medium=rss",
-      "published_at": "2026-11-17T16:36:17+01:00",
-      "fetched_at": "2026-11-17T16:45:45+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/869d5809-3d54-3ac5-9adc-9e79a8306e52?format=auto&s=57db6e8b60b64fe0481cfb6e11c4d570eecedeb9&w=1000",
-      "sv": {
-        "title": "”Uppfattar inte att något alternativ har fallit”",
-        "summary": "Ulf Kristersson ber om förlängd tid – trots att Centerpartiet valt sida.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "“I don't perceive that any alternative has fallen”",
-        "summary": "Ulf Kristersson (M) asks for extended time – despite the Centre Party having chosen a side."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:45:54+01:00"
-      }
-    },
-    {
-      "id": "55d1c76468cc",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/kMJmyk/magdalena-andersson-valkomnar-beskedet",
-      "guid": "https://www.aftonbladet.se/nyheter/a/kMJmyk/magdalena-andersson-valkomnar-beskedet?utm_medium=rss",
-      "published_at": "2026-11-17T16:35:54+01:00",
-      "fetched_at": "2026-11-17T16:45:46+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/e4383b3b-6508-3fdf-9699-b00b0a7b8618?format=auto&s=9939f4a65ed15fb0152b9acf52ce873191b4ae9b&w=1000",
-      "sv": {
-        "title": "Magdalena Andersson: Välkomnar beskedet",
-        "summary": "Välkomnar beskedet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Magdalena Andersson: Welcomes the announcement",
-        "summary": "Welcomes the announcement"
       },
       "translation": {
         "status": "done",

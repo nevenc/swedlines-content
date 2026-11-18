@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T02:31:04+01:00",
+  "generated_at": "2026-11-18T02:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b233fdb2ecb9",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/530WlK/iranska-attacker-mot-bahrain-och-kuwait",
+      "guid": "https://www.aftonbladet.se/nyheter/a/530WlK/iranska-attacker-mot-bahrain-och-kuwait?utm_medium=rss",
+      "published_at": "2026-11-18T02:39:42+01:00",
+      "fetched_at": "2026-11-18T02:45:45+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Iranska attacker mot Bahrain och Kuwait",
+        "summary": "Både Kuwait och Bahrain har varnat för attacker från Iran under natten mot onsdag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Iranian attacks on Bahrain and Kuwait",
+        "summary": "Both Kuwait and Bahrain have warned of attacks from Iran during the night toward Wednesday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T02:45:50+01:00"
+      }
+    },
     {
       "id": "443b37682231",
       "schema_version": 1,
@@ -5344,33 +5370,6 @@
       "en": {
         "title": "Gabrielsson: V's demands stand firm",
         "summary": "The Left Party's demand to be part of a red-green government stands firm, Deputy Party Leader Ida Gabrielsson emphasises…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:12+01:00"
-      }
-    },
-    {
-      "id": "74e25fda9c92",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/ez8J19/pojke-haktas-efter-dodsskjutning",
-      "guid": "https://www.aftonbladet.se/nyheter/a/ez8J19/pojke-haktas-efter-dodsskjutning?utm_medium=rss",
-      "published_at": "2026-11-14T14:29:38+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/4a13c802-c6a6-31d5-811c-82fd5032439b?format=auto&s=49f2e825bf2ba438ca4009139a59f6e706e27019&w=1000",
-      "sv": {
-        "title": "Pojke häktas efter dödsskjutning",
-        "summary": "En tonårspojke häktas misstänkt för medhjälp till mord efter dödsskjutningen i Bagarmossen i södra…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Boy remanded in custody after fatal shooting",
-        "summary": "A teenage boy is remanded in custody on suspicion of accessory to murder after the fatal shooting in Bagarmossen in southern…"
       },
       "translation": {
         "status": "done",

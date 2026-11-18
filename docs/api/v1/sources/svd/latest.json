@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T02:31:04+01:00",
+  "generated_at": "2026-11-18T02:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9e45b25c1e11",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/OypzBO/iranska-attacker-mot-bahrain-och-kuwait",
+      "guid": "https://www.svd.se/a/OypzBO/iranska-attacker-mot-bahrain-och-kuwait?utm_medium=rss",
+      "published_at": "2026-11-18T02:39:44+01:00",
+      "fetched_at": "2026-11-18T02:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Iranska attacker mot Bahrain och Kuwait",
+        "summary": "Både Kuwait och Bahrain har varnat för attacker från Iran under natten mot onsdag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Iranian attacks on Bahrain and Kuwait",
+        "summary": "Both Kuwait and Bahrain have warned of attacks from Iran during the night toward Wednesday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T02:45:50+01:00"
+      }
+    },
     {
       "id": "3da7a7f0c1e6",
       "schema_version": 1,
@@ -5188,33 +5214,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T21:40:46+01:00"
-      }
-    },
-    {
-      "id": "79b50291be82",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/pM6aGw/nathan-fielder-staller-varlden-till-ratta",
-      "guid": "https://www.svd.se/a/pM6aGw/nathan-fielder-staller-varlden-till-ratta?utm_medium=rss",
-      "published_at": "2026-11-14T20:20:00+01:00",
-      "fetched_at": "2026-11-14T20:30:09+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/889041a7-4900-3500-a4b0-7f3b14969721?format=auto&s=16776ee4655d2cab91179ff68d4947cf8259a8c0&w=1000",
-      "sv": {
-        "title": "Nathan Fielder ställer verkligheten till rätta",
-        "summary": "Strax före sitt fängelsestraff bjöd Elizabeth Holmes in komikern Nathan Fielder att dokumentera…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nathan Fielder sets the record straight",
-        "summary": "Shortly before her prison sentence, Elizabeth Holmes invited comedian Nathan Fielder to document…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:22+01:00"
       }
     }
   ]
