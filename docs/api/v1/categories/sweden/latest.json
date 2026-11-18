@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T18:45:55+01:00",
+  "generated_at": "2026-11-18T19:01:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1c46f22a4d66",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/maktkampen-pa-sigtuna-elevernas-egna-ord",
+      "guid": "https://www.expressen.se/nyheter/sverige/maktkampen-pa-sigtuna-elevernas-egna-ord/",
+      "published_at": "2026-11-18T18:57:25+01:00",
+      "fetched_at": "2026-11-18T19:01:11+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Maktkampen på Sigtuna – elevernas egna ord",
+        "summary": "Försöken att stoppa kamratuppfostran på Sigtunaskolan har mötts av protester – från eleverna. En djupdykning i skoltidningens arkiv visar en återkommande maktkamp mellan barn och vuxna. – Det är alltid elevgruppen som går segrande ur det här, säger internatforskaren Petter Sandgren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The power struggle at Sigtuna – in the pupils' own words",
+        "summary": "Attempts to stop peer-on-peer abuse at Sigtunaskolan have met with protests – from the pupils. A deep dive into the school magazine's archive shows a recurring power struggle between children and adults. – It is always the pupil group that comes out victorious, says boarding-school researcher Petter Sandgren."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T19:01:17+01:00"
+      }
+    },
     {
       "id": "cbf91076a8e5",
       "schema_version": 1,
@@ -5401,33 +5427,6 @@
       "en": {
         "title": "One dead after boat fire",
         "summary": "Unclear what happened on Tjörn"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:22+01:00"
-      }
-    },
-    {
-      "id": "76ba39f8ca64",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Pv94q7/person-avliden-efter-en-batbrand-i-tjorn",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Pv94q7/person-avliden-efter-en-batbrand-i-tjorn?utm_medium=rss",
-      "published_at": "2026-11-14T19:39:12+01:00",
-      "fetched_at": "2026-11-14T20:30:09+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/e5145cd1-7b1c-311f-a528-f5fc16c8f2c8?format=auto&s=ee888fe8316e5060cddd7f776fef118836a58800&w=1000",
-      "sv": {
-        "title": "Person avliden efter en båtbrand i Tjörn",
-        "summary": "En man i 60-årsåldern har avlidit efter att ha hittats ombord i samband med en rökutveckling på en…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Person dies after boat fire in Tjörn",
-        "summary": "A man in his 60s has died after being found on board in connection with smoke development on a…"
       },
       "translation": {
         "status": "done",
