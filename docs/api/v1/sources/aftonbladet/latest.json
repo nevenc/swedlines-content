@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T21:31:06+01:00",
+  "generated_at": "2026-11-18T21:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "35a92d04b23b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/krim/a/R1x32W/ghaith-18-mordades-pa-buss-i-tyreso-systern-berattar-om-sorgen",
+      "guid": "https://www.aftonbladet.se/nyheter/krim/a/R1x32W/ghaith-18-mordades-pa-buss-i-tyreso-systern-berattar-om-sorgen?utm_medium=rss",
+      "published_at": "2026-11-18T21:40:40+01:00",
+      "fetched_at": "2026-11-18T21:45:46+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/cec85828-62b5-38aa-aa69-81af02cf48ad?format=auto&s=9019042462d0ab112286fe7658003aeb65d33af6&w=1000",
+      "sv": {
+        "title": "Ghaith, 18, mördades på bussen: ”Tänker på honom varje sekund”",
+        "summary": "Familjens sorg ✓ ”Tittade på varandra”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ghaith, 18, was murdered on the bus: \"I think of him every second\"",
+        "summary": "The family's grief ✓ \"They looked at each other\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T21:45:53+01:00"
+      }
+    },
     {
       "id": "c73e64b93c77",
       "schema_version": 1,
@@ -107,6 +134,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T20:46:01+01:00"
+      }
+    },
+    {
+      "id": "cf45291a4a52",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/pMLlmR/tak-har-rasat-in-pa-forlossningsavdelning",
+      "guid": "https://www.aftonbladet.se/nyheter/a/pMLlmR/tak-har-rasat-in-pa-forlossningsavdelning?utm_medium=rss",
+      "published_at": "2026-11-18T20:11:14+01:00",
+      "fetched_at": "2026-11-18T21:45:46+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/b9eb31c8-7274-30aa-921d-ff457306b3f9?format=auto&s=5e1e8347f945e7576dd19a2ec7415d015a05aa2f&w=1000",
+      "sv": {
+        "title": "Tak har rasat in på förlossningsavdelning – patienter stoppades",
+        "summary": "SÖS stoppade nya patienter ✓ ”Puts och betong”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ceiling collapses in maternity ward – patients halted",
+        "summary": "SÖS has stopped new patients ✓ \"Putty and concrete\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T21:45:53+01:00"
       }
     },
     {
@@ -5325,60 +5379,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T06:01:32+01:00"
-      }
-    },
-    {
-      "id": "e839638b2749",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/aGwJxA/efter-bilattacken-politiker-far-lamna-sjukhuset",
-      "guid": "https://www.aftonbladet.se/nyheter/a/aGwJxA/efter-bilattacken-politiker-far-lamna-sjukhuset?utm_medium=rss",
-      "published_at": "2026-11-16T04:47:00+01:00",
-      "fetched_at": "2026-11-16T05:01:07+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/132137ef-7075-3214-97de-c800d1936590?format=auto&s=94ddcd2f0d291b33208443de0ffa59d48cb84489&w=1000",
-      "sv": {
-        "title": "Efter bilattacken: Politiker får lämna sjukhuset",
-        "summary": "Den australiska politikern Helen Haines , 65, tvingades amputera båda benen efter att hon blev…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the car attack: Politician allowed to leave hospital",
-        "summary": "Australian politician Helen Haines, 65, was forced to have both legs amputated after she was…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T05:01:14+01:00"
-      }
-    },
-    {
-      "id": "eef219a858a2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Pv9dBR/brand-i-lagenhet-man-hittad-dod",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Pv9dBR/brand-i-lagenhet-man-hittad-dod?utm_medium=rss",
-      "published_at": "2026-11-16T03:48:05+01:00",
-      "fetched_at": "2026-11-16T04:01:10+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/73428470-eb39-3115-9aa2-d4589e90320c?format=auto&s=e349d5ffc8556c8ff21e1b1dd37c00376ffada79&w=1000",
-      "sv": {
-        "title": "Brand i lägenhet – man hittad död",
-        "summary": "En man i 70-årsåldern har omkommit i en lägenhetsbrand i ett flerfamiljshus utanför Jönköping under…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man found dead in apartment fire",
-        "summary": "A man in his 70s has died in an apartment fire in a multi-family building outside Jönköping during…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T04:01:15+01:00"
       }
     }
   ]

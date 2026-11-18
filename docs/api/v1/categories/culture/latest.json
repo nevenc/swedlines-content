@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-11-18T21:31:06+01:00",
+  "generated_at": "2026-11-18T21:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f495957ffc47",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/nu-slapps-gta-6-spelkritikerna-lyriska.adb31dde-fce1-536f-a8b7-89152383f1d6",
+      "guid": "adb31dde-fce1-536f-a8b7-89152383f1d6",
+      "published_at": "2026-11-18T21:36:46+01:00",
+      "fetched_at": "2026-11-18T21:45:48+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: breaking-GP",
+        "Tagg: GTA 6",
+        "Tagg: Zelda",
+        "Tagg: Skanstull",
+        "Tagg: Rockstar"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/0cb48e80-6292-35f2-960a-dec8ac10aef4",
+      "sv": {
+        "title": "Nu släpps GTA 6 – spelkritikerna lyriska",
+        "summary": "”Svårt att inte häpnas” • Rankas redan som tidernas bästa spel, enligt Metacritic.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "GTA 6 is out now – game critics are rapturous",
+        "summary": "\"Hard not to be amazed\" • Already ranked as the best game of all time, according to Metacritic."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T21:45:53+01:00"
+      }
+    },
     {
       "id": "3d725fef0547",
       "schema_version": 1,
@@ -5608,33 +5643,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T22:01:19+01:00"
-      }
-    },
-    {
-      "id": "82cb54f526e6",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/stumfilmsmusikern-matti-bye-vanligaste-misstaget-ar-att-sitta-med-ryggen-mot-duken",
-      "guid": "https://www.dn.se/kultur/stumfilmsmusikern-matti-bye-vanligaste-misstaget-ar-att-sitta-med-ryggen-mot-duken/",
-      "published_at": "2026-11-15T21:24:49+01:00",
-      "fetched_at": "2026-11-15T21:30:56+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/8c150914-927e-43fa-a032-9a359de9e309.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Stumfilmsmusikern Matti Bye: ”Vanligaste misstaget är att sitta med ryggen mot duken”",
-        "summary": "Matti Bye är kompositör och stumfilmsmusiker. Nyligen utnämndes han till hedersdoktor i Filmvetenskap vid Stockholms Universitet. I DN Kulturs serie Specialisten berättar han om improvisationens roll, svensk stumfilms storhet – och när han fick panik framför ”Pansarkryssaren Potemkin”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Silent film musician Matti Bye: \"The most common mistake is sitting with your back to the screen\"",
-        "summary": "Matti Bye is a composer and silent film musician. He was recently named honorary doctor of Film Studies at Stockholm University. In DN Kultur's series Specialisten, he talks about the role of improvisation, the greatness of Swedish silent film – and when he panicked in front of \"Battleship Potemkin\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T21:31:02+01:00"
       }
     }
   ]
