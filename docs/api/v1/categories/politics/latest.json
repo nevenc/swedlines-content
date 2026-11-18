@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-18T16:01:35+01:00",
+  "generated_at": "2026-11-18T16:16:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dc481cf3ceac",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten?post=cface6a9-1e9f-407c-ab91-a89b006f2dd1",
+      "guid": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=cface6a9-1e9f-407c-ab91-a89b006f2dd1",
+      "published_at": "2026-11-18T16:09:05+01:00",
+      "fetched_at": "2026-11-18T16:15:50+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "”Tar det på allvar”",
+        "summary": "Åkesson efter anklagelserna mot Ungsvenskarna",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Taking it seriously”",
+        "summary": "Åkesson on the allegations against Ungsvenskarna"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T16:16:01+01:00"
+      }
+    },
+    {
+      "id": "1fbb03d0cc82",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4ImuKPtM77TvpVDDQ2u8ag/andersson-kan-tvingas-bort-foere-jul",
+      "guid": "4ImuKPtM77TvpVDDQ2u8ag",
+      "published_at": "2026-11-18T16:07:02+01:00",
+      "fetched_at": "2026-11-18T16:15:51+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Valet 2026"
+      ],
+      "sv": {
+        "title": "Andersson kan tvingas bort före jul"
+      },
+      "en": {
+        "title": "Andersson may be forced out before Christmas"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T16:16:01+01:00"
+      }
+    },
     {
       "id": "b77c80f159aa",
       "schema_version": 1,
@@ -5349,62 +5401,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T22:15:59+01:00"
-      }
-    },
-    {
-      "id": "28886a2c8793",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/5y4xGl3gILMJPh4xdTGhmE/c-daerfoer-ratade-vi-kristerssons-totalpaket",
-      "guid": "5y4xGl3gILMJPh4xdTGhmE",
-      "published_at": "2026-11-15T21:54:19+01:00",
-      "fetched_at": "2026-11-15T23:15:39+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Därför ratade C Kristerssons paket",
-        "summary": "Utvecklar i SVT:s Agenda • ”Två paket med mycket bra innehåll”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is why the Centre Party rejected Kristersson's package",
-        "summary": "Explains in SVT's Agenda • \"Two packages with very good content\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T23:15:46+01:00"
-      }
-    },
-    {
-      "id": "783ceab6f195",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Pv9dvp/extraval-inte-osannolikt",
-      "guid": "https://www.svd.se/a/Pv9dvp/extraval-inte-osannolikt?utm_medium=rss",
-      "published_at": "2026-11-15T21:46:01+01:00",
-      "fetched_at": "2026-11-15T22:01:12+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/3587c60e-d6af-3441-a5bf-8888330e321e?format=auto&s=6d88023da54530be8acc56ccfb0247c19989c8e5&w=1000",
-      "sv": {
-        "title": "”Extraval inte osannolikt”",
-        "summary": "Synen på SD tycks ha skurit Centerpartiets riksdagsgrupp mitt itu, tycker statsvetaren Tommy Möller.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "”Snap election not unlikely”",
-        "summary": "The view of the Sweden Democrats appears to have split the Centre Party's parliamentary group down the middle, says political scientist Tommy Möller."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T22:01:19+01:00"
       }
     }
   ]

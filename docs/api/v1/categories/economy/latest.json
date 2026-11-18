@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-18T16:01:35+01:00",
+  "generated_at": "2026-11-18T16:16:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "eb463c8c4ba0",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ledare/pest-eller-kolera-i-paris",
+      "guid": "71071404-81c3-4d9f-a231-4813c12e12a0",
+      "published_at": "2026-11-18T16:08:45+01:00",
+      "fetched_at": "2026-11-18T16:15:52+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f7ede17e-9c78-4f3a-a6d4-d8b7f26c9e0c.jpeg?width=600",
+      "sv": {
+        "title": "Pest eller kolera i Paris",
+        "summary": "Vem som styr i Frankrike spelar roll för hela Europa. I vår ska de välja president. Favoriter är än så länge två ytterkandidater, den ena lika illa som den andra.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Plague or cholera in Paris",
+        "summary": "Who governs France matters for all of Europe. This spring they are to elect a president. So far the favourites are two fringe candidates, one as bad as the other."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T16:16:01+01:00"
+      }
+    },
+    {
+      "id": "7a4457a1b006",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/svangigt-pa-wall-street",
+      "guid": "ccdc2d5b-a017-4ad8-811c-1dfc381a318f",
+      "published_at": "2026-11-18T16:04:36+01:00",
+      "fetched_at": "2026-11-18T16:15:52+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/3276de88-23f4-431e-94d3-53dd472dd4ad.jpeg?width=600",
+      "sv": {
+        "title": "Svängigt på Wall Street",
+        "summary": "USA-börserna pendlar fram och tillbaka i onsdagens inledande handel. Chipjätten Nvidia steg i den inledande handeln, men vände sedan snabbt ned under nollan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Volatile on Wall Street",
+        "summary": "US stock markets swing back and forth in Wednesday's opening trade. Chip giant Nvidia rose in the opening trade, but then quickly turned down below zero."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T16:16:01+01:00"
+      }
+    },
     {
       "id": "ab32a5838af0",
       "schema_version": 1,
@@ -5238,59 +5292,6 @@
       "en": {
         "title": "Major bank: US two-year yield expected to reach 5 percent this year",
         "summary": "US short-term interest rates are expected to keep rising as long as there are no signs that they are slowing the economy, according to interest rate strategists at Bank of America (BofA)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T19:31:23+01:00"
-      }
-    },
-    {
-      "id": "b03c98b79d30",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/spacex-stiger-mot-strommen",
-      "guid": "f61057dc-478e-4b59-987d-797a0d254e91",
-      "published_at": "2026-11-17T19:26:23+01:00",
-      "fetched_at": "2026-11-17T19:31:15+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Spacex stiger mot strömmen",
-        "summary": "Rymdbolaget Spacex stiger i spåren av att Bloomberg rapporterat att en del av bolagets planerade obligationer för att finansiera AI-chip kan komma att säljas den här veckan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "SpaceX bucks the trend",
-        "summary": "Space company SpaceX is rising after Bloomberg reported that some of the company's planned bonds to finance AI chips may be sold this week."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T19:31:23+01:00"
-      }
-    },
-    {
-      "id": "9897934fbdd4",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/har-ar-nya-hemlighetsfulla-kvd-agaren",
-      "guid": "fd39ea70-a18b-4706-b694-716f1a7078db",
-      "published_at": "2026-11-17T19:22:25+01:00",
-      "fetched_at": "2026-11-17T19:31:15+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/f1deaa12-f6fd-4440-87d9-e507d78ba996.jpeg?width=600",
-      "sv": {
-        "title": "Här är nya hemlighetsfulla Kvd-ägaren",
-        "summary": "Remman Mobility Group är köparen till fordonsmarknadsplatsen Kvd, som Ratos på måndagen aviserade att man säljer. Bolaget är föga omskrivet, men i ägarlistan finns flera finanskändisar såsom exempelvis H&M-ordföranden Karl-Johan Persson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here is the new, mysterious owner of Kvd",
-        "summary": "Remman Mobility Group is the buyer of the vehicle marketplace Kvd, which Ratos announced on Monday it is selling. The company is little written about, but the owner list includes several finance celebrities such as H&M chair Karl-Johan Persson."
       },
       "translation": {
         "status": "done",

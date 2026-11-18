@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-18T16:01:35+01:00",
+  "generated_at": "2026-11-18T16:16:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "eb463c8c4ba0",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ledare/pest-eller-kolera-i-paris",
+      "guid": "71071404-81c3-4d9f-a231-4813c12e12a0",
+      "published_at": "2026-11-18T16:08:45+01:00",
+      "fetched_at": "2026-11-18T16:15:52+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f7ede17e-9c78-4f3a-a6d4-d8b7f26c9e0c.jpeg?width=600",
+      "sv": {
+        "title": "Pest eller kolera i Paris",
+        "summary": "Vem som styr i Frankrike spelar roll för hela Europa. I vår ska de välja president. Favoriter är än så länge två ytterkandidater, den ena lika illa som den andra.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Plague or cholera in Paris",
+        "summary": "Who governs France matters for all of Europe. This spring they are to elect a president. So far the favourites are two fringe candidates, one as bad as the other."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T16:16:01+01:00"
+      }
+    },
+    {
+      "id": "7a4457a1b006",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/svangigt-pa-wall-street",
+      "guid": "ccdc2d5b-a017-4ad8-811c-1dfc381a318f",
+      "published_at": "2026-11-18T16:04:36+01:00",
+      "fetched_at": "2026-11-18T16:15:52+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/3276de88-23f4-431e-94d3-53dd472dd4ad.jpeg?width=600",
+      "sv": {
+        "title": "Svängigt på Wall Street",
+        "summary": "USA-börserna pendlar fram och tillbaka i onsdagens inledande handel. Chipjätten Nvidia steg i den inledande handeln, men vände sedan snabbt ned under nollan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Volatile on Wall Street",
+        "summary": "US stock markets swing back and forth in Wednesday's opening trade. Chip giant Nvidia rose in the opening trade, but then quickly turned down below zero."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T16:16:01+01:00"
+      }
+    },
     {
       "id": "ab32a5838af0",
       "schema_version": 1,
@@ -5272,60 +5326,6 @@
       "en": {
         "title": "Le Pen wants to lower the retirement age",
         "summary": "Marine Le Pen proposes a pension reform under which the retirement age in France would be between 60 and 62, and a pension fund of EUR 900 billion would be created. She announced this at a press conference, reports Le Figaro."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:01:24+01:00"
-      }
-    },
-    {
-      "id": "a4a04d736592",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/anthropic-har-en-inbyggd-ranta-pa-ranta-broms",
-      "guid": "aa31267d-d7c8-4af0-93fe-3362660169c8",
-      "published_at": "2026-11-17T11:46:33+01:00",
-      "fetched_at": "2026-11-17T12:01:16+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/d2b5167c-88bc-40ea-909b-791305d27eef.jpeg?width=600",
-      "sv": {
-        "title": "Anthropic har en inbyggd ränta-på-ränta-broms",
-        "summary": "Anthropic går med stormsteg mot börsen. När analytiker och investerare räknar på framtida vinster och filar på strategier har Di hittat en annan mustig detalj: AI-bjässen har byggt in en slags ränta-på-ränta-broms.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anthropic has a built-in compound interest brake",
-        "summary": "Anthropic is rapidly heading for the stock market. As analysts and investors calculate future profits and work on strategies, Di has found another juicy detail: the AI giant has built in a kind of compound interest brake."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:01:24+01:00"
-      }
-    },
-    {
-      "id": "de5f195a2007",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/eu-skruvar-upp-sveriges-bnp-prognos",
-      "guid": "16c2c93a-0f08-4045-8fb2-03e7e1d60dd7",
-      "published_at": "2026-11-17T11:43:48+01:00",
-      "fetched_at": "2026-11-17T12:01:16+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/8fcb7951-f57e-49c1-ab7e-68ec5ca8ec50.jpeg?width=600",
-      "sv": {
-        "title": "EU skruvar upp Sveriges BNP-prognos",
-        "summary": "EU-kommissionen höjer sin prognos för Sveriges ekonomiska tillväxt i år, men räknar med att tillväxten bromsar in de kommande två åren. Det skriver EU-kommissionen i sin höstprognos.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "EU raises Sweden's GDP forecast",
-        "summary": "The European Commission is raising its forecast for Sweden's economic growth this year, but expects growth to slow over the next two years. The European Commission writes this in its autumn forecast."
       },
       "translation": {
         "status": "done",
