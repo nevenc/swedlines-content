@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-18T20:31:09+01:00",
+  "generated_at": "2026-11-18T20:46:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1800170fb22e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/bae-systems-vill-kapa-drygt-1-000-tjanster",
+      "guid": "8b9237e5-f02e-49be-9ee7-12ee1d64bc41",
+      "published_at": "2026-11-18T20:39:45+01:00",
+      "fetched_at": "2026-11-18T20:45:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "BAE Systems vill kapa drygt 1.000 tjänster",
+        "summary": "Den brittiska försvarsjätten BAE Systems vill minska antalet anställda med drygt 1.000 tjänster. Det rapporterar Financial Times.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "BAE Systems wants to cut just over 1,000 jobs",
+        "summary": "The British defence giant BAE Systems wants to reduce its workforce by just over 1,000 positions. This is according to the Financial Times."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:46:01+01:00"
+      }
+    },
+    {
+      "id": "46b230a71c58",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/nastan-alla-fed-ledamoter-sag-behov-av-fler-rantehojningar",
+      "guid": "6e5655d3-4f36-4196-a626-609361aa4255",
+      "published_at": "2026-11-18T20:38:52+01:00",
+      "fetched_at": "2026-11-18T20:45:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/74106742-30c8-4550-904e-1fc7721d1e3a.jpeg?width=600",
+      "sv": {
+        "title": "Nästan alla Fed-ledamöter såg behov av fler räntehöjningar",
+        "summary": "Nästan alla ledamöter i den amerikanska centralbanken Federal Reserve, Fed, bedömde vid oktobermötet att centralbanken sannolikt skulle behöva höja räntorna under de kommande månaderna för att nå inflationsmålet på 2 procent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Almost all Fed members saw need for more rate hikes",
+        "summary": "Almost all members of the US central bank, the Federal Reserve (Fed), judged at the October meeting that the central bank would likely need to raise interest rates in the coming months to reach the inflation target of 2 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:46:01+01:00"
+      }
+    },
+    {
+      "id": "9e237792fbe0",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/mMReEl/fed-protokoll-nastan-alla-vantar-sig-hojning",
+      "guid": "https://www.aftonbladet.se/nyheter/a/mMReEl/fed-protokoll-nastan-alla-vantar-sig-hojning?utm_medium=rss",
+      "published_at": "2026-11-18T20:34:55+01:00",
+      "fetched_at": "2026-11-18T20:45:47+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/c7e98f2c-a0bf-3e0e-9ea7-398d9ea57d17?format=auto&s=c6e615db33469971f42a796402a416875af0d92b&w=1000",
+      "sv": {
+        "title": "Fed-protokoll: Nästan alla väntar sig höjning",
+        "summary": "Nästan alla ledamöter i USA:s centralbank Federal Reserve (Fed) var överens om att de troligtvis…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fed minutes: Almost everyone expects a hike",
+        "summary": "Almost all members of the US central bank, the Federal Reserve (Fed), agreed that they probably..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:46:01+01:00"
+      }
+    },
     {
       "id": "9d0fc7b97d12",
       "schema_version": 1,
@@ -5171,75 +5251,6 @@
       },
       "en": {
         "title": "1960s house in Revingeby, Revinge sold – for 1.9 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "02dfd41bd816",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-villa-rX8CQ",
-      "guid": "7bffcc6b-ae06-447d-b42d-f85ec1c1cd41",
-      "published_at": "2026-11-18T07:02:02+01:00",
-      "fetched_at": "2026-11-18T07:15:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nya ägare till villa"
-      },
-      "en": {
-        "title": "New owners of villa"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "158fedda11d2",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/stor-vardeokning-nar-fastighet-i-hollviken-saljs-igen-RYnwe",
-      "guid": "e129fd27-c70e-4ebd-adf6-e7f010419538",
-      "published_at": "2026-11-18T07:02:01+01:00",
-      "fetched_at": "2026-11-18T07:15:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Stor värdeökning när fastighet i Höllviken säljs igen"
-      },
-      "en": {
-        "title": "Large value increase when property in Höllviken is sold again"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "5df30e125915",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/villa-i-staffanstorp-sald-for-4-miljoner",
-      "guid": "a6b5ac7b-1c41-42e7-b3cd-4d6ce3884483",
-      "published_at": "2026-11-18T07:01:56+01:00",
-      "fetched_at": "2026-11-18T07:15:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Villa i Staffanstorp såld – för 4 miljoner"
-      },
-      "en": {
-        "title": "Villa in Staffanstorp sold – for 4 million"
       },
       "translation": {
         "status": "done",

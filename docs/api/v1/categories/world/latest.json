@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T20:31:09+01:00",
+  "generated_at": "2026-11-18T20:46:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fb3a704b537a",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/4EqVKg/tva-vuxna-och-ett-barn-hittade-doda-i-danmark",
+      "guid": "https://www.aftonbladet.se/nyheter/a/4EqVKg/tva-vuxna-och-ett-barn-hittade-doda-i-danmark?utm_medium=rss",
+      "published_at": "2026-11-18T20:38:20+01:00",
+      "fetched_at": "2026-11-18T20:45:47+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Två vuxna och ett barn hittade döda i Danmark",
+        "summary": "En man, en kvinna och en flicka har hittats döda vid en fastighet i en mindre tätort på Jylland i…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two adults and a child found dead in Denmark",
+        "summary": "A man, a woman and a girl have been found dead at a property in a small urban area in Jutland in..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:46:01+01:00"
+      }
+    },
     {
       "id": "085557992891",
       "schema_version": 1,
@@ -5290,32 +5316,6 @@
       "guid": "https://www.svd.se/a/KL36Vy/ukraina-stora-broar-traffade-i-kiev?utm_medium=rss",
       "published_at": "2026-11-17T00:00:17+01:00",
       "fetched_at": "2026-11-17T00:01:11+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ukraina: Stora broar träffade i Kiev",
-        "summary": "Ryska attacker har enligt preliminär information träffat två stora broar i den ukrainska huvudstaden…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ukraine: Two major bridges hit in Kyiv",
-        "summary": "Russian attacks have, according to preliminary information, hit two major bridges in the Ukrainian capital…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T00:01:17+01:00"
-      }
-    },
-    {
-      "id": "2bdf093e13da",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/wdPRqP/ukraina-stora-broar-traffade-i-kiev",
-      "guid": "https://www.aftonbladet.se/nyheter/a/wdPRqP/ukraina-stora-broar-traffade-i-kiev?utm_medium=rss",
-      "published_at": "2026-11-17T00:00:16+01:00",
-      "fetched_at": "2026-11-17T00:01:12+01:00",
       "category": "world",
       "sv": {
         "title": "Ukraina: Stora broar träffade i Kiev",

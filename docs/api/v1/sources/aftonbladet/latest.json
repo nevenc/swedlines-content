@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-18T20:31:09+01:00",
+  "generated_at": "2026-11-18T20:46:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fb3a704b537a",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/4EqVKg/tva-vuxna-och-ett-barn-hittade-doda-i-danmark",
+      "guid": "https://www.aftonbladet.se/nyheter/a/4EqVKg/tva-vuxna-och-ett-barn-hittade-doda-i-danmark?utm_medium=rss",
+      "published_at": "2026-11-18T20:38:20+01:00",
+      "fetched_at": "2026-11-18T20:45:47+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Två vuxna och ett barn hittade döda i Danmark",
+        "summary": "En man, en kvinna och en flicka har hittats döda vid en fastighet i en mindre tätort på Jylland i…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two adults and a child found dead in Denmark",
+        "summary": "A man, a woman and a girl have been found dead at a property in a small urban area in Jutland in..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:46:01+01:00"
+      }
+    },
+    {
+      "id": "9e237792fbe0",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/mMReEl/fed-protokoll-nastan-alla-vantar-sig-hojning",
+      "guid": "https://www.aftonbladet.se/nyheter/a/mMReEl/fed-protokoll-nastan-alla-vantar-sig-hojning?utm_medium=rss",
+      "published_at": "2026-11-18T20:34:55+01:00",
+      "fetched_at": "2026-11-18T20:45:47+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/c7e98f2c-a0bf-3e0e-9ea7-398d9ea57d17?format=auto&s=c6e615db33469971f42a796402a416875af0d92b&w=1000",
+      "sv": {
+        "title": "Fed-protokoll: Nästan alla väntar sig höjning",
+        "summary": "Nästan alla ledamöter i USA:s centralbank Federal Reserve (Fed) var överens om att de troligtvis…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fed minutes: Almost everyone expects a hike",
+        "summary": "Almost all members of the US central bank, the Federal Reserve (Fed), agreed that they probably..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:46:01+01:00"
+      }
+    },
     {
       "id": "dfe947b936dd",
       "schema_version": 1,
@@ -5326,58 +5379,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T02:31:00+01:00"
-      }
-    },
-    {
-      "id": "4472af5f7382",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/7P0pJ3/ryssland-dronarattacker-mot-moskva",
-      "guid": "https://www.aftonbladet.se/nyheter/a/7P0pJ3/ryssland-dronarattacker-mot-moskva?utm_medium=rss",
-      "published_at": "2026-11-16T01:55:11+01:00",
-      "fetched_at": "2026-11-16T02:01:10+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ryssland: Drönarattacker mot Moskva",
-        "summary": "Tiotals drönare i riktning mot den ryska huvudstaden Moskva har avvärjts, hävdar stadens borgmästare…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russia: Drone attacks on Moscow",
-        "summary": "Dozens of drones heading toward the Russian capital Moscow have been intercepted, the city's mayor claims…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T02:01:15+01:00"
-      }
-    },
-    {
-      "id": "c3237838b979",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/j3d0Xo/mexikos-drogkung-ar-dod",
-      "guid": "https://www.aftonbladet.se/nyheter/a/j3d0Xo/mexikos-drogkung-ar-dod?utm_medium=rss",
-      "published_at": "2026-11-16T01:45:02+01:00",
-      "fetched_at": "2026-11-16T01:45:41+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Mexikos drogkung är död",
-        "summary": "Miguel Angel Félix Gallardo – ”Gudfadern” – som ledde den ökända Guadalajarakartellen, är död.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mexico's drug kingpin is dead",
-        "summary": "Miguel Angel Félix Gallardo – “The Godfather” – who led the notorious Guadalajara Cartel, is dead."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T01:45:45+01:00"
       }
     }
   ]
