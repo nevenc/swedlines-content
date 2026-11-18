@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T00:01:18+01:00",
+  "generated_at": "2026-11-19T00:15:51+01:00",
   "count": 200,
   "items": [
     {
@@ -26,6 +26,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T00:01:18+01:00"
+      }
+    },
+    {
+      "id": "88dc8d8a73f7",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/bk5eEl/ryssland-krimbron-attackerad-igen",
+      "guid": "https://www.svd.se/a/bk5eEl/ryssland-krimbron-attackerad-igen?utm_medium=rss",
+      "published_at": "2026-11-18T23:59:49+01:00",
+      "fetched_at": "2026-11-19T00:15:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ryssland: Krimbron attackerad igen",
+        "summary": "Den viktiga bron till Krimhalvön har återigen attackerats, hävdar Moskvas Krimguvernör Sergej…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russia: Crimea bridge attacked again",
+        "summary": "The important bridge to the Crimean Peninsula has once again been attacked, claims Moscow's Crimea governor Sergei…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T00:15:51+01:00"
       }
     },
     {
@@ -5302,29 +5328,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T05:45:51+01:00"
-      }
-    },
-    {
-      "id": "e598ab53b780",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79983",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79983&utm_medium=rss",
-      "published_at": "2026-11-17T05:23:26+01:00",
-      "fetched_at": "2026-11-17T05:30:59+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Uppgifter: Iran planerar bombdåd i USA"
-      },
-      "en": {
-        "title": "Reports: Iran plans bombing in the USA"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T05:31:08+01:00"
       }
     }
   ]
