@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-18T15:15:52+01:00",
+  "generated_at": "2026-11-18T15:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a45b8d238f36",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/sa-kan-andersson-losa-det-omojliga",
+      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/sa-kan-andersson-losa-det-omojliga/",
+      "published_at": "2026-11-18T15:19:23+01:00",
+      "fetched_at": "2026-11-18T15:31:01+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Så kan Andersson lösa det omöjliga",
+        "summary": "Viktor Barth-Kron går igenom de rödgröna alternativens möjligheter och omöjligheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is how Andersson can solve the impossible",
+        "summary": "Viktor Barth-Kron goes through the possibilities and impossibilities of the red-green alternatives."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T15:31:08+01:00"
+      }
+    },
+    {
+      "id": "2094f5b556a0",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/ARdJaj/pourmokhtari-inte-skett-framsteg",
+      "guid": "https://www.aftonbladet.se/nyheter/a/ARdJaj/pourmokhtari-inte-skett-framsteg?utm_medium=rss",
+      "published_at": "2026-11-18T15:14:55+01:00",
+      "fetched_at": "2026-11-18T15:31:01+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/c71d8522-3784-3a5a-a7ed-5ce6bbcb0c58?format=auto&s=dadafd3ecd9463bde443ff75ed2ab090498448dc&w=1000",
+      "sv": {
+        "title": "Pourmokhtari: ”Inte skett framsteg”",
+        "summary": "Sveriges klimat- och miljöminister Romina Pourmokhtari (L) ska leda EU:s finansiella grupp i…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pourmokhtari: \"No progress has been made\"",
+        "summary": "Sweden's climate and environment minister Romina Pourmokhtari (L) is to lead the EU's financial group in…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T15:31:08+01:00"
+      }
+    },
     {
       "id": "6af851ed948e",
       "schema_version": 1,
@@ -5352,56 +5405,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T21:45:43+01:00"
-      }
-    },
-    {
-      "id": "6cd24eeb4125",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3R5NfytRMYJHBxmsGAzZgg/beskedet-oekar-pressen-pa-magdalena-anderssons-oloesta-ekvation",
-      "guid": "3R5NfytRMYJHBxmsGAzZgg",
-      "published_at": "2026-11-15T21:22:45+01:00",
-      "fetched_at": "2026-11-15T23:15:39+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Nu ökar pressen på Anderssons olösta ekvation"
-      },
-      "en": {
-        "title": "Pressure mounts on Andersson's unsolved equation"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T23:15:46+01:00"
-      }
-    },
-    {
-      "id": "28aaad30e7a4",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/moa-berglof/nu-far-nooshi-bara-saga-ja",
-      "guid": "c96664f0-e989-4b00-9d29-a98dbddac0c6",
-      "published_at": "2026-11-15T21:14:13+01:00",
-      "fetched_at": "2026-11-15T21:15:47+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/3adcdf24-9f53-4b12-b49d-c39dc3a9585b.jpeg?width=600",
-      "sv": {
-        "title": "Nu får Nooshi bara säga ja"
-      },
-      "en": {
-        "title": "Now Nooshi can only say yes"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T21:15:49+01:00"
       }
     }
   ]
