@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T08:31:10+01:00",
+  "generated_at": "2026-11-18T08:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1a24445bb855",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/marknaden-andas-ut-efter-nvidia-sveafastigheter-vill-dela-ut",
+      "guid": "b214d5c8-cae6-5ea9-960a-b6e0943ff5fe",
+      "published_at": "2026-11-18T08:37:34+01:00",
+      "fetched_at": "2026-11-18T08:45:42+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Marknaden andas ut efter Nvidia - Sveafastigheter vill dela ut",
+        "summary": "Nattens och morgonens nyheter med Sam Bornstein.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The market breathes out after Nvidia - Sveafastigheter wants to pay out",
+        "summary": "Last night's and this morning's news with Sam Bornstein."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T08:45:50+01:00"
+      }
+    },
     {
       "id": "dc2786f83eba",
       "schema_version": 1,
@@ -5301,33 +5327,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T23:01:13+01:00"
-      }
-    },
-    {
-      "id": "ace5b0a5213c",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/torsten-jansson-pa-kant-med-lokalmedia-ifragasatter-stod",
-      "guid": "bacd8fa6-282c-41e0-8b0e-44babc183add",
-      "published_at": "2026-11-16T22:35:09+01:00",
-      "fetched_at": "2026-11-16T22:45:44+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/f529f481-3aff-4964-b2b3-8d4c407efc66.jpeg?width=600",
-      "sv": {
-        "title": "Torsten Jansson på kant med lokalmedia – ifrågasätter stöd",
-        "summary": "Borde verkligen dagstidningen Smålandsposten få press- och distributionsstöd på 12 miljoner kronor per år från skattebetalarna? Den frågan ställer sig New Wave-vd:n Torsten Jansson efter tidningens bevakning av hans glasbruksverksamheter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Torsten Jansson at odds with local media – questions support",
-        "summary": "Should the daily newspaper Smålandsposten really receive press and distribution subsidies of SEK 12 million per year from taxpayers? That is the question posed by New Wave CEO Torsten Jansson following the newspaper's coverage of his glassworks operations."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T22:45:49+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T08:31:10+01:00",
+  "generated_at": "2026-11-18T08:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d164a3f6d132",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=0831cdd7-877e-4144-af47-f90a289391d4",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0831cdd7-877e-4144-af47-f90a289391d4",
+      "published_at": "2026-11-18T08:35:00+01:00",
+      "fetched_at": "2026-11-18T08:45:41+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Rånad i sitt hem – på kryptovaluta",
+        "summary": "Misshandlad och bakbunden",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Robbed in their home – in cryptocurrency",
+        "summary": "Beaten and tied up"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T08:45:50+01:00"
+      }
+    },
     {
       "id": "32fa2fcfd4ff",
       "schema_version": 1,
@@ -5161,32 +5187,6 @@
       "en": {
         "title": "Former Left Party leader Jens Holm wants a Social Democrat government",
         "summary": "A Social Democrat government supported by the Left Party, the Centre Party and the Green Party. That is what former Left Party leader Jens Holm believes is the way forward for the red-green parties. He is not impressed by the Left Party's negotiating strategy. – The alternative may be that they mess everything up and it becomes Kristersson for four more years."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:22+01:00"
-      }
-    },
-    {
-      "id": "2f40655357ee",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=4cf5d91c-4087-499a-a4d3-ae812bc12aea",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4cf5d91c-4087-499a-a4d3-ae812bc12aea",
-      "published_at": "2026-11-14T19:39:20+01:00",
-      "fetched_at": "2026-11-14T20:30:10+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "En död efter båtbrand",
-        "summary": "Oklart vad som hänt på Tjörn",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "One dead after boat fire",
-        "summary": "Unclear what happened on Tjörn"
       },
       "translation": {
         "status": "done",

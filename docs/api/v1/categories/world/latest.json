@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-18T08:31:10+01:00",
+  "generated_at": "2026-11-18T08:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3f30388d5968",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/norsk-sakerhetstjanst-okad-risk-for-terrorattacker",
+      "guid": "1de2cd44-66e9-4bbe-8346-3d187b730a4f",
+      "published_at": "2026-11-18T08:40:55+01:00",
+      "fetched_at": "2026-11-18T08:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Norsk säkerhetstjänst: ”Ökad risk för terrorattacker”",
+        "summary": "Det finns en förhöjd risk för terrordåd i Norge nästa år, varnar den norska säkerhetstjänsten PST.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegian security service: \"Increased risk of terror attacks\"",
+        "summary": "There is an elevated risk of terror attacks in Norway next year, warns the Norwegian security service PST."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T08:45:50+01:00"
+      }
+    },
+    {
+      "id": "24adb73a58e0",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/2vGoVr/norsk-sakerhetstjanst-okad-risk-for-terrorattacker",
+      "guid": "https://www.aftonbladet.se/nyheter/a/2vGoVr/norsk-sakerhetstjanst-okad-risk-for-terrorattacker?utm_medium=rss",
+      "published_at": "2026-11-18T08:39:43+01:00",
+      "fetched_at": "2026-11-18T08:45:40+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Norsk säkerhetstjänst: ”Ökad risk för terrorattacker”",
+        "summary": "Det finns en förhöjd risk för terrordåd i Norge nästa år, varnar den norska säkerhetstjänsten PST.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegian security service: \"Increased risk of terror attacks\"",
+        "summary": "There is an elevated risk of terror attacks in Norway next year, warns the Norwegian security service PST."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T08:45:50+01:00"
+      }
+    },
     {
       "id": "c51e1bc8720a",
       "schema_version": 1,
@@ -5277,60 +5329,6 @@
       "en": {
         "title": "Fed up with Trump – they could swing the presidential election",
         "summary": "Two years ago they turned their backs on the Democrats and Kamala Harris. Now, as the election campaign ahead of…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T11:45:50+01:00"
-      }
-    },
-    {
-      "id": "69eaf5aa25ad",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/7P07a9/sura-pa-trump-de-kan-vanda-presidentvalet",
-      "guid": "https://www.aftonbladet.se/nyheter/a/7P07a9/sura-pa-trump-de-kan-vanda-presidentvalet?utm_medium=rss",
-      "published_at": "2026-11-16T11:31:18+01:00",
-      "fetched_at": "2026-11-16T11:45:41+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/1f6d4fc7-3bdb-3c81-b995-31fe91aecd05?format=auto&s=b90c66e1d4fd6d84b32ffb6d361987c1aea35809&w=1000",
-      "sv": {
-        "title": "Sura på Trump – de kan vända presidentvalet",
-        "summary": "För två år sedan vände de Demokraterna och Kamala Harris ryggen. Nu, när valrörelsen inför…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fed up with Trump – they could swing the presidential election",
-        "summary": "Two years ago they turned their backs on the Democrats and Kamala Harris. Now, as the election campaign ahead of…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T11:45:50+01:00"
-      }
-    },
-    {
-      "id": "4b12147b0313",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/j3dv5e/krig-i-iran-ledde-till-solboom-i-filippinerna",
-      "guid": "https://www.svd.se/a/j3dv5e/krig-i-iran-ledde-till-solboom-i-filippinerna?utm_medium=rss",
-      "published_at": "2026-11-16T11:30:17+01:00",
-      "fetched_at": "2026-11-16T11:45:41+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/36cbcb58-0cf2-3138-98f9-0b1f33b4a7fa?format=auto&s=05553e61b25c8df51aa1724d8036b67fb8c5c595&w=1000",
-      "sv": {
-        "title": "Krig i Iran ledde till solboom i Filippinerna",
-        "summary": "Stängningen av Hormuzsundet drev upp energipriserna i Filippinerna till bristningsgränsen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "War in Iran led to solar boom in the Philippines",
-        "summary": "The closure of the Strait of Hormuz drove energy prices in the Philippines to breaking point."
       },
       "translation": {
         "status": "done",

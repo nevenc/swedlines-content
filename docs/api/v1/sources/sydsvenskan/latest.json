@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T08:31:10+01:00",
+  "generated_at": "2026-11-18T08:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3f30388d5968",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/norsk-sakerhetstjanst-okad-risk-for-terrorattacker",
+      "guid": "1de2cd44-66e9-4bbe-8346-3d187b730a4f",
+      "published_at": "2026-11-18T08:40:55+01:00",
+      "fetched_at": "2026-11-18T08:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Norsk säkerhetstjänst: ”Ökad risk för terrorattacker”",
+        "summary": "Det finns en förhöjd risk för terrordåd i Norge nästa år, varnar den norska säkerhetstjänsten PST.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegian security service: \"Increased risk of terror attacks\"",
+        "summary": "There is an elevated risk of terror attacks in Norway next year, warns the Norwegian security service PST."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T08:45:50+01:00"
+      }
+    },
     {
       "id": "02b979aa5746",
       "schema_version": 1,
@@ -5148,33 +5174,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T21:13:19+01:00"
-      }
-    },
-    {
-      "id": "9fe907a1cdb3",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/skane/atta-ovanliga-hus-som-ar-till-salu-just-nu",
-      "guid": "98de2580-4754-4dcb-8d6d-2fb74da09b20",
-      "published_at": "2026-11-15T20:00:00+01:00",
-      "fetched_at": "2026-11-15T20:01:15+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/2ac98bd1-94e5-46b2-8fe0-654630c6d525.jpeg?width=600",
-      "sv": {
-        "title": "Åtta ovanliga hus som är till salu just nu",
-        "summary": "Ett har en toalett i guld, ett annat takmålningar i matsalen och ett är omslutet av ett enormt glashus. Här är en lista med åtta hem som är ganska speciella – och som är till salu i nordvästra Skåne.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Eight unusual homes for sale right now",
-        "summary": "One has a gold toilet, another has ceiling paintings in the dining room, and one is enclosed by an enormous glass house. Here is a list of eight homes that are quite special – and that are for sale in north-western Skåne."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T20:01:22+01:00"
       }
     }
   ]
