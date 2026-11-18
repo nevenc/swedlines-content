@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T12:31:14+01:00",
+  "generated_at": "2026-11-18T12:45:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7c66e7c6cb3f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/varmland/tva-man-atalas-efter-dodsmisshandlen-i-karlstad",
+      "guid": "https://www.svt.se/nyheter/lokalt/varmland/tva-man-atalas-efter-dodsmisshandlen-i-karlstad",
+      "published_at": "2026-11-18T12:41:20+01:00",
+      "fetched_at": "2026-11-18T12:45:42+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Två män åtalas efter dödsmisshandlen i Karlstad",
+        "summary": "Det var i somras som en man avled efter att hamnat i ett slagsmål i centrala Karlstad. Nu åtalas två män i 20-årsåldern för dråp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two men charged after fatal assault in Karlstad",
+        "summary": "A man died this summer after getting into a fight in central Karlstad. Two men in their 20s are now charged with manslaughter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:45:51+01:00"
+      }
+    },
     {
       "id": "e31020ffa99a",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Dearer diesel, royal celebration and prison places – this is what the budget contains",
         "summary": "Today Elisabeth Svantesson (M) presents her transitional budget. It has been drawn up under strict rules, but the finance minister has still made certain exceptions."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "e4e9dc2aa374",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/ishockey/vild-kommentering-efter-nils-hoglanders-mal-oj-herregud-vilket-avslut",
-      "guid": "https://www.svt.se/sport/ishockey/vild-kommentering-efter-nils-hoglanders-mal-oj-herregud-vilket-avslut",
-      "published_at": "2026-11-12T07:41:42+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Vild kommentering efter Nils Höglanders mål: ”Oj, herregud – vilket avslut”",
-        "summary": "Nashville vann i Anaheim med 4–2 – efter ett konstmål av Nils Höglander. Kommentorn blev alldeles vild. – Oj, herregud – vilket avslut, utbrister han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Wild commentary after Nils Höglander's goal: 'Oh my God – what a finish'",
-        "summary": "Nashville won in Anaheim 4–2 – after a work of art of a goal by Nils Höglander. The commentator went completely wild. – Oh my God – what a finish, he exclaims."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T12:31:14+01:00",
+  "generated_at": "2026-11-18T12:45:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7c66e7c6cb3f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/varmland/tva-man-atalas-efter-dodsmisshandlen-i-karlstad",
+      "guid": "https://www.svt.se/nyheter/lokalt/varmland/tva-man-atalas-efter-dodsmisshandlen-i-karlstad",
+      "published_at": "2026-11-18T12:41:20+01:00",
+      "fetched_at": "2026-11-18T12:45:42+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Två män åtalas efter dödsmisshandlen i Karlstad",
+        "summary": "Det var i somras som en man avled efter att hamnat i ett slagsmål i centrala Karlstad. Nu åtalas två män i 20-årsåldern för dråp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two men charged after fatal assault in Karlstad",
+        "summary": "A man died this summer after getting into a fight in central Karlstad. Two men in their 20s are now charged with manslaughter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:45:51+01:00"
+      }
+    },
     {
       "id": "0d95da422508",
       "schema_version": 1,
@@ -5317,32 +5343,6 @@
       "en": {
         "title": "Prosecutor on the defence's Katja Nyberg evidence: 'Changes nothing'",
         "summary": "Prosecutor dismisses the new evidence: Changes nothing"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "cfe83f2854ac",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/svensk-man-gripen-i-jordanien",
-      "guid": "https://www.svt.se/nyheter/utrikes/svensk-man-gripen-i-jordanien",
-      "published_at": "2026-11-13T16:32:49+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Svensk man gripen i Jordanien",
-        "summary": "En internationellt efterlyst svensk man har gripits i Jordanien, skriver polisen på sin hemsida. Han ska ha gripits den 12 november och misstänks för bland annat anstiftan av grovt vapenbrott och stämpling till allmänfarlig ödeläggelse.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish man arrested in Jordan",
-        "summary": "An internationally wanted Swedish man has been arrested in Jordan, police write on their website. He is said to have been arrested on 12 November and is suspected of, among other things, instigating aggravated weapons offences and conspiracy to cause devastation endangering the public."
       },
       "translation": {
         "status": "done",

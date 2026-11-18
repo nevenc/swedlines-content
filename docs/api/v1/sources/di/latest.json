@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-18T12:31:14+01:00",
+  "generated_at": "2026-11-18T12:45:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "89c9e283f746",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/ny-gratistjanst-ska-fa-fler-att-samaka-till-evenemanget",
+      "guid": "6e20d396-280b-4aaa-8796-72b81b299e04",
+      "published_at": "2026-11-18T12:37:31+01:00",
+      "fetched_at": "2026-11-18T12:45:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/370a1d83-cd7e-49a9-ad82-22459c27aa59.jpeg?width=600",
+      "sv": {
+        "title": "Ny gratistjänst ska få fler att samåka till evenemanget",
+        "summary": "Nu kan alla eventarrangörer i Sverige erbjuda sina besökare samåkning – helt gratis. Göteborg Film Festival och O-ringen är två aktörer som nappat på erbjudandet. Bakom tjänsten står den ideella samåkningsföreningen Skjutsgruppen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New free service to get more people carpooling to events",
+        "summary": "All event organisers in Sweden can now offer their visitors carpooling – completely free. Göteborg Film Festival and O-ringen are two organisers that have taken up the offer. The service is backed by the non-profit carpooling association Skjutsgruppen."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:45:51+01:00"
+      }
+    },
+    {
+      "id": "176075d7bedb",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/uppgifter-lars-danielsson-blir-ny-sanktionsgeneral-i-eu",
+      "guid": "db70b316-f34f-4f15-985c-71dbf0e37c89",
+      "published_at": "2026-11-18T12:37:04+01:00",
+      "fetched_at": "2026-11-18T12:45:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/3eb7f2b6-58c0-4cc2-ba6a-1a44abdf7a94.jpg?width=600",
+      "sv": {
+        "title": "Uppgifter: Lars Danielsson blir ny sanktionsgeneral i EU",
+        "summary": "Förre statssekreteraren och ambassadören Lars Danielsson blir nytt EU-sändebud för sanktioner, enligt uppgifter till nyhetssajten Politico Europe.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: Lars Danielsson to become new EU sanctions envoy",
+        "summary": "Former state secretary and ambassador Lars Danielsson is to become the new EU envoy for sanctions, according to information given to the news site Politico Europe."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:45:51+01:00"
+      }
+    },
     {
       "id": "019c7fb804b8",
       "schema_version": 1,
@@ -5261,59 +5315,6 @@
       "en": {
         "title": "Nibe CEO Misses Earnings Presentation",
         "summary": "Heat technology company Nibe delivered a strong interim report that was better than market expectations. However, CEO Gerteric Lindquist will not take part in the earnings presentation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:31:07+01:00"
-      }
-    },
-    {
-      "id": "456f059f3900",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/ny-elprognos-blir-en-riktigt-dyr-vinter",
-      "guid": "2ecabcd8-3530-4f13-bb52-944c9fb7fcdc",
-      "published_at": "2026-11-17T09:19:55+01:00",
-      "fetched_at": "2026-11-17T09:30:59+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/138242b5-3863-4d0f-9c29-8be20d66f7bb.jpeg?width=600",
-      "sv": {
-        "title": "Ny elprognos: ”Blir en riktigt dyr vinter”",
-        "summary": "Elpriserna i södra halvan av Sverige stiger åter brant och kan denna veckan nå den högsta snittnivån hittills i år. Samtidigt visar en ny prognos att elpriserna i vinter riskerar att bli högre än under elkrisen 2022–2023.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "New Electricity Forecast: \"It Will Be a Very Expensive Winter\"",
-        "summary": "Electricity prices in the southern half of Sweden are rising sharply again and could this week reach the highest average level so far this year. At the same time, a new forecast shows that electricity prices this winter risk being higher than during the 2022–2023 electricity crisis."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:31:07+01:00"
-      }
-    },
-    {
-      "id": "7f6025d82791",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/cvc-gor-exit-i-cary-group-nordic-capital-far-sallskap-av-tva-nya-storagare",
-      "guid": "c475809a-4f9e-4953-89d8-59b2b921ac81",
-      "published_at": "2026-11-17T09:18:14+01:00",
-      "fetched_at": "2026-11-17T09:30:59+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "CVC gör exit i Cary Group – Nordic Capital får sällskap av två nya storägare",
-        "summary": "Riskkapitalbolaget CVC säljer sin halva av det sedan några år onoterade bilglasbolaget Cary Group. Två nya storägare kliver in samtidigt som Nordic Capital återinvesterar i bolaget.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "CVC Exits Cary Group – Nordic Capital Gets Two New Major Owners",
-        "summary": "Private equity firm CVC is selling its half of the car glass company Cary Group, which has been unlisted for some years. Two new major owners are coming in while Nordic Capital reinvests in the company."
       },
       "translation": {
         "status": "done",

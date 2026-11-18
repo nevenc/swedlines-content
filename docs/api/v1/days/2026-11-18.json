@@ -1,7 +1,264 @@
 {
-  "generated_at": "2026-11-18T12:31:14+01:00",
-  "count": 326,
+  "generated_at": "2026-11-18T12:45:52+01:00",
+  "count": 336,
   "items": [
+    {
+      "id": "7c66e7c6cb3f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/varmland/tva-man-atalas-efter-dodsmisshandlen-i-karlstad",
+      "guid": "https://www.svt.se/nyheter/lokalt/varmland/tva-man-atalas-efter-dodsmisshandlen-i-karlstad",
+      "published_at": "2026-11-18T12:41:20+01:00",
+      "fetched_at": "2026-11-18T12:45:42+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Två män åtalas efter dödsmisshandlen i Karlstad",
+        "summary": "Det var i somras som en man avled efter att hamnat i ett slagsmål i centrala Karlstad. Nu åtalas två män i 20-årsåldern för dråp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two men charged after fatal assault in Karlstad",
+        "summary": "A man died this summer after getting into a fight in central Karlstad. Two men in their 20s are now charged with manslaughter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:45:51+01:00"
+      }
+    },
+    {
+      "id": "408fea478e58",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/rata-pa-ryggen-v-och-ta-lardom-av-sd",
+      "guid": "https://www.dn.se/insandare/rata-pa-ryggen-v-och-ta-lardom-av-sd/",
+      "published_at": "2026-11-18T12:39:08+01:00",
+      "fetched_at": "2026-11-18T12:45:43+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/a39a73ef-bbc3-41d6-9210-98c8bd8e4f1a.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Räta på ryggen, V, och ta lärdom av SD",
+        "summary": "INSÄNDARE. Vänsterpartiet bör hellre släppa fram en högerregering än att vika sig för kravet på ministerposter. V har inget att förlora på att stå på sig, skriver Wences Rivas.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Straighten up, V, and learn from SD",
+        "summary": "LETTER. The Left Party should rather let a right-wing government take power than give in to demands for ministerial posts. V has nothing to lose by standing its ground, writes Wences Rivas."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:45:51+01:00"
+      }
+    },
+    {
+      "id": "21bb38551a7e",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/lars-danielsson-blir-ny-sanktionsgeneral",
+      "guid": "7a62135e-b047-4420-a1a0-8794f81d1000",
+      "published_at": "2026-11-18T12:37:52+01:00",
+      "fetched_at": "2026-11-18T12:45:47+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/e12c2274-9074-4a0c-9668-7ae168f3cf9f.jpg?width=600",
+      "sv": {
+        "title": "Lars Danielsson blir ny sanktionsgeneral",
+        "summary": "Förre statssekreteraren och ambassadören Lars Danielsson blir nytt EU-sändebud för sanktioner, enligt uppgifter till nyhetssajten Politico Europe.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lars Danielsson becomes new EU sanctions envoy",
+        "summary": "Former state secretary and ambassador Lars Danielsson is to become the new EU envoy for sanctions, according to information given to the news site Politico Europe."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:45:51+01:00"
+      }
+    },
+    {
+      "id": "89c9e283f746",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/ny-gratistjanst-ska-fa-fler-att-samaka-till-evenemanget",
+      "guid": "6e20d396-280b-4aaa-8796-72b81b299e04",
+      "published_at": "2026-11-18T12:37:31+01:00",
+      "fetched_at": "2026-11-18T12:45:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/370a1d83-cd7e-49a9-ad82-22459c27aa59.jpeg?width=600",
+      "sv": {
+        "title": "Ny gratistjänst ska få fler att samåka till evenemanget",
+        "summary": "Nu kan alla eventarrangörer i Sverige erbjuda sina besökare samåkning – helt gratis. Göteborg Film Festival och O-ringen är två aktörer som nappat på erbjudandet. Bakom tjänsten står den ideella samåkningsföreningen Skjutsgruppen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New free service to get more people carpooling to events",
+        "summary": "All event organisers in Sweden can now offer their visitors carpooling – completely free. Göteborg Film Festival and O-ringen are two organisers that have taken up the offer. The service is backed by the non-profit carpooling association Skjutsgruppen."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:45:51+01:00"
+      }
+    },
+    {
+      "id": "176075d7bedb",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/uppgifter-lars-danielsson-blir-ny-sanktionsgeneral-i-eu",
+      "guid": "db70b316-f34f-4f15-985c-71dbf0e37c89",
+      "published_at": "2026-11-18T12:37:04+01:00",
+      "fetched_at": "2026-11-18T12:45:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/3eb7f2b6-58c0-4cc2-ba6a-1a44abdf7a94.jpg?width=600",
+      "sv": {
+        "title": "Uppgifter: Lars Danielsson blir ny sanktionsgeneral i EU",
+        "summary": "Förre statssekreteraren och ambassadören Lars Danielsson blir nytt EU-sändebud för sanktioner, enligt uppgifter till nyhetssajten Politico Europe.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: Lars Danielsson to become new EU sanctions envoy",
+        "summary": "Former state secretary and ambassador Lars Danielsson is to become the new EU envoy for sanctions, according to information given to the news site Politico Europe."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:45:51+01:00"
+      }
+    },
+    {
+      "id": "9bb094453d92",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/oppositionen-tar-kontroll-over-knesset-efter-hatsk-talmansstrid",
+      "guid": "https://www.dn.se/varlden/oppositionen-tar-kontroll-over-knesset-efter-hatsk-talmansstrid/",
+      "published_at": "2026-11-18T12:34:41+01:00",
+      "fetched_at": "2026-11-18T12:45:43+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/cfd803fd-0965-4491-bcc1-39758e6aacbe.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Oppositionen tar kontroll över knesset efter hätsk talmansstrid",
+        "summary": "Ut med Ohana – in med Kahana. Trots att Benjamin Netanyahus allierade gjorde allt för att förhindra det, valdes under tisdagen en ny talman till det israeliska parlamentet. I väntan på en ny regering innebär detta att utmanaren Gadi Eisenkot har kontroll över knessets agenda.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Opposition takes control of the Knesset after bitter speaker dispute",
+        "summary": "Out with Ohana – in with Kahana. Despite Benjamin Netanyahu's allies doing everything to prevent it, a new speaker was elected to the Israeli parliament on Tuesday. While awaiting a new government, this means challenger Gadi Eisenkot now controls the Knesset's agenda."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:45:51+01:00"
+      }
+    },
+    {
+      "id": "052d46bf8ee4",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/4Eqx3E/lars-danielsson-blir-ny-sanktionsgeneral",
+      "guid": "https://www.aftonbladet.se/nyheter/a/4Eqx3E/lars-danielsson-blir-ny-sanktionsgeneral?utm_medium=rss",
+      "published_at": "2026-11-18T12:34:13+01:00",
+      "fetched_at": "2026-11-18T12:45:44+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/09f33898-43fe-35d0-b165-49ff8c3cf9e9?format=auto&s=cd105128e150b69d4805f34447ad59b25f90e294&w=1000",
+      "sv": {
+        "title": "Lars Danielsson blir ny sanktionsgeneral",
+        "summary": "Förre statssekreteraren och ambassadören Lars Danielsson blir nytt EU-sändebud för…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lars Danielsson becomes new EU sanctions envoy",
+        "summary": "Former state secretary and ambassador Lars Danielsson is to become the new EU envoy for sanctions, according to information given to the news site Politico Europe."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:45:51+01:00"
+      }
+    },
+    {
+      "id": "971d70ab0d42",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-tar-over-villa-P-z8w",
+      "guid": "34c2221d-250d-4e65-9137-f6b75476546c",
+      "published_at": "2026-11-18T12:31:58+01:00",
+      "fetched_at": "2026-11-18T12:45:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nya ägare tar över villa"
+      },
+      "en": {
+        "title": "New owners take over villa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:45:51+01:00"
+      }
+    },
+    {
+      "id": "faebdf2fe5d2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-villa-Zd2Kw",
+      "guid": "8cd93386-0083-4156-acb5-c56fb14451ba",
+      "published_at": "2026-11-18T12:31:53+01:00",
+      "fetched_at": "2026-11-18T12:45:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nya ägare till villa"
+      },
+      "en": {
+        "title": "New owners of villa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:45:51+01:00"
+      }
+    },
+    {
+      "id": "bb6aed964413",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/villa-i-malmo-sald-for-7-miljoner-jfLgS",
+      "guid": "7d312cf4-88b6-4b30-8656-67660c064f70",
+      "published_at": "2026-11-18T12:31:52+01:00",
+      "fetched_at": "2026-11-18T12:45:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Villa i Malmö såld – för 7 miljoner"
+      },
+      "en": {
+        "title": "Villa in Malmö sold – for SEK 7 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:45:51+01:00"
+      }
+    },
     {
       "id": "019c7fb804b8",
       "schema_version": 1,
