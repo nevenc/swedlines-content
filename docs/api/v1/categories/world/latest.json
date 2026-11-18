@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T17:31:12+01:00",
+  "generated_at": "2026-11-18T17:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "693b1bfaabb2",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345282",
+      "guid": "rss:sr.se/article/9345282",
+      "published_at": "2026-11-18T17:45:00+01:00",
+      "fetched_at": "2026-11-18T17:45:47+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Över 5 000 döda i ebola – brist på mat i Kongo-Kinshasa",
+        "summary": "Antalet döda i det pågående ebolautbrottet i Kongo Kinshasa har nu passerat 5 000. Samtidigt har myndigheternas restriktioner för att förhindra spridningen av viruset fått allvarliga konsekvenser för den lokala matförsörjningen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Over 5,000 dead in Ebola – food shortages in Kongo-Kinshasa",
+        "summary": "The death toll from the ongoing Ebola outbreak in Kongo Kinshasa has now passed 5,000. Meanwhile, authorities' restrictions to prevent the spread of the virus have had serious consequences for local food supplies."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T17:45:57+01:00"
+      }
+    },
     {
       "id": "d10952e29fb5",
       "schema_version": 1,
@@ -5291,33 +5317,6 @@
       "en": {
         "title": "Jon Ossoff gives Obama vibes – but will he run?",
         "summary": "WASHINGTON. He reminds people of Barack Obama when he speaks and crushes his opponents with eerie precision. Democrats across the USA dream of Senator Jon Ossoff as president in 2028. But recently the 39-year-old has pulled back. What does he actually want?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T22:45:49+01:00"
-      }
-    },
-    {
-      "id": "fc3952903a2d",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/vita-huset-slar-tillbaka-mot-granskningar",
-      "guid": "https://www.dn.se/varlden/vita-huset-slar-tillbaka-mot-granskningar/",
-      "published_at": "2026-11-16T22:35:08+01:00",
-      "fetched_at": "2026-11-16T22:45:42+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/e0003c35-71d9-4ba3-88e8-33abb2857d7e.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Vita huset slår tillbaka mot granskningar",
-        "summary": "När kongressen tillträder med ny majoritet i januari väntas Demokraterna granska Trumpadministrationens agerande under de två första åren av presidentens mandatperiod. Vita huset förbereder sig redan för att hantera sådana processer – här är strategierna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "White House hits back against scrutiny",
-        "summary": "When the new Congress takes office with a new majority in January, the Democrats are expected to examine the Trump administration's actions during the president's first two years in office. The White House is already preparing to handle such processes – here are the strategies."
       },
       "translation": {
         "status": "done",

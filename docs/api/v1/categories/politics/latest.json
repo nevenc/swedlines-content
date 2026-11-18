@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-18T17:31:12+01:00",
+  "generated_at": "2026-11-18T17:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cc8e8fbaf862",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/c-ledaren-fokus-pa-att-fa-andersson-vald",
+      "guid": "0e782a61-9ff7-4e39-b7cd-e6cf165bf1b9",
+      "published_at": "2026-11-18T17:39:00+01:00",
+      "fetched_at": "2026-11-18T17:45:51+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/eb3781ee-5ce1-4f76-930f-71b346c8786b.jpg?width=600",
+      "sv": {
+        "title": "C-ledaren: Fokus på att få Andersson vald",
+        "summary": "Centerledaren Elisabeth Thand Ringqvist säger att förhandlingarna mellan de rödgröna ”går framåt”. – Vi träffas och pratar på olika nivåer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre leader: Focus on getting Andersson elected",
+        "summary": "Centre Party leader Elisabeth Thand Ringqvist says the negotiations between the red-greens are \"moving forward\". – We meet and talk at various levels."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T17:45:57+01:00"
+      }
+    },
+    {
+      "id": "7e18ae7e2acc",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/v-forslaget-behall-halva-priset-pa-sl-kortet-en-manad",
+      "guid": "https://www.dn.se/sverige/v-forslaget-behall-halva-priset-pa-sl-kortet-en-manad/",
+      "published_at": "2026-11-18T17:32:53+01:00",
+      "fetched_at": "2026-11-18T17:45:48+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/bf1ba038-648f-4d62-92c4-cb141ba40cd5.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "V-förslaget: Behåll halva priset på SL-kortet en månad",
+        "summary": "Den 2 december är sista dagen för att aktivera SL-korten för halva priset. Nu vill Vänsterpartiet förlänga det halverade priset en extra månad. – Vi ser att regionen har råd, säger Anna Sehlin, gruppledare i Vänsterpartiet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Left Party proposal: Keep half-price SL card for one more month",
+        "summary": "The last day to activate SL cards at half price is 2 December. Now the Left Party wants to extend the halved price by an extra month. – We see that the region can afford it, says Anna Sehlin, group leader for the Left Party."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T17:45:57+01:00"
+      }
+    },
     {
       "id": "6aab4df360a9",
       "schema_version": 1,
@@ -5347,58 +5401,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T05:31:03+01:00"
-      }
-    },
-    {
-      "id": "56ec39d019e7",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/enorma-forandringen-i-oddsen-om-vem-som-blir-nasta-svenska-statsminister",
-      "guid": "https://www.expressen.se/nyheter/sverige/enorma-forandringen-i-oddsen-om-vem-som-blir-nasta-svenska-statsminister/",
-      "published_at": "2026-11-16T01:06:55+01:00",
-      "fetched_at": "2026-11-16T01:15:39+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Enorma förändringen i oddsen om vem som blir nästa svenska statsminister",
-        "summary": "Centerpartiets beslut att gå vidare med ett rödgrönt regeringsalternativ skakade inte bara om det politiska läget. Det ledde också till en 40-procentig förändring i oddsen på Polymarket för om Magdalena Andersson eller Ulf Kristersson blir nästa statsminister.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Huge shift in the odds on who becomes Sweden's next prime minister",
-        "summary": "The Centre Party's decision to pursue a red-green government alternative shook up not only the political situation. It also led to a 40 percent shift in the odds on Polymarket for whether Magdalena Andersson or Ulf Kristersson (M) becomes the next prime minister."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T01:15:43+01:00"
-      }
-    },
-    {
-      "id": "c9edd78e8cf9",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/tomas-ramberg-kristersson-fortfarande-mera-sannolik-an-extraval",
-      "guid": "https://www.dn.se/sverige/tomas-ramberg-kristersson-fortfarande-mera-sannolik-an-extraval/",
-      "published_at": "2026-11-15T23:58:20+01:00",
-      "fetched_at": "2026-11-16T00:01:09+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Tomas Ramberg: Kristersson fortfarande mera sannolik än extraval",
-        "summary": "Trots söndagens besked har Centern inte slutgiltigt valt sida. Det fortsatta motståndet mot att släppa in vänsterpartister i regeringen betyder att det sista ordet ännu inte är sagt. Dörren högerut finns kvar som reservutgång för Elisabeth Thand Ringqvist.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tomas Ramberg: Kristersson still more likely than snap election",
-        "summary": "Despite Sunday's announcement, the Centre Party has not yet fully picked a side. Continued opposition to letting Left Party members into the government means the final word has not yet been said. The door to the right remains open as an emergency exit for Elisabeth Thand Ringqvist."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T00:01:15+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T17:31:12+01:00",
+  "generated_at": "2026-11-18T17:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c8ef9fb7f9c3",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/GPGer9/sis-hem-stangs-ner-ungdomarna-tog-over",
+      "guid": "https://www.aftonbladet.se/nyheter/a/GPGer9/sis-hem-stangs-ner-ungdomarna-tog-over?utm_medium=rss",
+      "published_at": "2026-11-18T17:43:34+01:00",
+      "fetched_at": "2026-11-18T17:45:49+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/921d19b3-6e64-38be-ac3f-ac6a6ab65fee?format=auto&s=d1ae8707e5d3a2705b9d03e6f6d66507a19e754b&w=1000",
+      "sv": {
+        "title": "Sis-hem stängs ner – ungdomarna tog över",
+        "summary": "Statens institutionsstyrelse, Sis, har beslutat att stänga Vemyra ungdomshem i Sollefteå.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Youth home closed – the young people took over",
+        "summary": "The Swedish National Board of Institutional Care, Sis, has decided to close Vemyra youth home in Sollefteå."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T17:45:57+01:00"
+      }
+    },
     {
       "id": "200f2c8e468c",
       "schema_version": 1,
@@ -5390,33 +5417,6 @@
       "en": {
         "title": "Fire in the Emporia garage extinguished – evacuation called off",
         "summary": "Police and the rescue service are still on site at Emporia after a car caught fire inside the garage. The fire is now out and people are being let back into the shopping centre following the earlier evacuation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:32+01:00"
-      }
-    },
-    {
-      "id": "0178d3f446e2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/KrVdvo/bricanyl-forsvinner-forlossningslakarens-oro",
-      "guid": "https://www.aftonbladet.se/nyheter/a/KrVdvo/bricanyl-forsvinner-forlossningslakarens-oro?utm_medium=rss",
-      "published_at": "2026-11-14T16:50:54+01:00",
-      "fetched_at": "2026-11-14T17:07:31+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/c8ab231d-f9ff-3826-9cbd-1ab5b59c72b1?format=auto&s=65082dbe77174990eca4423b540ae4e8bd9de401&w=1000",
-      "sv": {
-        "title": "Läkarens oro – livsviktig förlossningsmedicin försvinner",
-        "summary": "”Kan inte bedriva säker förlossningsvård”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Doctor's concern – vital obstetric medicine disappearing",
-        "summary": "\"Cannot provide safe obstetric care\""
       },
       "translation": {
         "status": "done",

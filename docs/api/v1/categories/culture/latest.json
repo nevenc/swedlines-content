@@ -1,7 +1,68 @@
 {
-  "generated_at": "2026-11-18T17:31:12+01:00",
+  "generated_at": "2026-11-18T17:45:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "400b1a9a10ea",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/henning-efter-genombrottet-jag-kan-bara-gora-min-grej.c2b5aede-ab6f-570e-a1a5-3cbcf9bdafa5",
+      "guid": "c2b5aede-ab6f-570e-a1a5-3cbcf9bdafa5",
+      "published_at": "2026-11-18T17:36:00+01:00",
+      "fetched_at": "2026-11-18T17:45:50+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: Musik",
+        "Tagg: Valter Nilsson",
+        "Tagg: Artister",
+        "Tagg: Slowgold"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/9e5b5592-6c13-30d7-a05f-0b8dcfc15de8",
+      "sv": {
+        "title": "Hyllade Göteborgsartisten Henning: ”Bäst att vara lite struts”",
+        "summary": "Henning känner ingen längtan efter att bli lika stor som vännerna i Terra.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Acclaimed Göteborg artist Henning: \"Better to be a bit of an ostrich\"",
+        "summary": "Henning feels no longing to become as big as his friends in Terra."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T17:45:57+01:00"
+      }
+    },
+    {
+      "id": "9b3199340096",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/mat-dryck/elin-peters-svarar-hur-blir-man-stammis-pa-en-krog",
+      "guid": "https://www.dn.se/mat-dryck/elin-peters-svarar-hur-blir-man-stammis-pa-en-krog/",
+      "published_at": "2026-11-18T17:35:29+01:00",
+      "fetched_at": "2026-11-18T17:45:48+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/6a5f98ec-d7dd-41b0-8997-098cec1b7010.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Elin Peters svarar: Hur blir man stammis på en krog?",
+        "summary": "DN:s matredaktör Elin Peters svarar på frågor om matvett, krogrätt och god etikett.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elin Peters answers: How do you become a regular at a restaurant?",
+        "summary": "DN food editor Elin Peters answers questions on food etiquette, restaurant manners and good etiquette."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T17:45:57+01:00"
+      }
+    },
     {
       "id": "33b77d342fb0",
       "schema_version": 1,
@@ -5550,59 +5611,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T14:15:49+01:00"
-      }
-    },
-    {
-      "id": "337dce4f1d29",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/magnus-carlsson-aterforenas-med-barbados",
-      "guid": "f3887ce6-17c6-4195-8c78-e6c0ddbe6c83",
-      "published_at": "2026-11-15T11:13:28+01:00",
-      "fetched_at": "2026-11-15T11:26:42+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/7b0fa48d-cdd3-4a9f-b3b2-06e617d9db33.jpg?width=600",
-      "sv": {
-        "title": "Magnus Carlsson återförenas med Barbados",
-        "summary": "Här är glädjenyheten för alla dansbandsfans: Barbados återförenas – med Magnus Carlsson. – Nu har vi fått till det, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Magnus Carlsson reunites with Barbados",
-        "summary": "Here is the good news for all dance band fans: Barbados is reuniting – with Magnus Carlsson. – We've managed it now, he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T11:26:59+01:00"
-      }
-    },
-    {
-      "id": "e12998951b63",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/sverige/nk-avslojar-julskyltningen-",
-      "guid": "https://www.expressen.se/tv/nyheter/sverige/nk-avslojar-julskyltningen-",
-      "published_at": "2026-11-15T11:04:09+01:00",
-      "fetched_at": "2026-11-15T11:26:39+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "NK avslöjar julskyltning",
-        "summary": "Klassiska NK avtäcker årets tema",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "NK unveils Christmas window display",
-        "summary": "The classic NK unveils this year's theme"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T11:26:59+01:00"
       }
     }
   ]
