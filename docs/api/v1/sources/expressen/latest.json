@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T00:45:47+01:00",
+  "generated_at": "2026-11-18T01:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c60e46f55e39",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/27-ars-fangelse-for-trump-mordplan",
+      "guid": "https://www.expressen.se/nyheter/varlden/27-ars-fangelse-for-trump-mordplan/",
+      "published_at": "2026-11-18T00:52:00+01:00",
+      "fetched_at": "2026-11-18T01:01:19+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "27 års fängelse för Trump-mordplan",
+        "summary": "En pakistansk man döms till drygt 27 års fängelse av en amerikansk domstol för att ha planerat att mörda bland andra Donald Trump.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "27 years in prison for Trump murder plot",
+        "summary": "A Pakistani man is sentenced to just over 27 years in prison by a US court for planning to murder, among others, Donald Trump."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T01:01:24+01:00"
+      }
+    },
     {
       "id": "1fc32fe6db4d",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Ida Gabrielsson: Not willing to negotiate the government demand",
         "summary": "The Left Party is ready to continue negotiating about a government. This is what Magdalena Andersson (S) writes in a debate article in Expressen. But it requires that the Centre first chooses sides, according to V leadership's Ida Gabrielsson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:12+01:00"
-      }
-    },
-    {
-      "id": "892a38460fe7",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/putins-militara-flygbas-attackerad",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/putins-militara-flygbas-attackerad",
-      "published_at": "2026-11-14T14:03:14+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Putins flygbas attackerad",
-        "summary": "Zelenskyjs dubbla slag mot ryska nyckelmål",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Putin's air base attacked",
-        "summary": "Zelenskyy's double blow against Russian key targets"
       },
       "translation": {
         "status": "done",
