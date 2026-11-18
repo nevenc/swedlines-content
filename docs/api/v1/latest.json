@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-18T22:45:47+01:00",
+  "generated_at": "2026-11-18T23:01:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9c474ebfaa7f",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/anthropic-siktar-pa-rekordstor-borsnotering",
+      "guid": "4ce1bc96-77e2-4c0e-ae7f-0d9fa9dbb7ea",
+      "published_at": "2026-11-18T22:58:41+01:00",
+      "fetched_at": "2026-11-18T23:01:11+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/ef6ec485-56a7-46b1-af3b-bd3c4936f350.jpg?width=600",
+      "sv": {
+        "title": "Anthropic siktar på rekordstor börsnotering",
+        "summary": "Anthropic, som står bakom AI-tjänsten Claude, ska ta plats på börsen och noteringen ser ut att bli den största någonsin.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic eyes record-sized stock market listing",
+        "summary": "Anthropic, the company behind the AI service Claude, is set to list on the stock exchange, and the listing looks set to be the largest ever."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T23:01:13+01:00"
+      }
+    },
+    {
+      "id": "7383df40f0bd",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/GPGeV9/anthropic-siktar-pa-rekordstor-borsnotering",
+      "guid": "https://www.svd.se/a/GPGeV9/anthropic-siktar-pa-rekordstor-borsnotering?utm_medium=rss",
+      "published_at": "2026-11-18T22:58:34+01:00",
+      "fetched_at": "2026-11-18T23:01:08+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/71ca29fe-c502-3c77-9e0e-c5e469011218?format=auto&s=70d3815b473cb6461f84c12b0ef1c382c4dcb6d4&w=1000",
+      "sv": {
+        "title": "Anthropic siktar på rekordstor börsnotering",
+        "summary": "Anthropic, som står bakom AI-tjänsten Claude, ska ta plats på börsen och noteringen ser ut att bli…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic eyes record-sized stock market listing",
+        "summary": "Anthropic, the company behind the AI service Claude, is set to list on the stock exchange, and the listing looks set to be…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T23:01:13+01:00"
+      }
+    },
+    {
+      "id": "cbef93fae220",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345784",
+      "guid": "rss:sr.se/article/9345784",
+      "published_at": "2026-11-18T22:55:00+01:00",
+      "fetched_at": "2026-11-18T23:01:06+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Nya attacker i Gaza – tusentals palestinier på flykt",
+        "summary": "Israel har under dagen inlett en ny offensiv i Gaza. Det är den första större markräden i området sedan vapenvilan hösten 2025. Lina Malers, Ekots Mellanösternkorrespondent, berättar att tusentals palestinier nu flyr attackerna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "New attacks in Gaza – thousands of Palestinians flee",
+        "summary": "Israel has launched a new offensive in Gaza today. It is the first major ground raid in the area since the ceasefire in autumn 2025. Lina Maler, Ekot's Middle East correspondent, reports that thousands of Palestinians are now fleeing the attacks."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T23:01:13+01:00"
+      }
+    },
     {
       "id": "f9eaebd5be5a",
       "schema_version": 1,
@@ -3670,6 +3750,33 @@
       }
     },
     {
+      "id": "f6aacaa401e9",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/klimat/a/ARdXRx/avsaltningsprojekt-ger-vatten-till-miljoner",
+      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/ARdXRx/avsaltningsprojekt-ger-vatten-till-miljoner?utm_medium=rss",
+      "published_at": "2026-11-18T17:50:57+01:00",
+      "fetched_at": "2026-11-18T23:01:08+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/e5c2e6cb-fc43-3ba6-84ef-d71c62bb96cd?format=auto&s=f7347dd6e81312278df05fa25edb920ec78f31d6&w=1000",
+      "sv": {
+        "title": "Avsaltningsprojekt ger vatten till miljoner",
+        "summary": "COP31 Investering på 67 miljarder kronor",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Desalination project provides water to millions",
+        "summary": "COP31 Investment of SEK 67 billion"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T23:01:13+01:00"
+      }
+    },
+    {
       "id": "693b1bfaabb2",
       "schema_version": 1,
       "source": "sr",
@@ -5356,114 +5463,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "096a7a4429b2",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/ny-israelisk-insats-i-gaza",
-      "guid": "3f145db4-c1d5-4fc4-bea5-048e91a73951",
-      "published_at": "2026-11-18T16:16:57+01:00",
-      "fetched_at": "2026-11-18T16:31:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/1b59d588-6d03-41e7-861e-9798da230aa8.jpeg?width=600",
-      "sv": {
-        "title": "Ny israelisk insats i Gaza",
-        "summary": "Den israeliska militären har på onsdagen inlett en insats i Gaza.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New Israeli operation in Gaza",
-        "summary": "The Israeli military launched an operation in Gaza on Wednesday."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "19e61deb1592",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/akesson-sd-har-haft-samtal-med-ungdomsforbundet",
-      "guid": "https://www.dn.se/sverige/akesson-sd-har-haft-samtal-med-ungdomsforbundet/",
-      "published_at": "2026-11-18T16:16:05+01:00",
-      "fetched_at": "2026-11-18T16:31:00+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/b7d5eb05-d169-4560-8840-c7626149617b.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Åkesson (SD): ”Har haft samtal med ungdomsförbundet”",
-        "summary": "SD-ledaren Jimmie Åkesson har haft samtal med partiets ungdomsförbund, efter DN:s granskning om kulturen i Ungsvenskarna. – Jag känner mig förvissad om att man tar det på det allvar som det förtjänar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Åkesson (SD): \"Have had talks with the youth league\"",
-        "summary": "SD leader Jimmie Åkesson has held talks with the party's youth league, following DN's review of the culture in Ungsvenskarna. – I am confident that they are taking it as seriously as it deserves."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "02442d1e0a61",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/pricers-franska-friare-faller-vill-dubbla-etiketterna-pa-fyra-ar",
-      "guid": "a0b83b12-45ef-4fc4-b90d-8db73e6f2a05",
-      "published_at": "2026-11-18T16:15:34+01:00",
-      "fetched_at": "2026-11-18T16:31:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/d3d476de-4c54-4172-a0e9-1febd66bc2c2.jpeg?width=600",
-      "sv": {
-        "title": "Pricers franska friare faller – vill dubbla etiketterna på fyra år",
-        "summary": "Pricers franska friare, Vusion, faller på Parisbörsen efter att bolaget lanserat nya mål. Ett köp av Pricer pekas ut som en nyckel i att nå ambitionen om att fördubbla den installerade basen av hylletiketter till 2030.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Pricer's French suitor Vusion falls – wants to double electronic shelf labels in four years",
-        "summary": "Pricer's French suitor, Vusion, falls on the Paris stock exchange after the company launched new targets. A purchase of Pricer is singled out as a key to reaching the ambition to double the installed base of shelf labels by 2030."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "912860cd3314",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/tjeckiens-beslut-stoppar-ryssland-fran-u18-vm",
-      "guid": "0dfee1b0-46ad-46a0-9364-87cf8d9d699e",
-      "published_at": "2026-11-18T16:13:15+01:00",
-      "fetched_at": "2026-11-18T16:15:53+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/53be0e28-4233-436a-add0-8bdf9299a92c.jpg?width=600",
-      "sv": {
-        "title": "Tjeckiens beslut: Stoppar Ryssland från U18-VM",
-        "summary": "Tjeckien stoppar Ryssland från att spela damernas U18-VM i ishockey i januari, meddelar den tjeckiska regeringen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Czech decision: Russia barred from U18 World Championship",
-        "summary": "The Czech Republic is barring Russia from taking part in the women's U18 ice hockey World Championship in January, the Czech government announces."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:16:01+01:00"
       }
     }
   ]
