@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T04:45:51+01:00",
+  "generated_at": "2026-11-18T05:01:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "59ca5a3e2be1",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/6PjWGo/en-till-sjukhus-efter-brand",
+      "guid": "https://www.aftonbladet.se/nyheter/a/6PjWGo/en-till-sjukhus-efter-brand?utm_medium=rss",
+      "published_at": "2026-11-18T04:54:21+01:00",
+      "fetched_at": "2026-11-18T05:01:09+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/20764ebd-b87d-369a-85ab-0f5d4ce56d51?format=auto&s=cd04f535844f893a53c17607106bfd69f603ffcd&w=1000",
+      "sv": {
+        "title": "En till sjukhus efter brand",
+        "summary": "En person har förts till sjukhus i samband med en brand i en lägenhet i Trollhättan, skriver polisen…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Another person taken to hospital after fire",
+        "summary": "A person has been taken to hospital following a fire in a flat in Trollhättan, police say…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:01:17+01:00"
+      }
+    },
     {
       "id": "359a3fd5420a",
       "schema_version": 1,
@@ -5407,32 +5434,6 @@
       "en": {
         "title": "Letter. Let 18-year-olds shop at Systembolaget",
         "summary": "LETTER. Give all adult Swedes the opportunity to buy alcohol legally and take responsibility for their own decisions. Many 18- and 19-year-olds already drink alcohol, at home or out at bars, writes Vendela Catenacci."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "fd9ae8a0e08f",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/12-november-missa-inte-dagens-nyheter",
-      "guid": "https://www.dn.se/varlden/12-november-missa-inte-dagens-nyheter/",
-      "published_at": "2026-11-12T21:04:03+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "12 november: Missa inte dagens nyheter",
-        "summary": "SD:s Rasmus Giertz avgår efter DN:s granskning, Nvidias vd lämnar och snösmocka – här är dagens nyheter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "12 November: Don't miss today's news",
-        "summary": "SD's Rasmus Giertz resigns after DN's investigation, Nvidia's CEO leaves and a snow dump – here is today's news."
       },
       "translation": {
         "status": "done",
