@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T23:31:01+01:00",
+  "generated_at": "2026-11-18T23:41:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "13b2b3daea73",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/expertens-forvaning-over-putins-narvaro-teorin",
+      "guid": "https://www.expressen.se/nyheter/varlden/expertens-forvaning-over-putins-narvaro-teorin/",
+      "published_at": "2026-11-18T23:40:40+01:00",
+      "fetched_at": "2026-11-18T23:41:47+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Expertens förvåning över Putins närvaro – teorin",
+        "summary": "Donald Trump besöker Kinas president Xi Jinping – och på plats är också Vladimir Putin. Det förvånar Kinaexperten Björn Jerdén. – Putin har ju harvat i norrettan här ett par säsonger, men nu bjuds han in till Champions League, säger han i ”Aktuellt”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expert surprised by Putin's presence – the theory",
+        "summary": "Donald Trump is visiting Chinese President Xi Jinping – and Vladimir Putin is also present. China expert Björn Jerdén is surprised by this. – Putin has been grinding away in the minor leagues here for a couple of seasons, but now he's being invited to the Champions League, he says on \"Aktuellt\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T23:41:52+01:00"
+      }
+    },
     {
       "id": "cbef93fae220",
       "schema_version": 1,
@@ -5310,33 +5336,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T04:31:00+01:00"
-      }
-    },
-    {
-      "id": "7cfffe1378d3",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/uppgifter-iran-forbereder-bombdad-mot-washington",
-      "guid": "https://www.dn.se/varlden/uppgifter-iran-forbereder-bombdad-mot-washington/",
-      "published_at": "2026-11-17T04:13:51+01:00",
-      "fetched_at": "2026-11-17T04:15:47+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/7f556015-a97b-404c-bff1-1d5a4321a3a1.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Uppgifter: Iran förbereder bombdåd mot Washington",
-        "summary": "WASHINGTON. Iran gör upp planer på ett möjligt attentat med en ”smutsig bomb” i Washington DC, enligt flera underrättelsekällor till CNN. Det föreligger inget omedelbart hot utan handlar om att landet vill ha alternativ om de behöver eskalera konflikten med USA, uppger tv-kanalen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: Iran preparing bomb attack on Washington",
-        "summary": "WASHINGTON. Iran is making plans for a possible attack with a \"dirty bomb\" in Washington DC, according to several intelligence sources speaking to CNN. There is no immediate threat, but the country wants options in case it needs to escalate the conflict with the US, the TV network reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T04:15:53+01:00"
       }
     }
   ]

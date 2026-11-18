@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T23:31:01+01:00",
+  "generated_at": "2026-11-18T23:41:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "13b2b3daea73",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/expertens-forvaning-over-putins-narvaro-teorin",
+      "guid": "https://www.expressen.se/nyheter/varlden/expertens-forvaning-over-putins-narvaro-teorin/",
+      "published_at": "2026-11-18T23:40:40+01:00",
+      "fetched_at": "2026-11-18T23:41:47+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Expertens förvåning över Putins närvaro – teorin",
+        "summary": "Donald Trump besöker Kinas president Xi Jinping – och på plats är också Vladimir Putin. Det förvånar Kinaexperten Björn Jerdén. – Putin har ju harvat i norrettan här ett par säsonger, men nu bjuds han in till Champions League, säger han i ”Aktuellt”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expert surprised by Putin's presence – the theory",
+        "summary": "Donald Trump is visiting Chinese President Xi Jinping – and Vladimir Putin is also present. China expert Björn Jerdén is surprised by this. – Putin has been grinding away in the minor leagues here for a couple of seasons, but now he's being invited to the Champions League, he says on \"Aktuellt\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T23:41:52+01:00"
+      }
+    },
     {
       "id": "22fb07d5e16e",
       "schema_version": 1,
@@ -5430,33 +5456,6 @@
       "en": {
         "title": "Delays across the country",
         "summary": "Train traffic hit by telephone trouble"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "6222b704fd56",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/fondproffset-varnar-for-skakig-ai-resa-men-koper-garna-anthropic",
-      "guid": "d21261a8-9a19-4c15-ba73-1a60f8e3c84a",
-      "published_at": "2026-11-18T16:19:54+01:00",
-      "fetched_at": "2026-11-18T16:31:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b00969df-1462-44e9-a402-1f202c9e9100.jpeg?width=600",
-      "sv": {
-        "title": "Fondproffset varnar för skakig AI-resa – men köper gärna Anthropic",
-        "summary": "AI-festen fortsätter men räkna med fortsatt turbulens när investerarna blir mer kräsna. SEB:s fondförvaltare Johan Söderström gör tummen upp för AI-labbet Anthropic inför börsnoteringen men varnar för att chipjätten Nvidia har en skakig period framför sig.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fund pro warns of bumpy AI ride – but happily buys Anthropic",
-        "summary": "The AI party continues, but expect ongoing turbulence as investors become more selective. SEB fund manager Johan Söderström gives a thumbs-up to AI lab Anthropic ahead of its stock market listing, but warns that chip giant Nvidia has a rocky period ahead."
       },
       "translation": {
         "status": "done",
