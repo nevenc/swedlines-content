@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T04:31:03+01:00",
+  "generated_at": "2026-11-18T04:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2ef9e87bd2c7",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/grov-mordbrand-i-trollhattan",
+      "guid": "https://www.expressen.se/nyheter/sverige/grov-mordbrand-i-trollhattan/",
+      "published_at": "2026-11-18T04:39:30+01:00",
+      "fetched_at": "2026-11-18T04:45:45+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Grov mordbrand i Trollhättan",
+        "summary": "Det brinner i en lägenhet i Trollhättan, skriver polisen på sin hemsida. .",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Aggravated arson in Trollhättan",
+        "summary": "A fire is burning in an apartment in Trollhättan, the police write on their website."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T04:45:50+01:00"
+      }
+    },
     {
       "id": "05e005a1db4d",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:58:49+01:00"
-      }
-    },
-    {
-      "id": "0ffc3fe8ca01",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=a9c07dcd-56e9-4157-8eb2-bdc614b44207",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=a9c07dcd-56e9-4157-8eb2-bdc614b44207",
-      "published_at": "2026-11-14T14:32:20+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "En död i tågolycka utanför Värnamo",
-        "summary": "Tågolycka utanför Värnamo",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "One dead in train crash outside Värnamo",
-        "summary": "Train crash outside Värnamo"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:12+01:00"
       }
     }
   ]
