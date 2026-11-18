@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T09:01:21+01:00",
+  "generated_at": "2026-11-18T09:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "91daec1febe7",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/OypljE/kristersson-lockar-c-med-hjartefraga",
+      "guid": "https://www.svd.se/a/OypljE/kristersson-lockar-c-med-hjartefraga?utm_medium=rss",
+      "published_at": "2026-11-18T09:01:19+01:00",
+      "fetched_at": "2026-11-18T09:15:41+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/20fe5d5c-9fce-37f5-b86f-e82a3a5e6500?format=auto&s=95dcdc2fc7fbc1d38d47f33419897194f9c5874b&w=1000",
+      "sv": {
+        "title": "Kristersson lockar C med hjärtefråga",
+        "summary": "M-ledaren Ulf Kristersson försöker locka Centerpartiet med nya regler för strandskydd, enligt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson tries to lure C with core issue",
+        "summary": "Moderates leader Ulf Kristersson (M) is trying to lure the Centre Party with new rules on shoreline protection, according to…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:15:50+01:00"
+      }
+    },
     {
       "id": "99721240f330",
       "schema_version": 1,
@@ -5193,29 +5220,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T10:06:12+01:00"
-      }
-    },
-    {
-      "id": "708089864631",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79926",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79926&utm_medium=rss",
-      "published_at": "2026-11-15T08:32:58+01:00",
-      "fetched_at": "2026-11-15T10:05:48+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Man påkörd i centrala Stockholm – förare smet"
-      },
-      "en": {
-        "title": "Man hit by car in central Stockholm – driver fled"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T10:06:15+01:00"
       }
     }
   ]

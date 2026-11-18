@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-18T09:01:21+01:00",
+  "generated_at": "2026-11-18T09:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dc385950f105",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/svedala/fotgangare-pakord-i-klagerup",
+      "guid": "3244b9cd-afd2-4ff0-8464-c841a9f9e28f",
+      "published_at": "2026-11-18T09:14:36+01:00",
+      "fetched_at": "2026-11-18T09:15:44+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/0b8831bd-3f0f-431c-8466-7133d1b5d822.jpeg?width=600",
+      "sv": {
+        "title": "Fotgängare påkörd i Klågerup",
+        "summary": "En bilist körde på en kvinnlig fotgängare på Lundavägen i Klågerup vid 08-tiden på onsdagsmorgonen. Enligt larmet skedde påkörningen på ett övergångsställe. Polis, räddningstjänst och två ambulanser är på plats. Skadeläget är oklart.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pedestrian hit in Klågerup",
+        "summary": "A driver struck a female pedestrian on Lundavägen in Klågerup around 8 a.m. on Wednesday morning. According to the alarm, the collision happened at a pedestrian crossing. Police, the rescue service and two ambulances are on site. The extent of injuries is unclear."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:15:50+01:00"
+      }
+    },
+    {
+      "id": "694a78d51202",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/44-aring-ny-agare-tar-over-villa",
+      "guid": "860b04d9-0387-471a-b77c-8df2120baeda",
+      "published_at": "2026-11-18T09:13:47+01:00",
+      "fetched_at": "2026-11-18T09:15:44+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "44-åring ny ägare tar över villa"
+      },
+      "en": {
+        "title": "44-year-old new owner takes over villa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:15:50+01:00"
+      }
+    },
+    {
+      "id": "f8dff3a52cff",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/kristersson-lockar-c-med-hjartefraga",
+      "guid": "6a963299-b707-485b-a4b3-bdcb2e9a635e",
+      "published_at": "2026-11-18T09:07:54+01:00",
+      "fetched_at": "2026-11-18T09:15:44+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/b5a4db19-e936-4240-be8e-bcbf9c3c9655.jpg?width=600",
+      "sv": {
+        "title": "Kristersson lockar C med hjärtefråga",
+        "summary": "M-ledaren Ulf Kristersson försöker locka Centerpartiet med nya regler för strandskydd, enligt uppgifter till TT. Både han och S-ledaren Magdalena Andersson har fått en vecka till på sig för att ro en ny regering i hamn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson tries to lure C with core issue",
+        "summary": "Moderates leader Ulf Kristersson (M) is trying to lure the Centre Party with new rules on shoreline protection, according to information to TT. Both he and Social Democrats leader Magdalena Andersson (S) have been given one more week to steer a new government into harbour."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:15:50+01:00"
+      }
+    },
     {
       "id": "a4bd2f6cc34a",
       "schema_version": 1,
@@ -5095,84 +5172,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T23:15:46+01:00"
-      }
-    },
-    {
-      "id": "43d9e1c9de19",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/massiv-protest-mot-public-service-forandringar",
-      "guid": "6dc41e8f-6c7b-4dcd-82c7-7ddf68ec8627",
-      "published_at": "2026-11-15T22:48:23+01:00",
-      "fetched_at": "2026-11-15T23:01:10+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/cf73f6d3-8ae0-4580-81a0-062ca1dcaad5.jpg?width=600",
-      "sv": {
-        "title": "Massiv protest mot public service-förändringar",
-        "summary": "Hundratusentals människor samlades på den tjeckiska huvudstaden Prags gator för omfattande demonstrationer mot planerade nedskärningar av landets public service-bolag. Kritiker befarar att yttrande- och pressfriheten inskränks.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Massive protest against public service changes",
-        "summary": "Hundreds of thousands of people gathered on the streets of the Czech capital Prague for large-scale demonstrations against planned cuts to the country's public service broadcasters. Critics fear that freedom of expression and freedom of the press will be restricted."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T23:01:14+01:00"
-      }
-    },
-    {
-      "id": "47c3a1191bc2",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/ukraina-europa-ska-samlas-for-att-ena-fronten",
-      "guid": "17629230-fbbf-49e2-b880-c9ab4097d44f",
-      "published_at": "2026-11-15T22:44:02+01:00",
-      "fetched_at": "2026-11-15T22:45:41+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/3a0e1d00-f316-45c8-b382-769dcb0180a5.jpg?width=600",
-      "sv": {
-        "title": "Ukraina: Europa ska samlas för att ena fronten",
-        "summary": "Ukraina hoppas på en stadig och gemensam europeisk hållning när man tar plats vid förhandlingsbordet med den ryska invasionsmakten. – Det är ett viktigt möte och kan bli ett historiskt sådant, säger president Volodymyr Zelenskyj när han flaggar för ett Europamöte.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ukraine: Europe to rally to unite the front",
-        "summary": "Ukraine hopes for a steady and united European position as it takes its place at the negotiating table with the Russian invading power. – It is an important meeting and could become a historic one, says President Volodymyr Zelenskyy as he signals a European summit."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T22:45:45+01:00"
-      }
-    },
-    {
-      "id": "28aaad30e7a4",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/moa-berglof/nu-far-nooshi-bara-saga-ja",
-      "guid": "c96664f0-e989-4b00-9d29-a98dbddac0c6",
-      "published_at": "2026-11-15T21:14:13+01:00",
-      "fetched_at": "2026-11-15T21:15:47+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/3adcdf24-9f53-4b12-b49d-c39dc3a9585b.jpeg?width=600",
-      "sv": {
-        "title": "Nu får Nooshi bara säga ja"
-      },
-      "en": {
-        "title": "Now Nooshi can only say yes"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T21:15:49+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T09:01:21+01:00",
+  "generated_at": "2026-11-18T09:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "73e86e4c0b9b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/hackkycklingen-har-blivit-folkkar",
+      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/hackkycklingen-har-blivit-folkkar/",
+      "published_at": "2026-11-18T08:59:40+01:00",
+      "fetched_at": "2026-11-18T09:15:42+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Hackkycklingen har blivit folkkär",
+        "summary": "Trenden har pekat ditåt ett tag, men nu har det till slut hänt: Moderaterna är Sveriges största parti i en opinionsmätning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hack chicken has become popular",
+        "summary": "The trend has been pointing that way for a while, but now it has finally happened: the Moderates are Sweden's largest party in an opinion poll."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:15:50+01:00"
+      }
+    },
     {
       "id": "c6526d7d9f60",
       "schema_version": 1,
@@ -5161,32 +5187,6 @@
       "en": {
         "title": "Andersson clarifies after article",
         "summary": "Magdalena Andersson's clarification on V"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:22+01:00"
-      }
-    },
-    {
-      "id": "860d1447094c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/var-hamas-gisslan-larde-kanna-sin-fangvaktare",
-      "guid": "https://www.expressen.se/nyheter/varlden/var-hamas-gisslan-larde-kanna-sin-fangvaktare/",
-      "published_at": "2026-11-14T19:52:17+01:00",
-      "fetched_at": "2026-11-14T20:30:10+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Var Hamas gisslan – lärde känna sin fångvaktare",
-        "summary": "Som Hamas gisslan i Gaza förde Shoshan Hakan dagliga samtal med sin fångvaktare. En bisarr vänskap uppstod med en man som inte skulle tveka att döda henne. – Samtidigt hade han en slags emotionell intelligens, Att vi kunde prata med varandra ger mig trots allt hopp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Was Hamas hostage – got to know her captor",
-        "summary": "As a Hamas hostage in Gaza, Shoshan Hakan had daily conversations with her captor. A bizarre friendship arose with a man who would not hesitate to kill her. – At the same time he had a kind of emotional intelligence. That we could talk to each other gives me hope after all."
       },
       "translation": {
         "status": "done",
