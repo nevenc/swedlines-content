@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T12:01:25+01:00",
+  "generated_at": "2026-11-18T12:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7f0890d383fe",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/arne-goes-to-space-lassgard-och-jahkel-ar-en-frojd-men-det-blir-for-barnsligt",
+      "guid": "3fe1da5f-c7e7-4ec9-a7e4-ae729fd24e9b",
+      "published_at": "2026-11-18T12:03:28+01:00",
+      "fetched_at": "2026-11-18T12:15:48+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/e8d3543a-d47a-41ea-a487-a5079ea9569d.jpeg?width=600",
+      "sv": {
+        "title": "”Arne goes to space”: Lassgård och Jähkel är en fröjd – men det blir för barnsligt",
+        "summary": "Skådespelarna återförenas för första gången sedan ”Jägarna” och spelar två bröder som träffar en man från rymden.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”Arne goes to space”: Lassgård and Jähkel are a delight – but it becomes too childish",
+        "summary": "The actors reunite for the first time since ”Jägarna” and play two brothers who meet a man from space."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T12:15:57+01:00"
+      }
+    },
     {
       "id": "7fd987e7c27c",
       "schema_version": 1,
@@ -5151,33 +5178,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T09:31:08+01:00"
-      }
-    },
-    {
-      "id": "fa614aef8b01",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/telia-och-nokia-planerar-ai-satsningar",
-      "guid": "5d7132d1-1e1e-4d43-91d2-882a5fd2ed86",
-      "published_at": "2026-11-16T09:11:50+01:00",
-      "fetched_at": "2026-11-16T09:15:42+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/9e6c2dcb-9078-47f3-aca2-a6eced520be6.jpg?width=600",
-      "sv": {
-        "title": "Telia och Nokia planerar AI-satsningar",
-        "summary": "Telia har tillsammans med fyra andra bolag bildat ett konsortium för att få bygga AI-datacenter, uppger mobiloperatören.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Telia and Nokia plan AI investments",
-        "summary": "Telia has formed a consortium with four other companies to be allowed to build AI data centres, the mobile operator reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:15:48+01:00"
       }
     }
   ]
