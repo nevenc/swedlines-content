@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T03:45:48+01:00",
+  "generated_at": "2026-11-18T04:01:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "359a3fd5420a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/trelleborg/brand-i-sophus-i-trelleborg",
+      "guid": "7ba224a4-c371-4bf6-b0e4-8fa84f6a80fd",
+      "published_at": "2026-11-18T03:56:07+01:00",
+      "fetched_at": "2026-11-18T04:01:13+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Brand i sophus i Trelleborg",
+        "summary": "Klockan 03.08 natten till onsdag inkom ett larm om en brand i byggnad i Trelleborg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fire in waste-collection building in Trelleborg",
+        "summary": "At 03.08 on Wednesday night, an alarm was received about a fire in a building in Trelleborg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T04:01:15+01:00"
+      }
+    },
     {
       "id": "05e005a1db4d",
       "schema_version": 1,
@@ -5407,32 +5433,6 @@
       "en": {
         "title": "12 November: Don't miss today's news",
         "summary": "SD's Rasmus Giertz resigns after DN's investigation, Nvidia's CEO leaves and a snow dump – here is today's news."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "3748c6ce6d81",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/skane/raddningsinsats-for-ensamseglare-soder-om-trelleborg",
-      "guid": "https://www.svt.se/nyheter/lokalt/skane/raddningsinsats-for-ensamseglare-soder-om-trelleborg",
-      "published_at": "2026-11-12T20:11:53+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Seglare utanför Trelleborg räddad efter omfattande insats",
-        "summary": "Ensamseglaren utanför Trelleborg har nu blivit räddad och är på väg till sjukhus med helikopter efter en räddningsinsats som pågått sedan torsdagseftermiddagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sailor off Trelleborg rescued after extensive operation",
-        "summary": "The solo sailor off Trelleborg has now been rescued and is on his way to hospital by helicopter after a rescue operation that had been under way since Thursday afternoon."
       },
       "translation": {
         "status": "done",
