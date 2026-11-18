@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T05:01:18+01:00",
+  "generated_at": "2026-11-18T05:10:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "305b37035256",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/detta-hander-onsdag-18-november-fhgDC",
+      "guid": "6ab96499-1cfe-46ca-a59d-0c224efcd056",
+      "published_at": "2026-11-18T05:00:00+01:00",
+      "fetched_at": "2026-11-18T05:10:42+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Detta händer onsdag 18 november",
+        "summary": "Bland onsdagens rapportbolag finns Sveafastigheter och Elon. För den som letar julklappsinspiration går HUI ut med ”Årets julklapp” under morgonen. Under kvällen släpper Fed protokollet från sitt senaste räntemöte.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This happens on Wednesday 18 November",
+        "summary": "Among Wednesday's earnings reports are Sveafastigheter and Elon. For those looking for Christmas gift inspiration, HUI is publishing ”Årets julklapp” in the morning. In the evening, the Fed releases the minutes from its latest interest rate meeting."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:10:48+01:00"
+      }
+    },
     {
       "id": "3da7a7f0c1e6",
       "schema_version": 1,
@@ -5224,33 +5250,6 @@
       "en": {
         "title": "Anders Jensen: Convinced we will end up on the stock exchange",
         "summary": "CPP Investments and Ontario Teachers become co-owners of Cary Group together with Nordic Capital. At the same time, CVC is bought out."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:15:46+01:00"
-      }
-    },
-    {
-      "id": "3be36d988a3a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/fem-saker-att-ha-koll-pa-infor-borsoppningen-5vQK8",
-      "guid": "3d85edd2-94f5-481b-bba4-adb9230ab95f",
-      "published_at": "2026-11-17T08:06:36+01:00",
-      "fetched_at": "2026-11-17T08:15:40+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/828e9a7a-2657-423f-adab-c9841217dc47.jpeg?width=600",
-      "sv": {
-        "title": "Fem saker att ha koll på inför börsöppningen",
-        "summary": "Stockholmsbörsen väntas inleda handelsdagen på rött, likt övriga europeiska börser. Rapporterande Nibe överträffade förväntningarna. Här är fem saker att ha koll på inför börsöppningen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Five things to keep an eye on ahead of the stock market opening",
-        "summary": "The Stockholm stock exchange is expected to open the trading day in the red, like other European exchanges. Reporting Nibe beat expectations. Here are five things to keep an eye on ahead of the market opening."
       },
       "translation": {
         "status": "done",

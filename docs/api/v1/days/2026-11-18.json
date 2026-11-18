@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-18T05:01:18+01:00",
-  "count": 23,
+  "generated_at": "2026-11-18T05:10:48+01:00",
+  "count": 25,
   "items": [
+    {
+      "id": "305b37035256",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/detta-hander-onsdag-18-november-fhgDC",
+      "guid": "6ab96499-1cfe-46ca-a59d-0c224efcd056",
+      "published_at": "2026-11-18T05:00:00+01:00",
+      "fetched_at": "2026-11-18T05:10:42+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Detta händer onsdag 18 november",
+        "summary": "Bland onsdagens rapportbolag finns Sveafastigheter och Elon. För den som letar julklappsinspiration går HUI ut med ”Årets julklapp” under morgonen. Under kvällen släpper Fed protokollet från sitt senaste räntemöte.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This happens on Wednesday 18 November",
+        "summary": "Among Wednesday's earnings reports are Sveafastigheter and Elon. For those looking for Christmas gift inspiration, HUI is publishing ”Årets julklapp” in the morning. In the evening, the Fed releases the minutes from its latest interest rate meeting."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:10:48+01:00"
+      }
+    },
+    {
+      "id": "3c562989dffd",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Qrog2x/autistiske-albin-30-forsvann-fran-strangnas",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Qrog2x/autistiske-albin-30-forsvann-fran-strangnas?utm_medium=rss",
+      "published_at": "2026-11-18T05:00:00+01:00",
+      "fetched_at": "2026-11-18T05:10:41+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/757f4941-361d-3e8b-bd57-a6ce5c0c30e3?format=auto&s=10597b6fd5f192ce0023808fa141a38605fac117&w=1000",
+      "sv": {
+        "title": "Skulle tälta – sen försvann Albin, 30",
+        "summary": "Söks av Missing People ✓ Familjens vädjan",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Planned to camp – then Albin, 30, disappeared",
+        "summary": "Searched for by Missing People ✓ The family's appeal"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T05:10:48+01:00"
+      }
+    },
     {
       "id": "59ca5a3e2be1",
       "schema_version": 1,
