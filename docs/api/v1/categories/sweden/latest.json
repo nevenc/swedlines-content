@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-18T09:45:57+01:00",
+  "generated_at": "2026-11-18T10:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "35ca18d3187c",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/27eYCBmVlTdnGs2Xnv3XOq/stor-brand-pa-stena-recycling-inte-under-kontroll",
+      "guid": "27eYCBmVlTdnGs2Xnv3XOq",
+      "published_at": "2026-11-18T09:58:34+01:00",
+      "fetched_at": "2026-11-18T10:01:18+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Stor brand på Stena Recycling: ”Inte under kontroll”",
+        "summary": "Larmet inkom vid kvart över fem på onsdagsmorgonen. Tolv enheter från Halmstad och Laholm kämpar med släckningsarbetet. Det är kraftig rökutveckling på platsen. Spridningsrisken var tidigare stor men uppges ha minskat.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Major fire at Stena Recycling: \"Not under control\"",
+        "summary": "The alarm was raised at a quarter past five on Wednesday morning. Twelve units from Halmstad and Laholm are fighting the blaze. There is heavy smoke at the site. The risk of spread was previously high but is reported to have decreased."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:01:25+01:00"
+      }
+    },
     {
       "id": "dc385950f105",
       "schema_version": 1,
@@ -5396,40 +5425,6 @@
       "en": {
         "title": "\"Stop the erosion of higher education resources, strengthen incentives to get an education.\"",
         "summary": "A higher education degree means years of study, often with loans and forgone earnings. The investment rests on trust that the effort pays off, writes representatives of Saco, the central organisation of Swedish academics."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:02+01:00"
-      }
-    },
-    {
-      "id": "89fd2dcebce9",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/fria-ord/vada-valfrihet-vi-fick-bara-ta-det-aldreboende-som-hade-plats.a77f39ba-98ed-588d-a953-f5d3421bc59c",
-      "guid": "a77f39ba-98ed-588d-a953-f5d3421bc59c",
-      "published_at": "2026-11-14T05:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Fria ord",
-        "Tagg: Hemtjänst",
-        "Tagg: Äldreomsorg",
-        "Tagg: Lagen om valfrihet",
-        "Tagg: Göteborg"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/745f46d8-6ab5-3d33-9407-38fec01041c0",
-      "sv": {
-        "title": "Vadå valfrihet – vi fick bara ta det äldreboende som hade plats",
-        "summary": "Sluta prata om en valfrihet som ändå inte existerar, skriver ”Anhörig”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "What freedom of choice? We only got the care home that had a place",
-        "summary": "Stop talking about a freedom of choice that does not exist, writes \"Anhörig\"."
       },
       "translation": {
         "status": "done",
