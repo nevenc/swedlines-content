@@ -1,7 +1,137 @@
 {
-  "generated_at": "2026-11-18T09:15:50+01:00",
-  "count": 196,
+  "generated_at": "2026-11-18T09:31:21+01:00",
+  "count": 205,
   "items": [
+    {
+      "id": "a4a200e0fe01",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/frida-karlssons-misstankte-stalker-forsvunnen",
+      "guid": "bed9e0ca-45cc-4a07-86a8-1f008c89b787",
+      "published_at": "2026-11-18T09:27:42+01:00",
+      "fetched_at": "2026-11-18T09:31:15+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/42e06ea6-f474-4ebc-905a-5c4f03ab5cdd.jpg?width=600",
+      "sv": {
+        "title": "Frida Karlssons misstänkte stalker försvunnen",
+        "summary": "Det blev dramatiskt direkt när rättegången mot mannen som misstänks ha förföljt Frida Karlsson skulle inledas. Mannen infann sig inte till Eskilstuna tingsrätt och huvudförhandlingen fick skjutas upp. – Jag har ingen uppgift om varför, säger hans försvarare Hozan Feyzi.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Frida Karlsson's suspected stalker missing",
+        "summary": "Things took a dramatic turn as the trial of the man suspected of stalking Frida Karlsson was about to begin. The man did not show up at Eskilstuna district court and the main hearing had to be postponed. – I have no information on why, says his defence counsel Hozan Feyzi."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:31:20+01:00"
+      }
+    },
+    {
+      "id": "6950cb3d2f83",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/kultur/mansklig-ar-arets-ord",
+      "guid": "https://www.svt.se/kultur/mansklig-ar-arets-ord",
+      "published_at": "2026-11-18T09:25:06+01:00",
+      "fetched_at": "2026-11-18T09:31:05+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "”Mänsklig” är årets ord",
+        "summary": "”Mänsklig” har utsetts till årets ord av Cambridge University Press.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Mänsklig\" is word of the year",
+        "summary": "\"Mänsklig\" has been named word of the year by Cambridge University Press."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:31:20+01:00"
+      }
+    },
+    {
+      "id": "579152d3e2c4",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80050",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80050&utm_medium=rss",
+      "published_at": "2026-11-18T09:24:29+01:00",
+      "fetched_at": "2026-11-18T09:31:09+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Norge: Ökad risk för terrordåd"
+      },
+      "en": {
+        "title": "Norway: Increased risk of terror attack"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:31:20+01:00"
+      }
+    },
+    {
+      "id": "c1fc0660b845",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/arets-nast-basta-aktie-rusar-igen",
+      "guid": "e30438fa-a51f-4b17-9cbe-fcc578479ce0",
+      "published_at": "2026-11-18T09:23:14+01:00",
+      "fetched_at": "2026-11-18T09:31:13+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d07b3d24-4032-4796-990b-5b1719d7c55d.jpeg?width=600",
+      "sv": {
+        "title": "Årets näst bästa aktie rusar igen",
+        "summary": "Hemelektronikskedjan Elons börsrally fortsätter i och med onsdagens rapport. Sedan årsskiftet är aktien upp 220 procent. ”Vi börjar nu få ut mer av Elons potential”, säger vd Henrik Aronsson i rapporten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Year's second-best stock surges again",
+        "summary": "Home electronics chain Elon's stock rally continues with Wednesday's report. Since the start of the year the share is up 220 percent. \"We are now starting to realise more of Elon's potential,\" says CEO Henrik Aronsson in the report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:31:20+01:00"
+      }
+    },
+    {
+      "id": "f3b9fcd07f28",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/gruvbolag-pressas-pa-ljusrod-stockholmsbors",
+      "guid": "7b6e6962-b1c1-41cc-9885-40743b511949",
+      "published_at": "2026-11-18T09:21:43+01:00",
+      "fetched_at": "2026-11-18T09:31:13+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d6c3d3dc-2c98-4585-ac55-179f74b440f8.jpeg?width=600",
+      "sv": {
+        "title": "Gruvbolag pressas på ljusröd Stockholmsbörs",
+        "summary": "Stockholmsbörsen inleder onsdagen med små rörelser efter tisdagskvällens starka Nvidiarapport. Flera gruvbolag pressas i den inledande handeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mining companies pressured on bright red Stockholm Stock Exchange",
+        "summary": "The Stockholm Stock Exchange opens Wednesday with small movements after Tuesday evening's strong Nvidia report. Several mining companies are under pressure in early trading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:31:20+01:00"
+      }
+    },
     {
       "id": "dc385950f105",
       "schema_version": 1,
@@ -50,6 +180,109 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T09:15:50+01:00"
+      }
+    },
+    {
+      "id": "23d758d3f39f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/nyheter/lugn-borsoppning-sveafastigheter-lyfter-pa-rapport",
+      "guid": "f0bcde66-a585-541a-9695-6d6c28d0452c",
+      "published_at": "2026-11-18T09:12:58+01:00",
+      "fetched_at": "2026-11-18T09:31:13+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Lugn börsöppning - Sveafastigheter lyfter på rapport"
+      },
+      "en": {
+        "title": "Calm market opening – Sveafastigheter lifts on report"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:31:20+01:00"
+      }
+    },
+    {
+      "id": "703e76cdcbd0",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/dippkoparna-gjorde-ratt",
+      "guid": "b81c02f3-af8b-43b0-ac24-6d6a11217995",
+      "published_at": "2026-11-18T09:11:46+01:00",
+      "fetched_at": "2026-11-18T09:31:13+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/64b93d10-1f6d-45b2-ae5a-926b5ea27b77.jpeg?width=600",
+      "sv": {
+        "title": "Dippköparna gjorde rätt",
+        "summary": "Nvidias nya vd Colette Kress gav aktiemarknaden precis de lugnande besked den behövde. Med urstarka siffror och ett oväntat hårt slag mot Kina-försäljningen ser de 80.000 svenska småsparare som köpt dippen ut att få rätt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dip buyers were right",
+        "summary": "Nvidia's new CEO Colette Kress gave the stock market exactly the calming assurances it needed. With very strong figures and an unexpectedly hard blow to China sales, the 80,000 small Swedish savers who bought the dip look set to be proven right."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:31:20+01:00"
+      }
+    },
+    {
+      "id": "067e1a9c63dd",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/di-s-analytiker-om-anthropic-kop-en-oinvesterbar-aktie",
+      "guid": "f439bc73-f7e9-552a-9e89-f47c0064c36b",
+      "published_at": "2026-11-18T09:11:45+01:00",
+      "fetched_at": "2026-11-18T09:31:13+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Di:s analytiker om Anthropic: Köp en oinvesterbar aktie",
+        "summary": "Robert Andersson har gått igenom förutsättningarna inför AI-jättens börsnotering.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Di's analyst on Anthropic: Buy an uninvestable stock",
+        "summary": "Robert Andersson has gone through the conditions ahead of the AI giant's stock market listing."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:31:20+01:00"
+      }
+    },
+    {
+      "id": "9a048e891d2b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/oktober-stark-manad-for-svensk-vindkraft",
+      "guid": "244bb528-e5b0-43a7-a789-a7257c902dd2",
+      "published_at": "2026-11-18T09:10:13+01:00",
+      "fetched_at": "2026-11-18T09:31:13+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c29eea77-3dec-4187-b249-5be2f8e84a95.jpg?width=600",
+      "sv": {
+        "title": "Oktober stark månad för svensk vindkraft",
+        "summary": "Vindkraften slog vatten- och kärnkraften i oktober, enligt branschorganisationen Green Power Sweden. Även för helåret är vinden på väg om kärnkraftsproduktionen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "October strong month for Swedish wind power",
+        "summary": "Wind power beat water and nuclear power in October, according to the industry body Green Power Sweden. Wind is also on course to overtake nuclear power production for the full year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:31:20+01:00"
       }
     },
     {

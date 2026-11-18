@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T09:15:50+01:00",
+  "generated_at": "2026-11-18T09:31:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a4a200e0fe01",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/frida-karlssons-misstankte-stalker-forsvunnen",
+      "guid": "bed9e0ca-45cc-4a07-86a8-1f008c89b787",
+      "published_at": "2026-11-18T09:27:42+01:00",
+      "fetched_at": "2026-11-18T09:31:15+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/42e06ea6-f474-4ebc-905a-5c4f03ab5cdd.jpg?width=600",
+      "sv": {
+        "title": "Frida Karlssons misstänkte stalker försvunnen",
+        "summary": "Det blev dramatiskt direkt när rättegången mot mannen som misstänks ha förföljt Frida Karlsson skulle inledas. Mannen infann sig inte till Eskilstuna tingsrätt och huvudförhandlingen fick skjutas upp. – Jag har ingen uppgift om varför, säger hans försvarare Hozan Feyzi.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Frida Karlsson's suspected stalker missing",
+        "summary": "Things took a dramatic turn as the trial of the man suspected of stalking Frida Karlsson was about to begin. The man did not show up at Eskilstuna district court and the main hearing had to be postponed. – I have no information on why, says his defence counsel Hozan Feyzi."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T09:31:20+01:00"
+      }
+    },
     {
       "id": "313c0fec53ed",
       "schema_version": 1,
@@ -5323,32 +5350,6 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "14bff3782d4e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/sormland/tidigare-guif-ordforanden-erkanner-brott",
-      "guid": "https://www.svt.se/nyheter/lokalt/sormland/tidigare-guif-ordforanden-erkanner-brott",
-      "published_at": "2026-11-12T14:40:23+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Tidigare Guif-ordföranden erkänner brott",
-        "summary": "Den tidigare Guif-ordföranden Björn Frössevi står åtalad för att ha förfalskat dokument. Vid rättegången i Eskilstuna tingsrätt erkänner han brott, enligt Eskilstuna-Kuriren.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Former Guif chairman admits crime",
-        "summary": "Former Guif chairman Björn Frössevi is on trial for forging documents. At the trial in Eskilstuna District Court he admits the crime, according to Eskilstuna-Kuriren."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
       }
     }
   ]
