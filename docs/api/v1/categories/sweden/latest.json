@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T06:31:04+01:00",
+  "generated_at": "2026-11-18T06:45:43+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "53e09f31d5f9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=1e631959-ed9d-4787-a4fe-0c6445dbffec",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1e631959-ed9d-4787-a4fe-0c6445dbffec",
+      "published_at": "2026-11-18T06:43:34+01:00",
+      "fetched_at": "2026-11-18T06:45:38+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Kaos på E4",
+        "summary": "Flera bilar har krockat: ”Stor påverkan”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Chaos on the E4",
+        "summary": "Several cars have crashed: \"Major impact\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:45:43+01:00"
+      }
+    },
     {
       "id": "1679fbfd0741",
       "schema_version": 1,
@@ -5403,32 +5429,6 @@
       "en": {
         "title": "Praise for Alex: 'Otherwise I would have had a lorry in the shop'",
         "summary": "After Thursday's incident in which a lorry with a driver suspected of being under the influence of drugs drove onto the pedestrian street in central Jönköping, many are praising Alex Jacobsson, who managed to stop the driver. – I feel enormous gratitude that he acted, says Ellinore Nydahl."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "b3608b7d9e97",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/sormland/kommunen-avslutar-avtalet-med-omsorgsbolaget-flera-brister",
-      "guid": "https://www.svt.se/nyheter/lokalt/sormland/kommunen-avslutar-avtalet-med-omsorgsbolaget-flera-brister",
-      "published_at": "2026-11-13T15:48:02+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Kommunen avslutar avtalet med omsorgsbolaget: ”Flera brister”",
-        "summary": "Sedan 2023 driver Forenede care tre särskilda boenden i Nyköpings kommun, men nu avslutas avtalet efter flera brister. Två allvarliga händelser blev spiken i kistan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Municipality terminates contract with care company: 'Several shortcomings'",
-        "summary": "Since 2023 Forenede Care has run three special housing facilities in Nyköping municipality, but now the contract is being terminated after several shortcomings. Two serious incidents were the final nail in the coffin."
       },
       "translation": {
         "status": "done",

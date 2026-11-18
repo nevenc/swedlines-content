@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T06:31:04+01:00",
+  "generated_at": "2026-11-18T06:45:43+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "53e09f31d5f9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=1e631959-ed9d-4787-a4fe-0c6445dbffec",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1e631959-ed9d-4787-a4fe-0c6445dbffec",
+      "published_at": "2026-11-18T06:43:34+01:00",
+      "fetched_at": "2026-11-18T06:45:38+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Kaos på E4",
+        "summary": "Flera bilar har krockat: ”Stor påverkan”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Chaos on the E4",
+        "summary": "Several cars have crashed: \"Major impact\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:45:43+01:00"
+      }
+    },
     {
       "id": "365b5845e01f",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Gruesome window in the advent calendar – gunman in a scanty outfit",
         "summary": "On the way to the shower with... a gun? The illustrations in Rituals' advent calendar have raised many questions. Now the company responds."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:20+01:00"
-      }
-    },
-    {
-      "id": "293a59a8e4f6",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/har-demon-face-syndrome--ser-kattogon-hos-manniskor",
-      "guid": "https://www.expressen.se/nyheter/varlden/har-demon-face-syndrome--ser-kattogon-hos-manniskor/",
-      "published_at": "2026-11-14T18:02:21+01:00",
-      "fetched_at": "2026-11-14T18:42:03+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "Har demon face syndrome – ser kattögon hos människor",
-        "summary": "En hjärnoperation räddade hans liv. Men den kom med ett pris. Karl har fått demon face syndrome och ser nu kattögon – hos människor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Has demon face syndrome – sees cat eyes in people",
-        "summary": "Brain surgery saved his life. But it came at a price. Karl has developed demon face syndrome and now sees cat eyes – in people."
       },
       "translation": {
         "status": "done",

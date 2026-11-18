@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T06:31:04+01:00",
+  "generated_at": "2026-11-18T06:45:43+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "439aeb1aad2f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/ekonomi/jensen-huang-ska-vittna-i-oppet-senatsforhor",
+      "guid": "https://www.svt.se/nyheter/ekonomi/jensen-huang-ska-vittna-i-oppet-senatsforhor",
+      "published_at": "2026-11-18T06:31:59+01:00",
+      "fetched_at": "2026-11-18T06:45:36+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Jensen Huang ska vittna i öppet senatsförhör",
+        "summary": "Nvidias avgående vd Jensen Huang går med på att vittna i senaten i USA:s kongress, rapporterar Politico.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Jensen Huang to testify at open Senate hearing",
+        "summary": "Nvidia's outgoing CEO Jensen Huang agrees to testify before the Senate of the US Congress, reports Politico."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:45:43+01:00"
+      }
+    },
     {
       "id": "718feb86d120",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Death toll rises after building collapse in Brooklyn",
         "summary": "The death toll has risen to at least eight people since a three-storey building collapsed in Brooklyn, New York, on Wednesday afternoon, CNN reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "fa0de0ea3e1b",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/ryssland-dribblar-bort-europa",
-      "guid": "https://www.svt.se/nyheter/utrikes/ryssland-dribblar-bort-europa",
-      "published_at": "2026-11-11T22:23:07+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "”Ryssland dribblar bort Europa”",
-        "summary": "På fredsfronten intet nytt. Förväntningarna på trepartssamtalen i Abu Dhabi var låga och tonen efter att de avslutats försiktigt optimistisk – men vilken part har egentligen flyttat fram sina positioner?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "'Russia is dribbling past Europe'",
-        "summary": "All quiet on the peace front. Expectations for the three-party talks in Abu Dhabi were low and the tone after they ended cautiously optimistic – but which party has actually advanced its positions?"
       },
       "translation": {
         "status": "done",

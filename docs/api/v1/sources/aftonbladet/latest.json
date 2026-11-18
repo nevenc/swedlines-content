@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T06:31:04+01:00",
+  "generated_at": "2026-11-18T06:45:43+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "901a67fc6fdc",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/pMLKoW/m-gar-om-s-i-ny-matning-vet-vad-man-far",
+      "guid": "https://www.aftonbladet.se/nyheter/a/pMLKoW/m-gar-om-s-i-ny-matning-vet-vad-man-far?utm_medium=rss",
+      "published_at": "2026-11-18T06:31:21+01:00",
+      "fetched_at": "2026-11-18T06:45:38+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/479df222-8be9-3e83-9465-faecc8991f34?format=auto&s=bb6f30c2090ee85fed1030af718f806721cb9db7&w=1000",
+      "sv": {
+        "title": "M går om S i ny mätning – ”vet vad man får”",
+        "summary": "Moderaterna går om Socialdemokraterna och blir störst parti i en ny mätning från Novus.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Moderates overtake the Social Democrats in new poll – \"know what you're getting\"",
+        "summary": "The Moderates overtake the Social Democrats and become the largest party in a new poll from Novus."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T06:45:43+01:00"
+      }
+    },
     {
       "id": "632bba04680e",
       "schema_version": 1,
@@ -5349,33 +5376,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:30:14+01:00"
-      }
-    },
-    {
-      "id": "c89b686af313",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/oMpn9B/uppgifter-thand-ringqvist-har-bestamt-sig-for-alliansen",
-      "guid": "https://www.aftonbladet.se/nyheter/a/oMpn9B/uppgifter-thand-ringqvist-har-bestamt-sig-for-alliansen?utm_medium=rss",
-      "published_at": "2026-11-14T18:26:04+01:00",
-      "fetched_at": "2026-11-14T18:42:03+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/915a2e9e-6f64-3649-a3f8-baec2804d840?format=auto&s=a6119fd44456641b49dd3704e7e41caf766b1d42&w=1000",
-      "sv": {
-        "title": "Uppgifter: Thand Ringqvist har bestämt sig för ”Alliansen”",
-        "summary": "Thand Ringqvist jobbar för att få med sig C",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: Thand Ringqvist has decided on the \"Alliance\"",
-        "summary": "Thand Ringqvist is working to bring C along"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:20+01:00"
       }
     }
   ]
