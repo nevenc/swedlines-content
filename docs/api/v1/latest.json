@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-18T23:45:45+01:00",
+  "generated_at": "2026-11-19T00:01:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4513b7053516",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/xJP7aB/ryssland-krimbron-attackerad-igen",
+      "guid": "https://www.aftonbladet.se/nyheter/a/xJP7aB/ryssland-krimbron-attackerad-igen?utm_medium=rss",
+      "published_at": "2026-11-18T23:59:49+01:00",
+      "fetched_at": "2026-11-19T00:01:13+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ryssland: Krimbron attackerad igen",
+        "summary": "Den viktiga bron till Krimhalvön har återigen attackerats, hävdar Moskvas Krimguvernör Sergej…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russia: Crimea bridge attacked again",
+        "summary": "The important bridge to the Crimean peninsula has again been attacked, claims Moscow's Crimea governor Sergei…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T00:01:18+01:00"
+      }
+    },
+    {
+      "id": "eb03f3c2c33b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/j3dwM0/forsvarsmakten-trollar-ryssland-med-pik-om-krimbron",
+      "guid": "https://www.aftonbladet.se/nyheter/a/j3dwM0/forsvarsmakten-trollar-ryssland-med-pik-om-krimbron?utm_medium=rss",
+      "published_at": "2026-11-18T23:57:53+01:00",
+      "fetched_at": "2026-11-19T00:01:13+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/9429624b-75d7-32f3-9d4f-47042acc3c67?format=auto&s=4b384071e793e683d984996dfc98875d073b02c4&w=1000",
+      "sv": {
+        "title": "Försvarsmakten trollade Ryssland: ”Någon har fått feeling”",
+        "summary": "Svenska Försvarsmakten driver med Ryssland i en video om broars militära betydelse. Klippet innehåller en tydlig pik om den omstridda och nyligen attackerade Krimbron.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish Armed Forces troll Russia: \"Someone has got a feeling\"",
+        "summary": "The Swedish Armed Forces are having fun at Russia's expense in a video about the military significance of bridges. The clip includes a clear jab at the disputed and recently attacked Crimea bridge."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T00:01:18+01:00"
+      }
+    },
+    {
+      "id": "0228ea4724ef",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345805",
+      "guid": "rss:sr.se/article/9345805",
+      "published_at": "2026-11-18T23:47:00+01:00",
+      "fetched_at": "2026-11-19T00:01:11+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ryssland kan ha kapacitet för 20 miljoner drönarattacker nästa år",
+        "summary": "Ukraina uppskattar att Ryssland nästa år kan genomföra omkring 50 000 drönarattacker om dagen – cirka 20 miljoner på ett år. Militärstrategiexperten Joakim Paasikivi bedömer uppskattningen som rimlig eftersom Ryssland har industriella och tekniska förutsättningar att öka produktionen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Russia may have capacity for 20 million drone attacks next year",
+        "summary": "Ukraine estimates that Russia could carry out around 50,000 drone attacks a day next year – about 20 million in one year. Military strategy expert Joakim Paasikivi considers the estimate reasonable because Russia has the industrial and technical capacity to increase production."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T00:01:18+01:00"
+      }
+    },
     {
       "id": "13b2b3daea73",
       "schema_version": 1,
@@ -5377,85 +5456,6 @@
       },
       "en": {
         "title": "Major train delays across the country"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "7bba53b669e1",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/digital/efter-kursraset-einride-branner-70-mkr-i-manaden",
-      "guid": "9027d883-a4bc-4d8e-adec-219e512143d7",
-      "published_at": "2026-11-18T16:24:21+01:00",
-      "fetched_at": "2026-11-18T16:31:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/c17d9f9e-c9ac-4dc6-9e57-2b8139431457.png?width=600",
-      "sv": {
-        "title": "Efter kursraset: Einride bränner 70 Mkr i månaden",
-        "summary": "Svenska Einride har rasat med över 85 procent sedan sin notering i USA i somras. Trots en stark tillväxt bränner man 70 miljoner kronor i månaden – och kassan ser därmed bara ut att räcka till maj nästa år.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "After share price crash: Einride burns SEK 70 million a month",
-        "summary": "Swedish Einride has plunged more than 85 percent since its listing in the US last summer. Despite strong growth, the company is burning SEK 70 million a month – and its cash appears sufficient only until May next year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "a83316e03d7c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/turisten-badar-angrar-sig-direkt",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/turisten-badar-angrar-sig-direkt/",
-      "published_at": "2026-11-18T16:24:17+01:00",
-      "fetched_at": "2026-11-18T16:31:02+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Turisten badar – ångrar sig direkt",
-        "summary": "Trodde att allt var under kontroll – går snett på sekunder",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tourist goes swimming – regrets it immediately",
-        "summary": "Thought everything was under control – goes wrong in seconds"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "cfeae0434aa8",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=9d55e254-4408-459d-bae6-a00ad9648022",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=9d55e254-4408-459d-bae6-a00ad9648022",
-      "published_at": "2026-11-18T16:20:59+01:00",
-      "fetched_at": "2026-11-18T16:31:02+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Förseningar i hela landet",
-        "summary": "Tågtrafiken drabbad av telefonstrul",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Delays across the country",
-        "summary": "Train traffic hit by telephone trouble"
       },
       "translation": {
         "status": "done",
