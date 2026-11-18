@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T20:15:50+01:00",
+  "generated_at": "2026-11-18T20:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ccd6860fe77d",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-18-november-4",
+      "guid": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-18-november-4/",
+      "published_at": "2026-11-18T20:27:36+01:00",
+      "fetched_at": "2026-11-18T20:31:00+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/44bd10db-2d52-4495-902b-b114fe0ccc21.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Noterat av DN:s läsare den 18 november",
+        "summary": "INSÄNDARE. Dagens Nyheters läsare ger sin syn på läget i Sverige och världen samt DN:s innehåll onsdagen den 19 november.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Insändare. Noterat av DN:s läsare den 18 november",
+        "summary": "Letter. Noted by DN's readers on 18 November: Dagens Nyheter readers give their views on the situation in Sweden and the world, and on DN's content on Wednesday 19 November."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:31:09+01:00"
+      }
+    },
     {
       "id": "78e0d97f097c",
       "schema_version": 1,
@@ -5367,33 +5394,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T21:01:14+01:00"
-      }
-    },
-    {
-      "id": "064dc559fa1b",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/centern-valjer-magdalena-anderssons-sida",
-      "guid": "https://www.dn.se/sverige/centern-valjer-magdalena-anderssons-sida/",
-      "published_at": "2026-11-15T20:11:17+01:00",
-      "fetched_at": "2026-11-15T20:15:41+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/ee38691b-5246-462a-a781-d7b7fb428be7.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Centern väljer Magdalena Anderssons sida",
-        "summary": "Centerpartiet väljer Socialdemokraternas totalpaket, meddelar partiledaren Elisabeth Thand Ringqvist. ”Men flera avgörande frågor återstår om politikens innehåll och riktning,” skriver hon i en kommentar till DN.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Centre Party chooses Magdalena Andersson's side",
-        "summary": "The Centre Party chooses the Social Democrats' total package, party leader Elisabeth Thand Ringqvist announces. “But several crucial questions remain about the content and direction of politics,” she writes in a comment to DN."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T20:15:49+01:00"
       }
     }
   ]

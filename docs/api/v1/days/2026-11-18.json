@@ -1,7 +1,112 @@
 {
-  "generated_at": "2026-11-18T20:15:50+01:00",
-  "count": 621,
+  "generated_at": "2026-11-18T20:31:09+01:00",
+  "count": 627,
   "items": [
+    {
+      "id": "ccd6860fe77d",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-18-november-4",
+      "guid": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-18-november-4/",
+      "published_at": "2026-11-18T20:27:36+01:00",
+      "fetched_at": "2026-11-18T20:31:00+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/44bd10db-2d52-4495-902b-b114fe0ccc21.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Noterat av DN:s läsare den 18 november",
+        "summary": "INSÄNDARE. Dagens Nyheters läsare ger sin syn på läget i Sverige och världen samt DN:s innehåll onsdagen den 19 november.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Insändare. Noterat av DN:s läsare den 18 november",
+        "summary": "Letter. Noted by DN's readers on 18 November: Dagens Nyheter readers give their views on the situation in Sweden and the world, and on DN's content on Wednesday 19 November."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:31:09+01:00"
+      }
+    },
+    {
+      "id": "4bd86fba4c4d",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4cvwuiGHlvYus99ep6F7hE/startnummer-arets-julklapp-men-stora-loppen-redan-fullbokade",
+      "guid": "4cvwuiGHlvYus99ep6F7hE",
+      "published_at": "2026-11-18T20:26:47+01:00",
+      "fetched_at": "2026-11-18T20:31:02+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Startnummer årets julklapp – men stora loppen redan fullbokade",
+        "summary": "Flera av landets största motionslopp inför nästa år är redan slutsålda. Till Göteborgsvarvet sålde biljetterna slut på bara tre dagar och Stockholm Marathon planerar att eventuellt släppa ett antal extraplatser efter att loppet blev slutsålt på rekordtid.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Race bibs the year's Christmas present – but the big races already fully booked",
+        "summary": "Several of the country's largest running races for next year are already sold out. Tickets for the Göteborgsvarvet sold out in just three days, and Stockholm Marathon plans to possibly release a number of extra places after the race sold out in record time."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:31:09+01:00"
+      }
+    },
+    {
+      "id": "89b92831e5e4",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80071",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80071&utm_medium=rss",
+      "published_at": "2026-11-18T20:24:45+01:00",
+      "fetched_at": "2026-11-18T20:31:01+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Tak har rasat in på Södersjukhuset"
+      },
+      "en": {
+        "title": "Ceiling collapses at Södersjukhuset"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:31:09+01:00"
+      }
+    },
+    {
+      "id": "c1e3d7fcf5b7",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/tak-har-rasat-in-pa-forlossningsavdelning",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/tak-har-rasat-in-pa-forlossningsavdelning",
+      "published_at": "2026-11-18T20:14:06+01:00",
+      "fetched_at": "2026-11-18T20:30:58+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Tak har rasat in på förlossningsavdelning",
+        "summary": "Delar av taket på Södersjukhusets förlossningsavdelning har rasat in, rapporterar Aftonbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ceiling collapses in maternity ward",
+        "summary": "Parts of the ceiling in the maternity ward at Södersjukhuset have collapsed, reports Aftonbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:31:09+01:00"
+      }
+    },
     {
       "id": "9d0fc7b97d12",
       "schema_version": 1,
@@ -5158,6 +5263,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T15:31:08+01:00"
+      }
+    },
+    {
+      "id": "5a993ea35737",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/klimat/a/ARdJaj/pourmokhtari-inte-skett-framsteg",
+      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/ARdJaj/pourmokhtari-inte-skett-framsteg?utm_medium=rss",
+      "published_at": "2026-11-18T15:14:55+01:00",
+      "fetched_at": "2026-11-18T20:31:01+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/b7fcc402-54de-32ef-abeb-686f88116b91?format=auto&s=eb1a5d32b394864f8c70a4226ed514b672890878&w=1000",
+      "sv": {
+        "title": "Pourmokhtari: ”Inte skett framsteg”",
+        "summary": "COP31 Nu vill hon skifta fokus",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pourmokhtari: “No progress has been made”",
+        "summary": "COP31 Now she wants to shift focus"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:31:09+01:00"
       }
     },
     {
@@ -10553,6 +10685,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T10:15:58+01:00"
+      }
+    },
+    {
+      "id": "8b529299134d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/klimat/a/OyplBw/ilska-pa-toppmotet-skitsnack-och-luft",
+      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/OyplBw/ilska-pa-toppmotet-skitsnack-och-luft?utm_medium=rss",
+      "published_at": "2026-11-18T10:07:43+01:00",
+      "fetched_at": "2026-11-18T20:31:01+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/efd1a032-cf89-369a-a2ad-6ab6baa18ecb?format=auto&s=b282eae1f65c49fa24b024cfa7bf9aebae46be89&w=1000",
+      "sv": {
+        "title": "Ilska på toppmötet: ”Skitsnack och luft”",
+        "summary": "COP31 Frustration bland förhandlare",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anger at the summit: “Bunk talk and hot air”",
+        "summary": "COP31 Frustration among negotiators"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:31:09+01:00"
       }
     },
     {

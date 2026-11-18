@@ -1,7 +1,112 @@
 {
-  "generated_at": "2026-11-18T20:15:50+01:00",
+  "generated_at": "2026-11-18T20:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ccd6860fe77d",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-18-november-4",
+      "guid": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-18-november-4/",
+      "published_at": "2026-11-18T20:27:36+01:00",
+      "fetched_at": "2026-11-18T20:31:00+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/44bd10db-2d52-4495-902b-b114fe0ccc21.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Noterat av DN:s läsare den 18 november",
+        "summary": "INSÄNDARE. Dagens Nyheters läsare ger sin syn på läget i Sverige och världen samt DN:s innehåll onsdagen den 19 november.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Insändare. Noterat av DN:s läsare den 18 november",
+        "summary": "Letter. Noted by DN's readers on 18 November: Dagens Nyheter readers give their views on the situation in Sweden and the world, and on DN's content on Wednesday 19 November."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:31:09+01:00"
+      }
+    },
+    {
+      "id": "4bd86fba4c4d",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4cvwuiGHlvYus99ep6F7hE/startnummer-arets-julklapp-men-stora-loppen-redan-fullbokade",
+      "guid": "4cvwuiGHlvYus99ep6F7hE",
+      "published_at": "2026-11-18T20:26:47+01:00",
+      "fetched_at": "2026-11-18T20:31:02+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Startnummer årets julklapp – men stora loppen redan fullbokade",
+        "summary": "Flera av landets största motionslopp inför nästa år är redan slutsålda. Till Göteborgsvarvet sålde biljetterna slut på bara tre dagar och Stockholm Marathon planerar att eventuellt släppa ett antal extraplatser efter att loppet blev slutsålt på rekordtid.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Race bibs the year's Christmas present – but the big races already fully booked",
+        "summary": "Several of the country's largest running races for next year are already sold out. Tickets for the Göteborgsvarvet sold out in just three days, and Stockholm Marathon plans to possibly release a number of extra places after the race sold out in record time."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:31:09+01:00"
+      }
+    },
+    {
+      "id": "89b92831e5e4",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80071",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80071&utm_medium=rss",
+      "published_at": "2026-11-18T20:24:45+01:00",
+      "fetched_at": "2026-11-18T20:31:01+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Tak har rasat in på Södersjukhuset"
+      },
+      "en": {
+        "title": "Ceiling collapses at Södersjukhuset"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:31:09+01:00"
+      }
+    },
+    {
+      "id": "c1e3d7fcf5b7",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/tak-har-rasat-in-pa-forlossningsavdelning",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/tak-har-rasat-in-pa-forlossningsavdelning",
+      "published_at": "2026-11-18T20:14:06+01:00",
+      "fetched_at": "2026-11-18T20:30:58+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Tak har rasat in på förlossningsavdelning",
+        "summary": "Delar av taket på Södersjukhusets förlossningsavdelning har rasat in, rapporterar Aftonbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ceiling collapses in maternity ward",
+        "summary": "Parts of the ceiling in the maternity ward at Södersjukhuset have collapsed, reports Aftonbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:31:09+01:00"
+      }
+    },
     {
       "id": "9d0fc7b97d12",
       "schema_version": 1,
@@ -5161,6 +5266,33 @@
       }
     },
     {
+      "id": "5a993ea35737",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/klimat/a/ARdJaj/pourmokhtari-inte-skett-framsteg",
+      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/ARdJaj/pourmokhtari-inte-skett-framsteg?utm_medium=rss",
+      "published_at": "2026-11-18T15:14:55+01:00",
+      "fetched_at": "2026-11-18T20:31:01+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/b7fcc402-54de-32ef-abeb-686f88116b91?format=auto&s=eb1a5d32b394864f8c70a4226ed514b672890878&w=1000",
+      "sv": {
+        "title": "Pourmokhtari: ”Inte skett framsteg”",
+        "summary": "COP31 Nu vill hon skifta fokus",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pourmokhtari: “No progress has been made”",
+        "summary": "COP31 Now she wants to shift focus"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:31:09+01:00"
+      }
+    },
+    {
       "id": "2d65e2c50331",
       "schema_version": 1,
       "source": "dn",
@@ -5266,152 +5398,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T15:15:52+01:00"
-      }
-    },
-    {
-      "id": "6af851ed948e",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/47Autf56IgjOr5RkL29Voe/oecd-kritisk-mot-svensk-bistandreform",
-      "guid": "47Autf56IgjOr5RkL29Voe",
-      "published_at": "2026-11-18T15:05:45+01:00",
-      "fetched_at": "2026-11-18T15:15:45+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "OECD kritisk mot svensk biståndreform",
-        "summary": "Sverige har i internationella sammanhang setts som en stark aktör för bistånd och utveckling. Enligt en ny rapport av OECD (organisationen för ekonomiskt samarbete och utveckling), var Sverige det första landet i världen som nådde FN:s mål, att 0,7 % av BNI ska gå till utvecklingsbistånd.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "OECD critical of Swedish aid reform",
-        "summary": "Sweden has internationally been seen as a strong actor in aid and development. According to a new OECD (Organisation for Economic Co-operation and Development) report, Sweden was the first country in the world to reach the UN target of 0.7% of GNI going to development aid."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T15:15:52+01:00"
-      }
-    },
-    {
-      "id": "a63a025e2392",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/stockholm/handavtrycket-avslojade-skytten-i-bussmordet-i-tyreso",
-      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/handavtrycket-avslojade-skytten-i-bussmordet-i-tyreso",
-      "published_at": "2026-11-18T15:03:48+01:00",
-      "fetched_at": "2026-11-18T15:15:43+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Handavtrycket avslöjade skytten i bussmordet i Tyresö",
-        "summary": "I dag började rättegången efter mordet på 18-årige Ghaith i Tyresö i mars. Nu står den misstänkte skytten och fyra män inför rätta.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Handprint revealed the shooter in the Tyresö bus murder",
-        "summary": "Today the trial began over the murder of 18-year-old Ghaith in Tyresö in March. Now the suspected shooter and four men stand trial."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T15:15:52+01:00"
-      }
-    },
-    {
-      "id": "6c24e9ce8bc6",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/feministiska-och-sagolika-wicker-far-sexet-att-knarra-och-knaka",
-      "guid": "https://www.dn.se/kultur/feministiska-och-sagolika-wicker-far-sexet-att-knarra-och-knaka/",
-      "published_at": "2026-11-18T15:02:39+01:00",
-      "fetched_at": "2026-11-18T15:15:45+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/1264d2c1-5757-4311-a2f3-9ace7dbcdbe1.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Feministiska och sagolika ”Wicker” får sexet att knarra och knaka",
-        "summary": "En fiskarkvinna och en korgman blir kära och utmanar de patriarkala strukturerna i sin arkaiska hemby. Mättad mystik och torr humor i gränslandet mellan romance och tantsnusk gör ”Wicker” fyndig, välspelad och färgstark, skriver Fredrik Sahlin.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Feminist and fairy-tale-like \"Wicker\" makes sex creak and crackle",
-        "summary": "A fisherwoman and a basket-weaver fall in love and challenge the patriarchal structures of their archaic home village. Saturated mystery and dry humour in the borderland between romance and bawdy comedy make \"Wicker\" witty, well acted and colourful, writes Fredrik Sahlin."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T15:15:52+01:00"
-      }
-    },
-    {
-      "id": "5e096fff2dd0",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/tony-gustavsson-om-stina-blackstenius-vantade-in-i-det-sista.964594d2-c46c-576f-ab8c-7632a322aef1",
-      "guid": "964594d2-c46c-576f-ab8c-7632a322aef1",
-      "published_at": "2026-11-18T15:02:13+01:00",
-      "fetched_at": "2026-11-18T15:15:46+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Fotboll",
-        "Tagg: Kungsbacka",
-        "Tagg: Tony Gustavsson",
-        "Tagg: Zecira Musovic",
-        "Tagg: Stina Blackstenius",
-        "Tagg: Monica Jusu Bah",
-        "Tagg: Anna Anvegård",
-        "Tagg: Fokus sport"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/4abd0230-a978-3745-91f5-b00108d223ba",
-      "sv": {
-        "title": "Tunga beskedet: ”Tyvärr – det går inte”",
-        "summary": "Arsenalstjärnan Stina Blackstenius, 30, missar Sveriges avgörande playoff-möte med Skottland.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Heavy news: \"Unfortunately – it's not possible\"",
-        "summary": "Arsenal star Stina Blackstenius, 30, misses Sweden's decisive play-off match against Scotland."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T15:15:52+01:00"
-      }
-    },
-    {
-      "id": "61ad710e071a",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/dygnet-runt/malmos-spelutvecklare-om-gta-6-enorma-forvantningar",
-      "guid": "bfd5a217-411a-4738-bb25-2c0ce30e2de6",
-      "published_at": "2026-11-18T15:00:00+01:00",
-      "fetched_at": "2026-11-18T15:01:19+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/6712bae6-e0dd-43b7-b28a-75183758255e.png?width=600",
-      "sv": {
-        "title": "Malmös spelutvecklare om GTA VI: ”Enorma förväntningar”",
-        "summary": "Det största, dyraste och förmodligen mest hajpade tv-spelet någonsin släpps på torsdag. Redan nu har hyllande recensioner börjat trilla in. ”Grand theft auto VI” kan leda till att hela spelbranschen får ett uppsving, tror skånska spelutvecklare. Men alla är inte hänförda.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Malmö game developers on GTA VI: \"Enormous expectations\"",
-        "summary": "The biggest, most expensive and arguably most hyped video game ever is released on Thursday. Glowing reviews are already starting to roll in. \"Grand Theft Auto VI\" could lead to an upswing for the entire gaming industry, Skåne game developers believe. But not everyone is impressed."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T15:01:25+01:00"
       }
     }
   ]

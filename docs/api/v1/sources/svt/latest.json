@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T20:15:50+01:00",
+  "generated_at": "2026-11-18T20:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c1e3d7fcf5b7",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/tak-har-rasat-in-pa-forlossningsavdelning",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/tak-har-rasat-in-pa-forlossningsavdelning",
+      "published_at": "2026-11-18T20:14:06+01:00",
+      "fetched_at": "2026-11-18T20:30:58+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Tak har rasat in på förlossningsavdelning",
+        "summary": "Delar av taket på Södersjukhusets förlossningsavdelning har rasat in, rapporterar Aftonbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ceiling collapses in maternity ward",
+        "summary": "Parts of the ceiling in the maternity ward at Södersjukhuset have collapsed, reports Aftonbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T20:31:09+01:00"
+      }
+    },
     {
       "id": "8e8aa281f86c",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Alexander Isak denied a penalty in the big match: 'Sour'",
         "summary": "Alexander Isak was robbed of a penalty. Should he have gone down in the situation? – You do wonder yourself whether you could have done something differently, he tells SVT Sport."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "20f2e74eb593",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/maktigt-ljusfenomen-filmades-i-njurunda-sags-over-halva-sverige",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/maktigt-ljusfenomen-filmades-i-njurunda-sags-over-halva-sverige",
-      "published_at": "2026-11-12T15:40:18+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "Mäktigt ljusfenomen filmades i Njurunda – sågs över halva Sverige",
-        "summary": "Anette Sjöbom i Njurunda ville ha koll på hästarna på gården och satte upp övervakningskameror. Hästarna mår bra och häromdagen lyckades kameran dessutom fånga ett ljusfenomen som sågs över halva Sverige. Och Norge.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mighty light phenomenon filmed in Njurunda – seen over half of Sweden",
-        "summary": "Anette Sjöbom in Njurunda wanted to keep an eye on the horses on the farm and put up surveillance cameras. The horses are fine, and the other day the camera also managed to capture a light phenomenon that was seen over half of Sweden. And Norway."
       },
       "translation": {
         "status": "done",
