@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-18T07:31:11+01:00",
+  "generated_at": "2026-11-18T07:45:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d44427178c25",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/riksrevisionen-ska-granska-svenska-kraftnat-igen",
+      "guid": "4b373524-4cd5-4d91-b7b6-54ebf55edf10",
+      "published_at": "2026-11-18T07:32:12+01:00",
+      "fetched_at": "2026-11-18T07:45:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/dd287d93-0cd7-4181-a754-ca0f4b489970.jpg?width=600",
+      "sv": {
+        "title": "Riksrevisionen ska granska Svenska kraftnät – igen",
+        "summary": "Riksrevisionen ska granska Svenska kraftnät och dess planer för utbyggnaden av stamnätet. Tidigare granskningar har visat på brister.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The National Audit Office to audit Svenska kraftnät – again",
+        "summary": "The National Audit Office is to audit Svenska kraftnät and its plans for expanding the main grid. Previous audits have revealed shortcomings."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:45:51+01:00"
+      }
+    },
+    {
+      "id": "28f2f20752f8",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/debatt/vi-riskerar-fyra-forlorade-ar",
+      "guid": "8642504e-28fd-40b1-b60c-e457c6be3242",
+      "published_at": "2026-11-18T07:32:10+01:00",
+      "fetched_at": "2026-11-18T07:45:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/54c174c3-e7ac-4b35-8490-e4554ba9f933.jpeg?width=600",
+      "sv": {
+        "title": "Vi riskerar fyra förlorade år",
+        "summary": "Centerpartiet måste stå emot de reformer som skulle medföra ett stukat företagsklimat. Annars väntar fyra förlorade år, skriver Magnus Demervall, vd Företagarna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "We risk four lost years",
+        "summary": "The Centre Party must resist the reforms that would bring about a weakened business climate. Otherwise four lost years await, writes Magnus Demervall, CEO of Företagarna."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T07:45:51+01:00"
+      }
+    },
     {
       "id": "93c0f9558af5",
       "schema_version": 1,
@@ -5275,60 +5329,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T20:01:33+01:00"
-      }
-    },
-    {
-      "id": "cf38df757883",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/le-pens-vallofte-stoppa-stodet-till-ukraina",
-      "guid": "b3720ef1-8810-4c94-851b-900b221efa1d",
-      "published_at": "2026-11-16T19:39:43+01:00",
-      "fetched_at": "2026-11-16T20:01:27+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/e81f5305-a66a-44a6-9292-d295cff12d89.jpg?width=600",
-      "sv": {
-        "title": "Le Pens vallöfte: Stoppa stödet till Ukraina",
-        "summary": "Franska ytterhögerns presidentkandidat Marine Le Pen lovar att sluta ge ekonomiskt stöd till Ukraina om hon vinner valet nästa år.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Le Pen election pledge: Stop support for Ukraine",
-        "summary": "French far-right presidential candidate Marine Le Pen promises to stop providing financial support to Ukraine if she wins the election next year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T20:01:33+01:00"
-      }
-    },
-    {
-      "id": "bd63ccf2e166",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/uniper-vill-konvertera-kraftverkssajter-till-datacenter",
-      "guid": "49ee5a29-4a11-4e24-beaf-f2b0a199720a",
-      "published_at": "2026-11-16T19:31:21+01:00",
-      "fetched_at": "2026-11-16T19:45:43+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/e0ac3fba-0eac-4fe4-9e84-766e9b006651.jpeg?width=600",
-      "sv": {
-        "title": "Uniper vill konvertera kraftverkssajter till datacenter",
-        "summary": "Uniper vill sälja eller hyra ut mark vid nedlagda kraftverk till datacenterbolag och sedan sälja el till anläggningarna. Det uppgav bolaget vid en kapitalmarknadsdag på måndagen. Åtminstone tre av de potentiella projekten är belägna i Sverige, rapporterar Di:s nyhetstjänst Energimarknaden.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Uniper wants to convert power plant sites into data centres",
-        "summary": "Uniper wants to sell or lease land at decommissioned power plants to data centre companies and then sell electricity to the facilities. The company said at a capital markets day on Monday. At least three of the potential projects are located in Sweden, reports Di's news service Energimarknaden."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T19:45:48+01:00"
       }
     }
   ]
