@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-18T08:15:51+01:00",
+  "generated_at": "2026-11-18T08:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "02b979aa5746",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/159-kvadratmeter-stort-kedjehus-gick-for-7-7-miljoner",
+      "guid": "4274cc65-9a3a-4a20-ad86-1e487dbb6dbf",
+      "published_at": "2026-11-18T08:23:51+01:00",
+      "fetched_at": "2026-11-18T08:31:02+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "159 kvadratmeter stort kedjehus gick för 7,7 miljoner"
+      },
+      "en": {
+        "title": "159 square metre terraced house sold for 7.7 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T08:31:09+01:00"
+      }
+    },
     {
       "id": "aa648dbafc1b",
       "schema_version": 1,
@@ -5145,33 +5168,6 @@
       "en": {
         "title": "Eight unusual homes for sale right now",
         "summary": "One has a gold toilet, another has ceiling paintings in the dining room, and one is enclosed by an enormous glass house. Here is a list of eight homes that are quite special – and that are for sale in north-western Skåne."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T20:01:22+01:00"
-      }
-    },
-    {
-      "id": "0c530b8abb56",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/c-valjer-andersson-s-HOS49",
-      "guid": "5aed429f-6a15-4416-98cd-89489a2c84bd",
-      "published_at": "2026-11-15T19:56:32+01:00",
-      "fetched_at": "2026-11-15T20:01:15+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/9bbd665a-f2ed-4fa0-9387-40644fd30d3a.jpg?width=600",
-      "sv": {
-        "title": "Thand Ringqvist: C väljer S",
-        "summary": "Centerpartiet har valt Socialdemokraternas Magdalena Anderssons (S) totalpaket, meddelar partiledaren Elisabeth Thand Ringqvist.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Thand Ringqvist: C chooses S",
-        "summary": "The Centre Party has chosen the Social Democrats' (S) Magdalena Andersson's package deal, party leader Elisabeth Thand Ringqvist announces."
       },
       "translation": {
         "status": "done",

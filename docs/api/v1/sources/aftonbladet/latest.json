@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T08:15:51+01:00",
+  "generated_at": "2026-11-18T08:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "85d793989b16",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/nLaM1Q/ranades-pa-kryptovaluta-av-inbrottstjuvar",
+      "guid": "https://www.aftonbladet.se/nyheter/a/nLaM1Q/ranades-pa-kryptovaluta-av-inbrottstjuvar?utm_medium=rss",
+      "published_at": "2026-11-18T08:25:54+01:00",
+      "fetched_at": "2026-11-18T08:31:00+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/f403802b-dc25-34c3-9539-5ba90cbb82dc?format=auto&s=a915be0023c9aa93913d2e00076257558d5d006f&w=1000",
+      "sv": {
+        "title": "Rånades på kryptovaluta av inbrottstjuvar",
+        "summary": "Två personer i Jönköpings kommun har blivit bakbundna och rånade på kryptovaluta av…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Robbed of cryptocurrency by burglars",
+        "summary": "Two people in Jönköping Municipality were tied up and robbed of cryptocurrency by…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T08:31:09+01:00"
+      }
+    },
     {
       "id": "b75446f932b4",
       "schema_version": 1,
@@ -5341,33 +5368,6 @@
       "en": {
         "title": "46 lynx may be shot in four southern counties",
         "summary": "In March next year, licensed lynx hunting will be carried out in four counties in southern Sweden."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T21:40:46+01:00"
-      }
-    },
-    {
-      "id": "f79a6cb8d717",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/6Pj9vQ/minst-sex-doda-i-bussolycka-i-colombia",
-      "guid": "https://www.aftonbladet.se/nyheter/a/6Pj9vQ/minst-sex-doda-i-bussolycka-i-colombia?utm_medium=rss",
-      "published_at": "2026-11-14T20:48:11+01:00",
-      "fetched_at": "2026-11-14T21:40:36+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/99051c06-bd1e-38b6-827c-a8fb0d47c404?format=auto&s=df02a48d05e0d36ec513ec002092ac55202cae9d&w=1000",
-      "sv": {
-        "title": "Minst sex döda i bussolycka i Colombia",
-        "summary": "Minst sex personer har dött och elva har skadats efter en bussolycka i Colombia, uppger landets…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "At least six dead in bus crash in Colombia",
-        "summary": "At least six people have died and eleven have been injured after a bus crash in Colombia, according to the country's…"
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T08:15:51+01:00",
+  "generated_at": "2026-11-18T08:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5cc529416e6c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/LoAj89/centerpartiet-har-aldrig-varit-hoger-vanster-eller-ens-mitten",
+      "guid": "https://www.svd.se/a/LoAj89/centerpartiet-har-aldrig-varit-hoger-vanster-eller-ens-mitten?utm_medium=rss",
+      "published_at": "2026-11-18T08:29:00+01:00",
+      "fetched_at": "2026-11-18T08:30:59+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/cb592b7b-dc9c-3c1f-88b6-ec7734b02d22?format=auto&s=18ecc315527225dea2da36957d92e5f255a28d7f&w=1000",
+      "sv": {
+        "title": "Alla har fel om Centerpartiet",
+        "summary": "Många har uttalat sig om var centerpartisterna egentligen hör hemma. Problemet är att alla hittills…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Everyone is wrong about the Centre Party",
+        "summary": "Many have commented on where Centre Party members really belong. The problem is that everyone so far…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T08:31:09+01:00"
+      }
+    },
     {
       "id": "c86d0400ed7b",
       "schema_version": 1,
@@ -5386,32 +5413,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T20:01:22+01:00"
-      }
-    },
-    {
-      "id": "d2ebf788cc18",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=c8e36c29-f109-4d77-b254-adf034d4c6f4",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c8e36c29-f109-4d77-b254-adf034d4c6f4",
-      "published_at": "2026-11-15T19:00:07+01:00",
-      "fetched_at": "2026-11-15T19:15:40+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "C-mötet pågår",
-        "summary": "Började klockan 14 – inte slut än, erfar Expressen",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The C meeting is underway",
-        "summary": "Started at 14:00 – not yet over, Expressen learns"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T19:15:45+01:00"
       }
     }
   ]
