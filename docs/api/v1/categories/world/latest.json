@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T20:46:02+01:00",
+  "generated_at": "2026-11-18T21:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c73e64b93c77",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/KL3l75/polen-chefsdomare-forlorar-immunitet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/KL3l75/polen-chefsdomare-forlorar-immunitet?utm_medium=rss",
+      "published_at": "2026-11-18T20:54:24+01:00",
+      "fetched_at": "2026-11-18T21:01:13+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/065b57bb-b76d-3c6a-bf87-bc13ba1b8c8a?format=auto&s=5e95d77daa55e67483a8e71393cd668617383401&w=1000",
+      "sv": {
+        "title": "Polen: Chefsdomare förlorar immunitet",
+        "summary": "Den domare som varit i fokus under krisen för Polens författningsdomstol har förlorat sin immunitet…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Poland: Chief judge loses immunity",
+        "summary": "The judge who has been in focus during the crisis at Poland's constitutional court has lost his immunity…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T21:01:20+01:00"
+      }
+    },
     {
       "id": "fb3a704b537a",
       "schema_version": 1,
@@ -5306,32 +5333,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T02:01:15+01:00"
-      }
-    },
-    {
-      "id": "c6686c704e13",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/KL36Vy/ukraina-stora-broar-traffade-i-kiev",
-      "guid": "https://www.svd.se/a/KL36Vy/ukraina-stora-broar-traffade-i-kiev?utm_medium=rss",
-      "published_at": "2026-11-17T00:00:17+01:00",
-      "fetched_at": "2026-11-17T00:01:11+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ukraina: Stora broar träffade i Kiev",
-        "summary": "Ryska attacker har enligt preliminär information träffat två stora broar i den ukrainska huvudstaden…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ukraine: Two major bridges hit in Kyiv",
-        "summary": "Russian attacks have, according to preliminary information, hit two major bridges in the Ukrainian capital…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T00:01:17+01:00"
       }
     }
   ]

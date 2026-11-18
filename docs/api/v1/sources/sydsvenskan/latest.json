@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T20:46:02+01:00",
+  "generated_at": "2026-11-18T21:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9c37766f0551",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/kandis-flodhasten-fiona-at-mossa-far-akut-vard",
+      "guid": "f55e1853-adff-4e09-a229-8cf79bdabf02",
+      "published_at": "2026-11-18T21:00:00+01:00",
+      "fetched_at": "2026-11-18T21:01:16+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/c42d6f75-5dd6-4a28-bb1a-ce0929a187f4.jpg?width=600",
+      "sv": {
+        "title": "Kändis-flodhästen Fiona åt mössa – får akut vård",
+        "summary": "Flodhästen Fiona, känd som bokfigur och internetfenomen, behöver akut vård efter att ha ätit en mössa. Hennes öde följs nu av hundratusentals fans.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Celebrity hippo Fiona eats hat – gets emergency care",
+        "summary": "Hippo Fiona, known as a book character and internet phenomenon, needs emergency care after eating a hat. Hundreds of thousands of fans are now following her fate."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T21:01:20+01:00"
+      }
+    },
     {
       "id": "ba222c3fb80b",
       "schema_version": 1,
@@ -5098,30 +5125,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T23:15:52+01:00"
-      }
-    },
-    {
-      "id": "188b95a168fd",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/tesla-mangmiljardsatsar-i-tyskland",
-      "guid": "c24601a0-dce5-4086-bff2-ec9f78e98e25",
-      "published_at": "2026-11-16T22:47:23+01:00",
-      "fetched_at": "2026-11-16T23:01:09+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/dbf98267-62a7-4c6d-a117-36683c8785d8.jpg?width=600",
-      "sv": {
-        "title": "Tesla mångmiljardsatsar i Tyskland"
-      },
-      "en": {
-        "title": "Tesla makes multi-billion investment in Germany"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T23:01:13+01:00"
       }
     }
   ]
