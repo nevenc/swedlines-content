@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-18T15:45:51+01:00",
+  "generated_at": "2026-11-18T16:01:35+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0ae16b10940c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/GxM6aJ/konflikterna-i-mellanostern-live-senaste-nytt?pinnedEntry=80065",
+      "guid": "https://www.svd.se/a/GxM6aJ/konflikterna-i-mellanostern-live-senaste-nytt?utm_source=sdrn%3Asvdse%3Aarticle%3AwA9Gmd&pinnedEntry=80065&utm_medium=rss",
+      "published_at": "2026-11-18T15:53:36+01:00",
+      "fetched_at": "2026-11-18T16:01:20+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Israel inleder ny offensiv i Gaza"
+      },
+      "en": {
+        "title": "Israel launches new offensive in Gaza"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T16:01:35+01:00"
+      }
+    },
     {
       "id": "359682616f66",
       "schema_version": 1,
@@ -5195,29 +5218,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "904542d03fd2",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79934",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79934&utm_medium=rss",
-      "published_at": "2026-11-15T14:45:25+01:00",
-      "fetched_at": "2026-11-15T14:51:52+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisjakt efter Pokémonstöld i Danmark"
-      },
-      "en": {
-        "title": "Police chase after Pokémon theft in Denmark"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T14:51:58+01:00"
       }
     }
   ]
