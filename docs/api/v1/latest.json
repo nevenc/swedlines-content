@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-19T00:15:51+01:00",
+  "generated_at": "2026-11-19T00:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c1db19169a32",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=6f5c1a7a-789c-4a6c-a31c-810e393441ab",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6f5c1a7a-789c-4a6c-a31c-810e393441ab",
+      "published_at": "2026-11-19T00:17:32+01:00",
+      "fetched_at": "2026-11-19T00:31:03+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Uppgifter: Krimbron attackerad igen"
+      },
+      "en": {
+        "title": "Reports: Crimea bridge attacked again"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T00:31:07+01:00"
+      }
+    },
     {
       "id": "4513b7053516",
       "schema_version": 1,
@@ -5435,37 +5458,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "d92cdeacc718",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/varlden/israel-inleder-ny-offensiv-i-gaza.083d4659-b493-543f-853f-85de148d54b2",
-      "guid": "083d4659-b493-543f-853f-85de148d54b2",
-      "published_at": "2026-11-18T16:26:56+01:00",
-      "fetched_at": "2026-11-18T16:45:45+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Världen",
-        "Tagg: breaking-GP"
-      ],
-      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
-      "sv": {
-        "title": "Israel startar ny offensiv i Gaza",
-        "summary": "Stridsvagnar har korsat gula linjen • Minst två döda.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Israel launches new offensive in Gaza",
-        "summary": "Tanks have crossed the yellow line • At least two dead."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:45:52+01:00"
       }
     }
   ]

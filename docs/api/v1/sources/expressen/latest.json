@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-19T00:15:51+01:00",
+  "generated_at": "2026-11-19T00:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c1db19169a32",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=6f5c1a7a-789c-4a6c-a31c-810e393441ab",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6f5c1a7a-789c-4a6c-a31c-810e393441ab",
+      "published_at": "2026-11-19T00:17:32+01:00",
+      "fetched_at": "2026-11-19T00:31:03+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Uppgifter: Krimbron attackerad igen"
+      },
+      "en": {
+        "title": "Reports: Crimea bridge attacked again"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T00:31:07+01:00"
+      }
+    },
     {
       "id": "13b2b3daea73",
       "schema_version": 1,
@@ -5168,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T18:31:05+01:00"
-      }
-    },
-    {
-      "id": "d91d1ae548d2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/flyr-i-panik-100-000-liter-farg-fattar-eld",
-      "guid": "https://www.expressen.se/tv/nyheter/flyr-i-panik-100-000-liter-farg-fattar-eld",
-      "published_at": "2026-11-15T18:02:59+01:00",
-      "fetched_at": "2026-11-15T18:15:40+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Flyr i panik – från eldinfernot",
-        "summary": "100 000 liter färg fattar eld • Stora explosioner",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fleeing in panic from the inferno",
-        "summary": "100,000 litres of paint catch fire • Large explosions"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T18:15:46+01:00"
       }
     }
   ]
