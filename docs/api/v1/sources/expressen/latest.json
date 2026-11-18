@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-18T15:31:08+01:00",
+  "generated_at": "2026-11-18T15:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "41abff3d6d29",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2564eae4-bb71-4a09-b0e5-521fff6cb5b6",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2564eae4-bb71-4a09-b0e5-521fff6cb5b6",
+      "published_at": "2026-11-18T15:36:29+01:00",
+      "fetched_at": "2026-11-18T15:45:44+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Skönhetsjätten hackad",
+        "summary": "Kom över personuppgifter",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Beauty giant hacked",
+        "summary": "Got hold of personal data"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T15:45:51+01:00"
+      }
+    },
+    {
+      "id": "b77c80f159aa",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/finansministern-ansvarslost-och-ratt-provocerande",
+      "guid": "https://www.expressen.se/nyheter/politik/finansministern-ansvarslost-och-ratt-provocerande/",
+      "published_at": "2026-11-18T15:33:30+01:00",
+      "fetched_at": "2026-11-18T15:45:44+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Finansministern: ”Ansvarslöst och rätt provocerande”",
+        "summary": "Finansminister Elisabeth Svantesson (M) skickade en ordentlig känga till Magdalena Andersson (S) under onsdagens pressträff. Hon uppmanade S-delaren att tala ur skägget och sluta kritisera andra partier. – Det tycker jag är ansvarslöst och rätt provocerande, säger Svantesson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Finance minister: \"Irresponsible and quite provocative\"",
+        "summary": "Finance Minister Elisabeth Svantesson (M) delivered a sharp rebuke to Magdalena Andersson (S) at Wednesday's press conference. She urged the Social Democrat to speak plainly and stop criticising other parties. \"I think that is irresponsible and quite provocative\", says Svantesson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T15:45:51+01:00"
+      }
+    },
     {
       "id": "a15d1150bda2",
       "schema_version": 1,
@@ -5142,58 +5194,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T14:15:49+01:00"
-      }
-    },
-    {
-      "id": "e12998951b63",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/sverige/nk-avslojar-julskyltningen-",
-      "guid": "https://www.expressen.se/tv/nyheter/sverige/nk-avslojar-julskyltningen-",
-      "published_at": "2026-11-15T11:04:09+01:00",
-      "fetched_at": "2026-11-15T11:26:39+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "NK avslöjar julskyltning",
-        "summary": "Klassiska NK avtäcker årets tema",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "NK unveils Christmas window display",
-        "summary": "The classic NK unveils this year's theme"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T11:26:59+01:00"
-      }
-    },
-    {
-      "id": "73205a2f2328",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/centerpartiet-samlar-distrikten-till-mote-pressas-hart",
-      "guid": "https://www.expressen.se/nyheter/politik/centerpartiet-samlar-distrikten-till-mote-pressas-hart/",
-      "published_at": "2026-11-15T10:22:11+01:00",
-      "fetched_at": "2026-11-15T11:26:39+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Centerpartiet samlas till möte – pressas hårt",
-        "summary": "Centerpartiet närmar sig sitt ödesbeslut. Under dagen håller partiet möte på hög nivå, enligt uppgifter. – Det är press på partiet, säger statsvetaren Jenny Madestam.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Party gathers for meeting – under heavy pressure",
-        "summary": "The Centre Party is approaching its fateful decision. During the day the party holds a high-level meeting, according to reports. – There is pressure on the party, says political scientist Jenny Madestam."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T11:26:59+01:00"
       }
     }
   ]

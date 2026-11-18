@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T15:31:08+01:00",
+  "generated_at": "2026-11-18T15:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "946a605a1402",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345465",
+      "guid": "rss:sr.se/article/9345465",
+      "published_at": "2026-11-18T15:31:00+01:00",
+      "fetched_at": "2026-11-18T15:45:41+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Shenzhenbor inför mötet: ”Kina måste inte konkurrera med USA”",
+        "summary": "Världens blickar är riktade mot den kinesiska storstaden Shenzhen inför morgondagens historiska möte mellan Xi, Putin och Trump. På gatan säger människor att de är stolta över Kina – men att Kina inte måste konkurrera med USA. Kina är en stormakt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Shenzhen ahead of the meeting: \"China does not have to compete with the US\"",
+        "summary": "The eyes of the world are on the Chinese city of Shenzhen ahead of tomorrow's historic meeting between Xi, Putin and Trump. On the street, people say they are proud of China – but that China does not have to compete with the US. China is a great power."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T15:45:51+01:00"
+      }
+    },
     {
       "id": "2d65e2c50331",
       "schema_version": 1,
@@ -5304,32 +5330,6 @@
       "en": {
         "title": "Pope roars against Amazon deforestation",
         "summary": "RIO DE JANEIRO. Pope Leo XIV steps forward as a forceful defender of environmental activists trying to save the Amazon rainforest. – The blood of these brothers cries out to God and demands justice, he said during a meeting with indigenous people in Peru."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:45:48+01:00"
-      }
-    },
-    {
-      "id": "6dd7dd5045da",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9343961",
-      "guid": "rss:sr.se/article/9343961",
-      "published_at": "2026-11-16T18:35:00+01:00",
-      "fetched_at": "2026-11-16T18:45:39+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Demonstranter blockerar väg i Caracas i protest mot låga löner",
-        "summary": "I Venezuela pågår just nu demonstrationer på flera håll i protest mot interimsregeringen och de ekonomiska villkoren för statligt anställda. Sveriges Radios Latinamerika-korrespondent Lotten Collin är på plats i Caracas, där lärare och vårdpersonal blockerar en motorväg i protest mot de låga…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Demonstrators block road in Caracas in protest over low wages",
-        "summary": "Demonstrations are currently under way in several places in Venezuela in protest against the interim government and the economic conditions for public-sector employees. Sveriges Radio's Latin America correspondent Lotten Collin is on the ground in Caracas, where teachers and health-care workers are blocking a motorway in protest over the low…"
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-18T15:31:08+01:00",
+  "generated_at": "2026-11-18T15:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a31fd06bec07",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/smabarnsforaldrar-doms-for-grovt-narkotikabrott-i-eskilstuna",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/smabarnsforaldrar-doms-for-grovt-narkotikabrott-i-eskilstuna",
+      "published_at": "2026-11-18T15:34:20+01:00",
+      "fetched_at": "2026-11-18T15:45:40+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Småbarnsföräldrar döms för grovt narkotikabrott i Eskilstuna",
+        "summary": "Flera småbarnsföräldrar i Eskilstuna döms för att ha varit delaktiga i en stor narkotikahärva. Straffen varierar, men det längsta straffet får en pappa – som bedöms ha haft en ledande roll.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Parents of young children convicted of aggravated drug crime in Eskilstuna",
+        "summary": "Several parents of young children in Eskilstuna are convicted of having been involved in a large drug ring. The sentences vary, but the longest sentence goes to a father – who is judged to have had a leading role."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T15:45:51+01:00"
+      }
+    },
+    {
+      "id": "a2924ecf9b8a",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/kustbevakningen-vill-avveckla-sju-fartyg-obegripligt",
+      "guid": "https://www.svt.se/nyheter/inrikes/kustbevakningen-vill-avveckla-sju-fartyg-obegripligt",
+      "published_at": "2026-11-18T15:31:41+01:00",
+      "fetched_at": "2026-11-18T15:45:40+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Kustbevakningen vill avveckla sju fartyg: ”Obegripligt”",
+        "summary": "Säkerhetsläget i Östersjön har skärpts och regeringen vill öka den svenska närvaron till sjöss. Men samtidigt tvingas Kustbevakningen till besparingar – och planerar nu att göra sig av med flera fartyg, enligt SVT:s uppgifter. – Det är ett obegripligt beslut, säger en källa inom myndigheten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Coast Guard wants to retire seven vessels: \"Incomprehensible\"",
+        "summary": "The security situation in the Baltic Sea has tightened and the government wants to increase Sweden's presence at sea. But at the same time the Coast Guard is forced to make cuts – and now plans to get rid of several vessels, according to SVT's information. \"It is an incomprehensible decision\", says a source within the agency."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T15:45:51+01:00"
+      }
+    },
     {
       "id": "a63a025e2392",
       "schema_version": 1,
@@ -5141,58 +5193,6 @@
       "en": {
         "title": "Finnish-language children's programmes in Sweden? Here is what is on offer on TV",
         "summary": "Did you know that Finnish-language TV programmes for children are produced in Sweden? The public service broadcasters have a special remit to do so, and both Sveriges Television (SVT) and Utbildningsradion (UR) publish Finnish-language children's programmes on their platforms."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "2e50b0ba3806",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/lastbil-korde-ner-betongfundament-i-centrala-jonkoping",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/lastbil-korde-ner-betongfundament-i-centrala-jonkoping",
-      "published_at": "2026-11-12T12:38:11+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Lastbil körde ner betongfundament i centrala Jönköping – och vajerräcke på riksväg 40",
-        "summary": "Lastbilschauffören som körde in i flera betongfundament på Östra Storgatan i Jönköping vid lunchtid är gripen av polis och är misstänkt för grovt drograttfylleri.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Lorry knocked down concrete foundations in central Jönköping – and cable barrier on route 40",
-        "summary": "The lorry driver who drove into several concrete foundations on Östra Storgatan in Jönköping at lunchtime has been arrested by police and is suspected of aggravated drug-driving."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "534d1b3b2c26",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jamtland/det-blir-inget-fangelse-pa-froson-kriminalvarden-avbryter-projektet",
-      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/det-blir-inget-fangelse-pa-froson-kriminalvarden-avbryter-projektet",
-      "published_at": "2026-11-12T12:34:02+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Det blir inget fängelse på Frösön – Kriminalvården avbryter projektet",
-        "summary": "Kriminalvården drar sig ur det planerade fängelseprojektet på Frösön. Kriminalvården uppger att orsaken är att projektet har tagit för lång tid och blir för kostsamt. Myndigheten väljer att istället fokusera på etableringen i Furulund, just norr om Östersund.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "No prison on Frösön after all – Prison and Probation Service cancels the project",
-        "summary": "The Swedish Prison and Probation Service is withdrawing from the planned prison project on Frösön. The agency says the reason is that the project has taken too long and is becoming too costly. It is choosing instead to focus on the establishment in Furulund, just north of Östersund."
       },
       "translation": {
         "status": "done",

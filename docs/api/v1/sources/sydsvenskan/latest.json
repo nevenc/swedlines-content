@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T15:31:08+01:00",
+  "generated_at": "2026-11-18T15:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "be30aeb164f6",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/lyko-hackat-kunduppgifter-lackta",
+      "guid": "d0cd7931-df0b-4475-8d28-d9ee07bbdc8b",
+      "published_at": "2026-11-18T15:39:36+01:00",
+      "fetched_at": "2026-11-18T15:45:45+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/c86d59d9-aab3-42f2-9383-495917aec4aa.jpg?width=600",
+      "sv": {
+        "title": "Lyko hackat – kunduppgifter läckta",
+        "summary": "E-handlaren Lyko har utsatt för ett dataintrång där hackare har stulit information om kunderna, rapporterar Svenska Dagbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lyko hacked – customer data leaked",
+        "summary": "The e-retailer Lyko has been subjected to a data breach in which hackers stole information about customers, reports Svenska Dagbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T15:45:51+01:00"
+      }
+    },
     {
       "id": "03ef64b930bd",
       "schema_version": 1,
@@ -5122,33 +5149,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T14:01:29+01:00"
-      }
-    },
-    {
-      "id": "d5217c0079d5",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/c-ledaren-ser-fram-emot-att-ses-i-forhandlingar",
-      "guid": "81f14d2e-295c-4fd8-b2c2-ad4073001870",
-      "published_at": "2026-11-16T13:30:15+01:00",
-      "fetched_at": "2026-11-16T13:31:09+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/c0d7cf98-4f66-4285-8d2c-ed960f489edf.jpg?width=600",
-      "sv": {
-        "title": "C-ledaren: Ser fram emot att ses i förhandlingar",
-        "summary": "C-ledaren Elisabeth Thand Ringqvist räknar med att förhandlingar mellan de rödgröna kan komma i gång inom kort. – Jag ser fram emot att träffa Ida Gabrielsson och Nooshi Dadgostar i förhandlingsrummet, säger hon till TT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "C leader: Looks forward to meeting in negotiations",
-        "summary": "C leader Elisabeth Thand Ringqvist expects negotiations between the red-greens could get under way shortly. – I look forward to meeting Ida Gabrielsson and Nooshi Dadgostar in the negotiating room, she tells TT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T13:31:13+01:00"
       }
     }
   ]
