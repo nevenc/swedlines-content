@@ -1,7 +1,297 @@
 {
-  "generated_at": "2026-11-18T11:01:17+01:00",
-  "count": 259,
+  "generated_at": "2026-11-18T11:16:04+01:00",
+  "count": 274,
   "items": [
+    {
+      "id": "d7a46a0498db",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/erik-holmstrom-folk-kommer-tro-att-jag-ar-helt-tokig-i-sex",
+      "guid": "https://www.dn.se/kultur/erik-holmstrom-folk-kommer-tro-att-jag-ar-helt-tokig-i-sex/",
+      "published_at": "2026-11-18T11:15:13+01:00",
+      "fetched_at": "2026-11-18T11:15:44+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/2c24d32f-2e76-4d87-93dc-0f2668163d9e.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Erik Holmström: ”Folk kommer tro att jag är helt tokig i sex”",
+        "summary": "I Carl-Henning Wijkmarks ”Jägarna på Karinhall” ordnar nazistledaren Hermann Göring en grotesk orgie sitt jaktslott. När romanen blir dockteater i Malmö kan publiken räkna med en blandning av sadism och gladporr – som inte är för alla.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Erik Holmström: ”People will think I’m completely crazy about sex”",
+        "summary": "In Carl-Henning Wijkmark’s ”Jägarna på Karinhall”, Nazi leader Hermann Göring stages a grotesque orgy at his hunting lodge. When the novel becomes a puppet theatre in Malmö, the audience can expect a mix of sadism and soft porn – which is not for everyone."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:16:04+01:00"
+      }
+    },
+    {
+      "id": "45ff768b5caa",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/regeringen-ryska-idrottare-kan-utgora-risk",
+      "guid": "b8915638-5b1e-4db7-9b03-b72136bf626e",
+      "published_at": "2026-11-18T11:14:05+01:00",
+      "fetched_at": "2026-11-18T11:15:47+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/3e76c663-7b10-4903-b366-3a5ecd260556.jpg?width=600",
+      "sv": {
+        "title": "Regeringen: Ryska idrottare kan utgöra risk",
+        "summary": "Både Finland och Norge har stoppat ryska idrottare. Sverige vill också göra det med tanke på skid-VM i Falun. Regeringens bedömning är att de kan anses utgöra en risk för Sveriges internationella förbindelser.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Government: Russian athletes may pose a risk",
+        "summary": "Both Finland and Norway have barred Russian athletes. Sweden also wants to do so given the ski world championships in Falun. The government’s assessment is that they can be considered a risk to Sweden’s international relations."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:16:04+01:00"
+      }
+    },
+    {
+      "id": "63d28efb351c",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/blidka-v-med-minst-en-post-som-samordningsminister",
+      "guid": "https://www.dn.se/insandare/blidka-v-med-minst-en-post-som-samordningsminister/",
+      "published_at": "2026-11-18T11:11:43+01:00",
+      "fetched_at": "2026-11-18T11:15:44+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/f8e1cb15-455a-47e7-b035-476d1c178437.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Blidka V med minst en post som samordningsminister",
+        "summary": "INSÄNDARE. Tidigare ministrar har vittnat om att samordningsroll kan ge ett bredare inflytande än vad enskilda ministeruppdrag ger. Om ett samordningsorgan liknande Sverigedemokraternas 2022–2026 inrättas även för Vänsterpartiet bör dess chef kallas minister, skriver Henry Kallioniemi.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Letter. Appease V with at least one post as coordinating minister",
+        "summary": "LETTER. Former ministers have testified that a coordinating role can give broader influence than individual ministerial assignments. If a coordinating body similar to the Sweden Democrats’ 2022–2026 body is set up for the Left Party too, its head should be called a minister, writes Henry Kallioniemi."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:16:04+01:00"
+      }
+    },
+    {
+      "id": "0aba575f8596",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/domkapitlets-utredning-av-birgitta-ed-pausas",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/domkapitlets-utredning-av-birgitta-ed-pausas",
+      "published_at": "2026-11-18T11:09:38+01:00",
+      "fetched_at": "2026-11-18T11:15:42+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Domkapitlets utredning av Birgitta Ed pausas",
+        "summary": "Domkapitlet kommer invänta Länsstyrelsen i Örebros tillsynsärende av Fållöknastiftelsen innan beslut fattas om Birgitta Eds lämplighet som präst. Det står klart efter att protokollet från det senaste sammanträdet offentliggjorts.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Chapter’s investigation of Birgitta Ed is paused",
+        "summary": "The Chapter will await the County Administrative Board of Örebro’s supervisory case concerning Fållöknastiftelsen before deciding on Birgitta Ed’s suitability as a priest. This is clear after the minutes of the latest meeting were made public."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:16:04+01:00"
+      }
+    },
+    {
+      "id": "213a6f46c8cb",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/analytikern-positiva-trenden-fortsatter-for-saas-bolagen",
+      "guid": "162b4113-e893-58fe-a2df-5d757c81a113",
+      "published_at": "2026-11-18T11:08:58+01:00",
+      "fetched_at": "2026-11-18T11:15:46+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Analytikern: Positiva trenden fortsätter för Saas-bolagen",
+        "summary": "Robin Berglund på Redeye om läget för mjukvarubolagen som varit under AI-press det senaste året.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Analyst: Positive trend continues for SaaS companies",
+        "summary": "Robin Berglund at Redeye on the situation for software companies that have been under AI pressure over the past year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:16:04+01:00"
+      }
+    },
+    {
+      "id": "1c8dc4bbbb1d",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/104-kvadratmeter-stort-hus-gick-for-4-8-miljoner",
+      "guid": "de9e23cb-8509-46f4-aa8c-47b6a71677ab",
+      "published_at": "2026-11-18T11:08:47+01:00",
+      "fetched_at": "2026-11-18T11:15:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "104 kvadratmeter stort hus gick för 4,8 miljoner"
+      },
+      "en": {
+        "title": "104 square metre house sold for 4.8 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:16:04+01:00"
+      }
+    },
+    {
+      "id": "d101815e85f5",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/M5R9QB/eu-s-nya-ukrainalan-ska-radda-2027",
+      "guid": "https://www.svd.se/a/M5R9QB/eu-s-nya-ukrainalan-ska-radda-2027?utm_medium=rss",
+      "published_at": "2026-11-18T11:07:31+01:00",
+      "fetched_at": "2026-11-18T11:15:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "EU:s nya Ukrainalån ska rädda 2027",
+        "summary": "EU-kommissionen föreslår ett lån till Ukraina på 45 miljarder euro för att hjälpa landet genom år…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EU’s new Ukraine loan is to rescue 2027",
+        "summary": "The European Commission proposes a loan to Ukraine of 45 billion euros to help the country through year…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:16:04+01:00"
+      }
+    },
+    {
+      "id": "55c73ae4a88b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/vkQ9Lp/eu-s-nya-ukrainalan-ska-radda-2027",
+      "guid": "https://www.aftonbladet.se/nyheter/a/vkQ9Lp/eu-s-nya-ukrainalan-ska-radda-2027?utm_medium=rss",
+      "published_at": "2026-11-18T11:07:30+01:00",
+      "fetched_at": "2026-11-18T11:15:45+01:00",
+      "category": "world",
+      "sv": {
+        "title": "EU:s nya Ukrainalån ska rädda 2027",
+        "summary": "EU-kommissionen föreslår ett lån till Ukraina på 45 miljarder euro för att hjälpa landet genom år…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EU’s new Ukraine loan is to rescue 2027",
+        "summary": "The European Commission proposes a loan to Ukraine of 45 billion euros to help the country through year…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:16:04+01:00"
+      }
+    },
+    {
+      "id": "3cc063c94a13",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/klart-europainflationen-steg-till-4-procent-i-oktober",
+      "guid": "2b62a103-5543-4dd5-b8d3-bddf84b420e1",
+      "published_at": "2026-11-18T11:07:14+01:00",
+      "fetched_at": "2026-11-18T11:15:46+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Klart: Europainflationen steg till 4 procent i oktober",
+        "summary": "Inflationstakten (HIKP) i euroområdet uppgick till 4,0 procent i oktober, upp från 3,8 procent i september. Det visar definitiv statistik från Eurostat.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Confirmed: European inflation rose to 4 percent in October",
+        "summary": "Inflation (HICP) in the euro area amounted to 4.0 percent in October, up from 3.8 percent in September. This is final statistics from Eurostat."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:16:04+01:00"
+      }
+    },
+    {
+      "id": "a30d1812f03e",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/6PjXq0/allans-korv-i-malmo-har-fatt-en-nanme-och-rykte-om-att-vara-i-korvkrig",
+      "guid": "https://www.aftonbladet.se/nyheter/a/6PjXq0/allans-korv-i-malmo-har-fatt-en-nanme-och-rykte-om-att-vara-i-korvkrig?utm_medium=rss",
+      "published_at": "2026-11-18T11:04:25+01:00",
+      "fetched_at": "2026-11-18T11:15:45+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/c43bde24-5043-3812-a668-85a50a2a80c0?format=auto&s=4adc4a34e71ea15d51792909e74a83a2c9c43f17&w=1000",
+      "sv": {
+        "title": "Allan-bråk i Malmö: ”Vi säljer inte ens korv”",
+        "summary": "I Malmö har två gatukök med snarlika namn skapat förvirring – och rykten om ett korvkrig.Men här är det ingen som spelar Allan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Allan dispute in Malmö: ”We don’t even sell sausages”",
+        "summary": "In Malmö, two street kitchens with similar names have caused confusion – and rumours of a sausage war. But here nobody is playing Allan."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:16:04+01:00"
+      }
+    },
+    {
+      "id": "67530e1916d2",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/64hOF4AmLA6dcaxRPpqKVm/kraever-ansvar-efter-stoertfloden-offer-foer-krisen-vi-inte-orsakat",
+      "guid": "64hOF4AmLA6dcaxRPpqKVm",
+      "published_at": "2026-11-18T11:03:24+01:00",
+      "fetched_at": "2026-11-18T11:15:46+01:00",
+      "category": "world",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Kräver ansvar efter störtfloden: ”Offer för krisen vi inte orsakat”",
+        "summary": "Störtfloden, som tros ha orsakat omkring 7 000 människors död, har också förstört stora odlingsytor. I de drabbade regionerna i norra Nepal handlar det om 80 procent. Bönderna i Sano Syabrubesi beskriver att förhållandena har varit satta ur spel sedan länge.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Calls for accountability after the flash flood: ”Victims of a crisis we did not cause”",
+        "summary": "The flash flood, believed to have caused the deaths of around 7,000 people, has also destroyed large areas of farmland. In the affected regions of northern Nepal, this amounts to 80 percent. Farmers in Sano Syabrubesi describe that conditions have been disrupted for a long time."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:16:04+01:00"
+      }
+    },
     {
       "id": "f01718939bad",
       "schema_version": 1,
@@ -30,6 +320,38 @@
       }
     },
     {
+      "id": "d699cf64fd46",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/goteborgsvarvet-kan-slappa-fler-platser.3829929d-ea14-5445-a917-a7bcde401b30",
+      "guid": "3829929d-ea14-5445-a917-a7bcde401b30",
+      "published_at": "2026-11-18T11:00:44+01:00",
+      "fetched_at": "2026-11-18T11:15:46+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Sport",
+        "Tagg: Göteborgsvarvet",
+        "Tagg: Årets julklapp"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/56d0e901-7f54-3bb2-843f-822c2bade89e",
+      "sv": {
+        "title": "Göteborgsvarvet kan släppa fler platser",
+        "summary": "Startplats i motionslopp är Årets julklapp. Nu öppnar Göteborgsvarvet för att öppna för fler löpare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Göteborgsvarvet may release more places",
+        "summary": "A starting place in a fun run is this year’s Christmas present. Now Göteborgsvarvet is opening up to more runners."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:16:04+01:00"
+      }
+    },
+    {
       "id": "281ef9961f53",
       "schema_version": 1,
       "source": "dn",
@@ -54,6 +376,59 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T11:01:17+01:00"
+      }
+    },
+    {
+      "id": "662e4b56c4be",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344733",
+      "guid": "rss:sr.se/article/9344733",
+      "published_at": "2026-11-18T11:00:00+01:00",
+      "fetched_at": "2026-11-18T11:15:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Indien ger sig in i fredsamtalen om Ukraina",
+        "summary": "Indien har under hösten gett sig in i frågan allt mer och har också lagt fram ett eget förslag till vapenvila. I fokus i Indiens försök att främja fredssamtal mellan Ryssland och Ukraina står de ekonomiska konsekvenser som kriget för med sig.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "India joins the peace talks on Ukraine",
+        "summary": "India has during the autumn increasingly engaged with the issue and has also put forward its own proposal for a ceasefire. The focus of India’s efforts to promote peace talks between Russia and Ukraine is the economic consequences of the war."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:16:04+01:00"
+      }
+    },
+    {
+      "id": "918d4054e8f6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/analytiker-det-kan-fa-gruvjattarnas-ras-att-vanda",
+      "guid": "5dea711f-6d73-4fa8-93b0-72a6b9ee5540",
+      "published_at": "2026-11-18T10:59:57+01:00",
+      "fetched_at": "2026-11-18T11:15:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/02d84fa0-6418-4899-a30d-16d15f38137f.jpeg?width=600",
+      "sv": {
+        "title": "Analytiker: Det kan få gruvjättarnas ras att vända",
+        "summary": "Metallpriserna fortsätter att sjunka, och de svenska gruvjättarna faller tungt på onsdagen. En tilltagande inflationsoro spelar en huvudroll – men det finns nycklar för att vända vikande trenden, enligt råvaruanalytikern Christian Kopfer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Analyst: This could turn the mining giants’ slide around",
+        "summary": "Metal prices continue to fall, and the Swedish mining giants are falling sharply on Wednesday. Rising inflation concerns play a leading role – but there are keys to reversing the declining trend, according to commodity analyst Christian Kopfer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:16:04+01:00"
       }
     },
     {
@@ -3622,6 +3997,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T08:15:50+01:00"
+      }
+    },
+    {
+      "id": "1244283597ab",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/r8A9Le/brand-pa-avfallsanlaggning-kraftig-rokutveckling",
+      "guid": "https://www.aftonbladet.se/nyheter/a/r8A9Le/brand-pa-avfallsanlaggning-kraftig-rokutveckling?utm_medium=rss",
+      "published_at": "2026-11-18T07:16:12+01:00",
+      "fetched_at": "2026-11-18T11:15:45+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/04d798ac-2717-3dcb-baf3-66e7773d9736?format=auto&s=769a6846b7a0db1ddbc479ccea38ad3889bbb4f5&w=1000",
+      "sv": {
+        "title": "Brand på avfallsanläggning: ”Inte under kontroll”",
+        "summary": "På Stena Recycling ✓ ”Inte under kontroll”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fire at waste facility: ”Not under control”",
+        "summary": "At Stena Recycling ✓ ”Not under control”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:16:04+01:00"
       }
     },
     {

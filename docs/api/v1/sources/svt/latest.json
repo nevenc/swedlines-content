@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-18T11:01:17+01:00",
+  "generated_at": "2026-11-18T11:16:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0aba575f8596",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/domkapitlets-utredning-av-birgitta-ed-pausas",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/domkapitlets-utredning-av-birgitta-ed-pausas",
+      "published_at": "2026-11-18T11:09:38+01:00",
+      "fetched_at": "2026-11-18T11:15:42+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Domkapitlets utredning av Birgitta Ed pausas",
+        "summary": "Domkapitlet kommer invänta Länsstyrelsen i Örebros tillsynsärende av Fållöknastiftelsen innan beslut fattas om Birgitta Eds lämplighet som präst. Det står klart efter att protokollet från det senaste sammanträdet offentliggjorts.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Chapter’s investigation of Birgitta Ed is paused",
+        "summary": "The Chapter will await the County Administrative Board of Örebro’s supervisory case concerning Fållöknastiftelsen before deciding on Birgitta Ed’s suitability as a priest. This is clear after the minutes of the latest meeting were made public."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T11:16:04+01:00"
+      }
+    },
     {
       "id": "ebb09ad355ff",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Oscar-tipped Malkovich a morphine-addicted spy in opening film 'Wild Horse Nine'",
         "summary": "The Stockholm Film Festival is under way. Between 11 and 22 November more than 130 films from some 60 countries are shown."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "8bd3e3aa0014",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/kultur/filmfestivalen-har-daddy-issues-manga-filmer-om-pappor-i-ar",
-      "guid": "https://www.svt.se/kultur/filmfestivalen-har-daddy-issues-manga-filmer-om-pappor-i-ar",
-      "published_at": "2026-11-12T07:00:04+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Filmfestivalen har daddy issues: ”många filmer om pappor i år”",
-        "summary": "SVT Kulturnyheterna var på plats på invigningen av Stockholms filmfestival. Programchefen Beatrice Karlsson tipsar om filmer man inte får missa.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The film festival has daddy issues: 'many films about fathers this year'",
-        "summary": "SVT Kulturnyheterna was at the opening of the Stockholm Film Festival. Head of programming Beatrice Karlsson recommends films not to be missed."
       },
       "translation": {
         "status": "done",
