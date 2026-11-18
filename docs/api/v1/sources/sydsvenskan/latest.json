@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-18T10:31:10+01:00",
+  "generated_at": "2026-11-18T10:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2e5cee0c8a10",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/kvinna-atalas-for-mord-pa-bebis",
+      "guid": "8ddb69eb-c77f-40cd-ad49-798a3e5a050e",
+      "published_at": "2026-11-18T10:33:26+01:00",
+      "fetched_at": "2026-11-18T10:45:52+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/d590e7f7-bc34-452b-964b-91a31e380175.jpg?width=600",
+      "sv": {
+        "title": "Kvinna åtalas för mord på bebis",
+        "summary": "En kvinna i Mora kommun åtalas misstänkt för att ha orsakat sitt barns död i somras, rapporterar P4 Dalarna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Woman charged with murder of baby",
+        "summary": "A woman in Mora Municipality is charged on suspicion of having caused her child's death last summer, reports P4 Dalarna."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:45:55+01:00"
+      }
+    },
     {
       "id": "556c1865d660",
       "schema_version": 1,
@@ -5144,33 +5171,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T06:45:48+01:00"
-      }
-    },
-    {
-      "id": "ac50e9c33f82",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/riskerna-for-stora-lund-stoppar-ai-i-skolan",
-      "guid": "00716301-b9ba-4e74-ae92-c5073207fc27",
-      "published_at": "2026-11-16T06:30:00+01:00",
-      "fetched_at": "2026-11-16T06:30:56+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/32ef60d0-636f-4f33-9597-fba7d2d2317a.jpeg?width=600",
-      "sv": {
-        "title": "Riskerna för stora – Lund stoppar AI i skolan",
-        "summary": "Elevers användning av AI-verktyg kan leda till sämre skolresultat. Nu stoppas AI helt i Lunds grundskolor i väntan på tydliga riktlinjer. Verktygen ska inte användas i undervisningen och de har redan blockerats från elevers datorer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Risks of major – Lund bans AI in schools",
-        "summary": "Students' use of AI tools may lead to poorer school results. Now AI is being completely banned in Lund's compulsory schools while awaiting clear guidelines. The tools are not to be used in teaching and have already been blocked on students' computers."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T06:31:00+01:00"
       }
     }
   ]

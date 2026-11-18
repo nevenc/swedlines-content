@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T10:31:10+01:00",
+  "generated_at": "2026-11-18T10:45:56+01:00",
   "count": 200,
   "items": [
     {
@@ -27,6 +27,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "7f2d1928f11d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/oMp1aR/efter-haveriet-nytt-kvittningssystem-i-riksdagen",
+      "guid": "https://www.aftonbladet.se/nyheter/a/oMp1aR/efter-haveriet-nytt-kvittningssystem-i-riksdagen?utm_medium=rss",
+      "published_at": "2026-11-18T10:18:38+01:00",
+      "fetched_at": "2026-11-18T10:45:49+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/11725047-4743-39d2-bd40-85e832014e77?format=auto&s=0d61730e407b622c506d5ac6d61d46039b77acba&w=1000",
+      "sv": {
+        "title": "Efter haveriet – nytt kvittningssystem i riksdagen",
+        "summary": "Nya kvittningssystemet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After the accident – new voting system in the Riksdag",
+        "summary": "New voting system"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:45:55+01:00"
       }
     },
     {
@@ -5349,33 +5376,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:30:08+01:00"
-      }
-    },
-    {
-      "id": "5f9803c3371d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Pv36vJ/sa-blev-alvsjo-heta-zoneni-nya-gangkriget",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Pv36vJ/sa-blev-alvsjo-heta-zoneni-nya-gangkriget?utm_medium=rss",
-      "published_at": "2026-11-15T06:05:21+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/f28b9931-9000-369c-a298-5a5d846e3a95?format=auto&s=664a309ad15196bb50ba2ca00a93c6cbf8c98138&w=1000",
-      "sv": {
-        "title": "Blodiga dåden bakom ”heta zonen”",
-        "summary": "✓ Männen ✓ Blodiga dåden ✓ Konflikten",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The bloody acts behind the \"hot zone\"",
-        "summary": "✓ The men ✓ The bloody acts ✓ The conflict"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:14+01:00"
       }
     }
   ]

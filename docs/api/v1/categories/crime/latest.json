@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-18T10:31:10+01:00",
+  "generated_at": "2026-11-18T10:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ebb09ad355ff",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/blekinge/doda-katter-hittade-i-avstangt-kylskap-par-atalas-for-djurplageri",
+      "guid": "https://www.svt.se/nyheter/lokalt/blekinge/doda-katter-hittade-i-avstangt-kylskap-par-atalas-for-djurplageri",
+      "published_at": "2026-11-18T10:37:51+01:00",
+      "fetched_at": "2026-11-18T10:45:45+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Döda katter hittade i avstängt kylskåp – par åtalas för djurplågeri",
+        "summary": "Ett par i Ronneby kommun åtalas nu för djurplågeri efter att ha misskött sina katter till en sådan grad att flera behövt avlivas. Under utredningen hittades även flera katter döda i ett avstängt kylskåp i parets garage.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dead cats found in switched-off fridge – couple charged with animal cruelty",
+        "summary": "A couple in Ronneby Municipality is now charged with animal cruelty after neglecting their cats to such an extent that several had to be put down. During the investigation, several dead cats were also found in a switched-off fridge in the couple's garage."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:45:55+01:00"
+      }
+    },
+    {
+      "id": "a0267606c465",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/grannarna-om-kryptoranet-obehagligt-att-det-kommer-sa-nara",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/grannarna-om-kryptoranet-obehagligt-att-det-kommer-sa-nara",
+      "published_at": "2026-11-18T10:35:48+01:00",
+      "fetched_at": "2026-11-18T10:45:45+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Grannarna om kryptorånet: Obehagligt att det kommer så nära",
+        "summary": "Christina och Mona har länge bott i närheten av de två personer som utsattes för ett rån i natt. – Det är obehagligt när det kommer så nära, säger Mona.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Neighbours on the crypto robbery: Unsettling that it comes so close",
+        "summary": "Christina and Mona have long lived near the two people who were subjected to a robbery last night. \"It is unsettling when it comes so close,\" says Mona."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:45:55+01:00"
+      }
+    },
+    {
+      "id": "2e5cee0c8a10",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/kvinna-atalas-for-mord-pa-bebis",
+      "guid": "8ddb69eb-c77f-40cd-ad49-798a3e5a050e",
+      "published_at": "2026-11-18T10:33:26+01:00",
+      "fetched_at": "2026-11-18T10:45:52+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/d590e7f7-bc34-452b-964b-91a31e380175.jpg?width=600",
+      "sv": {
+        "title": "Kvinna åtalas för mord på bebis",
+        "summary": "En kvinna i Mora kommun åtalas misstänkt för att ha orsakat sitt barns död i somras, rapporterar P4 Dalarna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Woman charged with murder of baby",
+        "summary": "A woman in Mora Municipality is charged on suspicion of having caused her child's death last summer, reports P4 Dalarna."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:45:55+01:00"
+      }
+    },
     {
       "id": "9e45275f8940",
       "schema_version": 1,
@@ -5268,86 +5347,6 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "64979092f10c",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/stefan-holm-atalas-for-misshandel-pa-bokmassan",
-      "guid": "https://www.dn.se/sverige/stefan-holm-atalas-for-misshandel-pa-bokmassan/",
-      "published_at": "2026-11-13T11:46:24+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/82c041f4-73e9-42ff-af4f-b9ac05684ac9.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Stefan Holm åtalas för misshandel på Bokmässan",
-        "summary": "Idrottsprofilen och författaren Stefan Holm åtalas för misshandel av poddaren Emil Persson. Enligt stämningsansökan har Holm under Bokmässan i Göteborg bland annat tagit tag om Perssons hals. ”Svart raseri”, säger poddaren i förhören.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stefan Holm charged with assault at the Book Fair",
-        "summary": "Sports personality and author Stefan Holm is charged with assaulting podcaster Emil Persson. According to the indictment, Holm among other things grabbed Persson by the throat during the Göteborg Book Fair. 'Black rage,' the podcaster says in the police interviews."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "8721689cd018",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/13-aring-blev-utpressad-efter-mordforsok-i-alby",
-      "guid": "https://www.dn.se/sverige/13-aring-blev-utpressad-efter-mordforsok-i-alby/",
-      "published_at": "2026-11-13T11:44:35+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/3f06d788-64a0-4e83-8d82-07a2bd95deb6.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "13-åring blev utpressad efter mordförsök i Alby",
-        "summary": "Den 30-årige mannen överlevde en skjutning trots att han träffades med flera skott. En 13-årig pojke misstänks för medhjälp till mordförsöket som skedde i Alby i våras. Två tonåringar åtalas nu för skjutningen – och för att efteråt ha utpressat 13-åringen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "13-year-old was blackmailed after attempted murder in Alby",
-        "summary": "The 30-year-old man survived a shooting despite being hit by several shots. A 13-year-old boy is suspected of aiding and abetting the attempted murder, which took place in Alby this spring. Two teenagers are now charged with the shooting – and with afterwards blackmailing the 13-year-old."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "dc2e4cf5a935",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vast/stefan-holm-atalas-efter-misstankta-misshandel",
-      "guid": "https://www.svt.se/nyheter/lokalt/vast/stefan-holm-atalas-efter-misstankta-misshandel",
-      "published_at": "2026-11-13T10:39:43+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Stefan Holm åtalas för misshandel av Emil Persson på Bokmässan",
-        "summary": "Idrottsprofilen Stefan Holm åtalas efter den misstänkta misshandeln av medieprofilen Emil Persson på Bokmässan i Göteborg. Det meddelar Åklagarmyndigheten i ett pressmeddelande på fredagen. – Jag bedömer bevisläget som starkt, säger åklagare Johanna Hellman.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stefan Holm charged with assault of Emil Persson at the Book Fair",
-        "summary": "Sports personality Stefan Holm is charged after the suspected assault of media personality Emil Persson at the Göteborg Book Fair. So announces the Swedish Prosecution Authority in a press release on Friday. – I judge the evidence to be strong, says prosecutor Johanna Hellman."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
       }
     }
   ]

@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-18T10:31:10+01:00",
+  "generated_at": "2026-11-18T10:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ebb09ad355ff",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/blekinge/doda-katter-hittade-i-avstangt-kylskap-par-atalas-for-djurplageri",
+      "guid": "https://www.svt.se/nyheter/lokalt/blekinge/doda-katter-hittade-i-avstangt-kylskap-par-atalas-for-djurplageri",
+      "published_at": "2026-11-18T10:37:51+01:00",
+      "fetched_at": "2026-11-18T10:45:45+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Döda katter hittade i avstängt kylskåp – par åtalas för djurplågeri",
+        "summary": "Ett par i Ronneby kommun åtalas nu för djurplågeri efter att ha misskött sina katter till en sådan grad att flera behövt avlivas. Under utredningen hittades även flera katter döda i ett avstängt kylskåp i parets garage.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Dead cats found in switched-off fridge – couple charged with animal cruelty",
+        "summary": "A couple in Ronneby Municipality is now charged with animal cruelty after neglecting their cats to such an extent that several had to be put down. During the investigation, several dead cats were also found in a switched-off fridge in the couple's garage."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:45:55+01:00"
+      }
+    },
+    {
+      "id": "a0267606c465",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/grannarna-om-kryptoranet-obehagligt-att-det-kommer-sa-nara",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/grannarna-om-kryptoranet-obehagligt-att-det-kommer-sa-nara",
+      "published_at": "2026-11-18T10:35:48+01:00",
+      "fetched_at": "2026-11-18T10:45:45+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Grannarna om kryptorånet: Obehagligt att det kommer så nära",
+        "summary": "Christina och Mona har länge bott i närheten av de två personer som utsattes för ett rån i natt. – Det är obehagligt när det kommer så nära, säger Mona.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Neighbours on the crypto robbery: Unsettling that it comes so close",
+        "summary": "Christina and Mona have long lived near the two people who were subjected to a robbery last night. \"It is unsettling when it comes so close,\" says Mona."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-18T10:45:55+01:00"
+      }
+    },
     {
       "id": "bd944ae66419",
       "schema_version": 1,
@@ -5141,58 +5193,6 @@
       "en": {
         "title": "The film festival has daddy issues: 'many films about fathers this year'",
         "summary": "SVT Kulturnyheterna was at the opening of the Stockholm Film Festival. Head of programming Beatrice Karlsson recommends films not to be missed."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "1ff3edb46355",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/stockholm/trafikolycka-i-fittja-langa-koer",
-      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/trafikolycka-i-fittja-langa-koer",
-      "published_at": "2026-11-12T06:58:55+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Trafikolycka i Fittja – långa köer",
-        "summary": "Fyra personbilar har krockat och två körfält är avstängda. En person är lindrigt skadad.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Traffic accident in Fittja – long queues",
-        "summary": "Four cars have collided and two lanes are closed. One person is slightly injured."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "f7aca930bb98",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/sormland/overvagde-att-lagga-ner-yrkesprogrammet-vande-utvecklingen",
-      "guid": "https://www.svt.se/nyheter/lokalt/sormland/overvagde-att-lagga-ner-yrkesprogrammet-vande-utvecklingen",
-      "published_at": "2026-11-12T06:39:53+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Övervägde att lägga ner yrkesprogram – vände utvecklingen",
-        "summary": "För några år sedan var det så få sökande till industritekniska programmet i Eskilstuna att Rinmangymnasiet övervägde att skrota det helt. Men nu växer det för varje år – och Skolverket vill se en jätteökning i länet. – Det går väldigt bra för de elever som läser industritekniska programmet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Considered closing vocational programme – turned the trend around",
-        "summary": "A few years ago there were so few applicants to the industrial technology programme in Eskilstuna that Rinmangymnasiet considered scrapping it altogether. But now it grows every year – and the National Agency for Education wants to see a huge increase in the county. – Things are going very well for the pupils who study the industrial technology programme."
       },
       "translation": {
         "status": "done",
