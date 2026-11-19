@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T20:31:04+01:00",
+  "generated_at": "2026-11-19T20:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "10bbcccfde1f",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/svensk-storovning-vi-sander-ett-budskap-till-putin",
+      "guid": "https://www.expressen.se/nyheter/sverige/svensk-storovning-vi-sander-ett-budskap-till-putin/",
+      "published_at": "2026-11-19T20:42:35+01:00",
+      "fetched_at": "2026-11-19T20:45:54+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Svensk storövning: ”Vi sänder ett budskap till Putin”",
+        "summary": "Bombade sjukhus, utslagna vägar och attacker mot samhällsviktig infrastruktur. I stabsövningen Polestar 26 testas Sveriges totalförsvar i ett krigsscenario med Ryssland som anfallare. – Vi sänder ett strategiskt budskap till president Putin och Ryssland.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Major Swedish exercise: \"We are sending a message to Putin\"",
+        "summary": "Bombed hospitals, cut-off roads and attacks on critical infrastructure. The staff exercise Polestar 26 tests Sweden's total defence in a war scenario with Russia as the attacker. – We are sending a strategic message to President Putin and Russia."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:45:59+01:00"
+      }
+    },
     {
       "id": "9d693e39fafa",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T12:01:23+01:00"
-      }
-    },
-    {
-      "id": "2de6673d65f1",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/sverige/just-nu-allt-om-senaste-politiska-laget",
-      "guid": "https://www.expressen.se/tv/nyheter/sverige/just-nu-allt-om-senaste-politiska-laget",
-      "published_at": "2026-11-16T11:31:28+01:00",
-      "fetched_at": "2026-11-16T11:45:41+01:00",
-      "category": "other",
-      "sv": {
-        "title": "JUST NU: Allt om det politiska läget",
-        "summary": "Följ Expressens ”Politikrummet” live",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "BREAKING: All about the political situation",
-        "summary": "Follow Expressen's \"Politikrummet\" live"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T11:45:50+01:00"
       }
     }
   ]

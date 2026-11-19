@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-19T20:31:04+01:00",
+  "generated_at": "2026-11-19T20:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "07ae9d59fb8a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ecb-ledamot-maste-undvika-att-inflationen-far-faste",
+      "guid": "83fa5b2f-357d-4cd1-a5c3-46b2e49cfe95",
+      "published_at": "2026-11-19T20:38:46+01:00",
+      "fetched_at": "2026-11-19T20:45:54+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "ECB-ledamot: ”Måste undvika att inflationen får fäste”",
+        "summary": "Det är upp till ECB att förhindra att inflationen blir varaktigt etablerad, men samtidigt måste centralbanken undvika att orsaka onödigt stora skada på den ekonomin. Det sade ECB-rådsledamoten Fabio Panetta, skriver Bloomberg News.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "ECB member: \"Must prevent inflation from taking hold\"",
+        "summary": "It is up to the ECB to prevent inflation from becoming permanently entrenched, but at the same time the central bank must avoid causing unnecessarily large damage to the economy. That is what ECB Governing Council member Fabio Panetta said, according to Bloomberg News."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:45:59+01:00"
+      }
+    },
+    {
+      "id": "67ab68e8730c",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/rosa-mjolken-har-for-att-stanna-proteintrenden-driver-pa-mjolkkonsumtionen",
+      "guid": "https://www.dn.se/ekonomi/rosa-mjolken-har-for-att-stanna-proteintrenden-driver-pa-mjolkkonsumtionen/",
+      "published_at": "2026-11-19T20:36:22+01:00",
+      "fetched_at": "2026-11-19T20:45:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/be0f3694-af3a-4eb0-87d3-f1e4ea6240be.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Rosa mjölken här för att stanna – proteintrenden driver på mjölkkonsumtionen",
+        "summary": "Den rosa mjölken tog Sverige med storm och tömde butikshyllorna runtom i landet. Nu bekräftar Arla att sommarens tillfälliga succé är här för att stanna. – Den rosa mjölken har bidragit till en positiv utveckling för hela mjölkkategorin, säger Sara Borg på Arla.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Pink milk here to stay – protein trend drives milk consumption",
+        "summary": "Pink milk took Sweden by storm and emptied shelves across the country. Now Arla confirms that this summer's temporary success is here to stay. – Pink milk has contributed to a positive development for the whole milk category, says Sara Borg at Arla."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:45:59+01:00"
+      }
+    },
     {
       "id": "16c68052b0d5",
       "schema_version": 1,
@@ -5227,60 +5280,6 @@
       "en": {
         "title": "Asian stock markets continue to fall",
         "summary": "The leading indices follow the pattern from earlier in the week and fall in many places in Asia during the opening Thursday trading."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:15:52+01:00"
-      }
-    },
-    {
-      "id": "02854df35306",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ledare/den-storsta-skandalen-handlar-inte-om-otrohet",
-      "guid": "https://www.dn.se/ledare/den-storsta-skandalen-handlar-inte-om-otrohet/",
-      "published_at": "2026-11-19T05:59:40+01:00",
-      "fetched_at": "2026-11-19T06:15:43+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/f89b513d-61e7-4aed-a928-c5b59a8f8c5e.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Ledare: Den största skandalen handlar inte om otrohet",
-        "summary": "Jensen Huang har avgått som chef för Nvidia efter flera utomäktenskapliga affärer. Men den stora skandalen i den här historien handlar om något annat.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Editorial: The biggest scandal is not about infidelity",
-        "summary": "Jensen Huang has stepped down as head of Nvidia after several extramarital affairs. But the big scandal in this story concerns something else."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:15:52+01:00"
-      }
-    },
-    {
-      "id": "422dc6ae686d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/trump-och-putin-i-mote",
-      "guid": "39e71378-e70c-4df8-a977-bc801761e087",
-      "published_at": "2026-11-19T05:59:11+01:00",
-      "fetched_at": "2026-11-19T06:15:46+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/7373292f-3ad5-4778-8ec0-2217dd7c5e86.jpeg?width=600",
-      "sv": {
-        "title": "Trump och Putin i möte",
-        "summary": "USA:s president Donald Trump och Rysslands president Vladimir Putin höll i ett informellt möte i samband med Apec-toppmötet i kinesiska Shenzhen. Det rapporterar BBC med hänvisning till Vita husets presspool.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump and Putin meet",
-        "summary": "US President Donald Trump and Russian President Vladimir Putin held an informal meeting on the sidelines of the Apec summit in Shenzhen, China. BBC reports, citing the White House press pool."
       },
       "translation": {
         "status": "done",

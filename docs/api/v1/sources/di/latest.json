@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T20:31:04+01:00",
+  "generated_at": "2026-11-19T20:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "07ae9d59fb8a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ecb-ledamot-maste-undvika-att-inflationen-far-faste",
+      "guid": "83fa5b2f-357d-4cd1-a5c3-46b2e49cfe95",
+      "published_at": "2026-11-19T20:38:46+01:00",
+      "fetched_at": "2026-11-19T20:45:54+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "ECB-ledamot: ”Måste undvika att inflationen får fäste”",
+        "summary": "Det är upp till ECB att förhindra att inflationen blir varaktigt etablerad, men samtidigt måste centralbanken undvika att orsaka onödigt stora skada på den ekonomin. Det sade ECB-rådsledamoten Fabio Panetta, skriver Bloomberg News.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "ECB member: \"Must prevent inflation from taking hold\"",
+        "summary": "It is up to the ECB to prevent inflation from becoming permanently entrenched, but at the same time the central bank must avoid causing unnecessarily large damage to the economy. That is what ECB Governing Council member Fabio Panetta said, according to Bloomberg News."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:45:59+01:00"
+      }
+    },
     {
       "id": "16c68052b0d5",
       "schema_version": 1,
@@ -5298,33 +5324,6 @@
       "en": {
         "title": "Phone glitch delays trains",
         "summary": "A problem with the Transport Administration's telephone system is causing delays to rail traffic across Sweden, reports Aftonbladet."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:45:52+01:00"
-      }
-    },
-    {
-      "id": "a14f95cf947b",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/analys/europeiska-bjassarnas-revansch",
-      "guid": "7af8fb04-ba6c-4b1b-b71b-1b940b6a5efd",
-      "published_at": "2026-11-18T16:32:42+01:00",
-      "fetched_at": "2026-11-18T16:45:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/53b88bf8-e422-40ce-aae9-bfc0738139af.jpeg?width=600",
-      "sv": {
-        "title": "Europeiska bjässarnas revansch",
-        "summary": "Pressade Tyskland och Storbritannien sprattlar till. Tillväxttakten i Europas två största ekonomier under det tredje kvartalet var den högsta på fyra år. Proffsen i Di-podden Makrorådet gläds men hoppar inte jämfota.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "European giants' comeback",
-        "summary": "Pressured Germany and the United Kingdom are showing signs of life. GDP growth in Europe's two largest economies in the third quarter was the highest in four years. The pros on the Di podcast Makrorådet are pleased but not jumping for joy."
       },
       "translation": {
         "status": "done",

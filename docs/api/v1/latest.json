@@ -1,7 +1,140 @@
 {
-  "generated_at": "2026-11-19T20:31:04+01:00",
+  "generated_at": "2026-11-19T20:46:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "61d99f9fe94b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/2vG4pv/sallsynt-noshorning-fodd-pa-brittiskt-zoo",
+      "guid": "https://www.aftonbladet.se/nyheter/a/2vG4pv/sallsynt-noshorning-fodd-pa-brittiskt-zoo?utm_medium=rss",
+      "published_at": "2026-11-19T20:45:43+01:00",
+      "fetched_at": "2026-11-19T20:45:53+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/7cb4a00b-5647-3069-a5d6-a91137aab686?format=auto&s=7a2de500f4efa1444afec487355ea94efcba0c1f&w=1000",
+      "sv": {
+        "title": "Sällsynt noshörning född på brittiskt zoo",
+        "summary": "En unge av en sällsynt noshörningsart har fötts på Chester zoo i Storbritannien, uppger djurparken…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Rare rhino born at British zoo",
+        "summary": "A calf of a rare rhino species has been born at Chester Zoo in Britain, the zoo says…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:45:59+01:00"
+      }
+    },
+    {
+      "id": "10bbcccfde1f",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/svensk-storovning-vi-sander-ett-budskap-till-putin",
+      "guid": "https://www.expressen.se/nyheter/sverige/svensk-storovning-vi-sander-ett-budskap-till-putin/",
+      "published_at": "2026-11-19T20:42:35+01:00",
+      "fetched_at": "2026-11-19T20:45:54+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Svensk storövning: ”Vi sänder ett budskap till Putin”",
+        "summary": "Bombade sjukhus, utslagna vägar och attacker mot samhällsviktig infrastruktur. I stabsövningen Polestar 26 testas Sveriges totalförsvar i ett krigsscenario med Ryssland som anfallare. – Vi sänder ett strategiskt budskap till president Putin och Ryssland.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Major Swedish exercise: \"We are sending a message to Putin\"",
+        "summary": "Bombed hospitals, cut-off roads and attacks on critical infrastructure. The staff exercise Polestar 26 tests Sweden's total defence in a war scenario with Russia as the attacker. – We are sending a strategic message to President Putin and Russia."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:45:59+01:00"
+      }
+    },
+    {
+      "id": "07ae9d59fb8a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ecb-ledamot-maste-undvika-att-inflationen-far-faste",
+      "guid": "83fa5b2f-357d-4cd1-a5c3-46b2e49cfe95",
+      "published_at": "2026-11-19T20:38:46+01:00",
+      "fetched_at": "2026-11-19T20:45:54+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "ECB-ledamot: ”Måste undvika att inflationen får fäste”",
+        "summary": "Det är upp till ECB att förhindra att inflationen blir varaktigt etablerad, men samtidigt måste centralbanken undvika att orsaka onödigt stora skada på den ekonomin. Det sade ECB-rådsledamoten Fabio Panetta, skriver Bloomberg News.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "ECB member: \"Must prevent inflation from taking hold\"",
+        "summary": "It is up to the ECB to prevent inflation from becoming permanently entrenched, but at the same time the central bank must avoid causing unnecessarily large damage to the economy. That is what ECB Governing Council member Fabio Panetta said, according to Bloomberg News."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:45:59+01:00"
+      }
+    },
+    {
+      "id": "67ab68e8730c",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/rosa-mjolken-har-for-att-stanna-proteintrenden-driver-pa-mjolkkonsumtionen",
+      "guid": "https://www.dn.se/ekonomi/rosa-mjolken-har-for-att-stanna-proteintrenden-driver-pa-mjolkkonsumtionen/",
+      "published_at": "2026-11-19T20:36:22+01:00",
+      "fetched_at": "2026-11-19T20:45:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/be0f3694-af3a-4eb0-87d3-f1e4ea6240be.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Rosa mjölken här för att stanna – proteintrenden driver på mjölkkonsumtionen",
+        "summary": "Den rosa mjölken tog Sverige med storm och tömde butikshyllorna runtom i landet. Nu bekräftar Arla att sommarens tillfälliga succé är här för att stanna. – Den rosa mjölken har bidragit till en positiv utveckling för hela mjölkkategorin, säger Sara Borg på Arla.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Pink milk here to stay – protein trend drives milk consumption",
+        "summary": "Pink milk took Sweden by storm and emptied shelves across the country. Now Arla confirms that this summer's temporary success is here to stay. – Pink milk has contributed to a positive development for the whole milk category, says Sara Borg at Arla."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:45:59+01:00"
+      }
+    },
+    {
+      "id": "0e8efb6f9283",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/derbyforlust-for-lugi-och-negativa-sviten-vaxer",
+      "guid": "826cbf95-598b-497c-861b-7197e3970c08",
+      "published_at": "2026-11-19T20:33:25+01:00",
+      "fetched_at": "2026-11-19T20:45:55+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/ae6932f2-8cf3-43d2-bc3e-be728b2cdc0c.jpeg?width=600",
+      "sv": {
+        "title": "Derbyförlust för Lugi – och negativa sviten växer",
+        "summary": "Lugi negativa svit är uppe i tio raka matcher utan seger. Skånederbyt mot IFK Kristianstad slutade 36–40.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lugi lose derby – and losing streak grows",
+        "summary": "Lugi's losing streak is now ten straight matches without a win. The Skåne derby against IFK Kristianstad ended 36–40."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:45:59+01:00"
+      }
+    },
     {
       "id": "16c68052b0d5",
       "schema_version": 1,
@@ -5270,136 +5403,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T16:01:34+01:00"
-      }
-    },
-    {
-      "id": "80a1f7e4f368",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/fartkamerabolaget-rasar-helarsprognosen-kan-spricka",
-      "guid": "424b4a02-3f44-4aa9-ac83-fa6fe1bc095e",
-      "published_at": "2026-11-19T15:34:12+01:00",
-      "fetched_at": "2026-11-19T15:45:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/d470e5b3-abde-4f42-b0a1-0f1957448b19.jpeg?width=600",
-      "sv": {
-        "title": "Fartkamerabolaget rasar – helårsprognosen kan spricka",
-        "summary": "Sensys Gatso rasar på börsen efter att trafiksäkerhetsbolaget redovisat fallande omsättning och resultat. Nu flaggar vd Lewis Miller för att leveransförseningar riskerar att spräcka bolagets intäktsprognos för helåret.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Speed camera company plunges – full-year forecast may crack",
-        "summary": "Sensys Gatso falls on the stock market after the road safety company reported falling turnover and earnings. CEO Lewis Miller now flags that delivery delays risk breaking the company's full-year revenue forecast."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
-      }
-    },
-    {
-      "id": "3a55e5a4b784",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/svar-tonaringar-far-halla-till-godo-med-lattol",
-      "guid": "https://www.dn.se/insandare/svar-tonaringar-far-halla-till-godo-med-lattol/",
-      "published_at": "2026-11-19T15:32:32+01:00",
-      "fetched_at": "2026-11-19T15:45:48+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/5bcc1698-21cb-473b-b34d-47ab18dc2df6.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Svar: Tonåringar får hålla till godo med lättöl",
-        "summary": "SVAR PÅ INSÄNDARE. Det vore förödande om Sverige skulle gå samma väg som Finland och tillåta försäljning av starköl i livsmedelsaffärer. Att utsätta ungdomar tidigare i åldrarna för alkohol är helt fel väg att gå, skriver läkaren Bernt Ersson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Letter. Reply: Teenagers to make do with light beer",
-        "summary": "REPLY TO LETTER. It would be devastating if Sweden were to go the same way as Finland and allow sales of strong beer in grocery stores. Exposing young people to alcohol at an earlier age is completely the wrong way to go, writes physician Bernt Ersson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
-      }
-    },
-    {
-      "id": "7404a9325b4d",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/smaland/man-i-35-arsaldern-dod-efter-olycka-pa-arbetsplats",
-      "guid": "https://www.svt.se/nyheter/lokalt/smaland/man-i-35-arsaldern-dod-efter-olycka-pa-arbetsplats",
-      "published_at": "2026-11-19T15:31:32+01:00",
-      "fetched_at": "2026-11-19T15:45:41+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Man i 35-årsåldern död efter olycka på arbetsplats",
-        "summary": "En man i 35-årsåldern har omkommit efter att ha skadats i en arbetsplatsolycka på ett företag i Överum i Västerviks kommun.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man in his 35s dies after workplace accident",
-        "summary": "A man in his mid-thirties has died after being injured in a workplace accident at a company in Överum in Västervik Municipality."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
-      }
-    },
-    {
-      "id": "fa4f2d05a6d2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/dJOPjj/man-dod-efter-arbetsplatsolycka",
-      "guid": "https://www.aftonbladet.se/nyheter/a/dJOPjj/man-dod-efter-arbetsplatsolycka?utm_medium=rss",
-      "published_at": "2026-11-19T15:30:21+01:00",
-      "fetched_at": "2026-11-19T15:45:49+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/93087f20-abce-39d0-b51b-750a5d2048ff?format=auto&s=51407b02ce1fe7e6c75d6289f4f85ab97dee3080&w=1000",
-      "sv": {
-        "title": "Man död efter arbetsplatsolycka",
-        "summary": "En man i 35-årsåldern har avlidit efter en arbetsplatsolycka på en industri i Västervik, uppger…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man dies after workplace accident",
-        "summary": "A man in his mid-thirties has died after a workplace accident at an industrial plant in Västervik, reports…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
-      }
-    },
-    {
-      "id": "725e5bb79613",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80093",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80093&utm_medium=rss",
-      "published_at": "2026-11-19T15:29:16+01:00",
-      "fetched_at": "2026-11-19T15:31:00+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Man död i arbetsplatsolycka"
-      },
-      "en": {
-        "title": "Man dies in workplace accident"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:31:07+01:00"
       }
     }
   ]
