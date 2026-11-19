@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T02:01:15+01:00",
+  "generated_at": "2026-11-19T02:15:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6be97ec497bc",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345810",
+      "guid": "rss:sr.se/article/9345810",
+      "published_at": "2026-11-19T02:13:00+01:00",
+      "fetched_at": "2026-11-19T02:15:41+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Krimbron attackerad igen",
+        "summary": "Den viktiga bron till Krimhalvön har återigen attackerats, enligt ryska källor. För två dagar sedan attackerade Ukraina Krimbron, vilket då orsakade stora skador på bron. På Telegram skriver Krims ryske guvernör att trafiken är stoppad medan man undersöker vilka skador nattens attack har orsakat.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Crimea Bridge attacked again",
+        "summary": "The important bridge to the Crimean Peninsula has again been attacked, according to Russian sources. Two days ago Ukraine attacked the Crimea Bridge, which then caused major damage to the bridge. On Telegram, Crimea's Russian governor writes that traffic has been halted while the damage caused by last night's attack is being assessed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T02:15:48+01:00"
+      }
+    },
     {
       "id": "402432c856ae",
       "schema_version": 1,
@@ -5296,32 +5322,6 @@
       "en": {
         "title": "Sources: Iran plans attack on Washington DC",
         "summary": "Iran plans to attack senior figures within the American presidential administration, according to new American intelligence information indicated by several sources to CNN."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:01:18+01:00"
-      }
-    },
-    {
-      "id": "2df88111547d",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341435",
-      "guid": "rss:sr.se/article/9341435",
-      "published_at": "2026-11-17T05:54:00+01:00",
-      "fetched_at": "2026-11-17T06:01:10+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Soldater tränar på att gömma sig för drönare",
-        "summary": "Svenska soldater ska bli bättre på att skydda sig mot drönare. Skyddet handlar om att hålla sig dold, men också att slå ut fiendens drönare och drönarpiloter.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Soldiers train to hide from drones",
-        "summary": "Swedish soldiers are to get better at protecting themselves against drones. The protection is about staying hidden, but also about knocking out enemy drones and drone pilots."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T02:01:15+01:00",
+  "generated_at": "2026-11-19T02:15:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6be97ec497bc",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345810",
+      "guid": "rss:sr.se/article/9345810",
+      "published_at": "2026-11-19T02:13:00+01:00",
+      "fetched_at": "2026-11-19T02:15:41+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Krimbron attackerad igen",
+        "summary": "Den viktiga bron till Krimhalvön har återigen attackerats, enligt ryska källor. För två dagar sedan attackerade Ukraina Krimbron, vilket då orsakade stora skador på bron. På Telegram skriver Krims ryske guvernör att trafiken är stoppad medan man undersöker vilka skador nattens attack har orsakat.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Crimea Bridge attacked again",
+        "summary": "The important bridge to the Crimean Peninsula has again been attacked, according to Russian sources. Two days ago Ukraine attacked the Crimea Bridge, which then caused major damage to the bridge. On Telegram, Crimea's Russian governor writes that traffic has been halted while the damage caused by last night's attack is being assessed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T02:15:48+01:00"
+      }
+    },
     {
       "id": "a34eba6d7fa9",
       "schema_version": 1,
@@ -5425,33 +5451,6 @@
       "en": {
         "title": "Swish heads for another record year – launches invoice feature",
         "summary": "Swish is now launching invoice payments directly in the app, while the payment services company heads for yet another record year. \"We are growing and volume is increasing, so we will increase both our revenue and profit,\" says CEO Urban Höglund."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:45:52+01:00"
-      }
-    },
-    {
-      "id": "23933ba2a083",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/telefonstrul-sinkar-tagen",
-      "guid": "f65d8f32-95e0-402c-9c26-0ca5c67d94d8",
-      "published_at": "2026-11-18T16:32:50+01:00",
-      "fetched_at": "2026-11-18T16:45:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/5fc493a9-5db7-4b21-97d8-b9b045597a21.jpg?width=600",
-      "sv": {
-        "title": "Telefonstrul sinkar tågen",
-        "summary": "Ett problem med Trafikverkets telefonisystem orsakar förseningar i tågtrafiken runtom i Sverige, rapporterar Aftonbladet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Phone glitch delays trains",
-        "summary": "A problem with the Transport Administration's telephone system is causing delays to rail traffic across Sweden, reports Aftonbladet."
       },
       "translation": {
         "status": "done",
