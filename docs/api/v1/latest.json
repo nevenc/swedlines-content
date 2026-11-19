@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T04:01:14+01:00",
+  "generated_at": "2026-11-19T04:15:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dd63a3f17790",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/j3dpQw/prins-harry-kan-tanka-mig-att-strida-mot-ryssland",
+      "guid": "https://www.aftonbladet.se/nyheter/a/j3dpQw/prins-harry-kan-tanka-mig-att-strida-mot-ryssland?utm_medium=rss",
+      "published_at": "2026-11-19T04:13:40+01:00",
+      "fetched_at": "2026-11-19T04:15:42+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/2075fbfc-fe04-3eb7-87e7-b86a942a6329?format=auto&s=c80ed8c9aaa2599576ba0eb69588a601edfda75d&w=1000",
+      "sv": {
+        "title": "Prins Harry: Kan tänka mig att strida mot Ryssland",
+        "summary": "Prins Harry vill se ett större internationellt stöd för Ukraina och säger att han själv inte skulle…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Prince Harry: Could imagine fighting against Russia",
+        "summary": "Prince Harry wants to see greater international support for Ukraine and says he himself would not…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T04:15:47+01:00"
+      }
+    },
     {
       "id": "2b33a64bb331",
       "schema_version": 1,
@@ -5426,33 +5453,6 @@
       "en": {
         "title": "New Israeli ground invasion in Gaza",
         "summary": "Since the ceasefire was introduced in October 2025, Israel has continued to attack targets inside Gaza, but has not carried out any more extensive military operation. Today, however, the Israeli military IDF announces that it has launched a new ground attack, including advancing tanks."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:01:26+01:00"
-      }
-    },
-    {
-      "id": "4442bda240d8",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/mMRvXL/nya-betygen-kommer-inte-att-bli-rattvisa-skriver-klara-wistrand",
-      "guid": "https://www.svd.se/a/mMRvXL/nya-betygen-kommer-inte-att-bli-rattvisa-skriver-klara-wistrand?utm_medium=rss",
-      "published_at": "2026-11-18T16:45:00+01:00",
-      "fetched_at": "2026-11-18T17:01:16+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/0a8c5d61-8981-3bf8-83db-20fb727cb0b5?format=auto&s=9c718cddbdaa281c3c07deb0936b74b237e64c08&w=1000",
-      "sv": {
-        "title": "”Nya betygen kommer inte att bli rättvisa”",
-        "summary": "Att skapa strukturella hinder för en elev att få de betyg den förtjänar är fel.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"The new grades will not be fair\"",
-        "summary": "Creating structural obstacles for a pupil to get the grades they deserve is wrong."
       },
       "translation": {
         "status": "done",
