@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T01:31:10+01:00",
+  "generated_at": "2026-11-19T01:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a34eba6d7fa9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/anthropic-historiskt-pa-borsen-musk-petas-ner",
+      "guid": "https://www.expressen.se/nyheter/varlden/anthropic-historiskt-pa-borsen-musk-petas-ner/",
+      "published_at": "2026-11-19T01:33:37+01:00",
+      "fetched_at": "2026-11-19T01:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Anthropic historiskt på börsen – Musk petas ner",
+        "summary": "Anthropic är historiskt. Börsentrén drar in 81,3 miljarder dollar. Det är mer än Elon Musks Space X mäktade med.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic historic on the stock market – Musk pushed down",
+        "summary": "Anthropic is historic. The stock market debut brings in USD 81.3 billion. That is more than Elon Musk's Space X managed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T01:45:49+01:00"
+      }
+    },
     {
       "id": "c52b7913f647",
       "schema_version": 1,
@@ -5239,33 +5265,6 @@
       "en": {
         "title": "The National Audit Office to audit Svenska kraftnät – again",
         "summary": "The National Audit Office is to audit Svenska kraftnät and its plans for expanding the main grid. Previous audits have revealed shortcomings."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:45:51+01:00"
-      }
-    },
-    {
-      "id": "28f2f20752f8",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/vi-riskerar-fyra-forlorade-ar",
-      "guid": "8642504e-28fd-40b1-b60c-e457c6be3242",
-      "published_at": "2026-11-18T07:32:10+01:00",
-      "fetched_at": "2026-11-18T07:45:46+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/54c174c3-e7ac-4b35-8490-e4554ba9f933.jpeg?width=600",
-      "sv": {
-        "title": "Vi riskerar fyra förlorade år",
-        "summary": "Centerpartiet måste stå emot de reformer som skulle medföra ett stukat företagsklimat. Annars väntar fyra förlorade år, skriver Magnus Demervall, vd Företagarna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "We risk four lost years",
-        "summary": "The Centre Party must resist the reforms that would bring about a weakened business climate. Otherwise four lost years await, writes Magnus Demervall, CEO of Företagarna."
       },
       "translation": {
         "status": "done",

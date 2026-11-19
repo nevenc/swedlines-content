@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T01:31:10+01:00",
+  "generated_at": "2026-11-19T01:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a34eba6d7fa9",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/anthropic-historiskt-pa-borsen-musk-petas-ner",
+      "guid": "https://www.expressen.se/nyheter/varlden/anthropic-historiskt-pa-borsen-musk-petas-ner/",
+      "published_at": "2026-11-19T01:33:37+01:00",
+      "fetched_at": "2026-11-19T01:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Anthropic historiskt på börsen – Musk petas ner",
+        "summary": "Anthropic är historiskt. Börsentrén drar in 81,3 miljarder dollar. Det är mer än Elon Musks Space X mäktade med.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic historic on the stock market – Musk pushed down",
+        "summary": "Anthropic is historic. The stock market debut brings in USD 81.3 billion. That is more than Elon Musk's Space X managed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T01:45:49+01:00"
+      }
+    },
     {
       "id": "84776d7a983d",
       "schema_version": 1,
@@ -5426,33 +5452,6 @@
       "en": {
         "title": "Phone glitch delays trains",
         "summary": "A problem with the Transport Administration's telephone system is causing delays to rail traffic across Sweden, reports Aftonbladet."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:45:52+01:00"
-      }
-    },
-    {
-      "id": "a14f95cf947b",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/analys/europeiska-bjassarnas-revansch",
-      "guid": "7af8fb04-ba6c-4b1b-b71b-1b940b6a5efd",
-      "published_at": "2026-11-18T16:32:42+01:00",
-      "fetched_at": "2026-11-18T16:45:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/53b88bf8-e422-40ce-aae9-bfc0738139af.jpeg?width=600",
-      "sv": {
-        "title": "Europeiska bjässarnas revansch",
-        "summary": "Pressade Tyskland och Storbritannien sprattlar till. Tillväxttakten i Europas två största ekonomier under det tredje kvartalet var den högsta på fyra år. Proffsen i Di-podden Makrorådet gläds men hoppar inte jämfota.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "European giants' comeback",
-        "summary": "Pressured Germany and the United Kingdom are showing signs of life. GDP growth in Europe's two largest economies in the third quarter was the highest in four years. The pros on the Di podcast Makrorådet are pleased but not jumping for joy."
       },
       "translation": {
         "status": "done",
