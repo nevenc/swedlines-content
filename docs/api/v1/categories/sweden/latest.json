@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T15:01:29+01:00",
+  "generated_at": "2026-11-19T15:15:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "17d8417d395f",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/konstgjuteriets-rivning-stoppas-far-anda-inte-vara-kvar",
+      "guid": "https://www.dn.se/kultur/konstgjuteriets-rivning-stoppas-far-anda-inte-vara-kvar/",
+      "published_at": "2026-11-19T15:04:38+01:00",
+      "fetched_at": "2026-11-19T15:15:41+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/ebc90b50-1fe4-4122-9474-c2b7efd4e26c.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Konstgjuteriets rivning stoppas – får ändå inte vara kvar",
+        "summary": "Det anrika konstgjuteriet Herman Bergman tvingas flytta från sina lokaler vid årsskiftet för att fastighetsägaren Iris vill riva lokalerna. Nu har politikerna stoppat rivningen – men fastighetsägaren kastar ändå ut gjuteriet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Demolition of Konstgjuteriet Halted – But Foundry Still Must Leave",
+        "summary": "The venerable Herman Bergman art foundry is being forced to move out of its premises at year-end because property owner Iris wants to demolish the building. Now politicians have halted the demolition – but the property owner is still evicting the foundry."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T15:15:49+01:00"
+      }
+    },
     {
       "id": "0c219584de7c",
       "schema_version": 1,
@@ -5386,32 +5413,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T10:31:07+01:00"
-      }
-    },
-    {
-      "id": "b00a3fd71759",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/skane/stopp-i-tagtrafiken-mellan-hassleholm-och-kristianstad-6orw47",
-      "guid": "https://www.svt.se/nyheter/lokalt/skane/stopp-i-tagtrafiken-mellan-hassleholm-och-kristianstad-6orw47",
-      "published_at": "2026-11-16T09:28:30+01:00",
-      "fetched_at": "2026-11-16T09:45:39+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Stopp i tågtrafiken mellan Hässleholm och Kristianstad",
-        "summary": "Det är just nu stopp i tågtrafiken mellan Hässleholm och Kristianstad. Orsaken är en olyckshändelse, enligt Skånetrafiken.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Train traffic stopped between Hässleholm and Kristianstad",
-        "summary": "Train traffic between Hässleholm and Kristianstad is currently stopped. The cause is an incident, according to Skånetrafiken."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:45:49+01:00"
       }
     }
   ]
