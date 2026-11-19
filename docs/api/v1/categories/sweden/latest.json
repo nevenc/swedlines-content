@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-19T12:31:18+01:00",
+  "generated_at": "2026-11-19T12:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ab8b859379fb",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-tar-over-villa-NnRsr",
+      "guid": "2409bcb2-7ad6-409b-9d3d-593220d5ee6d",
+      "published_at": "2026-11-19T12:31:53+01:00",
+      "fetched_at": "2026-11-19T12:45:51+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Nya ägare tar över villa"
+      },
+      "en": {
+        "title": "New owners take over villa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T12:45:56+01:00"
+      }
+    },
     {
       "id": "6f64e64d9ec6",
       "schema_version": 1,
@@ -5369,33 +5392,6 @@
       "url": "https://www.svd.se/a/kMJ056/oroande-okning-av-fratskador-pa-tander-hos-unga",
       "guid": "https://www.svd.se/a/kMJ056/oroande-okning-av-fratskador-pa-tander-hos-unga?utm_medium=rss",
       "published_at": "2026-11-16T06:51:00+01:00",
-      "fetched_at": "2026-11-16T07:01:10+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/286723b7-915f-39f9-a484-ef57a989ba42?format=auto&s=3c241aa08bcc466619d36e508e98aba9af37fe1c&w=1000",
-      "sv": {
-        "title": "Oroande ökning av frätskador på tänder hos unga",
-        "summary": "Slitna och ilande tänder redan hos unga personer oroar tandläkare. Energidrycker och läsk uppges…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Worrying increase in acid erosion of teeth among young people",
-        "summary": "Worn and sensitive teeth already in young people worry dentists. Energy drinks and soft drinks are reported to be behind the increase…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T07:01:24+01:00"
-      }
-    },
-    {
-      "id": "547c079f76af",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/4Eq3Pq/oroande-okning-av-fratskador-pa-tander-hos-unga",
-      "guid": "https://www.aftonbladet.se/nyheter/a/4Eq3Pq/oroande-okning-av-fratskador-pa-tander-hos-unga?utm_medium=rss",
-      "published_at": "2026-11-16T06:50:59+01:00",
       "fetched_at": "2026-11-16T07:01:10+01:00",
       "category": "sweden",
       "image_url": "https://akamai.vgc.no/v2/images/286723b7-915f-39f9-a484-ef57a989ba42?format=auto&s=3c241aa08bcc466619d36e508e98aba9af37fe1c&w=1000",

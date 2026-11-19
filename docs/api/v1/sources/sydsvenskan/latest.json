@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-19T12:31:18+01:00",
+  "generated_at": "2026-11-19T12:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "03e722ceb73a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/svenska-donerade-170-miljoner-till-louisiana",
+      "guid": "238c8945-4248-41b7-adf7-414afd062e42",
+      "published_at": "2026-11-19T12:42:56+01:00",
+      "fetched_at": "2026-11-19T12:45:51+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/f9090844-98fc-49da-b998-13d151d0bec3.jpg?width=600",
+      "sv": {
+        "title": "Svenska donerade 170 miljoner till Louisiana",
+        "summary": "Svenska Kristina Nielsen har tillsammans med sin danske make Mogens Deickmann donerat drygt 170 miljoner kronor till Louisiana.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish couple donates SEK 170 million to Louisiana",
+        "summary": "Swede Kristina Nielsen and her Danish husband Mogens Deickmann have donated just over SEK 170 million to Louisiana."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T12:45:56+01:00"
+      }
+    },
+    {
+      "id": "c111a704533e",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/fn-domstol-slar-fast-myanmar-begick-folkmord",
+      "guid": "c64338b5-f9fd-42c2-a5ba-8c984b3c0b06",
+      "published_at": "2026-11-19T12:41:15+01:00",
+      "fetched_at": "2026-11-19T12:45:51+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/f25b74a1-8e1b-4bb1-a63e-8b204e937c00.jpg?width=600",
+      "sv": {
+        "title": "FN-domstol slår fast: Myanmar begick folkmord",
+        "summary": "Myanmar begick folkmord mot landets muslimska minoritet rohingyer, slår Internationella domstolen (ICJ) fast.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "UN court rules: Myanmar committed genocide",
+        "summary": "Myanmar committed genocide against the country's Muslim Rohingya minority, the International Court of Justice (ICJ) rules."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T12:45:56+01:00"
+      }
+    },
+    {
+      "id": "ab8b859379fb",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-tar-over-villa-NnRsr",
+      "guid": "2409bcb2-7ad6-409b-9d3d-593220d5ee6d",
+      "published_at": "2026-11-19T12:31:53+01:00",
+      "fetched_at": "2026-11-19T12:45:51+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Nya ägare tar över villa"
+      },
+      "en": {
+        "title": "New owners take over villa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T12:45:56+01:00"
+      }
+    },
     {
       "id": "1003956ba30f",
       "schema_version": 1,
@@ -5074,79 +5151,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T12:45:55+01:00"
-      }
-    },
-    {
-      "id": "56e14703b2f5",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-villa-6lfbp",
-      "guid": "2349e70d-5499-45be-aa5b-cb2373559ede",
-      "published_at": "2026-11-17T12:31:46+01:00",
-      "fetched_at": "2026-11-17T12:45:49+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nya ägare till villa"
-      },
-      "en": {
-        "title": "New owners of villa"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:45:55+01:00"
-      }
-    },
-    {
-      "id": "9db92ebef063",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-225-kvm-saldes-for-11-2-miljoner",
-      "guid": "1a910ddb-5376-4377-a8e3-bb0bed2d12af",
-      "published_at": "2026-11-17T12:31:46+01:00",
-      "fetched_at": "2026-11-17T12:45:49+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Hus på 225 kvm såldes för 11,2 miljoner"
-      },
-      "en": {
-        "title": "225 square metre house sold for SEK 11.2 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:45:55+01:00"
-      }
-    },
-    {
-      "id": "626f5e166378",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/nyanspolitiker-oskyldig",
-      "guid": "0d28a8d4-d35b-40ae-a3ff-7d5eb928800c",
-      "published_at": "2026-11-17T12:15:43+01:00",
-      "fetched_at": "2026-11-17T12:15:49+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/caff460c-a379-4a35-80c9-06556ba887c9.jpeg?width=600",
-      "sv": {
-        "title": "Nyanspolitiker oskyldig",
-        "summary": "Alla misstankar mot Nyanspolitikern Mehrab Shangezi läggs ner. Han anhölls veckorna före valet, misstänkt för tre olika brott. Nu står det också klart att ingen av de tre assistenter som greps var narkotikapåverkad.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Newcomer politician found innocent",
-        "summary": "All suspicions against newcomer politician Mehrab Shangezi are being dropped. He was detained weeks before the election, suspected of three different crimes. It has now also become clear that none of the three assistants who were arrested was under the influence of narcotics."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:16:04+01:00"
       }
     }
   ]
