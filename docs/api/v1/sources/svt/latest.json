@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-19T11:15:52+01:00",
+  "generated_at": "2026-11-19T11:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c179da671807",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/uppgifter-tag-har-utrymts-i-katrineholm-bombskyddet-inkallat",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/uppgifter-tag-har-utrymts-i-katrineholm-bombskyddet-inkallat",
+      "published_at": "2026-11-19T11:27:58+01:00",
+      "fetched_at": "2026-11-19T11:30:59+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Uppgifter: Tåg har utrymts i Katrineholm – bombskyddet inkallat",
+        "summary": "Ett tåg mellan Stockholm och Göteborg har utrymts i Katrineholm. Det Nationella bombskyddet har kopplats in, enligt uppgifter till Aftonbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: Train evacuated in Katrineholm – national bomb squad called in",
+        "summary": "A train between Stockholm and Göteborg has been evacuated in Katrineholm. The National Bomb Protection unit has been called in, according to information to Aftonbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:31:11+01:00"
+      }
+    },
+    {
+      "id": "8a1aad77e4cc",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/polisen-om-misstankta-skolhotet-i-skelleftea-ska-hallas-nya-forhor",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/polisen-om-misstankta-skolhotet-i-skelleftea-ska-hallas-nya-forhor",
+      "published_at": "2026-11-19T11:26:25+01:00",
+      "fetched_at": "2026-11-19T11:30:59+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisen om misstänkta skolhotet i Skellefteå: ”Ska hållas nya förhör”",
+        "summary": "Utredningen fortsätter kring det misstänkta skolhotet mot Baldergymnasiet i Skellefteå. Under torsdagen hålls nya förhör med den person som sitter anhållen. Polisen är också på plats på skolan. – Vi vill dämpa eventuell oro, säger Lars Westermark på Polisen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police on suspected school threat in Skellefteå: “New interviews to be held”",
+        "summary": "The investigation continues into the suspected school threat against Baldergymnasiet in Skellefteå. On Thursday, new interviews will be held with the person who is detained. Police are also present at the school. – We want to ease any possible concern, says Lars Westermark of the police."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:31:11+01:00"
+      }
+    },
     {
       "id": "05253b6fcfcb",
       "schema_version": 1,
@@ -5141,58 +5193,6 @@
       "en": {
         "title": "Snow situation worse than feared in Umeå – streets chief: 'Can't keep up'",
         "summary": "Snow is pouring down over Umeå on Friday. Considerably more has fallen than the forecast showed. The municipality is forced to reprioritise to keep roads open. – The situation is strained, says Per Hilmersson, head of street operations at Umeå municipality."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "dc2e4cf5a935",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vast/stefan-holm-atalas-efter-misstankta-misshandel",
-      "guid": "https://www.svt.se/nyheter/lokalt/vast/stefan-holm-atalas-efter-misstankta-misshandel",
-      "published_at": "2026-11-13T10:39:43+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Stefan Holm åtalas för misshandel av Emil Persson på Bokmässan",
-        "summary": "Idrottsprofilen Stefan Holm åtalas efter den misstänkta misshandeln av medieprofilen Emil Persson på Bokmässan i Göteborg. Det meddelar Åklagarmyndigheten i ett pressmeddelande på fredagen. – Jag bedömer bevisläget som starkt, säger åklagare Johanna Hellman.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stefan Holm charged with assault of Emil Persson at the Book Fair",
-        "summary": "Sports personality Stefan Holm is charged after the suspected assault of media personality Emil Persson at the Göteborg Book Fair. So announces the Swedish Prosecution Authority in a press release on Friday. – I judge the evidence to be strong, says prosecutor Johanna Hellman."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "635c4747f441",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/stefan-satt-fast-i-elva-timmar-forstor-hela-dagen",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/stefan-satt-fast-i-elva-timmar-forstor-hela-dagen",
-      "published_at": "2026-11-13T10:32:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "Stefan satt fast på E4 i elva timmar: ”Förstör hela dagen”",
-        "summary": "Trafikverket satte in tungbärgare för att hantera det långvariga stoppet på E4 söder om Örnsköldsvik. Lastbilschauffören Stefan Nordin satt fast i elva timmar. – Det förstör hela dagen, säger lastbilschauffören Stefan Nordin.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stefan was stuck on the E4 for eleven hours: 'Ruins the whole day'",
-        "summary": "The Swedish Transport Administration deployed heavy recovery vehicles to deal with the prolonged standstill on the E4 south of Örnsköldsvik. Lorry driver Stefan Nordin was stuck for eleven hours. – It ruins the whole day, says lorry driver Stefan Nordin."
       },
       "translation": {
         "status": "done",

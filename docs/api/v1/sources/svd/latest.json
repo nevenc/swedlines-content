@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-19T11:15:52+01:00",
+  "generated_at": "2026-11-19T11:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d941d2673148",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/530w6E/varumarket-som-talar-till-narcissister",
+      "guid": "https://www.svd.se/a/530w6E/varumarket-som-talar-till-narcissister?utm_medium=rss",
+      "published_at": "2026-11-19T11:30:00+01:00",
+      "fetched_at": "2026-11-19T11:31:01+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/fbfcbd3f-28a6-3de3-b0db-660fd5cc5359?format=auto&s=d2328919793118e1323ba818d8e55163adcf2aa1&w=1000",
+      "sv": {
+        "title": "Ett varumärke för tidens narcissister",
+        "summary": "Mer gemenskap – mindre köpfest är budskapet i Fredrik Lindströms jul-ståupp på Scalateatern.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "A brand for the narcissists of our time",
+        "summary": "More community – less shopping spree is the message in Fredrik Lindström's Christmas stand-up at Scalateatern."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:31:11+01:00"
+      }
+    },
+    {
+      "id": "df4ea61331b0",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80088",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80088&utm_medium=rss",
+      "published_at": "2026-11-19T11:19:08+01:00",
+      "fetched_at": "2026-11-19T11:31:01+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisen söker igenom utrymt tåg"
+      },
+      "en": {
+        "title": "Police search evacuated train"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:31:11+01:00"
+      }
+    },
     {
       "id": "4b10e514ef98",
       "schema_version": 1,
@@ -5166,60 +5216,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T11:45:50+01:00"
-      }
-    },
-    {
-      "id": "d5269e16698d",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/ylqP3x/resan-fran-latin-kings-till-gangsterrap",
-      "guid": "https://www.svd.se/a/ylqP3x/resan-fran-latin-kings-till-gangsterrap?utm_medium=rss",
-      "published_at": "2026-11-16T11:30:00+01:00",
-      "fetched_at": "2026-11-16T11:45:41+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/6c77d0f7-ad06-3599-bf6f-2ca7942c56f2?format=auto&s=b3a2b8142b317255e41e187ea301be631695074d&w=1000",
-      "sv": {
-        "title": "Resan från Latin Kings till gangsterrap",
-        "summary": "Amat Levins biografi om bröderna Salazar är en berättelse om svensk hiphops utveckling från Latin…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The journey from Latin Kings to gangster rap",
-        "summary": "Amat Levin's biography of the Salazar brothers is a story of the development of Swedish hip-hop from Latin…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T11:45:50+01:00"
-      }
-    },
-    {
-      "id": "6fe49c2fce9c",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/8PmGRd/battre-stadsmiljoer-gynnar-foretagen-skriver-lars-stromgren-mp",
-      "guid": "https://www.svd.se/a/8PmGRd/battre-stadsmiljoer-gynnar-foretagen-skriver-lars-stromgren-mp?utm_medium=rss",
-      "published_at": "2026-11-16T11:00:00+01:00",
-      "fetched_at": "2026-11-16T11:01:12+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/1f6ce6cc-1ef5-3382-bfbd-d6a97b48bc52?format=auto&s=ed6d61e413e8b9671b3ffdc92dd114990b27a645&w=1000",
-      "sv": {
-        "title": "”Bättre stadsmiljöer gynnar företagen”",
-        "summary": "Stockholms rödgröna styre slår fast en tydlig vision och levererar reformer som tar oss dit.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "”Better urban environments benefit businesses”",
-        "summary": "Stockholm's red-green administration sets out a clear vision and delivers reforms that take us there."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T11:01:17+01:00"
       }
     }
   ]

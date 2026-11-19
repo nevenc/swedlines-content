@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T11:15:52+01:00",
+  "generated_at": "2026-11-19T11:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2a35ee80c5c3",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/hanna-lindblom-skolan-har-enorma-problem-att-ta-tag-i",
+      "guid": "https://www.dn.se/sverige/hanna-lindblom-skolan-har-enorma-problem-att-ta-tag-i/",
+      "published_at": "2026-11-19T11:23:42+01:00",
+      "fetched_at": "2026-11-19T11:31:00+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/da776071-5de3-4ff7-9e9b-9dbb493af3dc.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Hanna Lindblom: ”Skolan har enorma problem att ta tag i”",
+        "summary": "Hanna Lindblom företräder den 17-åring som bland annat åtalas för grovt sexuellt ofredande och misshandel på Sigtunaskolan. Hon tror inte det går att förändra den destruktiva internatkulturen. – Den är djupt förankrad i en gammal kultur som är jättesvår att tvätta bort.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hanna Lindblom: “The school has enormous problems to get a grip on”",
+        "summary": "Hanna Lindblom represents the 17-year-old who is among those charged with aggravated sexual molestation and assault at Sigtunaskolan. She does not believe the destructive boarding-school culture can be changed. – It is deeply rooted in an old culture that is very difficult to wash away."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:31:11+01:00"
+      }
+    },
     {
       "id": "2941ac79d3eb",
       "schema_version": 1,
@@ -5368,33 +5395,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T13:15:58+01:00"
-      }
-    },
-    {
-      "id": "21674f5c44e1",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/s-och-v-i-samtal-c-garanterar-regering-utan-v",
-      "guid": "https://www.dn.se/sverige/s-och-v-i-samtal-c-garanterar-regering-utan-v/",
-      "published_at": "2026-11-16T12:57:28+01:00",
-      "fetched_at": "2026-11-16T13:01:23+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/ce1decaf-b3db-41cb-ab0c-2db7eb675613.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "S och V i samtal – C garanterar regering utan V",
-        "summary": "Enligt uppgifter till SVT möttes S-ledaren Magdalena Andersson och Vänsterpartiets Nooshi Dadgostar redan på måndagsförmiddagen för nya förhandlingar. S mål: att få V att backa från sitt krav på ministrar i en eventuellt kommande regering.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "S and V in talks – C guarantees government without V",
-        "summary": "According to information given to SVT, S leader Magdalena Andersson and Left Party leader Nooshi Dadgostar already met on Monday morning for new negotiations. S aim: to get V to back down from its demand for ministers in a possible future government."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T13:01:31+01:00"
       }
     }
   ]

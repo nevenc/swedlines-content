@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T11:15:52+01:00",
+  "generated_at": "2026-11-19T11:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cdc83155fdd2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=14aec9dd-d945-43db-aa2c-5181d19fa022",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=14aec9dd-d945-43db-aa2c-5181d19fa022",
+      "published_at": "2026-11-19T11:24:04+01:00",
+      "fetched_at": "2026-11-19T11:31:01+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Ung man död",
+        "summary": "Olycka utanför Vimmerby",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Young man dead",
+        "summary": "Accident outside Vimmerby"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:31:11+01:00"
+      }
+    },
     {
       "id": "052b5f4447ca",
       "schema_version": 1,
@@ -5390,33 +5416,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T06:15:47+01:00"
-      }
-    },
-    {
-      "id": "97789291909e",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/snart-slut-for-rabatt-i-kollektivtrafiken",
-      "guid": "https://www.dn.se/sverige/snart-slut-for-rabatt-i-kollektivtrafiken/",
-      "published_at": "2026-11-16T05:54:32+01:00",
-      "fetched_at": "2026-11-16T06:01:11+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/246947ba-4d13-4215-a9f9-300e4587a7b1.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Snart slut för rabatt i kollektivtrafiken",
-        "summary": "Planerade du att bunkra månadskort till halverat pris? Ledsen, men endast hos Västtrafik är det möjligt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Soon the end of discounts on public transport",
-        "summary": "Were you planning to stock up on monthly passes at half price? Sorry, but only with Västtrafik is it still possible."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T06:01:32+01:00"
       }
     }
   ]

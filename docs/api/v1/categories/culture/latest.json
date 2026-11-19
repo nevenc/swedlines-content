@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T11:15:52+01:00",
+  "generated_at": "2026-11-19T11:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d941d2673148",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/530w6E/varumarket-som-talar-till-narcissister",
+      "guid": "https://www.svd.se/a/530w6E/varumarket-som-talar-till-narcissister?utm_medium=rss",
+      "published_at": "2026-11-19T11:30:00+01:00",
+      "fetched_at": "2026-11-19T11:31:01+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/fbfcbd3f-28a6-3de3-b0db-660fd5cc5359?format=auto&s=d2328919793118e1323ba818d8e55163adcf2aa1&w=1000",
+      "sv": {
+        "title": "Ett varumärke för tidens narcissister",
+        "summary": "Mer gemenskap – mindre köpfest är budskapet i Fredrik Lindströms jul-ståupp på Scalateatern.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "A brand for the narcissists of our time",
+        "summary": "More community – less shopping spree is the message in Fredrik Lindström's Christmas stand-up at Scalateatern."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:31:11+01:00"
+      }
+    },
     {
       "id": "2941ac79d3eb",
       "schema_version": 1,
@@ -54,6 +81,80 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
+    {
+      "id": "98a30ab7eb8f",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/musik/konsertrecension/recension-karina-canellakis-och-augustin-hadelich-med-gso.80e5fa12-0e21-557d-96c5-938a2dd445d0",
+      "guid": "80e5fa12-0e21-557d-96c5-938a2dd445d0",
+      "published_at": "2026-11-19T10:53:45+01:00",
+      "fetched_at": "2026-11-19T11:31:02+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Konsertrecension",
+        "Tagg: Recension",
+        "Tagg: Göteborgs Symfoniker",
+        "Tagg: Symfonikerna",
+        "Tagg: Göteborgs konserthus",
+        "Tagg: Musik",
+        "Tagg: Magnus Haglund (fotbollsledare)"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/d643cf2a-1590-36d8-9523-32933707e82f",
+      "sv": {
+        "title": "En oerhört bra konsert med stjärndirigenten Karina Canellakis.",
+        "summary": "Här visar Symfonikerna sin styrka som orkester.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "A truly excellent concert with star conductor Karina Canellakis",
+        "summary": "Here the Symfonikerna show their strength as an orchestra."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:31:11+01:00"
+      }
+    },
+    {
+      "id": "209098186814",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/scen/recension-unrecognized-pa-goteborgs-stadsteater.d1776a91-c6f0-5b16-bbc6-9d17ab7fe63d",
+      "guid": "d1776a91-c6f0-5b16-bbc6-9d17ab7fe63d",
+      "published_at": "2026-11-19T10:52:25+01:00",
+      "fetched_at": "2026-11-19T11:31:02+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Scen",
+        "Tagg: Recension",
+        "Tagg: Göteborgs stadsteater",
+        "Tagg: Scen",
+        "Tagg: Teater",
+        "Tagg: Pass",
+        "Tagg: Ellen Jelinek",
+        "Tagg: Kultur",
+        "Tagg: Krig"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/03056102-93ca-3e79-b8b5-ea3535ec1ea9",
+      "sv": {
+        "title": "”Unrecognized” är teater i tjänst hos tiden",
+        "summary": "Krig är ett ofrånkomligt ämne, skriver GP:s kritiker Lis Hellström Sveningson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Unrecognized” is theatre in the service of our time",
+        "summary": "War is an inescapable subject, writes GP critic Lis Hellström Sveningson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:31:11+01:00"
       }
     },
     {
@@ -5533,83 +5634,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T16:40:19+01:00"
-      }
-    },
-    {
-      "id": "ba298f36c5cd",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/robert-pattinson-blir-nye-bond",
-      "guid": "d587cfd7-d756-43c8-8b26-4ac28d8402e3",
-      "published_at": "2026-11-16T16:15:34+01:00",
-      "fetched_at": "2026-11-16T16:16:03+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/ce6926c7-07d4-470f-9303-c8e0135c1f9b.jpg?width=600",
-      "sv": {
-        "title": "Robert Pattinson blir nye Bond",
-        "summary": "Robert Pattinson blir den nye James Bond, skriver Amazon MGM på Instagram.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Robert Pattinson becomes the new Bond",
-        "summary": "Robert Pattinson becomes the new James Bond, Amazon MGM writes on Instagram."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:16:22+01:00"
-      }
-    },
-    {
-      "id": "d1fd528ed3a1",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79972",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79972&utm_medium=rss",
-      "published_at": "2026-11-16T16:06:22+01:00",
-      "fetched_at": "2026-11-16T16:16:00+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Pattinson blir nya James Bond"
-      },
-      "en": {
-        "title": "Pattinson becomes the new James Bond"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:16:22+01:00"
-      }
-    },
-    {
-      "id": "043c0f0b31aa",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/mommis-aska-ska-gravsattas-i-liberia-stallde-fragan-till-mamma",
-      "guid": "fdaebdf1-8445-49f5-9570-f183e8fe4099",
-      "published_at": "2026-11-16T16:05:34+01:00",
-      "fetched_at": "2026-11-16T16:16:03+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/3e090f09-2488-46c2-a665-5888fde570ed.jpeg?width=600",
-      "sv": {
-        "title": "”Mommis” aska ska gravsättas i Liberia: ”Ställde frågan till mamma”",
-        "summary": "Louis ”Mommi” Flemisters aska kommer att gravsättas i Liberia. Familjen hade en önskan om att dela på askan, men valde att inte överklaga länsstyrelsens nej. – Jag ställde frågan till mamma. Rätt och slätt. Då sa hon Liberia, säger Mommis syster Daisy Flemister.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "“Mommi’s” ashes to be interred in Liberia: “I asked Mum”",
-        "summary": "Louis “Mommi” Flemister’s ashes will be interred in Liberia. The family wanted to share the ashes but chose not to appeal the county administrative board’s refusal. – I asked Mum. Plain and simple. Then she said Liberia, says Mommi’s sister Daisy Flemister."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:16:22+01:00"
       }
     }
   ]
