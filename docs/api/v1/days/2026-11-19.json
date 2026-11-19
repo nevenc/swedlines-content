@@ -1,7 +1,137 @@
 {
-  "generated_at": "2026-11-19T15:15:49+01:00",
-  "count": 423,
+  "generated_at": "2026-11-19T15:31:08+01:00",
+  "count": 430,
   "items": [
+    {
+      "id": "725e5bb79613",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80093",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80093&utm_medium=rss",
+      "published_at": "2026-11-19T15:29:16+01:00",
+      "fetched_at": "2026-11-19T15:31:00+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Man död i arbetsplatsolycka"
+      },
+      "en": {
+        "title": "Man dies in workplace accident"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T15:31:07+01:00"
+      }
+    },
+    {
+      "id": "c3a71e3d027f",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/GPGKyB/tag-utrymdes-121-resenarer-saknades",
+      "guid": "https://www.aftonbladet.se/nyheter/a/GPGKyB/tag-utrymdes-121-resenarer-saknades?utm_medium=rss",
+      "published_at": "2026-11-19T15:28:21+01:00",
+      "fetched_at": "2026-11-19T15:31:00+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/f7cf0f94-ed81-3757-9bfd-c531b56e9c81?format=auto&s=2d374da3aa8bcb526b5f342c4a2349c73c66d053&w=1000",
+      "sv": {
+        "title": "Tåg utrymdes – 121 resenärer saknades",
+        "summary": "Dök aldrig upp ✓ Bombskyddet larmat",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Train evacuated – 121 passengers missing",
+        "summary": "Never showed up ✓ Bomb shelter alarmed"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T15:31:07+01:00"
+      }
+    },
+    {
+      "id": "ccf679498344",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/amf-avstar-fran-anthropic",
+      "guid": "8071563e-2578-4b07-8e2b-2ba066c027f9",
+      "published_at": "2026-11-19T15:21:42+01:00",
+      "fetched_at": "2026-11-19T15:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c1e62d42-de1c-4a6a-bf99-4af37dfd8f4e.jpeg?width=600",
+      "sv": {
+        "title": "AMF avstår från Anthropic",
+        "summary": "Pensionsjätten AMF nobbar den stekheta noteringen av AI-jätten Anthropic. John Hernander, chef för utländska aktier, pekar på flera frågetecken i den globala hajpen. ”Den stora frågeställningen är hur mycket som stannar i Anthropics ficka”, säger han till Di.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "AMF stays away from Anthropic",
+        "summary": "Pension giant AMF is turning down the scorching listing of AI giant Anthropic. John Hernander, head of foreign equities, points to several question marks in the global hype. \"The big question is how much stays in Anthropic's pocket\", he tells Di."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T15:31:07+01:00"
+      }
+    },
+    {
+      "id": "42744e55638c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=0321e494-0b87-4d69-a070-121f00cca631",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0321e494-0b87-4d69-a070-121f00cca631",
+      "published_at": "2026-11-19T15:19:58+01:00",
+      "fetched_at": "2026-11-19T15:31:01+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Man död i arbetsplatsolycka",
+        "summary": "Man klämdes i Västervik",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man dies in workplace accident",
+        "summary": "Man crushed in Västervik"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T15:31:07+01:00"
+      }
+    },
+    {
+      "id": "ec59356a1947",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/skrammande-reportagebok-om-utrensningen-pa-karolinska",
+      "guid": "https://www.dn.se/kultur/skrammande-reportagebok-om-utrensningen-pa-karolinska/",
+      "published_at": "2026-11-19T15:15:45+01:00",
+      "fetched_at": "2026-11-19T15:30:59+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/f751dd9f-7803-4d9e-a8b2-4ddfc874ccb6.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Skrämmande reportagebok om utrensningen på Karolinska",
+        "summary": "Anna Gustafssons ”Juristerna” är en mikrostudie över hur övergrepp mot anställda kan bli möjliga på stora arbetsplatser som Karolinska. Per Wirtén läser en viktig och uppseendeväckande reportagebok om makten över arbetet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Chilling reportage book on the purge at Karolinska",
+        "summary": "Anna Gustafsson's \"Juristerna\" is a micro-study of how abuse of employees can become possible at large workplaces such as Karolinska. Per Wirtén reads an important and sensational reportage book on power over work."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T15:31:07+01:00"
+      }
+    },
     {
       "id": "4c3bf059ce3d",
       "schema_version": 1,
@@ -160,6 +290,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T15:15:49+01:00"
+      }
+    },
+    {
+      "id": "6e622088d385",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/langdskidor/kristine-stavas-skistad-talar-ut-varit-som-en-mardrom",
+      "guid": "https://www.svt.se/sport/langdskidor/kristine-stavas-skistad-talar-ut-varit-som-en-mardrom",
+      "published_at": "2026-11-19T15:00:57+01:00",
+      "fetched_at": "2026-11-19T15:30:58+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Kristine Stavås Skistad talar ut: ”Varit som en mardröm”",
+        "summary": "Kristine Stavås Skistad har anklagat sin förra tränare för sexuella trakasserier. Nu har den norska längdstjärnan pratat med media för första gången på flera månader. – Det har varit extremt krävande på alla möjliga sätt, säger hon till NRK.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristine Stavås Skistad speaks out: \"It has been like a nightmare\"",
+        "summary": "Kristine Stavås Skistad has accused her former coach of sexual harassment. Now the Norwegian cross-country star has spoken to the media for the first time in several months. – It has been extremely demanding in every possible way, she tells NRK."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T15:31:07+01:00"
       }
     },
     {
@@ -4069,6 +4225,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T11:31:11+01:00"
+      }
+    },
+    {
+      "id": "0e01d08983d8",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/47Ingx5hONugkXfhNPJniv/sigtunaadvokat-sagar-aklagaren-alltfoer-drastisk-atgaerd",
+      "guid": "47Ingx5hONugkXfhNPJniv",
+      "published_at": "2026-11-19T11:20:06+01:00",
+      "fetched_at": "2026-11-19T15:31:01+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Sigtunaadvokat sågar åklagaren: ”Alltför drastisk åtgärd”",
+        "summary": "Kritiserar häktningarna: ”Ska gå i skolan”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sigtuna lawyer slams prosecutor: \"Far too drastic a measure\"",
+        "summary": "Criticises the remand hearings: \"Should be going to school\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T15:31:07+01:00"
       }
     },
     {

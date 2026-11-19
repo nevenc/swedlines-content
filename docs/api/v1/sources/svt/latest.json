@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T15:15:49+01:00",
+  "generated_at": "2026-11-19T15:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6e622088d385",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/langdskidor/kristine-stavas-skistad-talar-ut-varit-som-en-mardrom",
+      "guid": "https://www.svt.se/sport/langdskidor/kristine-stavas-skistad-talar-ut-varit-som-en-mardrom",
+      "published_at": "2026-11-19T15:00:57+01:00",
+      "fetched_at": "2026-11-19T15:30:58+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Kristine Stavås Skistad talar ut: ”Varit som en mardröm”",
+        "summary": "Kristine Stavås Skistad har anklagat sin förra tränare för sexuella trakasserier. Nu har den norska längdstjärnan pratat med media för första gången på flera månader. – Det har varit extremt krävande på alla möjliga sätt, säger hon till NRK.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristine Stavås Skistad speaks out: \"It has been like a nightmare\"",
+        "summary": "Kristine Stavås Skistad has accused her former coach of sexual harassment. Now the Norwegian cross-country star has spoken to the media for the first time in several months. – It has been extremely demanding in every possible way, she tells NRK."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T15:31:07+01:00"
+      }
+    },
     {
       "id": "4d298bcf9680",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Murder suspect in Föllinge said to have used a weapon – convicted today in another case",
         "summary": "The man remanded in custody on suspicion of the murder in Föllinge has confessed to the act. He is now to undergo a forensic psychiatric examination. At the same time the suspect was convicted on Friday of a completely different crime in another part of the country."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "a7b61c454348",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/smaland/inget-dricksvatten-till-naturisar-vaxjo-maste-spara-vatten",
-      "guid": "https://www.svt.se/nyheter/lokalt/smaland/inget-dricksvatten-till-naturisar-vaxjo-maste-spara-vatten",
-      "published_at": "2026-11-13T14:40:55+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Inget dricksvatten till naturisar – Växjö måste spara vatten",
-        "summary": "Växjö kommun ser nu över spolningen av naturisar under kommandet vinter. Orsaken är att grundvattennivåerna i Bergaåsen är mycket låga.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "No drinking water for natural ice rinks – Växjö must save water",
-        "summary": "Växjö municipality is now reviewing the flooding of natural ice rinks during the coming winter. The reason is that groundwater levels in Bergaåsen are very low."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T15:15:49+01:00",
+  "generated_at": "2026-11-19T15:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ec59356a1947",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/skrammande-reportagebok-om-utrensningen-pa-karolinska",
+      "guid": "https://www.dn.se/kultur/skrammande-reportagebok-om-utrensningen-pa-karolinska/",
+      "published_at": "2026-11-19T15:15:45+01:00",
+      "fetched_at": "2026-11-19T15:30:59+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/f751dd9f-7803-4d9e-a8b2-4ddfc874ccb6.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Skrämmande reportagebok om utrensningen på Karolinska",
+        "summary": "Anna Gustafssons ”Juristerna” är en mikrostudie över hur övergrepp mot anställda kan bli möjliga på stora arbetsplatser som Karolinska. Per Wirtén läser en viktig och uppseendeväckande reportagebok om makten över arbetet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Chilling reportage book on the purge at Karolinska",
+        "summary": "Anna Gustafsson's \"Juristerna\" is a micro-study of how abuse of employees can become possible at large workplaces such as Karolinska. Per Wirtén reads an important and sensational reportage book on power over work."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T15:31:07+01:00"
+      }
+    },
     {
       "id": "4c3bf059ce3d",
       "schema_version": 1,
@@ -5361,33 +5388,6 @@
       "en": {
         "title": "Malin Fransson: A medal for the unsung heroes too",
         "summary": "It took 19 at times endless years, but now the wait is over. On Monday, the Swedish players in Tre Kronor women received their World Championship bronze medals, and something new has begun. At the same time, it is fitting to honour the unsung heroes who laid the foundation for the celebration."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:01:23+01:00"
-      }
-    },
-    {
-      "id": "a5475104a327",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sport/straffdrama-nar-sverige-sakrade-vm-bronset",
-      "guid": "https://www.dn.se/sport/straffdrama-nar-sverige-sakrade-vm-bronset/",
-      "published_at": "2026-11-16T17:45:28+01:00",
-      "fetched_at": "2026-11-16T18:01:13+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/b8539693-ddc0-40ed-9065-4d540a379f5e.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Straffdrama när Sverige säkrade VM-bronset",
-        "summary": "VM-bronsmatchen mellan Sverige och Finland utvecklade sig till ett nervöst drama. Efter ordinarie tid var ställningen 1–1 efter att Sverige hade kvitterat med sex minuter kvar av tredje perioden. Förlängningen slutade mållös, och straffar krävdes för att utse en bronsmedaljör.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Penalty drama as Sweden secured World Championship bronze",
-        "summary": "The World Championship bronze medal match between Sweden and Finland developed into a nervous drama. After regular time the score was 1–1, after Sweden equalised with six minutes left of the third period. Extra time ended goalless, and penalties were needed to decide a bronze medallist."
       },
       "translation": {
         "status": "done",
