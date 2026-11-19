@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T11:01:28+01:00",
+  "generated_at": "2026-11-19T11:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "25d09568adec",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/seedningen-klar-kan-bli-danmark-eller-norge-i-em-kvalet",
+      "guid": "45c7448b-63e4-48ef-b406-f4e7f2704ef2",
+      "published_at": "2026-11-19T11:08:35+01:00",
+      "fetched_at": "2026-11-19T11:15:48+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/bf3c96f6-abd7-43fe-8540-6512cf60d8ae.jpeg?width=600",
+      "sv": {
+        "title": "Seedningen klar – kan bli Danmark eller Norge i EM-kvalet",
+        "summary": "Världsmästarna från Spanien eller ärkerivalerna från Norge eller Danmark. Det är några av fotbollslandslagets tänkbara motståndare i EM-kvalet nästa år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Seeding complete – could be Denmark or Norway in EURO qualifiers",
+        "summary": "The world champions from Spain or the arch-rivals from Norway or Denmark. These are some of the possible opponents for the national football team in next year's EURO qualifiers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:15:51+01:00"
+      }
+    },
     {
       "id": "ed2df5f79e89",
       "schema_version": 1,
@@ -5569,32 +5596,6 @@
       "en": {
         "title": "Therese Johaug laughs after SVT's revelation: 'Fake news'",
         "summary": "Therese Johaug has got cold feet after SVT Sport earlier this week revealed her target time for her marathon debut in Valencia. – Fake news, laughs Johaug on the podcast Gukild & Johaug."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "e4e9dc2aa374",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/ishockey/vild-kommentering-efter-nils-hoglanders-mal-oj-herregud-vilket-avslut",
-      "guid": "https://www.svt.se/sport/ishockey/vild-kommentering-efter-nils-hoglanders-mal-oj-herregud-vilket-avslut",
-      "published_at": "2026-11-12T07:41:42+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Vild kommentering efter Nils Höglanders mål: ”Oj, herregud – vilket avslut”",
-        "summary": "Nashville vann i Anaheim med 4–2 – efter ett konstmål av Nils Höglander. Kommentorn blev alldeles vild. – Oj, herregud – vilket avslut, utbrister han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Wild commentary after Nils Höglander's goal: 'Oh my God – what a finish'",
-        "summary": "Nashville won in Anaheim 4–2 – after a work of art of a goal by Nils Höglander. The commentator went completely wild. – Oh my God – what a finish, he exclaims."
       },
       "translation": {
         "status": "done",

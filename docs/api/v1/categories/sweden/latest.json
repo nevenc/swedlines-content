@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T11:01:28+01:00",
+  "generated_at": "2026-11-19T11:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "052b5f4447ca",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/noje/ted-astrom-det-var-nara-att-jag-strok-med",
+      "guid": "https://www.expressen.se/noje/ted-astrom-det-var-nara-att-jag-strok-med/",
+      "published_at": "2026-11-19T11:09:22+01:00",
+      "fetched_at": "2026-11-19T11:15:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Ted Åström: ”Det var nära att jag strök med”",
+        "summary": "Ted Åström har tvingats amputera sitt högerben. Nu hyllar han sjukvården och sin sambo Charlotte. – Det var nära att jag strök med, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ted Åström: \"It was close that I didn't make it\"",
+        "summary": "Ted Åström has had to have his right leg amputated. Now he praises the health care and his partner Charlotte. – It was close that I didn't make it, he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:15:51+01:00"
+      }
+    },
     {
       "id": "05253b6fcfcb",
       "schema_version": 1,
@@ -5384,43 +5410,6 @@
       "en": {
         "title": "Soon the end of discounts on public transport",
         "summary": "Were you planning to stock up on monthly passes at half price? Sorry, but only with Västtrafik is it still possible."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T06:01:32+01:00"
-      }
-    },
-    {
-      "id": "cddd5d2555fa",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/vastsverige/har-vantas-andelen-80-aringar-oka-mest-i-vastsverige.6e5d2f85-74f8-5665-8272-f8d522b14448",
-      "guid": "6e5d2f85-74f8-5665-8272-f8d522b14448",
-      "published_at": "2026-11-16T05:53:31+01:00",
-      "fetched_at": "2026-11-16T06:01:14+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Västsverige",
-        "Tagg: Socialstyrelsen",
-        "Tagg: Äldreomsorg",
-        "Tagg: Öckerö kommun",
-        "Tagg: VG-regionen",
-        "Tagg: Samhällsredaktionen",
-        "Tagg: Fördjupning",
-        "Tagg: VITA FLÄCKAR Öckerö"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/ff30ec2f-c275-304e-8815-4c600f491ff5",
-      "sv": {
-        "title": "Skärgårdens dilemma: Andelen äldre ökar fort",
-        "summary": "Personalen i äldreomsorgen gör sig redo för framtiden: ”Kan inte ge upp”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The archipelago’s dilemma: share of elderly rising fast",
-        "summary": "Elderly care staff are preparing for the future: “Cannot give up”"
       },
       "translation": {
         "status": "done",

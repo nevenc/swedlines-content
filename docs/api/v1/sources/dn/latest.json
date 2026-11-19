@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T11:01:28+01:00",
+  "generated_at": "2026-11-19T11:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2941ac79d3eb",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/fredrik-lindstroms-vrede-over-julens-slajmiga-kommers-ar-narmast-furios",
+      "guid": "https://www.dn.se/kultur/fredrik-lindstroms-vrede-over-julens-slajmiga-kommers-ar-narmast-furios/",
+      "published_at": "2026-11-19T11:02:41+01:00",
+      "fetched_at": "2026-11-19T11:15:44+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/ea16d3ef-6292-4f87-88f4-5d07d5fc5451.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Fredrik Lindströms vrede över julens slajmiga kommers är närmast furiös",
+        "summary": "Historiefarbrorn Fredrik Lindström berättar länge och väl om högtidens ursprung. Men det är när han går loss på samtiden som ”Unna dig en lycklig liten jul” får rätt temperament, skriver DN:s Niklas Wahllöf.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fredrik Lindström's rage over Christmas's slimy commerce is nearly furious",
+        "summary": "History uncle Fredrik Lindström talks at length about the origins of the holiday. But it is when he goes off on the present day that \"Treat Yourself to a Happy Little Christmas\" gets its real temperament, writes DN's Niklas Wahllöf."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:15:51+01:00"
+      }
+    },
     {
       "id": "ca1978bb77af",
       "schema_version": 1,
@@ -5368,33 +5395,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T13:01:31+01:00"
-      }
-    },
-    {
-      "id": "66ab39f38f89",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/nicholas-wenno-jerka-johanssons-skrytsnopp-tar-cringehumorn-till-nya-hojder",
-      "guid": "https://www.dn.se/kultur/nicholas-wenno-jerka-johanssons-skrytsnopp-tar-cringehumorn-till-nya-hojder/",
-      "published_at": "2026-11-16T12:36:39+01:00",
-      "fetched_at": "2026-11-16T12:45:40+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/f894128f-bfbe-4f04-a83b-9915f3077c35.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Nicholas Wennö: Jerka Johanssons skrytsnopp tar cringehumorn till nya höjder",
-        "summary": "I nya säsongen av ”Där solen alltid skiner” skruvar serieskaparen Felix Herngren upp pinsamhetsfaktorn till 11. Redan i premiäravsnittet drar Jerka Johanssons rollfigur i gång en sängkammarscen som får Nicholas Wennö att rodna av sekundundärskam.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nicholas Wennö: Jerka Johansson's bragging quip takes cringe humour to new heights",
-        "summary": "In the new season of \"Där solen alltid skiner\", series creator Felix Herngren turns the embarrassment factor up to 11. Already in the premiere episode, Jerka Johansson's character kicks off a bedroom scene that makes Nicholas Wennö blush with secondhand embarrassment."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:45:53+01:00"
       }
     }
   ]
