@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T03:15:42+01:00",
+  "generated_at": "2026-11-19T03:31:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b6e786ae37e5",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Oype3E/katastroflage-i-fiji",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Oype3E/katastroflage-i-fiji?utm_medium=rss",
+      "published_at": "2026-11-19T03:17:32+01:00",
+      "fetched_at": "2026-11-19T03:30:58+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/d99985d4-bffc-3835-8abc-e02f4ce8da18?format=auto&s=11a1caa1fb0c84d96c3735ad3897eea9d35175ca&w=1000",
+      "sv": {
+        "title": "Katastrofläge i Fiji",
+        "summary": "Önationen Fiji har utlyst nationellt katastrofläge på grund av ihållande torka.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fiji declares national state of disaster",
+        "summary": "The island nation of Fiji has declared a national state of disaster due to ongoing drought."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T03:31:02+01:00"
+      }
+    },
     {
       "id": "ff8644839a38",
       "schema_version": 1,
@@ -5301,33 +5328,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T06:31:06+01:00"
-      }
-    },
-    {
-      "id": "ef0790dcd3ed",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/har-ar-sveriges-roll-i-natos-segerteori-om-ryssland",
-      "guid": "https://www.dn.se/sverige/har-ar-sveriges-roll-i-natos-segerteori-om-ryssland/",
-      "published_at": "2026-11-17T06:09:24+01:00",
-      "fetched_at": "2026-11-17T06:15:41+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/f79926d5-3757-4866-b67d-d8ac8b277072.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Här är Sveriges roll i Natos segerteori om Ryssland",
-        "summary": "Natos ÖB har lagt fram en teori för seger i ett krig mot Ryssland. Planen innebär svenska styrkor i fronten för att blockera anfall, enligt experter. – Jag tror att det skakar om Sverige, säger Håkan Edström, professor i militärstrategi.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here is Sweden's role in NATO's victory theory on Russia",
-        "summary": "NATO's Supreme Allied Commander has presented a theory for victory in a war against Russia. The plan involves Swedish forces at the front to block attacks, according to experts. – I think it shakes up Sweden, says Håkan Edström, professor of military strategy."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:15:50+01:00"
       }
     }
   ]
