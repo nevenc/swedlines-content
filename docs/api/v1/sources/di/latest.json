@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T18:45:57+01:00",
+  "generated_at": "2026-11-19T19:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "93c786f492bd",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/ett-styrkebesked-fran-anthropic-men-nu-maste-bolaget-leverera",
+      "guid": "35fe5a73-691f-4747-9891-b6f70bc62713",
+      "published_at": "2026-11-19T18:47:22+01:00",
+      "fetched_at": "2026-11-19T19:01:11+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e39b4ec2-c9f5-4c25-a644-7c5e0783cc15.jpeg?width=600",
+      "sv": {
+        "title": "Ett styrkebesked från Anthropic – men nu måste bolaget leverera",
+        "summary": "NEW YORK. När handeln i Anthropic-aktien drog i gång rusade kursen med 34 procent. En enormt stark debut för AI-bolaget, vars notering övertecknades kraftigt. Värderingen steg till omkring 1.900 miljarder dollar, vilket placerar bolaget bland världens största börsbolag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "A show of strength from Anthropic – but now the company must deliver",
+        "summary": "NEW YORK. When trading in Anthropic shares got under way, the price surged 34 percent. A very strong debut for the AI company, whose listing was heavily oversubscribed. The valuation rose to around USD 1,900 billion, placing the company among the world's largest listed companies."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:01:19+01:00"
+      }
+    },
     {
       "id": "4aecb263a5e9",
       "schema_version": 1,
@@ -5300,33 +5327,6 @@
       "en": {
         "title": "Beauty company hacked – warns customers",
         "summary": "The internal systems of hair care and beauty company Lykos have been hit by an intrusion in which an unauthorised party gained access to personal data. Several media outlets report this."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:01:35+01:00"
-      }
-    },
-    {
-      "id": "278e1a7600cd",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/riksbanken-duckar-fragor-om-klandrade-it-chefens-resor",
-      "guid": "1ec69e75-a8e6-4922-a632-a8d113c92a3b",
-      "published_at": "2026-11-18T15:41:33+01:00",
-      "fetched_at": "2026-11-18T16:01:21+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/3a942717-f5b5-42c5-986f-8b6aec8b97da.jpeg?width=600",
-      "sv": {
-        "title": "Riksbanken duckar frågor om klandrade it-chefens resor",
-        "summary": "Di har i två dagar sökt ansvariga på Riksbanken för att få svar på ett antal obesvarade frågor kopplade till avslöjandena om Riksbankens it-chef Mats Eklund. Här är frågorna som Riksbanken inte vill svara på.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Riksbank sidesteps questions about criticised IT chief's trips",
-        "summary": "For two days they have sought those responsible at the Riksbank to get answers to a number of unanswered questions linked to the revelations about Riksbank IT chief Mats Eklund. Here are the questions the Riksbank does not want to answer."
       },
       "translation": {
         "status": "done",

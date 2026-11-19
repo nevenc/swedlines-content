@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T18:45:57+01:00",
+  "generated_at": "2026-11-19T19:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4b21ed8d87cc",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/viktor-barth-kron-vinner-stora-journalistpriset",
+      "guid": "https://www.expressen.se/nyheter/sverige/viktor-barth-kron-vinner-stora-journalistpriset/",
+      "published_at": "2026-11-19T18:49:07+01:00",
+      "fetched_at": "2026-11-19T19:01:11+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Viktor Barth-Kron vinner Stora journalistpriset",
+        "summary": "Expressens Viktor Barth-Kron vinner Stora Journalistpriset. Det tillkännagavs på onsdagskvällen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Viktor Barth-Kron wins the Stora journalistpriset",
+        "summary": "Expressen's Viktor Barth-Kron wins the Stora Journalistpriset. It was announced on Wednesday evening."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:01:19+01:00"
+      }
+    },
     {
       "id": "2ccf0ecd974b",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T10:31:07+01:00"
-      }
-    },
-    {
-      "id": "5112a99d556f",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/ekonomi/tech/uppgifter-apple-slapper-smarta-glasogon-2027",
-      "guid": "https://www.expressen.se/ekonomi/tech/uppgifter-apple-slapper-smarta-glasogon-2027/",
-      "published_at": "2026-11-16T10:10:00+01:00",
-      "fetched_at": "2026-11-16T10:15:46+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "Uppgifter: Apple släpper smarta glasögon 2027",
-        "summary": "Det har under lång tid cirkulerat rykten om att Apple har ett par smarta glasögon på gång. Och enligt färska men ännu obekräftade uppgifter så ska de släppas så snart som nästa år.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: Apple to release smart glasses in 2027",
-        "summary": "Rumours have circulated for a long time that Apple has a pair of smart glasses in the works. And according to fresh but still unconfirmed reports, they could be released as early as next year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:15:51+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T18:45:57+01:00",
+  "generated_at": "2026-11-19T19:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "476369ef1380",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/yz39Lx/tvingades-betala-125-procent-i-skatt-brott-mot-manskliga-rattigheter",
+      "guid": "https://www.aftonbladet.se/nyheter/a/yz39Lx/tvingades-betala-125-procent-i-skatt-brott-mot-manskliga-rattigheter?utm_medium=rss",
+      "published_at": "2026-11-19T18:46:04+01:00",
+      "fetched_at": "2026-11-19T19:01:10+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/af3d9800-3336-3c42-9360-40688130ad05?format=auto&s=ba3c64f59c76f8dd3e4abd3775488448f5b56a08&w=1000",
+      "sv": {
+        "title": "Tvingades betala 125 procent i skatt: ”Brott mot mänskliga rättigheter”",
+        "summary": "Tvingades betala 125 procent i skatt",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Forced to pay 125 percent in tax: \"Violation of human rights\"",
+        "summary": "Forced to pay 125 percent in tax"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:01:19+01:00"
+      }
+    },
     {
       "id": "0dc429c05708",
       "schema_version": 1,
@@ -5345,33 +5372,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T23:31:02+01:00"
-      }
-    },
-    {
-      "id": "8e3bc3769261",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/vkQ6dB/sd-ledamot-andrar-sig-tanker-inte-hoppa-av",
-      "guid": "https://www.aftonbladet.se/nyheter/a/vkQ6dB/sd-ledamot-andrar-sig-tanker-inte-hoppa-av?utm_medium=rss",
-      "published_at": "2026-11-16T21:57:49+01:00",
-      "fetched_at": "2026-11-16T22:01:15+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/13001824-6f57-3972-bc7d-5a49411a6199?format=auto&s=eb84adef0f5dcf39196ceedb7cd47f1147246f84&w=1000",
-      "sv": {
-        "title": "SD-ledamot ändrar sig – tänker inte hoppa av",
-        "summary": "SD-riksdagsledamoten Rasmus Giertz meddelade sitt avhopp efter anklagelser om sexuella övertramp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "SD member changes mind – does not intend to leave",
-        "summary": "Sweden Democrats Riksdag member Rasmus Giertz announced his resignation after accusations of sexual misconduct."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T22:01:25+01:00"
       }
     }
   ]

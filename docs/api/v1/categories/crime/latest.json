@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-19T18:45:57+01:00",
+  "generated_at": "2026-11-19T19:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "89a46d648424",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2kDyQQylAk7IfLQBHCSZmK/uppgifter-kvinna-knivmoerdad-pa-jobbet-naerstaende-gripen",
+      "guid": "2kDyQQylAk7IfLQBHCSZmK",
+      "published_at": "2026-11-19T18:47:50+01:00",
+      "fetched_at": "2026-11-19T19:01:11+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Brott och straff"
+      ],
+      "sv": {
+        "title": "Uppgifter: Kvinna knivmördad på jobbet – närstående gripen",
+        "summary": "Polisen i Enköping larmades strax före klockan 21 på onsdagen. Enligt uppgifter till TV4 Nyheterna ska insatsen ha börjat som ett ärende utan brottsmisstankar. Polisen ska ha sökt efter en man. När patrullerna åkte till mannens arbetsplats hittade de en död kvinna, som också arbetade där.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Reports: Woman stabbed to death at work – relative arrested",
+        "summary": "Police in Enköping were alerted shortly before 9 pm on Wednesday. According to TV4 Nyheterna, the operation reportedly began as a case with no suspected crime. Police reportedly searched for a man. When patrols went to the man's workplace, they found a dead woman who also worked there."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:01:19+01:00"
+      }
+    },
     {
       "id": "dbf80d39ba15",
       "schema_version": 1,
@@ -5344,33 +5373,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T11:15:47+01:00"
-      }
-    },
-    {
-      "id": "9f7916b967c2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/pML1KX/lkab-lackte-dieselolja-stams-pa-rekordbelopp",
-      "guid": "https://www.aftonbladet.se/nyheter/a/pML1KX/lkab-lackte-dieselolja-stams-pa-rekordbelopp?utm_medium=rss",
-      "published_at": "2026-11-16T09:45:55+01:00",
-      "fetched_at": "2026-11-16T10:01:16+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/305c32ea-fedf-386d-9d3e-20cff969c353?format=auto&s=b38726e77e331f5ced720dab24758f0969f40b53&w=1000",
-      "sv": {
-        "title": "LKAB läckte dieselolja – stäms på rekordbelopp",
-        "summary": "Gruvjätten LKAB har släppt ut två miljoner liter dieselolja, enligt en utredning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "LKAB leaked diesel – sued for record sum",
-        "summary": "Mining giant LKAB has released two million litres of diesel oil, according to an investigation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:01:35+01:00"
       }
     }
   ]
