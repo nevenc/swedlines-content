@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-19T06:01:24+01:00",
+  "generated_at": "2026-11-19T06:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7c5b17f30029",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/fran-mumintroll-till-derbyeld-stora-kanslor",
+      "guid": "de627ebe-9620-4d64-a1cb-36750197f2c1",
+      "published_at": "2026-11-19T06:14:18+01:00",
+      "fetched_at": "2026-11-19T06:15:47+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/347284be-5be0-400e-85ec-19ae837f602a.jpeg?width=600",
+      "sv": {
+        "title": "Från Mumintroll till derbyeld: ”Stora känslor”",
+        "summary": "Mumintroll, språkbad i svenska och ett Skånederby mot Rögle. Redhawksbacken Eemil Viro njuter. – Jag älskar de här matcherna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "From Mumintroll to derby drama: \"Stora känslor\"",
+        "summary": "Mumintroll, language immersion in Swedish and a Skåne derby against Rögle. Redhawks back Eemil Viro is enjoying it. – I love these matches."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T06:15:52+01:00"
+      }
+    },
+    {
+      "id": "099b11b95198",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/larmet-bensinen-kan-ta-slut-pa-macken",
+      "guid": "da113ae1-a973-4dc1-9624-fed937f75bed",
+      "published_at": "2026-11-19T06:10:08+01:00",
+      "fetched_at": "2026-11-19T06:15:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6366a929-899d-40e8-b7ba-b17613bb5c1f.jpg?width=600",
+      "sv": {
+        "title": "Larmet: Bensinen kan ta slut på macken",
+        "summary": "Det kan bli kö till pumpen inför höjningen av skatten på bensin och diesel i månadsskiftet. Fyll på tanken i god tid för att undvika att macken är tom på drivmedel när du kommer, uppmanar branschorganisationen Drivkraft Sveriges vd Anna Törner.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Alarm: Petrol may run out at the pump",
+        "summary": "There may be queues at the pump ahead of the tax increase on petrol and diesel at the turn of the month. Fill up your tank in good time to avoid finding the station out of fuel when you arrive, urges industry body Drivkraft Sverige CEO Anna Törner."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T06:15:52+01:00"
+      }
+    },
     {
       "id": "2c1dac92c11c",
       "schema_version": 1,
@@ -5068,60 +5122,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T07:01:17+01:00"
-      }
-    },
-    {
-      "id": "b67b11ab386d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/alla-heter-allan-i-malmos-nya-korvkrig",
-      "guid": "afd17518-0a71-4cd7-aab0-ff69db29da74",
-      "published_at": "2026-11-17T06:31:00+01:00",
-      "fetched_at": "2026-11-17T06:45:40+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/98a100a1-9d32-426c-a311-1fc32de08cf4.jpeg?width=600",
-      "sv": {
-        "title": "Alla heter Allan i Malmös nya korvkrig",
-        "summary": "Alla heter plötsligt Allan. I ena ringhörnan klassiska Allans korv intill Stadion, i andra nyöppnade Allans grill på Segevång. – Grillen säljer shawarma och falafel och sån skit, säger Burim Zuta på Allans korv.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Everyone is called Allan in Malmö's new sausage war",
-        "summary": "Suddenly everyone is called Allan. In one corner, classic Allans korv next to the stadium, in the other, newly opened Allans grill in Segevång. \"The grill sells shawarma and falafel and such crap,\" says Burim Zuta of Allans korv."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:45:44+01:00"
-      }
-    },
-    {
-      "id": "0141db7687f4",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/skane/skanes-basta-overnattning-kan-finnas-i-rostanga",
-      "guid": "63f12f2d-0320-43b2-b157-df4fac5039db",
-      "published_at": "2026-11-17T06:30:00+01:00",
-      "fetched_at": "2026-11-17T06:30:59+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/dcc55089-0c51-4bca-a585-cb339e28ae70.jpeg?width=600",
-      "sv": {
-        "title": "Skånes bästa övernattning kan finnas i Röstånga",
-        "summary": "Nackarpsdalen gästgiveri i Röstånga har haft ett intensivt år efter nystarten och har nu blivit nominerad till Skånes bästa övernattning. – Det har varit över förväntan, säger ägaren Mats Lavré.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Skåne's best overnight stay may be in Röstånga",
-        "summary": "Nackarpsdalen gästgiveri in Röstånga has had an intense year since its relaunch and has now been nominated for Skåne's best overnight stay. – It has been beyond expectations, says owner Mats Lavré."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:31:06+01:00"
       }
     }
   ]

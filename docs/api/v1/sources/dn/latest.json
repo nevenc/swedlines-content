@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T06:01:24+01:00",
+  "generated_at": "2026-11-19T06:15:53+01:00",
   "count": 200,
   "items": [
     {
@@ -27,6 +27,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T06:01:24+01:00"
+      }
+    },
+    {
+      "id": "02854df35306",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ledare/den-storsta-skandalen-handlar-inte-om-otrohet",
+      "guid": "https://www.dn.se/ledare/den-storsta-skandalen-handlar-inte-om-otrohet/",
+      "published_at": "2026-11-19T05:59:40+01:00",
+      "fetched_at": "2026-11-19T06:15:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f89b513d-61e7-4aed-a928-c5b59a8f8c5e.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Ledare: Den största skandalen handlar inte om otrohet",
+        "summary": "Jensen Huang har avgått som chef för Nvidia efter flera utomäktenskapliga affärer. Men den stora skandalen i den här historien handlar om något annat.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Editorial: The biggest scandal is not about infidelity",
+        "summary": "Jensen Huang has stepped down as head of Nvidia after several extramarital affairs. But the big scandal in this story concerns something else."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T06:15:52+01:00"
       }
     },
     {
@@ -5361,33 +5388,6 @@
       "en": {
         "title": "How to check whether the Russian tech company has left traces in your browser",
         "summary": "How to check whether Between Digital has left traces in your browser. Here is a guide, browser by browser."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T06:31:00+01:00"
-      }
-    },
-    {
-      "id": "3b480819e4d3",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/ryskt-bolag-sparar-svenskar-via-kanda-sajter",
-      "guid": "https://www.dn.se/sverige/ryskt-bolag-sparar-svenskar-via-kanda-sajter/",
-      "published_at": "2026-11-16T06:23:03+01:00",
-      "fetched_at": "2026-11-16T06:30:53+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/cfcdn-screen9/img/y/9/y9T5eEnBvGm6jcKIfEDrQg_fg/image_6.jpg?io=1&width=1000",
-      "sv": {
-        "title": "Ryskt bolag spårar svenskar – via kända sajter",
-        "summary": "Ett ryskt techföretag, uppbackat av en känd oligark, samlar information om svenska internetanvändare via hundratals webbplatser, kan DN avslöja. Däribland Eniro, Hitta.se, Ratsit, Familjeliv och flera svenska nyhetsmedier.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russian company tracks Swedes – via well-known websites",
-        "summary": "A Russian tech company, backed by a well-known oligarch, collects information about Swedish internet users via hundreds of websites, DN can reveal. Among them are Eniro, Hitta.se, Ratsit, Familjeliv and several Swedish news media."
       },
       "translation": {
         "status": "done",
