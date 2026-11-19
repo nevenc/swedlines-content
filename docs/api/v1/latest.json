@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-19T03:31:03+01:00",
+  "generated_at": "2026-11-19T03:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2b33a64bb331",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/xJPw8n/afp-explosion-i-riyad",
+      "guid": "https://www.aftonbladet.se/nyheter/a/xJPw8n/afp-explosion-i-riyad?utm_medium=rss",
+      "published_at": "2026-11-19T03:43:47+01:00",
+      "fetched_at": "2026-11-19T03:45:47+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/31878010-f224-36b2-9f31-52f85178fd03?format=auto&s=558f761a80484af7f63f2c5ef39faaccf0c5e5d7&w=1000",
+      "sv": {
+        "title": "AFP: Explosion i Riyad",
+        "summary": "En explosion har hörts i Saudiarabiens huvudstad Riyad, uppger AFP-journalister på plats.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "AFP: Explosion in Riyadh",
+        "summary": "An explosion has been heard in the Saudi capital Riyadh, AFP journalists on site report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T03:45:52+01:00"
+      }
+    },
+    {
+      "id": "4d847d13db3b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Vxbe96/musk-kanner-mig-ganska-dum",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Vxbe96/musk-kanner-mig-ganska-dum?utm_medium=rss",
+      "published_at": "2026-11-19T03:32:12+01:00",
+      "fetched_at": "2026-11-19T03:45:47+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/290cc092-2972-3ee9-8307-aaeed23dff4b?format=auto&s=d69abb99f2ce844c518bcdca9811f57882f32515&w=1000",
+      "sv": {
+        "title": "Musk: ”Känner mig ganska dum”",
+        "summary": "Elon Musk donerade miljardsummor till Republikanerna i valrörelsen inför mellanårsvalet i USA.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Musk: \"I feel quite stupid\"",
+        "summary": "Elon Musk donated billions to the Republicans in the election campaign ahead of the US midterm elections."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T03:45:52+01:00"
+      }
+    },
     {
       "id": "b6e786ae37e5",
       "schema_version": 1,
@@ -5406,56 +5460,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T17:01:26+01:00"
-      }
-    },
-    {
-      "id": "973d413e7a7b",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/europarantorna-ned-oljepriset-stabliserades",
-      "guid": "fb7dc6f9-1652-454c-9c10-2f9a67f4805e",
-      "published_at": "2026-11-18T16:38:56+01:00",
-      "fetched_at": "2026-11-18T16:45:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/9295d936-aedd-4864-9d31-3d47ecdf8aca.jpeg?width=600",
-      "sv": {
-        "title": "Europaräntorna ned – oljepriset stabliserades",
-        "summary": "Europaräntorna sjönk under onsdagen, men rörelsen gröptes ur något mot eftermiddagen. Samtidigt fortsatte dollarn handlas nära 19-månadershögsta. Nedgången i amerikanska korträntor dämpades aningen efter att Fed-guvernören Christopher Waller öppnat för en större räntehöjning i december.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "European yields down – oil price stabilised",
-        "summary": "European yields fell on Wednesday, but the movement lost some steam towards the afternoon. Meanwhile the dollar continued trading near a 19-month high. The decline in US short-term yields was slightly dampened after Fed Governor Christopher Waller opened the door to a larger rate hike in December."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:45:52+01:00"
-      }
-    },
-    {
-      "id": "06186558cddb",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-155-kvm-saldes-for-4-6-miljoner",
-      "guid": "7a09e208-96de-48f0-8cf8-e163cc6c9715",
-      "published_at": "2026-11-18T16:38:47+01:00",
-      "fetched_at": "2026-11-18T16:45:46+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Hus på 155 kvm såldes för 4,6 miljoner"
-      },
-      "en": {
-        "title": "House of 155 sq m sold for 4.6 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:45:52+01:00"
       }
     }
   ]
