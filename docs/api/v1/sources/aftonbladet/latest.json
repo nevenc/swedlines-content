@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T12:45:56+01:00",
+  "generated_at": "2026-11-19T13:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a04e80c58fcc",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/1vndlG/antisemitismdom-overklagas-till-hd",
+      "guid": "https://www.aftonbladet.se/nyheter/a/1vndlG/antisemitismdom-overklagas-till-hd?utm_medium=rss",
+      "published_at": "2026-11-19T12:58:56+01:00",
+      "fetched_at": "2026-11-19T13:01:12+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/61a238ab-f725-3a2b-b679-997c135907c3?format=auto&s=dfada31183b69fed29eeda074d718587902c5ab9&w=1000",
+      "sv": {
+        "title": "Antisemitismdom överklagas till HD",
+        "summary": "En hyena med davidsstjärna var antisemitisk – men inte en orm, tyckte hovrätten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Antisemitism ruling appealed to the Supreme Court",
+        "summary": "A hyena with a Star of David was antisemitic – but a snake was not, the court of appeal ruled."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:01:19+01:00"
+      }
+    },
     {
       "id": "0c0941b5de2c",
       "schema_version": 1,
@@ -5346,33 +5373,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T15:31:07+01:00"
-      }
-    },
-    {
-      "id": "f4f23ffe38f3",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/yz3zjR/fortfarande-hoga-halter-pfas-i-sveriges-uttrar",
-      "guid": "https://www.aftonbladet.se/nyheter/a/yz3zjR/fortfarande-hoga-halter-pfas-i-sveriges-uttrar?utm_medium=rss",
-      "published_at": "2026-11-16T15:24:18+01:00",
-      "fetched_at": "2026-11-16T17:15:42+01:00",
-      "category": "science_tech",
-      "image_url": "https://akamai.vgc.no/v2/images/8a814bab-c918-3660-a947-0b34df8bbe47?format=auto&s=aaa4e624cb5aeacfa709019f61dd61ae87a7f0cd&w=723",
-      "sv": {
-        "title": "Fortfarande höga halter PFAS i Sveriges uttrar",
-        "summary": "Jämtland står ut - ”Ingen tydlig källa”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Still high levels of PFAS in Sweden's otters",
-        "summary": "Jämtland stands out - \"No clear source\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T17:15:50+01:00"
       }
     }
   ]

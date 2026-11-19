@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T12:45:56+01:00",
+  "generated_at": "2026-11-19T13:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "85c7411754f1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/anthropic-aktierna-borjar-trilla-in-sa-manga-fick-poddprofilen",
+      "guid": "dd5de720-4852-44d2-b180-b8cb60774c85",
+      "published_at": "2026-11-19T12:54:33+01:00",
+      "fetched_at": "2026-11-19T13:01:13+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/ae2d16f1-c7ff-4166-95e7-7b50a238e4f9.jpeg?width=600",
+      "sv": {
+        "title": "Anthropic-aktierna börjar trilla in – så många fick poddprofilen",
+        "summary": "Nu börjar Anthropic-aktierna dyka upp på investerarnas konton. Börsprofilen John Skogman fick 1.647 aktier, värda omkring 1,4 miljoner kronor, men hade tecknat sig för drygt 10 miljoner kronor. ”Jag hoppas att det kan bli ett plåster på såren efter ett vilt börsår”, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic shares start trickling in – how many the podcast profile got",
+        "summary": "Anthropic shares are now starting to appear in investors' accounts. Stock market profile John Skogman received 1,647 shares, worth about SEK 1.4 million, but had subscribed for just over SEK 10 million. \"I hope it can be a balm for the wounds after a wild stock market year,\" he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:01:19+01:00"
+      }
+    },
     {
       "id": "14ec14bdb498",
       "schema_version": 1,
@@ -5304,33 +5331,6 @@
       },
       "en": {
         "title": "Calm market opening – Sveafastigheter lifts on report"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T09:31:20+01:00"
-      }
-    },
-    {
-      "id": "703e76cdcbd0",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/analys/dippkoparna-gjorde-ratt",
-      "guid": "b81c02f3-af8b-43b0-ac24-6d6a11217995",
-      "published_at": "2026-11-18T09:11:46+01:00",
-      "fetched_at": "2026-11-18T09:31:13+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/64b93d10-1f6d-45b2-ae5a-926b5ea27b77.jpeg?width=600",
-      "sv": {
-        "title": "Dippköparna gjorde rätt",
-        "summary": "Nvidias nya vd Colette Kress gav aktiemarknaden precis de lugnande besked den behövde. Med urstarka siffror och ett oväntat hårt slag mot Kina-försäljningen ser de 80.000 svenska småsparare som köpt dippen ut att få rätt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Dip buyers were right",
-        "summary": "Nvidia's new CEO Colette Kress gave the stock market exactly the calming assurances it needed. With very strong figures and an unexpectedly hard blow to China sales, the 80,000 small Swedish savers who bought the dip look set to be proven right."
       },
       "translation": {
         "status": "done",

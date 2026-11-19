@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-19T12:45:56+01:00",
+  "generated_at": "2026-11-19T13:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f667ffc4e655",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346081",
+      "guid": "rss:sr.se/article/9346081",
+      "published_at": "2026-11-19T12:54:00+01:00",
+      "fetched_at": "2026-11-19T13:01:10+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Kärnstrand: Får Xi Jinping att framstå som en stor ledare",
+        "summary": "Mötet mellan Donald Trump, Vladimir Putin och Xi Jinping har avslutats. Moa Kärnstrand, vår Kinakorrespondent är på plats i Shenzhen där mötet genomförts.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kärnstrand: Makes Xi Jinping look like a great leader",
+        "summary": "The meeting between Donald Trump, Vladimir Putin and Xi Jinping has ended. Moa Kärnstrand, our China correspondent, is on site in Shenzhen where the meeting took place."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:01:19+01:00"
+      }
+    },
+    {
+      "id": "9a571c61d21e",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5cvNw30X2RzF2ne7wnmjMM/rekordmanga-barn-lever-i-konfliktomraden",
+      "guid": "5cvNw30X2RzF2ne7wnmjMM",
+      "published_at": "2026-11-19T12:49:23+01:00",
+      "fetched_at": "2026-11-19T13:01:12+01:00",
+      "category": "world",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Rekordmånga barn lever i konfliktområden",
+        "summary": "Antalet barn som lever i konfliktdrabbade områden i världen fortsätter att öka. Totalt handlar det om 589 miljoner barn - den högsta siffran sedan mätningarna började 1990. Anledningen är bland annat att antalet krig och konflikter har ökat, och att de har blivit mer utdragna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Record number of children living in conflict zones",
+        "summary": "The number of children living in conflict-affected areas around the world continues to rise. In total, 589 million children – the highest figure since measurements began in 1990. The reasons include that the number of wars and conflicts has increased, and that they have become more protracted."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:01:19+01:00"
+      }
+    },
     {
       "id": "2bf99d2d2fdd",
       "schema_version": 1,
@@ -76,6 +131,42 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T12:45:56+01:00"
+      }
+    },
+    {
+      "id": "365f6bb92089",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/fn-domstolen-myanmar-begick-folkmord-mot-rohingyer.30074604-5261-5380-95b3-714c393d5c82",
+      "guid": "30074604-5261-5380-95b3-714c393d5c82",
+      "published_at": "2026-11-19T12:39:13+01:00",
+      "fetched_at": "2026-11-19T13:01:13+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Myanmar",
+        "Tagg: Bangladesh",
+        "Tagg: Folkmord",
+        "Tagg: Rohingya",
+        "Tagg: Internationella domstolen i Haag",
+        "Tagg: FN"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/834ed371-8be4-33be-8147-f02a4c3948be",
+      "sv": {
+        "title": "FN-domstolen slår fast att Myanmar begick folkmord",
+        "summary": "Myanmars styrkor dödade omkring 10 000 rohingyer, enligt Internationella domstolen i Haag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "UN court rules that Myanmar committed genocide",
+        "summary": "Myanmar's forces killed about 10,000 Rohingya, according to the International Court of Justice in The Hague."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:01:19+01:00"
       }
     },
     {
@@ -5251,86 +5342,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T16:45:54+01:00"
-      }
-    },
-    {
-      "id": "5f157210d01d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/klimat/a/WmboWa/da-slutar-danmark-producera-olja-och-gas",
-      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/WmboWa/da-slutar-danmark-producera-olja-och-gas?utm_medium=rss",
-      "published_at": "2026-11-17T16:41:53+01:00",
-      "fetched_at": "2026-11-17T21:01:15+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/39e75aef-df09-3cf7-864f-d21ec864fba8?format=auto&s=cf1c9f5fd58ef83820b7fcfd72f14ac9cce515d8&w=1000",
-      "sv": {
-        "title": "Då slutar Danmark producera olja och gas",
-        "summary": "COP31 Ministern: ”Det blir svårt”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Then Denmark stops producing oil and gas",
-        "summary": "COP31 Minister: “It will be difficult”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T21:01:25+01:00"
-      }
-    },
-    {
-      "id": "62abf686f2b7",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/WmboWa/da-slutar-danmark-producera-olja-och-gas",
-      "guid": "https://www.aftonbladet.se/nyheter/a/WmboWa/da-slutar-danmark-producera-olja-och-gas?utm_medium=rss",
-      "published_at": "2026-11-17T16:41:53+01:00",
-      "fetched_at": "2026-11-17T16:45:46+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/7ec3f0e8-44f3-33dd-8981-1a52154cff14?format=auto&s=22e993d368ace67233ccaf66c6cdf19ce4dc62aa&w=1000",
-      "sv": {
-        "title": "Då slutar Danmark producera olja och gas",
-        "summary": "Danmark ska ha minskat utsläppen med 85 procent år 2035, enligt en plan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Then Denmark stops producing oil and gas",
-        "summary": "Denmark is to have cut emissions by 85 percent by 2035, according to a plan."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:45:54+01:00"
-      }
-    },
-    {
-      "id": "671539d7a2de",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344548",
-      "guid": "rss:sr.se/article/9344548",
-      "published_at": "2026-11-17T16:05:00+01:00",
-      "fetched_at": "2026-11-17T16:15:48+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Sverige lovar ytterligare militärt stöd till Ukraina",
-        "summary": "Sverige utlovar 720 miljoner kronor i militärt stöd till Ukraina. Det nya svenska bidraget är framför allt inriktat på luftförsvar, eftersom Ryssland kraftigt ökat sin produktion av ballistiska robotar och jetdrivna drönare.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Sweden pledges additional military support to Ukraine",
-        "summary": "Sweden pledges SEK 720 million in military support to Ukraine. The new Swedish contribution is primarily focused on air defence, as Russia has sharply increased its production of ballistic missiles and jet-powered drones."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:15:57+01:00"
       }
     }
   ]

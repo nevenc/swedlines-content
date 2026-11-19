@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-19T12:45:56+01:00",
+  "generated_at": "2026-11-19T13:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2f3d990e81d7",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/har-soker-polisen-efter-misstankt-pistolman-i-hyllie",
+      "guid": "c2aa1cf9-efcf-45e0-81a1-b2691b5d935d",
+      "published_at": "2026-11-19T13:00:42+01:00",
+      "fetched_at": "2026-11-19T13:01:14+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/8a7407de-660e-496c-a07b-b03177a0ea2e.jpeg?width=600",
+      "sv": {
+        "title": "Här söker polisen efter misstänkt pistolman i Hyllie",
+        "summary": "Polisen larmades till Emporia på torsdagen efter larm om att en person setts med en pistol i byxlinningen. Polisen genomsökte tåg, restauranger och butiker – utan att någon hittades.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police search for suspected gunman in Hyllie",
+        "summary": "Police were alerted to Emporia on Thursday after reports that a person had been seen with a pistol in their waistband. Police searched trains, restaurants and shops – without finding anyone."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:01:19+01:00"
+      }
+    },
+    {
+      "id": "a04e80c58fcc",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/1vndlG/antisemitismdom-overklagas-till-hd",
+      "guid": "https://www.aftonbladet.se/nyheter/a/1vndlG/antisemitismdom-overklagas-till-hd?utm_medium=rss",
+      "published_at": "2026-11-19T12:58:56+01:00",
+      "fetched_at": "2026-11-19T13:01:12+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/61a238ab-f725-3a2b-b679-997c135907c3?format=auto&s=dfada31183b69fed29eeda074d718587902c5ab9&w=1000",
+      "sv": {
+        "title": "Antisemitismdom överklagas till HD",
+        "summary": "En hyena med davidsstjärna var antisemitisk – men inte en orm, tyckte hovrätten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Antisemitism ruling appealed to the Supreme Court",
+        "summary": "A hyena with a Star of David was antisemitic – but a snake was not, the court of appeal ruled."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:01:19+01:00"
+      }
+    },
     {
       "id": "834b5439cde3",
       "schema_version": 1,
@@ -5297,58 +5351,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T04:01:15+01:00"
-      }
-    },
-    {
-      "id": "de38ebc1d95b",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340233",
-      "guid": "rss:sr.se/article/9340233",
-      "published_at": "2026-11-16T03:04:00+01:00",
-      "fetched_at": "2026-11-16T03:15:40+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisen: Rawa Majid fortsatt aktiv i Foxtrot",
-        "summary": "Polisen bedömer att gängledaren Rawa Majid fortfarande spelar en aktiv roll i den svenska gängkriminaliteten. Trots att hans nätverk Foxtrot har försvagats bedriver de bland annat narkotikahandel och utpressning i Sverige.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Police: Rawa Majid still active in Foxtrot",
-        "summary": "Police assess that gang leader Rawa Majid still plays an active role in Swedish gang crime. Although his network Foxtrot has weakened, it continues to engage in drug trafficking and extortion in Sweden, among other activities."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T03:15:47+01:00"
-      }
-    },
-    {
-      "id": "79e644895190",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/oMpEBj/mexikos-drogkung-ar-dod",
-      "guid": "https://www.svd.se/a/oMpEBj/mexikos-drogkung-ar-dod?utm_medium=rss",
-      "published_at": "2026-11-16T01:45:03+01:00",
-      "fetched_at": "2026-11-16T02:01:10+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Mexikos drogkung är död",
-        "summary": "Miguel Angel Félix Gallardo – ”Gudfadern” – som ledde den ökända Guadalajarakartellen, är död.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mexico's drug kingpin is dead",
-        "summary": "Miguel Angel Félix Gallardo – \"The Godfather\" – who led the notorious Guadalajara Cartel, is dead."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T02:01:15+01:00"
       }
     }
   ]
