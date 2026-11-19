@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-19T04:15:47+01:00",
+  "generated_at": "2026-11-19T04:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "78dee29645a4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=d5127bf0-3be8-475b-9433-9fbbdd4b50e1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d5127bf0-3be8-475b-9433-9fbbdd4b50e1",
+      "published_at": "2026-11-19T04:28:35+01:00",
+      "fetched_at": "2026-11-19T04:31:10+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Stort strömavbrott i Norrköping",
+        "summary": "Påverkat över 11 000 hushåll",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major power outage in Norrköping",
+        "summary": "Affects over 11,000 households"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T04:31:14+01:00"
+      }
+    },
+    {
+      "id": "e5a481ce5181",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/jattelanseringen-ar-har-gta-vi-slappt-i-sverige",
+      "guid": "de42fff1-f94c-452a-87b8-90ae0cf1369e",
+      "published_at": "2026-11-19T04:22:50+01:00",
+      "fetched_at": "2026-11-19T04:31:11+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/5f3bfaeb-5479-4bb3-a2c7-8dc101ecd6af.jpg?width=600",
+      "sv": {
+        "title": "Jättelanseringen är här – GTA VI släppt i Sverige",
+        "summary": "Hajpade GTA VI är nu släppt i Sverige. Spelstudion Rockstars miljardproduktion väntas bli en de största spellanseringarna genom tiderna – med över 17 miljoner beräknade förköp, enligt Forbes.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Huge launch is here – GTA VI released in Sweden",
+        "summary": "The much-hyped GTA VI is now released in Sweden. The game studio Rockstar's billion-dollar production is expected to be one of the largest game launches ever – with over 17 million pre-orders estimated, according to Forbes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T04:31:14+01:00"
+      }
+    },
     {
       "id": "dd63a3f17790",
       "schema_version": 1,
@@ -5397,62 +5450,6 @@
       "en": {
         "title": "Lundin company slump deepens – plunges over 10 percent",
         "summary": "The slump in Lundin Mining deepens on Wednesday afternoon, and at around 16:40 the mining giant's share is down by over 10 percent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:01:26+01:00"
-      }
-    },
-    {
-      "id": "ddab5886a787",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/lagarde-oppnar-for-ledarroll-i-wef",
-      "guid": "d921d940-9081-4073-bc7e-16d09c30b2ea",
-      "published_at": "2026-11-18T16:47:45+01:00",
-      "fetched_at": "2026-11-18T17:01:18+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/9258d1cd-8dff-4008-8bf0-6070797a78cc.jpeg?width=600",
-      "sv": {
-        "title": "Lagarde öppnar för ledarroll i WEF",
-        "summary": "ECB:s avgående chef Christine Lagarde uppger att hon kan tänka sig en ledarroll vid World Economic Forum.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lagarde opens to leadership role at WEF",
-        "summary": "Outgoing ECB head Christine Lagarde says she could consider a leadership role at the World Economic Forum."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:01:26+01:00"
-      }
-    },
-    {
-      "id": "c33b6b7bab09",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/7dvDUeUkVU2uS56RjHcfVo/ny-israelisk-markinvasion-i-gaza",
-      "guid": "7dvDUeUkVU2uS56RjHcfVo",
-      "published_at": "2026-11-18T16:46:54+01:00",
-      "fetched_at": "2026-11-18T17:01:17+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Ny israelisk markinvasion i Gaza",
-        "summary": "Sedan vapenvilan infördes i oktober 2025 har Israel fortsatt att attackera mål inne i Gaza, men inte genomfört någon mer omfattande militär operation. Idag meddelar dock den israeliska militären IDF att man inlett en ny markattack med bland annat framryckande stridsvagnar.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "New Israeli ground invasion in Gaza",
-        "summary": "Since the ceasefire was introduced in October 2025, Israel has continued to attack targets inside Gaza, but has not carried out any more extensive military operation. Today, however, the Israeli military IDF announces that it has launched a new ground attack, including advancing tanks."
       },
       "translation": {
         "status": "done",

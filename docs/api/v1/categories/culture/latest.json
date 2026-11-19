@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T04:15:47+01:00",
+  "generated_at": "2026-11-19T04:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e5a481ce5181",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/jattelanseringen-ar-har-gta-vi-slappt-i-sverige",
+      "guid": "de42fff1-f94c-452a-87b8-90ae0cf1369e",
+      "published_at": "2026-11-19T04:22:50+01:00",
+      "fetched_at": "2026-11-19T04:31:11+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/5f3bfaeb-5479-4bb3-a2c7-8dc101ecd6af.jpg?width=600",
+      "sv": {
+        "title": "Jättelanseringen är här – GTA VI släppt i Sverige",
+        "summary": "Hajpade GTA VI är nu släppt i Sverige. Spelstudion Rockstars miljardproduktion väntas bli en de största spellanseringarna genom tiderna – med över 17 miljoner beräknade förköp, enligt Forbes.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Huge launch is here – GTA VI released in Sweden",
+        "summary": "The much-hyped GTA VI is now released in Sweden. The game studio Rockstar's billion-dollar production is expected to be one of the largest game launches ever – with over 17 million pre-orders estimated, according to Forbes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T04:31:14+01:00"
+      }
+    },
     {
       "id": "6cd16ed30390",
       "schema_version": 1,
@@ -5607,32 +5634,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T07:31:04+01:00"
-      }
-    },
-    {
-      "id": "5eb5bc2de028",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/kungligt/kungen-det-ar-min-storsta-anger-i-livet",
-      "guid": "https://www.expressen.se/nyheter/kungligt/kungen-det-ar-min-storsta-anger-i-livet/",
-      "published_at": "2026-11-16T00:08:56+01:00",
-      "fetched_at": "2026-11-16T00:15:43+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Kungen: Det är min största ånger i livet",
-        "summary": "Kung Charles har pratat om sin största ånger som gjorde honom ”besviken”, enligt en vän. – Han ville alltid åka dit, säger vännen till The Sunday Times. Nu har kungen fått ett erbjudande om att få sin dröm uppfylld.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The king: It is my greatest regret in life",
-        "summary": "King Charles has spoken about his greatest regret, which made him \"disappointed\", according to a friend. – He always wanted to go there, the friend tells The Sunday Times. Now the king has received an offer to have his dream fulfilled."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T00:15:51+01:00"
       }
     }
   ]
