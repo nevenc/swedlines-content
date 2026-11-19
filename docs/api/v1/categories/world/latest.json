@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T09:31:14+01:00",
+  "generated_at": "2026-11-19T09:45:50+01:00",
   "count": 200,
   "items": [
     {
@@ -382,6 +382,30 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T06:31:03+01:00"
+      }
+    },
+    {
+      "id": "44b8cf998e52",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80085",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80085&utm_medium=rss",
+      "published_at": "2026-11-19T06:24:32+01:00",
+      "fetched_at": "2026-11-19T09:45:43+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/86d35f11-7827-3fe1-aa66-f932e558e573?format=auto&s=3d58fb632aa0a8e66fe81e9a45969bdffca0bc14&w=1000",
+      "sv": {
+        "title": "Möte mellan Putin, Xi och Trump igång"
+      },
+      "en": {
+        "title": "Meeting between Putin, Xi and Trump under way"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:45:49+01:00"
       }
     },
     {
@@ -5294,32 +5318,6 @@
       "en": {
         "title": "Crimean bridge reportedly damaged after Ukrainian attacks",
         "summary": "The bridge connecting Russian-occupied Crimea with the mainland is reportedly damaged after several Ukrainian attacks. Images allegedly show parts of the bridge collapsing. Russian authorities say they have opened a terrorism investigation, according to Reuters."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T11:01:24+01:00"
-      }
-    },
-    {
-      "id": "05737487e1aa",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/ryskt-krismote-efter-attacken-mot-krimbron",
-      "guid": "https://www.expressen.se/nyheter/varlden/ryskt-krismote-efter-attacken-mot-krimbron/",
-      "published_at": "2026-11-17T10:53:49+01:00",
-      "fetched_at": "2026-11-17T11:01:14+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ryskt krismöte efter attacken mot Krimbron",
-        "summary": "Ukraina har för andra gången den här veckan attackerat Kertjbron. Nu samlas ryska regeringen för ett krismöte, rapporterar ryska telegrambyrån TASS.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russian crisis meeting after attack on Crimean bridge",
-        "summary": "Ukraine has attacked the Kerch bridge for the second time this week. The Russian government is now convening a crisis meeting, reports the Russian news agency TASS."
       },
       "translation": {
         "status": "done",
