@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T14:16:08+01:00",
+  "generated_at": "2026-11-19T14:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e0387a34968c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Jnop9j/satiren-hos-satan-slutar-med-en-snarkning",
+      "guid": "https://www.svd.se/a/Jnop9j/satiren-hos-satan-slutar-med-en-snarkning?utm_medium=rss",
+      "published_at": "2026-11-19T14:30:00+01:00",
+      "fetched_at": "2026-11-19T14:30:57+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/49a6e67b-76f8-38a0-8c57-6b7eea4b2910?format=auto&s=5ac1e0ec02196e91f9a97a52db32df594aff3840&w=1000",
+      "sv": {
+        "title": "Satiren hos Satan slutar med en snarkning",
+        "summary": "Den litauiska performanceartisten Kira Nova skapar kittlande lekar för publiken.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Satire at Satan's Ends in a Snore",
+        "summary": "Lithuanian performance artist Kira Nova creates titillating games for the audience."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T14:31:07+01:00"
+      }
+    },
     {
       "id": "3b96257f0f89",
       "schema_version": 1,
@@ -5600,33 +5627,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T20:15:51+01:00"
-      }
-    },
-    {
-      "id": "90f552320041",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/fredrik-sahlin-kan-vampyren-pattinson-bli-tidernas-mest-kinky-bond-figur",
-      "guid": "https://www.dn.se/kultur/fredrik-sahlin-kan-vampyren-pattinson-bli-tidernas-mest-kinky-bond-figur/",
-      "published_at": "2026-11-16T19:14:34+01:00",
-      "fetched_at": "2026-11-16T19:15:43+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/dc812625-c563-4372-a87b-d77c3babf2e0.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Fredrik Sahlin: Kan vampyren Pattinson bli tidernas mest kinky Bond-figur?",
-        "summary": "När beskedet väl kom var det nog få som utbrast ”äntligen”. Men Robert Pattinson kan visa sig vara ett ovanligt listigt val som agent 007. Frågan är om vi nu står inför en ny sorts Bond – mörkare, märkligare och möjligen mer kinky, skriver Fredrik Sahlin.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fredrik Sahlin: Can vampire Pattinson become the kinkiest Bond figure ever?",
-        "summary": "When the news finally came, few exclaimed \"finally\". But Robert Pattinson could prove to be an unusually clever choice as agent 007. The question is whether we are now facing a new kind of Bond – darker, stranger and possibly more kinky, writes Fredrik Sahlin."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T19:15:52+01:00"
       }
     }
   ]

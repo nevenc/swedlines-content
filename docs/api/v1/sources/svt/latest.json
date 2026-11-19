@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T14:16:08+01:00",
+  "generated_at": "2026-11-19T14:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "367f9698d7a3",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/uutiset/svenska/experterna-svarar-far-man-anvanda-vpn-for-att-se-geoblockerade-program",
+      "guid": "https://www.svt.se/nyheter/uutiset/svenska/experterna-svarar-far-man-anvanda-vpn-for-att-se-geoblockerade-program",
+      "published_at": "2026-11-19T14:25:21+01:00",
+      "fetched_at": "2026-11-19T14:30:56+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Experterna svarar: Får man använda VPN för att se geoblockerade program?",
+        "summary": "Idag använder ungefär var fjärde svensk VPN – ett digitalt verktyg som får det att se ut att vi surfar någon annanstans än där vi faktiskt är. Enligt internetexperten Måns Jonasson är den vanligaste anledningen till VPN-användning i Sverige att man vill komma åt sådant innehåll som är blockerat…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Experts answer: Can you use a VPN to watch geo-blocked programmes?",
+        "summary": "Today roughly one in four Swedes uses a VPN – a digital tool that makes it look as if we are browsing somewhere other than where we actually are. According to internet expert Måns Jonasson, the most common reason for VPN use in Sweden is wanting access to content that is blocked…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T14:31:07+01:00"
+      }
+    },
     {
       "id": "b6b757b5e709",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "DNA match led to suspected rapist in Oxelösund – after seven years",
         "summary": "A DNA match led to a man in Oxelösund being arrested on suspicion of a seven-year-old rape. He is now charged in that case, as well as with three further rapes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "4f8b59c2deae",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-olyckan-i-centrala-jonkoping-fordonsbarriarerna-bidrog-till-att-ingen-skadades",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-olyckan-i-centrala-jonkoping-fordonsbarriarerna-bidrog-till-att-ingen-skadades",
-      "published_at": "2026-11-13T13:58:23+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Efter olyckan i centrala Jönköping: ”Fordonsbarriärerna bidrog till att ingen skadades”",
-        "summary": "Fordonsbarriärerna på Östra Storgatan kan ha varit avgörande för att ingen person kom till skada när en lastbil skenade iväg. – Helt klart behöver vi se över vissa delar, säger Olle Denke, säkerhetssamordnare i Jönköpings kommuns.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the accident in central Jönköping: 'The vehicle barriers helped ensure no one was hurt'",
-        "summary": "The vehicle barriers on Östra Storgatan may have been decisive in ensuring that no one was injured when a lorry ran away. – We clearly need to review certain parts, says Olle Denke, security coordinator at Jönköping municipality."
       },
       "translation": {
         "status": "done",
