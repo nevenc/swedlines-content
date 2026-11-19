@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-19T07:45:56+01:00",
+  "generated_at": "2026-11-19T08:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "82cf444b216e",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/KL3Ljo/veckans-plusquiz",
+      "guid": "https://www.aftonbladet.se/nyheter/a/KL3Ljo/veckans-plusquiz?utm_medium=rss",
+      "published_at": "2026-11-19T08:00:00+01:00",
+      "fetched_at": "2026-11-19T08:01:18+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/21a4a027-9e46-34a0-bf6b-f1887c58ceaf?format=auto&s=78e3042f5238b373a7633727dc0d753fb2117260&w=960",
+      "sv": {
+        "title": "Veckans Plusquiz"
+      },
+      "en": {
+        "title": "Weekly Plusquiz"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:01:26+01:00"
+      }
+    },
+    {
+      "id": "984d81274a2b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/qOL7rg/kvinna-hittad-dod-misstankt-mord",
+      "guid": "https://www.aftonbladet.se/nyheter/a/qOL7rg/kvinna-hittad-dod-misstankt-mord?utm_medium=rss",
+      "published_at": "2026-11-19T07:52:50+01:00",
+      "fetched_at": "2026-11-19T08:01:18+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Kvinna hittad död – misstänkt mord",
+        "summary": "En kvinna har hittats död på en adress i Enköping. En man har gripits misstänkt för mord, uppger…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Woman found dead – suspected murder",
+        "summary": "A woman has been found dead at an address in Enköping. A man has been arrested on suspicion of murder, reports…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:01:26+01:00"
+      }
+    },
     {
       "id": "89117c7d0087",
       "schema_version": 1,
@@ -5317,60 +5367,6 @@
       "en": {
         "title": "Swedish teenager guilty – took on murder assignment",
         "summary": "A Swedish teenage boy is guilty of attempted murder in Denmark, according to Lyngby district court just north of…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:01:35+01:00"
-      }
-    },
-    {
-      "id": "c0b96c3f3526",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/wdP3xM/brand-pa-sodermalm-personer-kastade-sprejburkar",
-      "guid": "https://www.aftonbladet.se/nyheter/a/wdP3xM/brand-pa-sodermalm-personer-kastade-sprejburkar?utm_medium=rss",
-      "published_at": "2026-11-16T09:48:52+01:00",
-      "fetched_at": "2026-11-16T11:15:39+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/f4374b3e-99e6-3059-a1a8-09f54e6bbf30?format=auto&s=b34c2bc86015dee7b9b3d71c9d2fa5534c7d9843&w=1000",
-      "sv": {
-        "title": "Brand på Södermalm – två män gripna",
-        "summary": "Kopplas till tidigare brand, enligt uppgifter",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fire on Södermalm – two men arrested",
-        "summary": "Linked to earlier fire, according to information"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T11:15:47+01:00"
-      }
-    },
-    {
-      "id": "9f7916b967c2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/pML1KX/lkab-lackte-dieselolja-stams-pa-rekordbelopp",
-      "guid": "https://www.aftonbladet.se/nyheter/a/pML1KX/lkab-lackte-dieselolja-stams-pa-rekordbelopp?utm_medium=rss",
-      "published_at": "2026-11-16T09:45:55+01:00",
-      "fetched_at": "2026-11-16T10:01:16+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/305c32ea-fedf-386d-9d3e-20cff969c353?format=auto&s=b38726e77e331f5ced720dab24758f0969f40b53&w=1000",
-      "sv": {
-        "title": "LKAB läckte dieselolja – stäms på rekordbelopp",
-        "summary": "Gruvjätten LKAB har släppt ut två miljoner liter dieselolja, enligt en utredning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "LKAB leaked diesel – sued for record sum",
-        "summary": "Mining giant LKAB has released two million litres of diesel oil, according to an investigation."
       },
       "translation": {
         "status": "done",

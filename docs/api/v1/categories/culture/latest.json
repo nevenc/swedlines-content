@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-19T07:45:56+01:00",
+  "generated_at": "2026-11-19T08:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "95149bc607f4",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6pYvG4OljAL3vkShKu3Mnu/jesper-24-ska-spela-gta-tva-manader-i-straeck",
+      "guid": "6pYvG4OljAL3vkShKu3Mnu",
+      "published_at": "2026-11-19T07:57:52+01:00",
+      "fetched_at": "2026-11-19T08:01:19+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Nöje"
+      ],
+      "sv": {
+        "title": "Jesper, 24, ska spela GTA två månader i sträck",
+        "summary": "Natten till torsdag släpptes ”GTA VI” i Sverige. Föregångaren ”GTA V” beräknas ha sålt över 225 miljoner exemplar världen över. ”GTA VI” har varit det dyraste spelet någonsin att tillverka, med en budget på över tio miljarder kronor.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Jesper, 24, to play GTA for two months straight",
+        "summary": "\"GTA VI\" was released in Sweden during the night to Thursday. Its predecessor \"GTA V\" is estimated to have sold over 225 million copies worldwide. \"GTA VI\" has been the most expensive game ever to produce, with a budget of over SEK 10 billion."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:01:26+01:00"
+      }
+    },
     {
       "id": "bdb1c8b6075f",
       "schema_version": 1,
@@ -5585,32 +5614,6 @@
       "en": {
         "title": "Pasta with caramelised onion and parmesan",
         "summary": "Today's dinner tip is a simple pasta where slowly caramelised onion is joined by anchovies, dry white wine and parmesan. Using pasta water and a knob of butter creates a deliciously creamy sauce. An affordable weekday dinner that tastes far better than it costs! See Dante Zia's recipe"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T11:00:46+01:00"
-      }
-    },
-    {
-      "id": "f37a94372726",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/familj/skansk-krogarprofil-har-gatt-ur-tiden",
-      "guid": "e0dfaf13-6bae-4e43-82ab-d4971f79c5c4",
-      "published_at": "2026-11-16T10:31:51+01:00",
-      "fetched_at": "2026-11-16T11:00:39+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Skånsk krögarprofil har gått ur tiden",
-        "summary": "Kristina Herrmann, som mer än 50 år drev Hurva gästgivargård utanför Eslöv, har avlidit, skriver Skånska Dagbladet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Skåne restaurateur profile has passed away",
-        "summary": "Kristina Herrmann, who for more than 50 years ran Hurva gästgivargård outside Eslöv, has died, Skånska Dagbladet writes."
       },
       "translation": {
         "status": "done",

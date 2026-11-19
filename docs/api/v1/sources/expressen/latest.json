@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-19T07:45:56+01:00",
+  "generated_at": "2026-11-19T08:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ad4e1bb9076e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bf75ff51-9328-4641-b4c5-387120c660c7",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bf75ff51-9328-4641-b4c5-387120c660c7",
+      "published_at": "2026-11-19T07:51:55+01:00",
+      "fetched_at": "2026-11-19T08:01:18+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Kvinna hittad död",
+        "summary": "Misstänkt mord i Enköping",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Woman found dead",
+        "summary": "Suspected murder in Enköping"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:01:26+01:00"
+      }
+    },
+    {
+      "id": "46de661a4c81",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trump-tar-tempen-fore-historiska-motet",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-tar-tempen-fore-historiska-motet/",
+      "published_at": "2026-11-19T07:48:31+01:00",
+      "fetched_at": "2026-11-19T08:01:18+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump tar tempen – före historiska mötet",
+        "summary": "USA, Ryssland och Kina ska diskutera världsfred. Men först vill Trump ta tempen på presidenterna – på tu man hand. – Vem är han? Han är min vän, säger han om Putin till CNN.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump takes the temperature – before historic meeting",
+        "summary": "The USA, Russia and China are to discuss world peace. But first Trump wants to take the temperature of the presidents – one on one. \"Who is he? He is my friend,\" he said of Putin to CNN."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:01:26+01:00"
+      }
+    },
     {
       "id": "5847ac99cc95",
       "schema_version": 1,
@@ -5139,58 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T23:01:14+01:00"
-      }
-    },
-    {
-      "id": "a0d8d013748b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/skandal-vdn-jensen-huang-vill-gora-comeback",
-      "guid": "https://www.expressen.se/nyheter/varlden/skandal-vdn-jensen-huang-vill-gora-comeback/",
-      "published_at": "2026-11-15T22:07:56+01:00",
-      "fetched_at": "2026-11-15T22:15:47+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Skandal-vd:n Jensen Huang vill göra comeback",
-        "summary": "Jensen Huang överväger en comeback som Nvidias vd efter otrohetsskandalen och har diskuterat möjligheten att återvända med sina närmaste. Det uppger personer med kännedom om saken för Financial Times.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Scandal CEO Jensen Huang wants a comeback",
-        "summary": "Jensen Huang is considering a comeback as Nvidia's CEO after the infidelity scandal and has discussed the possibility of returning with his closest associates. This is according to people with knowledge of the matter, speaking to the Financial Times."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T22:15:59+01:00"
-      }
-    },
-    {
-      "id": "a27281b18da6",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/kungligt/har-praoar-prinsessan-estelle-14-hos-morfar",
-      "guid": "https://www.expressen.se/nyheter/kungligt/har-praoar-prinsessan-estelle-14-hos-morfar/",
-      "published_at": "2026-11-15T22:01:12+01:00",
-      "fetched_at": "2026-11-15T22:15:47+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Här praoar prinsessan Estelle, 14, hos morfar",
-        "summary": "Prinsessan Estelle, 14, har praoat hos morfar. Hon har varit med på möten, fotograferat en historisk tavla och förberett en workshop på Astrid Lindgrens barnsjukhus. Att vara med på kungens möten var ”kul och lärorikt” skriver prinsessan på Instagram.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Princess Estelle, 14, does work placement with her maternal grandfather",
-        "summary": "Princess Estelle, 14, has done work placement with her maternal grandfather. She has attended meetings, photographed a historical painting and prepared a workshop at the Astrid Lindgren Children's Hospital. Being present at the king's meetings was “fun and educational”, the princess wrote on Instagram."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T22:15:59+01:00"
       }
     }
   ]

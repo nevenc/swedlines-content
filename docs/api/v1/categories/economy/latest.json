@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-19T07:45:56+01:00",
+  "generated_at": "2026-11-19T08:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "197c68a87523",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345870",
+      "guid": "rss:sr.se/article/9345870",
+      "published_at": "2026-11-19T07:53:00+01:00",
+      "fetched_at": "2026-11-19T08:01:17+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Då kan bensinmacken stå tom – risk för köer inför prishöjning",
+        "summary": "Det kan bli köer vid svenska bensinmackar inför månadsskiftet när skatten på bensin och diesel höjs. Branschorganisationen Drivkraft Sverige uppmanar nu bilister att tanka i god tid för att undvika att komma till en tom bensinmack under månadens sista dagar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Petrol stations may run dry – risk of queues ahead of price rise",
+        "summary": "There may be queues at Swedish petrol stations ahead of the month-end, when the tax on petrol and diesel is raised. The industry body Drivkraft Sverige is now urging motorists to fill up in good time to avoid arriving at an empty petrol station during the last days of the month."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:01:26+01:00"
+      }
+    },
+    {
+      "id": "cb4b3d4c7059",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/xi-etablerat-stabil-relation-med-usa",
+      "guid": "b0e4659b-cfaa-46d2-9f05-f8f4e15f8bae",
+      "published_at": "2026-11-19T07:47:40+01:00",
+      "fetched_at": "2026-11-19T08:01:19+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/2b40d519-a8e2-4484-9eab-e0d35f4eebb9.jpeg?width=600",
+      "sv": {
+        "title": "Xi: Etablerat stabil relation med USA",
+        "summary": "USA och Kina har ett gemensamt intresse av att hålla Hormuzsundet öppet för energitransporter och förhindra att Iran skaffar kärnvapen, sa USA:s president Donald Trump i samband med mötet med Kinas president Xi Jinping på torsdagen, enligt Reuters.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Xi: Established stable relationship with USA",
+        "summary": "The USA and China have a shared interest in keeping the Strait of Hormuz open for energy transports and preventing Iran from acquiring nuclear weapons, said US President Donald Trump in connection with the meeting with Chinese President Xi Jinping on Thursday, according to Reuters."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:01:26+01:00"
+      }
+    },
     {
       "id": "799e4691d5f3",
       "schema_version": 1,
@@ -5230,59 +5283,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T10:31:10+01:00"
-      }
-    },
-    {
-      "id": "d94f26cd051a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/di-weekend/jag-ar-ju-en-lantis-fran-lappland",
-      "guid": "d2b77520-58aa-40f2-8615-7932a330c19e",
-      "published_at": "2026-11-18T10:15:40+01:00",
-      "fetched_at": "2026-11-18T10:31:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/9c9c5e37-b99e-4352-8edc-9ef078b97df3.jpeg?width=600",
-      "sv": {
-        "title": "”Jag är ju en lantis från Lappland”",
-        "summary": "Efter mer än tre decennier i näringslivets toppskikt har Carl-Henric Svanberg lämnat sina maktpositioner. Nu ägnar han sig åt familjeimperiet – men hur mycket det är värt vill han inte avslöja. ”Jag brukar säga att det är som ett mindre börsnoterat investmentbolag”, säger han till Di Weekend.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "\"I'm just a country bumpkin from Lapland\"",
-        "summary": "After more than three decades at the top of business, Carl-Henric Svanberg has left his positions of power. Now he is devoting himself to the family empire – but he does not want to reveal how much it is worth. \"I usually say it is like a smaller listed investment company,\" he tells Di Weekend."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T10:31:10+01:00"
-      }
-    },
-    {
-      "id": "8cf111d747ed",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/berglund-den-positiva-trenden-fortsatter-for-saas-bolagen",
-      "guid": "162b4113-e893-58fe-a2df-5d757c81a113",
-      "published_at": "2026-11-18T10:04:44+01:00",
-      "fetched_at": "2026-11-18T10:15:52+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Berglund: Den positiva trenden fortsätter för SaaS-bolagen",
-        "summary": "Robin Berglund på Redeye om läget för SaaS-bolagen, som varit under AI-press det senaste året.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Berglund: The positive trend continues for SaaS companies",
-        "summary": "Robin Berglund at Redeye on the situation for SaaS companies, which have been under AI pressure over the past year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T10:15:58+01:00"
       }
     }
   ]

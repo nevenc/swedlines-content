@@ -1,7 +1,82 @@
 {
-  "generated_at": "2026-11-19T07:45:56+01:00",
+  "generated_at": "2026-11-19T08:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5bc65d70ea87",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80081",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80081&utm_medium=rss",
+      "published_at": "2026-11-19T07:53:24+01:00",
+      "fetched_at": "2026-11-19T08:01:18+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Misstänkt mord i Enköping"
+      },
+      "en": {
+        "title": "Suspected murder in Enköping"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:01:26+01:00"
+      }
+    },
+    {
+      "id": "984d81274a2b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/qOL7rg/kvinna-hittad-dod-misstankt-mord",
+      "guid": "https://www.aftonbladet.se/nyheter/a/qOL7rg/kvinna-hittad-dod-misstankt-mord?utm_medium=rss",
+      "published_at": "2026-11-19T07:52:50+01:00",
+      "fetched_at": "2026-11-19T08:01:18+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Kvinna hittad död – misstänkt mord",
+        "summary": "En kvinna har hittats död på en adress i Enköping. En man har gripits misstänkt för mord, uppger…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Woman found dead – suspected murder",
+        "summary": "A woman has been found dead at an address in Enköping. A man has been arrested on suspicion of murder, reports…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:01:26+01:00"
+      }
+    },
+    {
+      "id": "ad4e1bb9076e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bf75ff51-9328-4641-b4c5-387120c660c7",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bf75ff51-9328-4641-b4c5-387120c660c7",
+      "published_at": "2026-11-19T07:51:55+01:00",
+      "fetched_at": "2026-11-19T08:01:18+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Kvinna hittad död",
+        "summary": "Misstänkt mord i Enköping",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Woman found dead",
+        "summary": "Suspected murder in Enköping"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:01:26+01:00"
+      }
+    },
     {
       "id": "999001cb23ea",
       "schema_version": 1,
@@ -5270,81 +5345,6 @@
       "en": {
         "title": "Major bar brawl on Avenyn in Göteborg",
         "summary": "Police called to Avenyn overnight"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "35c53fc0d781",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79924",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79924&utm_medium=rss",
-      "published_at": "2026-11-15T07:41:53+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Mordförsök på Gotland – två anhållna"
-      },
-      "en": {
-        "title": "Attempted murder on Gotland – two detained"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "d78665be7115",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/misstankt-mordforsok-pa-gotland-man-stickskadades",
-      "guid": "https://www.svt.se/nyheter/lokalt/ost/misstankt-mordforsok-pa-gotland-man-stickskadades",
-      "published_at": "2026-11-15T07:40:03+01:00",
-      "fetched_at": "2026-11-15T08:29:34+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Misstänkt mordförsök på Gotland – man stickskadad",
-        "summary": "Polis och ambulans kallades till ett hus söder om Visby efter att en man stickskadats. Två män i 40-45-årsåldern har anhållits.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Suspected attempted murder on Gotland – man stabbed",
-        "summary": "Police and ambulance were called to a house south of Visby after a man was stabbed. Two men in their 40s have been detained."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "ecaa42565e20",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=024dca98-0caf-41ef-947e-b05c19b0a814",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=024dca98-0caf-41ef-947e-b05c19b0a814",
-      "published_at": "2026-11-15T07:20:07+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Mor och son greps för rån i Linköping",
-        "summary": "Tog sig in i bostad – rånade",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mother and son arrested for robbery in Linköping",
-        "summary": "Entered a home – robbed"
       },
       "translation": {
         "status": "done",
