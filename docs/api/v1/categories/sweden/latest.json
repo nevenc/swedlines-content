@@ -1,7 +1,113 @@
 {
-  "generated_at": "2026-11-19T17:45:54+01:00",
+  "generated_at": "2026-11-19T18:01:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9ec3254698b2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=76b5aede-2907-4db8-bcfd-fd1415129adf",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=76b5aede-2907-4db8-bcfd-fd1415129adf",
+      "published_at": "2026-11-19T17:52:53+01:00",
+      "fetched_at": "2026-11-19T18:01:20+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "En död i radhusbrand i Gnosjö",
+        "summary": "Svart rök från bostaden",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "One dead in townhouse fire in Gnosjö",
+        "summary": "Black smoke from the home"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T18:01:29+01:00"
+      }
+    },
+    {
+      "id": "213fa52d55f7",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=0f44474d-0783-402a-b7e6-b096593c0ea9",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0f44474d-0783-402a-b7e6-b096593c0ea9",
+      "published_at": "2026-11-19T17:51:24+01:00",
+      "fetched_at": "2026-11-19T18:01:20+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Brandbil i diket under utryckning: \"Otroligt halt\"",
+        "summary": "”Vi har otroligt halt väglag”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fire engine in ditch during callout: \"Incredibly slippery\"",
+        "summary": "\"We have incredibly slippery road conditions\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T18:01:29+01:00"
+      }
+    },
+    {
+      "id": "cf069b8bafa1",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/xJPXBB/skanska-skyddsvallen-testad-ska-sta-emot-vagor",
+      "guid": "https://www.svd.se/a/xJPXBB/skanska-skyddsvallen-testad-ska-sta-emot-vagor?utm_medium=rss",
+      "published_at": "2026-11-19T17:47:49+01:00",
+      "fetched_at": "2026-11-19T18:01:17+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/59a597b2-216c-37d6-b2aa-d6c512c1b013?format=auto&s=f2bee032932449446ed02667dafbf0e50636c28e&w=1000",
+      "sv": {
+        "title": "Skånska skyddsvallen testad – ska stå emot vågor",
+        "summary": "En lång vall ska skydda Skanör och Falsterbo från översvämningar. Nu har kommunen testat hur bra den…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Skåne flood barrier tested – to withstand waves",
+        "summary": "A long embankment is to protect Skanör and Falsterbo from flooding. Now the municipality has tested how well it…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T18:01:29+01:00"
+      }
+    },
+    {
+      "id": "0f86fd247d90",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/9BvnJw/skanska-skyddsvallen-testad-ska-sta-emot-vagor",
+      "guid": "https://www.aftonbladet.se/nyheter/a/9BvnJw/skanska-skyddsvallen-testad-ska-sta-emot-vagor?utm_medium=rss",
+      "published_at": "2026-11-19T17:47:48+01:00",
+      "fetched_at": "2026-11-19T18:01:19+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/59a597b2-216c-37d6-b2aa-d6c512c1b013?format=auto&s=f2bee032932449446ed02667dafbf0e50636c28e&w=1000",
+      "sv": {
+        "title": "Skånska skyddsvallen testad – ska stå emot vågor",
+        "summary": "En lång vall ska skydda Skanör och Falsterbo från översvämningar. Nu har kommunen testat hur bra den…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Skåne flood barrier tested – to withstand waves",
+        "summary": "A long embankment is to protect Skanör and Falsterbo from flooding. Now the municipality has tested how well it…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T18:01:29+01:00"
+      }
+    },
     {
       "id": "e7030fe04892",
       "schema_version": 1,
@@ -5292,123 +5398,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T19:15:52+01:00"
-      }
-    },
-    {
-      "id": "9c622a0d498f",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/vastsverige/signalfel-pa-vastra-stambanan-kraftiga-tagforseningar.c1bfaec4-7d79-52bf-ab0b-fcc5580d2884",
-      "guid": "c1bfaec4-7d79-52bf-ab0b-fcc5580d2884",
-      "published_at": "2026-11-16T18:32:25+01:00",
-      "fetched_at": "2026-11-16T18:45:43+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Västsverige",
-        "Tagg: breaking-GP",
-        "Tagg: SJ",
-        "Tagg: Västtrafik",
-        "Tagg: Borås",
-        "Tagg: Stockholm",
-        "Tagg: Trafikverket",
-        "Tagg: Göteborg",
-        "Tagg: Tågtrafik"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/f75245a3-b06c-3c82-9976-06637a3badd0",
-      "sv": {
-        "title": "Kraftiga förseningar i tågtrafiken",
-        "summary": "Signalfel – prognos saknas.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Heavy delays in train traffic",
-        "summary": "Signal fault – no forecast available."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:45:48+01:00"
-      }
-    },
-    {
-      "id": "af171dc77ff2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=df818b0c-2af9-4af4-818d-2cd7c54fe302",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=df818b0c-2af9-4af4-818d-2cd7c54fe302",
-      "published_at": "2026-11-16T18:24:36+01:00",
-      "fetched_at": "2026-11-16T18:30:59+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Kolmården avlivar delfinerna",
-        "summary": "Kolmårdens besked",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kolmården to put down the dolphins",
-        "summary": "Kolmården's announcement"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:31:05+01:00"
-      }
-    },
-    {
-      "id": "e52b3b1072fe",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/7P0VdK/strul-i-tagtrafiken-mellan-goteborg-och-stockholm",
-      "guid": "https://www.aftonbladet.se/nyheter/a/7P0VdK/strul-i-tagtrafiken-mellan-goteborg-och-stockholm?utm_medium=rss",
-      "published_at": "2026-11-16T18:09:48+01:00",
-      "fetched_at": "2026-11-16T18:15:49+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/eb0ed421-23ee-3b28-bcca-87d1487a30bc?format=auto&s=c1065e2daee1fecbb57fa8b9e649a212e762a093&w=1000",
-      "sv": {
-        "title": "Strul i tågtrafiken mellan Göteborg och Stockholm",
-        "summary": "Ett signalfel orsakar kraftiga tågförseningar mellan Stockholm och Göteborg, rapporterar…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Disruption on train traffic between Göteborg and Stockholm",
-        "summary": "A signal fault is causing heavy train delays between Stockholm and Göteborg, reports…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "7090b2736a70",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=783a908f-291b-4071-95d6-115a54f650a9",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=783a908f-291b-4071-95d6-115a54f650a9",
-      "published_at": "2026-11-16T17:54:49+01:00",
-      "fetched_at": "2026-11-16T18:01:14+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Stopp i tågtrafiken mellan Göteborg och Stockholm",
-        "summary": "Signalfel mellan Stockholm och Göteborg",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Train traffic between Göteborg and Stockholm halted",
-        "summary": "Signal fault between Stockholm and Göteborg"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:01:23+01:00"
       }
     }
   ]

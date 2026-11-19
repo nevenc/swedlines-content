@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T17:45:54+01:00",
+  "generated_at": "2026-11-19T18:01:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e53169059e8c",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/nya-gta-6-ar-har-rimligt-att-skippa-skola-och-jobb",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/nya-gta-6-ar-har-rimligt-att-skippa-skola-och-jobb",
+      "published_at": "2026-11-19T17:45:03+01:00",
+      "fetched_at": "2026-11-19T18:01:16+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Nya GTA 6 är här: ”Rimligt att skippa skola och jobb”",
+        "summary": "I natt släpptes det nya GTA spelet. Ett spel som varit efterlängtat av många och som får folk att skolka. – Det är rimligt att ta ledigt, säger spelentusiasten Andreas Westman i Jönköping.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New GTA 6 is here: \"Reasonable to skip school and work\"",
+        "summary": "The new GTA game was released overnight. A game that many have long awaited and that is making people skip school. – It is reasonable to take time off, says gaming enthusiast Andreas Westman in Jönköping."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T18:01:29+01:00"
+      }
+    },
     {
       "id": "5a0a8551720b",
       "schema_version": 1,
@@ -5599,33 +5625,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T06:45:44+01:00"
-      }
-    },
-    {
-      "id": "0141db7687f4",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/skane/skanes-basta-overnattning-kan-finnas-i-rostanga",
-      "guid": "63f12f2d-0320-43b2-b157-df4fac5039db",
-      "published_at": "2026-11-17T06:30:00+01:00",
-      "fetched_at": "2026-11-17T06:30:59+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/dcc55089-0c51-4bca-a585-cb339e28ae70.jpeg?width=600",
-      "sv": {
-        "title": "Skånes bästa övernattning kan finnas i Röstånga",
-        "summary": "Nackarpsdalen gästgiveri i Röstånga har haft ett intensivt år efter nystarten och har nu blivit nominerad till Skånes bästa övernattning. – Det har varit över förväntan, säger ägaren Mats Lavré.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Skåne's best overnight stay may be in Röstånga",
-        "summary": "Nackarpsdalen gästgiveri in Röstånga has had an intense year since its relaunch and has now been nominated for Skåne's best overnight stay. – It has been beyond expectations, says owner Mats Lavré."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:31:06+01:00"
       }
     }
   ]

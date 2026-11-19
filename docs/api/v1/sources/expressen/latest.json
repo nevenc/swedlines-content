@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-19T17:45:54+01:00",
+  "generated_at": "2026-11-19T18:01:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9ec3254698b2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=76b5aede-2907-4db8-bcfd-fd1415129adf",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=76b5aede-2907-4db8-bcfd-fd1415129adf",
+      "published_at": "2026-11-19T17:52:53+01:00",
+      "fetched_at": "2026-11-19T18:01:20+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "En död i radhusbrand i Gnosjö",
+        "summary": "Svart rök från bostaden",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "One dead in townhouse fire in Gnosjö",
+        "summary": "Black smoke from the home"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T18:01:29+01:00"
+      }
+    },
+    {
+      "id": "213fa52d55f7",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=0f44474d-0783-402a-b7e6-b096593c0ea9",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0f44474d-0783-402a-b7e6-b096593c0ea9",
+      "published_at": "2026-11-19T17:51:24+01:00",
+      "fetched_at": "2026-11-19T18:01:20+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Brandbil i diket under utryckning: \"Otroligt halt\"",
+        "summary": "”Vi har otroligt halt väglag”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fire engine in ditch during callout: \"Incredibly slippery\"",
+        "summary": "\"We have incredibly slippery road conditions\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T18:01:29+01:00"
+      }
+    },
     {
       "id": "e7030fe04892",
       "schema_version": 1,
@@ -5139,58 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T09:45:49+01:00"
-      }
-    },
-    {
-      "id": "33a66ae13f22",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/c-ledaren-kan-garantera-regering-utan-v-ministrar",
-      "guid": "https://www.expressen.se/nyheter/politik/c-ledaren-kan-garantera-regering-utan-v-ministrar/",
-      "published_at": "2026-11-16T09:20:22+01:00",
-      "fetched_at": "2026-11-16T09:30:59+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "C-ledaren: Kan garantera regering utan V-ministrar",
-        "summary": "C-ledaren stänger inte dörren för en regering med Kristersson om S, MP, C-planen fallerar. – Vi ska göra det här och sen får vi se vad som händer om det här skulle falla isär. säger hon i TV4 ”Nyhetsmorgon”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre leader: Can guarantee a government without Left Party ministers",
-        "summary": "The Centre leader does not rule out a government with Kristersson if the Social Democrats and Green Party's C-plan fails. – We are going to do this and then we'll see what happens if it falls apart, she says on TV4's \"Nyhetsmorgon\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:31:08+01:00"
-      }
-    },
-    {
-      "id": "a95c1968319c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/chockscenerna-vid-turistparlan-plotsligt-valler-de-upp-ur-havet",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/chockscenerna-vid-turistparlan-plotsligt-valler-de-upp-ur-havet",
-      "published_at": "2026-11-16T09:04:23+01:00",
-      "fetched_at": "2026-11-16T09:15:40+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Bibliska chocken från solkusten",
-        "summary": "Bilderna som förbryllar på Costa del Sol",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Biblical shock from the Costa del Sol",
-        "summary": "The pictures that puzzle on the Costa del Sol"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:15:48+01:00"
       }
     }
   ]
