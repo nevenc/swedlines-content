@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-19T20:15:57+01:00",
+  "generated_at": "2026-11-19T20:31:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "16c68052b0d5",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/rekordpris-for-sallsynt-klint",
+      "guid": "e34e19a3-9148-4d82-904d-7cf205f8640c",
+      "published_at": "2026-11-19T20:25:17+01:00",
+      "fetched_at": "2026-11-19T20:30:58+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/13a4f323-a18e-4672-9851-0760384388af.jpeg?width=600",
+      "sv": {
+        "title": "Rekordpris för sällsynt Klint",
+        "summary": "Hilma af Klints sällsynta abstrakta målning ”Ser III No. 5” klubbades för rekordpriset 108 miljoner kronor på Bukowskis. Samtidigt laddar konkurrenten Stockholms Auktionsverk för att sälja två verk med miljonvärderingar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Record price for rare Klint",
+        "summary": "Hilma af Klint's rare abstract painting \"Ser III No. 5\" was knocked down for a record SEK 108 million at Bukowskis. Meanwhile, rival Stockholms Auktionsverk is gearing up to sell two works valued at millions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:31:04+01:00"
+      }
+    },
+    {
+      "id": "25f5d5be55b2",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/fed-topp-datacenter-riskerar-att-overhetta-ekonomin",
+      "guid": "6549874d-65aa-4674-982c-e2a9e6858e96",
+      "published_at": "2026-11-19T20:23:41+01:00",
+      "fetched_at": "2026-11-19T20:30:58+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Fed-topp: Datacenter riskerar att överhetta ekonomin",
+        "summary": "Artificiell intelligens kan leda till en kraftig ökning i produktiviteten, men under tiden är det upp till Federal Reserve att hålla inflationen under kontroll, samtidigt som investeringarna och efterfrågan är starka. Det uppgav Austin Goolsbee, Fed-chef i Chicago, enligt Reuters.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fed chief: data centres risk overheating the economy",
+        "summary": "Artificial intelligence could lead to a sharp rise in productivity, but in the meantime it is up to the Federal Reserve to keep inflation under control, while investment and demand are strong. This was stated by Austin Goolsbee, Fed chief in Chicago, according to Reuters."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:31:04+01:00"
+      }
+    },
+    {
+      "id": "ece3f2270184",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346498",
+      "guid": "rss:sr.se/article/9346498",
+      "published_at": "2026-11-19T20:17:00+01:00",
+      "fetched_at": "2026-11-19T20:30:56+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Julia flydde Ukrainakriget – fick betala oskäligt hög hyra",
+        "summary": "Stockholms stads bostadsstiftelse SHIS tvingas nu i åtta fall återbetala och sänka hyror, som Hyresnämnden bedömt som oskäliga. Överhyrorna har drabbat socialt utsatta hyresgäster och flyktingar, flera från krigets Ukraina.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Julia fled the Ukraine war – was forced to pay unreasonably high rent",
+        "summary": "Stockholm city's housing foundation SHIS is now being forced to repay and lower rents in eight cases that the Rent Tribunal has judged to be unreasonable. The excessive rents have hit socially vulnerable tenants and refugees, several from war-torn Ukraine."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:31:04+01:00"
+      }
+    },
     {
       "id": "ba412524e254",
       "schema_version": 1,
@@ -5209,95 +5288,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T06:15:52+01:00"
-      }
-    },
-    {
-      "id": "9fd4977709ce",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/starmerregeringen-vill-riva-upp-system-for-bostadsagande",
-      "guid": "001c43d2-165c-41ba-9227-04d0326f2e43",
-      "published_at": "2026-11-19T05:55:52+01:00",
-      "fetched_at": "2026-11-19T06:15:46+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/58e3b9df-ba3d-49a5-94ab-1f2b58cf0cbd.jpeg?width=600",
-      "sv": {
-        "title": "Starmerregeringen vill riva upp system för bostadsägande",
-        "summary": "Den brittiska regeringen väntas lägga fram ett lagförslag om att avveckla det så kallade leasehold-systemet, som omfattar omkring fem miljoner bostäder i England och Wales, på torsdagen. Det skriver Bloomberg News.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Starmer government wants to scrap home ownership system",
-        "summary": "The British government is expected to present a bill on Thursday to abolish the so-called leasehold system, which covers around five million homes in England and Wales. Bloomberg News reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:15:52+01:00"
-      }
-    },
-    {
-      "id": "cf28929512a4",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/ekonomi/faktorerna-som-kan-pressa-din-privatekonomi-i-vinter.05672c39-915c-5772-9832-e9214129a582",
-      "guid": "05672c39-915c-5772-9832-e9214129a582",
-      "published_at": "2026-11-19T05:55:18+01:00",
-      "fetched_at": "2026-11-19T06:30:56+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Ekonomi",
-        "Tagg: Christina Sahlberg",
-        "Tagg: Elpriser",
-        "Tagg: Ränta",
-        "Tagg: Susanne Spector",
-        "Tagg: Danske Bank"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/ebe082f5-9751-357f-b78e-66a5cc3d4d00",
-      "sv": {
-        "title": "Faktorerna som kan sabba din privatekonomi i vinter",
-        "summary": "Ekonomerna: så tuff blir ekonomin för hushållen nu.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The factors that could wreck your personal finances this winter",
-        "summary": "Economists: how tough the economy will be for households now."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:31:03+01:00"
-      }
-    },
-    {
-      "id": "2811275d99eb",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/imf-chefen-ai-och-energistorningar-lyfter-inflationen",
-      "guid": "dd7525bd-b12e-49dd-b7c0-def6dc2eeb30",
-      "published_at": "2026-11-19T05:52:57+01:00",
-      "fetched_at": "2026-11-19T06:01:15+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/f4312aca-867d-4a0c-8f0a-2f0a1441d237.jpeg?width=600",
-      "sv": {
-        "title": "IMF-chefen: AI och energistörningar lyfter inflationen",
-        "summary": "Störningar i energiförsörjningen och ökad efterfrågan kopplad till AI driver upp den globala inflationen till 4,7 procent, vilket kräver penningpolitisk åtstramning i många ekonomier.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "IMF chief: AI and energy disruptions push up inflation",
-        "summary": "Disruptions in energy supply and increased demand linked to AI are driving global inflation up to 4.7 percent, which calls for monetary tightening in many economies."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:01:24+01:00"
       }
     }
   ]

@@ -1,7 +1,113 @@
 {
-  "generated_at": "2026-11-19T20:15:57+01:00",
-  "count": 626,
+  "generated_at": "2026-11-19T20:31:04+01:00",
+  "count": 631,
   "items": [
+    {
+      "id": "16c68052b0d5",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/rekordpris-for-sallsynt-klint",
+      "guid": "e34e19a3-9148-4d82-904d-7cf205f8640c",
+      "published_at": "2026-11-19T20:25:17+01:00",
+      "fetched_at": "2026-11-19T20:30:58+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/13a4f323-a18e-4672-9851-0760384388af.jpeg?width=600",
+      "sv": {
+        "title": "Rekordpris för sällsynt Klint",
+        "summary": "Hilma af Klints sällsynta abstrakta målning ”Ser III No. 5” klubbades för rekordpriset 108 miljoner kronor på Bukowskis. Samtidigt laddar konkurrenten Stockholms Auktionsverk för att sälja två verk med miljonvärderingar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Record price for rare Klint",
+        "summary": "Hilma af Klint's rare abstract painting \"Ser III No. 5\" was knocked down for a record SEK 108 million at Bukowskis. Meanwhile, rival Stockholms Auktionsverk is gearing up to sell two works valued at millions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:31:04+01:00"
+      }
+    },
+    {
+      "id": "25f5d5be55b2",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/fed-topp-datacenter-riskerar-att-overhetta-ekonomin",
+      "guid": "6549874d-65aa-4674-982c-e2a9e6858e96",
+      "published_at": "2026-11-19T20:23:41+01:00",
+      "fetched_at": "2026-11-19T20:30:58+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Fed-topp: Datacenter riskerar att överhetta ekonomin",
+        "summary": "Artificiell intelligens kan leda till en kraftig ökning i produktiviteten, men under tiden är det upp till Federal Reserve att hålla inflationen under kontroll, samtidigt som investeringarna och efterfrågan är starka. Det uppgav Austin Goolsbee, Fed-chef i Chicago, enligt Reuters.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fed chief: data centres risk overheating the economy",
+        "summary": "Artificial intelligence could lead to a sharp rise in productivity, but in the meantime it is up to the Federal Reserve to keep inflation under control, while investment and demand are strong. This was stated by Austin Goolsbee, Fed chief in Chicago, according to Reuters."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:31:04+01:00"
+      }
+    },
+    {
+      "id": "ece3f2270184",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346498",
+      "guid": "rss:sr.se/article/9346498",
+      "published_at": "2026-11-19T20:17:00+01:00",
+      "fetched_at": "2026-11-19T20:30:56+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Julia flydde Ukrainakriget – fick betala oskäligt hög hyra",
+        "summary": "Stockholms stads bostadsstiftelse SHIS tvingas nu i åtta fall återbetala och sänka hyror, som Hyresnämnden bedömt som oskäliga. Överhyrorna har drabbat socialt utsatta hyresgäster och flyktingar, flera från krigets Ukraina.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Julia fled the Ukraine war – was forced to pay unreasonably high rent",
+        "summary": "Stockholm city's housing foundation SHIS is now being forced to repay and lower rents in eight cases that the Rent Tribunal has judged to be unreasonable. The excessive rents have hit socially vulnerable tenants and refugees, several from war-torn Ukraine."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:31:04+01:00"
+      }
+    },
+    {
+      "id": "1d7a09161ff2",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Wgwdnj/recension-esprit-und-leidenschaft-av-volker-reinhardt",
+      "guid": "https://www.svd.se/a/Wgwdnj/recension-esprit-und-leidenschaft-av-volker-reinhardt?utm_medium=rss",
+      "published_at": "2026-11-19T20:15:00+01:00",
+      "fetched_at": "2026-11-19T20:30:57+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/3ec2260b-bf1e-3ad8-a719-d20dd66fa650?format=auto&s=ebe4d2b635e34cd53a5fb3b6d49f1a9ca5b207d9&w=1000",
+      "sv": {
+        "title": "Därför slutar det alltid i ett uppror i Paris",
+        "summary": "Fransk historia är ett växelspel mellan storslagna ledare och uppror mot desamma.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is why it always ends in an uprising in Paris",
+        "summary": "French history is an interplay between grand leaders and uprisings against them."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:31:04+01:00"
+      }
+    },
     {
       "id": "7cccda4570b7",
       "schema_version": 1,
@@ -465,6 +571,42 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T20:01:24+01:00"
+      }
+    },
+    {
+      "id": "d48ddc84b632",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/krim/rekordbeslag-i-bohuslan-sommarstuga-full-med-knark.ac3fd8c7-6b3d-5bac-b696-f439601bb7bd",
+      "guid": "ac3fd8c7-6b3d-5bac-b696-f439601bb7bd",
+      "published_at": "2026-11-19T19:52:49+01:00",
+      "fetched_at": "2026-11-19T20:30:59+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Krim",
+        "Tagg: Brott och straff",
+        "Tagg: Polisen",
+        "Tagg: Bohuslän",
+        "Tagg: Cannabis",
+        "Tagg: Göteborg",
+        "Tagg: Orust"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/10d42935-d944-3548-9080-7d3dee68c924",
+      "sv": {
+        "title": "Rekordbeslag i Bohuslän – stuga full med knark",
+        "summary": "147 kilo cannabis levererades till semesteridyllen på Lilla Askerön i trälåda.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Record seizure in Bohuslän – cabin full of drugs",
+        "summary": "147 kilos of cannabis were delivered to the holiday idyll on Lilla Askerön in a wooden crate."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:31:04+01:00"
       }
     },
     {
