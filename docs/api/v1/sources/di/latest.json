@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T16:31:09+01:00",
+  "generated_at": "2026-11-19T16:39:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "024a59b3cd2c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/kraftig-rabatt-i-koenigsegg-affaren-enligt-gramarknaden",
+      "guid": "df538755-a852-4045-8c7a-c70dd10a74f9",
+      "published_at": "2026-11-19T16:34:58+01:00",
+      "fetched_at": "2026-11-19T16:39:24+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/840386d2-5b72-4b68-93d7-31b9c288f978.jpeg?width=600",
+      "sv": {
+        "title": "Kraftig rabatt i Koenigsegg-affären – enligt gråmarknaden",
+        "summary": "Aktiekursen som lyxbiltillverkaren Koenigsegg Automotives nya delägare 65 Equity Partners köpt in sig på en innebär en kraftig rabatt mot vad aktien handlas för på den så kallade gråmarknaden. Det uppger handelsplattformen Accumeo till Di.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major discount in Koenigsegg deal – according to grey market",
+        "summary": "The share price at which Koenigsegg Automotives' new co-owner 65 Equity Partners bought in is a steep discount to what the shares trade at on the so-called grey market. This is according to the trading platform Accumeo, speaking to Di."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:39:28+01:00"
+      }
+    },
     {
       "id": "a2bf9a902d8d",
       "schema_version": 1,
@@ -5320,33 +5347,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T13:31:06+01:00"
-      }
-    },
-    {
-      "id": "f949eea8c776",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/varuhusjatten-lyfter-efter-hojd-prognos",
-      "guid": "0d147971-3356-4eab-9836-c9f600369eed",
-      "published_at": "2026-11-18T13:06:31+01:00",
-      "fetched_at": "2026-11-18T13:15:53+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/efc1390c-be3a-4b17-80e3-a432077e0086.jpeg?width=600",
-      "sv": {
-        "title": "Varuhusjätten lyfter efter höjd prognos",
-        "summary": "Den amerikanska lågpriskedjan Target slog förväntningarna och höjer samtidigt försäljningsprognosen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Department store giant rises after raised forecast",
-        "summary": "The American low-price chain Target beat expectations and at the same time raises its sales forecast."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T13:15:59+01:00"
       }
     }
   ]
