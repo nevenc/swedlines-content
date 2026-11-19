@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-19T10:01:26+01:00",
+  "generated_at": "2026-11-19T10:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4b70be866a96",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/kolumnen/det-ar-extrema-ryska-forluster-hur-man-an-mater",
+      "guid": "c21cc06f-ff43-45d9-9002-fcb8135abcd8",
+      "published_at": "2026-11-19T10:07:13+01:00",
+      "fetched_at": "2026-11-19T10:15:48+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/c3c1d82c-77b7-49ae-80eb-1cc2ed3f4b65.jpeg?width=600",
+      "sv": {
+        "title": "Det är extrema ryska förluster hur man än mäter"
+      },
+      "en": {
+        "title": "The Russian losses are extreme however one measures them"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:16:03+01:00"
+      }
+    },
     {
       "id": "49a21fd4f297",
       "schema_version": 1,
@@ -5116,33 +5140,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T11:01:24+01:00"
-      }
-    },
-    {
-      "id": "efa8a091ca48",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/familj/kunglig-medalj-till-lundaforfattaren-lina-wolff",
-      "guid": "c2b258b6-2ea0-4e00-9af4-1205bf5c70ab",
-      "published_at": "2026-11-17T10:20:00+01:00",
-      "fetched_at": "2026-11-17T10:31:01+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/f36fae6f-1e6a-414c-b32e-13bd9df97b48.jpeg?width=600",
-      "sv": {
-        "title": "Kunglig medalj till Lundaförfattaren Lina Wolff",
-        "summary": "Författaren Lina Wolff, bosatt i Lund och med rötter i Hörby, har tilldelats den kungliga medaljen Litteris et Artibus.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Royal medal for Lund author Lina Wolff",
-        "summary": "Author Lina Wolff, resident in Lund and with roots in Hörby, has been awarded the royal medal Litteris et Artibus."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T10:31:17+01:00"
       }
     }
   ]

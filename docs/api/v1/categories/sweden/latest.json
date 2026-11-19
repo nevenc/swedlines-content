@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-19T10:01:26+01:00",
+  "generated_at": "2026-11-19T10:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9cc2b6dd1816",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345980",
+      "guid": "rss:sr.se/article/9345980",
+      "published_at": "2026-11-19T10:02:00+01:00",
+      "fetched_at": "2026-11-19T10:15:43+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Återstarten av Ringhals dröjer flera veckor",
+        "summary": "Återstarten av ena reaktorn i Ringhals kärnkraftverk försenas ytterligare. Ringhals 3 skulle ha återstartats den 5 december. men nu dröjer återstarten till 21 december. Den senaste tiden avstängda reaktorer har bidragit till de höga elpriserna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Restart of Ringhals delayed by several weeks",
+        "summary": "The restart of one reactor at the Ringhals nuclear power plant is further delayed. Ringhals 3 was to have restarted on 5 December, but now the restart is delayed until 21 December. Recently, shut-down reactors have contributed to high electricity prices."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:16:03+01:00"
+      }
+    },
+    {
+      "id": "86f08302ad89",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/halland/ytterligare-forsening-av-reaktorstart-pa-ringhals",
+      "guid": "https://www.svt.se/nyheter/lokalt/halland/ytterligare-forsening-av-reaktorstart-pa-ringhals",
+      "published_at": "2026-11-19T09:53:23+01:00",
+      "fetched_at": "2026-11-19T10:15:42+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Ytterligare försening av reaktorstart på Ringhals",
+        "summary": "Efter onsdagens besked om fördröjning av återstart av Ringhals kommer nu ännu en uppskjutning av återstart. Nytt uppstartsdatum för Ringhals 3 är nu 20 december.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Further delay to reactor start at Ringhals",
+        "summary": "Following Wednesday's announcement of a delay in the restart of Ringhals, yet another postponement of the restart now follows. New start date for Ringhals 3 is now 20 December."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:16:03+01:00"
+      }
+    },
     {
       "id": "2c387a6e8c0d",
       "schema_version": 1,
@@ -5364,60 +5416,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T05:45:47+01:00"
-      }
-    },
-    {
-      "id": "eef219a858a2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Pv9dBR/brand-i-lagenhet-man-hittad-dod",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Pv9dBR/brand-i-lagenhet-man-hittad-dod?utm_medium=rss",
-      "published_at": "2026-11-16T03:48:05+01:00",
-      "fetched_at": "2026-11-16T04:01:10+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/73428470-eb39-3115-9aa2-d4589e90320c?format=auto&s=e349d5ffc8556c8ff21e1b1dd37c00376ffada79&w=1000",
-      "sv": {
-        "title": "Brand i lägenhet – man hittad död",
-        "summary": "En man i 70-årsåldern har omkommit i en lägenhetsbrand i ett flerfamiljshus utanför Jönköping under…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man found dead in apartment fire",
-        "summary": "A man in his 70s has died in an apartment fire in a multi-family building outside Jönköping during…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T04:01:15+01:00"
-      }
-    },
-    {
-      "id": "0af7cdb80103",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/9BvpLp/snart-slut-for-rabatt-i-kollektivtrafiken",
-      "guid": "https://www.aftonbladet.se/nyheter/a/9BvpLp/snart-slut-for-rabatt-i-kollektivtrafiken?utm_medium=rss",
-      "published_at": "2026-11-16T03:12:51+01:00",
-      "fetched_at": "2026-11-16T03:15:42+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/017472ce-b357-3a21-a918-512d8648edf6?format=auto&s=559a8a5f34c323960866a3014f150241f418c8d3&w=1000",
-      "sv": {
-        "title": "Snart slut för rabatt i kollektivtrafiken",
-        "summary": "Planerade du att bunkra månadskort till halverat pris? Ledsen, men endast hos Västtrafik är det…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Discount on public transport ending soon",
-        "summary": "Were you planning to stock up on monthly passes at half price? Sorry, but only at Västtrafik is it…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T03:15:47+01:00"
       }
     }
   ]
