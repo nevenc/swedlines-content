@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T17:01:27+01:00",
+  "generated_at": "2026-11-19T17:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9fc718446da4",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/lakare-attackerades-pa-vardcentral-han-bara-hogg-mig",
+      "guid": "https://www.dn.se/sverige/lakare-attackerades-pa-vardcentral-han-bara-hogg-mig/",
+      "published_at": "2026-11-19T17:08:27+01:00",
+      "fetched_at": "2026-11-19T17:15:43+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/db0200b1-11ec-4d3b-b4b2-36ef274a25b3.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Läkare attackerades på vårdcentral: ”Han bara högg mig”",
+        "summary": "Läkaren Stellan Båtsman, 74, tog emot patienten på Hälsocentralen Kalix i tisdags. Efter en stund drog mannen plötsligt fram en kniv och stack honom i magen. – Jag vet inte vad som for i honom, han bara högg mig. Allt gick djävulskt fort. Den misstänkte begärdes på torsdagen häktad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Doctor attacked at health centre: \"He just stabbed me\"",
+        "summary": "Doctor Stellan Båtsman, 74, received the patient at Hälsocentralen Kalix on Tuesday. After a while the man suddenly pulled out a knife and stabbed him in the stomach. – I don't know what got into him, he just stabbed me. Everything happened devilishly fast. The suspect was remanded in custody on Thursday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:15:54+01:00"
+      }
+    },
     {
       "id": "e33691cf92cc",
       "schema_version": 1,
@@ -5330,33 +5357,6 @@
       },
       "en": {
         "title": "Charges delayed after Fagersta shooting"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:31:08+01:00"
-      }
-    },
-    {
-      "id": "621956d7a906",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/GPGrPB/man-hittad-dod-i-goteborg",
-      "guid": "https://www.aftonbladet.se/nyheter/a/GPGrPB/man-hittad-dod-i-goteborg?utm_medium=rss",
-      "published_at": "2026-11-16T09:16:19+01:00",
-      "fetched_at": "2026-11-16T09:30:58+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/81cab91b-cc98-395a-83fd-9f425d218bdf?format=auto&s=7d4971cf2e91bd913c56aae58b4d42d7f97d262e&w=1000",
-      "sv": {
-        "title": "Man hittad död i Göteborg",
-        "summary": "En man har hittats död i Biskopsgården i Göteborg, skriver polisen på sin sajt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man found dead in Göteborg",
-        "summary": "A man has been found dead in Biskopsgården in Göteborg, the police say on their website."
       },
       "translation": {
         "status": "done",

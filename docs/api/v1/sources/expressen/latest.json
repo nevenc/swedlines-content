@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T17:01:27+01:00",
+  "generated_at": "2026-11-19T17:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "64b8625ca163",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/vader/snokaos-all-busstrafik-installd",
+      "guid": "https://www.expressen.se/nyheter/vader/snokaos-all-busstrafik-installd/",
+      "published_at": "2026-11-19T17:09:27+01:00",
+      "fetched_at": "2026-11-19T17:15:45+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "Snökaos – all busstrafik inställd",
+        "summary": "Snön vräker ner över Sverige och den ställer till det ordentligt i trafiken. I Sundsvall har resenärer strandats när all busstrafik i stan ställts in. – Det är på grund av väderläget, säger Stefan Välijeesiö, trafikchef till Sundsvalls tidning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Snow chaos – all bus traffic cancelled",
+        "summary": "Snow is pouring down over Sweden and is causing considerable disruption to traffic. In Sundsvall, travellers have been stranded after all bus traffic in the city was cancelled. – It's due to the weather conditions, says Stefan Välijeesiö, traffic manager at Sundsvalls tidning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:15:54+01:00"
+      }
+    },
     {
       "id": "e33691cf92cc",
       "schema_version": 1,
@@ -5158,32 +5184,6 @@
       "en": {
         "title": "Truck driver found dead in Göteborg",
         "summary": "Police are investigating a crime in Göteborg"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:01:40+01:00"
-      }
-    },
-    {
-      "id": "94cbda5d7350",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=69512971-4a58-448e-af31-49fa87c91da6",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=69512971-4a58-448e-af31-49fa87c91da6",
-      "published_at": "2026-11-16T08:54:45+01:00",
-      "fetched_at": "2026-11-16T09:01:25+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "C-ledaren: Garanterar regering utan V",
-        "summary": "Orden i TV4 om V-ministrar",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "C leader: Guarantees government without V",
-        "summary": "Remarks on TV4 about V ministers"
       },
       "translation": {
         "status": "done",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T17:01:27+01:00",
+  "generated_at": "2026-11-19T17:15:54+01:00",
   "count": 200,
   "items": [
     {
@@ -130,6 +130,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T16:31:09+01:00"
+      }
+    },
+    {
+      "id": "487f2e6f3513",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/smaland/linnea-och-fanny-spelade-gta6-hela-natten",
+      "guid": "https://www.svt.se/nyheter/lokalt/smaland/linnea-och-fanny-spelade-gta6-hela-natten",
+      "published_at": "2026-11-19T16:15:13+01:00",
+      "fetched_at": "2026-11-19T17:15:42+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Linnea och Fanny spelade GTA6 hela natten",
+        "summary": "Charkbricka, vin, bubbel, chips och energidryck laddade kompisarna Linnea och Fanny upp med i natt när det vankades GTA6 släpp. – Vi kände: ”Nu kör vi” – vi poppade en flaska för att fira att GTA6 äntligen har kommit ut, säger Linnea Olin, 25.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Linnea and Fanny played GTA6 all night",
+        "summary": "Charcuterie board, wine, bubbly, chips and energy drinks fuelled friends Linnea and Fanny last night when the GTA6 release was on. – We thought: \"Now we're going for it\" – we popped a bottle to celebrate GTA6 finally being out, says Linnea Olin, 25."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:15:54+01:00"
       }
     },
     {
@@ -5174,32 +5200,6 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T14:56:57+01:00"
-      }
-    },
-    {
-      "id": "e6dc8e4006e2",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/nederlandernas-regering-raddad-tillfalligt",
-      "guid": "https://www.svt.se/nyheter/utrikes/nederlandernas-regering-raddad-tillfalligt",
-      "published_at": "2026-11-13T20:53:50+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Nederländernas regering räddad – tillfälligt",
-        "summary": "Fler samtal behövs för att avvärja den överhängande risken för en regeringskollaps i Nederländerna. Det uppger landets premiärminister Rob Jetten efter ett krismöte på fredagskvällen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Netherlands government saved – for now",
-        "summary": "More talks are needed to avert the imminent risk of a government collapse in the Netherlands. So says the country's prime minister Rob Jetten after a crisis meeting on Friday evening."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
       }
     }
   ]

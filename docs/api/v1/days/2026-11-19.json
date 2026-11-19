@@ -1,7 +1,269 @@
 {
-  "generated_at": "2026-11-19T17:01:27+01:00",
-  "count": 494,
+  "generated_at": "2026-11-19T17:15:54+01:00",
+  "count": 506,
   "items": [
+    {
+      "id": "3332e7e8ebc2",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/stanger-restaurangen-for-vintern-pa-grund-av-elpriserna-sjukt",
+      "guid": "https://www.dn.se/ekonomi/stanger-restaurangen-for-vintern-pa-grund-av-elpriserna-sjukt/",
+      "published_at": "2026-11-19T17:12:25+01:00",
+      "fetched_at": "2026-11-19T17:15:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a9c94e75-23a8-466a-8ea2-8253c54f42cb.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Stänger restaurangen för vintern på grund av elpriserna: ”Sjukt”",
+        "summary": "De hade planerat för en julmeny, men när elpriset i södra Sverige började rusa tänkte restaurangägarna Johan och Jeanette Bohman i skånska Skivarp om. – Vi stänger köket över vintern, friställer personal. Vi vågar inte ha öppet, säger Jeanette Bohman.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Closes restaurant for winter due to electricity prices: \"Insane\"",
+        "summary": "They had planned for a Christmas menu, but when the electricity price in southern Sweden began to soar, restaurant owners Johan and Jeanette Bohman in Skivarp, Skåne, changed their plans. – We are closing the kitchen over the winter and laying off staff. We don't dare stay open, says Jeanette Bohman."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:15:54+01:00"
+      }
+    },
+    {
+      "id": "f6eed25ba6a3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/anthropic-noteras-pa-nasdaq",
+      "guid": "459d2fc0-94d9-5b5d-998c-f13e177b1812",
+      "published_at": "2026-11-19T17:10:08+01:00",
+      "fetched_at": "2026-11-19T17:15:46+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Anthropic noteras på Nasdaq",
+        "summary": "Se hela programmet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic listed on Nasdaq",
+        "summary": "Watch the full programme"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:15:54+01:00"
+      }
+    },
+    {
+      "id": "64b8625ca163",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/vader/snokaos-all-busstrafik-installd",
+      "guid": "https://www.expressen.se/nyheter/vader/snokaos-all-busstrafik-installd/",
+      "published_at": "2026-11-19T17:09:27+01:00",
+      "fetched_at": "2026-11-19T17:15:45+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "Snökaos – all busstrafik inställd",
+        "summary": "Snön vräker ner över Sverige och den ställer till det ordentligt i trafiken. I Sundsvall har resenärer strandats när all busstrafik i stan ställts in. – Det är på grund av väderläget, säger Stefan Välijeesiö, trafikchef till Sundsvalls tidning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Snow chaos – all bus traffic cancelled",
+        "summary": "Snow is pouring down over Sweden and is causing considerable disruption to traffic. In Sundsvall, travellers have been stranded after all bus traffic in the city was cancelled. – It's due to the weather conditions, says Stefan Välijeesiö, traffic manager at Sundsvalls tidning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:15:54+01:00"
+      }
+    },
+    {
+      "id": "9fc718446da4",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/lakare-attackerades-pa-vardcentral-han-bara-hogg-mig",
+      "guid": "https://www.dn.se/sverige/lakare-attackerades-pa-vardcentral-han-bara-hogg-mig/",
+      "published_at": "2026-11-19T17:08:27+01:00",
+      "fetched_at": "2026-11-19T17:15:43+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/db0200b1-11ec-4d3b-b4b2-36ef274a25b3.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Läkare attackerades på vårdcentral: ”Han bara högg mig”",
+        "summary": "Läkaren Stellan Båtsman, 74, tog emot patienten på Hälsocentralen Kalix i tisdags. Efter en stund drog mannen plötsligt fram en kniv och stack honom i magen. – Jag vet inte vad som for i honom, han bara högg mig. Allt gick djävulskt fort. Den misstänkte begärdes på torsdagen häktad.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Doctor attacked at health centre: \"He just stabbed me\"",
+        "summary": "Doctor Stellan Båtsman, 74, received the patient at Hälsocentralen Kalix on Tuesday. After a while the man suddenly pulled out a knife and stabbed him in the stomach. – I don't know what got into him, he just stabbed me. Everything happened devilishly fast. The suspect was remanded in custody on Thursday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:15:54+01:00"
+      }
+    },
+    {
+      "id": "431b95bd62a3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/kockduon-lamnar-stjarnkrogen-aira",
+      "guid": "14c337d9-1fa7-4bb8-8d51-93219feb3399",
+      "published_at": "2026-11-19T17:05:54+01:00",
+      "fetched_at": "2026-11-19T17:15:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6ca3a098-e5fd-424b-a325-dfa615af3049.jpeg?width=600",
+      "sv": {
+        "title": "Kockduon lämnar stjärnkrogen Aira",
+        "summary": "Den välkända kockduon Tommy Myllymäki och Pi Le lämnar Aira på Djurgården med två stjärnor i franska Guide Michelin. Restaurangkoncernen Svenska Brasserier köper ut dem båda och blir helägare till stjärnkrogen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Cooking duo leaves star restaurant Aira",
+        "summary": "The well-known cooking duo Tommy Myllymäki and Pi Le are leaving Aira on Djurgården, which holds two stars in the French Guide Michelin. The restaurant group Svenska Brasserier is buying them both out and becoming sole owner of the star restaurant."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:15:54+01:00"
+      }
+    },
+    {
+      "id": "c09afa740582",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/nyheter/risken-it-jattarna-bundna-till-anthropic",
+      "guid": "50901182-f2d4-5b2f-8ad3-4411676706db",
+      "published_at": "2026-11-19T17:04:54+01:00",
+      "fetched_at": "2026-11-19T17:15:46+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Risken: It-jättarna bundna till Anthropic",
+        "summary": "Di:s korrespondent Emanuel Sidea om ägarbilden i Anthropic – Amazon och Alphabet storägare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The risk: tech giants tied to Anthropic",
+        "summary": "Di's correspondent Emanuel Sidea on the ownership picture at Anthropic – Amazon and Alphabet are major shareholders."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:15:54+01:00"
+      }
+    },
+    {
+      "id": "0b13b37f40e5",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/sparekonomen-om-anthropic-exceptionellt-intresse",
+      "guid": "0544b156-51e5-556e-834e-f8cca8f74aee",
+      "published_at": "2026-11-19T17:04:51+01:00",
+      "fetched_at": "2026-11-19T17:15:46+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Sparekonomen om Anthropic: ”Exceptionellt intresse”"
+      },
+      "en": {
+        "title": "Savings economist on Anthropic: \"Exceptional interest\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:15:54+01:00"
+      }
+    },
+    {
+      "id": "aa6e1aa04d3b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/partierna-overens-okat-stod-till-gotland",
+      "guid": "0ee8823c-8016-4320-ad3f-97f0ac8c7002",
+      "published_at": "2026-11-19T17:01:41+01:00",
+      "fetched_at": "2026-11-19T17:15:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e172ed83-8908-4782-b8de-b6a2bf8698c3.jpg?width=600",
+      "sv": {
+        "title": "Partierna överens – ökat stöd till Gotland",
+        "summary": "Riksdagens partier har ställt sig bakom att stötta Gotlandstrafiken. Tiotals miljoner ska användas för fortsatt sänkta biljettpriser 2027.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Parties agree – increased support for Gotland",
+        "summary": "The parties in the Riksdag have backed support for Gotland's transport. Tens of millions are to be used for continued reduced ticket prices in 2027."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:15:54+01:00"
+      }
+    },
+    {
+      "id": "0e7226d32a90",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/analytikern-om-anthropic-stora-bolag-i-usa-ar-de-viktiga-kunderna",
+      "guid": "6c3025d9-2434-5dd0-834e-e386c4c66419",
+      "published_at": "2026-11-19T17:01:40+01:00",
+      "fetched_at": "2026-11-19T17:15:46+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Analytikern om Anthropic: \"Stora bolag i USA är de viktiga kunderna\"",
+        "summary": "Robert Andersson och Ida Hansson Brusewitz kommenterar Anthropic",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Analyst on Anthropic: \"Large US companies are the important customers\"",
+        "summary": "Robert Andersson and Ida Hansson Brusewitz comment on Anthropic"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:15:54+01:00"
+      }
+    },
+    {
+      "id": "110eeb92b646",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/nicholas-wenno-har-ar-veckans-basta-stromningstips-2026-11-19",
+      "guid": "https://www.dn.se/kultur/nicholas-wenno-har-ar-veckans-basta-stromningstips-2026-11-19/",
+      "published_at": "2026-11-19T17:00:53+01:00",
+      "fetched_at": "2026-11-19T17:15:43+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/d8c654e2-df0b-41c8-9693-364567cebf93.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Nicholas Wennö: Här är veckans bästa strömningstips",
+        "summary": "Höstens starkaste svenska tv-serie, finalen för ”Yellowjackets”, Julia Garner som Silicon Valley-bedragare och en turkisk toppserie. Dessutom kåta dinosaurier, pilska tv-predikanter, storyn om Russell Brand, världens bästa krog och nya Bond-skådespelaren i en av årets största biosuccéer.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Nicholas Wennö: Here are this week's best streaming tips",
+        "summary": "This autumn's strongest Swedish TV series, the finale of \"Yellowjackets\", Julia Garner as a Silicon Valley fraudster and a Turkish top series. Also randy dinosaurs, shady TV preachers, the story of Russell Brand, the world's best restaurant and the new Bond actor in one of the year's biggest box-office hits."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:15:54+01:00"
+      }
+    },
     {
       "id": "1b21cb04a9f7",
       "schema_version": 1,
@@ -108,6 +370,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T17:01:27+01:00"
+      }
+    },
+    {
+      "id": "c49c5146ec15",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/teknikexperten-om-jensen-huang-personlig-kris-for-manga",
+      "guid": "16534cfb-51d8-5c89-97e7-b3144636bc64",
+      "published_at": "2026-11-19T16:59:53+01:00",
+      "fetched_at": "2026-11-19T17:15:46+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Teknikexperten om Jensen Huang: \"Personlig kris för många\"",
+        "summary": "Ida Hansson Brusewitz och Robert Andersson kommenterar Anthropic och Jensen Huang",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tech expert on Jensen Huang: \"Personal crisis for many\"",
+        "summary": "Ida Hansson Brusewitz and Robert Andersson comment on Anthropic and Jensen Huang"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:15:54+01:00"
       }
     },
     {
@@ -859,6 +1147,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T16:31:09+01:00"
+      }
+    },
+    {
+      "id": "487f2e6f3513",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/smaland/linnea-och-fanny-spelade-gta6-hela-natten",
+      "guid": "https://www.svt.se/nyheter/lokalt/smaland/linnea-och-fanny-spelade-gta6-hela-natten",
+      "published_at": "2026-11-19T16:15:13+01:00",
+      "fetched_at": "2026-11-19T17:15:42+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Linnea och Fanny spelade GTA6 hela natten",
+        "summary": "Charkbricka, vin, bubbel, chips och energidryck laddade kompisarna Linnea och Fanny upp med i natt när det vankades GTA6 släpp. – Vi kände: ”Nu kör vi” – vi poppade en flaska för att fira att GTA6 äntligen har kommit ut, säger Linnea Olin, 25.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Linnea and Fanny played GTA6 all night",
+        "summary": "Charcuterie board, wine, bubbly, chips and energy drinks fuelled friends Linnea and Fanny last night when the GTA6 release was on. – We thought: \"Now we're going for it\" – we popped a bottle to celebrate GTA6 finally being out, says Linnea Olin, 25."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:15:54+01:00"
       }
     },
     {
