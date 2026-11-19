@@ -1,7 +1,355 @@
 {
-  "generated_at": "2026-11-19T09:01:18+01:00",
-  "count": 174,
+  "generated_at": "2026-11-19T09:15:59+01:00",
+  "count": 187,
   "items": [
+    {
+      "id": "3a8860718c7d",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1b39J04paVCShuHoAH3b2w/kissade-pa-hans-vita-lacoste-da-skoet-han-katten",
+      "guid": "1b39J04paVCShuHoAH3b2w",
+      "published_at": "2026-11-19T09:13:50+01:00",
+      "fetched_at": "2026-11-19T09:15:42+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Nöje"
+      ],
+      "sv": {
+        "title": "Kissade på hans vita Lacoste – då sköt han katten",
+        "summary": "Carola Häggkvist berättade i början av 2010-talet att hennes exmake, den tidigare predikanten Runar Sögaard, hade skjutit hennes katt under tiden de var gifta. Det blev starten på en historia som än i dag blir till förstasidestoff så fort nya detaljer om skottet kommer fram.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Peed on his white Lacoste – then he shot the cat",
+        "summary": "Carola Häggkvist said in the early 2010s that her ex-husband, former preacher Runar Sögaard, had shot her cat while they were married. It was the start of a story that still makes front-page news whenever new details about the shooting emerge."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "1bffc753a9c1",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/sex-atalas-for-overgrepp-pa-sigtunaskolan",
+      "guid": "c967ef41-f589-4125-a0bb-c2fd6ab1322c",
+      "published_at": "2026-11-19T09:13:49+01:00",
+      "fetched_at": "2026-11-19T09:15:44+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/2c2d82c5-4c5e-4311-99f5-96ffd66f7979.jpg?width=600",
+      "sv": {
+        "title": "Sex åtalas för övergrepp på Sigtunaskolan",
+        "summary": "Sex manliga elever åtalas efter de misstänkta övergreppen på Sigtunaskolan, meddelar Åklagarmyndigheten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Six charged over abuse at Sigtunaskolan",
+        "summary": "Six male students are charged following the suspected abuse at Sigtunaskolan, the Prosecution Authority announces."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "e479f0de3e59",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/0vnglo/beaujolais-nouveau-fulvinet-aterigen-trendigt-i-sverige",
+      "guid": "https://www.svd.se/a/0vnglo/beaujolais-nouveau-fulvinet-aterigen-trendigt-i-sverige?utm_medium=rss",
+      "published_at": "2026-11-19T09:13:46+01:00",
+      "fetched_at": "2026-11-19T09:15:42+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/bb84cb7b-ef37-3534-9d33-4f3fa8560297?format=auto&s=fee5cfe8e2e43c5541076cc45ac571a55a9c4a72&w=1000",
+      "sv": {
+        "title": "Fulvinet trendigt igen: ”Inte snobbigt”",
+        "summary": "Det var en succé på 1980-talet, men fick sedan rykte om sig att vara billigt och dåligt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fulvinet back in fashion: “Not snobbish”",
+        "summary": "It was a hit in the 1980s, but then got a reputation for being cheap and bad."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "c745f780f883",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/borsen-vander-upp-coor-stiger-efter-forvarv",
+      "guid": "43ccc9eb-f230-4c68-a268-abf361389e3c",
+      "published_at": "2026-11-19T09:13:04+01:00",
+      "fetched_at": "2026-11-19T09:15:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6aae4930-a961-4b00-b580-edd1433e32f4.jpeg?width=600",
+      "sv": {
+        "title": "Börsen vänder upp – Coor stiger efter förvärv",
+        "summary": "Stockholmsbörsen vänder upp på torsdagsmorgonen inför eftermiddagens jättenotering av Anthropic. De stora verkstadsbolagen stiger, och Coor lyfter efter ett förvärv.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stocks turn up – Coor rises after acquisition",
+        "summary": "The Stockholm stock exchange turns up on Thursday morning ahead of this afternoon's huge listing of Anthropic. The large engineering companies rise, and Coor jumps after an acquisition."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "0173c0629823",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/hog-personalomsattning-pa-bank-id-vacker-oro-befinner-sig-pa-en-forandringsresa",
+      "guid": "cabc8aeb-a4d5-4831-99f5-46ae65ad0b70",
+      "published_at": "2026-11-19T09:12:57+01:00",
+      "fetched_at": "2026-11-19T09:15:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/fbceeb78-37f8-48e1-8ede-31e966102972.jpeg?width=600",
+      "sv": {
+        "title": "Hög personalomsättning på Bank-id väcker oro: ”Befinner sig på en förändringsresa”",
+        "summary": "Finansiell id-teknik, bolaget bakom Bank-id, skakas av hög personalomsättning och intern oro, enligt uppgifter till Di. ”Bank-id befinner sig på en förändringsresa och vi anpassar organisationen”, uppger bolagets pressansvariga Charlotte Patakay.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "High staff turnover at Bank-id raises concern: “Is going through a period of change”",
+        "summary": "Finansiell id-teknik, the company behind Bank-id, is being shaken by high staff turnover and internal concern, according to information to Di. “Bank-id is going through a period of change and we are adapting the organisation,” says press officer Charlotte Patakay."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "9c6e74bd85cc",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=b14f4bb3-23b5-4d63-8e9f-0829c54d192a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b14f4bb3-23b5-4d63-8e9f-0829c54d192a",
+      "published_at": "2026-11-19T09:08:39+01:00",
+      "fetched_at": "2026-11-19T09:15:42+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Sex elever åtalas för brott på Sigtunaskolan",
+        "summary": "Misstänkta för brott på Sigtuna",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Six students charged over offences at Sigtunaskolan",
+        "summary": "Suspected of offences at Sigtuna"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "ee94563b8a25",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/sex-atalas-for-valdsbrott-pa-internatet-i-sigtuna",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/sex-atalas-for-valdsbrott-pa-internatet-i-sigtuna",
+      "published_at": "2026-11-19T09:08:35+01:00",
+      "fetched_at": "2026-11-19T09:15:40+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Sex åtalas för våldsbrott på internatet i Sigtuna",
+        "summary": "Under hösten har misstankar om misshandel, olaga tvång och sexuellt ofredande mellan elever framkommit på Sigtunaskolan humanistiska läroverket. Nu åtalas sex personer. Tre av eleverna åtalas för grovt sexuellt ofredande, grov misshandel och grovt olaga tvång.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Six charged with violent offences at the boarding school in Sigtuna",
+        "summary": "Over the autumn, suspicions of assault, unlawful coercion and sexual harassment between students have emerged at Sigtunaskolan Humanistiska Läroverket. Now six people are charged. Three of the students are charged with aggravated sexual harassment, aggravated assault and aggravated unlawful coercion."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "b813000df5b1",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80084",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80084&utm_medium=rss",
+      "published_at": "2026-11-19T09:08:04+01:00",
+      "fetched_at": "2026-11-19T09:15:42+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Sex åtalas för brott på Sigtunaskolan"
+      },
+      "en": {
+        "title": "Six charged over offences at Sigtunaskolan"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "367829d50914",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/9BvG2d/sex-atalas-for-overgrepp-pa-sigtunaskolan",
+      "guid": "https://www.svd.se/a/9BvG2d/sex-atalas-for-overgrepp-pa-sigtunaskolan?utm_medium=rss",
+      "published_at": "2026-11-19T09:07:40+01:00",
+      "fetched_at": "2026-11-19T09:15:42+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/202d1fe5-b159-3b19-836a-6c5ee332596f?format=auto&s=c05097926364ed4657aa166c727f6bec616ed549&w=1000",
+      "sv": {
+        "title": "Sex åtalas för övergrepp på Sigtunaskolan",
+        "summary": "Sex manliga elever åtalas efter de misstänkta övergreppen på Sigtunaskolan, meddelar…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Six charged over abuse at Sigtunaskolan",
+        "summary": "Six male students are charged following the suspected abuse at Sigtunaskolan, the Prosecution Authority announces…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "324555deb6fe",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/yz3KPr/sex-atalas-for-overgrepp-pa-sigtunaskolan",
+      "guid": "https://www.aftonbladet.se/nyheter/a/yz3KPr/sex-atalas-for-overgrepp-pa-sigtunaskolan?utm_medium=rss",
+      "published_at": "2026-11-19T09:07:39+01:00",
+      "fetched_at": "2026-11-19T09:15:42+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/202d1fe5-b159-3b19-836a-6c5ee332596f?format=auto&s=c05097926364ed4657aa166c727f6bec616ed549&w=1000",
+      "sv": {
+        "title": "Sex åtalas för övergrepp på Sigtunaskolan",
+        "summary": "Sex manliga elever åtalas efter de misstänkta övergreppen på Sigtunaskolan, meddelar…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Six charged over abuse at Sigtunaskolan",
+        "summary": "Six male students are charged following the suspected abuse at Sigtunaskolan, the Prosecution Authority announces…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "ce68ede74f5c",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/12vHh2Oe7YmxuA0Xyuf1Ki/elever-atalas-foer-brott-pa-sigtunaskolan",
+      "guid": "12vHh2Oe7YmxuA0Xyuf1Ki",
+      "published_at": "2026-11-19T09:07:30+01:00",
+      "fetched_at": "2026-11-19T09:15:42+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Brott och straff"
+      ],
+      "sv": {
+        "title": "Sex unga manliga elever på Sigtunaskolan åtalade",
+        "summary": "Sex unga manliga elever har åtalats för brott på Sigtunaskolan Humanistiska Läroverket. Alla går i tredje ring på gymnasiet. Tre av dem åtalas för grovt sexuellt ofredande, grov misshandel och grovt olaga tvång, och ärendet omfattar också flera fall av misshandel och olaga tvång.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Six young male students at Sigtunaskolan charged",
+        "summary": "Six young male students have been charged with offences at Sigtunaskolan Humanistiska Läroverket. All are in the third year of upper secondary school. Three of them are charged with aggravated sexual harassment, aggravated assault and aggravated unlawful coercion, and the case also covers several cases of assault and unlawful coercion."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "f1de0e6eb5cd",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/wild-horse-nine-ar-en-lika-drastisk-som-karleksfull-attack-pa-hjaltenationen-usa",
+      "guid": "https://www.dn.se/kultur/wild-horse-nine-ar-en-lika-drastisk-som-karleksfull-attack-pa-hjaltenationen-usa/",
+      "published_at": "2026-11-19T09:05:50+01:00",
+      "fetched_at": "2026-11-19T09:15:41+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/01a766b4-2987-4d31-a14e-96efc1e9841a.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "”Wild horse nine” är en lika drastisk som kärleksfull attack på hjältenationen USA",
+        "summary": "Vänskap, imperialistisk 1900-talshistoria och svindlande svart humor mot en fond av den gröna Påskön. Martin McDonagh är tillbaka, John Malkovich är i toppform och Kerstin Gezelius njuter av ett musikaliskt manus, intelligent regi och lysande skådespeleri.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Wild horse nine” is as drastic as it is affectionate an attack on the heroic nation USA",
+        "summary": "Friendship, imperialist 20th-century history and dazzling black humour against a backdrop of green Easter Island. Martin McDonagh is back, John Malkovich is on top form and Kerstin Gezelius enjoys a musical script, intelligent direction and brilliant acting."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "e06da89ffa30",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/blekinge/volvo-doms-att-betala-23-miljoner-kronor-efter-allvarlig-olycka",
+      "guid": "https://www.svt.se/nyheter/lokalt/blekinge/volvo-doms-att-betala-23-miljoner-kronor-efter-allvarlig-olycka",
+      "published_at": "2026-11-19T09:00:40+01:00",
+      "fetched_at": "2026-11-19T09:15:40+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Volvo döms att betala 23 miljoner kronor – efter allvarlig olycka",
+        "summary": "En anställd på Volvo Personvagnar AB i Olofström höll på att klämmas ihjäl i en olycka förra året. Nu döms Volvo att betala 23,2 miljoner kronor i företagsbot, då det framkommit stora säkerhetsbrister i fabriken.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Volvo ordered to pay SEK 23 million – after serious accident",
+        "summary": "An employee at Volvo Personvagnar AB in Olofström was nearly crushed to death in an accident last year. Volvo is now sentenced to pay SEK 23.2 million in corporate fine, as serious safety deficiencies in the factory have emerged."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
     {
       "id": "c9e69f918945",
       "schema_version": 1,

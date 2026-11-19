@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-19T09:01:18+01:00",
+  "generated_at": "2026-11-19T09:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c745f780f883",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/borsen-vander-upp-coor-stiger-efter-forvarv",
+      "guid": "43ccc9eb-f230-4c68-a268-abf361389e3c",
+      "published_at": "2026-11-19T09:13:04+01:00",
+      "fetched_at": "2026-11-19T09:15:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6aae4930-a961-4b00-b580-edd1433e32f4.jpeg?width=600",
+      "sv": {
+        "title": "Börsen vänder upp – Coor stiger efter förvärv",
+        "summary": "Stockholmsbörsen vänder upp på torsdagsmorgonen inför eftermiddagens jättenotering av Anthropic. De stora verkstadsbolagen stiger, och Coor lyfter efter ett förvärv.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stocks turn up – Coor rises after acquisition",
+        "summary": "The Stockholm stock exchange turns up on Thursday morning ahead of this afternoon's huge listing of Anthropic. The large engineering companies rise, and Coor jumps after an acquisition."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "0173c0629823",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/hog-personalomsattning-pa-bank-id-vacker-oro-befinner-sig-pa-en-forandringsresa",
+      "guid": "cabc8aeb-a4d5-4831-99f5-46ae65ad0b70",
+      "published_at": "2026-11-19T09:12:57+01:00",
+      "fetched_at": "2026-11-19T09:15:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/fbceeb78-37f8-48e1-8ede-31e966102972.jpeg?width=600",
+      "sv": {
+        "title": "Hög personalomsättning på Bank-id väcker oro: ”Befinner sig på en förändringsresa”",
+        "summary": "Finansiell id-teknik, bolaget bakom Bank-id, skakas av hög personalomsättning och intern oro, enligt uppgifter till Di. ”Bank-id befinner sig på en förändringsresa och vi anpassar organisationen”, uppger bolagets pressansvariga Charlotte Patakay.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "High staff turnover at Bank-id raises concern: “Is going through a period of change”",
+        "summary": "Finansiell id-teknik, the company behind Bank-id, is being shaken by high staff turnover and internal concern, according to information to Di. “Bank-id is going through a period of change and we are adapting the organisation,” says press officer Charlotte Patakay."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
     {
       "id": "4a20ff864ef2",
       "schema_version": 1,
@@ -5230,59 +5284,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T12:31:14+01:00"
-      }
-    },
-    {
-      "id": "774f42f0e829",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/MAylm5/de-har-haft-hemmakontor-sedan-pandemin",
-      "guid": "https://www.svd.se/a/MAylm5/de-har-haft-hemmakontor-sedan-pandemin?utm_medium=rss",
-      "published_at": "2026-11-18T11:47:41+01:00",
-      "fetched_at": "2026-11-18T12:01:18+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/93c1341e-1011-39d9-a449-2bb36f2a9860?format=auto&s=fa55f868c4d2f766118d1ddc3823719d2c8d08a6&w=1000",
-      "sv": {
-        "title": "Vd:n som inte vill tillbaka till kontoret",
-        "summary": "Medan storföretagen försöker locka tillbaka personalen till kontoren har webbyrån Nobox gått åt…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The CEO who does not want to return to the office",
-        "summary": "While large companies try to lure staff back to the offices, web agency Nobox has gone against the trend…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T12:01:25+01:00"
-      }
-    },
-    {
-      "id": "38db9a84f013",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/infracom-ska-spara-sager-upp-personal",
-      "guid": "c78e36ac-d902-417d-9a1c-c3a89779ea6c",
-      "published_at": "2026-11-18T11:44:00+01:00",
-      "fetched_at": "2026-11-18T12:01:19+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Infracom ska spara – säger upp personal",
-        "summary": "IT- och telekombolaget Infracom samlar dotterbolag i ett gemensamt verksamhetsbolag och genomför ett samlat effektiviserings- och besparingsprogram som beräknas sänka koncernens årliga kostnadsbas med cirka 45 miljoner kronor, enligt ett pressmeddelande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Infracom to cut costs – laying off staff",
-        "summary": "IT and telecom company Infracom is merging subsidiaries into a joint operating company and carrying out a combined efficiency and cost-saving programme that is expected to lower the group's annual cost base by about SEK 45 million, according to a press release."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T12:01:25+01:00"
       }
     }
   ]

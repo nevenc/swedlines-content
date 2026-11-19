@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T09:01:18+01:00",
+  "generated_at": "2026-11-19T09:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9c6e74bd85cc",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=b14f4bb3-23b5-4d63-8e9f-0829c54d192a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b14f4bb3-23b5-4d63-8e9f-0829c54d192a",
+      "published_at": "2026-11-19T09:08:39+01:00",
+      "fetched_at": "2026-11-19T09:15:42+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Sex elever åtalas för brott på Sigtunaskolan",
+        "summary": "Misstänkta för brott på Sigtuna",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Six students charged over offences at Sigtunaskolan",
+        "summary": "Suspected of offences at Sigtuna"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
     {
       "id": "f3392de1b9c8",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T23:45:49+01:00"
-      }
-    },
-    {
-      "id": "a6fafc8468aa",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/overlevde-fall-pa-20--meter-kristins-ord",
-      "guid": "https://www.expressen.se/nyheter/varlden/overlevde-fall-pa-20--meter-kristins-ord/",
-      "published_at": "2026-11-15T23:10:53+01:00",
-      "fetched_at": "2026-11-15T23:15:39+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Överlevde fall på 20 meter – Kristins ord",
-        "summary": "21-åriga Kristin Sargent föll från åttonde våningen – och överlevde ”mirakulöst”, enligt New York Post. Polisen har släppt kroppskamerafilmer som visar Kristin säga direkt efter 20-metersfallet: – Ingen har gjort något dåligt mot mig.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Survived 20-metre fall – Kristin's words",
-        "summary": "21-year-old Kristin Sargent fell from the eighth floor – and survived \"miraculously\", according to the New York Post. Police have released body-camera footage showing Kristin saying right after the 20-metre fall: – Nobody has done anything bad to me."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T23:15:46+01:00"
       }
     }
   ]

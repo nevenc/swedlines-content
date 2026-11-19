@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-19T09:01:18+01:00",
+  "generated_at": "2026-11-19T09:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c745f780f883",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/borsen-vander-upp-coor-stiger-efter-forvarv",
+      "guid": "43ccc9eb-f230-4c68-a268-abf361389e3c",
+      "published_at": "2026-11-19T09:13:04+01:00",
+      "fetched_at": "2026-11-19T09:15:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6aae4930-a961-4b00-b580-edd1433e32f4.jpeg?width=600",
+      "sv": {
+        "title": "Börsen vänder upp – Coor stiger efter förvärv",
+        "summary": "Stockholmsbörsen vänder upp på torsdagsmorgonen inför eftermiddagens jättenotering av Anthropic. De stora verkstadsbolagen stiger, och Coor lyfter efter ett förvärv.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stocks turn up – Coor rises after acquisition",
+        "summary": "The Stockholm stock exchange turns up on Thursday morning ahead of this afternoon's huge listing of Anthropic. The large engineering companies rise, and Coor jumps after an acquisition."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "0173c0629823",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/hog-personalomsattning-pa-bank-id-vacker-oro-befinner-sig-pa-en-forandringsresa",
+      "guid": "cabc8aeb-a4d5-4831-99f5-46ae65ad0b70",
+      "published_at": "2026-11-19T09:12:57+01:00",
+      "fetched_at": "2026-11-19T09:15:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/fbceeb78-37f8-48e1-8ede-31e966102972.jpeg?width=600",
+      "sv": {
+        "title": "Hög personalomsättning på Bank-id väcker oro: ”Befinner sig på en förändringsresa”",
+        "summary": "Finansiell id-teknik, bolaget bakom Bank-id, skakas av hög personalomsättning och intern oro, enligt uppgifter till Di. ”Bank-id befinner sig på en förändringsresa och vi anpassar organisationen”, uppger bolagets pressansvariga Charlotte Patakay.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "High staff turnover at Bank-id raises concern: “Is going through a period of change”",
+        "summary": "Finansiell id-teknik, the company behind Bank-id, is being shaken by high staff turnover and internal concern, according to information to Di. “Bank-id is going through a period of change and we are adapting the organisation,” says press officer Charlotte Patakay."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
     {
       "id": "4a20ff864ef2",
       "schema_version": 1,
@@ -5281,60 +5335,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "b3e7102e9b48",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/daniel-sachs-kreditforvaltare-oppnar-tyskt-kontor",
-      "guid": "db93da2d-462e-4cf1-96ea-763b085f87f1",
-      "published_at": "2026-11-18T07:06:06+01:00",
-      "fetched_at": "2026-11-18T07:15:47+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0b7c1c84-64f9-4d3f-950b-b661c1a5a7e2.jpeg?width=600",
-      "sv": {
-        "title": "Daniel Sachs kreditförvaltare öppnar tyskt kontor",
-        "summary": "Kreditförvaltaren P Capital Partners, där Daniel Sachs är en av grundarna, öppnar sitt första tyska kontor. Bakom satsningen ligger växande finansieringsbehov hos europeiska företag – och behovet av att Europa ska kunna stå på egna ben.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Daniel Sachs' credit manager opens German office",
-        "summary": "Credit manager P Capital Partners, where Daniel Sachs is one of the founders, is opening its first German office. Behind the move are growing financing needs at European companies – and the need for Europe to be able to stand on its own feet."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "0427adddd27a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/morgonkoll-fortsatt-osakra-borser-efter-nvidia-rapporten",
-      "guid": "4ba659d9-f38b-4978-8a36-d07d7c4d953d",
-      "published_at": "2026-11-18T06:49:29+01:00",
-      "fetched_at": "2026-11-18T07:01:20+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/e6087e5a-83d9-4339-9544-aa8b5ec793db.jpeg?width=600",
-      "sv": {
-        "title": "Morgonkoll: Fortsatt osäkra börser efter Nvidia-rapporten",
-        "summary": "De asiatiska börserna handlas kring oförändrade nivåer efter gårdagskvällens stora händelse: halvledarjätten Nvidias rapport. ”Investerare kan fortfarande inte skaka av sig en något pessimistisk syn på AI och halvledare”, kommenterar analytikern Ryoutarou Sawada.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Morning check: Stock markets still uncertain after Nvidia report",
-        "summary": "Asian stock exchanges are trading around unchanged levels after yesterday evening's big event: the chip giant Nvidia's report. “Investors still cannot shake off a somewhat pessimistic view of AI and semiconductors”, comments analyst Ryoutarou Sawada."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:01:37+01:00"
       }
     }
   ]

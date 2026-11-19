@@ -1,7 +1,355 @@
 {
-  "generated_at": "2026-11-19T09:01:18+01:00",
+  "generated_at": "2026-11-19T09:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3a8860718c7d",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1b39J04paVCShuHoAH3b2w/kissade-pa-hans-vita-lacoste-da-skoet-han-katten",
+      "guid": "1b39J04paVCShuHoAH3b2w",
+      "published_at": "2026-11-19T09:13:50+01:00",
+      "fetched_at": "2026-11-19T09:15:42+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Nöje"
+      ],
+      "sv": {
+        "title": "Kissade på hans vita Lacoste – då sköt han katten",
+        "summary": "Carola Häggkvist berättade i början av 2010-talet att hennes exmake, den tidigare predikanten Runar Sögaard, hade skjutit hennes katt under tiden de var gifta. Det blev starten på en historia som än i dag blir till förstasidestoff så fort nya detaljer om skottet kommer fram.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Peed on his white Lacoste – then he shot the cat",
+        "summary": "Carola Häggkvist said in the early 2010s that her ex-husband, former preacher Runar Sögaard, had shot her cat while they were married. It was the start of a story that still makes front-page news whenever new details about the shooting emerge."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "1bffc753a9c1",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/sex-atalas-for-overgrepp-pa-sigtunaskolan",
+      "guid": "c967ef41-f589-4125-a0bb-c2fd6ab1322c",
+      "published_at": "2026-11-19T09:13:49+01:00",
+      "fetched_at": "2026-11-19T09:15:44+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/2c2d82c5-4c5e-4311-99f5-96ffd66f7979.jpg?width=600",
+      "sv": {
+        "title": "Sex åtalas för övergrepp på Sigtunaskolan",
+        "summary": "Sex manliga elever åtalas efter de misstänkta övergreppen på Sigtunaskolan, meddelar Åklagarmyndigheten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Six charged over abuse at Sigtunaskolan",
+        "summary": "Six male students are charged following the suspected abuse at Sigtunaskolan, the Prosecution Authority announces."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "e479f0de3e59",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/0vnglo/beaujolais-nouveau-fulvinet-aterigen-trendigt-i-sverige",
+      "guid": "https://www.svd.se/a/0vnglo/beaujolais-nouveau-fulvinet-aterigen-trendigt-i-sverige?utm_medium=rss",
+      "published_at": "2026-11-19T09:13:46+01:00",
+      "fetched_at": "2026-11-19T09:15:42+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/bb84cb7b-ef37-3534-9d33-4f3fa8560297?format=auto&s=fee5cfe8e2e43c5541076cc45ac571a55a9c4a72&w=1000",
+      "sv": {
+        "title": "Fulvinet trendigt igen: ”Inte snobbigt”",
+        "summary": "Det var en succé på 1980-talet, men fick sedan rykte om sig att vara billigt och dåligt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fulvinet back in fashion: “Not snobbish”",
+        "summary": "It was a hit in the 1980s, but then got a reputation for being cheap and bad."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "c745f780f883",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/borsen-vander-upp-coor-stiger-efter-forvarv",
+      "guid": "43ccc9eb-f230-4c68-a268-abf361389e3c",
+      "published_at": "2026-11-19T09:13:04+01:00",
+      "fetched_at": "2026-11-19T09:15:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6aae4930-a961-4b00-b580-edd1433e32f4.jpeg?width=600",
+      "sv": {
+        "title": "Börsen vänder upp – Coor stiger efter förvärv",
+        "summary": "Stockholmsbörsen vänder upp på torsdagsmorgonen inför eftermiddagens jättenotering av Anthropic. De stora verkstadsbolagen stiger, och Coor lyfter efter ett förvärv.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stocks turn up – Coor rises after acquisition",
+        "summary": "The Stockholm stock exchange turns up on Thursday morning ahead of this afternoon's huge listing of Anthropic. The large engineering companies rise, and Coor jumps after an acquisition."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "0173c0629823",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/hog-personalomsattning-pa-bank-id-vacker-oro-befinner-sig-pa-en-forandringsresa",
+      "guid": "cabc8aeb-a4d5-4831-99f5-46ae65ad0b70",
+      "published_at": "2026-11-19T09:12:57+01:00",
+      "fetched_at": "2026-11-19T09:15:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/fbceeb78-37f8-48e1-8ede-31e966102972.jpeg?width=600",
+      "sv": {
+        "title": "Hög personalomsättning på Bank-id väcker oro: ”Befinner sig på en förändringsresa”",
+        "summary": "Finansiell id-teknik, bolaget bakom Bank-id, skakas av hög personalomsättning och intern oro, enligt uppgifter till Di. ”Bank-id befinner sig på en förändringsresa och vi anpassar organisationen”, uppger bolagets pressansvariga Charlotte Patakay.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "High staff turnover at Bank-id raises concern: “Is going through a period of change”",
+        "summary": "Finansiell id-teknik, the company behind Bank-id, is being shaken by high staff turnover and internal concern, according to information to Di. “Bank-id is going through a period of change and we are adapting the organisation,” says press officer Charlotte Patakay."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "9c6e74bd85cc",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=b14f4bb3-23b5-4d63-8e9f-0829c54d192a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b14f4bb3-23b5-4d63-8e9f-0829c54d192a",
+      "published_at": "2026-11-19T09:08:39+01:00",
+      "fetched_at": "2026-11-19T09:15:42+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Sex elever åtalas för brott på Sigtunaskolan",
+        "summary": "Misstänkta för brott på Sigtuna",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Six students charged over offences at Sigtunaskolan",
+        "summary": "Suspected of offences at Sigtuna"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "ee94563b8a25",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/sex-atalas-for-valdsbrott-pa-internatet-i-sigtuna",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/sex-atalas-for-valdsbrott-pa-internatet-i-sigtuna",
+      "published_at": "2026-11-19T09:08:35+01:00",
+      "fetched_at": "2026-11-19T09:15:40+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Sex åtalas för våldsbrott på internatet i Sigtuna",
+        "summary": "Under hösten har misstankar om misshandel, olaga tvång och sexuellt ofredande mellan elever framkommit på Sigtunaskolan humanistiska läroverket. Nu åtalas sex personer. Tre av eleverna åtalas för grovt sexuellt ofredande, grov misshandel och grovt olaga tvång.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Six charged with violent offences at the boarding school in Sigtuna",
+        "summary": "Over the autumn, suspicions of assault, unlawful coercion and sexual harassment between students have emerged at Sigtunaskolan Humanistiska Läroverket. Now six people are charged. Three of the students are charged with aggravated sexual harassment, aggravated assault and aggravated unlawful coercion."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "b813000df5b1",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80084",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80084&utm_medium=rss",
+      "published_at": "2026-11-19T09:08:04+01:00",
+      "fetched_at": "2026-11-19T09:15:42+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Sex åtalas för brott på Sigtunaskolan"
+      },
+      "en": {
+        "title": "Six charged over offences at Sigtunaskolan"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "367829d50914",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/9BvG2d/sex-atalas-for-overgrepp-pa-sigtunaskolan",
+      "guid": "https://www.svd.se/a/9BvG2d/sex-atalas-for-overgrepp-pa-sigtunaskolan?utm_medium=rss",
+      "published_at": "2026-11-19T09:07:40+01:00",
+      "fetched_at": "2026-11-19T09:15:42+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/202d1fe5-b159-3b19-836a-6c5ee332596f?format=auto&s=c05097926364ed4657aa166c727f6bec616ed549&w=1000",
+      "sv": {
+        "title": "Sex åtalas för övergrepp på Sigtunaskolan",
+        "summary": "Sex manliga elever åtalas efter de misstänkta övergreppen på Sigtunaskolan, meddelar…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Six charged over abuse at Sigtunaskolan",
+        "summary": "Six male students are charged following the suspected abuse at Sigtunaskolan, the Prosecution Authority announces…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "324555deb6fe",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/yz3KPr/sex-atalas-for-overgrepp-pa-sigtunaskolan",
+      "guid": "https://www.aftonbladet.se/nyheter/a/yz3KPr/sex-atalas-for-overgrepp-pa-sigtunaskolan?utm_medium=rss",
+      "published_at": "2026-11-19T09:07:39+01:00",
+      "fetched_at": "2026-11-19T09:15:42+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/202d1fe5-b159-3b19-836a-6c5ee332596f?format=auto&s=c05097926364ed4657aa166c727f6bec616ed549&w=1000",
+      "sv": {
+        "title": "Sex åtalas för övergrepp på Sigtunaskolan",
+        "summary": "Sex manliga elever åtalas efter de misstänkta övergreppen på Sigtunaskolan, meddelar…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Six charged over abuse at Sigtunaskolan",
+        "summary": "Six male students are charged following the suspected abuse at Sigtunaskolan, the Prosecution Authority announces…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "ce68ede74f5c",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/12vHh2Oe7YmxuA0Xyuf1Ki/elever-atalas-foer-brott-pa-sigtunaskolan",
+      "guid": "12vHh2Oe7YmxuA0Xyuf1Ki",
+      "published_at": "2026-11-19T09:07:30+01:00",
+      "fetched_at": "2026-11-19T09:15:42+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Brott och straff"
+      ],
+      "sv": {
+        "title": "Sex unga manliga elever på Sigtunaskolan åtalade",
+        "summary": "Sex unga manliga elever har åtalats för brott på Sigtunaskolan Humanistiska Läroverket. Alla går i tredje ring på gymnasiet. Tre av dem åtalas för grovt sexuellt ofredande, grov misshandel och grovt olaga tvång, och ärendet omfattar också flera fall av misshandel och olaga tvång.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Six young male students at Sigtunaskolan charged",
+        "summary": "Six young male students have been charged with offences at Sigtunaskolan Humanistiska Läroverket. All are in the third year of upper secondary school. Three of them are charged with aggravated sexual harassment, aggravated assault and aggravated unlawful coercion, and the case also covers several cases of assault and unlawful coercion."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "f1de0e6eb5cd",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/wild-horse-nine-ar-en-lika-drastisk-som-karleksfull-attack-pa-hjaltenationen-usa",
+      "guid": "https://www.dn.se/kultur/wild-horse-nine-ar-en-lika-drastisk-som-karleksfull-attack-pa-hjaltenationen-usa/",
+      "published_at": "2026-11-19T09:05:50+01:00",
+      "fetched_at": "2026-11-19T09:15:41+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/01a766b4-2987-4d31-a14e-96efc1e9841a.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "”Wild horse nine” är en lika drastisk som kärleksfull attack på hjältenationen USA",
+        "summary": "Vänskap, imperialistisk 1900-talshistoria och svindlande svart humor mot en fond av den gröna Påskön. Martin McDonagh är tillbaka, John Malkovich är i toppform och Kerstin Gezelius njuter av ett musikaliskt manus, intelligent regi och lysande skådespeleri.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Wild horse nine” is as drastic as it is affectionate an attack on the heroic nation USA",
+        "summary": "Friendship, imperialist 20th-century history and dazzling black humour against a backdrop of green Easter Island. Martin McDonagh is back, John Malkovich is on top form and Kerstin Gezelius enjoys a musical script, intelligent direction and brilliant acting."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "e06da89ffa30",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/blekinge/volvo-doms-att-betala-23-miljoner-kronor-efter-allvarlig-olycka",
+      "guid": "https://www.svt.se/nyheter/lokalt/blekinge/volvo-doms-att-betala-23-miljoner-kronor-efter-allvarlig-olycka",
+      "published_at": "2026-11-19T09:00:40+01:00",
+      "fetched_at": "2026-11-19T09:15:40+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Volvo döms att betala 23 miljoner kronor – efter allvarlig olycka",
+        "summary": "En anställd på Volvo Personvagnar AB i Olofström höll på att klämmas ihjäl i en olycka förra året. Nu döms Volvo att betala 23,2 miljoner kronor i företagsbot, då det framkommit stora säkerhetsbrister i fabriken.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Volvo ordered to pay SEK 23 million – after serious accident",
+        "summary": "An employee at Volvo Personvagnar AB in Olofström was nearly crushed to death in an accident last year. Volvo is now sentenced to pay SEK 23.2 million in corporate fine, as serious safety deficiencies in the factory have emerged."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
     {
       "id": "c9e69f918945",
       "schema_version": 1,
@@ -5005,367 +5353,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T22:31:07+01:00"
-      }
-    },
-    {
-      "id": "c103eaf7b848",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/harda-tider-over-nu-ar-det-klipplage-i-salongerna",
-      "guid": "34a1efdf-3148-42d3-9cba-51398ae3fa9e",
-      "published_at": "2026-11-18T22:16:58+01:00",
-      "fetched_at": "2026-11-18T22:31:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b80192cb-eb7d-4899-bc3d-612fd06c9d37.jpeg?width=600",
-      "sv": {
-        "title": "Hårda tider över – nu är det klippläge i salongerna",
-        "summary": "Efter lågkonjunkturens käftsmäll har salongerna fått upp farten på nytt. Nu omsätter Sveriges frisörer mer än hela den inhemska musikindustrin – och saxen går säker för AI-hotet. ”Vi spår en ljus framtid, det känns överallt att det bubblar”, säger Frisörföretagarnas vice vd Wiveka Gillow Forsman.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hard times are over – it's time to cut in the salons",
-        "summary": "After the recession's knockout blow, salons have picked up speed again. Sweden's hairdressers now turn over more than the entire domestic music industry – and the scissors are safe from the AI threat. \"We predict a bright future, it feels like there's bubbling everywhere,\" says Wiveka Gillow Forsman, deputy CEO of Frisörföretagarna."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T22:31:07+01:00"
-      }
-    },
-    {
-      "id": "b4aca8a3daa7",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/varlden/forskare-testar-elektrisk-kam-mot-haravfall.feb2d970-f0d5-51b6-b4cb-eb7701ed62dd",
-      "guid": "feb2d970-f0d5-51b6-b4cb-eb7701ed62dd",
-      "published_at": "2026-11-18T22:15:11+01:00",
-      "fetched_at": "2026-11-18T22:45:43+01:00",
-      "category": "science_tech",
-      "feed_categories": [
-        "Världen",
-        "Tagg: Håravfall",
-        "Tagg: Nature",
-        "Tagg: Möss",
-        "Tagg: Tester"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/34921000-f133-3110-8424-b42c29c55a6e",
-      "sv": {
-        "title": "Så fungerar kammen som testas mot håravfall",
-        "summary": "Ny metod gav nästan full återväxt i försök – men det finns en hake.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "How the comb being tested against hair loss works",
-        "summary": "New method produced near-full regrowth in trials – but there is a catch."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T22:45:46+01:00"
-      }
-    },
-    {
-      "id": "690019938f8c",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/branden-pa-limhamn-har-spridits-boende-har-lamnat-lagenheterna",
-      "guid": "0d0345a4-b84c-4164-b6ec-d7c074e841e1",
-      "published_at": "2026-11-18T22:14:16+01:00",
-      "fetched_at": "2026-11-18T22:15:44+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/4773cc03-dfcc-48be-a281-072ba21752c7.jpeg?width=600",
-      "sv": {
-        "title": "Branden på Limhamn har spridits – boende har lämnat lägenheterna",
-        "summary": "Räddningstjänsten har larmats till centrala Limhamn efter att det börjat brinna i en lägenhet. Branden i lägenheten släcktes, men senare kunde räddningstjänsten konstatera att den trots allt spridits genom konstruktionen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The fire in Limhamn has spread – residents have left their apartments",
-        "summary": "The rescue service was alerted to central Limhamn after a fire broke out in an apartment. The fire in the apartment was extinguished, but later the rescue service could establish that it had nevertheless spread through the structure."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T22:15:48+01:00"
-      }
-    },
-    {
-      "id": "977b4d23c71b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/dJdgMo/ik-uppsala-lagger-ner-sin-verksamhet-efter-sasongen-2026",
-      "guid": "https://www.svd.se/a/dJdgMo/ik-uppsala-lagger-ner-sin-verksamhet-efter-sasongen-2026?utm_medium=rss",
-      "published_at": "2026-11-18T22:12:55+01:00",
-      "fetched_at": "2026-11-18T22:15:42+01:00",
-      "category": "sports",
-      "image_url": "https://akamai.vgc.no/v2/images/f2169c8f-223a-3d79-b514-890b0c0c5882?format=auto&s=1a5b21eb21de578be4772274594cc3be1596af33&w=1000",
-      "sv": {
-        "title": "”Ett år präglat av oerhört svåra beslut”",
-        "summary": "Tårarna rinner när slutsignalen ljuder på Studenternas. För IK Uppsala är inte bara säsongen…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"A year marked by extremely difficult decisions\"",
-        "summary": "Tears flow when the final whistle sounds at Studenternas. For IK Uppsala it is not only the season that…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T22:15:48+01:00"
-      }
-    },
-    {
-      "id": "179ef557545a",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/atalet-kvinna-och-man-valdtog-man-med-kotthammare",
-      "guid": "https://www.expressen.se/nyheter/sverige/atalet-kvinna-och-man-valdtog-man-med-kotthammare/",
-      "published_at": "2026-11-18T22:11:28+01:00",
-      "fetched_at": "2026-11-18T22:15:42+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Åtalet: Kvinna och man våldtog man med kötthammare",
-        "summary": "En kvinna och en man åtalas för att ha misshandlat och våldtagit en man med en kötthammare. Motivet ska ha varit att de anklagade offret för att ha antastat kvinnan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Charges: Woman and man raped man with meat tenderiser",
-        "summary": "A woman and a man are charged with assaulting and raping a man with a meat tenderiser. The motive is said to have been that they accused the victim of having molested the woman."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T22:15:48+01:00"
-      }
-    },
-    {
-      "id": "f54f88eba9b1",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/blandat-pa-wall-street-nvidia-foll",
-      "guid": "686ee6f1-a311-4c09-9c47-9da69d4341e2",
-      "published_at": "2026-11-18T22:05:48+01:00",
-      "fetched_at": "2026-11-18T22:15:43+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/c61bc800-3d3e-4e37-94da-e15d27b93229.jpeg?width=600",
-      "sv": {
-        "title": "Blandat på Wall Street – Nvidia föll",
-        "summary": "USA-börserna bjöd på en blandad utveckling under onsdagen. Chipjätten Nvidia föll trots en stark rapport medan cybersäkerhetsbolag steg på bred front.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mixed on Wall Street – Nvidia fell",
-        "summary": "US stock markets showed a mixed performance on Wednesday. Chip giant Nvidia fell despite a strong report, while cybersecurity companies rose across the board."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T22:15:48+01:00"
-      }
-    },
-    {
-      "id": "2b2864fcdc18",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/bk-hacken-ff/bk-hacken-ff-vagrar-ge-upp-slutspelsdrommen-kommer-aldrig-saga-att-det-ar-helt-slut.499ed243-9057-5c02-862c-f75a610ae391",
-      "guid": "499ed243-9057-5c02-862c-f75a610ae391",
-      "published_at": "2026-11-18T22:01:55+01:00",
-      "fetched_at": "2026-11-18T22:15:43+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "BK Häcken FF",
-        "Tagg: BK Häcken",
-        "Tagg: BK Häcken FF"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/8ed166cc-bfcd-3dfa-b22a-3cbb6d22a9a8",
-      "sv": {
-        "title": "Elena Sadiku vägrar ge upp slutspelsdrömmen: ”Kommer aldrig säga att det är slut”",
-        "summary": "Hoppet lever – trots smällen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Elena Sadiku refuses to give up on play-off dream: \"Will never say it's over\"",
-        "summary": "Hope lives on – despite the blow."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T22:15:48+01:00"
-      }
-    },
-    {
-      "id": "680517b8c913",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/3BJxOM/knausgard-vagrar-knyta-ihop-sacken",
-      "guid": "https://www.svd.se/a/3BJxOM/knausgard-vagrar-knyta-ihop-sacken?utm_medium=rss",
-      "published_at": "2026-11-18T22:00:00+01:00",
-      "fetched_at": "2026-11-18T22:01:14+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/fc729c10-b3ff-381c-b999-1da79afefb44?format=auto&s=c0fee2697ec1c8e601e5619e96bf25de8b99b336&w=1000",
-      "sv": {
-        "title": "Knausgård vägrar knyta ihop säcken",
-        "summary": "Böckerna om Morgonstjärnan var nog aldrig tänkta att bli en helhet, konstaterar John Sjögren efter…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Knausgård refuses to tie up the loose ends",
-        "summary": "The Morningstar books were probably never meant to form a whole, John Sjögren notes after…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T22:01:19+01:00"
-      }
-    },
-    {
-      "id": "d58f93bd7787",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/svedbergs-vd-har-salt-aktier-for-1-7-miljoner",
-      "guid": "a6cc5812-8997-4d93-b394-587a3514baaa",
-      "published_at": "2026-11-18T21:55:21+01:00",
-      "fetched_at": "2026-11-18T22:01:16+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/a58b8f86-5ef9-4859-94b1-bde5513df7cd.jpeg?width=600",
-      "sv": {
-        "title": "Svedbergs vd har sålt aktier för 1,7 miljoner",
-        "summary": "Svedbergs vd Per-Arne Andersson har på måndagen sålt 28.138 aktier i badrumsföretaget för närmare 1,7 miljoner kronor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Svedberg's CEO sells shares worth SEK 1.7 million",
-        "summary": "Svedberg's CEO Per-Arne Andersson sold 28,138 shares in the bathroom company on Monday for close to SEK 1.7 million."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T22:01:19+01:00"
-      }
-    },
-    {
-      "id": "8b8f82dc5038",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/0vnb8J/ny-dom-mot-istanbuls-borgmastare",
-      "guid": "https://www.aftonbladet.se/nyheter/a/0vnb8J/ny-dom-mot-istanbuls-borgmastare?utm_medium=rss",
-      "published_at": "2026-11-18T21:48:17+01:00",
-      "fetched_at": "2026-11-18T22:01:14+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/a70a8754-a4cd-3eed-b349-58d22d3e6c9d?format=auto&s=f98fcb82b5b8bd6320c9da1bbbde9e5dede23c23&w=1000",
-      "sv": {
-        "title": "Ny dom mot Istanbuls borgmästare",
-        "summary": "Istanbuls fängslade borgmästare Ekrem Imamoglu har dömts till ännu ett fängelsestraff, nu för att ha…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New conviction against Istanbul's mayor",
-        "summary": "Istanbul's jailed mayor Ekrem Imamoglu has been sentenced to yet another prison term, this time for having…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T22:01:19+01:00"
-      }
-    },
-    {
-      "id": "acc11a612754",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/polen-chefsdomare-forlorar-immunitet",
-      "guid": "3cd70245-9fe4-41e5-a28b-db26970dccf5",
-      "published_at": "2026-11-18T21:42:00+01:00",
-      "fetched_at": "2026-11-18T21:45:49+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/a39cbf94-e8c4-4a3d-ab3c-ab6598968de7.jpg?width=600",
-      "sv": {
-        "title": "Polen: Chefsdomare förlorar immunitet",
-        "summary": "Den domare som varit i fokus under krisen för Polens författningsdomstol har förlorat sin immunitet och riskerar åtal.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Poland: Chief judge loses immunity",
-        "summary": "The judge who has been at the centre of the crisis at Poland's Constitutional Tribunal has lost his immunity and risks charges."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T21:45:53+01:00"
-      }
-    },
-    {
-      "id": "143719c7068a",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/blixthalka-pa-flera-platser-polisens-uppmaning-",
-      "guid": "https://www.expressen.se/nyheter/sverige/blixthalka-pa-flera-platser-polisens-uppmaning-/",
-      "published_at": "2026-11-18T21:41:41+01:00",
-      "fetched_at": "2026-11-18T21:45:47+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "Blixthalka på flera platser – polisens uppmaning",
-        "summary": "Det är halt på vägarna i Västmanland och Uppland. Under dagen har flera olyckor inträffat – och nu uppmanar polisen trafikanter att vara försiktiga.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Black ice in several places – police urge caution",
-        "summary": "Roads are icy in Västmanland and Uppland. Several accidents have occurred during the day, and police now urge road users to be careful."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T21:45:53+01:00"
-      }
-    },
-    {
-      "id": "35a92d04b23b",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/krim/a/R1x32W/ghaith-18-mordades-pa-buss-i-tyreso-systern-berattar-om-sorgen",
-      "guid": "https://www.aftonbladet.se/nyheter/krim/a/R1x32W/ghaith-18-mordades-pa-buss-i-tyreso-systern-berattar-om-sorgen?utm_medium=rss",
-      "published_at": "2026-11-18T21:40:40+01:00",
-      "fetched_at": "2026-11-18T21:45:46+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/cec85828-62b5-38aa-aa69-81af02cf48ad?format=auto&s=9019042462d0ab112286fe7658003aeb65d33af6&w=1000",
-      "sv": {
-        "title": "Ghaith, 18, mördades på bussen: ”Tänker på honom varje sekund”",
-        "summary": "Familjens sorg ✓ ”Tittade på varandra”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ghaith, 18, was murdered on the bus: \"I think of him every second\"",
-        "summary": "The family's grief ✓ \"They looked at each other\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T21:45:53+01:00"
       }
     }
   ]
