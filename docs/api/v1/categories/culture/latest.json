@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T08:31:03+01:00",
+  "generated_at": "2026-11-19T08:45:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "522e46957f81",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/7P04vw/peer-gynt-blir-film-svensk-i-huvudrollen",
+      "guid": "https://www.svd.se/a/7P04vw/peer-gynt-blir-film-svensk-i-huvudrollen?utm_medium=rss",
+      "published_at": "2026-11-19T08:38:08+01:00",
+      "fetched_at": "2026-11-19T08:45:49+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/c84191b6-c1aa-35e1-ba5e-c84b3998696c?format=auto&s=a22a3f3bab5f47166ca2205c1b090a88f6eb2e9d&w=1000",
+      "sv": {
+        "title": "”Peer Gynt” blir film – svensk i huvudrollen",
+        "summary": "Det norska nationaldramat ”Peer Gynt” blir nordisk storfilm med den svenske skådespelaren Christian…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Peer Gynt\" becomes a film – Swedish actor in the lead role",
+        "summary": "The Norwegian national drama \"Peer Gynt\" is becoming a Nordic major film with Swedish actor Christian…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:45:59+01:00"
+      }
+    },
     {
       "id": "93a472fa574e",
       "schema_version": 1,
@@ -5602,35 +5629,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T12:15:47+01:00"
-      }
-    },
-    {
-      "id": "1a7d963315c8",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2G88LAAvbDQZdD2KR6Vu13/de-riskerar-att-bli-sveriges-tredje-dummaste",
-      "guid": "2G88LAAvbDQZdD2KR6Vu13",
-      "published_at": "2026-11-16T11:38:28+01:00",
-      "fetched_at": "2026-11-16T11:45:41+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "De riskerar att bli Sveriges tredje dummaste",
-        "summary": "Under måndagen avslöjades de två första deltagarna i ”Sveriges dummaste” 2027. Influencern Perla Malmberg och stylisten Jonas Hallberg. – Det är fantastiskt att vara här. Jag var ju så urusel i skolan, så jag känner bara: Ska det här bli min revansch inför det svenska folket?",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "They risk becoming Sweden's third dumbest",
-        "summary": "On Monday the first two participants in \"Sveriges dummaste\" 2027 were revealed: influencer Perla Malmberg and stylist Jonas Hallberg. – It's fantastic to be here. I was so hopeless at school, so I just feel: Is this going to be my revenge on the Swedish people?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T11:45:50+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T08:31:03+01:00",
+  "generated_at": "2026-11-19T08:45:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cdbac209c802",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/BrRv4w/lars-ohly-kongressbeslutet-ar-bullshit",
+      "guid": "https://www.aftonbladet.se/nyheter/a/BrRv4w/lars-ohly-kongressbeslutet-ar-bullshit?utm_medium=rss",
+      "published_at": "2026-11-19T08:30:07+01:00",
+      "fetched_at": "2026-11-19T08:45:51+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/83509a10-9d7e-3ec5-aed6-c55899e5505c?format=auto&s=eaf47d50f5656e6cbaf39978eabd2575e6a8fc67&w=1000",
+      "sv": {
+        "title": "Lars Ohly: Kongressbeslutet är ”bullshit”",
+        "summary": "Ohly sågar ministerkravet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lars Ohly: Congress decision is \"bullshit\"",
+        "summary": "Ohly slams the ministerial requirement"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:45:59+01:00"
+      }
+    },
     {
       "id": "23f4119252b0",
       "schema_version": 1,
@@ -5348,33 +5375,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T11:45:50+01:00"
-      }
-    },
-    {
-      "id": "6e145336669f",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/wdPAL5/rysslands-knep-gratisresor-till-ockuperade-ukraina",
-      "guid": "https://www.aftonbladet.se/nyheter/a/wdPAL5/rysslands-knep-gratisresor-till-ockuperade-ukraina?utm_medium=rss",
-      "published_at": "2026-11-16T10:20:35+01:00",
-      "fetched_at": "2026-11-16T10:30:57+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/f514d881-379a-38cf-aa80-2d3adc29c353?format=auto&s=955a699b0d0b86a620b7be928d2d9971f6bf067d&w=1000",
-      "sv": {
-        "title": "Rysslands knep – gratisresor till ockuperade Ukraina",
-        "summary": "”Nyttiga idioter”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russia's trick – free trips to occupied Ukraine",
-        "summary": "\"Useful idiots\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:31:07+01:00"
       }
     }
   ]
