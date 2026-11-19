@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T04:45:47+01:00",
+  "generated_at": "2026-11-19T04:53:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f0b3613041e4",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/0vnXBE/putin-ryssland-ar-oppet-for-varlden",
+      "guid": "https://www.svd.se/a/0vnXBE/putin-ryssland-ar-oppet-for-varlden?utm_medium=rss",
+      "published_at": "2026-11-19T04:49:51+01:00",
+      "fetched_at": "2026-11-19T04:53:06+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/0b8debd2-7123-34a6-b646-abb968169b92?format=auto&s=750b8a1f1cd89b7c2d2cd9fc9ce853a6b11144a8&w=1000",
+      "sv": {
+        "title": "Putin: Ryssland är öppet för världen",
+        "summary": "Ryssland är och förblir ”öppet för världen” säger landets president Vladimir Putin under Apec-mötet…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin: Russia is and remains \"open to the world\"",
+        "summary": "Russia is and remains \"open to the world\", says the country's president Vladimir Putin at the Apec meeting…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T04:53:13+01:00"
+      }
+    },
     {
       "id": "c52b7913f647",
       "schema_version": 1,
@@ -5204,33 +5231,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T00:30:20+01:00"
-      }
-    },
-    {
-      "id": "adc01660526f",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/ARdrX5/prins-harry-pa-besok-i-ukraina",
-      "guid": "https://www.svd.se/a/ARdrX5/prins-harry-pa-besok-i-ukraina?utm_medium=rss",
-      "published_at": "2026-11-16T00:07:12+01:00",
-      "fetched_at": "2026-11-16T00:15:42+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/332db060-9553-39fa-99da-21d002f5890a?format=auto&s=39677f9db5300557bde05f263d9cb1c1456e77e9&w=1000",
-      "sv": {
-        "title": "Prins Harry på besök i Ukraina",
-        "summary": "Storbritanniens prins Harry befann sig under helgen på ett oannonserat besök i Ukraina.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Prince Harry visits Ukraine",
-        "summary": "Britain's Prince Harry was on an unannounced visit to Ukraine over the weekend."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T00:15:51+01:00"
       }
     }
   ]

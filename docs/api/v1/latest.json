@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-11-19T04:45:47+01:00",
+  "generated_at": "2026-11-19T04:53:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9faa3bb24e3a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/putin-ryssland-ar-oppet-for-varlden",
+      "guid": "f6dc6eab-26d1-4802-8e75-e59f131bae68",
+      "published_at": "2026-11-19T04:50:04+01:00",
+      "fetched_at": "2026-11-19T04:53:09+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/c80a08d2-7302-4889-911e-de09bf625cbc.jpg?width=600",
+      "sv": {
+        "title": "Putin: Ryssland är öppet för världen",
+        "summary": "Ryssland är och förblir ”öppet för världen” säger landets president Vladimir Putin under Apec-mötet i kinesiska Shenzhen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin: Russia is and remains \"open to the world\"",
+        "summary": "Russia is and remains \"open to the world\", says the country's president Vladimir Putin at the Apec meeting in Shenzhen, China."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T04:53:13+01:00"
+      }
+    },
+    {
+      "id": "f0b3613041e4",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/0vnXBE/putin-ryssland-ar-oppet-for-varlden",
+      "guid": "https://www.svd.se/a/0vnXBE/putin-ryssland-ar-oppet-for-varlden?utm_medium=rss",
+      "published_at": "2026-11-19T04:49:51+01:00",
+      "fetched_at": "2026-11-19T04:53:06+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/0b8debd2-7123-34a6-b646-abb968169b92?format=auto&s=750b8a1f1cd89b7c2d2cd9fc9ce853a6b11144a8&w=1000",
+      "sv": {
+        "title": "Putin: Ryssland är öppet för världen",
+        "summary": "Ryssland är och förblir ”öppet för världen” säger landets president Vladimir Putin under Apec-mötet…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin: Russia is and remains \"open to the world\"",
+        "summary": "Russia is and remains \"open to the world\", says the country's president Vladimir Putin at the Apec meeting…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T04:53:13+01:00"
+      }
+    },
+    {
+      "id": "8fc909c7a976",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/z0GQl5/putin-ryssland-ar-oppet-for-varlden",
+      "guid": "https://www.aftonbladet.se/nyheter/a/z0GQl5/putin-ryssland-ar-oppet-for-varlden?utm_medium=rss",
+      "published_at": "2026-11-19T04:49:50+01:00",
+      "fetched_at": "2026-11-19T04:53:06+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/0b8debd2-7123-34a6-b646-abb968169b92?format=auto&s=750b8a1f1cd89b7c2d2cd9fc9ce853a6b11144a8&w=1000",
+      "sv": {
+        "title": "Putin: Ryssland är öppet för världen",
+        "summary": "Ryssland är och förblir ”öppet för världen” säger landets president Vladimir Putin under Apec-mötet…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin: Russia is and remains \"open to the world\"",
+        "summary": "Russia is and remains \"open to the world\", says the country's president Vladimir Putin at the Apec meeting…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T04:53:13+01:00"
+      }
+    },
     {
       "id": "78dee29645a4",
       "schema_version": 1,
@@ -5377,86 +5458,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T17:15:53+01:00"
-      }
-    },
-    {
-      "id": "2b0917c95dba",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/sodertalje/sa-ska-sodertaljeborna-fa-vatten-i-en-kris",
-      "guid": "https://www.svt.se/nyheter/lokalt/sodertalje/sa-ska-sodertaljeborna-fa-vatten-i-en-kris",
-      "published_at": "2026-11-18T16:54:51+01:00",
-      "fetched_at": "2026-11-18T17:01:15+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Så ska Södertäljeborna få vatten i en kris",
-        "summary": "Vad händer när det inte längre kommer vatten ur kranen? Det var utgångspunkten när verksamheter i Södertälje kommun övade på kris. – När den vanliga vattenförsörjningen slås ut måste vi snabbt kunna se till att både invånare och samhällsviktiga verksamheter får vatten, säger Viktorija Pesic på…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "How Södertälje residents will get water in a crisis",
-        "summary": "What happens when water no longer comes out of the tap? That was the starting point when operations in Södertälje municipality practised for a crisis. \"When the normal water supply is knocked out, we must be able to quickly ensure that both residents and essential operations get water,\" says Viktorija Pesic on…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:01:26+01:00"
-      }
-    },
-    {
-      "id": "755e308c43d9",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/pourmokhtari-om-eus-skurkstampel-valdigt-stolt",
-      "guid": "https://www.dn.se/varlden/pourmokhtari-om-eus-skurkstampel-valdigt-stolt/",
-      "published_at": "2026-11-18T16:54:11+01:00",
-      "fetched_at": "2026-11-18T17:01:16+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/60f30ac0-ebbe-4c72-85d6-d59af64d2d66.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Pourmokhtari om EU:s skurkstämpel: ”Väldigt stolt”",
-        "summary": "ANTALYA. Ilskan kokar mot EU på klimatmötet i Turkiet, där unionen vägrar komma med löften om ytterligare finansiering till fattiga länder. Men klimatminister Romina Pourmokhtari (L) försvarar beslutet. – Klimatfinansiering måste mätas i mer än pengarna vi lovar, säger hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Pourmokhtari on the EU's villain label: \"Very proud\"",
-        "summary": "ANTALYA. Anger is boiling against the EU at the climate summit in Turkey, where the union refuses to make promises of further funding for poor countries. But Climate Minister Romina Pourmokhtari (L) defends the decision. \"Climate finance must be measured by more than the money we promise,\" she says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:01:26+01:00"
-      }
-    },
-    {
-      "id": "8543d321a519",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/fallet-i-lundinbolaget-tilltar-rasar-over-10-procent",
-      "guid": "20d9002e-e20b-4f3f-9b0d-1ba95ce8e1ff",
-      "published_at": "2026-11-18T16:49:58+01:00",
-      "fetched_at": "2026-11-18T17:01:18+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/7f7fc893-9492-4ef2-a9a2-b80162df314e.jpeg?width=600",
-      "sv": {
-        "title": "Fallet i Lundinbolaget tilltar – rasar över 10 procent",
-        "summary": "Raset i Lundin Mining tilltar på onsdagseftermiddagen, och vid 16.40-tiden är gruvjättens aktie ned med över 10 procent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lundin company slump deepens – plunges over 10 percent",
-        "summary": "The slump in Lundin Mining deepens on Wednesday afternoon, and at around 16:40 the mining giant's share is down by over 10 percent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:01:26+01:00"
       }
     }
   ]
