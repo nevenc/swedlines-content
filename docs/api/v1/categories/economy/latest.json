@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T11:31:11+01:00",
+  "generated_at": "2026-11-19T11:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "97469b19e0c1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ncab-lyfter-efter-nya-mal-hog-ambition-att-forvarva-bolag",
+      "guid": "45435a96-f975-4217-b089-b264255874d2",
+      "published_at": "2026-11-19T11:41:52+01:00",
+      "fetched_at": "2026-11-19T11:45:42+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "NCAB lyfter efter nya mål: ”Hög ambition att förvärva bolag”",
+        "summary": "Mönsterkorttillverkaren NCAB ser möjlighet att göra effektivitetsförbättringar, att skala på bolagets tillväxt och att dra nytta av de affärssysteminvesteringar som företaget redan har gjort. Det säger NCAB:s vd Peter Kruk till Nyhetsbyrån Direkt inför kapitalmarknadsdagen i eftermiddag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "NCAB rises after new targets: \"High ambition to acquire companies\"",
+        "summary": "Pattern-card manufacturer NCAB sees opportunities for efficiency improvements, to scale the company's growth and to benefit from the business-system investments the company has already made. Says NCAB CEO Peter Kruk to the news agency Direkt ahead of this afternoon's capital markets day."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:45:49+01:00"
+      }
+    },
     {
       "id": "aba3216e8f8b",
       "schema_version": 1,
@@ -27,6 +53,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T11:31:11+01:00"
+      }
+    },
+    {
+      "id": "7d469cd82974",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/yubico-hojer-langsiktiga-mal-gar-in-i-nasta-tillvaxtfas",
+      "guid": "14c2bc63-6f2a-4c0c-9837-73ce7d556062",
+      "published_at": "2026-11-19T11:29:47+01:00",
+      "fetched_at": "2026-11-19T11:45:42+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a285039c-e421-437b-8c4e-655573aba36a.jpeg?width=600",
+      "sv": {
+        "title": "Yubico höjer långsiktiga mål: ”Går in i nästa tillväxtfas”",
+        "summary": "Börsnoterade Yubico vill bredda produktutbudet och presenterar nu nya långsiktiga finansiella mål för åren fram till 2031. Bolaget siktar på att höja tillväxten, öka marginalen och prioritera återinvesteringar framför utdelning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Yubico raises long-term targets: \"Entering the next growth phase\"",
+        "summary": "Listed Yubico wants to broaden its product range and now presents new long-term financial targets for the years up to 2031. The company aims to raise growth, increase margin and prioritise reinvestment over dividends."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:45:49+01:00"
       }
     },
     {
@@ -5236,56 +5289,6 @@
       "en": {
         "title": "Divided view on the popular stock: \"The valuation limits the potential\"",
         "summary": "Analysts are divided on the heat-technology company Nibe following Tuesday's interim report, which made the share fall the most of all companies in the large-cap OMXS30 index. \"The valuation limits the potential\", according to Handelsbanken."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T14:01:21+01:00"
-      }
-    },
-    {
-      "id": "e9c1b7e0b822",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-267-kvm-saldes-for-12-miljoner",
-      "guid": "267435dd-4230-4b1c-8595-87fe7fa852a3",
-      "published_at": "2026-11-18T13:53:46+01:00",
-      "fetched_at": "2026-11-18T14:01:15+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Hus på 267 kvm såldes för 12 miljoner"
-      },
-      "en": {
-        "title": "House of 267 sq m sold for 12 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T14:01:21+01:00"
-      }
-    },
-    {
-      "id": "a38a960d2abd",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/ahlens-varslar-80-anstallda",
-      "guid": "7c98f67c-f19f-4595-98d4-98fd1b6489a7",
-      "published_at": "2026-11-18T13:50:57+01:00",
-      "fetched_at": "2026-11-18T14:01:15+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/a4fe1221-908f-4b69-9e88-b94f37232e65.jpg?width=600",
-      "sv": {
-        "title": "Åhléns varslar 80 anställda",
-        "summary": "Varuhuskedjan Åhléns varslar 80 tjänstemän på huvudkontoret och på sitt distributionslager, rapporterar Dagens industri.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Åhléns to make 80 employees redundant",
-        "summary": "The department store chain Åhléns is making 80 white-collar workers at its head office and distribution warehouse redundant, reports Dagens industri."
       },
       "translation": {
         "status": "done",

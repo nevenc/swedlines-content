@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-19T11:31:11+01:00",
+  "generated_at": "2026-11-19T11:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4f90863ddd52",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/man-doms-till-vard-efter-overfallsvaldtakt-pa-ribban",
+      "guid": "170d3b65-ef2f-478c-a436-036a75a8b0b4",
+      "published_at": "2026-11-19T11:44:43+01:00",
+      "fetched_at": "2026-11-19T11:45:43+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/1a5c7e16-08da-46ee-a0c8-aaefdfd6c9b0.jpeg?width=600",
+      "sv": {
+        "title": "Man döms till vård efter överfallsvåldtäkt på Ribban",
+        "summary": "En 37-årig man attackerade den joggande kvinnan bakifrån och drog in henne i en buske där han våldtog henne. Nu döms han till rättspsykiatrisk vård efter överfallsvåldtäkten på Ribban i somras.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man sentenced to care after assault rape at Ribban",
+        "summary": "A 37-year-old man attacked the jogging woman from behind, dragged her into a bush and raped her. He is now sentenced to forensic psychiatric care for the assault rape at Ribban last summer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:45:49+01:00"
+      }
+    },
+    {
+      "id": "a7c9489e1287",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/sa-bevapnade-en-bosnisk-polisanstalld-foxtrot",
+      "guid": "https://www.dn.se/sverige/sa-bevapnade-en-bosnisk-polisanstalld-foxtrot/",
+      "published_at": "2026-11-19T11:36:36+01:00",
+      "fetched_at": "2026-11-19T11:45:41+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/f5f9b7c1-274a-4eec-92c4-44de987e42a1.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Så beväpnade en bosnisk polisanställd Foxtrot",
+        "summary": "I en stökig Malmölägenhet insåg polisen att de var Foxtrots vapenleverantör på spåren. Tillslaget ledde hela vägen till smugglingsruttens urkälla: en bosnisk polisanställd.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is how a Bosnian police employee armed Foxtrot",
+        "summary": "In a chaotic Malmö apartment, police realised they were on the trail of Foxtrot's weapons supplier. The raid led all the way to the source of the smuggling route: a Bosnian police employee."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:45:49+01:00"
+      }
+    },
     {
       "id": "c179da671807",
       "schema_version": 1,
@@ -5293,58 +5347,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T08:45:53+01:00"
-      }
-    },
-    {
-      "id": "01d9097ce272",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=b9b7f963-87c9-4ed9-900b-3de21cc9f1a4",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=b9b7f963-87c9-4ed9-900b-3de21cc9f1a4",
-      "published_at": "2026-11-15T23:31:16+01:00",
-      "fetched_at": "2026-11-15T23:45:44+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Knarkkungen ”Gudfadern” är död",
-        "summary": "Grundade mäktig mexikansk knarkkartell",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Drug kingpin \"El Padrino\" is dead",
-        "summary": "Founded powerful Mexican drug cartel"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T23:45:49+01:00"
-      }
-    },
-    {
-      "id": "46b1f1476ea7",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=6ddc20ec-f553-4c8f-848e-aac7b3c658fa",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6ddc20ec-f553-4c8f-848e-aac7b3c658fa",
-      "published_at": "2026-11-15T23:30:04+01:00",
-      "fetched_at": "2026-11-15T23:45:44+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Misstänkt grovt brott utanför Enköping",
-        "summary": "Insats utanför Enköping",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Suspected serious crime outside Enköping",
-        "summary": "Police operation outside Enköping"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T23:45:49+01:00"
       }
     }
   ]
