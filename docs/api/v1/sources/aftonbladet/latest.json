@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T18:15:55+01:00",
+  "generated_at": "2026-11-19T18:31:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "096f5381b6dc",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/9BvnRq/trions-mote-kan-skapa-oro-i-europa-stormaktspolitik",
+      "guid": "https://www.aftonbladet.se/nyheter/a/9BvnRq/trions-mote-kan-skapa-oro-i-europa-stormaktspolitik?utm_medium=rss",
+      "published_at": "2026-11-19T18:23:22+01:00",
+      "fetched_at": "2026-11-19T18:31:01+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/dd5dcea4-4496-380d-a4b0-0944eea070f4?format=auto&s=8687cd4e7fa5593e368f063602126ac2b1f09a1c&w=1000",
+      "sv": {
+        "title": "Trions möte kan skapa oro i Europa: ”Stormaktspolitik”",
+        "summary": "Ett Europa som kämpar för att hävda sin röst på den internationella arenan ser sannolikt med oro…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trio meeting may cause concern in Europe: \"Great power politics\"",
+        "summary": "A Europe struggling to assert its voice on the international stage likely views this with concern…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T18:31:15+01:00"
+      }
+    },
     {
       "id": "0f86fd247d90",
       "schema_version": 1,
@@ -5344,33 +5371,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T21:15:56+01:00"
-      }
-    },
-    {
-      "id": "9eda1e0c510d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/g3736B/minutdramat-bakom-centerpartiets-vagval-vi-pausade-och-avbrot",
-      "guid": "https://www.aftonbladet.se/nyheter/a/g3736B/minutdramat-bakom-centerpartiets-vagval-vi-pausade-och-avbrot?utm_medium=rss",
-      "published_at": "2026-11-16T20:09:14+01:00",
-      "fetched_at": "2026-11-16T20:15:43+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/b4281431-78d9-37df-9ef0-ee782fe6a787?format=auto&s=650c4d474a173cf6697a19787801ec7f69a04289&w=1000",
-      "sv": {
-        "title": "Minutdramat bakom Centerpartiets vägval: ”Vi pausade och avbröt",
-        "summary": "Kritisk text drogs tillbaka ✓ ”Påverkat partiet”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The minute-long drama behind the Centre Party's choice: “We paused and cancelled",
-        "summary": "Critical text withdrawn ✓ “Affected the party”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T20:15:51+01:00"
       }
     }
   ]

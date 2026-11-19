@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T18:15:55+01:00",
+  "generated_at": "2026-11-19T18:31:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "27d6aa3ca503",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/en-person-dod-efter-brand-i-gnosjo",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/en-person-dod-efter-brand-i-gnosjo",
+      "published_at": "2026-11-19T18:21:32+01:00",
+      "fetched_at": "2026-11-19T18:30:59+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "En person död efter brand i Gnosjö",
+        "summary": "En person fördes till sjukhus efter en brand i ett bostadshus i Hillerstorp under torsdagseftermiddagen. Men personens liv gick inte att rädda.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "One person dead after fire in Gnosjö",
+        "summary": "One person was taken to hospital after a fire in a residential building in Hillerstorp on Thursday afternoon. But the person's life could not be saved."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T18:31:15+01:00"
+      }
+    },
     {
       "id": "e53169059e8c",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:01:02+01:00"
-      }
-    },
-    {
-      "id": "0088a82dca33",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/totalt-flygstopp-i-usa",
-      "guid": "https://www.svt.se/nyheter/utrikes/totalt-flygstopp-i-usa",
-      "published_at": "2026-11-13T22:02:46+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Totalt flygstopp i USA",
-        "summary": "Amerikanska myndigheter stoppade all flygtrafik i USA på grund av ”extraordinära omständigheter” och ”säkerhetsskäl” under fredagskvällen. Ett överbelastat system ligger bakom händelsen, och över 10 000 flyg har påverkats. Störningarna och förseningarna drabbar flygtrafiken även på lördagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Total ground stop in the US",
-        "summary": "US authorities halted all air traffic in the US because of 'extraordinary circumstances' and 'safety reasons' on Friday evening. An overloaded system is behind the event, and more than 10,000 flights have been affected. The disruptions and delays are hitting air traffic on Saturday as well."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     }
   ]

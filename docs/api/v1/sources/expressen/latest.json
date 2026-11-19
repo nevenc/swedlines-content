@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-19T18:15:55+01:00",
+  "generated_at": "2026-11-19T18:31:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dbf80d39ba15",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/krim/misstankt-mord-pa-kommunalt-bolag-kvinna-hittad-dod",
+      "guid": "https://www.expressen.se/nyheter/krim/misstankt-mord-pa-kommunalt-bolag-kvinna-hittad-dod/",
+      "published_at": "2026-11-19T18:20:54+01:00",
+      "fetched_at": "2026-11-19T18:31:01+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Misstänkt mord på kommunalt bolag – kvinna hittad död",
+        "summary": "En man misstänks för att ha mördat en kvinna i en av Enköpings kommuns lokaler under onsdagskvällen. – De har haft en nära relation, säger åklagaren Johan Strömbeck.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspected murder at municipal company – woman found dead",
+        "summary": "A man is suspected of having murdered a woman in one of Enköping municipality's premises on Wednesday evening. – They had a close relationship, says prosecutor Johan Strömbeck."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T18:31:15+01:00"
+      }
+    },
+    {
+      "id": "e954705191f0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/vader/blixthalka-i-ostergotland-polisen-hall-avstand-for-tusan",
+      "guid": "https://www.expressen.se/nyheter/vader/blixthalka-i-ostergotland-polisen-hall-avstand-for-tusan/",
+      "published_at": "2026-11-19T18:16:40+01:00",
+      "fetched_at": "2026-11-19T18:31:01+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "Blixthalka i Östergötland – polisen: ”Håll avstånd för tusan”",
+        "summary": "Snön har slagit hårt mot Östergötland med flera olyckor som följd. En brandbil har hamnat i diket, E4 har stängts av och väglaget är jättehalt. – Håll avstånd för tusan, uppmanar polisens presstalesperson Johnny Gustavsson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Black ice in Östergötland – police: \"Keep your distance, for heaven's sake\"",
+        "summary": "Snow has hit Östergötland hard, with several accidents as a result. A fire truck has ended up in a ditch, the E4 has been closed and road conditions are extremely slippery. – Keep your distance, for heaven's sake, urges police spokesperson Johnny Gustavsson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T18:31:15+01:00"
+      }
+    },
     {
       "id": "9ec3254698b2",
       "schema_version": 1,
@@ -5139,58 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T10:01:35+01:00"
-      }
-    },
-    {
-      "id": "3e267a7dfc65",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=5be8d0c1-faab-40a1-8038-66e5d0f3a2a0",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=5be8d0c1-faab-40a1-8038-66e5d0f3a2a0",
-      "published_at": "2026-11-16T09:34:53+01:00",
-      "fetched_at": "2026-11-16T09:45:42+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Jättekravet på LKAB",
-        "summary": "Åklagaren: Ska böta ”minst 180 miljoner”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Huge demand on LKAB",
-        "summary": "Prosecutor: Should be fined \"at least SEK 180 million\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:45:49+01:00"
-      }
-    },
-    {
-      "id": "77cf3d9cd3a6",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/ukrainska-dubbelattacken-i-natt-over-1300-dronare",
-      "guid": "https://www.expressen.se/nyheter/varlden/ukrainska-dubbelattacken-i-natt-over-1300-dronare/",
-      "published_at": "2026-11-16T09:31:03+01:00",
-      "fetched_at": "2026-11-16T09:45:42+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ukrainska dubbelattacken i natt – över 1300 drönare",
-        "summary": "Ukrainsk militär genomförde ett storanfall mot ryska mål under natten mot måndag. Totalt ska över 1 300 drönare ha använts mot både Rostov-regionen vid Svarta havet, och mot Moskva.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ukrainian double attack overnight – over 1,300 drones",
-        "summary": "Ukrainian military carried out a major attack on Russian targets during the night to Monday. A total of over 1,300 drones are reported to have been used against both the Rostov region by the Black Sea and Moscow."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:45:49+01:00"
       }
     }
   ]

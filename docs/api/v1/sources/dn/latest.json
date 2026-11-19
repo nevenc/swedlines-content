@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T18:15:55+01:00",
+  "generated_at": "2026-11-19T18:31:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "00297741d1ef",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/kritiksnack-jag-kommer-absolut-inte-att-kopa-gta-6",
+      "guid": "https://www.dn.se/kultur/kritiksnack-jag-kommer-absolut-inte-att-kopa-gta-6/",
+      "published_at": "2026-11-19T18:18:13+01:00",
+      "fetched_at": "2026-11-19T18:31:00+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/7585e96d-ba44-49a6-a2a4-fe87790f3684.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Kritiksnack: ”Jag kommer absolut inte att köpa 'GTA 6'”",
+        "summary": "Årtiondets mest emotsedda spel är här. Lever ”GTA 6” upp till förväntningarna? Och vad händer när en kvinnlig huvudperson tar plats i den manliga fantasivärlden? DN:s Kristofer Ahlström, Matilda Källén och Jonas Thente testkör det nya spelet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Critic's take: \"I am absolutely not going to buy 'GTA 6'\"",
+        "summary": "The most anticipated game of the decade is here. Does \"GTA 6\" live up to expectations? And what happens when a female lead takes her place in the male fantasy world? DN's Kristofer Ahlström, Matilda Källén and Jonas Thente test-play the new game."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T18:31:15+01:00"
+      }
+    },
     {
       "id": "f98a4a7e7b04",
       "schema_version": 1,
@@ -5362,32 +5389,6 @@
       "en": {
         "title": "Centre Party members: This is why the Left Party is impossible to have in a government",
         "summary": "Centre Party leader Elisabeth Thand Ringqvist promises that the Left Party will not get any ministerial posts. DN asked 38 Centre Party representatives why. It quickly becomes clear that the subject is sensitive. \"They have a different view of society,\" answers Peter Heie, one of the few Centre politicians willing to speak."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T21:15:56+01:00"
-      }
-    },
-    {
-      "id": "28217ed7eebc",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/16-november-missa-inte-dagens-nyheter",
-      "guid": "https://www.dn.se/varlden/16-november-missa-inte-dagens-nyheter/",
-      "published_at": "2026-11-16T21:07:00+01:00",
-      "fetched_at": "2026-11-16T21:15:43+01:00",
-      "category": "other",
-      "sv": {
-        "title": "16 november: Missa inte dagens nyheter",
-        "summary": "Ryskt bolag spårar svenskar, regeringsfrågan långt ifrån löst och ny James Bond – här är nyheterna du inte får missa från dagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "16 November: Don't miss today's news",
-        "summary": "Russian company tracks Swedes, government formation far from resolved and new James Bond – here is the news you must not miss from today."
       },
       "translation": {
         "status": "done",
