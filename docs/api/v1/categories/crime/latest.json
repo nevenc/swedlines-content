@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T05:45:51+01:00",
+  "generated_at": "2026-11-19T06:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "eeefd695ef2e",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345684",
+      "guid": "rss:sr.se/article/9345684",
+      "published_at": "2026-11-19T05:55:00+01:00",
+      "fetched_at": "2026-11-19T06:01:12+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Rättegång om planerat IS-inspirerat dåd på skola inleds",
+        "summary": "I dag inleds rättegången mot en 19-årig man som åtalas för att ha förberett ett knivdåd på en gymnasieskola i Halmstad. Enligt åklagare Henrik Olin var attentatet riktat mot personer på skolan och HBTQ-personer. Han åtalas bland annat för förberedelse till terroristbrott, vilket han förnekar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Trial over planned IS-inspired attack on school begins",
+        "summary": "Today the trial begins against a 19-year-old man charged with preparing a knife attack at an upper secondary school in Halmstad. According to prosecutor Henrik Olin, the attack was aimed at people at the school and LGBTQ people. He is charged among other things with preparation of terrorist offences, which he denies."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T06:01:24+01:00"
+      }
+    },
     {
       "id": "4d4ec8cb56a5",
       "schema_version": 1,
@@ -5329,32 +5355,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T03:31:50+01:00"
-      }
-    },
-    {
-      "id": "d7b0cd8b5fbd",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/satte-eld-pa-brenda--80-vid-hennes-hem",
-      "guid": "https://www.expressen.se/nyheter/varlden/satte-eld-pa-brenda--80-vid-hennes-hem/",
-      "published_at": "2026-11-14T23:13:31+01:00",
-      "fetched_at": "2026-11-14T23:33:36+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Satte eld på Brenda, 80, vid hennes hem",
-        "summary": "Brenda Raymond var på väg hem. Då satte någon eld på den 80-åriga kvinnan. Hon drabbades av ”katastrofala skador”, skriver Metro.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Set fire to Brenda, 80, outside her home",
-        "summary": "Brenda Raymond was on her way home. Then someone set fire to the 80-year-old woman. She suffered \"catastrophic injuries\", writes Metro."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T23:33:46+01:00"
       }
     }
   ]

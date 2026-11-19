@@ -1,7 +1,58 @@
 {
-  "generated_at": "2026-11-19T05:45:51+01:00",
+  "generated_at": "2026-11-19T06:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2c1dac92c11c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/van-gogh-tavla-klubbad-for-miljardbelopp",
+      "guid": "c27214a1-1a20-48b5-841e-d177d8b844a2",
+      "published_at": "2026-11-19T05:58:19+01:00",
+      "fetched_at": "2026-11-19T06:01:16+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/4cc1a543-f85e-429c-a943-2367a985ef47.jpg?width=600",
+      "sv": {
+        "title": "Van Gogh-tavla klubbad för miljardbelopp",
+        "summary": "En målning av konstnären Vincent van Gogh har sålts på auktion vid Sotheby’s i New York för 190,4 miljoner dollar – över 1,9 miljarder kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Van Gogh painting hammered down for billions",
+        "summary": "A painting by the artist Vincent van Gogh has been sold at auction at Sotheby's in New York for USD 190.4 million - over SEK 1.9 billion."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T06:01:24+01:00"
+      }
+    },
+    {
+      "id": "a965510bba93",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/slapp-sargen-och-kom-in-i-matchen-grona-blocket",
+      "guid": "91caca97-21e1-45b0-8107-5963f549d05d",
+      "published_at": "2026-11-19T05:57:00+01:00",
+      "fetched_at": "2026-11-19T06:01:16+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/32ab916f-72d8-4209-b02e-2d7832f7923d.jpeg?width=600",
+      "sv": {
+        "title": "Släpp sargen och kom in i matchen, gröna blocket"
+      },
+      "en": {
+        "title": "Drop the boards and get into the game, green bloc"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T06:01:24+01:00"
+      }
+    },
     {
       "id": "680148802a6b",
       "schema_version": 1,
@@ -5064,60 +5115,6 @@
       "en": {
         "title": "Skåne's best overnight stay may be in Röstånga",
         "summary": "Nackarpsdalen gästgiveri in Röstånga has had an intense year since its relaunch and has now been nominated for Skåne's best overnight stay. – It has been beyond expectations, says owner Mats Lavré."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:31:06+01:00"
-      }
-    },
-    {
-      "id": "b8ca9dc0b0f6",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/900-000-klimatoffer-senaste-30-aren",
-      "guid": "51d9564b-d051-4615-8faf-bf400a73dce4",
-      "published_at": "2026-11-17T06:24:53+01:00",
-      "fetched_at": "2026-11-17T06:30:59+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/c01bc199-5537-4225-b2b2-fae44db8c3e9.jpg?width=600",
-      "sv": {
-        "title": "900 000 klimatoffer senaste 30 åren",
-        "summary": "Värmeböljor, skyfall och jordskred orsakade skador för hundratals miljarder dollar och kostade tiotusentals liv bara under förra året. Spanien, Jamaica och Sri Lanka var bland de värst drabbade, enligt en rapport.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "900,000 climate victims in the last 30 years",
-        "summary": "Heatwaves, cloudbursts and landslides caused damage worth hundreds of billions of dollars and killed tens of thousands of people in the last year alone. Spain, Jamaica and Sri Lanka were among the worst hit, according to a report."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:31:06+01:00"
-      }
-    },
-    {
-      "id": "de7a588f5ed6",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/vinterns-elprischock-vantas-bli-varre-an-2022",
-      "guid": "157c511a-4610-4ff4-b9b8-49a888921318",
-      "published_at": "2026-11-17T06:22:42+01:00",
-      "fetched_at": "2026-11-17T06:30:59+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b0a18ed0-c795-4156-a92a-85b3c2c208ef.jpg?width=600",
-      "sv": {
-        "title": "Vinterns elprischock väntas bli värre än 2022",
-        "summary": "Det blir ovanligt höga elpriser i vinter – högre än krisvintern 2022–2023, enligt en prognos från elhandlaren Bixia. Hushåll och företag i södra Sverige – där tyska och danska elpriser smittar av sig – ser ut att drabbas värst.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Winter electricity price shock expected to be worse than 2022",
-        "summary": "Unusually high electricity prices are expected this winter – higher than during the crisis winter of 2022–2023, according to a forecast from electricity retailer Bixia. Households and businesses in southern Sweden, where German and Danish electricity prices spill over, look set to be hit hardest."
       },
       "translation": {
         "status": "done",
