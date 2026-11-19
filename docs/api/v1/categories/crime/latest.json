@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-19T10:45:50+01:00",
+  "generated_at": "2026-11-19T11:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6480f4207653",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/ung-man-salde-narkotika-framfor-polisens-ogon",
+      "guid": "29f77e80-a785-45a9-9af6-7dbbc8791d16",
+      "published_at": "2026-11-19T11:00:12+01:00",
+      "fetched_at": "2026-11-19T11:01:21+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/b73631d7-8da2-4378-b36b-b57c37c3b478.png?width=600",
+      "sv": {
+        "title": "Ung man sålde narkotika framför polisens ögon",
+        "summary": "En man togs på bar gärning när han sålde tramadoltabletter på en innergård i centrala Malmö. Men det skulle visa sig att det handlade om mycket mer knark än så.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Young man sold narcotics in front of police",
+        "summary": "A man was caught in the act selling tramadol tablets in a courtyard in central Malmö. But it turned out to involve much more drugs than that."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
+    {
+      "id": "5f824f5a1a58",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/misstankte-mordarens-ord-om-journalisten-en-van",
+      "guid": "https://www.expressen.se/nyheter/sverige/misstankte-mordarens-ord-om-journalisten-en-van/",
+      "published_at": "2026-11-19T10:58:24+01:00",
+      "fetched_at": "2026-11-19T11:01:19+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Misstänkte mördarens ord om journalisten: ”En vän”",
+        "summary": "Mannen jagades för dubbelmord i Sverige – då sköts han i Libanon. Huvudmisstänkt för det dådet är en svensk 39-åring som nu står åtalad, men ytterligare svenskar pekas ut i utredningen. Bland annat en journalist på en tidning i Sverige.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Suspected killer's words about journalist: \"A friend\"",
+        "summary": "The man was hunted for a double murder in Sweden – then he was shot in Lebanon. The main suspect for that attack is a 39-year-old Swede who is now charged, but further Swedes are named in the investigation. Among them a journalist at a Swedish newspaper."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
     {
       "id": "1441ca7605b0",
       "schema_version": 1,
@@ -5300,58 +5353,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T18:45:48+01:00"
-      }
-    },
-    {
-      "id": "b138d4124607",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/mMR061/misstankt-mord-i-goteborg-tva-gripna",
-      "guid": "https://www.svd.se/a/mMR061/misstankt-mord-i-goteborg-tva-gripna?utm_medium=rss",
-      "published_at": "2026-11-15T18:27:06+01:00",
-      "fetched_at": "2026-11-15T18:30:57+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Misstänkt mord i Göteborg – två gripna",
-        "summary": "En man har hittats död i Biskopsgården i Göteborg, rapporterar Göteborgs-Posten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Suspected murder in Göteborg – two arrested",
-        "summary": "A man has been found dead in Biskopsgården in Göteborg, Göteborgs-Posten reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T18:31:05+01:00"
-      }
-    },
-    {
-      "id": "4191f9525c7f",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/nLa1ga/misstankt-mord-i-goteborg-tva-gripna",
-      "guid": "https://www.aftonbladet.se/nyheter/a/nLa1ga/misstankt-mord-i-goteborg-tva-gripna?utm_medium=rss",
-      "published_at": "2026-11-15T18:27:04+01:00",
-      "fetched_at": "2026-11-15T18:30:57+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Misstänkt mord i Göteborg – två gripna",
-        "summary": "En man har hittats död i Biskopsgården i Göteborg, rapporterar Göteborgs-Posten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Suspected murder in Göteborg – two arrested",
-        "summary": "A man has been found dead in Biskopsgården in Göteborg, Göteborgs-Posten reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T18:31:05+01:00"
       }
     }
   ]

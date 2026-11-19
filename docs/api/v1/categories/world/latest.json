@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-19T10:45:50+01:00",
+  "generated_at": "2026-11-19T11:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "43f094160569",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/eu-kommissionen-utsatt-for-cyberattack",
+      "guid": "a4246e9e-075a-41fc-9ac8-2527fa90d738",
+      "published_at": "2026-11-19T11:01:09+01:00",
+      "fetched_at": "2026-11-19T11:01:21+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/196aaba6-6a5e-4e03-a6cb-712dab94041c.jpg?width=600",
+      "sv": {
+        "title": "EU-kommissionen utsatt för cyberattack",
+        "summary": "EU-kommissionen har drabbats av en cyberattack och hackare kan ha kommit över medarbetares personliga uppgifter, skriver Politico.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EU Commission hit by cyberattack",
+        "summary": "The EU Commission has been hit by a cyberattack, and hackers may have obtained employees' personal data, Politico reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
+    {
+      "id": "6c08533cbec1",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Pv9qO5/eu-kommissionen-utsatt-for-cyberattack",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Pv9qO5/eu-kommissionen-utsatt-for-cyberattack?utm_medium=rss",
+      "published_at": "2026-11-19T10:58:59+01:00",
+      "fetched_at": "2026-11-19T11:01:19+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/2a4e60dc-c8d1-3d79-b520-50b9a84a1242?format=auto&s=3a899eaa34b4dff35ae5924d5075baf2c4a701bc&w=1000",
+      "sv": {
+        "title": "EU-kommissionen utsatt för cyberattack",
+        "summary": "EU-kommissionen har drabbats av en cyberattack och hackare kan ha kommit över medarbetares…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EU Commission hit by cyberattack",
+        "summary": "The EU Commission has been hit by a cyberattack, and hackers may have obtained employees' personal…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
     {
       "id": "5fd1c3fde11b",
       "schema_version": 1,
@@ -133,6 +187,38 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T10:31:11+01:00"
+      }
+    },
+    {
+      "id": "4ecbaf43b56c",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/trump-om-putin-han-ar-min-van.30f30517-3859-5e82-8585-c1c28c083fc0",
+      "guid": "30f30517-3859-5e82-8585-c1c28c083fc0",
+      "published_at": "2026-11-19T10:28:49+01:00",
+      "fetched_at": "2026-11-19T11:01:20+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Vladimir Putin",
+        "Tagg: Donald Trump"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/a71697e0-4cc5-3a01-a36a-051e5168d00a",
+      "sv": {
+        "title": "Trump skämtade om Putin: ”Han är min vän”",
+        "summary": "Se Trumps skämt med Putin inför historiska toppmötet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump joked about Putin: \"He is my friend\"",
+        "summary": "Watch Trump's joke about Putin ahead of the historic summit."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
       }
     },
     {
@@ -5239,86 +5325,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T12:45:55+01:00"
-      }
-    },
-    {
-      "id": "b88784d4b0ec",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344023",
-      "guid": "rss:sr.se/article/9344023",
-      "published_at": "2026-11-17T12:06:00+01:00",
-      "fetched_at": "2026-11-17T12:15:44+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Sömmerskor protesterar: Kräver 2 500 kr i månadslön",
-        "summary": "2500 kronor är vad Bangladesh textilarbetare kräver i garanterad månadslön. Den senaste tiden har de genomfört protester och fabriker har fått stänga. Bangladesh är världens näst största producent av kläder och data visar att arbetarna får lägre minimilön än andra stora klädesproducerande länder.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Seamstresses protest: Demand SEK 2,500 monthly wage",
-        "summary": "SEK 2,500 is what Bangladeshi textile workers demand as a guaranteed monthly wage. Recently they have carried out protests and factories have been forced to close. Bangladesh is the world's second-largest producer of clothing, and data shows that workers receive lower minimum wages than other major clothing-producing countries."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:16:04+01:00"
-      }
-    },
-    {
-      "id": "b4c8fc8075b2",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/r8AdGa/fler-an-70-dodades-i-rysk-flygbombning",
-      "guid": "https://www.svd.se/a/r8AdGa/fler-an-70-dodades-i-rysk-flygbombning?utm_medium=rss",
-      "published_at": "2026-11-17T12:04:56+01:00",
-      "fetched_at": "2026-11-17T12:15:45+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/1e20a098-51e4-3bbf-9b35-0b3f130aea48?format=auto&s=1d48cb546cdaebc90831b60ea8fb4e7ff80327b6&w=1000",
-      "sv": {
-        "title": "Fler än 70 dödades i rysk flygbombning",
-        "summary": "Rysslands flygbombning av Komysjuvacha härom veckan var ett av de dödligaste enskilda anfallen…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "More than 70 killed in Russian air strike",
-        "summary": "Russia's aerial bombing of Komysjuvacha the other week was one of the deadliest single attacks…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:16:04+01:00"
-      }
-    },
-    {
-      "id": "97bfcb4b08e1",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/EbWjLP/fler-an-70-dodades-i-rysk-flygbombning",
-      "guid": "https://www.aftonbladet.se/nyheter/a/EbWjLP/fler-an-70-dodades-i-rysk-flygbombning?utm_medium=rss",
-      "published_at": "2026-11-17T12:04:55+01:00",
-      "fetched_at": "2026-11-17T12:15:45+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/1e20a098-51e4-3bbf-9b35-0b3f130aea48?format=auto&s=1d48cb546cdaebc90831b60ea8fb4e7ff80327b6&w=1000",
-      "sv": {
-        "title": "Fler än 70 dödades i rysk flygbombning",
-        "summary": "Rysslands flygbombning av Komysjuvacha härom veckan var ett av de dödligaste enskilda anfallen…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "More than 70 killed in Russian air strike",
-        "summary": "Russia's aerial bombing of Komysjuvacha the other week was one of the deadliest single attacks…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:16:04+01:00"
       }
     }
   ]

@@ -1,7 +1,299 @@
 {
-  "generated_at": "2026-11-19T10:45:50+01:00",
-  "count": 238,
+  "generated_at": "2026-11-19T11:01:28+01:00",
+  "count": 253,
   "items": [
+    {
+      "id": "43f094160569",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/eu-kommissionen-utsatt-for-cyberattack",
+      "guid": "a4246e9e-075a-41fc-9ac8-2527fa90d738",
+      "published_at": "2026-11-19T11:01:09+01:00",
+      "fetched_at": "2026-11-19T11:01:21+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/196aaba6-6a5e-4e03-a6cb-712dab94041c.jpg?width=600",
+      "sv": {
+        "title": "EU-kommissionen utsatt för cyberattack",
+        "summary": "EU-kommissionen har drabbats av en cyberattack och hackare kan ha kommit över medarbetares personliga uppgifter, skriver Politico.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EU Commission hit by cyberattack",
+        "summary": "The EU Commission has been hit by a cyberattack, and hackers may have obtained employees' personal data, Politico reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
+    {
+      "id": "6480f4207653",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/ung-man-salde-narkotika-framfor-polisens-ogon",
+      "guid": "29f77e80-a785-45a9-9af6-7dbbc8791d16",
+      "published_at": "2026-11-19T11:00:12+01:00",
+      "fetched_at": "2026-11-19T11:01:21+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/b73631d7-8da2-4378-b36b-b57c37c3b478.png?width=600",
+      "sv": {
+        "title": "Ung man sålde narkotika framför polisens ögon",
+        "summary": "En man togs på bar gärning när han sålde tramadoltabletter på en innergård i centrala Malmö. Men det skulle visa sig att det handlade om mycket mer knark än så.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Young man sold narcotics in front of police",
+        "summary": "A man was caught in the act selling tramadol tablets in a courtyard in central Malmö. But it turned out to involve much more drugs than that."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
+    {
+      "id": "6c08533cbec1",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Pv9qO5/eu-kommissionen-utsatt-for-cyberattack",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Pv9qO5/eu-kommissionen-utsatt-for-cyberattack?utm_medium=rss",
+      "published_at": "2026-11-19T10:58:59+01:00",
+      "fetched_at": "2026-11-19T11:01:19+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/2a4e60dc-c8d1-3d79-b520-50b9a84a1242?format=auto&s=3a899eaa34b4dff35ae5924d5075baf2c4a701bc&w=1000",
+      "sv": {
+        "title": "EU-kommissionen utsatt för cyberattack",
+        "summary": "EU-kommissionen har drabbats av en cyberattack och hackare kan ha kommit över medarbetares…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EU Commission hit by cyberattack",
+        "summary": "The EU Commission has been hit by a cyberattack, and hackers may have obtained employees' personal…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
+    {
+      "id": "5f824f5a1a58",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/misstankte-mordarens-ord-om-journalisten-en-van",
+      "guid": "https://www.expressen.se/nyheter/sverige/misstankte-mordarens-ord-om-journalisten-en-van/",
+      "published_at": "2026-11-19T10:58:24+01:00",
+      "fetched_at": "2026-11-19T11:01:19+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Misstänkte mördarens ord om journalisten: ”En vän”",
+        "summary": "Mannen jagades för dubbelmord i Sverige – då sköts han i Libanon. Huvudmisstänkt för det dådet är en svensk 39-åring som nu står åtalad, men ytterligare svenskar pekas ut i utredningen. Bland annat en journalist på en tidning i Sverige.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Suspected killer's words about journalist: \"A friend\"",
+        "summary": "The man was hunted for a double murder in Sweden – then he was shot in Lebanon. The main suspect for that attack is a 39-year-old Swede who is now charged, but further Swedes are named in the investigation. Among them a journalist at a Swedish newspaper."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
+    {
+      "id": "fbdd4ddb0690",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/sexologen-kvar-i-gift-vid-forsta-ogonkastet-xl",
+      "guid": "a6164386-a6cb-4c3e-99c8-f3e8a7e1842c",
+      "published_at": "2026-11-19T10:57:45+01:00",
+      "fetched_at": "2026-11-19T11:01:21+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/dc7f3da6-d1dd-4c0f-9a2e-257a88bdb9b4.jpg?width=600",
+      "sv": {
+        "title": "Sexologen kvar i ”Gift vid första ögonkastet XL”",
+        "summary": "Två av tre experter lämnar ”Gift vid första ögonkastet XL”, men Leigh Norén blir kvar i SVT-programmet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sexologist stays on \"Gift vid första ögonkastet XL\"",
+        "summary": "Two of three experts are leaving \"Gift vid första ögonkastet XL\", but Leigh Norén remains on the SVT programme."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
+    {
+      "id": "05253b6fcfcb",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/kultur/kontroversiell-forfattare-har-lamnat-sverige",
+      "guid": "https://www.svt.se/kultur/kontroversiell-forfattare-har-lamnat-sverige",
+      "published_at": "2026-11-19T10:56:11+01:00",
+      "fetched_at": "2026-11-19T11:01:16+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Kontroversiell författare har lämnat Sverige",
+        "summary": "Den kontroversiella författaren Bisan Edwan har lämnat Sverige sedan hennes tillfälliga uppehållstillstånd gått ut, skriver Sydsvenskan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Controversial author has left Sweden",
+        "summary": "The controversial author Bisan Edwan has left Sweden since her temporary residence permit expired, Sydsvenskan reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
+    {
+      "id": "ca1978bb77af",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/barnkonventionen-bor-galla-aven-kungliga-barn",
+      "guid": "https://www.dn.se/insandare/barnkonventionen-bor-galla-aven-kungliga-barn/",
+      "published_at": "2026-11-19T10:52:47+01:00",
+      "fetched_at": "2026-11-19T11:01:18+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/423c26fc-27e4-4558-91d2-0052aa643d38.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Barnkonventionen bör gälla även kungliga barn",
+        "summary": "INSÄNDARE. Kungliga barn får finna sig i att fritt exponeras i bild och på film, som sprids i kommersiella medier, ofta direkt av kungahuset. Men barnkonventionen måste gälla för alla barn – även kungliga, skriver Mona Eliasson, medlem i Republikanska föreningen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Letter. The UN Convention on the Rights of the Child should also apply to royal children",
+        "summary": "LETTER. Royal children have to accept being freely exposed in pictures and film, which are spread in commercial media, often directly by the royal household. But the Convention on the Rights of the Child must apply to all children – including royal ones, writes Mona Eliasson, member of the Republican Association."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
+    {
+      "id": "6476e22da5f6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/vd-intervjuer/rvrc-lagre-lonsamhet-an-vantat",
+      "guid": "92e41a9c-3054-500a-a2d8-1d8edd43d12f",
+      "published_at": "2026-11-19T10:52:13+01:00",
+      "fetched_at": "2026-11-19T11:01:20+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "RVRC: Lägre lönsamhet än väntat",
+        "summary": "Intervju med vd Paul Fischbein",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "RVRC: Lower profitability than expected",
+        "summary": "Interview with CEO Paul Fischbein"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
+    {
+      "id": "0eb866b2ff2f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/vd-intervjuer/nkt-okar-vinsten-organiska-tillvaxten-backar",
+      "guid": "c605f730-02f5-5ab0-ad92-81b3a78146c0",
+      "published_at": "2026-11-19T10:51:37+01:00",
+      "fetched_at": "2026-11-19T11:01:20+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "NKT ökar vinsten – organiska tillväxten backar",
+        "summary": "Intervju med vd Claes Westerlind",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "NKT increases profit – organic growth slows",
+        "summary": "Interview with CEO Claes Westerlind"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
+    {
+      "id": "8d9c772414d1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/vd-intervjuer/better-collective-stuvar-om-i-ledningen-sa-ser-laget-ut-i-brasilien",
+      "guid": "5d3ff491-e795-5e9b-b528-1f12e15edc4b",
+      "published_at": "2026-11-19T10:51:05+01:00",
+      "fetched_at": "2026-11-19T11:01:20+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Better Collective stuvar om i ledningen – så ser läget ut i Brasilien",
+        "summary": "Intervju med vd Jesper Søgaard",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Better Collective reshuffles leadership – here is the situation in Brazil",
+        "summary": "Interview with CEO Jesper Søgaard"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
+    {
+      "id": "b95c2efb5a74",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/2Vk9lv/larmet-efter-hemliga-filmerna-kyckjlingarna-behandlas-som-kanslolosa-produkter",
+      "guid": "https://www.aftonbladet.se/nyheter/a/2Vk9lv/larmet-efter-hemliga-filmerna-kyckjlingarna-behandlas-som-kanslolosa-produkter?utm_medium=rss",
+      "published_at": "2026-11-19T10:51:01+01:00",
+      "fetched_at": "2026-11-19T11:01:19+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/d8f4df0f-8371-3ab9-994a-58cd585b63e9?format=auto&s=0b63b094bb5cdca193eb4122e30fb21da2625278&w=832",
+      "sv": {
+        "title": "Hemliga filmerna från kycklinguppfödningen: ”Behandlas som känslolösa produkter”",
+        "summary": "Kravet efter hemliga filmerna",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Secret films from chicken farming: \"Treated as emotionless products\"",
+        "summary": "Demands following the secret films"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
     {
       "id": "357cd4e05dcd",
       "schema_version": 1,
@@ -260,6 +552,38 @@
       }
     },
     {
+      "id": "4ecbaf43b56c",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/trump-om-putin-han-ar-min-van.30f30517-3859-5e82-8585-c1c28c083fc0",
+      "guid": "30f30517-3859-5e82-8585-c1c28c083fc0",
+      "published_at": "2026-11-19T10:28:49+01:00",
+      "fetched_at": "2026-11-19T11:01:20+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Vladimir Putin",
+        "Tagg: Donald Trump"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/a71697e0-4cc5-3a01-a36a-051e5168d00a",
+      "sv": {
+        "title": "Trump skämtade om Putin: ”Han är min vän”",
+        "summary": "Se Trumps skämt med Putin inför historiska toppmötet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump joked about Putin: \"He is my friend\"",
+        "summary": "Watch Trump's joke about Putin ahead of the historic summit."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
+    {
       "id": "34f7e73bb8ff",
       "schema_version": 1,
       "source": "svd",
@@ -365,6 +689,42 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T10:31:11+01:00"
+      }
+    },
+    {
+      "id": "3357944ea933",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/misstankt-farligt-foremal-i-vidkarr.68764503-f4ff-5c35-adc9-14773819e8b5",
+      "guid": "68764503-f4ff-5c35-adc9-14773819e8b5",
+      "published_at": "2026-11-19T10:18:56+01:00",
+      "fetched_at": "2026-11-19T11:01:20+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: breaking-GP",
+        "Tagg: Just nu",
+        "Tagg: Nationella bombskyddet",
+        "Tagg: Polisen",
+        "Tagg: Göteborg",
+        "Tagg: Larm"
+      ],
+      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
+      "sv": {
+        "title": "Boende uppmanas hålla sig borta från fönster",
+        "summary": "Nationella bombskyddet är på plats i Vidkärr – misstänkt farligt föremål.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Residents urged to stay away from windows",
+        "summary": "The National Bomb Protection Unit is on site in Vidkärr – suspected dangerous object."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
       }
     },
     {
@@ -1134,6 +1494,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T09:45:49+01:00"
+      }
+    },
+    {
+      "id": "f539b7cb38e7",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/varmland/nu-slapps-spelet-efter-flera-ars-vantan-gta-ar-viktigare-an-skolan",
+      "guid": "https://www.svt.se/nyheter/lokalt/varmland/nu-slapps-spelet-efter-flera-ars-vantan-gta-ar-viktigare-an-skolan",
+      "published_at": "2026-11-19T09:18:48+01:00",
+      "fetched_at": "2026-11-19T11:01:16+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Nu släpps spelet efter flera års väntan: ”GTA är viktigare än skolan”",
+        "summary": "På internet kallas det för ett av världens största spelsläpp. Efter fansens 13 år långa väntan släpptes tv-spelet Grand Theft Auto VI under natten mot torsdag . Enligt flera spelare väntas lanseringen skapa mass-skolk från skolor och jobb under öppningsdagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Game finally released after years of waiting: \"GTA is more important than school\"",
+        "summary": "Online it is called one of the world's biggest game launches. After fans' 13-year wait, the video game Grand Theft Auto VI was released overnight to Thursday. According to several players, the launch is expected to cause mass truancy from schools and work on opening day."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
       }
     },
     {
@@ -5368,6 +5754,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T05:31:11+01:00"
+      }
+    },
+    {
+      "id": "7a19523845cb",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/varmland/felix-i-karlstad-skadade-ogat-i-innebandy-far-aldrig-synen-tillbaka",
+      "guid": "https://www.svt.se/nyheter/lokalt/varmland/felix-i-karlstad-skadade-ogat-i-innebandy-far-aldrig-synen-tillbaka",
+      "published_at": "2026-11-19T05:30:00+01:00",
+      "fetched_at": "2026-11-19T11:01:16+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Felix i Karlstad skadade ögat i innebandy: ”Får aldrig synen tillbaka”",
+        "summary": "Felix Johansson fick synen permanent skadad i en innebandymatch. Nu vill han inspirera andra att använda skyddsglasögon i sporten som orsakar flest ögonskador av alla lagsporter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Felix in Karlstad damaged eye in floorball: \"Will never get my sight back\"",
+        "summary": "Felix Johansson had his sight permanently damaged in a floorball match. Now he wants to inspire others to use protective goggles in the sport, which causes the most eye injuries of all team sports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
       }
     },
     {

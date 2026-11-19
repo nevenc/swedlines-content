@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-19T10:45:50+01:00",
+  "generated_at": "2026-11-19T11:01:28+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "05253b6fcfcb",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/kultur/kontroversiell-forfattare-har-lamnat-sverige",
+      "guid": "https://www.svt.se/kultur/kontroversiell-forfattare-har-lamnat-sverige",
+      "published_at": "2026-11-19T10:56:11+01:00",
+      "fetched_at": "2026-11-19T11:01:16+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Kontroversiell författare har lämnat Sverige",
+        "summary": "Den kontroversiella författaren Bisan Edwan har lämnat Sverige sedan hennes tillfälliga uppehållstillstånd gått ut, skriver Sydsvenskan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Controversial author has left Sweden",
+        "summary": "The controversial author Bisan Edwan has left Sweden since her temporary residence permit expired, Sydsvenskan reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
+    {
+      "id": "b95c2efb5a74",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/2Vk9lv/larmet-efter-hemliga-filmerna-kyckjlingarna-behandlas-som-kanslolosa-produkter",
+      "guid": "https://www.aftonbladet.se/nyheter/a/2Vk9lv/larmet-efter-hemliga-filmerna-kyckjlingarna-behandlas-som-kanslolosa-produkter?utm_medium=rss",
+      "published_at": "2026-11-19T10:51:01+01:00",
+      "fetched_at": "2026-11-19T11:01:19+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/d8f4df0f-8371-3ab9-994a-58cd585b63e9?format=auto&s=0b63b094bb5cdca193eb4122e30fb21da2625278&w=832",
+      "sv": {
+        "title": "Hemliga filmerna från kycklinguppfödningen: ”Behandlas som känslolösa produkter”",
+        "summary": "Kravet efter hemliga filmerna",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Secret films from chicken farming: \"Treated as emotionless products\"",
+        "summary": "Demands following the secret films"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
     {
       "id": "357cd4e05dcd",
       "schema_version": 1,
@@ -24,6 +77,42 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T10:45:49+01:00"
+      }
+    },
+    {
+      "id": "3357944ea933",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/misstankt-farligt-foremal-i-vidkarr.68764503-f4ff-5c35-adc9-14773819e8b5",
+      "guid": "68764503-f4ff-5c35-adc9-14773819e8b5",
+      "published_at": "2026-11-19T10:18:56+01:00",
+      "fetched_at": "2026-11-19T11:01:20+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: breaking-GP",
+        "Tagg: Just nu",
+        "Tagg: Nationella bombskyddet",
+        "Tagg: Polisen",
+        "Tagg: Göteborg",
+        "Tagg: Larm"
+      ],
+      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
+      "sv": {
+        "title": "Boende uppmanas hålla sig borta från fönster",
+        "summary": "Nationella bombskyddet är på plats i Vidkärr – misstänkt farligt föremål.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Residents urged to stay away from windows",
+        "summary": "The National Bomb Protection Unit is on site in Vidkärr – suspected dangerous object."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T11:01:27+01:00"
       }
     },
     {
@@ -5339,81 +5428,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T06:01:32+01:00"
-      }
-    },
-    {
-      "id": "c3ade05d959a",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/lagenhetsbrand-utanfor-varnamo-man-hittad-dod",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/lagenhetsbrand-utanfor-varnamo-man-hittad-dod",
-      "published_at": "2026-11-16T05:34:32+01:00",
-      "fetched_at": "2026-11-16T08:01:11+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Man död efter lägenhetsbrand utanför Värnamo",
-        "summary": "En man i 70-årsåldern har omkommit i en lägenhetsbrand utanför Värnamo natten mot måndag. – Vi vet ingen anledning till vad som startat branden i dagsläget, säger Erik Persson vid räddningstjänsten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man dead after flat fire outside Värnamo",
-        "summary": "A man in his 70s died in a flat fire outside Värnamo during the night to Monday. \"We do not know the reason for what started the fire at this time,\" says Erik Persson of the rescue service."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T08:01:18+01:00"
-      }
-    },
-    {
-      "id": "0c5e22493239",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/sodertalje/da-kommer-nya-marenplan-invigas-samtidigt-ska-fler-arbeten-paborjas",
-      "guid": "https://www.svt.se/nyheter/lokalt/sodertalje/da-kommer-nya-marenplan-invigas-samtidigt-ska-fler-arbeten-paborjas",
-      "published_at": "2026-11-16T05:33:07+01:00",
-      "fetched_at": "2026-11-16T05:45:35+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Då kommer nya Marenplan invigas – samtidigt ska fler arbeten påbörjas",
-        "summary": "Marenplan i Södertälje centrum har byggts om i över två år. Men i december är det dags för invigning av nya Maren, som nu rymmer en hel del nyheter. – Det kommer bli en plats för evenemang och ett ännu trevligare ställe att vistas på, säger projektledare Peter Sandell Johansson på kommunen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New Maren plan to be inaugurated – more works to begin at the same time",
-        "summary": "Marenplan in Södertälje city centre has been rebuilt for over two years. But in December it is time for the inauguration of the new Maren, which now holds a number of new features. \"It will be a place for events and an even more pleasant place to be,\" says project manager Peter Sandell Johansson at the municipality."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T05:45:47+01:00"
-      }
-    },
-    {
-      "id": "5369079bdbf2",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79948",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79948&utm_medium=rss",
-      "published_at": "2026-11-16T05:31:49+01:00",
-      "fetched_at": "2026-11-16T05:45:36+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "En död efter lägenhetsbrand"
-      },
-      "en": {
-        "title": "One dead after flat fire"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T05:45:47+01:00"
       }
     }
   ]
