@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T09:45:50+01:00",
+  "generated_at": "2026-11-19T10:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "49a21fd4f297",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/17-aring-gripen-misstanks-for-tva-valdtaktsforsok-i-malmo",
+      "guid": "9319c492-7d81-4db1-98be-818ca9de4f0c",
+      "published_at": "2026-11-19T10:00:00+01:00",
+      "fetched_at": "2026-11-19T10:01:18+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/d02952f3-9479-4d82-ab8d-cb537725af5f.jpeg?width=600",
+      "sv": {
+        "title": "21-åring fast för två våldtäktsförsök i Malmö",
+        "summary": "En 21-åring är anhållen, misstänkt för två försök till våldtäkt på olika platser i Malmö. Ingenting tyder på att han kände offren. En är minderårig. Nu undersöker polisen om han kan kopplas till fler händelser.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "21-year-old held for two attempted rapes in Malmö",
+        "summary": "A 21-year-old has been detained, suspected of two attempted rapes in different places in Malmö. Nothing indicates that he knew the victims. One of them is a minor. Police are now investigating whether he can be linked to more incidents."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:01:25+01:00"
+      }
+    },
     {
       "id": "1bffc753a9c1",
       "schema_version": 1,
@@ -5324,33 +5351,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T17:01:25+01:00"
-      }
-    },
-    {
-      "id": "44c5a1b12ed3",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/stoldvag-tvingar-vintagebutiken-att-kedja-fast-sina-varor",
-      "guid": "e66f995c-4c34-4428-b769-3aa4525f8c35",
-      "published_at": "2026-11-15T16:00:00+01:00",
-      "fetched_at": "2026-11-15T16:01:14+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/4947120c-1781-432f-b518-ec017de43705.png?width=600",
-      "sv": {
-        "title": "Stöldvåg tvingar vintagebutiken att kedja fast sina varor",
-        "summary": "Tjuven kom in – och försvann med en rävpäls värderad till flera tusen kronor. Årets många stölder har tvingat butiksägaren Stella Olsson på Rad Susie Vintage till drastiska åtgärder – att börja kedja fast sina dyrgripar. – Det är jättekämpiga tider.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Theft wave forces vintage shop to chain down its goods",
-        "summary": "The thief came in – and disappeared with a fox fur valued at several thousand SEK. This year's many thefts have forced shop owner Stella Olsson at Rad Susie Vintage to take drastic measures – chaining down her treasures. – It's really tough times."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:01:23+01:00"
       }
     }
   ]
