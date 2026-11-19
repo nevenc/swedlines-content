@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T11:45:50+01:00",
+  "generated_at": "2026-11-19T12:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b38d6b9d9ad0",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/ivo-beslut-efter-skandalen-med-barnhjartlakaren",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/ivo-beslut-efter-skandalen-med-barnhjartlakaren",
+      "published_at": "2026-11-19T11:56:08+01:00",
+      "fetched_at": "2026-11-19T12:01:12+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "IVO beslut efter skandalen med barnhjärtläkaren",
+        "summary": "Inspektionen för vård och omsorg har fattat beslut efter Region Jönköpings län anmälan om brister i vården kopplat till barnhjärtläkaren. IVO bedömer att regionen har sett till att inget liknande inträffar igen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "IVO decision after the scandal involving the paediatric cardiologist",
+        "summary": "The Health and Social Care Inspectorate (IVO) has made a decision following the Region Jönköping County's report on shortcomings in care linked to the paediatric cardiologist. IVO assesses that the region has ensured nothing similar will happen again."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T12:01:23+01:00"
+      }
+    },
     {
       "id": "c179da671807",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "A step towards e-methanol plant in Östersund – Uniper applies for permit",
         "summary": "An application to build a plant for a fossil-free shipping fuel in Lugnvik has now been submitted to the Land and Environment Court. The energy company Uniper hopes for a quick process."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "f309c0f2be31",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/snolaget-varre-an-befarat-i-umea-gatuchefen-hinner-inte-med",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/snolaget-varre-an-befarat-i-umea-gatuchefen-hinner-inte-med",
-      "published_at": "2026-11-13T10:40:12+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "Snöläget värre än befarat i Umeå – gatuchefen: ”Hinner inte med”",
-        "summary": "Snön vräker ner över Umeå under fredagen. Det har kommit betydligt mer än vad prognosen visade. Kommunen tvingas prioritera om för att kunna hålla vägar öppna. – Läget är ansträngt, säger Per Hilmersson, gatudriftchef hos Umeå kommun.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Snow situation worse than feared in Umeå – streets chief: 'Can't keep up'",
-        "summary": "Snow is pouring down over Umeå on Friday. Considerably more has fallen than the forecast showed. The municipality is forced to reprioritise to keep roads open. – The situation is strained, says Per Hilmersson, head of street operations at Umeå municipality."
       },
       "translation": {
         "status": "done",

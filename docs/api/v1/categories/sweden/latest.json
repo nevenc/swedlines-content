@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T11:45:50+01:00",
+  "generated_at": "2026-11-19T12:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b38d6b9d9ad0",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/ivo-beslut-efter-skandalen-med-barnhjartlakaren",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/ivo-beslut-efter-skandalen-med-barnhjartlakaren",
+      "published_at": "2026-11-19T11:56:08+01:00",
+      "fetched_at": "2026-11-19T12:01:12+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "IVO beslut efter skandalen med barnhjärtläkaren",
+        "summary": "Inspektionen för vård och omsorg har fattat beslut efter Region Jönköpings län anmälan om brister i vården kopplat till barnhjärtläkaren. IVO bedömer att regionen har sett till att inget liknande inträffar igen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "IVO decision after the scandal involving the paediatric cardiologist",
+        "summary": "The Health and Social Care Inspectorate (IVO) has made a decision following the Region Jönköping County's report on shortcomings in care linked to the paediatric cardiologist. IVO assesses that the region has ensured nothing similar will happen again."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T12:01:23+01:00"
+      }
+    },
     {
       "id": "c843c6fba658",
       "schema_version": 1,
@@ -5382,33 +5408,6 @@
       "en": {
         "title": "Dramatic rise in mental ill-health among Skåne teenage girls",
         "summary": "Alarm has long been raised about rising mental ill-health among young girls. According to a study from Lund University, the negative trend continues. When a thousand Skåne lower-secondary pupils were asked about their well-being, almost one in three teenage girls was found to have problems."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T06:01:32+01:00"
-      }
-    },
-    {
-      "id": "2dbc79c78de5",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/skapar-kaos-pa-boende-hotar-tanda-eld-och-jagar-personalen",
-      "guid": "51e1b59e-2182-4dfb-b077-01f47c02bbcd",
-      "published_at": "2026-11-16T06:00:00+01:00",
-      "fetched_at": "2026-11-16T06:01:15+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/d9a11255-391a-4b32-897e-11f6bb944e21.jpeg?width=600",
-      "sv": {
-        "title": "”Skapar kaos” på boende – hotar tända eld och jagar personalen",
-        "summary": "En kvinna med psykiska problem försöker tvinga sig bort från ett LSS-boende där hon placerats mot sin vilja. Hon attackerar personalen och hotar att bränna ner byggnaden. – Hon vill inte vara kvar en enda dag till, säger hennes syster.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "“Creates chaos” at home – threatens to set fire and chases staff",
-        "summary": "A woman with mental health problems tries to force her way out of an LSS home where she was placed against her will. She attacks staff and threatens to burn down the building. – She does not want to stay one more day, says her sister."
       },
       "translation": {
         "status": "done",

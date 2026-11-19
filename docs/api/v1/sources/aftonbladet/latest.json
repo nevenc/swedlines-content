@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T11:45:50+01:00",
+  "generated_at": "2026-11-19T12:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d32ecd0c1a3f",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/klimat/a/WmbkdQ/gretas-svar-efter-kritiserade-skrattklippet-praglat-av-medelklass",
+      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/WmbkdQ/gretas-svar-efter-kritiserade-skrattklippet-praglat-av-medelklass?utm_medium=rss",
+      "published_at": "2026-11-19T11:55:44+01:00",
+      "fetched_at": "2026-11-19T12:01:14+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/f51047c9-6b30-3ddd-ae85-c5d8f2e4f0a1?format=auto&s=08906eef4a7f9f4559b034e9ac89b0d2564ad200&w=1000",
+      "sv": {
+        "title": "Gretas svar efter kritiserade skrattklippet: ”Präglat av medelklass”",
+        "summary": "Greta Thunbergs skratt fastnade i halsen. På flera klimataktivister.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Greta's response after the criticised laughter clip: “Shaped by middle class”",
+        "summary": "Greta Thunberg's laughter got stuck in her throat. On several climate activists."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T12:01:23+01:00"
+      }
+    },
     {
       "id": "11f9f4c44c63",
       "schema_version": 1,
@@ -750,6 +777,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T00:45:46+01:00"
+      }
+    },
+    {
+      "id": "9096510fe674",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/410857/nya-ukrainska-attacker-mot-krimbron",
+      "guid": "https://tv.aftonbladet.se/video/410857/nya-ukrainska-attacker-mot-krimbron?utm_medium=rss",
+      "published_at": "2026-11-19T00:16:59+01:00",
+      "fetched_at": "2026-11-19T12:01:14+01:00",
+      "category": "world",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/78b4ff63694d92c3c3f13d4e5f816d62.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Nya ukrainska attacker mot Krimbron",
+        "summary": "Se nattens attacker",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New Ukrainian attacks on the Crimea bridge",
+        "summary": "See the night's attacks"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T12:01:23+01:00"
       }
     },
     {
@@ -5320,60 +5374,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T15:17:06+01:00"
-      }
-    },
-    {
-      "id": "cf5b3150c09a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/ARdRBn/atal-for-ronningemord-tidigast-i-december",
-      "guid": "https://www.aftonbladet.se/nyheter/a/ARdRBn/atal-for-ronningemord-tidigast-i-december?utm_medium=rss",
-      "published_at": "2026-11-16T14:56:19+01:00",
-      "fetched_at": "2026-11-16T14:59:07+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/138fa061-8013-39cd-9801-403973f29054?format=auto&s=035aa7cd98c7360e99aa691b12482c7533924042&w=1000",
-      "sv": {
-        "title": "Åtal för Rönningemord tidigast i december",
-        "summary": "Åtal efter det uppmärksammade mordet på en kvinna i Rönninge i julas kommer tidigast den 1…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Charges for Rönninge murder expected at the earliest in December",
-        "summary": "Charges following the high-profile murder of a woman in Rönninge last Christmas will come no earlier than 1…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:59:18+01:00"
-      }
-    },
-    {
-      "id": "61a071b361c8",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/kMJwoj/familjen-mukka-i-lulea-forlorade-allt-nar-villan-brann-ned",
-      "guid": "https://www.aftonbladet.se/nyheter/a/kMJwoj/familjen-mukka-i-lulea-forlorade-allt-nar-villan-brann-ned?utm_medium=rss",
-      "published_at": "2026-11-16T14:27:56+01:00",
-      "fetched_at": "2026-11-16T14:31:06+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/4bb97786-ca37-3c6f-a7a2-e428a300a758?format=auto&s=9af48b236df05a5e3a6577f298512dcf6e298375&w=1000",
-      "sv": {
-        "title": "Familjen Mukkas hem totalförstördes i branden: ”Fruktansvärt”",
-        "summary": "Stan sluter upp: ”Blir jätterörd”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Familjen Mukkas home destroyed in the fire: \"Terrible\"",
-        "summary": "Stan steps in: \"Am extremely upset\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:31:14+01:00"
       }
     }
   ]
