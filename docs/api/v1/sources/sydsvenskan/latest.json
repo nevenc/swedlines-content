@@ -1,7 +1,58 @@
 {
-  "generated_at": "2026-11-19T13:45:55+01:00",
+  "generated_at": "2026-11-19T14:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "949d969f4732",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/forst-provspel-i-ifk-goteborg-sedan-kval-storsta-matchen-i-min-karriar",
+      "guid": "7c69dc29-4a07-4ffb-b105-98acdae41db3",
+      "published_at": "2026-11-19T14:00:00+01:00",
+      "fetched_at": "2026-11-19T14:01:19+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/1ba71db4-d4c8-412e-97ad-fcd828fcb662.jpeg?width=600",
+      "sv": {
+        "title": "Först provspel i IFK Göteborg – sedan kval: ”Största matchen i min karriär”",
+        "summary": "Ena veckan provspel med allsvenska storklubben IFK Göteborg. Nästa vecka: ett avgörande kval för att skjuta Lunds BK till Superettan. För den 19-åriga anfallstalangen Aleandro Wihlborg Costa är det intensiva dagar. – Det är en dröm och jag är extremt taggad, säger han inför matcherna mot Norrby.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trial at IFK Göteborg – then play-off: \"Biggest match of my career\"",
+        "summary": "One week a trial with allsvenskan giants IFK Göteborg. Next week: a decisive play-off to take Lunds BK up to the Superettan. For the 19-year-old striker talent Aleandro Wihlborg Costa, these are intense days. \"It's a dream and I'm extremely fired up,\" he says ahead of the matches against Norrby."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T14:01:25+01:00"
+      }
+    },
+    {
+      "id": "43e3890d355b",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/xi-fick-trump-putin-vann",
+      "guid": "2f65e873-cff4-4b7b-a100-a88c3acc57bd",
+      "published_at": "2026-11-19T13:47:06+01:00",
+      "fetched_at": "2026-11-19T14:01:19+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/dbe2702e-b22a-4a6f-9822-637aee03c573.jpeg?width=600",
+      "sv": {
+        "title": "Xi fick Trump, Putin vann"
+      },
+      "en": {
+        "title": "Xi got Trump, Putin won"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T14:01:25+01:00"
+      }
+    },
     {
       "id": "3a3882c2ba9a",
       "schema_version": 1,
@@ -5104,56 +5155,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T13:31:17+01:00"
-      }
-    },
-    {
-      "id": "239d4c49eb8a",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/111-kvadratmeter-stort-hus-i-tygelsjo-salt",
-      "guid": "8e7d52cf-b973-44d9-a278-09451b2b2902",
-      "published_at": "2026-11-17T13:18:47+01:00",
-      "fetched_at": "2026-11-17T13:31:07+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "111 kvadratmeter stort hus i Tygelsjö sålt"
-      },
-      "en": {
-        "title": "111-square-metre house in Tygelsjö sold"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:31:17+01:00"
-      }
-    },
-    {
-      "id": "cf0e3cb4877e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/melodifestivalen-skrotar-finalkvalet",
-      "guid": "9fbea826-3dae-4453-8074-47f0a759db75",
-      "published_at": "2026-11-17T13:15:39+01:00",
-      "fetched_at": "2026-11-17T13:15:46+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/920692de-261e-495b-8470-f7d2b52ec262.jpg?width=600",
-      "sv": {
-        "title": "Melodifestivalen skrotar finalkvalet",
-        "summary": "Det blir inget finalkval i Melodifestivalen nästa år. SVT slopar konceptet med en andra chans efter 25 år.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Melodifestivalen scraps the final qualifier",
-        "summary": "There will be no final qualifier in Melodifestivalen next year. SVT is dropping the concept of a second chance after 25 years."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:15:51+01:00"
       }
     }
   ]

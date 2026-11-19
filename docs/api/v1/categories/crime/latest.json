@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T13:45:55+01:00",
+  "generated_at": "2026-11-19T14:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0d5c2bd6dc05",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/tag-stoppades-efter-misstankt-hot-120-resenarer-saknades",
+      "guid": "https://www.expressen.se/nyheter/sverige/tag-stoppades-efter-misstankt-hot-120-resenarer-saknades/",
+      "published_at": "2026-11-19T13:58:37+01:00",
+      "fetched_at": "2026-11-19T14:01:16+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Tåg stoppades efter misstänkt hot – 120 resenärer saknades",
+        "summary": "Ett tåg mellan Stockholm och Göteborg stoppades av polisen efter uppgifter om ett misstänkt brott. Enligt Expressens uppgifter hade 120 resor bokats med snarlika, hotfulla mejladresser – men ingen av de bokade resenärerna fanns ombord.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Train stopped after suspected threat – 120 passengers unaccounted for",
+        "summary": "A train between Stockholm and Göteborg was stopped by police following information about a suspected crime. According to Expressen, 120 trips had been booked with similar, threatening email addresses – but none of the booked passengers were on board."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T14:01:25+01:00"
+      }
+    },
     {
       "id": "9ac16475c009",
       "schema_version": 1,
@@ -5339,29 +5365,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T08:45:53+01:00"
-      }
-    },
-    {
-      "id": "08ec63b77ff5",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/mexikos-drogkung-ar-dod",
-      "guid": "d505aed3-72e1-41d4-a737-3508b4ea1f86",
-      "published_at": "2026-11-16T05:59:56+01:00",
-      "fetched_at": "2026-11-16T06:01:15+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Mexikos drogkung är död"
-      },
-      "en": {
-        "title": "Mexico’s drug kingpin is dead"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T06:01:32+01:00"
       }
     }
   ]
