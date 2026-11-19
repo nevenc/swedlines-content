@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-19T06:15:53+01:00",
+  "generated_at": "2026-11-19T06:31:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0b1fbcdeb97b",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80078",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80078&utm_medium=rss",
+      "published_at": "2026-11-19T06:24:32+01:00",
+      "fetched_at": "2026-11-19T06:30:54+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/b5bb4311-7503-3c65-a25a-e05750f5ee52?format=auto&s=6e837421ccfc499c569ccef49876d689d9ff3245&w=1000",
+      "sv": {
+        "title": "Möte mellan Putin och Trump avslutat"
+      },
+      "en": {
+        "title": "Meeting between Putin and Trump ends"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T06:31:03+01:00"
+      }
+    },
+    {
+      "id": "6095a62ff10c",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345819",
+      "guid": "rss:sr.se/article/9345819",
+      "published_at": "2026-11-19T06:21:00+01:00",
+      "fetched_at": "2026-11-19T06:30:53+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Kärnstrand: ”Olika uppfattningar vad mötet ska handla om”",
+        "summary": "Rysslands president Vladimir Putin och USA:s president Donald Trump har påbörjat ett bilateralt möte, bara timmar innan de ska träffa sin kinesiske kollega Xi Jinping, uppger AFP.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Kärnstrand: \"Different views on what the meeting is about\"",
+        "summary": "Russian President Vladimir Putin and US President Donald Trump have begun a bilateral meeting, just hours before they are due to meet their Chinese counterpart Xi Jinping, AFP reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T06:31:03+01:00"
+      }
+    },
     {
       "id": "343957af6fd3",
       "schema_version": 1,
@@ -5276,57 +5326,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T08:01:26+01:00"
-      }
-    },
-    {
-      "id": "9afc0c7dfc98",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/krimbron-uppges-skadad-vid-nytt-stort-anfall",
-      "guid": "020dff09-907a-4a3c-8b61-18c08fb9959b",
-      "published_at": "2026-11-17T07:39:06+01:00",
-      "fetched_at": "2026-11-17T07:45:44+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/efb33acf-b2a8-4f67-a9b6-7223503ffdc5.jpg?width=600",
-      "sv": {
-        "title": "Krimbron uppges skadad vid nytt stort anfall",
-        "summary": "Ukraina har anfallit Krimbron igen och enligt obekräftade bilder har en av dess stora valvbågar bombats sönder. I Kiev har två av de stora broar som binder samman staden över floden Dnepr träffats vid nya ryska attacker.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Crimea Bridge reportedly damaged in new major attack",
-        "summary": "Ukraine has attacked the Crimea Bridge again and, according to unconfirmed images, one of its large arch spans has been blown apart by bombs. In Kyiv, two of the large bridges that link the city across the Dnipro river have been hit in new Russian attacks."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:45:49+01:00"
-      }
-    },
-    {
-      "id": "e9da69121de0",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/EbWbm3/huang-kallas-till-kongressforhor",
-      "guid": "https://www.svd.se/a/EbWbm3/huang-kallas-till-kongressforhor?utm_medium=rss",
-      "published_at": "2026-11-17T07:33:10+01:00",
-      "fetched_at": "2026-11-17T07:45:41+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/f2b01143-f6a2-30e9-85c2-c11fecb034de?format=auto&s=f07acba2522348885b163193e2701a979a84e656&w=1000",
-      "sv": {
-        "title": "Huang kallas till kongressförhör"
-      },
-      "en": {
-        "title": "Huang summoned to congressional hearing"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:45:49+01:00"
       }
     }
   ]
