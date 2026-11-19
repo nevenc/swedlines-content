@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T02:15:49+01:00",
+  "generated_at": "2026-11-19T02:31:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6cd16ed30390",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/alice-33-dog-hade-fillers-i-hjartat",
+      "guid": "https://www.expressen.se/nyheter/varlden/alice-33-dog-hade-fillers-i-hjartat/",
+      "published_at": "2026-11-19T02:21:42+01:00",
+      "fetched_at": "2026-11-19T02:30:57+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Alice, 33, dog – hade fillers i hjärtat",
+        "summary": "33-åriga Alice Webb skulle göra ett rumplyft. Det kostade henne livet. Nu visar en utredning att hon hade spår av fillers i hjärta och hjärna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alice, 33, died – had fillers in her heart",
+        "summary": "33-year-old Alice Webb was going to get a tummy tuck. It cost her her life. Now an investigation shows she had traces of fillers in her heart and brain."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T02:31:01+01:00"
+      }
+    },
     {
       "id": "84776d7a983d",
       "schema_version": 1,
@@ -5600,33 +5626,6 @@
       "en": {
         "title": "The king: It is my greatest regret in life",
         "summary": "King Charles has spoken about his greatest regret, which made him \"disappointed\", according to a friend. – He always wanted to go there, the friend tells The Sunday Times. Now the king has received an offer to have his dream fulfilled."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T00:15:51+01:00"
-      }
-    },
-    {
-      "id": "532b481171ec",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/z0GOE1/thand-ringqvists-kaoshelg-slutade-med-s",
-      "guid": "https://www.aftonbladet.se/nyheter/a/z0GOE1/thand-ringqvists-kaoshelg-slutade-med-s?utm_medium=rss",
-      "published_at": "2026-11-16T00:00:56+01:00",
-      "fetched_at": "2026-11-16T00:15:43+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/3e4edfde-f6ed-34c4-a2a8-5ca993b6988a?format=auto&s=c106a2dc89ce291a988c68b1d6d08c9aafde4540&w=983",
-      "sv": {
-        "title": "Thand Ringqvists kaoshelg slutade med S",
-        "summary": "Uppgifter: Bytte spår ✓ Spelet bakom",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Thand Ringqvist's chaotic weekend ended with S",
-        "summary": "Reports: Switched tracks ✓ The game behind"
       },
       "translation": {
         "status": "done",

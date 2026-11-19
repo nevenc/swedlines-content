@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T02:15:49+01:00",
+  "generated_at": "2026-11-19T02:31:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6cd16ed30390",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/alice-33-dog-hade-fillers-i-hjartat",
+      "guid": "https://www.expressen.se/nyheter/varlden/alice-33-dog-hade-fillers-i-hjartat/",
+      "published_at": "2026-11-19T02:21:42+01:00",
+      "fetched_at": "2026-11-19T02:30:57+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Alice, 33, dog – hade fillers i hjärtat",
+        "summary": "33-åriga Alice Webb skulle göra ett rumplyft. Det kostade henne livet. Nu visar en utredning att hon hade spår av fillers i hjärta och hjärna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alice, 33, died – had fillers in her heart",
+        "summary": "33-year-old Alice Webb was going to get a tummy tuck. It cost her her life. Now an investigation shows she had traces of fillers in her heart and brain."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T02:31:01+01:00"
+      }
+    },
     {
       "id": "a34eba6d7fa9",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T19:31:04+01:00"
-      }
-    },
-    {
-      "id": "d2ebf788cc18",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=c8e36c29-f109-4d77-b254-adf034d4c6f4",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c8e36c29-f109-4d77-b254-adf034d4c6f4",
-      "published_at": "2026-11-15T19:00:07+01:00",
-      "fetched_at": "2026-11-15T19:15:40+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "C-mötet pågår",
-        "summary": "Började klockan 14 – inte slut än, erfar Expressen",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The C meeting is underway",
-        "summary": "Started at 14:00 – not yet over, Expressen learns"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T19:15:45+01:00"
       }
     }
   ]
