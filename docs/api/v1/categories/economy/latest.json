@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-19T21:31:06+01:00",
+  "generated_at": "2026-11-19T21:45:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1595f75806d6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/usa-ryssland-bekvamt-med-nato-liknande-garantier",
+      "guid": "43391096-77e6-4379-bb02-3a0a427eab75",
+      "published_at": "2026-11-19T21:42:03+01:00",
+      "fetched_at": "2026-11-19T21:45:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f2f592c0-ae2d-4dd6-bf2c-cf0e4db5e665.jpg?width=600",
+      "sv": {
+        "title": "USA: Ryssland ”bekvämt” med Nato-liknande garantier",
+        "summary": "Donald Trumps svärson, sändebudet Jared Kushner, hävdar att Ryssland verkar vara berett att acceptera Nato-liknande säkerhetsgarantier för Ukraina i samband med en fredsuppgörelse.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "USA: Russia 'comfortable' with NATO-like guarantees",
+        "summary": "Donald Trump's son-in-law, envoy Jared Kushner, claims Russia appears willing to accept NATO-like security guarantees for Ukraine as part of a peace settlement."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:45:52+01:00"
+      }
+    },
+    {
+      "id": "330701ba60c4",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346646",
+      "guid": "rss:sr.se/article/9346646",
+      "published_at": "2026-11-19T21:41:00+01:00",
+      "fetched_at": "2026-11-19T21:45:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Sparekonomen: Anthropic kan locka AI-bolag till börsen",
+        "summary": "På torsdagen gjorde AI-bolaget Anthropic premiär på Nasdaqbörsen i New York, och aktien steg kraftigt i den inledande handeln. Carl-Henrik Söderberg, sparekonom på Nordnet, säger att det stora intresset visar hur attraktiv AI-sektorn är.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Savings economist: Anthropic may lure AI companies to the stock market",
+        "summary": "On Thursday, AI company Anthropic made its debut on the Nasdaq exchange in New York, and the share price rose sharply in early trading. Carl-Henrik Söderberg, savings economist at Nordnet, says the strong interest shows how attractive the AI sector is."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:45:52+01:00"
+      }
+    },
     {
       "id": "0784ef458ac5",
       "schema_version": 1,
@@ -5230,60 +5283,6 @@
       "en": {
         "title": "Concern: Rush at the pump possible ahead of price increase",
         "summary": "There could be queues at the pump ahead of the increase in tax on petrol and diesel at the turn of the month. Fill up your tank in good time to avoid the petrol station being out of fuel when you arrive, urges Anna Törner, CEO of the industry organisation Drivkraft Sverige."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:31:03+01:00"
-      }
-    },
-    {
-      "id": "7fd433fcb8ee",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/anthropic-bekraftar-aktiepris-satter-rekord",
-      "guid": "9779a78c-225b-4a67-8253-7ef044567a2a",
-      "published_at": "2026-11-19T06:20:45+01:00",
-      "fetched_at": "2026-11-19T06:30:57+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/14faca66-dba1-4f62-a9b0-238e14b851d5.jpg?width=600",
-      "sv": {
-        "title": "Anthropic bekräftar aktiepris – sätter rekord",
-        "summary": "AI-jätten Anthropic sätter sin introduktionskurs till 83 dollar per aktie inför noteringen på Nasdaq i New York, bekräftar bolaget.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anthropic confirms share price – sets record",
-        "summary": "AI giant Anthropic is setting its introductory price at 83 dollars per share ahead of the listing on Nasdaq in New York, the company confirms."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:31:03+01:00"
-      }
-    },
-    {
-      "id": "2fa51285f685",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/anthropic-bekraftar-teckningskursen",
-      "guid": "9634e8ac-0559-4f0a-a638-ca1b6a7957df",
-      "published_at": "2026-11-19T06:20:40+01:00",
-      "fetched_at": "2026-11-19T06:30:56+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/19cf7c85-a944-4399-aa3d-8a5fd00d997b.jpeg?width=600",
-      "sv": {
-        "title": "Anthropic bekräftar teckningskursen",
-        "summary": "NEW YORK. Anthropic sätter teckningskursen till 83 dollar per aktie inför den väntade börsdebuten på torsdag, vilket är över det tidigare prisintervallet, enligt ett pressmeddelande. Det innebär en bolagsvärdering på omkring 1.500 miljarder dollar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anthropic confirms subscription price",
-        "summary": "NEW YORK. Anthropic is setting the subscription price at 83 dollars per share ahead of the expected stock market debut on Thursday, which is above the previous price range, according to a press release. This implies a company valuation of around 1,500 billion dollars."
       },
       "translation": {
         "status": "done",
