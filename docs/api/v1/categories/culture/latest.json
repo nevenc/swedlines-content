@@ -1,7 +1,69 @@
 {
-  "generated_at": "2026-11-19T13:16:06+01:00",
+  "generated_at": "2026-11-19T13:31:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "43ca1e26b214",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4lRqzRcKEVkxO7PxohDqo0/svt-profil-anmaeler-svt",
+      "guid": "4lRqzRcKEVkxO7PxohDqo0",
+      "published_at": "2026-11-19T13:16:15+01:00",
+      "fetched_at": "2026-11-19T13:31:05+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Nöje"
+      ],
+      "sv": {
+        "title": "SVT-profil anmäler SVT",
+        "summary": "Den nyligen utsedda julvärden har anmält en artikel från Kulturnyheterna, där kritik riktas mot hennes SVT-serie ”Alla mina bokstäver”. Serien handlar om Carina Bergfeldts adhd.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "SVT personality reports SVT",
+        "summary": "The newly appointed Christmas host has reported an article from Kulturnyheterna, in which criticism is directed at her SVT series “Alla mina bokstäver”. The series is about Carina Bergfeldt's ADHD."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:31:19+01:00"
+      }
+    },
+    {
+      "id": "6a91ad94701c",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/kaj-ar-var-tids-galenskaparna.d1fc46a4-d88b-57eb-9a70-be0ace65200c",
+      "guid": "d1fc46a4-d88b-57eb-9a70-be0ace65200c",
+      "published_at": "2026-11-19T13:13:07+01:00",
+      "fetched_at": "2026-11-19T13:31:06+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: KAJ (humorgrupp)",
+        "Tagg: Finland",
+        "Tagg: Bastu"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/6e56726f-2154-3a97-a8f2-c940c0b46ea9",
+      "sv": {
+        "title": "Kaj är vår tids Galenskaparna",
+        "summary": "Nu spelar den österbottniska trion i Göteborg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kaj is our era's Galenskaparna",
+        "summary": "Now the Ostrobothnian trio performs in Göteborg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:31:19+01:00"
+      }
+    },
     {
       "id": "8f1d216dff09",
       "schema_version": 1,
@@ -5567,60 +5629,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T22:01:25+01:00"
-      }
-    },
-    {
-      "id": "f4481118bb05",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/hampus-nessvold-om-svts-julkalender-riktigt-jobbigt-format",
-      "guid": "https://www.dn.se/kultur/hampus-nessvold-om-svts-julkalender-riktigt-jobbigt-format/",
-      "published_at": "2026-11-16T19:00:09+01:00",
-      "fetched_at": "2026-11-16T19:01:14+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/6324093d-1467-4027-ae4d-e474ffe8f5e3.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Hampus Nessvold om SVT:s julkalender: ”Riktigt jobbigt format”",
-        "summary": "Försenad på väg hem från jobbet på advokatfirman blir Per dubbad till ny tomte och skickas till Nordpolen. Där börjar årets julkalender ”Den ofrivillige tomten”. – Tomteskapet och den magiska Nordpolen blir en kontrast till vanligheten, säger Hampus Nessvold.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hampus Nessvold on SVT's Christmas calendar: \"Really tough format\"",
-        "summary": "Delayed on the way home from work at a law firm, Per is dubbed the new Santa and sent to the North Pole. There, this year's Christmas calendar \"The Reluctant Santa\" begins. \"The Santa role and the magical North Pole will be a contrast to ordinariness,\" says Hampus Nessvold."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T19:01:24+01:00"
-      }
-    },
-    {
-      "id": "4fe2da6a4180",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/darfor-kommer-gen-z-att-alska-robert-pattinson-som-nya-james-bond",
-      "guid": "a5f4cc90-6970-4fef-b8d1-ad0f2b2c29c7",
-      "published_at": "2026-11-16T18:56:00+01:00",
-      "fetched_at": "2026-11-16T19:01:18+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/a0388174-69f1-437e-961e-1fc11fde48f7.jpeg?width=600",
-      "sv": {
-        "title": "Därför kommer Gen Z att älska Robert Pattinson som nya James Bond",
-        "summary": "Spekulationerna har pågått länge, och nu är det klart vem som ska spela Agent 007. Det blev en vampyr.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Why Gen Z will love Robert Pattinson as the new James Bond",
-        "summary": "Speculation has been going on for a long time, and now it is clear who will play Agent 007. It turned out to be a vampire."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T19:01:24+01:00"
       }
     }
   ]

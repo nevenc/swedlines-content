@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T13:16:06+01:00",
+  "generated_at": "2026-11-19T13:31:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9ac16475c009",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/intensivt-lage-i-utredningen-om-kryptoranet",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/intensivt-lage-i-utredningen-om-kryptoranet",
+      "published_at": "2026-11-19T13:27:11+01:00",
+      "fetched_at": "2026-11-19T13:31:00+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Intensivt läge i utredningen om kryptorånet",
+        "summary": "Det finns ännu inga misstänkta till det grova rånet mot två personer i Tenhult natten till onsdag. Polisen uppger att det är i ett intensivt läge.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Intensive phase in crypto robbery investigation",
+        "summary": "No suspects have been identified yet in the aggravated robbery of two people in Tenhult during the night to Wednesday. Police say the investigation is in an intensive phase."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:31:19+01:00"
+      }
+    },
     {
       "id": "0127be966720",
       "schema_version": 1,
@@ -451,6 +477,42 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T10:31:11+01:00"
+      }
+    },
+    {
+      "id": "0577a30668bb",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/krim/misstankt-farligt-foremal-i-vidkarr.68764503-f4ff-5c35-adc9-14773819e8b5",
+      "guid": "68764503-f4ff-5c35-adc9-14773819e8b5",
+      "published_at": "2026-11-19T10:18:56+01:00",
+      "fetched_at": "2026-11-19T13:31:06+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Krim",
+        "Tagg: breaking-GP",
+        "Tagg: Just nu",
+        "Tagg: Nationella bombskyddet",
+        "Tagg: Polisen",
+        "Tagg: Göteborg",
+        "Tagg: Larm"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/7e1e359a-1d96-314c-8bde-83f3ee1b692d",
+      "sv": {
+        "title": "Misstänkt farligt föremål i Vidkärr var ofarligt",
+        "summary": "Bombskyddet kallades in • Boende uppmanades hålla sig borta från fönster.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspicious object in Vidkärr was harmless",
+        "summary": "The bomb disposal unit was called in • Residents were urged to stay away from windows."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:31:19+01:00"
       }
     },
     {
@@ -5300,58 +5362,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T06:01:32+01:00"
-      }
-    },
-    {
-      "id": "68f7f311bb86",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/smaland/larmet-tioaringar-rekryteras-till-kriminella-natverk-i-vaxjo",
-      "guid": "https://www.svt.se/nyheter/lokalt/smaland/larmet-tioaringar-rekryteras-till-kriminella-natverk-i-vaxjo",
-      "published_at": "2026-11-16T05:30:06+01:00",
-      "fetched_at": "2026-11-16T05:45:35+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Larmet – tioåringar rekryteras till kriminella nätverk i Växjö",
-        "summary": "Allt yngre barn identifierats i kriminella nätverk i Växjö. Kommunen beskriver situationen som allvarlig och varnar för en aktiv rekrytering av yngre barn – en bild som delas av polisen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Alarm – ten-year-olds recruited into criminal networks in Växjö",
-        "summary": "Ever younger children have been identified in criminal networks in Växjö. The municipality describes the situation as serious and warns of active recruitment of younger children – a picture shared by the police."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T05:45:47+01:00"
-      }
-    },
-    {
-      "id": "8356f1bc1801",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/smaland/lina-forsokte-stoppa-sonen-fran-gangen-han-domdes-for-mordplaner",
-      "guid": "https://www.svt.se/nyheter/lokalt/smaland/lina-forsokte-stoppa-sonen-fran-gangen-han-domdes-for-mordplaner",
-      "published_at": "2026-11-16T05:30:06+01:00",
-      "fetched_at": "2026-11-16T05:45:35+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Lina försökte stoppa sonen från gängen – han dömdes för mordplaner",
-        "summary": "Lina letade efter sin son på nätterna, kontrollerade vilka han umgicks med och sökte hjälp hos socialtjänsten. Hon gjorde allt hon kunde för att hindra honom från att dras in i kriminalitet. Trots det dömdes sonen senare för förberedelse till mord och grovt vapenbrott.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lina tried to keep her son away from the gangs – he was convicted of murder plotting",
-        "summary": "Lina searched for her son at night, checked who he spent time with and sought help from social services. She did everything she could to stop him being drawn into crime. Despite this, her son was later convicted of preparation for murder and aggravated weapons offence."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T05:45:47+01:00"
       }
     }
   ]

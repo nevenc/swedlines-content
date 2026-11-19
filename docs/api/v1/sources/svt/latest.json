@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T13:16:06+01:00",
+  "generated_at": "2026-11-19T13:31:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9ac16475c009",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/intensivt-lage-i-utredningen-om-kryptoranet",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/intensivt-lage-i-utredningen-om-kryptoranet",
+      "published_at": "2026-11-19T13:27:11+01:00",
+      "fetched_at": "2026-11-19T13:31:00+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Intensivt läge i utredningen om kryptorånet",
+        "summary": "Det finns ännu inga misstänkta till det grova rånet mot två personer i Tenhult natten till onsdag. Polisen uppger att det är i ett intensivt läge.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Intensive phase in crypto robbery investigation",
+        "summary": "No suspects have been identified yet in the aggravated robbery of two people in Tenhult during the night to Wednesday. Police say the investigation is in an intensive phase."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:31:19+01:00"
+      }
+    },
     {
       "id": "6f64e64d9ec6",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "43d9341abd2e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/330-miljoner-till-satsning-pa-biogasfabrik-i-norrkoping",
-      "guid": "https://www.svt.se/nyheter/lokalt/ost/330-miljoner-till-satsning-pa-biogasfabrik-i-norrkoping",
-      "published_at": "2026-11-13T11:42:19+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "330 miljoner till satsning på biogasfabrik i Norrköping",
-        "summary": "Lantmännen planerar att bygga Sveriges största biogasanläggning på Händelö i Norrköping. Nu har Naturvårdsverket beviljat 330 miljoner kronor i investeringsstöd genom Klimatklivet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "SEK 330 million for biogas plant investment in Norrköping",
-        "summary": "Lantmännen plans to build Sweden's largest biogas plant at Händelö in Norrköping. The Swedish Environmental Protection Agency has now granted SEK 330 million in investment support through Klimatklivet."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
       }
     }
   ]

@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-19T13:16:06+01:00",
+  "generated_at": "2026-11-19T13:31:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6a91ad94701c",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/kaj-ar-var-tids-galenskaparna.d1fc46a4-d88b-57eb-9a70-be0ace65200c",
+      "guid": "d1fc46a4-d88b-57eb-9a70-be0ace65200c",
+      "published_at": "2026-11-19T13:13:07+01:00",
+      "fetched_at": "2026-11-19T13:31:06+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: KAJ (humorgrupp)",
+        "Tagg: Finland",
+        "Tagg: Bastu"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/6e56726f-2154-3a97-a8f2-c940c0b46ea9",
+      "sv": {
+        "title": "Kaj är vår tids Galenskaparna",
+        "summary": "Nu spelar den österbottniska trion i Göteborg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kaj is our era's Galenskaparna",
+        "summary": "Now the Ostrobothnian trio performs in Göteborg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:31:19+01:00"
+      }
+    },
     {
       "id": "365f6bb92089",
       "schema_version": 1,
@@ -306,6 +339,42 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T11:01:27+01:00"
+      }
+    },
+    {
+      "id": "0577a30668bb",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/krim/misstankt-farligt-foremal-i-vidkarr.68764503-f4ff-5c35-adc9-14773819e8b5",
+      "guid": "68764503-f4ff-5c35-adc9-14773819e8b5",
+      "published_at": "2026-11-19T10:18:56+01:00",
+      "fetched_at": "2026-11-19T13:31:06+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Krim",
+        "Tagg: breaking-GP",
+        "Tagg: Just nu",
+        "Tagg: Nationella bombskyddet",
+        "Tagg: Polisen",
+        "Tagg: Göteborg",
+        "Tagg: Larm"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/7e1e359a-1d96-314c-8bde-83f3ee1b692d",
+      "sv": {
+        "title": "Misstänkt farligt föremål i Vidkärr var ofarligt",
+        "summary": "Bombskyddet kallades in • Boende uppmanades hålla sig borta från fönster.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspicious object in Vidkärr was harmless",
+        "summary": "The bomb disposal unit was called in • Residents were urged to stay away from windows."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:31:19+01:00"
       }
     },
     {
@@ -6816,74 +6885,6 @@
       "en": {
         "title": "Born and raised in Estonia – yet they are Russian",
         "summary": "Julia and Veronika's home town is named as Putin's next front."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:52+01:00"
-      }
-    },
-    {
-      "id": "9545e15e0d22",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/ekonomi/forslaget-sa-ska-ditt-elpris-sankas-losningen-fran-toppmotet-i-goteborg.8fa2160d-3b96-5ba0-8f19-a239e5bd4ce5",
-      "guid": "8fa2160d-3b96-5ba0-8f19-a239e5bd4ce5",
-      "published_at": "2026-11-14T06:04:21+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Ekonomi",
-        "Tagg: Alexander Stubb",
-        "Tagg: Jacob Wallenberg",
-        "Tagg: Carl Bennet",
-        "Tagg: Göteborg",
-        "Tagg: Elpris"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/74b74a03-3f91-3d2d-b040-00b6059dcb6d",
-      "sv": {
-        "title": "Topparnas lista: Så ska elen bli billigare",
-        "summary": "Planerar enorma vindkraftparker • Planen för att göra Norden starkare.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Top experts' list: This is how electricity will get cheaper",
-        "summary": "Plans for enormous wind power parks • The plan to make the Nordics stronger."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:52+01:00"
-      }
-    },
-    {
-      "id": "cb77fef8d948",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/storgoteborg/kommunen-ger-bort-gratis-paviljong-den-som-kan-hamta-forst-far-den.3426303b-42ee-5de3-abaa-d594cdc06b64",
-      "guid": "3426303b-42ee-5de3-abaa-d594cdc06b64",
-      "published_at": "2026-11-14T06:01:23+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Storgöteborg",
-        "Tagg: Ale",
-        "Tagg: VITA FLÄCKAR Ale",
-        "Tagg: Samhällsredaktionen"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/a0917c59-545a-3383-a3d0-5ce9416a6873",
-      "sv": {
-        "title": "Kommunen ger bort gratis byggnad: ”Den som kan hämta först får den”",
-        "summary": "Ett komplett kök, duschar, toaletter och 285 kvadratmeter extra utrymme. Prislappen? Noll kronor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Municipality gives away free building: \"Whoever can collect it first gets it\"",
-        "summary": "A complete kitchen, showers, toilets and 285 square metres of extra space. The price tag? Zero kronor."
       },
       "translation": {
         "status": "done",
