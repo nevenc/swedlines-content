@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T16:16:02+01:00",
+  "generated_at": "2026-11-19T16:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e722916edd60",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/langdskidor/har-ar-detaljen-som-frida-karlsson-slipat-pa-varit-en-utmaning",
+      "guid": "https://www.svt.se/sport/langdskidor/har-ar-detaljen-som-frida-karlsson-slipat-pa-varit-en-utmaning",
+      "published_at": "2026-11-19T16:17:23+01:00",
+      "fetched_at": "2026-11-19T16:30:59+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Här är detaljen som Frida Karlsson slipat på: ”Varit en utmaning”",
+        "summary": "Succé i fjol med dubbla OS-guld. Men den här säsongen ska Frida Karlsson vara ännu bättre – och det är en specifik detalj som ska lyfta henne. – Det har varit en utmaning för mig, säger Frida Karlsson till SVT Sport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here is the detail Frida Karlsson has worked on: \"It has been a challenge\"",
+        "summary": "Success last year with two Olympic golds. But this season Frida Karlsson is set to be even better – and a specific detail is set to lift her. \"It has been a challenge for me,\" Frida Karlsson tells SVT Sport."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:31:09+01:00"
+      }
+    },
     {
       "id": "724938c76a9c",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Swedish man arrested in Jordan",
         "summary": "An internationally wanted Swedish man has been arrested in Jordan, police write on their website. He is said to have been arrested on 12 November and is suspected of, among other things, instigating aggravated weapons offences and conspiracy to cause devastation endangering the public."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "7b716309da50",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/hyllar-alex-annars-hade-jag-haft-en-lastbil-i-butiken",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/hyllar-alex-annars-hade-jag-haft-en-lastbil-i-butiken",
-      "published_at": "2026-11-13T16:27:03+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Hyllar Alex: ”Annars hade jag haft en lastbil i butiken”",
-        "summary": "Efter torsdagens händelse där en lastbil med en misstänkt drogpåverkad förare körde in på gågatan i centrala Jönköping så är det många som hyllar Alex Jacobsson som lyckades stoppa chauffören. – Jag känner en enorm tacksamhet att han agerade, säger Ellinore Nydahl.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Praise for Alex: 'Otherwise I would have had a lorry in the shop'",
-        "summary": "After Thursday's incident in which a lorry with a driver suspected of being under the influence of drugs drove onto the pedestrian street in central Jönköping, many are praising Alex Jacobsson, who managed to stop the driver. – I feel enormous gratitude that he acted, says Ellinore Nydahl."
       },
       "translation": {
         "status": "done",

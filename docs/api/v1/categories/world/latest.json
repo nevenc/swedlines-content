@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T16:16:02+01:00",
+  "generated_at": "2026-11-19T16:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "408cbc40a541",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/putin-europeiska-foretradare-valkomna-till-moskva",
+      "guid": "https://www.dn.se/varlden/putin-europeiska-foretradare-valkomna-till-moskva/",
+      "published_at": "2026-11-19T16:27:44+01:00",
+      "fetched_at": "2026-11-19T16:31:00+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/cda50e0d-a741-4fbd-80af-c9fb48d5b6e5.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Putin: Europeiska företrädare välkomna till Moskva",
+        "summary": "Vladimir Putin öppnar för att bjuda in europeiska företrädare till Moskva – men bara för att diskutera om de ska medverka vid fortsatta samtal om Ukrainakriget. Samtidigt anklagar han Europa för att ägna sig åt ”politisk diarré” genom att prata om attacker mot Europa.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Putin: European representatives welcome in Moscow",
+        "summary": "Vladimir Putin is open to inviting European representatives to Moscow – but only to discuss whether they should take part in further talks about the war in Ukraine. At the same time, he accuses Europe of engaging in \"political diarrhoea\" by talking about attacks on Europe."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:31:09+01:00"
+      }
+    },
     {
       "id": "34264d117d8e",
       "schema_version": 1,
@@ -5311,32 +5338,6 @@
       "en": {
         "title": "Max Hjelm: This is the election that should worry all Europeans",
         "summary": "France is not only divided, but also battered. It could get worse with next year's presidential election."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T19:31:23+01:00"
-      }
-    },
-    {
-      "id": "ebfbf42e7770",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/dronare-mot-moldaviens-huvudstad-luftrum-stangt",
-      "guid": "26121372-1334-4bce-8dfe-8bcaa7c9f6c0",
-      "published_at": "2026-11-17T19:26:23+01:00",
-      "fetched_at": "2026-11-17T19:31:17+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Drönare mot Moldaviens huvudstad – luftrum stängt",
-        "summary": "Moldaviens luftrum är av säkerhetsskäl stängt sedan en drönare på väg mot huvudstaden Chisinau upptäckts.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Drone toward Moldova's capital – airspace closed",
-        "summary": "Moldova's airspace has been closed for security reasons since a drone heading toward the capital Chisinau was detected."
       },
       "translation": {
         "status": "done",

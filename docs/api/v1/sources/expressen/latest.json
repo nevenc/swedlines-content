@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-19T16:16:02+01:00",
+  "generated_at": "2026-11-19T16:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a75646e12ad0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/sd-kan-sabotera-centerns-schack",
+      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/sd-kan-sabotera-centerns-schack/",
+      "published_at": "2026-11-19T16:16:17+01:00",
+      "fetched_at": "2026-11-19T16:31:01+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "SD kan sabotera Centerns schack",
+        "summary": "Centerpartiet försöker utnyttja sin hand som vågmästare maximalt. Möjligen är man på väg att överspela den.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SD could sabotage the Centre Party's chess game",
+        "summary": "The Centre Party is trying to make maximum use of its hand as kingmaker. It may be on the verge of overplaying it."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:31:09+01:00"
+      }
+    },
+    {
+      "id": "5c1bec0beaff",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/centerfalangens-plan--da-blir-det-kristersson",
+      "guid": "https://www.expressen.se/nyheter/politik/centerfalangens-plan--da-blir-det-kristersson/",
+      "published_at": "2026-11-19T16:15:41+01:00",
+      "fetched_at": "2026-11-19T16:31:01+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Centerfalangens plan: Då blir det Kristersson",
+        "summary": "Centerpartisterna som vill se Ulf Kristersson som statsminister har inte gett upp, trots att partiet valde Magdalena Anderssons totalpaket. Nu vill de att S-ledaren prövas – och faller – i den tredje statsministeromröstningen för att återigen bana väg högerut, erfar Expressen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre faction's plan: then it will be Kristersson",
+        "summary": "Centre Party members who want to see Ulf Kristersson (M) as prime minister have not given up, even though the party chose Magdalena Andersson's package deal. Now they want the Social Democrat leader to be tested – and to fail – in the third prime minister vote in order to again pave the way to the right, Expressen learns."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:31:09+01:00"
+      }
+    },
     {
       "id": "1506a9fc1ad4",
       "schema_version": 1,
@@ -5139,58 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T08:15:47+01:00"
-      }
-    },
-    {
-      "id": "4079a34d8a93",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/statsvetaren-c-haller-dorren-at-hoger-oppen",
-      "guid": "https://www.expressen.se/nyheter/politik/statsvetaren-c-haller-dorren-at-hoger-oppen/",
-      "published_at": "2026-11-16T08:07:17+01:00",
-      "fetched_at": "2026-11-16T08:15:40+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Statsvetaren: C håller dörren åt höger öppen",
-        "summary": "Låsningen mellan C och V består. Statsvetaren Andreas Johansson Heinö tror inte att S-ledaren Magdalena Andersson kan ge V stora politiska eftergifter för att hålla partiet utanför regeringen – eftersom C kan gå högerut. – C är splittrat.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Political scientist: C leaves the door open to the right",
-        "summary": "The lock-in between C and V persists. Political scientist Andreas Johansson Heinö does not believe that Social Democrat leader Magdalena Andersson can make major political concessions to V to keep the party out of government – because C may move rightward. – C is split."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T08:15:47+01:00"
-      }
-    },
-    {
-      "id": "59f154287471",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/ryska-bolag-sparar-svenskar-via-eniro-och-familjeliv",
-      "guid": "https://www.expressen.se/nyheter/sverige/ryska-bolag-sparar-svenskar-via-eniro-och-familjeliv/",
-      "published_at": "2026-11-16T07:47:20+01:00",
-      "fetched_at": "2026-11-16T08:01:12+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "Ryskt bolag spårar svenskar via Eniro och Familjeliv",
-        "summary": "Ett ryskt techbolag samlar in information om svenska internetanvändare via hundratals svenska webbplatser. Bland sajterna finns Eniro, Hitta.se, Ratsit, Familjeliv och flera nyhetsmedier, skriver Dagens Nyheter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russian company tracks Swedes via Eniro and Familjeliv",
-        "summary": "A Russian tech company is collecting information about Swedish internet users through hundreds of Swedish websites. The sites include Eniro, Hitta.se, Ratsit, Familjeliv and several news media, Dagens Nyheter reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T08:01:18+01:00"
       }
     }
   ]

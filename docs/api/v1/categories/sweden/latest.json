@@ -1,7 +1,89 @@
 {
-  "generated_at": "2026-11-19T16:16:02+01:00",
+  "generated_at": "2026-11-19T16:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f509c89b240c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/styret-tillsynen-av-fristaende-forskolor-ska-skotas-battre",
+      "guid": "cf9a4afe-cf1a-4e27-9090-ba007e8d013a",
+      "published_at": "2026-11-19T16:30:00+01:00",
+      "fetched_at": "2026-11-19T16:31:03+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Styret: Tillsynen av fristående förskolor ska skötas bättre",
+        "summary": "Lunds kommun har en tillsynsskuld att hantera som i huvudsak är en rest från pandemiåren. Vi kommer inom kort att återkomma med ett förslag på hur tillsynen hanteras på ett bättre sätt än idag.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Board: Supervision of independent preschools must improve",
+        "summary": "Lund Municipality has a supervision backlog to deal with, which is largely a remnant of the pandemic years. We will shortly come back with a proposal on how supervision can be handled better than today."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:31:09+01:00"
+      }
+    },
+    {
+      "id": "f2c3444a6c00",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/influensasasongen-igang-aven-covid-okar",
+      "guid": "https://www.dn.se/sverige/influensasasongen-igang-aven-covid-okar/",
+      "published_at": "2026-11-19T16:25:26+01:00",
+      "fetched_at": "2026-11-19T16:31:00+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/043cc5ae-9111-4b52-9bc5-8e371e59c219.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Influensasäsongen igång – även covid ökar",
+        "summary": "Influensasäsongen har startat tidigt i år, konstaterar Folkhälsomyndigheten. Även fallen av covid-19 ökar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Influenza season under way – Covid also rising",
+        "summary": "The influenza season has started early this year, the Public Health Agency notes. Cases of Covid-19 are also rising."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:31:09+01:00"
+      }
+    },
+    {
+      "id": "381766fdc4b3",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2v9OvNluJ2QJKdoo3ifukL/foeraeldrarnas-ilska-vill-avsaetta-skolledningen-goer-allt-de-kan",
+      "guid": "2v9OvNluJ2QJKdoo3ifukL",
+      "published_at": "2026-11-19T16:19:34+01:00",
+      "fetched_at": "2026-11-19T16:31:02+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Föräldrarnas ilska – vill avsätta skolledningen: ”Gör allt de kan”",
+        "summary": "Kritiken växer efter åtalet mot sex elever • Källa: ”Det är bara ytan”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Parents' anger – want to remove school management: \"Doing everything they can\"",
+        "summary": "Criticism is growing after charges against six pupils • Source: \"It's just the surface\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:31:09+01:00"
+      }
+    },
     {
       "id": "7537f412d020",
       "schema_version": 1,
@@ -5316,93 +5398,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T17:01:20+01:00"
-      }
-    },
-    {
-      "id": "9071644f429f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/lund-har-usel-koll-pa-fristaende-forskolor",
-      "guid": "bba79222-1295-4d33-958d-f7feb7e48e78",
-      "published_at": "2026-11-16T16:00:00+01:00",
-      "fetched_at": "2026-11-16T16:16:03+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/bc356c70-9a54-4f22-8826-7d04bfe1ac42.jpeg?width=600",
-      "sv": {
-        "title": "Åtta förskolor har inte kontrollerats på tio år – upptäcktes i rutinkontroll",
-        "summary": "Mer än vart fjärde förskolebarn i Lunds kommun går på en fristående förskola. Förskolorna får en kvarts miljard i skattepengar om året – men kommunen har inte koll på deras verksamhet. Åtta av förskolorna har inte kontrollerats på tio år.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Eight preschools have not been inspected in ten years – found in routine check",
-        "summary": "More than every fourth preschool child in Lund Municipality attends an independent preschool. The preschools receive a quarter billion in taxpayer money per year – but the municipality does not have control of their operations. Eight of the preschools have not been inspected in ten years."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:16:22+01:00"
-      }
-    },
-    {
-      "id": "ae7da0c7aed0",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/fyra-personer-bor-i-radhuset-och-stadshuset.2c5b15b5-a469-52c8-960c-76192b33e36c",
-      "guid": "2c5b15b5-a469-52c8-960c-76192b33e36c",
-      "published_at": "2026-11-16T14:35:47+01:00",
-      "fetched_at": "2026-11-16T15:06:26+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: breaking-GP",
-        "Tagg: Folkbokföring",
-        "Tagg: Göteborg"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/b0027a31-c224-3aff-83b2-aff0a0ff408c",
-      "sv": {
-        "title": "Fyra personer ”bor” i rådhuset och stadshuset i Göteborg",
-        "summary": "Trots att både rådhuset och stadshuset saknar bostäder har fyra personer under 2026 folkbokfört sig i byggnaderna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Four people 'live' in Göteborg's city hall and town hall",
-        "summary": "Although neither the city hall nor the town hall has housing, four people registered their residence at the buildings during 2026."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:06:30+01:00"
-      }
-    },
-    {
-      "id": "61a071b361c8",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/kMJwoj/familjen-mukka-i-lulea-forlorade-allt-nar-villan-brann-ned",
-      "guid": "https://www.aftonbladet.se/nyheter/a/kMJwoj/familjen-mukka-i-lulea-forlorade-allt-nar-villan-brann-ned?utm_medium=rss",
-      "published_at": "2026-11-16T14:27:56+01:00",
-      "fetched_at": "2026-11-16T14:31:06+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/4bb97786-ca37-3c6f-a7a2-e428a300a758?format=auto&s=9af48b236df05a5e3a6577f298512dcf6e298375&w=1000",
-      "sv": {
-        "title": "Familjen Mukkas hem totalförstördes i branden: ”Fruktansvärt”",
-        "summary": "Stan sluter upp: ”Blir jätterörd”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Familjen Mukkas home destroyed in the fire: \"Terrible\"",
-        "summary": "Stan steps in: \"Am extremely upset\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:31:14+01:00"
       }
     }
   ]
