@@ -1,7 +1,174 @@
 {
-  "generated_at": "2026-11-19T21:15:59+01:00",
+  "generated_at": "2026-11-19T21:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0784ef458ac5",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=075cc82f-89ea-4950-9c8a-abf66cb9e073",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=075cc82f-89ea-4950-9c8a-abf66cb9e073",
+      "published_at": "2026-11-19T21:27:19+01:00",
+      "fetched_at": "2026-11-19T21:30:59+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Norwegian hackat – ber kunder spärra betalkort",
+        "summary": "Ber resenärer spärra sina betalkort",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegian hacked – urges customers to block payment cards",
+        "summary": "Urges travellers to block their payment cards"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:31:06+01:00"
+      }
+    },
+    {
+      "id": "21d28dfa78df",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/7P0Jq9/usa-ryssland-bekvamt-med-nato-liknande-garantier",
+      "guid": "https://www.aftonbladet.se/nyheter/a/7P0Jq9/usa-ryssland-bekvamt-med-nato-liknande-garantier?utm_medium=rss",
+      "published_at": "2026-11-19T21:19:25+01:00",
+      "fetched_at": "2026-11-19T21:30:59+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/2cea7cee-358e-3df4-8708-44948ffa23ca?format=auto&s=9ef9fd873db1d1ba48c4a43ada3639cc0ab2bc65&w=1000",
+      "sv": {
+        "title": "USA: Ryssland ”bekvämt” med Nato-liknande garantier",
+        "summary": "Donald Trumps svärson, sändebudet Jared Kushner, hävdar att Ryssland verkar vara berett att…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "USA: Russia “comfortable” with NATO-like guarantees",
+        "summary": "Donald Trump's son-in-law, envoy Jared Kushner, claims that Russia appears to be ready to…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:31:06+01:00"
+      }
+    },
+    {
+      "id": "58114583f23c",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/ekonomi/underleverantor-till-volvo-varslar-100-personer.f8115d72-cd70-5bfb-8cb8-89a054102e19",
+      "guid": "f8115d72-cd70-5bfb-8cb8-89a054102e19",
+      "published_at": "2026-11-19T21:18:30+01:00",
+      "fetched_at": "2026-11-19T21:31:00+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi",
+        "Tagg: Volvo",
+        "Tagg: Volvo Cars",
+        "Tagg: breaking-GP",
+        "Tagg: Torslanda",
+        "Tagg: Uppsägningar"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/9bb04ec8-c178-39bb-b777-8d49140339c5",
+      "sv": {
+        "title": "Volvo Cars underleverantör varslar 100 anställda",
+        "summary": "Bolaget: ”Omfattar cirka 100 tjänster vid anläggningen i Torslanda”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Volvo Cars supplier gives notice to 100 employees",
+        "summary": "The company: “Covers about 100 positions at the Torslanda facility”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:31:06+01:00"
+      }
+    },
+    {
+      "id": "b8e54676095c",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/johanna-franden-michel-houellebecqs-spekulationer-om-hur-fransman-ser-pa-muslimer-ar-knappast",
+      "guid": "https://www.dn.se/kultur/johanna-franden-michel-houellebecqs-spekulationer-om-hur-fransman-ser-pa-muslimer-ar-knappast/",
+      "published_at": "2026-11-19T21:18:22+01:00",
+      "fetched_at": "2026-11-19T21:30:58+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/eceab949-996f-488b-8ff2-5ddee8b2c4e6.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Johanna Frändén: Michel Houellebecqs spekulationer om hur fransmän ser på muslimer är knappast brottsliga",
+        "summary": "Den franske stjärnförfattaren Michel Houellebecq återkommer i sina romaner till idén att det pågår en komplott mot det ”vita” Frankrike. Oavsett om han själv tror på det han skriver kan konspirationsteorierna flytta in i Elyséepalatset till våren, om Marine Le Pen vinner presidentvalet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Johanna Frändén: Michel Houellebecq's speculations about how the French view Muslims are hardly criminal",
+        "summary": "The French literary star Michel Houellebecq returns in his novels to the idea that a conspiracy is under way against a “white” France. Whether or not he himself believes what he writes, the conspiracy theories could move into the Élysée Palace in the spring, if Marine Le Pen wins the presidential election."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:31:06+01:00"
+      }
+    },
+    {
+      "id": "8ecac009509f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jamtland/over-2000-hushall-utan-elstrom-i-jamtland",
+      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/over-2000-hushall-utan-elstrom-i-jamtland",
+      "published_at": "2026-11-19T21:17:28+01:00",
+      "fetched_at": "2026-11-19T21:30:57+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Över 2000 hushåll utan elström i Jämtland",
+        "summary": "Drygt 2000 elkunder hos Jämtkraft har varit utan elström sedan 21-tiden, skriver P4 Jämtland.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Over 2,000 households without power in Jämtland",
+        "summary": "Just over 2,000 electricity customers of Jämtkraft have been without power since around 9 pm, P4 Jämtland reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:31:06+01:00"
+      }
+    },
+    {
+      "id": "d75bcd370893",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/19-november-missa-inte-dagens-nyheter",
+      "guid": "https://www.dn.se/varlden/19-november-missa-inte-dagens-nyheter/",
+      "published_at": "2026-11-19T21:16:51+01:00",
+      "fetched_at": "2026-11-19T21:30:58+01:00",
+      "category": "other",
+      "sv": {
+        "title": "19 november: Missa inte dagens nyheter",
+        "summary": "Historiskt domslut om folkmord, SD-ledningen kände till larmen och Sigtunaelever åtalas för övergrepp – här är nyheterna du inte får missa från dagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "19 November: Don't miss today's news",
+        "summary": "Landmark genocide ruling, SD leadership knew of the alarms and Sigtuna pupils charged with abuse – here is the news you must not miss from today."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:31:06+01:00"
+      }
+    },
     {
       "id": "8760ee4d8ff7",
       "schema_version": 1,
@@ -134,6 +301,49 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "fb9bd5e733cc",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/ungdomsprotesterna-kommer-till-sverige.3a067bc6-d9cb-5fa7-aba6-543881891110",
+      "guid": "3a067bc6-d9cb-5fa7-aba6-543881891110",
+      "published_at": "2026-11-19T21:06:47+01:00",
+      "fetched_at": "2026-11-19T21:31:00+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: Demonstration",
+        "Tagg: Generation Z",
+        "Tagg: Unga vuxna",
+        "Tagg: Arbetsbrist",
+        "Tagg: Bostadsbrist",
+        "Tagg: Privatisering",
+        "Tagg: Skola & utbildning",
+        "Tagg: Värnplikt",
+        "Tagg: Krig",
+        "Tagg: Klimathotet",
+        "Tagg: Klimat- och hållbarhetsfrågan",
+        "Tagg: Greta Thunberg",
+        "Tagg: Europa"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/87af5ff5-b241-364c-8df1-7a5c8bf661c5",
+      "sv": {
+        "title": "Gen Z protesterar för att boomers roffat åt sig",
+        "summary": "Fyra brutna löften förklarar de ungas frustration – även i Sverige.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gen Z protests against boomers grabbing everything for themselves",
+        "summary": "Four broken promises explain young people's frustration – including in Sweden."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:31:06+01:00"
       }
     },
     {
@@ -5208,199 +5418,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T16:16:01+01:00"
-      }
-    },
-    {
-      "id": "39233dd4c3c5",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/kallor-tsmc-skarper-restriktioner-for-kinesiska-ai-chipbolag",
-      "guid": "015884a9-e4a7-45c8-b78f-17104314f065",
-      "published_at": "2026-11-19T16:06:21+01:00",
-      "fetched_at": "2026-11-19T16:15:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Källor: TSMC skärper restriktioner för kinesiska AI-chipbolag",
-        "summary": "Taiwanesiska halvledarjätten TSMC skärper restriktionerna för kinesiska chiputvecklare efter att nya amerikanska exportregler trätt i kraft. Det rapporterar Reuters med hänvisning till två insatta källor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sources: TSMC tightens restrictions on Chinese AI chip firms",
-        "summary": "Taiwanese semiconductor giant TSMC is tightening restrictions on Chinese chip developers after new US export rules took effect. Reuters reports, citing two informed sources."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:16:01+01:00"
-      }
-    },
-    {
-      "id": "fe8749fdf3c4",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/clavicular-atalas-for-valdtakt",
-      "guid": "13a99344-f7cf-4455-ba11-15bee0428075",
-      "published_at": "2026-11-19T16:06:15+01:00",
-      "fetched_at": "2026-11-19T16:15:49+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/3e691f8a-deac-4ad4-abb2-76902e6d5c63.jpg?width=600",
-      "sv": {
-        "title": "Clavicular åtalas för våldtäkt",
-        "summary": "Influeraren Clavicular åtalas för två fall av våldtäkt, rapporterar TMZ.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Clavicular charged with rape",
-        "summary": "Influencer Clavicular is charged with two counts of rape, TMZ reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:16:01+01:00"
-      }
-    },
-    {
-      "id": "3e45e40fcbbe",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/jag-vantar-mig-magi-och-fara-men-pa-premiaren-kanns-satans-bal-mer-som-sallskapsresan",
-      "guid": "ad5f70a6-fb97-4dc1-b1a9-a9ea0efc2566",
-      "published_at": "2026-11-19T15:59:09+01:00",
-      "fetched_at": "2026-11-19T16:01:30+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/af0db85f-4ec3-4d0a-aefb-fc73878efa8f.png?width=600",
-      "sv": {
-        "title": "Jag väntar mig magi och fara men på premiären känns Satans bal mer som ”Sällskapsresan”",
-        "summary": "När balen i ”Mästaren och Margarita” tar plats på Lilith Performance Studio når konceptet inte hela vägen. Föreställningen glimmar dock till när det serveras lammhjärta, skriver Tor Billgren.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "I expect magic and danger, but at the premiere Satan's Ball feels more like \"Sällskapsresan\"",
-        "summary": "As the ball in \"Mästaren och Margarita\" takes place at Lilith Performance Studio, the concept does not go all the way. The production does shine when lamb heart is served, writes Tor Billgren."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:01:34+01:00"
-      }
-    },
-    {
-      "id": "e8f5cc426ccf",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/nobas-teknikchef-har-salt-aktier-for-1-4-miljoner",
-      "guid": "9b8627eb-fa08-4f16-be16-430a32118ef6",
-      "published_at": "2026-11-19T15:58:14+01:00",
-      "fetched_at": "2026-11-19T16:15:48+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/3c678df8-a70c-4f34-b3d9-27e53b058a12.jpeg?width=600",
-      "sv": {
-        "title": "Nobas teknikchef har sålt aktier för 1,4 miljoner",
-        "summary": "Nobas teknikchef har i tre affärer sålt 15.000 aktier i banken för totalt drygt 1,4 miljoner kronor. Det framgår av Finansinspektionens insynsregister.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nobas technology chief has sold shares for SEK 1.4 million",
-        "summary": "Nobas's technology chief has in three transactions sold 15,000 shares in the bank for a total of just over SEK 1.4 million. This is according to the Financial Supervisory Authority's insider register."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:16:01+01:00"
-      }
-    },
-    {
-      "id": "57c0eff1c228",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/gais/gais-besked-stjarnan-har-opererats-duon-missar-resten-av-sasongen.4f951f7e-4812-5694-947b-6d4290fa3801",
-      "guid": "4f951f7e-4812-5694-947b-6d4290fa3801",
-      "published_at": "2026-11-19T15:57:50+01:00",
-      "fetched_at": "2026-11-19T16:31:02+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Gais",
-        "Tagg: Gais",
-        "Tagg: August Wängberg",
-        "Tagg: Fredrik Holmberg"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/8166ab95-abb3-3acb-b88a-cee80b8b9a60",
-      "sv": {
-        "title": "Gais-stjärnan opererad – missar avslutningen",
-        "summary": "Även försvarskuggen är borträknad från mer spel 2026.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Gais star operated on – misses the end of the season",
-        "summary": "The defensive cover is also ruled out of further play in 2026."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:31:09+01:00"
-      }
-    },
-    {
-      "id": "1493255d1fb2",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/burnham-sonderar-terrangen-for-breturn",
-      "guid": "0d29ae6a-31ff-426c-a4a5-9e8932d4d9fb",
-      "published_at": "2026-11-19T15:57:23+01:00",
-      "fetched_at": "2026-11-19T16:15:48+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b5ac47bc-f602-49dd-be61-c3bc27624091.jpeg?width=600",
-      "sv": {
-        "title": "Burnham sonderar terrängen för ”breturn”",
-        "summary": "Storbritanniens nye premiärminister Andy Burnham har talat varmt om ett fördjupat samarbete med EU. Men fredagens toppmöte i Bryssel riskerar att bli ett antiklimax, spår experter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Burnham sounds out terrain for “breturn”",
-        "summary": "UK's new prime minister Andy Burnham has spoken warmly about deeper cooperation with the EU. But Friday's summit in Brussels risks becoming an anticlimax, experts predict."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:16:01+01:00"
-      }
-    },
-    {
-      "id": "6e0f2068d229",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346113",
-      "guid": "rss:sr.se/article/9346113",
-      "published_at": "2026-11-19T15:56:00+01:00",
-      "fetched_at": "2026-11-19T16:01:25+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Édouard Philippe vill skapa ordning i Frankrike inför presidentvalet",
-        "summary": "Frankrikes tidigare premiärminister Édouard Philippe lanserar sin presidentkampanj med budskapet ”ordning och allvar” – och varnar för en akut ekonomisk kris om budgetunderskottet inte hanteras.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Édouard Philippe wants to bring order to France ahead of the presidential election",
-        "summary": "Former French prime minister Édouard Philippe launches his presidential campaign with the message \"order and seriousness\" – and warns of an acute economic crisis if the budget deficit is not addressed."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:01:34+01:00"
       }
     }
   ]

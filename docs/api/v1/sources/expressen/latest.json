@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T21:15:59+01:00",
+  "generated_at": "2026-11-19T21:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0784ef458ac5",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=075cc82f-89ea-4950-9c8a-abf66cb9e073",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=075cc82f-89ea-4950-9c8a-abf66cb9e073",
+      "published_at": "2026-11-19T21:27:19+01:00",
+      "fetched_at": "2026-11-19T21:30:59+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Norwegian hackat – ber kunder spärra betalkort",
+        "summary": "Ber resenärer spärra sina betalkort",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegian hacked – urges customers to block payment cards",
+        "summary": "Urges travellers to block their payment cards"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:31:06+01:00"
+      }
+    },
     {
       "id": "7e621476ddc4",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T12:45:53+01:00"
-      }
-    },
-    {
-      "id": "8190a9fb7f9b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/politik/svenska-ilskan-infor-eu-toppmotet",
-      "guid": "https://www.expressen.se/tv/politik/svenska-ilskan-infor-eu-toppmotet",
-      "published_at": "2026-11-16T12:20:25+01:00",
-      "fetched_at": "2026-11-16T12:31:15+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Svensk ilska – läxar upp Putin",
-        "summary": "Malmer Stenergard på toppmötet: ”Attackerar Europa”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish anger – lashes out at Putin",
-        "summary": "Malmer Stenergard at the summit: \"Attacking Europe\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:31:21+01:00"
       }
     }
   ]

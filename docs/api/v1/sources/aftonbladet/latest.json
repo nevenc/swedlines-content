@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T21:15:59+01:00",
+  "generated_at": "2026-11-19T21:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "21d28dfa78df",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/7P0Jq9/usa-ryssland-bekvamt-med-nato-liknande-garantier",
+      "guid": "https://www.aftonbladet.se/nyheter/a/7P0Jq9/usa-ryssland-bekvamt-med-nato-liknande-garantier?utm_medium=rss",
+      "published_at": "2026-11-19T21:19:25+01:00",
+      "fetched_at": "2026-11-19T21:30:59+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/2cea7cee-358e-3df4-8708-44948ffa23ca?format=auto&s=9ef9fd873db1d1ba48c4a43ada3639cc0ab2bc65&w=1000",
+      "sv": {
+        "title": "USA: Ryssland ”bekvämt” med Nato-liknande garantier",
+        "summary": "Donald Trumps svärson, sändebudet Jared Kushner, hävdar att Ryssland verkar vara berett att…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "USA: Russia “comfortable” with NATO-like guarantees",
+        "summary": "Donald Trump's son-in-law, envoy Jared Kushner, claims that Russia appears to be ready to…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:31:06+01:00"
+      }
+    },
     {
       "id": "79e375a53124",
       "schema_version": 1,
@@ -5348,33 +5375,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T10:01:55+01:00"
-      }
-    },
-    {
-      "id": "5a697d47bfdd",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/wdPvrM/byggde-skydd-mot-oversvamning-skarpt-lage-direkt",
-      "guid": "https://www.aftonbladet.se/nyheter/a/wdPvrM/byggde-skydd-mot-oversvamning-skarpt-lage-direkt?utm_medium=rss",
-      "published_at": "2026-11-17T06:15:12+01:00",
-      "fetched_at": "2026-11-17T06:30:57+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/2186a631-e1a0-39dd-891e-eb79cf2501bf?format=auto&s=42b959a3efc19a9cbfd0919571909cf027317048&w=1000",
-      "sv": {
-        "title": "Byggde skydd mot översvämning – skarpt läge direkt",
-        "summary": "Efter översvämningen 2000 bestämde sig Arvika kommun för att det aldrig skulle få hända igen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Built flood defences – now put to the test immediately",
-        "summary": "After the 2000 flood, Arvika municipality decided that it should never happen again."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:31:06+01:00"
       }
     }
   ]

@@ -1,7 +1,68 @@
 {
-  "generated_at": "2026-11-19T21:15:59+01:00",
+  "generated_at": "2026-11-19T21:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0784ef458ac5",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=075cc82f-89ea-4950-9c8a-abf66cb9e073",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=075cc82f-89ea-4950-9c8a-abf66cb9e073",
+      "published_at": "2026-11-19T21:27:19+01:00",
+      "fetched_at": "2026-11-19T21:30:59+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Norwegian hackat – ber kunder spärra betalkort",
+        "summary": "Ber resenärer spärra sina betalkort",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegian hacked – urges customers to block payment cards",
+        "summary": "Urges travellers to block their payment cards"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:31:06+01:00"
+      }
+    },
+    {
+      "id": "58114583f23c",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/ekonomi/underleverantor-till-volvo-varslar-100-personer.f8115d72-cd70-5bfb-8cb8-89a054102e19",
+      "guid": "f8115d72-cd70-5bfb-8cb8-89a054102e19",
+      "published_at": "2026-11-19T21:18:30+01:00",
+      "fetched_at": "2026-11-19T21:31:00+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi",
+        "Tagg: Volvo",
+        "Tagg: Volvo Cars",
+        "Tagg: breaking-GP",
+        "Tagg: Torslanda",
+        "Tagg: Uppsägningar"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/9bb04ec8-c178-39bb-b777-8d49140339c5",
+      "sv": {
+        "title": "Volvo Cars underleverantör varslar 100 anställda",
+        "summary": "Bolaget: ”Omfattar cirka 100 tjänster vid anläggningen i Torslanda”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Volvo Cars supplier gives notice to 100 employees",
+        "summary": "The company: “Covers about 100 positions at the Torslanda facility”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:31:06+01:00"
+      }
+    },
     {
       "id": "8760ee4d8ff7",
       "schema_version": 1,
@@ -5230,59 +5291,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T06:31:03+01:00"
-      }
-    },
-    {
-      "id": "099b11b95198",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/larmet-bensinen-kan-ta-slut-pa-macken",
-      "guid": "da113ae1-a973-4dc1-9624-fed937f75bed",
-      "published_at": "2026-11-19T06:10:08+01:00",
-      "fetched_at": "2026-11-19T06:15:47+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6366a929-899d-40e8-b7ba-b17613bb5c1f.jpg?width=600",
-      "sv": {
-        "title": "Larmet: Bensinen kan ta slut på macken",
-        "summary": "Det kan bli kö till pumpen inför höjningen av skatten på bensin och diesel i månadsskiftet. Fyll på tanken i god tid för att undvika att macken är tom på drivmedel när du kommer, uppmanar branschorganisationen Drivkraft Sveriges vd Anna Törner.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Alarm: Petrol may run out at the pump",
-        "summary": "There may be queues at the pump ahead of the tax increase on petrol and diesel at the turn of the month. Fill up your tank in good time to avoid finding the station out of fuel when you arrive, urges industry body Drivkraft Sverige CEO Anna Törner."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:15:52+01:00"
-      }
-    },
-    {
-      "id": "9b9f87338bff",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/ekonomi/privatekonomi/larmet-bensinen-kan-ta-slut-pa-macken",
-      "guid": "https://www.expressen.se/ekonomi/privatekonomi/larmet-bensinen-kan-ta-slut-pa-macken/",
-      "published_at": "2026-11-19T06:05:49+01:00",
-      "fetched_at": "2026-11-19T06:15:45+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Larmet: Bensinen kan ta slut på macken",
-        "summary": "Det kan bli kö till pumpen inför höjningen av skatten på bensin och diesel i månadsskiftet. Fyll på tanken i god tid för att undvika att macken är tom på drivmedel när du kommer, uppmanar branschorganisationen Drivkraft Sveriges vd Anna Törner.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Alarm: Petrol may run out at the pump",
-        "summary": "There may be queues at the pump ahead of the tax increase on petrol and diesel at the turn of the month. Fill up your tank in good time to avoid finding the station out of fuel when you arrive, urges industry body Drivkraft Sverige CEO Anna Törner."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:15:52+01:00"
       }
     }
   ]
