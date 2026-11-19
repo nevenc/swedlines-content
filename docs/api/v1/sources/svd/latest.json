@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T22:15:56+01:00",
+  "generated_at": "2026-11-19T22:31:04+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8a7b080a6469",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/zlvQ7w/trosterik-show-om-mammor-pa-fyllan",
+      "guid": "https://www.svd.se/a/zlvQ7w/trosterik-show-om-mammor-pa-fyllan?utm_medium=rss",
+      "published_at": "2026-11-19T22:17:21+01:00",
+      "fetched_at": "2026-11-19T22:30:58+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/0ec25338-1a75-3d29-af47-476aa2db04af?format=auto&s=b33d41ea980174ef0984f2fdc30cf384f21dab68&w=1000",
+      "sv": {
+        "title": "Trösterik show om mammor på fyllan",
+        "summary": "Mammor som super – temat är tungt i ”Full”. Men Charlotte Engelkes och Tobias Ulfvebrand tacklar det…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Comforting show about mothers on a bender",
+        "summary": "Mothers who drink – the theme is heavy in \"Full\". But Charlotte Engelke and Tobias Ulfvebrand tackle it…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T22:31:03+01:00"
+      }
+    },
     {
       "id": "f864773147f8",
       "schema_version": 1,
@@ -5197,32 +5224,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T00:01:17+01:00"
-      }
-    },
-    {
-      "id": "7991dcbb79d8",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/0vn980/burnham-behandla-brexit-som-kejsarens-nya-klader",
-      "guid": "https://www.svd.se/a/0vn980/burnham-behandla-brexit-som-kejsarens-nya-klader?utm_medium=rss",
-      "published_at": "2026-11-16T23:16:11+01:00",
-      "fetched_at": "2026-11-16T23:30:55+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Burnham: Behandla brexit som Kejsarens nya kläder",
-        "summary": "Storbritanniens premiärminister Andy Burnham är optimistisk inför veckans förhandlingar om ett nytt…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Burnham: Treat Brexit as The Emperor's New Clothes",
-        "summary": "UK Prime Minister Andy Burnham is optimistic ahead of this week's negotiations on a new…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T23:31:02+01:00"
       }
     }
   ]
