@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T23:31:03+01:00",
+  "generated_at": "2026-11-19T23:45:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dd97c8132a88",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/mohamed-ali-svarar-efter--buschs-harda-utspel",
+      "guid": "https://www.expressen.se/nyheter/politik/mohamed-ali-svarar-efter--buschs-harda-utspel/",
+      "published_at": "2026-11-19T23:29:04+01:00",
+      "fetched_at": "2026-11-19T23:45:44+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Mohamed Ali svarar efter Buschs hårda utspel",
+        "summary": "Ebba Busch pekade ut Vänsterpartiet som en säkerhetsrisk och den omdiskuterade ledamot Mohamed Ali som potentiell minister i en kommande rödgrön regering. Nu svarar Ali att han inte tycker att en vice statsminister ska ”peka ut och misstänkliggöra människor.”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mohamed Ali responds after Busch's harsh remarks",
+        "summary": "Ebba Busch singled out the Left Party as a security risk and the controversial member Mohamed Ali as a potential minister in a future red-green government. Now Ali responds that he does not think a deputy prime minister should \"point out and cast suspicion on people.\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:45:49+01:00"
+      }
+    },
     {
       "id": "5dd9cbd462e4",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T16:54:22+01:00"
-      }
-    },
-    {
-      "id": "2e754e2ea66e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/vem-ringer-telias-sista-samtal",
-      "guid": "https://www.expressen.se/nyheter/sverige/vem-ringer-telias-sista-samtal/",
-      "published_at": "2026-11-16T15:38:41+01:00",
-      "fetched_at": "2026-11-16T15:45:42+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Vem ringer Telias sista samtal?",
-        "summary": "Det har funnit i 150 år. Men sista november släcker Telia sitt nät – för alltid. Och du har chans att bli den som ringer sist av alla.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Who makes Telia's last call?",
-        "summary": "It has existed for 150 years. But on the last day of November, Telia switches off its network – for good. And you have a chance to be the one who makes the last call of all."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:45:48+01:00"
       }
     }
   ]
