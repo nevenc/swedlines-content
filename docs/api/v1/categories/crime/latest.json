@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T16:39:28+01:00",
+  "generated_at": "2026-11-19T16:45:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bd77fb8557e8",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346506",
+      "guid": "rss:sr.se/article/9346506",
+      "published_at": "2026-11-19T16:43:00+01:00",
+      "fetched_at": "2026-11-19T16:45:41+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Tågstopp efter misstänkt hot – 120 passagerare saknades",
+        "summary": "Ett tåg mellan Stockholm och Göteborg stoppades av polisen under torsdagsmorgonen, efter uppgifter om ett misstänkt grovt olaga hot. Tåget stoppades i Katrineholm, tömdes på passagerare och söktes igenom av Nationella bombskyddet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Train stopped after suspected threat – 120 passengers unaccounted for",
+        "summary": "A train between Stockholm and Göteborg was stopped by police on Thursday morning, following reports of a suspected aggravated unlawful threat. The train was halted in Katrineholm, emptied of passengers and searched by the National Bomb Protection unit."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:45:52+01:00"
+      }
+    },
     {
       "id": "24e060f9942f",
       "schema_version": 1,
@@ -5339,32 +5365,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T09:31:08+01:00"
-      }
-    },
-    {
-      "id": "2ace357755d3",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=62308d4f-33a7-4f2f-a22a-2f081e4fbf08",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=62308d4f-33a7-4f2f-a22a-2f081e4fbf08",
-      "published_at": "2026-11-16T09:00:21+01:00",
-      "fetched_at": "2026-11-16T09:01:25+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Lastbilschaufför hittad död i Göteborg",
-        "summary": "Polisen utreder brott i Göteborg",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Truck driver found dead in Göteborg",
-        "summary": "Police are investigating a crime in Göteborg"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:01:40+01:00"
       }
     }
   ]
