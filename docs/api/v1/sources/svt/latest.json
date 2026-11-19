@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T08:15:57+01:00",
+  "generated_at": "2026-11-19T08:31:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2380ef8ca2cb",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/kultur/recension-efter-fem-timmars-spelande-sa-bra-ar-nya-gta-6",
+      "guid": "https://www.svt.se/kultur/recension-efter-fem-timmars-spelande-sa-bra-ar-nya-gta-6",
+      "published_at": "2026-11-19T08:19:44+01:00",
+      "fetched_at": "2026-11-19T08:30:54+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Recension: Efter sex timmars spelande – så bra är nya GTA 6",
+        "summary": "GTA 6 släpptes vid midnatt. Sedan dess har Kulturnyheternas spelkritiker Kristoffer Viita varit vaken för att testa årets mest omtalade spel. – Jag har älskat varje sekund. Se första recensionen i klippet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Review: After six hours of playing – this is how good the new GTA 6 is",
+        "summary": "GTA 6 was released at midnight. Since then, Kulturnyheterna's game critic Kristoffer Viita has been awake to test the year's most talked-about game. – I have loved every second. See the first review in the clip."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:31:03+01:00"
+      }
+    },
     {
       "id": "4823bfc3dd77",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Mercedes halts all investment in Germany",
         "summary": "The crisis-hit German carmaker Mercedes-Benz announces that all investment in Germany is being halted and that factory closures are being considered."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "4196187d6ddf",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/kultur/darth-vaders-lasersvard-salt-for-miljonbelopp",
-      "guid": "https://www.svt.se/kultur/darth-vaders-lasersvard-salt-for-miljonbelopp",
-      "published_at": "2026-11-13T02:56:51+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Darth Vaders lasersvärd sålt för miljonbelopp",
-        "summary": "Lasersvärdet från Star Wars-filmerna ”Rymdimperiet slår tillbaka” och ”Jedins återkomst” har sålts för nära 50 miljoner kronor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Darth Vader's lightsaber sold for millions",
-        "summary": "The lightsaber from the Star Wars films 'The Empire Strikes Back' and 'Return of the Jedi' has been sold for close to SEK 50 million."
       },
       "translation": {
         "status": "done",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T08:15:57+01:00",
+  "generated_at": "2026-11-19T08:31:03+01:00",
   "count": 200,
   "items": [
     {
@@ -292,6 +292,30 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T06:31:03+01:00"
+      }
+    },
+    {
+      "id": "d235683c3c67",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80082",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80082&utm_medium=rss",
+      "published_at": "2026-11-19T06:24:32+01:00",
+      "fetched_at": "2026-11-19T08:30:56+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/b5bb4311-7503-3c65-a25a-e05750f5ee52?format=auto&s=6e837421ccfc499c569ccef49876d689d9ff3245&w=1000",
+      "sv": {
+        "title": "Putin på ”utmärkt humör” efter mötet"
+      },
+      "en": {
+        "title": "Putin in \"excellent mood\" after the meeting"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:31:03+01:00"
       }
     },
     {
@@ -5287,37 +5311,6 @@
       "en": {
         "title": "Criticism grows of Trump's trade secretary after the Nvidia scandal",
         "summary": "US Commerce Secretary Howard Lutnick has come under fire in the wake of the Nvidia chief's deal with a suspected Chinese spy. He is accused of having worked against tighter export controls on advanced AI chips. Now the question is raised whether he has put his own financial interests ahead of the nation's."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T10:15:53+01:00"
-      }
-    },
-    {
-      "id": "89a00411b796",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/varlden/ukraina-har-attackerat-krimbron-uppges-vara-sprangd-och-trasig.dfef5768-763e-53e7-a968-fa075d4afe05",
-      "guid": "dfef5768-763e-53e7-a968-fa075d4afe05",
-      "published_at": "2026-11-17T10:04:33+01:00",
-      "fetched_at": "2026-11-17T10:15:47+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Världen",
-        "Tagg: breaking-GP"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/6cb053ff-d507-32f9-9196-3a47bd70516e",
-      "sv": {
-        "title": "Ny attack mot Krimbron – uppges vara sprängd",
-        "summary": "Ryssland: ”Fienden har attackerat”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New attack on Crimean bridge – reportedly blown up",
-        "summary": "Russia: \"The enemy has attacked.\""
       },
       "translation": {
         "status": "done",
