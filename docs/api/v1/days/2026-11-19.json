@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-19T05:01:12+01:00",
-  "count": 21,
+  "generated_at": "2026-11-19T05:06:34+01:00",
+  "count": 23,
   "items": [
+    {
+      "id": "ec3f0a710090",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/hanna-hellquist-jag-kan-inte-langre-avgora-vad-som-ar-verkligt-eller-overkligt",
+      "guid": "https://www.dn.se/kultur/hanna-hellquist-jag-kan-inte-langre-avgora-vad-som-ar-verkligt-eller-overkligt/",
+      "published_at": "2026-11-19T05:02:46+01:00",
+      "fetched_at": "2026-11-19T05:06:25+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/2a945fe4-24e7-40a6-911d-b9fc6fb3ab76.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Hanna Hellquist: Jag kan inte längre avgöra vad som är verkligt eller overkligt",
+        "summary": "Jag tittar på SVT:s serie om psykiskt våld, ”Du måste gå”, och varken kvinnornas röster eller husen de bor i är verkliga. Det stämmer med min egen upplevelse av tillvaron just nu.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hanna Hellquist: I can no longer tell what is real from what is unreal",
+        "summary": "I watch SVT's series on psychological violence, \"Du måste gå\", and neither the women's voices nor the houses they live in are real. That matches my own experience of existence right now."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T05:06:33+01:00"
+      }
+    },
+    {
+      "id": "6e8e381d5b96",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/detta-hander-torsdag-19-november-IX8mo",
+      "guid": "fe4dc71b-14c4-4e83-8aa8-fc952a6ede06",
+      "published_at": "2026-11-19T05:00:00+01:00",
+      "fetched_at": "2026-11-19T05:06:28+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Detta händer torsdag 19 november",
+        "summary": "På torsdagen kan vi bland annat se fram emot färska kvartalssiffror från Revolutionrace och cybersäkerhetsbolaget Yubicos kapitalmarknadsdag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This happens Thursday 19 November",
+        "summary": "On Thursday we can, among other things, look forward to fresh quarterly figures from Revolutionrace and cybersecurity company Yubico's capital markets day."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T05:06:33+01:00"
+      }
+    },
     {
       "id": "9faa3bb24e3a",
       "schema_version": 1,

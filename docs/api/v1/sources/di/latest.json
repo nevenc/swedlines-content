@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T05:01:12+01:00",
+  "generated_at": "2026-11-19T05:06:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6e8e381d5b96",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/detta-hander-torsdag-19-november-IX8mo",
+      "guid": "fe4dc71b-14c4-4e83-8aa8-fc952a6ede06",
+      "published_at": "2026-11-19T05:00:00+01:00",
+      "fetched_at": "2026-11-19T05:06:28+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Detta händer torsdag 19 november",
+        "summary": "På torsdagen kan vi bland annat se fram emot färska kvartalssiffror från Revolutionrace och cybersäkerhetsbolaget Yubicos kapitalmarknadsdag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This happens Thursday 19 November",
+        "summary": "On Thursday we can, among other things, look forward to fresh quarterly figures from Revolutionrace and cybersecurity company Yubico's capital markets day."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T05:06:33+01:00"
+      }
+    },
     {
       "id": "22fb07d5e16e",
       "schema_version": 1,
@@ -5306,33 +5332,6 @@
       "en": {
         "title": "Industrivärden buys Volvo shares for SEK 324 million",
         "summary": "On Tuesday, Industrivärden bought a total of 1 million B shares in Volvo in a number of transactions."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:45:57+01:00"
-      }
-    },
-    {
-      "id": "f04dfdf1c19c",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/tydlig-nedgang-pa-borsen-alla-aktier-i-omxs30-sjonk",
-      "guid": "817786cd-4ab2-4748-bce9-328b1383f7d2",
-      "published_at": "2026-11-17T17:34:22+01:00",
-      "fetched_at": "2026-11-17T17:45:51+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/9e551be6-605c-4409-ba34-2d7e2f7a75af.jpeg?width=600",
-      "sv": {
-        "title": "Tydlig nedgång på börsen – alla aktier i OMXS30 sjönk",
-        "summary": "Stockholmsbörsen avslutade tisdagen i moll efter att den sura stämningen på Wall Street tyngt humöret ytterligare. På bolagsnivå tillhörde bland annat nyrapporterade Nibe dagens förlorare.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Clear decline on the stock exchange – all shares in OMXS30 fell",
-        "summary": "The Stockholm stock exchange closed Tuesday in the red after the gloomy mood on Wall Street weighed further on sentiment. At company level, recently reported Nibe was among the day's biggest losers."
       },
       "translation": {
         "status": "done",
