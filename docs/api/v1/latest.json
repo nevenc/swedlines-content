@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T02:45:45+01:00",
+  "generated_at": "2026-11-19T03:01:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ff8644839a38",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/rysk-man-anklagas-for-att-ha-spionerat-pa-teknikforetag",
+      "guid": "https://www.expressen.se/nyheter/varlden/rysk-man-anklagas-for-att-ha-spionerat-pa-teknikforetag/",
+      "published_at": "2026-11-19T02:44:21+01:00",
+      "fetched_at": "2026-11-19T03:01:08+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Rysk man anklagas för att ha spionerat på teknikföretag",
+        "summary": "En rysk man har gripits i Silicon Valley. Amerikanska utredare anklagar honom för att ha spionerat på ett teknik- och försvarsföretag med kopplingar till Ukraina.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russian man charged with spying on tech company",
+        "summary": "A Russian man has been arrested in Silicon Valley. American investigators accuse him of spying on a technology and defence company with ties to Ukraine."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T03:01:12+01:00"
+      }
+    },
     {
       "id": "6cd16ed30390",
       "schema_version": 1,
@@ -5423,33 +5449,6 @@
       "en": {
         "title": "Peter Alestig: Hypocrisy at the climate summit – fossil deals happen during negotiations",
         "summary": "ANTALYA. Canada and the EU have discussed fossil gas deals – in the middle of the ongoing COP31 climate summit in Turkey. This is far from the only example of hypocrisy at the UN climate negotiations. Even Sweden has landed in the fossil pillory in recent years."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:45:52+01:00"
-      }
-    },
-    {
-      "id": "9aef2e0e38e2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/1vnyBM/tidigare-skolanstalld-domd-for-barnpornografibrott",
-      "guid": "https://www.aftonbladet.se/nyheter/a/1vnyBM/tidigare-skolanstalld-domd-for-barnpornografibrott?utm_medium=rss",
-      "published_at": "2026-11-18T16:36:00+01:00",
-      "fetched_at": "2026-11-18T16:45:44+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/61a238ab-f725-3a2b-b679-997c135907c3?format=auto&s=dfada31183b69fed29eeda074d718587902c5ab9&w=1000",
-      "sv": {
-        "title": "Tidigare skolanställd dömd för barnpornografibrott",
-        "summary": "En man i Jönköpings kommun som tidigare arbetat på en skola fälls för grovt barnpornografibrott.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Former school employee convicted of child pornography offences",
-        "summary": "A man in Jönköping Municipality who previously worked at a school has been convicted of aggravated child pornography offences."
       },
       "translation": {
         "status": "done",
