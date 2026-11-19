@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T00:01:17+01:00",
+  "generated_at": "2026-11-20T00:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2a92519a7f9e",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/4EqGvq/bombar-ambassad-efter-broattacken-har-nederlanderna-gatt-med-i-kriget",
+      "guid": "https://www.aftonbladet.se/nyheter/a/4EqGvq/bombar-ambassad-efter-broattacken-har-nederlanderna-gatt-med-i-kriget?utm_medium=rss",
+      "published_at": "2026-11-20T00:00:49+01:00",
+      "fetched_at": "2026-11-20T00:15:46+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/22960306-dd1a-3e1a-b175-d1b620cfecb2?format=auto&s=90f61778702cab13b8f0f5dba902fb72e7269bd5&w=1000",
+      "sv": {
+        "title": "Bombar ambassad efter broattacken: ”Har Nederländerna gått med i kriget?”",
+        "summary": "Natolandets minister: ”Oacceptabelt”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Embassy bombed after bridge attack: \"Has the Netherlands joined the war?\"",
+        "summary": "NATO country's minister: \"Unacceptable\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T00:15:50+01:00"
+      }
+    },
     {
       "id": "e21a981c0abf",
       "schema_version": 1,
@@ -5358,32 +5385,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "f77403b062e1",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=96ed0198-838d-4337-a469-367ae7b16fb1",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=96ed0198-838d-4337-a469-367ae7b16fb1",
-      "published_at": "2026-11-18T06:13:13+01:00",
-      "fetched_at": "2026-11-18T06:15:40+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Tsunamivarning",
-        "summary": "Invånare i Nya Zeeland varnas: ”Lämna”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tsunami warning",
-        "summary": "Residents of New Zealand warned: “Leave”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T06:15:59+01:00"
       }
     }
   ]
