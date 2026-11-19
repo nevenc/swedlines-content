@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T13:31:19+01:00",
+  "generated_at": "2026-11-19T13:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a82cd56c7144",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/kina-portade-reporter-efter-kanslig-fraga",
+      "guid": "https://www.expressen.se/nyheter/varlden/kina-portade-reporter-efter-kanslig-fraga/",
+      "published_at": "2026-11-19T13:36:04+01:00",
+      "fetched_at": "2026-11-19T13:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Kina portade reporter efter känslig fråga",
+        "summary": "Trump lovordade sin ”personliga relation” till Xi och de höll en gemensam pressträff. Då ropade en reporter ut en fråga om spionskandalen kring sparkade Nvidiachefen Jensen Huang. Kina portade reportern som anklagades för att ha uppträtt ”extremt oförskämt”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "China ejected reporter after sensitive question",
+        "summary": "Trump praised his \"personal relationship\" with Xi, and the two held a joint press conference. A reporter then shouted out a question about the espionage scandal surrounding fired Nvidia chief Jensen Huang. China ejected the reporter, who was accused of behaving \"extremely rudely\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:45:54+01:00"
+      }
+    },
     {
       "id": "0858a13e1c89",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T06:45:48+01:00"
-      }
-    },
-    {
-      "id": "9321e5cdd0b9",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/flera-doda-efter-brand-i-phuket",
-      "guid": "https://www.expressen.se/nyheter/varlden/flera-doda-efter-brand-i-phuket/",
-      "published_at": "2026-11-16T06:15:10+01:00",
-      "fetched_at": "2026-11-16T06:15:40+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Flera döda efter brand i Phuket",
-        "summary": "Minst elva personer har dött och flera skadats efter en stor brand i en affärslokal i Phuket i Thailand.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Several dead after fire in Phuket",
-        "summary": "At least eleven people have died and several have been injured after a large fire in a retail premises in Phuket, Thailand."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T06:15:47+01:00"
       }
     }
   ]

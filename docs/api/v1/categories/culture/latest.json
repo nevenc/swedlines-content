@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T13:31:19+01:00",
+  "generated_at": "2026-11-19T13:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3b96257f0f89",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/programledaren-carina-bergfeldt-anmaler-svt-for-artikel-om-adhd-serie",
+      "guid": "https://www.dn.se/kultur/programledaren-carina-bergfeldt-anmaler-svt-for-artikel-om-adhd-serie/",
+      "published_at": "2026-11-19T13:44:02+01:00",
+      "fetched_at": "2026-11-19T13:45:43+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/79e3a556-672b-4dd8-ab73-cfd7e54ff7ed.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Programledaren Carina Bergfeldt anmäler SVT för artikel om adhd-serie",
+        "summary": "Programledaren Carina Bergfeldt har anmält SVT till Granskningsnämnden. Anmälan gäller en artikel om kritik mot hennes tv-serie om adhd, rapporterar Aftonbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Programme host Carina Bergfeldt reports SVT over article on ADHD series",
+        "summary": "Programme host Carina Bergfeldt has reported SVT to Granskningsnämnden. The complaint concerns an article about criticism of her TV series on ADHD, reports Aftonbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:45:54+01:00"
+      }
+    },
     {
       "id": "43ca1e26b214",
       "schema_version": 1,
@@ -5600,35 +5627,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T19:15:52+01:00"
-      }
-    },
-    {
-      "id": "ee321d1abe8f",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/71IGybCEE9H7oQjcSwRhV/gessle-minns-tillbaka-till-storhetstiden-med-roxette",
-      "guid": "71IGybCEE9H7oQjcSwRhV",
-      "published_at": "2026-11-16T19:02:56+01:00",
-      "fetched_at": "2026-11-16T22:01:16+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Efter fem"
-      ],
-      "sv": {
-        "title": "Gessle om storhetstiden med Roxette: ”En fantastisk resa”",
-        "summary": "På debutalbumet \"Pearls of Passion\" blev den första singeln \"Neverending Love\" en stor svensk sommarhit som nådde topplistorna. Låten \"The Look\" släpptes 1988 och året efter toppade den Billboardlistan i USA. – Vi slog igenom internationellt 1989 och tog en paus i slutet av 1995.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Gessle on the Roxette heyday: \"A fantastic journey\"",
-        "summary": "On the debut album \"Pearls of Passion\", the first single \"Neverending Love\" became a major Swedish summer hit that reached the charts. The song \"The Look\" was released in 1988, and the following year it topped the Billboard chart in the USA. \"We broke through internationally in 1989 and took a break at the end of 1995.\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T22:01:25+01:00"
       }
     }
   ]
