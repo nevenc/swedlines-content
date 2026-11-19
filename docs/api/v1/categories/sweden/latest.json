@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T22:01:17+01:00",
+  "generated_at": "2026-11-19T22:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1eef405b7a80",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=e8242e9e-c618-4039-9845-35fb99aa988d",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e8242e9e-c618-4039-9845-35fb99aa988d",
+      "published_at": "2026-11-19T22:11:18+01:00",
+      "fetched_at": "2026-11-19T22:15:48+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Lastbil tvärs över E20",
+        "summary": "Stor påverkan på trafiken efter olyckan",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Truck across E20",
+        "summary": "Major impact on traffic after the accident"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T22:15:56+01:00"
+      }
+    },
     {
       "id": "8ecac009509f",
       "schema_version": 1,
@@ -5364,40 +5390,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T05:31:08+01:00"
-      }
-    },
-    {
-      "id": "6b28e991d46e",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/debatt/goteborg-visade-vagen-nu-maste-sj-s-monopol-brytas-pa-riktigt.4e4389e0-672f-5760-876b-b87bd65b0d00",
-      "guid": "4e4389e0-672f-5760-876b-b87bd65b0d00",
-      "published_at": "2026-11-17T04:55:00+01:00",
-      "fetched_at": "2026-11-17T05:15:44+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Debatt",
-        "Tagg: Järnvägar",
-        "Tagg: SJ",
-        "Tagg: MTR",
-        "Tagg: Göteborg"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/4064bc10-a4c5-3047-a3c8-15bc16d5da2f",
-      "sv": {
-        "title": "Göteborg visade vägen – nu måste SJ:s monopol brytas på riktigt",
-        "summary": "Svaret på järnvägens problem är inte mindre konkurrens, utan att fler sträckor i Sverige får verkliga alternativ, skriver Ida Wallinder.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Göteborg showed the way – now SJ's monopoly must be broken for real",
-        "summary": "The answer to the railway's problems is not less competition, but that more routes in Sweden get real alternatives, writes Ida Wallinder."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T05:15:51+01:00"
       }
     }
   ]

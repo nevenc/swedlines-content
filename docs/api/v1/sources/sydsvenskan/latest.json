@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-11-19T22:01:17+01:00",
+  "generated_at": "2026-11-19T22:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a4e383cada34",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/finsk-tango-sa-dansade-redhawks-hem-derbyt",
+      "guid": "40320185-a207-40fa-8b33-06895d0d43fc",
+      "published_at": "2026-11-19T22:03:22+01:00",
+      "fetched_at": "2026-11-19T22:15:51+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/26a602d6-35dd-4c8f-9dfa-fb634507934e.jpeg?width=600",
+      "sv": {
+        "title": "Finsk tango – så dansade Redhawks hem derbyt",
+        "summary": "Lekstuga av Janne Kuokkanen och ett dunderskott av Oliwer Kaski i förlängningen. Det var avslutningen på ett rivigt Skånederby mot Rögle, 3–2.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Finnish tango – how Redhawks danced home the derby",
+        "summary": "A playground goal by Janne Kuokkanen and a thundering shot by Oliwer Kaski in overtime. It was the finish of a fierce Skåne derby against Rögle, 3–2."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T22:15:56+01:00"
+      }
+    },
+    {
+      "id": "8d1a8295e997",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/norwegian-hackat-ber-kunder-sparra-betalkort",
+      "guid": "b582b2ab-5f65-405b-b745-ec83f539eebe",
+      "published_at": "2026-11-19T22:03:04+01:00",
+      "fetched_at": "2026-11-19T22:15:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1394d263-8c73-409a-96c9-71c6e9e35768.jpg?width=600",
+      "sv": {
+        "title": "Norwegian hackat – ber kunder spärra betalkort",
+        "summary": "Omkring 5 000 kunder hos flygbolaget Norwegian, däribland i Sverige, har ombetts att spärra sina bankkort efter ett dataintrång hos en av bolagets leverantörer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegian hacked – asks customers to block payment cards",
+        "summary": "About 5,000 customers of airline Norwegian, including in Sweden, have been asked to block their bank cards after a data breach at one of the company's suppliers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T22:15:56+01:00"
+      }
+    },
+    {
+      "id": "17d4020b88d5",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/joakim-lundell-granskning-far-journalistpris",
+      "guid": "9e0866be-84db-4f4c-bb59-91af8a9cc970",
+      "published_at": "2026-11-19T22:02:37+01:00",
+      "fetched_at": "2026-11-19T22:15:51+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/8a4f6d08-6cd6-425f-8881-769b29c6f00d.jpg?width=600",
+      "sv": {
+        "title": "Joakim Lundell-granskning får journalistpris",
+        "summary": "SVT-granskningen ”Hatet” om Youtube-profilen Joakim Lundell får Stora journalistpriset i kategorin ”Årets förnyare”. Lukas Bonniers stora journalistpris gick till Nils Hanson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Joakim Lundell investigation wins journalism prize",
+        "summary": "The SVT investigation \"Hatet\" about YouTube profile Joakim Lundell wins the Stora journalistpriset in the category \"Årets förnyare\". Lukas Bonniers stora journalistpris went to Nils Hanson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T22:15:56+01:00"
+      }
+    },
     {
       "id": "85fb49b8d6a1",
       "schema_version": 1,
@@ -5094,75 +5175,6 @@
       },
       "en": {
         "title": "49-year-old new owner of villa"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "dd03a53edea0",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/173-kvadratmeter-stort-hus-for-10-miljoner",
-      "guid": "e25eff11-f2af-48bf-a3be-b7e83749aaee",
-      "published_at": "2026-11-17T18:02:07+01:00",
-      "fetched_at": "2026-11-17T18:15:50+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "173 kvadratmeter stort hus för 10 miljoner"
-      },
-      "en": {
-        "title": "173 square metre house for 10 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "bd36a2afa547",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/villa-i-hollviken-sald-for-8-2-miljoner",
-      "guid": "c51c0272-8d3e-4d00-b909-06ffd7ebce20",
-      "published_at": "2026-11-17T18:02:05+01:00",
-      "fetched_at": "2026-11-17T18:15:50+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Villa i Höllviken såld – för 8,2 miljoner"
-      },
-      "en": {
-        "title": "Villa in Höllviken sold – for 8.2 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "c75db0b7675f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/villa-i-akarp-sald-for-5-8-miljoner",
-      "guid": "fd150d85-af87-4a0b-b068-a364fbf0f068",
-      "published_at": "2026-11-17T18:02:05+01:00",
-      "fetched_at": "2026-11-17T18:15:50+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Villa i Åkarp såld – för 5,8 miljoner"
-      },
-      "en": {
-        "title": "Villa in Åkarp sold – for 5.8 million"
       },
       "translation": {
         "status": "done",
