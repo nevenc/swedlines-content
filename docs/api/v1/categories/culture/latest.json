@@ -1,7 +1,82 @@
 {
-  "generated_at": "2026-11-19T13:01:19+01:00",
+  "generated_at": "2026-11-19T13:16:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8f1d216dff09",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/svt-profil-anmaler-svt-till-granskningsnamnden",
+      "guid": "1827e4aa-759b-4837-9030-482fc1345124",
+      "published_at": "2026-11-19T13:10:00+01:00",
+      "fetched_at": "2026-11-19T13:15:50+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "SVT-profil anmäler SVT till Granskningsnämnden",
+        "summary": "Journalisten och SVT-profilen Carina Bergfeldt anmäler SVT till Granskningsnämnden, skriver Aftonbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SVT profile reports SVT to the Broadcasting Complaints Commission",
+        "summary": "Journalist and SVT profile Carina Bergfeldt reports SVT to the Broadcasting Complaints Commission, writes Aftonbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:16:05+01:00"
+      }
+    },
+    {
+      "id": "c7875cc0ddbc",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80091",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80091&utm_medium=rss",
+      "published_at": "2026-11-19T13:08:28+01:00",
+      "fetched_at": "2026-11-19T13:15:46+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "SVT-profilen anmäler SVT till granskningsnämnden"
+      },
+      "en": {
+        "title": "SVT profile reports SVT to the Broadcasting Complaints Commission"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:16:05+01:00"
+      }
+    },
+    {
+      "id": "0858a13e1c89",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/stora-hindret-for-att-knappa-in-fusk-i-gta-6",
+      "guid": "https://www.expressen.se/nyheter/varlden/stora-hindret-for-att-knappa-in-fusk-i-gta-6/",
+      "published_at": "2026-11-19T13:05:32+01:00",
+      "fetched_at": "2026-11-19T13:15:49+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Stora hindret för att knappa in fusk i GTA 6",
+        "summary": "Precis som i tidigare spel finns en lång rad fuskkoder som spelare kan använda sig av i GTA 6. Men för att kunna använda dem behöver du först klara spelets storyläge med 91 uppdrag – och i vissa fall ytterligare utmaningar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The big hurdle to entering cheats in GTA 6",
+        "summary": "As in previous games, there is a long list of cheat codes players can use in GTA 6. But to use them you first need to complete the game's story mode with 91 missions, and in some cases additional challenges."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:16:05+01:00"
+      }
+    },
     {
       "id": "fd609f725b62",
       "schema_version": 1,
@@ -5546,98 +5621,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T19:01:24+01:00"
-      }
-    },
-    {
-      "id": "75806e9eefd3",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/litteratur/litteraturrecension/recension-undergangsfascismen-av-naomi-klein-och-astra-taylor.1e84f2bb-4baf-590c-a509-520c4321adf6",
-      "guid": "1e84f2bb-4baf-590c-a509-520c4321adf6",
-      "published_at": "2026-11-16T18:11:40+01:00",
-      "fetched_at": "2026-11-16T18:45:43+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Litteraturrecension",
-        "Tagg: Recension",
-        "Tagg: Naomi Klein",
-        "Tagg: Astra Taylor",
-        "Tagg: Översättning",
-        "Tagg: Peter Thiel",
-        "Tagg: Sam Altman",
-        "Tagg: Kapitalism",
-        "Tagg: Fackböcker"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/1767be9c-307f-335a-ae0b-4fe7c655fa55",
-      "sv": {
-        "title": "Naomi Klein varnar för tech-entreprenörernas fascism",
-        "summary": "Nya boken om den dystopiska fascismens framfart är förvisso mörk, men hittar också politiskt hopp, skriver Ann Ighe.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Naomi Klein warns of tech entrepreneurs' fascism",
-        "summary": "The new book on the advance of dystopian fascism is admittedly dark, but also finds political hope, writes Ann Ighe."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:45:48+01:00"
-      }
-    },
-    {
-      "id": "10d9d21c23bd",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/dygnet-runt/efter-100-knivar-nu-ska-malmokocken-oppna-ny-krog-i-city",
-      "guid": "2959a46e-9791-4163-a52b-a99d57ee29e4",
-      "published_at": "2026-11-16T18:00:00+01:00",
-      "fetched_at": "2026-11-16T18:01:16+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/7288e28e-04dd-4b69-a1f4-6e18f09f85be.jpeg?width=600",
-      "sv": {
-        "title": "Efter ”100 knivar”: Nu ska Malmökocken öppna ny krog i city",
-        "summary": "Efter äventyret i ”100 knivar” i TV4 står det nu klart att Malmökocken Cassandra Jakobsson blir kökschef för nya Malmökrogen Mist som öppnar i december. Men hur var det att tävla och vad är en typisk Cassandra-rätt?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After \"100 Knives\": Malmö chef to open new restaurant downtown",
-        "summary": "After her stint on TV4's \"100 knivar\", it is now clear that Malmö chef Cassandra Jakobsson will be head chef at the new Malmö restaurant Mist, opening in December. But what was it like to compete, and what is a typical Cassandra dish?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:01:23+01:00"
-      }
-    },
-    {
-      "id": "1fb6d075fc7c",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/z0G075/hur-tankte-hovet-egentligen",
-      "guid": "https://www.svd.se/a/z0G075/hur-tankte-hovet-egentligen?utm_medium=rss",
-      "published_at": "2026-11-16T17:05:25+01:00",
-      "fetched_at": "2026-11-16T17:15:41+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/a5fb6028-7e0f-3085-a6a8-1510c005a13d?format=auto&s=f34e2af6280aac4a3b0aebbe5dd835d5dd7e015b&w=1000",
-      "sv": {
-        "title": "Hur tänkte hovet egentligen?",
-        "summary": "Prinsessan Estelle har praoat – på slottet. Frågan är hur bra pr det egentligen är för kungahuset.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "What was the court thinking?",
-        "summary": "Princess Estelle has done an internship – at the palace. The question is how good PR this actually is for the royal house."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T17:15:50+01:00"
       }
     }
   ]

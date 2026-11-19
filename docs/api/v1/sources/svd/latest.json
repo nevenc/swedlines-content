@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-19T13:01:19+01:00",
+  "generated_at": "2026-11-19T13:16:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "aa41d5093363",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Vxbpmp/klimatministern-mysigt-mote-blev-misslyckat",
+      "guid": "https://www.svd.se/a/Vxbpmp/klimatministern-mysigt-mote-blev-misslyckat?utm_medium=rss",
+      "published_at": "2026-11-19T13:11:49+01:00",
+      "fetched_at": "2026-11-19T13:15:46+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/a8ca0154-9ccd-3975-b9b0-79edfa23abb6?format=auto&s=2ea7895e71fa9cc2fe315d296a7c3d1e529760a3&w=1000",
+      "sv": {
+        "title": "Klimatministern: Mysigt möte blev misslyckat",
+        "summary": "Ett mysmöte löste inte upp knutarna i klimatförhandlingarna i Turkiet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Climate minister: Cosy meeting ended in failure",
+        "summary": "A cosy meeting did not untangle the knots in the climate negotiations in Turkey."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:16:05+01:00"
+      }
+    },
+    {
+      "id": "c7875cc0ddbc",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80091",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80091&utm_medium=rss",
+      "published_at": "2026-11-19T13:08:28+01:00",
+      "fetched_at": "2026-11-19T13:15:46+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "SVT-profilen anmäler SVT till granskningsnämnden"
+      },
+      "en": {
+        "title": "SVT profile reports SVT to the Broadcasting Complaints Commission"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:16:05+01:00"
+      }
+    },
     {
       "id": "d620333a6827",
       "schema_version": 1,
@@ -5161,56 +5211,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T13:31:13+01:00"
-      }
-    },
-    {
-      "id": "9363e649ac7c",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79964",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79964&utm_medium=rss",
-      "published_at": "2026-11-16T12:26:13+01:00",
-      "fetched_at": "2026-11-16T12:31:14+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Hund bet ihjäl flickvännen – kvinna får fängelse"
-      },
-      "en": {
-        "title": "Dog bites girlfriend to death – woman sentenced to prison"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:31:21+01:00"
-      }
-    },
-    {
-      "id": "58eb9f161817",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/lMAKG3/statsvetaren-s-och-c-ar-jatteradda-for-extra-val",
-      "guid": "https://www.svd.se/a/lMAKG3/statsvetaren-s-och-c-ar-jatteradda-for-extra-val?utm_medium=rss",
-      "published_at": "2026-11-16T11:49:39+01:00",
-      "fetched_at": "2026-11-16T12:01:13+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/af54b6fc-0860-36ab-814b-4a1715f3b6c3?format=auto&s=d3f174e837712eb6566601b67b5122d22d34a79c&w=1000",
-      "sv": {
-        "title": "Statsvetaren: S och C är jätterädda för extra val",
-        "summary": "Huvudproblemet består – varken C eller V har suddat ut några röda linjer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Political scientist: S and C are terrified of a snap election",
-        "summary": "The main problem remains – neither C nor V has erased any red lines."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:01:23+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T13:01:19+01:00",
+  "generated_at": "2026-11-19T13:16:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8f1d216dff09",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/svt-profil-anmaler-svt-till-granskningsnamnden",
+      "guid": "1827e4aa-759b-4837-9030-482fc1345124",
+      "published_at": "2026-11-19T13:10:00+01:00",
+      "fetched_at": "2026-11-19T13:15:50+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "SVT-profil anmäler SVT till Granskningsnämnden",
+        "summary": "Journalisten och SVT-profilen Carina Bergfeldt anmäler SVT till Granskningsnämnden, skriver Aftonbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SVT profile reports SVT to the Broadcasting Complaints Commission",
+        "summary": "Journalist and SVT profile Carina Bergfeldt reports SVT to the Broadcasting Complaints Commission, writes Aftonbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T13:16:05+01:00"
+      }
+    },
     {
       "id": "2f3d990e81d7",
       "schema_version": 1,
@@ -5128,33 +5154,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T13:01:18+01:00"
-      }
-    },
-    {
-      "id": "be136b5d83ec",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/inget-beslut-om-samkonade-vigslar-skjuts-upp",
-      "guid": "bc9067f8-a208-421f-bc01-ad475ed1699b",
-      "published_at": "2026-11-17T12:35:34+01:00",
-      "fetched_at": "2026-11-17T12:45:49+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/3e1811ca-d196-4d4f-960a-908508aff35f.jpg?width=600",
-      "sv": {
-        "title": "Inget beslut om samkönade vigslar – skjuts upp",
-        "summary": "Det blir inget beslut i frågan om alla präster ska viga samkönade par eller inte. Frågan ska utredas vidare.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "No decision on same-sex weddings – postponed",
-        "summary": "There will be no decision on whether all priests should be allowed to marry same-sex couples or not. The question will be investigated further."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:45:55+01:00"
       }
     }
   ]
