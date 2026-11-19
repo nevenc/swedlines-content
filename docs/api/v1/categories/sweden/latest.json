@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T09:15:59+01:00",
+  "generated_at": "2026-11-19T09:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2c387a6e8c0d",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/fristadsforfattaren-har-lamnat-lund",
+      "guid": "08071167-68bc-4bf6-a15e-7d49212ef8a9",
+      "published_at": "2026-11-19T09:18:27+01:00",
+      "fetched_at": "2026-11-19T09:31:10+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/e896fbfc-f8d7-415a-835e-5d016fa7bd6f.jpeg?width=600",
+      "sv": {
+        "title": "Fristadsförfattaren har lämnat Lund",
+        "summary": "Lunds politiker ville kasta ut fristadsförfattaren Bisan Edwan när det blev känt att hon hyllat terrorattacken mot Israel den 7 oktober 2023. Det visade sig vara omöjligt. Nu har hon dock lämnat Lund.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The writer-in-exile has left Lund",
+        "summary": "Lund's politicians wanted to expel writer-in-exile Bisan Edwan when it became known that she had praised the terrorist attack against Israel on 7 October 2023. That proved impossible. Now she has, however, left Lund."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:31:14+01:00"
+      }
+    },
     {
       "id": "5059bfe86b17",
       "schema_version": 1,
@@ -78,6 +105,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T07:45:55+01:00"
+      }
+    },
+    {
+      "id": "b63adb69c267",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/flera-olyckor-i-morgontrafiken-40an-avstangd",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/flera-olyckor-i-morgontrafiken-40an-avstangd",
+      "published_at": "2026-11-19T07:06:51+01:00",
+      "fetched_at": "2026-11-19T09:31:03+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Flera olyckor i morgontrafiken – 40:an avstängd",
+        "summary": "Det har skett flera trafikolyckor under morgonen. Bland annat är flera bilar inblandade i en olycka på E4:an i höjd med Stigamo. Mellan Eksjö och Nässjö har flera bilar hamnat i diket. – Anpassa körningen, säger polisens presstalesperson Olle Älveroth.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Several accidents in morning traffic – 40 closed",
+        "summary": "There have been several traffic accidents this morning. Among others, several cars are involved in an accident on the E4 near Stigamo. Between Eksjö and Nässjö several cars have ended up in the ditch. – Adjust your driving, says police spokesperson Olle Älveroth."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:31:14+01:00"
       }
     },
     {
@@ -5365,67 +5418,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T03:15:47+01:00"
-      }
-    },
-    {
-      "id": "1dfb292cca1a",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/vastsverige/therese-forfarades-av-skoldiscot-nu-vacks-hoppet.d6a2c549-dfd3-5f20-b1c3-aab1f469597d",
-      "guid": "d6a2c549-dfd3-5f20-b1c3-aab1f469597d",
-      "published_at": "2026-11-15T20:09:01+01:00",
-      "fetched_at": "2026-11-15T20:31:01+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Västsverige",
-        "Tagg: Borås",
-        "Tagg: Mobilförbud",
-        "Tagg: Skola",
-        "Tagg: Barn & unga",
-        "Tagg: Sociala medier"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/4cb66039-1d00-3f8b-94b4-8e19a9743ccb",
-      "sv": {
-        "title": "Barn satt med mobiler på skoldiscot – Theréses inlägg spreds till miljoner",
-        "summary": "Therése Berglin vill samla föräldrar i mobilpakt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Children sat with phones at the school disco – Therése's post spread to millions",
-        "summary": "Therése Berglin wants to bring parents together in a phone pact."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T20:31:05+01:00"
-      }
-    },
-    {
-      "id": "4c0ea9da7c1f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/lundalarare-varnas-ville-bli-slav-at-tidigare-elev",
-      "guid": "3440c9ca-7a69-4daa-9032-5fde26daeb84",
-      "published_at": "2026-11-15T18:00:00+01:00",
-      "fetched_at": "2026-11-15T18:01:15+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Lundalärare varnas – ville bli ”slav” åt tidigare elev",
-        "summary": "En lärare i 30-årsåldern kontaktade en elev på sociala medier med sexuella anspelningar. Nu varnas han av Lärarnas ansvarsnämnd.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lund teacher warned – wanted to be a \"slave\" to former pupil",
-        "summary": "A teacher in his 30s contacted a pupil on social media with sexual innuendo. He has now been warned by the Teachers' Disciplinary Board."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T18:01:20+01:00"
       }
     }
   ]

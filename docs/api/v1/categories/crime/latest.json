@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T09:15:59+01:00",
+  "generated_at": "2026-11-19T09:31:14+01:00",
   "count": 200,
   "items": [
     {
@@ -132,6 +132,39 @@
       }
     },
     {
+      "id": "e7e9d141901c",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/krim/elever-pa-sigtunaskolan-atalas.2bd7b348-6ff7-588b-b682-02f84dff8c19",
+      "guid": "2bd7b348-6ff7-588b-b682-02f84dff8c19",
+      "published_at": "2026-11-19T09:07:40+01:00",
+      "fetched_at": "2026-11-19T09:31:09+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Krim",
+        "Tagg: Brott och straff",
+        "Tagg: Polisen",
+        "Tagg: Uppdatera mig - BEHOV"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/96f16ff7-d02d-3353-975a-da8f741126ea",
+      "sv": {
+        "title": "Elever på Sigtunaskolan åtalas",
+        "summary": "Misstankarna rör både grova vålds- och sexualbrott.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pupils at Sigtunaskolan charged",
+        "summary": "The suspicions concern both aggravated violent and sexual offences."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:31:14+01:00"
+      }
+    },
+    {
       "id": "324555deb6fe",
       "schema_version": 1,
       "source": "aftonbladet",
@@ -185,6 +218,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T09:15:58+01:00"
+      }
+    },
+    {
+      "id": "fd9243014af9",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Pv9e1X/sex-atalade-pa-sigtuna",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Pv9e1X/sex-atalade-pa-sigtuna?utm_medium=rss",
+      "published_at": "2026-11-19T09:07:09+01:00",
+      "fetched_at": "2026-11-19T09:31:07+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/5c788695-41fe-3374-93ce-dae8f51ee14e?format=auto&s=72bab94866ddd86f5f67eee74eb9f2688382a3e0&w=1000",
+      "sv": {
+        "title": "Sex åtalade på Sigtuna",
+        "summary": "Använde bälten och skohorn",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Six charged in Sigtuna",
+        "summary": "Used belts and shoehorns"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:31:14+01:00"
       }
     },
     {
@@ -5284,59 +5344,6 @@
       "en": {
         "title": "Theft wave forces vintage shop to chain down its goods",
         "summary": "The thief came in – and disappeared with a fox fur valued at several thousand SEK. This year's many thefts have forced shop owner Stella Olsson at Rad Susie Vintage to take drastic measures – chaining down her treasures. – It's really tough times."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "99ab61753994",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/ran-av-pokemon-kort-varda-over-en-miljon-i-danmark",
-      "guid": "https://www.svt.se/nyheter/utrikes/ran-av-pokemon-kort-varda-over-en-miljon-i-danmark",
-      "published_at": "2026-11-15T15:32:02+01:00",
-      "fetched_at": "2026-11-15T15:45:37+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Rån av Pokémon-kort värda över en miljon i Danmark",
-        "summary": "En stor polisinsats pågår vid köpcentret i danska Lyngby, efter att rånare kommit över Pokémon-kort värda mer än en miljon danska kronor, rapporterar danska medier.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Robbery of Pokémon cards worth over a million in Denmark",
-        "summary": "A major police operation is under way at the shopping centre in Lyngby, Denmark, after robbers got hold of Pokémon cards worth more than one million Danish kroner, Danish media report."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T15:45:47+01:00"
-      }
-    },
-    {
-      "id": "243d42ba435a",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Xogjmg/dansk-butik-ranad-pa-pokemonkort-for-miljonbelopp",
-      "guid": "https://www.svd.se/a/Xogjmg/dansk-butik-ranad-pa-pokemonkort-for-miljonbelopp?utm_medium=rss",
-      "published_at": "2026-11-15T15:23:29+01:00",
-      "fetched_at": "2026-11-15T16:01:11+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/e815c141-3d8c-34d5-87d5-f4c878e977ff?format=auto&s=e0172752ea79e41d7ac082374b343896eeee001e&w=1000",
-      "sv": {
-        "title": "Rånbytet: Pokémon – för 1 miljon",
-        "summary": "Flera maskerade personer har rånat en butik i danska Lyngby som bland annat säljer…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Robbery haul: Pokémon – for 1 million",
-        "summary": "Several masked people have robbed a shop in Danish Lyngby that, among other things, sells…"
       },
       "translation": {
         "status": "done",

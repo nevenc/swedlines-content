@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T09:15:59+01:00",
+  "generated_at": "2026-11-19T09:31:14+01:00",
   "count": 200,
   "items": [
     {
@@ -156,6 +156,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T07:45:55+01:00"
+      }
+    },
+    {
+      "id": "b63adb69c267",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/flera-olyckor-i-morgontrafiken-40an-avstangd",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/flera-olyckor-i-morgontrafiken-40an-avstangd",
+      "published_at": "2026-11-19T07:06:51+01:00",
+      "fetched_at": "2026-11-19T09:31:03+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Flera olyckor i morgontrafiken – 40:an avstängd",
+        "summary": "Det har skett flera trafikolyckor under morgonen. Bland annat är flera bilar inblandade i en olycka på E4:an i höjd med Stigamo. Mellan Eksjö och Nässjö har flera bilar hamnat i diket. – Anpassa körningen, säger polisens presstalesperson Olle Älveroth.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Several accidents in morning traffic – 40 closed",
+        "summary": "There have been several traffic accidents this morning. Among others, several cars are involved in an accident on the E4 near Stigamo. Between Eksjö and Nässjö several cars have ended up in the ditch. – Adjust your driving, says police spokesperson Olle Älveroth."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T09:31:14+01:00"
       }
     },
     {
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Here is the shop that cannot be hacked – refuses to be online",
         "summary": "While several shops around Sweden have been hit by hacker attacks on their freezers and fridges, the village shop in Modahl carries on as it always has. Here there are almost no digital systems that can be knocked out. Owner Lasse Gustafsson does not even have a computer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "43cfe6b0c902",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jamtland/galakvall-med-kraft-och-hopp-for-alla-cancerberorda",
-      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/galakvall-med-kraft-och-hopp-for-alla-cancerberorda",
-      "published_at": "2026-11-13T05:30:05+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Galakväll med kraft och hopp för alla cancerberörda",
-        "summary": "På lördag kväll anordnas galan ”Kraft och hopp” i Brunflo kyrka i ett samarbete mellan Svenska kyrkan och ideella föreningen Kraftens hus. De arbetar för att personer som på ett eller annat vis drabbas av ett cancerbesked, ska ha någon att dela känslor och frågor med.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Gala evening of strength and hope for everyone affected by cancer",
-        "summary": "On Saturday evening the gala 'Kraft och hopp' is held in Brunflo church in a collaboration between the Church of Sweden and the non-profit association Kraftens hus. They work so that people affected in one way or another by a cancer diagnosis have someone to share feelings and questions with."
       },
       "translation": {
         "status": "done",
