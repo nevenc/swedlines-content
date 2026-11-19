@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T23:46:56+01:00",
+  "generated_at": "2026-11-20T00:01:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4b777a96d37e",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-19-november-3",
+      "guid": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-19-november-3/",
+      "published_at": "2026-11-19T23:53:37+01:00",
+      "fetched_at": "2026-11-20T00:01:11+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/5ffa1116-55e0-4c35-bb80-4a220db40fe3.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Noterat av DN:s läsare den 19 november",
+        "summary": "INSÄNDARE. Dagens Nyheters läsare ger sin syn på läget i Sverige och världen samt DN:s innehåll torsdagen den 19 november.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Letter. Noted by DN's readers on 19 November",
+        "summary": "LETTERS. Dagens Nyheter's readers give their views on the situation in Sweden and the world, and on DN's content, Thursday 19 November."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T00:01:16+01:00"
+      }
+    },
     {
       "id": "a948b4fea318",
       "schema_version": 1,
@@ -5429,29 +5456,6 @@
       "en": {
         "title": "The risk: tech giants tied to Anthropic",
         "summary": "Di's correspondent Emanuel Sidea on the ownership picture at Anthropic – Amazon and Alphabet are major shareholders."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:15:54+01:00"
-      }
-    },
-    {
-      "id": "0b13b37f40e5",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/sparekonomen-om-anthropic-exceptionellt-intresse",
-      "guid": "0544b156-51e5-556e-834e-f8cca8f74aee",
-      "published_at": "2026-11-19T17:04:51+01:00",
-      "fetched_at": "2026-11-19T17:15:46+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Sparekonomen om Anthropic: ”Exceptionellt intresse”"
-      },
-      "en": {
-        "title": "Savings economist on Anthropic: \"Exceptional interest\""
       },
       "translation": {
         "status": "done",
