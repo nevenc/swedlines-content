@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T19:01:19+01:00",
+  "generated_at": "2026-11-19T19:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b2abb0566e4e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/putin-efter-attacken-lovar-att--svara-betydligt-mer-kannbart",
+      "guid": "https://www.expressen.se/nyheter/varlden/putin-efter-attacken-lovar-att--svara-betydligt-mer-kannbart/",
+      "published_at": "2026-11-19T19:01:51+01:00",
+      "fetched_at": "2026-11-19T19:15:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Putin efter attacken – lovar att svara: ”Betydligt mer kännbart”",
+        "summary": "Krimbron mellan det ockuperade Krim och Ryssland sprängdes av Ukraina under tisdagen. Nu lovar Rysslands president Vladimir Putin att svara. – Jag tror att vårt svar kommer att bli betydligt mer kännbart än det Kiev har gjort, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After the attack – Putin vows to respond: ”Significantly more painful”",
+        "summary": "The Crimean bridge between occupied Crimea and Russia was blown up by Ukraine on Tuesday. Now Russian President Vladimir Putin vows to respond. – I think our response will be significantly more painful than what Kiev has done, he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:15:56+01:00"
+      }
+    },
     {
       "id": "4b21ed8d87cc",
       "schema_version": 1,
@@ -5158,32 +5184,6 @@
       "en": {
         "title": "Flee when they see what is approaching",
         "summary": "Seconds later panic breaks out in the traffic queue in Sichuan"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:31:07+01:00"
-      }
-    },
-    {
-      "id": "954ee202fba2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/jensen-huangs-nara-koppling-till-sverige",
-      "guid": "https://www.expressen.se/nyheter/varlden/jensen-huangs-nara-koppling-till-sverige/",
-      "published_at": "2026-11-16T10:11:39+01:00",
-      "fetched_at": "2026-11-16T10:30:57+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Jensen Huangs nära koppling till Sverige",
-        "summary": "Hyllad och hedersdoktor vid universitetet i Linköping. Men efter spion- och otrohetsskandalen är Jensen Huang ute i kylan. Men inte i Linköping. – När man blir hedersdoktor så blir man det på grunder, säger dekanen Johan Ölvander.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jensen Huang's close connection to Sweden",
-        "summary": "Celebrated and honorary doctor at Linköping University. But after the spy and infidelity scandal, Jensen Huang is out in the cold. But not in Linköping. – When you become an honorary doctor, you become one on merit, says dean Johan Ölvander."
       },
       "translation": {
         "status": "done",

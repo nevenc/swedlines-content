@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T19:01:19+01:00",
+  "generated_at": "2026-11-19T19:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "550ec2f95a22",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/kalle-far-inte-bygga-badrum-maste-tvatta-hos-barnen-i-kiruna",
+      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/kalle-far-inte-bygga-badrum-maste-tvatta-hos-barnen-i-kiruna",
+      "published_at": "2026-11-19T19:00:08+01:00",
+      "fetched_at": "2026-11-19T19:15:41+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Kalle får inte bygga badrum – måste tvätta hos barnen i Kiruna",
+        "summary": "Kalle Modin vill bygga badrum och tvättstuga vid sitt hus på ett statligt arrende i Kalixforsbron utanför Kiruna. Men länsstyrelsen säger nej – och han får varken en motivering eller kan överklaga. – Jag måste åka in till mina barn och tvätta och duscha, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kalle not allowed to build bathroom – has to wash at his children's in Kiruna",
+        "summary": "Kalle Modin wants to build a bathroom and laundry room by his house on state-owned leasehold land in Kalixforsbron outside Kiruna. But the county administrative board says no – and he receives neither a reason nor can he appeal. – I have to go to my children to wash and shower, he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:15:56+01:00"
+      }
+    },
     {
       "id": "f7254aa40ba5",
       "schema_version": 1,
@@ -5367,29 +5393,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T19:45:48+01:00"
-      }
-    },
-    {
-      "id": "2ba2aeb24b43",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79976",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79976&utm_medium=rss",
-      "published_at": "2026-11-16T19:15:07+01:00",
-      "fetched_at": "2026-11-16T19:31:13+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Stopp i tågtrafiken mellan Göteborg och Stockholm"
-      },
-      "en": {
-        "title": "Stoppage in train traffic between Göteborg and Stockholm"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T19:31:20+01:00"
       }
     }
   ]
