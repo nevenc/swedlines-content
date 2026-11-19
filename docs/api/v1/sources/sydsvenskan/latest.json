@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-19T06:45:50+01:00",
+  "generated_at": "2026-11-19T07:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "999001cb23ea",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/ytterligare-fyra-chefer-far-ga-efter-korruptionsharvan",
+      "guid": "dc079ef6-631f-4c58-bd0d-a1c0585378e3",
+      "published_at": "2026-11-19T07:00:00+01:00",
+      "fetched_at": "2026-11-19T07:01:16+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/1c575e8f-5967-48cd-8c92-912b04dfc4e4.jpeg?width=600",
+      "sv": {
+        "title": "Ytterligare fyra chefer får gå efter korruptionshärvan",
+        "summary": "Ytterligare fyra chefer får lämna sina tjänster efter korruptionsskandalen på Lunds kommunala parkeringsbolag. Nya uppgifter visar hur affärschefen Armin Memic har använt p-bolagets pengar för att köpa lyxresor och prylar för 100 000 kronor utan kvitto.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Four more managers to leave after corruption scandal",
+        "summary": "Four more managers are to leave their posts following the corruption scandal at Lund's municipal parking company. New information shows how chief operating officer Armin Memic used parking company funds to buy luxury trips and gadgets worth SEK 100,000 without receipts."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:01:21+01:00"
+      }
+    },
+    {
+      "id": "fcf9b644b89c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/nasta-gang-borde-malmo-stad-visa-kultur-som-de-sjalva-forbjudit",
+      "guid": "6a5b33ff-d29e-4f58-8063-69673c833678",
+      "published_at": "2026-11-19T07:00:00+01:00",
+      "fetched_at": "2026-11-19T07:01:16+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/fc4fb604-bed3-43f7-ac55-fa70a52240bb.png?width=600",
+      "sv": {
+        "title": "Nästa gång borde Malmö stad visa kultur som de själva förbjudit",
+        "summary": "Det kostar ingenting att stå på rätt sida om en bok som brändes någon annanstans. Men det finns faktiskt konst som tas bort från våra egna gator.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Next time Malmö city should show culture it has itself banned",
+        "summary": "It costs nothing to take the right side on a book burned elsewhere. But there is in fact art that is removed from our own streets."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:01:21+01:00"
+      }
+    },
     {
       "id": "208f76dc779d",
       "schema_version": 1,
@@ -5072,52 +5126,6 @@
       },
       "en": {
         "title": "Villa in Furulund the most expensive this year"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:15:59+01:00"
-      }
-    },
-    {
-      "id": "b7a40702ff03",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/kedjehus-i-svedala-far-ny-agare",
-      "guid": "a4d8ca66-96bd-4770-adc8-da8d9e48fb9e",
-      "published_at": "2026-11-17T07:01:59+01:00",
-      "fetched_at": "2026-11-17T07:15:53+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Kedjehus i Svedala får ny ägare"
-      },
-      "en": {
-        "title": "Townhouse in Svedala gets new owner"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:15:59+01:00"
-      }
-    },
-    {
-      "id": "d5be62e22ba0",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/135-kvadratmeter-stort-hus-gick-for-5-5-miljoner",
-      "guid": "51f028fd-023b-4861-833a-51c2f04b5b88",
-      "published_at": "2026-11-17T07:01:59+01:00",
-      "fetched_at": "2026-11-17T07:15:53+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "135 kvadratmeter stort hus gick för 5,5 miljoner"
-      },
-      "en": {
-        "title": "135 square metre house sold for 5.5 million"
       },
       "translation": {
         "status": "done",

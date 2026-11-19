@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-19T06:45:50+01:00",
+  "generated_at": "2026-11-19T07:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "72f0c15b26ae",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/varnar-bensinen-kan-ta-slut-pa-macken",
+      "guid": "755bce35-8067-4bd0-a366-3540c4adf9d4",
+      "published_at": "2026-11-19T06:52:02+01:00",
+      "fetched_at": "2026-11-19T07:01:15+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/27dbd1a1-416e-4598-b2f3-5983464c2261.jpg?width=600",
+      "sv": {
+        "title": "Varnar: Bensinen kan ta slut på macken",
+        "summary": "Det kan bli kö till pumpen inför höjningen av skatten på bensin och diesel i månadsskiftet. Fyll på tanken i god tid för att undvika att macken är tom på drivmedel när du kommer, uppmanar branschorganisationen Drivkraft Sveriges vd Anna Törner.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Warning: Petrol may run out at the pump",
+        "summary": "There may be queues at the pump ahead of the increase in petrol and diesel tax at the end of the month. Fill up your tank in good time to avoid finding the station out of fuel when you arrive, urges the industry organisation Drivkraft Sverige's CEO Anna Törner."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:01:21+01:00"
+      }
+    },
+    {
+      "id": "021d261fb1af",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/usa-rantorna-sjunker-tillbaka",
+      "guid": "f2e0925b-e571-4178-8aa4-b359cfb8178d",
+      "published_at": "2026-11-19T06:51:04+01:00",
+      "fetched_at": "2026-11-19T07:01:15+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "USA-räntorna sjunker tillbaka",
+        "summary": "USA-räntorna sjunker under torsdagsmorgonen, samtidigt som dollarn håller sig nära sin högsta nivå på 19 månader och de asiatiska börserna backar till följd av fortsatt oro kring AI-sektorn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "US yields fall back",
+        "summary": "US yields fall during Thursday morning trading, while the dollar stays near its highest level in 19 months and Asian stock markets fall on continued concern over the AI sector."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:01:21+01:00"
+      }
+    },
     {
       "id": "8bbce7c453e6",
       "schema_version": 1,
@@ -5288,60 +5341,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T20:01:26+01:00"
-      }
-    },
-    {
-      "id": "4bec76d2b051",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/space-x-stiger-mot-strommen",
-      "guid": "f61057dc-478e-4b59-987d-797a0d254e91",
-      "published_at": "2026-11-17T19:35:28+01:00",
-      "fetched_at": "2026-11-17T19:45:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/e022ade0-5931-4e20-aee5-98cf5a6fea51.jpeg?width=600",
-      "sv": {
-        "title": "Space X stiger mot strömmen",
-        "summary": "Rymdbolaget Space X stiger i spåren av att Bloomberg rapporterat att en del av bolagets planerade obligationer för att finansiera AI-chip kan komma att säljas den här veckan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Space X swims against the tide",
-        "summary": "Space X shares rise after Bloomberg reported that some of the company's planned bonds to finance AI chips may be sold this week."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T19:45:54+01:00"
-      }
-    },
-    {
-      "id": "7d39b896ab90",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/storbank-usa-s-tvaarsranta-vantas-na-5-procent-i-ar",
-      "guid": "1de43b2f-63bf-4450-94cb-9372a0cba989",
-      "published_at": "2026-11-17T19:26:53+01:00",
-      "fetched_at": "2026-11-17T19:31:15+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/fda95d6c-489e-473e-b8c8-086b31acb016.jpeg?width=600",
-      "sv": {
-        "title": "Storbank: USA:s tvåårsränta väntas nå 5 procent i år",
-        "summary": "De korta amerikanska räntorna väntas fortsätta stiga så länge det saknas tecken på att de bromsar ekonomin, enligt räntestrateger på Bank of America (BofA).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Major bank: US two-year yield expected to reach 5 percent this year",
-        "summary": "US short-term interest rates are expected to keep rising as long as there are no signs that they are slowing the economy, according to interest rate strategists at Bank of America (BofA)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T19:31:23+01:00"
       }
     }
   ]

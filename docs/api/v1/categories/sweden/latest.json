@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T06:45:50+01:00",
+  "generated_at": "2026-11-19T07:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "89117c7d0087",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/2vGXXa/overklagar-vargjakten-hor-hemma-i-svensk-natur",
+      "guid": "https://www.aftonbladet.se/nyheter/a/2vGXXa/overklagar-vargjakten-hor-hemma-i-svensk-natur?utm_medium=rss",
+      "published_at": "2026-11-19T07:00:10+01:00",
+      "fetched_at": "2026-11-19T07:01:14+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/bcb6bfab-5be8-31bb-a3af-5e60a60a0eb3?format=auto&s=479711182460d402c51899eb562c3097ab65cd6f&w=1000",
+      "sv": {
+        "title": "Överklagar vargjakten: ”Hör hemma i svensk natur”",
+        "summary": "Naturskyddsföreningen överklagar nästa års licensjakt på varg. – Vargen hör hemma i den svenska…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Environmental groups appeal wolf hunt: \"Belongs in Swedish nature\"",
+        "summary": "The Swedish Society for Nature Conservation is appealing next year's licensed wolf hunt. – The wolf belongs in Swedish nature..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:01:21+01:00"
+      }
+    },
     {
       "id": "80c2b6ebe661",
       "schema_version": 1,
@@ -5411,32 +5438,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T14:31:04+01:00"
-      }
-    },
-    {
-      "id": "d88411501033",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/dubbla-olyckor-i-goteborgsbacken-i-jonkoping-krockade-med-tappat-hjul",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/dubbla-olyckor-i-goteborgsbacken-i-jonkoping-krockade-med-tappat-hjul",
-      "published_at": "2026-11-15T13:46:31+01:00",
-      "fetched_at": "2026-11-15T14:01:07+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Dubbla olyckor i Göteborgsbacken i Jönköping – krockade med tappat hjul",
-        "summary": "Två olyckor inträffade nästan samtidigt vid trafikplats Haga på riksväg 40 i Jönköping – i varsin riktning. Detta efter att en bil tappat sitt hjul.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Double accidents on the Göteborgsbacken in Jönköping – collided after a lost wheel",
-        "summary": "Two accidents occurred almost simultaneously at the Haga junction on route 40 in Jönköping – in opposite directions. This followed a car losing its wheel."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T14:01:16+01:00"
       }
     }
   ]

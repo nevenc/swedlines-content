@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T06:45:50+01:00",
+  "generated_at": "2026-11-19T07:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "999001cb23ea",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/ytterligare-fyra-chefer-far-ga-efter-korruptionsharvan",
+      "guid": "dc079ef6-631f-4c58-bd0d-a1c0585378e3",
+      "published_at": "2026-11-19T07:00:00+01:00",
+      "fetched_at": "2026-11-19T07:01:16+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/1c575e8f-5967-48cd-8c92-912b04dfc4e4.jpeg?width=600",
+      "sv": {
+        "title": "Ytterligare fyra chefer får gå efter korruptionshärvan",
+        "summary": "Ytterligare fyra chefer får lämna sina tjänster efter korruptionsskandalen på Lunds kommunala parkeringsbolag. Nya uppgifter visar hur affärschefen Armin Memic har använt p-bolagets pengar för att köpa lyxresor och prylar för 100 000 kronor utan kvitto.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Four more managers to leave after corruption scandal",
+        "summary": "Four more managers are to leave their posts following the corruption scandal at Lund's municipal parking company. New information shows how chief operating officer Armin Memic used parking company funds to buy luxury trips and gadgets worth SEK 100,000 without receipts."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:01:21+01:00"
+      }
+    },
     {
       "id": "c25c3da21faf",
       "schema_version": 1,
@@ -5325,32 +5352,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "4a0dcd04c9b2",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/flicka-utreds-for-valdtakt-mot-barn-traffade-ett-misstankt-offer-pa-roblox",
-      "guid": "https://www.svt.se/nyheter/inrikes/flicka-utreds-for-valdtakt-mot-barn-traffade-ett-misstankt-offer-pa-roblox",
-      "published_at": "2026-11-15T06:22:23+01:00",
-      "fetched_at": "2026-11-15T08:29:34+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Flicka utreds för våldtäkt mot barn – träffade ett misstänkt offer på Roblox",
-        "summary": "En svensk tonårsflicka häktades i somras misstänkt för bland annat våldtäkt mot barn. SVT har följt tonåringens digitala fotspår och kan koppla henne till det extremistiska nätverket Com. Hon misstänks ha utsatt ett norskt barn för brott, enligt SVT:s uppgifter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Girl investigated for rape of children – met a suspected victim on Roblox",
-        "summary": "A Swedish teenage girl was remanded in custody this summer on suspicion of, among other things, rape of a child. SVT has followed the teenager's digital footprints and can link her to the extremist network Com. She is suspected of having victimised a Norwegian child, according to SVT's information."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:08+01:00"
       }
     }
   ]

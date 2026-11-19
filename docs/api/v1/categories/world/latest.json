@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T06:45:50+01:00",
+  "generated_at": "2026-11-19T07:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6de7672d354f",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345829",
+      "guid": "rss:sr.se/article/9345829",
+      "published_at": "2026-11-19T06:53:00+01:00",
+      "fetched_at": "2026-11-19T07:01:12+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Hegseths oväntade besök i Caracas – nytt militäravtal",
+        "summary": "USA:s försvarsminister Pete Hegseth besökte Venezuelas huvudstad Caracas för att skriva under ett nytt militärt samarbetsavtal mellan länderna. Det är första gången på över 30 år som en amerikansk försvarsminister står på venezolansk mark.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Hegseth's unexpected visit to Caracas – new military agreement",
+        "summary": "US Secretary of Defense Pete Hegseth visited Venezuela's capital Caracas to sign a new military cooperation agreement between the countries. It is the first time in over 30 years that a US defence secretary has set foot on Venezuelan soil."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:01:21+01:00"
+      }
+    },
     {
       "id": "208f76dc779d",
       "schema_version": 1,
@@ -5293,33 +5319,6 @@
       "en": {
         "title": "Sources: Iran plans attack in USA",
         "summary": "Iran is reported to have drawn up plans for attacks against senior officials in the Trump administration in Washington DC. CNN reports this, citing seven different sources."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:01:26+01:00"
-      }
-    },
-    {
-      "id": "2a5ea3194084",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/2vGvvv/landerna-varnar-ryssland-risk-for-karnkraftsolycka",
-      "guid": "https://www.aftonbladet.se/nyheter/a/2vGvvv/landerna-varnar-ryssland-risk-for-karnkraftsolycka?utm_medium=rss",
-      "published_at": "2026-11-17T07:56:21+01:00",
-      "fetched_at": "2026-11-17T08:01:18+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/60f48346-f574-3655-94dc-3aac21092903?format=auto&s=3af998e8c13522cebab3395688bca049518aebee&w=1000",
-      "sv": {
-        "title": "Länderna varnar Moskva: Risk för ”total blackout”",
-        "summary": "”Största på 40 år”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Countries warn Moscow: Risk of \"total blackout\"",
-        "summary": "\"Largest in 40 years\""
       },
       "translation": {
         "status": "done",
