@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T21:01:17+01:00",
+  "generated_at": "2026-11-19T21:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a691ab3b6909",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/hilma-af-klints-verk-salt-for-rekordsumma",
+      "guid": "https://www.dn.se/kultur/hilma-af-klints-verk-salt-for-rekordsumma/",
+      "published_at": "2026-11-19T21:07:13+01:00",
+      "fetched_at": "2026-11-19T21:15:45+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/e0faa8c8-655e-4487-8a5f-c3f95052df93.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Hilma af Klints verk sålt för rekordsumma",
+        "summary": "Den svenska konstnärens verk, ungefär lika stort som ett A4-papper, blev det dyraste någonsin att säljas på auktion i Norden. Hilma af Klints målning såldes för 128,9 miljoner kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hilma af Klint work sold for record sum",
+        "summary": "The Swedish artist's work, roughly the size of an A4 sheet of paper, became the most expensive ever sold at auction in the Nordics. Hilma af Klint's painting sold for SEK 128.9 million."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
     {
       "id": "54b13e24d8f7",
       "schema_version": 1,
@@ -5369,33 +5396,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T06:31:06+01:00"
-      }
-    },
-    {
-      "id": "ef0790dcd3ed",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/har-ar-sveriges-roll-i-natos-segerteori-om-ryssland",
-      "guid": "https://www.dn.se/sverige/har-ar-sveriges-roll-i-natos-segerteori-om-ryssland/",
-      "published_at": "2026-11-17T06:09:24+01:00",
-      "fetched_at": "2026-11-17T06:15:41+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/f79926d5-3757-4866-b67d-d8ac8b277072.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Här är Sveriges roll i Natos segerteori om Ryssland",
-        "summary": "Natos ÖB har lagt fram en teori för seger i ett krig mot Ryssland. Planen innebär svenska styrkor i fronten för att blockera anfall, enligt experter. – Jag tror att det skakar om Sverige, säger Håkan Edström, professor i militärstrategi.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here is Sweden's role in NATO's victory theory on Russia",
-        "summary": "NATO's Supreme Allied Commander has presented a theory for victory in a war against Russia. The plan involves Swedish forces at the front to block attacks, according to experts. – I think it shakes up Sweden, says Håkan Edström, professor of military strategy."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:15:50+01:00"
       }
     }
   ]

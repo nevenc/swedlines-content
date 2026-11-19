@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-19T21:01:17+01:00",
+  "generated_at": "2026-11-19T21:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8760ee4d8ff7",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/norwegian-hackat-ber-kunder-sparra-betalkort",
+      "guid": "b1781ecd-9878-40e1-96aa-ddb19c4c127e",
+      "published_at": "2026-11-19T21:13:05+01:00",
+      "fetched_at": "2026-11-19T21:15:49+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/658e4119-916e-4c3e-be0f-3de0b90ecd88.jpeg?width=600",
+      "sv": {
+        "title": "Norwegian hackat – ber kunder spärra betalkort",
+        "summary": "Omkring 5.000 kunder till Norwegian, däribland i Sverige, har ombetts att spärra sina bankkort.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegian hacked – urges customers to block payment cards",
+        "summary": "About 5,000 customers of Norwegian, including in Sweden, have been asked to block their bank cards."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "1f1785be7025",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/gasell/hans-mjukvara-gor-varldens-fartyg-energisnalare",
+      "guid": "a2833711-eb80-5281-bdcb-84ade7a302bd",
+      "published_at": "2026-11-19T21:00:00+01:00",
+      "fetched_at": "2026-11-19T21:15:49+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Hans mjukvara gör världens fartyg energisnålare",
+        "summary": "Jens Stjärna, grundare av CATC AB, levererar automationslösningar till allt från Älvsnabben i Göteborg till kryssningsjättar i Miami.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "His software makes the world's ships more energy-efficient",
+        "summary": "Jens Stjärna, founder of CATC AB, supplies automation solutions to everything from Älvsnabben in Göteborg to cruise giants in Miami."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "629cf4e1637f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/gasell/fran-motstand-till-sjalvklarhet-sa-tog-de-in-mensskydd-pa-arbetsplatserna",
+      "guid": "d75e8ce8-ab2f-5a65-add6-5a2718512b16",
+      "published_at": "2026-11-19T21:00:00+01:00",
+      "fetched_at": "2026-11-19T21:15:49+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Från motstånd till självklarhet – så tog de in mensskydd på arbetsplatserna",
+        "summary": "Ett självupplevt problem blev startskottet för Herbox. Hör grundarna Linn Rosenqvist och Hanna Lauste om resan till en omsättning på över 20 miljoner kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "From resistance to taken for granted – how they brought period protection into workplaces",
+        "summary": "A self-experienced problem became the starting point for Herbox. Listen to founders Linn Rosenqvist and Hanna Lauste about the journey to turnover of over SEK 20 million."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
     {
       "id": "07ae9d59fb8a",
       "schema_version": 1,
@@ -5244,86 +5323,6 @@
       "en": {
         "title": "European yields down – oil price stabilised",
         "summary": "European yields fell on Wednesday, but the movement lost some steam towards the afternoon. Meanwhile the dollar continued trading near a 19-month high. The decline in US short-term yields was slightly dampened after Fed Governor Christopher Waller opened the door to a larger rate hike in December."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:45:52+01:00"
-      }
-    },
-    {
-      "id": "35ef2dbf3d3a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/stigande-raoljelager-i-usa",
-      "guid": "caee78ae-14d1-4d82-a596-3c8170cfb94a",
-      "published_at": "2026-11-18T16:38:05+01:00",
-      "fetched_at": "2026-11-18T16:45:45+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Stigande råoljelager i USA",
-        "summary": "De amerikanska lagren av råolja steg med 3,38 miljoner fat under förra veckan. Det rapporterar USA:s energidepartement, DOE.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "US crude oil stocks rise",
-        "summary": "US crude oil inventories rose by 3.38 million barrels last week. This is according to the US Department of Energy, DOE."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:45:52+01:00"
-      }
-    },
-    {
-      "id": "7d8b738259bf",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/swish-mot-nytt-rekordar-lanserar-fakturafunktion",
-      "guid": "dff673d9-b76a-4718-ad93-89e14fac2eff",
-      "published_at": "2026-11-18T16:33:44+01:00",
-      "fetched_at": "2026-11-18T16:45:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/4ca36a77-10a6-4cbb-8d03-e50119d1b083.jpeg?width=600",
-      "sv": {
-        "title": "Swish mot nytt rekordår – lanserar fakturafunktion",
-        "summary": "Swish lanserar nu fakturabetalning direkt i appen, samtidigt som betaltjänstbolaget går mot ännu ett rekordår. ”Vi växer och volymen ökar, så vi kommer att öka både våra intäkter och resultat”, säger vd:n Urban Höglund.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swish heads for another record year – launches invoice feature",
-        "summary": "Swish is now launching invoice payments directly in the app, while the payment services company heads for yet another record year. \"We are growing and volume is increasing, so we will increase both our revenue and profit,\" says CEO Urban Höglund."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:45:52+01:00"
-      }
-    },
-    {
-      "id": "23933ba2a083",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/telefonstrul-sinkar-tagen",
-      "guid": "f65d8f32-95e0-402c-9c26-0ca5c67d94d8",
-      "published_at": "2026-11-18T16:32:50+01:00",
-      "fetched_at": "2026-11-18T16:45:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/5fc493a9-5db7-4b21-97d8-b9b045597a21.jpg?width=600",
-      "sv": {
-        "title": "Telefonstrul sinkar tågen",
-        "summary": "Ett problem med Trafikverkets telefonisystem orsakar förseningar i tågtrafiken runtom i Sverige, rapporterar Aftonbladet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Phone glitch delays trains",
-        "summary": "A problem with the Transport Administration's telephone system is causing delays to rail traffic across Sweden, reports Aftonbladet."
       },
       "translation": {
         "status": "done",

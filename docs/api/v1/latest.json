@@ -1,7 +1,219 @@
 {
-  "generated_at": "2026-11-19T21:01:17+01:00",
+  "generated_at": "2026-11-19T21:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8760ee4d8ff7",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/norwegian-hackat-ber-kunder-sparra-betalkort",
+      "guid": "b1781ecd-9878-40e1-96aa-ddb19c4c127e",
+      "published_at": "2026-11-19T21:13:05+01:00",
+      "fetched_at": "2026-11-19T21:15:49+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/658e4119-916e-4c3e-be0f-3de0b90ecd88.jpeg?width=600",
+      "sv": {
+        "title": "Norwegian hackat – ber kunder spärra betalkort",
+        "summary": "Omkring 5.000 kunder till Norwegian, däribland i Sverige, har ombetts att spärra sina bankkort.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegian hacked – urges customers to block payment cards",
+        "summary": "About 5,000 customers of Norwegian, including in Sweden, have been asked to block their bank cards."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "79e375a53124",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/vkQy3l/istanbuls-borgmastare-stoppas-i-presidentvalet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/vkQy3l/istanbuls-borgmastare-stoppas-i-presidentvalet?utm_medium=rss",
+      "published_at": "2026-11-19T21:10:25+01:00",
+      "fetched_at": "2026-11-19T21:15:47+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/1103e76b-027e-3421-bf0e-34371fc462f6?format=auto&s=e354c828bbde06d1d9e44c333d5aeb3ff8a9b2a8&w=1000",
+      "sv": {
+        "title": "Istanbuls borgmästare stoppas i presidentvalet",
+        "summary": "Istanbuls fängslade borgmästare Ekrem Imamoglu stoppas från att ställa upp i det kommande turkiska…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Istanbul's mayor blocked from presidential election",
+        "summary": "Istanbul's jailed mayor Ekrem Imamoglu is barred from running in the upcoming Turkish…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "85fb49b8d6a1",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/dygnet-runt/for-mig-ar-det-har-nyarsafton",
+      "guid": "92f5c2d1-40d5-4d28-9c46-de4c1815a4ee",
+      "published_at": "2026-11-19T21:09:14+01:00",
+      "fetched_at": "2026-11-19T21:15:50+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/45a6b2f9-3321-4069-bc58-e55cf148dc57.jpeg?width=600",
+      "sv": {
+        "title": "”För mig är det här nyårsafton”",
+        "summary": "Tredje torsdagen i november släpps årets Beaujolais noveau, ett ungt franskt rödvin som vissa älskar – andra hatar. Oavsett vad man tycker har dagen blivit något av en folkfest. Sydsvenskan stack näsan i vinglas och pratade med glada vindrickare på Davidshall.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”For me, this is New Year's Eve”",
+        "summary": "The third Thursday in November sees the release of this year's Beaujolais nouveau, a young French red wine that some love and others hate. Whatever one thinks, the day has become something of a public festival. Sydsvenskan poked its nose into wine glasses and talked to happy wine drinkers at Davidshall."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "ff66f58c92b7",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/8Pmz5r/norwegian-hackat-ber-kunder-sparra-betalkort",
+      "guid": "https://www.svd.se/a/8Pmz5r/norwegian-hackat-ber-kunder-sparra-betalkort?utm_medium=rss",
+      "published_at": "2026-11-19T21:08:07+01:00",
+      "fetched_at": "2026-11-19T21:15:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Norwegian hackat – ber kunder spärra betalkort",
+        "summary": "Omkring 5 000 kunder till Norwegian, däribland i Sverige, har ombetts att spärra sina bankkort.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegian hacked – urges customers to block payment cards",
+        "summary": "About 5,000 customers of Norwegian, including in Sweden, have been asked to block their bank cards."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "a691ab3b6909",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/hilma-af-klints-verk-salt-for-rekordsumma",
+      "guid": "https://www.dn.se/kultur/hilma-af-klints-verk-salt-for-rekordsumma/",
+      "published_at": "2026-11-19T21:07:13+01:00",
+      "fetched_at": "2026-11-19T21:15:45+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/e0faa8c8-655e-4487-8a5f-c3f95052df93.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Hilma af Klints verk sålt för rekordsumma",
+        "summary": "Den svenska konstnärens verk, ungefär lika stort som ett A4-papper, blev det dyraste någonsin att säljas på auktion i Norden. Hilma af Klints målning såldes för 128,9 miljoner kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hilma af Klint work sold for record sum",
+        "summary": "The Swedish artist's work, roughly the size of an A4 sheet of paper, became the most expensive ever sold at auction in the Nordics. Hilma af Klint's painting sold for SEK 128.9 million."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "d4e3f24ea954",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/norwegian-ber-5-000-kunder-sparra-sina-bankkort-efter-dataintrang",
+      "guid": "https://www.svt.se/nyheter/utrikes/norwegian-ber-5-000-kunder-sparra-sina-bankkort-efter-dataintrang",
+      "published_at": "2026-11-19T21:03:56+01:00",
+      "fetched_at": "2026-11-19T21:15:43+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Norwegian ber 5 000 kunder spärra sina bankkort efter dataintrång",
+        "summary": "Omkring 5 000 kunder hos flygbolaget Norwegian uppmanas att omedelbart spärra sina bankkort efter ett dataintrång hos en extern IT-leverantör, rapporterar VG.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegian asks 5,000 customers to block their bank cards after data breach",
+        "summary": "About 5,000 customers of the airline Norwegian are urged to immediately block their bank cards after a data breach at an external IT supplier, reports VG."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "1f1785be7025",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/gasell/hans-mjukvara-gor-varldens-fartyg-energisnalare",
+      "guid": "a2833711-eb80-5281-bdcb-84ade7a302bd",
+      "published_at": "2026-11-19T21:00:00+01:00",
+      "fetched_at": "2026-11-19T21:15:49+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Hans mjukvara gör världens fartyg energisnålare",
+        "summary": "Jens Stjärna, grundare av CATC AB, levererar automationslösningar till allt från Älvsnabben i Göteborg till kryssningsjättar i Miami.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "His software makes the world's ships more energy-efficient",
+        "summary": "Jens Stjärna, founder of CATC AB, supplies automation solutions to everything from Älvsnabben in Göteborg to cruise giants in Miami."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "629cf4e1637f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/gasell/fran-motstand-till-sjalvklarhet-sa-tog-de-in-mensskydd-pa-arbetsplatserna",
+      "guid": "d75e8ce8-ab2f-5a65-add6-5a2718512b16",
+      "published_at": "2026-11-19T21:00:00+01:00",
+      "fetched_at": "2026-11-19T21:15:49+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Från motstånd till självklarhet – så tog de in mensskydd på arbetsplatserna",
+        "summary": "Ett självupplevt problem blev startskottet för Herbox. Hör grundarna Linn Rosenqvist och Hanna Lauste om resan till en omsättning på över 20 miljoner kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "From resistance to taken for granted – how they brought period protection into workplaces",
+        "summary": "A self-experienced problem became the starting point for Herbox. Listen to founders Linn Rosenqvist and Hanna Lauste about the journey to turnover of over SEK 20 million."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
     {
       "id": "54b13e24d8f7",
       "schema_version": 1,
@@ -5189,222 +5401,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T16:01:34+01:00"
-      }
-    },
-    {
-      "id": "f532c929783c",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/ecb-liten-men-vaxande-exponering-mot-datacenter-hos-bankerna",
-      "guid": "eecc8445-0d83-4dfd-bbdb-6cb8e61b131a",
-      "published_at": "2026-11-19T15:52:56+01:00",
-      "fetched_at": "2026-11-19T16:01:29+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "ECB: Liten men växande exponering mot datacenter hos bankerna",
-        "summary": "Bankernas kreditexponering mot datacenter inom euroområdet är relativt liten men växer snabbt, vilket kräver ökad uppmärksamhet. Det sade Claudia Buch, chef för banktillsynen vid ECB, på torsdagen enligt Reuters.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "ECB: Small but growing exposure to data centres at banks",
-        "summary": "Banks' credit exposure to data centres in the euro area is relatively small but growing rapidly, which requires increased attention. Claudia Buch, head of banking supervision at the ECB, said on Thursday according to Reuters."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:01:34+01:00"
-      }
-    },
-    {
-      "id": "27aba12579d1",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/OypPqV/gul-varning-for-snofall-i-stockholm",
-      "guid": "https://www.aftonbladet.se/nyheter/a/OypPqV/gul-varning-for-snofall-i-stockholm?utm_medium=rss",
-      "published_at": "2026-11-19T15:49:00+01:00",
-      "fetched_at": "2026-11-19T16:01:27+01:00",
-      "category": "weather",
-      "image_url": "https://akamai.vgc.no/v2/images/7838e339-b7b8-30f3-a71f-bc098e10ad34?format=auto&s=c415262db4f0a6812c596fc6417c39183ca601b6&w=1000",
-      "sv": {
-        "title": "Gul varning för snöfall i Stockholm",
-        "summary": "SMHI har utfärdat en gul varning för snöfall för Stockholm och Uppsala.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Yellow warning for snowfall in Stockholm",
-        "summary": "SMHI has issued a yellow warning for snowfall for Stockholm and Uppsala."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:01:34+01:00"
-      }
-    },
-    {
-      "id": "d02a0ddecef1",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80094",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80094&utm_medium=rss",
-      "published_at": "2026-11-19T15:47:14+01:00",
-      "fetched_at": "2026-11-19T16:01:26+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "Gul varning i Stockholm – 15 cm snö väntas"
-      },
-      "en": {
-        "title": "Yellow warning in Stockholm – 15 cm of snow expected"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:01:34+01:00"
-      }
-    },
-    {
-      "id": "e434b434d1f9",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346444",
-      "guid": "rss:sr.se/article/9346444",
-      "published_at": "2026-11-19T15:45:00+01:00",
-      "fetched_at": "2026-11-19T15:45:48+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "Snövarning för Stockholm",
-        "summary": "SMHI har utfärdat en gul varning för snöfall i Uppsala och Stockholms län under fredag och lördag. Det väntas komma mellan 5 och 15 centimeter nysnö, med de största mängderna i Uppland.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Snow warning for Stockholm",
-        "summary": "SMHI has issued a yellow warning for snowfall in Uppsala and Stockholm counties on Friday and Saturday. Between 5 and 15 centimetres of fresh snow is expected, with the largest amounts in Uppland."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
-      }
-    },
-    {
-      "id": "afc98d049a61",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/orgryte-is/flera-fragetecken-i-ois-infor-dramat-mot-kalmar.fcdc755b-f281-56f3-b9c7-1678fe39f84d",
-      "guid": "fcdc755b-f281-56f3-b9c7-1678fe39f84d",
-      "published_at": "2026-11-19T15:44:47+01:00",
-      "fetched_at": "2026-11-19T16:01:29+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Örgryte IS",
-        "Tagg: Mikael Dyrestam",
-        "Tagg: Johan Hammar",
-        "Tagg: Öis",
-        "Tagg: Adam Andersson",
-        "Tagg: Andreas Holmberg"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/ee5ebaaa-b0ba-38c9-b8bc-e1b389c21ffe",
-      "sv": {
-        "title": "Flera startspelare saknades på Öis träning",
-        "summary": "Mikael Dyrestam, Christoffer Styffe, Benjamin Laturnus och Adam Andersson osäkra inför Kalmarmatchen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Several starting players were missing from Öis training",
-        "summary": "Mikael Dyrestam, Christoffer Styffe, Benjamin Laturnus and Adam Andersson uncertain ahead of the Kalmar match."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:01:34+01:00"
-      }
-    },
-    {
-      "id": "7fc2afd30adf",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2311aaf8-3905-47f3-9bf6-d41429aba746",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2311aaf8-3905-47f3-9bf6-d41429aba746",
-      "published_at": "2026-11-19T15:44:40+01:00",
-      "fetched_at": "2026-11-19T16:01:28+01:00",
-      "category": "weather",
-      "sv": {
-        "title": "SMHI varnar för snö och vind",
-        "summary": "Slår till mot Stockholm",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "SMHI warns of snow and wind",
-        "summary": "Hits Stockholm"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:01:34+01:00"
-      }
-    },
-    {
-      "id": "cae4d7b44d66",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9337195",
-      "guid": "rss:sr.se/article/9337195",
-      "published_at": "2026-11-19T15:44:00+01:00",
-      "fetched_at": "2026-11-19T15:45:48+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Swedavia, Polisen och Göteborgs universitet har åtgärdat brister efter krav",
-        "summary": "Statliga flygplatsbolaget Swedavia, polisen och Göteborgs universitet, hör till de som fått krav från tillsynsmyndigheter på att åtgärda brister i säkerhetsskyddet – som handlar om att verksamheter som är viktiga för Sveriges säkerhet ska ha tillräckligt skydd mot sabotage, spionage och terrorism.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Swedavia, the Police and Göteborg University have fixed shortcomings after demands",
-        "summary": "State-owned airport operator Swedavia, the police and Göteborg University are among those that have received demands from supervisory authorities to remedy shortcomings in security protection – which concerns activities that are important to Sweden's security having adequate protection against sabotage, espionage and terrorism."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
-      }
-    },
-    {
-      "id": "c6d79f57527e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/krisande-storklubben-faller-pa-wall-street",
-      "guid": "535dfbd5-8985-4fbd-a97e-5789362093cd",
-      "published_at": "2026-11-19T15:43:11+01:00",
-      "fetched_at": "2026-11-19T15:45:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/116fe311-e51d-41ce-a088-f6b17b4e31e8.jpeg?width=600",
-      "sv": {
-        "title": "Krisande storklubben faller på Wall Street",
-        "summary": "Den engelska storklubben Manchester United, vars aktie handlas i New York, faller tungt efter en rejäl resultatförsämring under det gångna kvartalet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Struggling giant falls on Wall Street",
-        "summary": "The English football club Manchester United, whose shares trade in New York, falls sharply after a substantial deterioration in results in the past quarter."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
       }
     }
   ]

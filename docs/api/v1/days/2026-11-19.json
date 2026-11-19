@@ -1,7 +1,219 @@
 {
-  "generated_at": "2026-11-19T21:01:17+01:00",
-  "count": 641,
+  "generated_at": "2026-11-19T21:15:59+01:00",
+  "count": 649,
   "items": [
+    {
+      "id": "8760ee4d8ff7",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/norwegian-hackat-ber-kunder-sparra-betalkort",
+      "guid": "b1781ecd-9878-40e1-96aa-ddb19c4c127e",
+      "published_at": "2026-11-19T21:13:05+01:00",
+      "fetched_at": "2026-11-19T21:15:49+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/658e4119-916e-4c3e-be0f-3de0b90ecd88.jpeg?width=600",
+      "sv": {
+        "title": "Norwegian hackat – ber kunder spärra betalkort",
+        "summary": "Omkring 5.000 kunder till Norwegian, däribland i Sverige, har ombetts att spärra sina bankkort.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegian hacked – urges customers to block payment cards",
+        "summary": "About 5,000 customers of Norwegian, including in Sweden, have been asked to block their bank cards."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "79e375a53124",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/vkQy3l/istanbuls-borgmastare-stoppas-i-presidentvalet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/vkQy3l/istanbuls-borgmastare-stoppas-i-presidentvalet?utm_medium=rss",
+      "published_at": "2026-11-19T21:10:25+01:00",
+      "fetched_at": "2026-11-19T21:15:47+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/1103e76b-027e-3421-bf0e-34371fc462f6?format=auto&s=e354c828bbde06d1d9e44c333d5aeb3ff8a9b2a8&w=1000",
+      "sv": {
+        "title": "Istanbuls borgmästare stoppas i presidentvalet",
+        "summary": "Istanbuls fängslade borgmästare Ekrem Imamoglu stoppas från att ställa upp i det kommande turkiska…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Istanbul's mayor blocked from presidential election",
+        "summary": "Istanbul's jailed mayor Ekrem Imamoglu is barred from running in the upcoming Turkish…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "85fb49b8d6a1",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/dygnet-runt/for-mig-ar-det-har-nyarsafton",
+      "guid": "92f5c2d1-40d5-4d28-9c46-de4c1815a4ee",
+      "published_at": "2026-11-19T21:09:14+01:00",
+      "fetched_at": "2026-11-19T21:15:50+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/45a6b2f9-3321-4069-bc58-e55cf148dc57.jpeg?width=600",
+      "sv": {
+        "title": "”För mig är det här nyårsafton”",
+        "summary": "Tredje torsdagen i november släpps årets Beaujolais noveau, ett ungt franskt rödvin som vissa älskar – andra hatar. Oavsett vad man tycker har dagen blivit något av en folkfest. Sydsvenskan stack näsan i vinglas och pratade med glada vindrickare på Davidshall.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”For me, this is New Year's Eve”",
+        "summary": "The third Thursday in November sees the release of this year's Beaujolais nouveau, a young French red wine that some love and others hate. Whatever one thinks, the day has become something of a public festival. Sydsvenskan poked its nose into wine glasses and talked to happy wine drinkers at Davidshall."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "ff66f58c92b7",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/8Pmz5r/norwegian-hackat-ber-kunder-sparra-betalkort",
+      "guid": "https://www.svd.se/a/8Pmz5r/norwegian-hackat-ber-kunder-sparra-betalkort?utm_medium=rss",
+      "published_at": "2026-11-19T21:08:07+01:00",
+      "fetched_at": "2026-11-19T21:15:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Norwegian hackat – ber kunder spärra betalkort",
+        "summary": "Omkring 5 000 kunder till Norwegian, däribland i Sverige, har ombetts att spärra sina bankkort.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegian hacked – urges customers to block payment cards",
+        "summary": "About 5,000 customers of Norwegian, including in Sweden, have been asked to block their bank cards."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "a691ab3b6909",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/hilma-af-klints-verk-salt-for-rekordsumma",
+      "guid": "https://www.dn.se/kultur/hilma-af-klints-verk-salt-for-rekordsumma/",
+      "published_at": "2026-11-19T21:07:13+01:00",
+      "fetched_at": "2026-11-19T21:15:45+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/e0faa8c8-655e-4487-8a5f-c3f95052df93.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Hilma af Klints verk sålt för rekordsumma",
+        "summary": "Den svenska konstnärens verk, ungefär lika stort som ett A4-papper, blev det dyraste någonsin att säljas på auktion i Norden. Hilma af Klints målning såldes för 128,9 miljoner kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hilma af Klint work sold for record sum",
+        "summary": "The Swedish artist's work, roughly the size of an A4 sheet of paper, became the most expensive ever sold at auction in the Nordics. Hilma af Klint's painting sold for SEK 128.9 million."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "d4e3f24ea954",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/norwegian-ber-5-000-kunder-sparra-sina-bankkort-efter-dataintrang",
+      "guid": "https://www.svt.se/nyheter/utrikes/norwegian-ber-5-000-kunder-sparra-sina-bankkort-efter-dataintrang",
+      "published_at": "2026-11-19T21:03:56+01:00",
+      "fetched_at": "2026-11-19T21:15:43+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Norwegian ber 5 000 kunder spärra sina bankkort efter dataintrång",
+        "summary": "Omkring 5 000 kunder hos flygbolaget Norwegian uppmanas att omedelbart spärra sina bankkort efter ett dataintrång hos en extern IT-leverantör, rapporterar VG.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegian asks 5,000 customers to block their bank cards after data breach",
+        "summary": "About 5,000 customers of the airline Norwegian are urged to immediately block their bank cards after a data breach at an external IT supplier, reports VG."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "1f1785be7025",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/gasell/hans-mjukvara-gor-varldens-fartyg-energisnalare",
+      "guid": "a2833711-eb80-5281-bdcb-84ade7a302bd",
+      "published_at": "2026-11-19T21:00:00+01:00",
+      "fetched_at": "2026-11-19T21:15:49+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Hans mjukvara gör världens fartyg energisnålare",
+        "summary": "Jens Stjärna, grundare av CATC AB, levererar automationslösningar till allt från Älvsnabben i Göteborg till kryssningsjättar i Miami.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "His software makes the world's ships more energy-efficient",
+        "summary": "Jens Stjärna, founder of CATC AB, supplies automation solutions to everything from Älvsnabben in Göteborg to cruise giants in Miami."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
+    {
+      "id": "629cf4e1637f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/gasell/fran-motstand-till-sjalvklarhet-sa-tog-de-in-mensskydd-pa-arbetsplatserna",
+      "guid": "d75e8ce8-ab2f-5a65-add6-5a2718512b16",
+      "published_at": "2026-11-19T21:00:00+01:00",
+      "fetched_at": "2026-11-19T21:15:49+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Från motstånd till självklarhet – så tog de in mensskydd på arbetsplatserna",
+        "summary": "Ett självupplevt problem blev startskottet för Herbox. Hör grundarna Linn Rosenqvist och Hanna Lauste om resan till en omsättning på över 20 miljoner kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "From resistance to taken for granted – how they brought period protection into workplaces",
+        "summary": "A self-experienced problem became the starting point for Herbox. Listen to founders Linn Rosenqvist and Hanna Lauste about the journey to turnover of over SEK 20 million."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
     {
       "id": "54b13e24d8f7",
       "schema_version": 1,

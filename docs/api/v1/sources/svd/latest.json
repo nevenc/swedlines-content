@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T21:01:17+01:00",
+  "generated_at": "2026-11-19T21:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ff66f58c92b7",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/8Pmz5r/norwegian-hackat-ber-kunder-sparra-betalkort",
+      "guid": "https://www.svd.se/a/8Pmz5r/norwegian-hackat-ber-kunder-sparra-betalkort?utm_medium=rss",
+      "published_at": "2026-11-19T21:08:07+01:00",
+      "fetched_at": "2026-11-19T21:15:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Norwegian hackat – ber kunder spärra betalkort",
+        "summary": "Omkring 5 000 kunder till Norwegian, däribland i Sverige, har ombetts att spärra sina bankkort.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norwegian hacked – urges customers to block payment cards",
+        "summary": "About 5,000 customers of Norwegian, including in Sweden, have been asked to block their bank cards."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:15:59+01:00"
+      }
+    },
     {
       "id": "1d7a09161ff2",
       "schema_version": 1,
@@ -5193,33 +5219,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T22:31:17+01:00"
-      }
-    },
-    {
-      "id": "e049fb2f269e",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/M5R6v0/sd-ledamot-andrar-sig-tanker-inte-hoppa-av",
-      "guid": "https://www.svd.se/a/M5R6v0/sd-ledamot-andrar-sig-tanker-inte-hoppa-av?utm_medium=rss",
-      "published_at": "2026-11-16T21:57:51+01:00",
-      "fetched_at": "2026-11-16T22:01:12+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/13001824-6f57-3972-bc7d-5a49411a6199?format=auto&s=eb84adef0f5dcf39196ceedb7cd47f1147246f84&w=1000",
-      "sv": {
-        "title": "SD-ledamot ändrar sig – tänker inte hoppa av",
-        "summary": "SD-riksdagsledamoten Rasmus Giertz meddelade sitt avhopp efter anklagelser om sexuella övertramp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "SD member changes mind – does not intend to leave",
-        "summary": "Sweden Democrats Riksdag member Rasmus Giertz announced his resignation after accusations of sexual misconduct."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T22:01:25+01:00"
       }
     }
   ]
