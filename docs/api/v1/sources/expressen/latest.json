@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T23:01:22+01:00",
+  "generated_at": "2026-11-19T23:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cbbbef3e22a3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/ryska-blundern--pa-nya-skyltarna",
+      "guid": "https://www.expressen.se/nyheter/sverige/ryska-blundern--pa-nya-skyltarna/",
+      "published_at": "2026-11-19T23:01:25+01:00",
+      "fetched_at": "2026-11-19T23:15:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Ryska blundern på nya skyltarna",
+        "summary": "Trafikverkets nya MLC-skyltar ska sättas upp för att visa vilken belastning som olika broar klarar från militärfordon. Men en av siluetterna som användes tycks föreställa en rysk stridsvagn – och nu har skyltarna fått plockas ner. – Det är en bagatell.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Russian blunder on new signs",
+        "summary": "The Transport Administration's new MLC signs are to be put up to show the load capacity of various bridges for military vehicles. However, one of the silhouettes used appears to depict a Russian tank – and the signs have now had to be taken down. – It's a trifle."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:15:51+01:00"
+      }
+    },
     {
       "id": "e21a981c0abf",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T14:45:56+01:00"
-      }
-    },
-    {
-      "id": "aedfff308ea8",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/podcast/politikrummet-1/da-blir-kristersson-anda-statsminister",
-      "guid": "https://www.expressen.se/podcast/politikrummet-1/da-blir-kristersson-anda-statsminister/",
-      "published_at": "2026-11-16T14:26:55+01:00",
-      "fetched_at": "2026-11-16T14:31:06+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Då blir Kristersson ändå statsminister",
-        "summary": "Centerpartiet väljer Magdalena Andersson – så länge Vänsterpartiet backar. Samtidigt hålls dörren på glänt till höger. Är regeringsbildningen tillbaka på ruta ett? Lyssna på ”Politikrummet”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Then Kristersson becomes prime minister after all",
-        "summary": "The Centre Party chooses Magdalena Andersson – as long as the Left Party backs off. Meanwhile, the door to the right is left ajar. Is the government formation back at square one? Listen to \"Politikrummet\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:31:14+01:00"
       }
     }
   ]

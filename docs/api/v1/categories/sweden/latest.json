@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T23:01:22+01:00",
+  "generated_at": "2026-11-19T23:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cbbbef3e22a3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/ryska-blundern--pa-nya-skyltarna",
+      "guid": "https://www.expressen.se/nyheter/sverige/ryska-blundern--pa-nya-skyltarna/",
+      "published_at": "2026-11-19T23:01:25+01:00",
+      "fetched_at": "2026-11-19T23:15:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Ryska blundern på nya skyltarna",
+        "summary": "Trafikverkets nya MLC-skyltar ska sättas upp för att visa vilken belastning som olika broar klarar från militärfordon. Men en av siluetterna som användes tycks föreställa en rysk stridsvagn – och nu har skyltarna fått plockas ner. – Det är en bagatell.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Russian blunder on new signs",
+        "summary": "The Transport Administration's new MLC signs are to be put up to show the load capacity of various bridges for military vehicles. However, one of the silhouettes used appears to depict a Russian tank – and the signs have now had to be taken down. – It's a trifle."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:15:51+01:00"
+      }
+    },
     {
       "id": "1eef405b7a80",
       "schema_version": 1,
@@ -5357,32 +5383,6 @@
       "en": {
         "title": "After the fire at Långbro gård: \"It will get even better\"",
         "summary": "It was during the night to Sunday that one of the buildings at Långbro gård in Mölnbo burned down. Although it was a major shock for many at the farm, operations manager Johanna Hofring is looking positively to the future."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T05:31:08+01:00"
-      }
-    },
-    {
-      "id": "f74ffb45f206",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/smaland/utterjakten-pa-oland-splittrar-naturvanner-conny-lamnade-i-protest",
-      "guid": "https://www.svt.se/nyheter/lokalt/smaland/utterjakten-pa-oland-splittrar-naturvanner-conny-lamnade-i-protest",
-      "published_at": "2026-11-17T05:30:02+01:00",
-      "fetched_at": "2026-11-17T05:30:57+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Utterjakten på Öland splittrar naturvänner – Conny lämnade i protest",
-        "summary": "Beslutet om skyddjakt på en utter som förstör för forskningen om fågelinfluensa i Ottenby splittrar naturvänner. Conny Johansson satt tidigare i Naturskyddsföreningens styrelse, men avgick i protest mot att föreningen inte ställt sig bakom hans överklagande av beslutet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Otter hunt on Öland divides nature advocates – Conny resigned in protest",
-        "summary": "The decision on protective hunting of an otter that is disrupting research on avian influenza in Ottenby divides nature advocates. Conny Johansson previously sat on the board of the Swedish Society for Nature Conservation, but resigned in protest at the society not backing his appeal of the decision."
       },
       "translation": {
         "status": "done",

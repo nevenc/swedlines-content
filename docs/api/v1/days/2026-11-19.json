@@ -1,7 +1,114 @@
 {
-  "generated_at": "2026-11-19T23:01:22+01:00",
-  "count": 688,
+  "generated_at": "2026-11-19T23:15:51+01:00",
+  "count": 692,
   "items": [
+    {
+      "id": "1c3b5b74bc77",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/straffar-united-fans-for-inkastade-tennisbollar",
+      "guid": "1d25965b-04e2-4654-9222-122d27d80d65",
+      "published_at": "2026-11-19T23:09:48+01:00",
+      "fetched_at": "2026-11-19T23:15:47+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/9cd7e514-dad7-4382-acc7-6d0a3470314a.jpg?width=600",
+      "sv": {
+        "title": "Straffar United-fans för inkastade tennisbollar",
+        "summary": "Fyra Manchester United-supportrar straffas av klubben för att ha kastat in tennisbollar på planen under Champions League-mötet med Roma. Minst en av personerna stängs av från Old Trafford i tre år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Four Manchester United fans punished for throwing tennis balls onto the pitch",
+        "summary": "Four Manchester United supporters are being punished by the club for throwing tennis balls onto the pitch during the Champions League match against Roma. At least one of the individuals is banned from Old Trafford for three years."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:15:51+01:00"
+      }
+    },
+    {
+      "id": "74415364885a",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/fyra-man-doms-for-overgrepp-i-brittiskt-pelicotfall",
+      "guid": "https://www.dn.se/varlden/fyra-man-doms-for-overgrepp-i-brittiskt-pelicotfall/",
+      "published_at": "2026-11-19T23:04:47+01:00",
+      "fetched_at": "2026-11-19T23:15:44+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/430f6a38-4eb4-4102-8431-b72ff0374b84.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Fyra män döms för övergrepp i ”brittiskt Pelicotfall”",
+        "summary": "I 13 år drogade en brittisk man sin fru och bjöd in andra män för att förgripa sig på henne. På torsdagen dömdes fyra av dessa för att ha våldtagit och sexuellt utnyttjat kvinnan då hon var medvetslös. Fallet har jämförts med de brott Dominique Pelicot utsatte sin dåvarande fru Gisèle för.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Four men convicted in \"British Pelicot case\"",
+        "summary": "For 13 years, a British man drugged his wife and invited other men to sexually abuse her. On Thursday, four of these men were convicted of raping and sexually abusing the woman while she was unconscious. The case has been compared to the crimes Dominique Pelicot committed against his then wife Gisèle."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:15:51+01:00"
+      }
+    },
+    {
+      "id": "cbbbef3e22a3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/ryska-blundern--pa-nya-skyltarna",
+      "guid": "https://www.expressen.se/nyheter/sverige/ryska-blundern--pa-nya-skyltarna/",
+      "published_at": "2026-11-19T23:01:25+01:00",
+      "fetched_at": "2026-11-19T23:15:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Ryska blundern på nya skyltarna",
+        "summary": "Trafikverkets nya MLC-skyltar ska sättas upp för att visa vilken belastning som olika broar klarar från militärfordon. Men en av siluetterna som användes tycks föreställa en rysk stridsvagn – och nu har skyltarna fått plockas ner. – Det är en bagatell.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Russian blunder on new signs",
+        "summary": "The Transport Administration's new MLC signs are to be put up to show the load capacity of various bridges for military vehicles. However, one of the silhouettes used appears to depict a Russian tank – and the signs have now had to be taken down. – It's a trifle."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:15:51+01:00"
+      }
+    },
+    {
+      "id": "249966215586",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/svenska-forhandlaren-fossillander-bromsar-uppgorelse-pa-cop31",
+      "guid": "0929a1d1-6223-4a2f-8afc-1025690a1945",
+      "published_at": "2026-11-19T22:56:45+01:00",
+      "fetched_at": "2026-11-19T23:15:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/39a652fe-94d6-4ca9-b39e-a9714bdb78ff.jpeg?width=600",
+      "sv": {
+        "title": "Svenska förhandlaren: Fossilländer bromsar uppgörelse på COP31",
+        "summary": "När COP31 går in i sitt slutskede ökar pressen på förhandlarna. Panama hotar att blockera en uppgörelse som inte innehåller krav på att begränsa den globala oljeproduktionen, medan Sveriges chefsförhandlare Mattias Frumerie varnar för fortsatt motstånd från fossilproducerande länder.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish negotiator: fossil fuel countries slow deal at COP31",
+        "summary": "As COP31 enters its final stage, pressure on negotiators is mounting. Panama threatens to block an agreement that does not include demands to limit global oil production, while Sweden's chief negotiator Mattias Frumerie warns of continued resistance from fossil-fuel-producing countries."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:15:51+01:00"
+      }
+    },
     {
       "id": "dc7dcbc3a57f",
       "schema_version": 1,
