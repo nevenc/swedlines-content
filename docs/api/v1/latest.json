@@ -1,7 +1,381 @@
 {
-  "generated_at": "2026-11-19T07:01:22+01:00",
+  "generated_at": "2026-11-19T07:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "67cc2e6910cc",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/forlaget-ville-ha-20-000-kronor-for-att-ge-ut-ljudbok-trots-forlagsavtal",
+      "guid": "https://www.dn.se/kultur/forlaget-ville-ha-20-000-kronor-for-att-ge-ut-ljudbok-trots-forlagsavtal/",
+      "published_at": "2026-11-19T07:14:49+01:00",
+      "fetched_at": "2026-11-19T07:15:40+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/ebbdc871-b52e-4fd2-b519-cd5db5bb2c11.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Förlaget ville ha 20 000 kronor för att ge ut ljudbok – trots förlagsavtal",
+        "summary": "Hon har vunnit Katapultpriset och gett ut flera böcker. Men för att Lava förlag skulle ge ut ljudboken av Sofia Rapp Sundströms senaste roman ville förlaget att hon skulle betala 20 000 kronor, trots att hon hade ett traditionellt förlagsavtal.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Publisher wanted SEK 20,000 to release audiobook – despite publishing agreement",
+        "summary": "She has won the Katapult Prize and published several books. But for Lava förlag to release the audiobook of Sofia Rapp Sundström's latest novel, the publisher wanted her to pay SEK 20,000, despite her having a traditional publishing agreement."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
+    {
+      "id": "da34bb23f199",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/trump-overvager-nya-attacker-pa-iran-oljepriset-stiger",
+      "guid": "b45b3766-d73b-4f55-b0ee-78d04f69f50b",
+      "published_at": "2026-11-19T07:08:17+01:00",
+      "fetched_at": "2026-11-19T07:15:42+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trump överväger nya attacker på Iran – oljepriset stiger",
+        "summary": "Oljepriset stiger sedan det rapporterats att USA:s president Donald Trump överväger en ny omgång omfattande militära attacker mot Iran efter varningar om att landet återuppbygger sin robot- och drönarkapacitet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump considers new attacks on Iran – oil price rises",
+        "summary": "The oil price is rising after reports that US President Donald Trump is considering a new round of extensive military attacks on Iran, following warnings that the country is rebuilding its missile and drone capacity."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
+    {
+      "id": "c59c3cdb7333",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/bengt-ohlsson-ar-tokyos-himmelska-tonfiskar-goda-nog-for-en-katastrof",
+      "guid": "https://www.dn.se/kultur/bengt-ohlsson-ar-tokyos-himmelska-tonfiskar-goda-nog-for-en-katastrof/",
+      "published_at": "2026-11-19T07:04:08+01:00",
+      "fetched_at": "2026-11-19T07:15:40+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/8c1a346d-ed5a-4a47-91cc-43ed53f3878a.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Bengt Ohlsson: Är Tokyos himmelska tonfiskar goda nog för en katastrof?",
+        "summary": "I stora metropoler med mycket människor är de är det lätt att tänka: det här går ju inte. ”Ändå gör det det. Dag efter dag, skriver Bengt Ohlsson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bengt Ohlsson: Are Tokyo's heavenly tuna good enough for a catastrophe?",
+        "summary": "In large metropolises with many people, it is easy to think: this simply cannot work. \"Yet it does. Day after day, writes Bengt Ohlsson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
+    {
+      "id": "aec96f707ab1",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345833",
+      "guid": "rss:sr.se/article/9345833",
+      "published_at": "2026-11-19T07:03:00+01:00",
+      "fetched_at": "2026-11-19T07:15:40+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "AI-jätten till börsen – väntas sätta rekord",
+        "summary": "Den amerikanska AI-jätten Anthropic ska börsintroduceras med sin första handelsdag på Nasdaq i New York på torsdagen. Anthropic står bakom en av de stora AI-tjänsterna, Claude. I ett pressmeddelande skriver bolaget att introduktionskursen sätts till till 83 dollar per aktie.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "AI giant goes public – expected to set record",
+        "summary": "US AI giant Anthropic is to go public with its first trading day on Nasdaq in New York on Thursday. Anthropic is behind one of the major AI services, Claude. In a press release, the company writes that the introductory share price is set at USD 83 per share."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
+    {
+      "id": "d861d607984a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-85-kvm-saldes-for-2-6-miljoner",
+      "guid": "4e84739b-d423-403a-87be-d7efd6cea655",
+      "published_at": "2026-11-19T07:02:48+01:00",
+      "fetched_at": "2026-11-19T07:15:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Hus på 85 kvm såldes för 2,6 miljoner"
+      },
+      "en": {
+        "title": "85 sq m house sold for SEK 2.6 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
+    {
+      "id": "e3f173cbc272",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/ny-agare-till-tomt-i-hjarup",
+      "guid": "d1cda23d-985e-4fa1-b016-b4b551756701",
+      "published_at": "2026-11-19T07:02:48+01:00",
+      "fetched_at": "2026-11-19T07:15:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Ny ägare till tomt i Hjärup"
+      },
+      "en": {
+        "title": "New owner of plot in Hjärup"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
+    {
+      "id": "b9ae88644008",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/wallenberg-investerar-i-ai-bolag-fran-umea",
+      "guid": "7f9522a4-a460-4480-b472-8013d075b22f",
+      "published_at": "2026-11-19T07:02:31+01:00",
+      "fetched_at": "2026-11-19T07:15:42+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Wallenberg investerar i AI-bolag från Umeå",
+        "summary": "Finansfamiljen Wallenbergs privata ägarbolag Wallenberg Investments investerar i AI-bolaget Algoryx som har sin verksamhet på företagsinkubatorn Uminova i Umeå.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wallenberg invests in AI company from Umeå",
+        "summary": "The Wallenberg finance family's private holding company Wallenberg Investments is investing in the AI company Algoryx, which operates from the Uminova business incubator in Umeå."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
+    {
+      "id": "a51d01b1cf91",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/180-kvadratmeter-stort-hus-gick-for-6-3-miljoner",
+      "guid": "66750a9b-e145-40e8-91e6-153bfbf6e003",
+      "published_at": "2026-11-19T07:02:21+01:00",
+      "fetched_at": "2026-11-19T07:15:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "180 kvadratmeter stort hus gick för 6,3 miljoner"
+      },
+      "en": {
+        "title": "180 sq m house sold for SEK 6.3 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
+    {
+      "id": "b10e3692c7fb",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/51-aring-ny-agare-tar-over-hus",
+      "guid": "4d27c4b9-08df-446e-bd1f-c55f3565cfd9",
+      "published_at": "2026-11-19T07:02:09+01:00",
+      "fetched_at": "2026-11-19T07:15:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "51-åring ny ägare tar över hus"
+      },
+      "en": {
+        "title": "51-year-old new owner takes over house"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
+    {
+      "id": "e15b19c9fba1",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/145-kvadratmeter-stort-hus-i-bunkeflostrand-salt",
+      "guid": "41dbc1e3-6968-4f93-8673-42e48e90bfd3",
+      "published_at": "2026-11-19T07:02:08+01:00",
+      "fetched_at": "2026-11-19T07:15:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "145 kvadratmeter stort hus i Bunkeflostrand sålt"
+      },
+      "en": {
+        "title": "145 sq m house in Bunkeflostrand sold"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
+    {
+      "id": "778868f2f045",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-villa-yQTTr",
+      "guid": "f3617a84-1328-4917-8eb8-7af3b90c8847",
+      "published_at": "2026-11-19T07:02:06+01:00",
+      "fetched_at": "2026-11-19T07:15:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nya ägare till villa"
+      },
+      "en": {
+        "title": "New owners of villa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
+    {
+      "id": "d8f82374e446",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/talangen-vill-bryta-trend-i-varldscupen-ar-nara",
+      "guid": "https://www.dn.se/sport/talangen-vill-bryta-trend-i-varldscupen-ar-nara/",
+      "published_at": "2026-11-19T07:02:05+01:00",
+      "fetched_at": "2026-11-19T07:15:40+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/700355dd-655d-4ded-bce6-394c98b7a430.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Talangen vill bryta trend i världscupen: “Är nära”",
+        "summary": "Under sju raka säsonger har Sara Hector och Anna Swenn-Larsson varit Sveriges enda damåkare på pallen i alpina världscupen. I vinter finns förhoppningar om ett trendbrott. – Jag tror verkligen att jag är väldigt nära, säger talangen Cornelia Öhlund.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Talent wants to break trend in World Cup: \"Getting close\"",
+        "summary": "For seven straight seasons, Sara Hector and Anna Swenn-Larsson have been Sweden's only female skiers on the podium in the Alpine World Cup. This winter there is hope of breaking the trend. \"I really think I am very close,\" says talent Cornelia Öhlund."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
+    {
+      "id": "1b40fcb7c625",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/107-kvadratmeter-stort-hus-i-lomma-salt",
+      "guid": "18e1d15a-3c40-4fc5-9a0a-965352fcb282",
+      "published_at": "2026-11-19T07:01:58+01:00",
+      "fetched_at": "2026-11-19T07:15:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "107 kvadratmeter stort hus i Lomma sålt"
+      },
+      "en": {
+        "title": "107 sq m house in Lomma sold"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
+    {
+      "id": "2c85828e8f2c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/brister-i-sveriges-skydd-mot-spionage-och-terrorism",
+      "guid": "9013684e-2313-41e9-a2c3-e9a47caf5d42",
+      "published_at": "2026-11-19T07:01:06+01:00",
+      "fetched_at": "2026-11-19T07:15:42+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/804481ca-d48f-495e-b2a2-9751b95256ea.jpg?width=600",
+      "sv": {
+        "title": "Brister i Sveriges skydd mot spionage och terrorism",
+        "summary": "Svenska myndigheter har hittat brister i säkerhetsarbetet hos flera samhällsviktiga verksamheter inom bland annat infrastruktur, och energiförsörjning, visar en granskning som Sveriges Radios Ekot har gjort.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Shortcomings in Sweden's protection against espionage and terrorism",
+        "summary": "Swedish authorities have found shortcomings in the security work of several societally important operations, including in infrastructure and energy supply, according to a review conducted by Ekot, Sveriges Radio."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
+    {
+      "id": "b92bc4f63ce9",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/VxbeeV/overklagar-vargjakten-hor-hemma-i-svensk-natur",
+      "guid": "https://www.svd.se/a/VxbeeV/overklagar-vargjakten-hor-hemma-i-svensk-natur?utm_medium=rss",
+      "published_at": "2026-11-19T07:00:11+01:00",
+      "fetched_at": "2026-11-19T07:15:41+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/bcb6bfab-5be8-31bb-a3af-5e60a60a0eb3?format=auto&s=479711182460d402c51899eb562c3097ab65cd6f&w=1000",
+      "sv": {
+        "title": "Överklagar vargjakten: ”Hör hemma i svensk natur”",
+        "summary": "Naturskyddsföreningen överklagar nästa års licensjakt på varg. – Vargen hör hemma i den svenska…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Appeals wolf hunt: \"Belongs in Swedish nature\"",
+        "summary": "The Swedish Society for Nature Conservation is appealing next year's licensed wolf hunt. \"The wolf belongs in Swedish nature..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
     {
       "id": "89117c7d0087",
       "schema_version": 1,
@@ -81,6 +455,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T07:01:21+01:00"
+      }
+    },
+    {
+      "id": "1a4732bed8c2",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/musk-kanner-mig-ganska-dum",
+      "guid": "2f3a86fc-4009-4e14-a90b-0f40491fe213",
+      "published_at": "2026-11-19T06:59:14+01:00",
+      "fetched_at": "2026-11-19T07:15:42+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d1fc7a4b-2621-48dd-a372-6137020f2ee9.jpg?width=600",
+      "sv": {
+        "title": "Musk: ”Känner mig ganska dum”",
+        "summary": "Elon Musk donerade miljardsummor till Republikanerna i valrörelsen inför mellanårsvalet i USA. Ett beslut han i efterhand ångrar. ”Jag känner mig ganska dum”, säger han under en konferens som anordnats av The New York Times.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Musk: \"I feel quite stupid\"",
+        "summary": "Elon Musk donated billions to the Republicans in the campaign ahead of the US midterm elections. A decision he later regrets. \"I feel quite stupid,\" he says at a conference organised by The New York Times."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
       }
     },
     {
@@ -5047,448 +5448,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T19:15:55+01:00"
-      }
-    },
-    {
-      "id": "789a19071d6d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/LoA664/vagrar-begrava-skytten-michal-oksinski-i-krakow",
-      "guid": "https://www.aftonbladet.se/nyheter/a/LoA664/vagrar-begrava-skytten-michal-oksinski-i-krakow?utm_medium=rss",
-      "published_at": "2026-11-18T19:09:34+01:00",
-      "fetched_at": "2026-11-18T19:15:46+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/8a70789c-6789-3366-aa08-8bad7643ecfd?format=auto&s=f9e4fc7781e0385fe30ef8377d7dc05b8c03853d&w=1000",
-      "sv": {
-        "title": "Vägrar begrava skytten – kan skänka bort kroppen",
-        "summary": "Mormorn har en annan idé",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Refuses to bury the shooter – may donate the body",
-        "summary": "Grandmother has a different idea"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:15:55+01:00"
-      }
-    },
-    {
-      "id": "644d4e8606e5",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345713",
-      "guid": "rss:sr.se/article/9345713",
-      "published_at": "2026-11-18T19:09:00+01:00",
-      "fetched_at": "2026-11-18T19:15:44+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Misstänkt mord på Jylland – två vuxna och ett barn döda",
-        "summary": "I den danska orten Give, på Jylland, misstänker polisen att tre personer har mördats, rapporterar danska medier. Det handlar om en tioårig flicka och två vuxna, som hittades i deras hem under förmiddagen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Suspected murder in Jutland – two adults and a child dead",
-        "summary": "In the Danish town of Give, in Jutland, police suspect three people have been murdered, Danish media report. It concerns a ten-year-old girl and two adults, who were found in their home during the morning."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:15:55+01:00"
-      }
-    },
-    {
-      "id": "9b08cc87c9e1",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/bakom-julklappen-rekordintakter-for-svenska-lopp",
-      "guid": "8a790f87-e1e2-4c32-9c52-4902b77fd231",
-      "published_at": "2026-11-18T19:06:46+01:00",
-      "fetched_at": "2026-11-18T19:15:48+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6e0b9f28-a08f-4326-9095-b1dd85157639.jpeg?width=600",
-      "sv": {
-        "title": "Bakom julklappen: Rekordintäkter för svenska lopp",
-        "summary": "När HUI Research utser startnumret till årets julklapp sätts strålkastarljuset på en bransch som hittat formen efter pandemins ökenvandring. Men även om intäkterna från de största motionsloppen nått nya höjder är antalet deltagare fortfarande lägre än 2019.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Behind the Christmas present: Record revenues for Swedish races",
-        "summary": "When HUI Research picks the start number for this year's Christmas present, the spotlight falls on an industry that has found its form after the pandemic's desert wandering. But even though revenues from the largest fun runs have reached new heights, the number of participants is still lower than in 2019."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:15:55+01:00"
-      }
-    },
-    {
-      "id": "6eb54998078e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/batljans-olivkvist-uteblev",
-      "guid": "771b2be8-4562-4ae4-bb94-990a6acabe54",
-      "published_at": "2026-11-18T19:05:49+01:00",
-      "fetched_at": "2026-11-18T19:15:48+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b01325fc-7df5-4c15-a848-62e52abc35c6.jpeg?width=600",
-      "sv": {
-        "title": "Batljans olivkvist uteblev",
-        "summary": "Striden kring Ilija Batljans obligationslån såg ut att kunna få ett slut när SBB-grundaren flaggade för ett kommande återköpserbjudande – med inbyggd fredsklausul. Men något erbjudande presenterades aldrig inom den tidsram som fastighetsprofilen satte upp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Batljan's olive branch failed to materialise",
-        "summary": "The dispute over Ilija Batljan's bond loans looked set to end when the SBB founder signalled an upcoming buyback offer – with a built-in peace clause. But no offer was ever presented within the timeframe set by the property figure."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:15:55+01:00"
-      }
-    },
-    {
-      "id": "8294caedc4bf",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/varfor-attackerar-ukraina-krimbron-chatta-med-militarexperten",
-      "guid": "https://www.dn.se/varlden/varfor-attackerar-ukraina-krimbron-chatta-med-militarexperten/",
-      "published_at": "2026-11-18T19:04:59+01:00",
-      "fetched_at": "2026-11-18T19:15:45+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/7d25a984-de47-4b9a-ab21-cb21a5ad8765.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Varför attackerar Ukraina Krimbron? Chatta med militärexperten",
-        "summary": "Varför attackerar Ukraina Krimbron igen? Spelar det någon roll för kriget? Och får Ukraina några nya vapen från USA nu? Chatta med militärexperten Johan Huovinen klockan 20 – ställ dina frågor redan nu!",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Why is Ukraine attacking the Crimea bridge? Chat with the military expert",
-        "summary": "Why is Ukraine attacking the Crimea bridge again? Does it matter for the war? And will Ukraine receive any new weapons from the USA now? Chat with military expert Johan Huovinen at 20:00 – ask your questions now!"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:15:55+01:00"
-      }
-    },
-    {
-      "id": "fd132c52fa45",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/statsvetare-svart-att-lita-pa-opinionsmatningar-nu",
-      "guid": "ba0e033c-50c6-44e1-8152-fdb80bdbbb51",
-      "published_at": "2026-11-18T19:04:49+01:00",
-      "fetched_at": "2026-11-18T19:15:49+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/a6dfea86-6b36-4835-a43b-4129a94d4a2a.jpg?width=600",
-      "sv": {
-        "title": "Statsvetare: Svårt att lita på opinionsmätningar nu",
-        "summary": "Tidösidan har ett övertag i opinionen efter valet och särskilt Moderaterna har vind i seglen. Statsvetarna varnar dock för att dra för stora slutsatser av mätningarna. – Men det verkar finnas en stor besvikelse i väljarkåren, säger Henrik Ekengren Oscarsson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Political scientist: Hard to trust opinion polls now",
-        "summary": "The Tidö side has an edge in opinion polls after the election, and the Moderates in particular have the wind in their sails. The political scientists warn, however, against drawing too-big conclusions from the polls. \"But there seems to be a major disappointment among voters,\" says Henrik Ekengren Oscarsson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:15:55+01:00"
-      }
-    },
-    {
-      "id": "c8f4ef6667d6",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/kMJeKQ/statsvetare-svart-att-lita-pa-opinionsmatningar-nu",
-      "guid": "https://www.svd.se/a/kMJeKQ/statsvetare-svart-att-lita-pa-opinionsmatningar-nu?utm_medium=rss",
-      "published_at": "2026-11-18T19:04:43+01:00",
-      "fetched_at": "2026-11-18T19:15:46+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/a30e6b90-5699-3fa2-8eb5-698a6fa3cffc?format=auto&s=89b7602b204b4512117fe753a69618dc115939ed&w=1000",
-      "sv": {
-        "title": "Statsvetare: Svårt att lita på opinionsmätningar nu",
-        "summary": "Tidösidan har ett övertag i opinionen efter valet och särskilt Moderaterna har vind i seglen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Political scientist: Hard to trust opinion polls now",
-        "summary": "The Tidö side has an edge in opinion polls after the election, and the Moderates in particular have the wind in their sails."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:15:55+01:00"
-      }
-    },
-    {
-      "id": "ef71c174846b",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/GPGe6B/statsvetare-svart-att-lita-pa-opinionsmatningar-nu",
-      "guid": "https://www.aftonbladet.se/nyheter/a/GPGe6B/statsvetare-svart-att-lita-pa-opinionsmatningar-nu?utm_medium=rss",
-      "published_at": "2026-11-18T19:04:42+01:00",
-      "fetched_at": "2026-11-18T19:15:46+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/a30e6b90-5699-3fa2-8eb5-698a6fa3cffc?format=auto&s=89b7602b204b4512117fe753a69618dc115939ed&w=1000",
-      "sv": {
-        "title": "Statsvetare: Svårt att lita på opinionsmätningar nu",
-        "summary": "Tidösidan har ett övertag i opinionen efter valet och särskilt Moderaterna har vind i seglen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Political scientist: Hard to trust opinion polls now",
-        "summary": "The Tidö side has an edge in opinion polls after the election, and the Moderates in particular have the wind in their sails."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:15:55+01:00"
-      }
-    },
-    {
-      "id": "bfdddfe7a4d3",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/julio-iglesias-utreds-for-overgrepp",
-      "guid": "73d847b7-41fd-4156-808b-c36f54ffa345",
-      "published_at": "2026-11-18T19:00:33+01:00",
-      "fetched_at": "2026-11-18T19:01:13+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/9ffc489e-55d8-4b20-9f2e-009f826a82b6.jpg?width=600",
-      "sv": {
-        "title": "Julio Iglesias utreds för övergrepp",
-        "summary": "Den spanske sångaren Julio Iglesias, 83, anklagas för övergrepp av två tidigare anställda. Nu har en spansk domare inlett en utredning mot sångaren.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Julio Iglesias under investigation for abuse",
-        "summary": "The Spanish singer Julio Iglesias, 83, is accused of abuse by two former employees. A Spanish judge has now opened an investigation into the singer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:01:17+01:00"
-      }
-    },
-    {
-      "id": "9c85ff503112",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/topparna-saknades-i-riksdagen-uppges-forhandla",
-      "guid": "https://www.expressen.se/nyheter/politik/topparna-saknades-i-riksdagen-uppges-forhandla/",
-      "published_at": "2026-11-18T19:00:17+01:00",
-      "fetched_at": "2026-11-18T19:15:47+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Topparna saknades i riksdagen – uppges förhandla",
-        "summary": "Flera toppar från det rödgröna blocket saknades i riksdagen under onsdagen. Enligt uppgifter till SVT missade de dagens votering – på grund av regeringsförhandlingar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Top figures absent from the Riksdag – reportedly negotiating",
-        "summary": "Several leading figures from the red-green bloc were absent from the Riksdag on Wednesday. According to SVT, they missed today's vote – due to government negotiations."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:15:55+01:00"
-      }
-    },
-    {
-      "id": "1dcea67de823",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/kultur/utbildning-i-riktiga-yrken-eller-lalla-runt-pa-en-kurs-i-jazz-sverker-sorlin-slar-ett-slag-for-folkbildning",
-      "guid": "6939bce2-2900-49ba-bf67-3df7d6a57ffd",
-      "published_at": "2026-11-18T19:00:00+01:00",
-      "fetched_at": "2026-11-18T19:01:13+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/85b2a472-f009-45f6-9865-11920c3baa84.jpeg?width=600",
-      "sv": {
-        "title": "Utbildning i ”riktiga” yrken eller lalla runt på en kurs i jazz? Sverker Sörlin slår ett slag för folkbildning",
-        "summary": "Jag slår ihop boken enormt sugen på att anmäla mig till en kurs. Ändå anar jag i denna ambitiösa skrift faktiskt en ännu intressantare bok, mindre agiterande men avsevärt mer personlig, skriver Anna Hellsten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Training in \"real\" professions or hanging around a jazz course? Sverker Sörlin makes the case for adult education",
-        "summary": "I close the book intensely eager to sign up for a course. Yet in this ambitious work I sense an even more interesting book, less agitating but considerably more personal, writes Anna Hellsten."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:01:17+01:00"
-      }
-    },
-    {
-      "id": "ed9c063c9188",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/dygnet-runt/sa-blev-tva-killar-fran-lund-storst-pa-mtv-i-europa",
-      "guid": "55dd03f5-63dc-4db0-9cd1-af36876bbf97",
-      "published_at": "2026-11-18T19:00:00+01:00",
-      "fetched_at": "2026-11-18T19:01:13+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/b2c84b22-9dc6-476d-b20a-763d55085400.jpeg?width=600",
-      "sv": {
-        "title": "Så blev två killar från Lund störst på MTV i Europa",
-        "summary": "På 1990-talet regerade musikvideon, och på tronen satt två killar från Lund. Nu blir historien om hur Fredrik Boklund och Martin Persson blev störst på MTV både bok och festival på hemmaplan. – Om jag fick råda så skulle man resa ett monument över Apollon i Lund, säger författaren Karl G Jönsson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "How two guys from Lund became biggest on MTV in Europe",
-        "summary": "In the 1990s the music video reigned, and two guys from Lund sat on the throne. Now the story of how Fredrik Boklund and Martin Persson became biggest on MTV is both a book and a festival on home turf. – If I could advise, a monument should be raised to Apollon in Lund, says author Karl G Jönsson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:01:17+01:00"
-      }
-    },
-    {
-      "id": "1c46f22a4d66",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/maktkampen-pa-sigtuna-elevernas-egna-ord",
-      "guid": "https://www.expressen.se/nyheter/sverige/maktkampen-pa-sigtuna-elevernas-egna-ord/",
-      "published_at": "2026-11-18T18:57:25+01:00",
-      "fetched_at": "2026-11-18T19:01:11+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Maktkampen på Sigtuna – elevernas egna ord",
-        "summary": "Försöken att stoppa kamratuppfostran på Sigtunaskolan har mötts av protester – från eleverna. En djupdykning i skoltidningens arkiv visar en återkommande maktkamp mellan barn och vuxna. – Det är alltid elevgruppen som går segrande ur det här, säger internatforskaren Petter Sandgren.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The power struggle at Sigtuna – in the pupils' own words",
-        "summary": "Attempts to stop peer-on-peer abuse at Sigtunaskolan have met with protests – from the pupils. A deep dive into the school magazine's archive shows a recurring power struggle between children and adults. – It is always the pupil group that comes out victorious, says boarding-school researcher Petter Sandgren."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:01:17+01:00"
-      }
-    },
-    {
-      "id": "6352b887ea67",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/varlden/det-ar-sma-stater-som-betalar-priset-om-stormakterna-far-bestamma.5463c188-6323-5756-b85c-dccd6c8929c5",
-      "guid": "5463c188-6323-5756-b85c-dccd6c8929c5",
-      "published_at": "2026-11-18T18:53:44+01:00",
-      "fetched_at": "2026-11-18T19:15:48+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Världen",
-        "Tagg: Shenzhen",
-        "Tagg: Vladimir Putin",
-        "Tagg: Europa",
-        "Tagg: Donald Trump",
-        "Tagg: Volodymyr Zelenskyj",
-        "Tagg: Xi Jinping",
-        "Tagg: Ryssland",
-        "Tagg: USA",
-        "Tagg: Kina",
-        "Tagg: Ge mig perspektiv - BEHOV"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/567aace7-a599-3885-ada4-b3b731f10ed6",
-      "sv": {
-        "title": "Analys: Därför ska du oroa dig för stormaktsmötet",
-        "summary": "Donald Trump möter Rysslands Vladimir Putin och Kinas Xi Jinping ska ha ett historiskt trepartssamtal. Det finns goda skäl att oroa sig för vad de kommer att diskutera, skriver GP:s Andreas Granath.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Analysis: Why you should be worried about the superpower summit",
-        "summary": "Donald Trump meets Russia's Vladimir Putin, and China's Xi Jinping is reportedly to hold a historic three-way conversation. There are good reasons to be concerned about what they will discuss, writes GP's Andreas Granath."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:15:55+01:00"
-      }
-    },
-    {
-      "id": "051cbafb9ffd",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/kallor-anthropic-overvager-utoka-borsintroduktionen",
-      "guid": "2748443c-f1c0-405b-8c70-317ba6bad684",
-      "published_at": "2026-11-18T18:50:34+01:00",
-      "fetched_at": "2026-11-18T19:01:11+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/73edd707-36b5-42f5-897b-cb8acfcab6f2.jpeg?width=600",
-      "sv": {
-        "title": "Källor: Anthropic överväger utöka börsintroduktionen",
-        "summary": "Det amerikanska AI-bolaget Anthropic överväger att utöka omfattningen av sitt erbjudande inför torsdagens börsnotering.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sources: Anthropic considers expanding its IPO",
-        "summary": "The American AI company Anthropic is considering expanding the scope of its offering ahead of Thursday's stock market listing."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:01:17+01:00"
-      }
-    },
-    {
-      "id": "5b0fbdc77328",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/LoAmWQ/stort-sug-efter-forsta-vinet-fran-arets-skord",
-      "guid": "https://www.svd.se/a/LoAmWQ/stort-sug-efter-forsta-vinet-fran-arets-skord?utm_medium=rss",
-      "published_at": "2026-11-18T18:43:35+01:00",
-      "fetched_at": "2026-11-18T18:45:41+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/474128e4-6b99-3661-8c67-64016978898f?format=auto&s=01df47dad95026c247efd0de4941d93754e7f98d&w=1000",
-      "sv": {
-        "title": "Stort sug efter första vinet från årets skörd",
-        "summary": "Tredje torsdagen i november är det trängsel i barer och butiker världen över.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Big demand for the first wine from this year's harvest",
-        "summary": "On the third Thursday in November there is crowding in bars and shops around the world."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T18:45:55+01:00"
       }
     }
   ]

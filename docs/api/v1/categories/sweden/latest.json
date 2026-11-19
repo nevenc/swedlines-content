@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T07:01:22+01:00",
+  "generated_at": "2026-11-19T07:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b92bc4f63ce9",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/VxbeeV/overklagar-vargjakten-hor-hemma-i-svensk-natur",
+      "guid": "https://www.svd.se/a/VxbeeV/overklagar-vargjakten-hor-hemma-i-svensk-natur?utm_medium=rss",
+      "published_at": "2026-11-19T07:00:11+01:00",
+      "fetched_at": "2026-11-19T07:15:41+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/bcb6bfab-5be8-31bb-a3af-5e60a60a0eb3?format=auto&s=479711182460d402c51899eb562c3097ab65cd6f&w=1000",
+      "sv": {
+        "title": "Överklagar vargjakten: ”Hör hemma i svensk natur”",
+        "summary": "Naturskyddsföreningen överklagar nästa års licensjakt på varg. – Vargen hör hemma i den svenska…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Appeals wolf hunt: \"Belongs in Swedish nature\"",
+        "summary": "The Swedish Society for Nature Conservation is appealing next year's licensed wolf hunt. \"The wolf belongs in Swedish nature..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
     {
       "id": "89117c7d0087",
       "schema_version": 1,
@@ -5411,33 +5438,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T14:45:42+01:00"
-      }
-    },
-    {
-      "id": "8a990849a5e5",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/oMpAvV/kommunen-andrade-sin-bild-efter-granskningen",
-      "guid": "https://www.svd.se/a/oMpAvV/kommunen-andrade-sin-bild-efter-granskningen?utm_medium=rss",
-      "published_at": "2026-11-15T14:16:38+01:00",
-      "fetched_at": "2026-11-15T14:30:56+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/fe828596-1bf0-38af-9442-6f009fb2ca78?format=auto&s=62b2b8c1c43653f2089dba66b99ac08fb9f8b752&w=1000",
-      "sv": {
-        "title": "Kommunen ändrade sin bild efter granskningen",
-        "summary": "Max Olofsson var bara 13 år när han tog sitt liv. I ett nytt avsnitt i dokumentärserien ”Varför dog…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Municipality changes its stance after the investigation",
-        "summary": "Max Olofsson was only 13 years old when he took his own life. In a new episode of the documentary series \"Varför dog…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T14:31:04+01:00"
       }
     }
   ]

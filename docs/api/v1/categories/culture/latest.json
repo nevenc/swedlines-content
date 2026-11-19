@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T07:01:22+01:00",
+  "generated_at": "2026-11-19T07:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "67cc2e6910cc",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/forlaget-ville-ha-20-000-kronor-for-att-ge-ut-ljudbok-trots-forlagsavtal",
+      "guid": "https://www.dn.se/kultur/forlaget-ville-ha-20-000-kronor-for-att-ge-ut-ljudbok-trots-forlagsavtal/",
+      "published_at": "2026-11-19T07:14:49+01:00",
+      "fetched_at": "2026-11-19T07:15:40+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/ebbdc871-b52e-4fd2-b519-cd5db5bb2c11.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Förlaget ville ha 20 000 kronor för att ge ut ljudbok – trots förlagsavtal",
+        "summary": "Hon har vunnit Katapultpriset och gett ut flera böcker. Men för att Lava förlag skulle ge ut ljudboken av Sofia Rapp Sundströms senaste roman ville förlaget att hon skulle betala 20 000 kronor, trots att hon hade ett traditionellt förlagsavtal.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Publisher wanted SEK 20,000 to release audiobook – despite publishing agreement",
+        "summary": "She has won the Katapult Prize and published several books. But for Lava förlag to release the audiobook of Sofia Rapp Sundström's latest novel, the publisher wanted her to pay SEK 20,000, despite her having a traditional publishing agreement."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:15:50+01:00"
+      }
+    },
     {
       "id": "fcf9b644b89c",
       "schema_version": 1,
@@ -5598,33 +5625,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T10:01:35+01:00"
-      }
-    },
-    {
-      "id": "5da9d0583d10",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/0vE2wM/livreer-som-speglar-hovets-hierarki",
-      "guid": "https://www.svd.se/a/0vE2wM/livreer-som-speglar-hovets-hierarki?utm_medium=rss",
-      "published_at": "2026-11-16T08:30:00+01:00",
-      "fetched_at": "2026-11-16T08:45:43+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/fd920aee-e3fa-301d-bbbc-cb5e8d21b1e4?format=auto&s=71a289c5a56488c7abd75ccad5298c3e360ccc85&w=1000",
-      "sv": {
-        "title": "Livréer som speglar hovets hierarki",
-        "summary": "Livrustkammarens nya utställning skildrar det samhälle som hovet en gång utgjorde.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Liveries that mirror the court's hierarchy",
-        "summary": "The Royal Armoury's new exhibition depicts the society the court once constituted."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T08:45:53+01:00"
       }
     }
   ]
