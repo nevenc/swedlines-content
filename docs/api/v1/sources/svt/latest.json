@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T12:15:48+01:00",
+  "generated_at": "2026-11-19T12:31:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6f64e64d9ec6",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/hel-overvaning-i-brand-i-pitea-en-person-till-sjukhus",
+      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/hel-overvaning-i-brand-i-pitea-en-person-till-sjukhus",
+      "published_at": "2026-11-19T12:21:52+01:00",
+      "fetched_at": "2026-11-19T12:31:03+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Hel övervåning i brand i Piteå – en person till sjukhus",
+        "summary": "Det brinner i en suterrängvilla i stadsdelen Djupviken i Piteå. Enligt SOS alarm brinner hela övervåningen med öppna lågor och en person har transporterats med ambulans till sjukvård.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Entire upper floor ablaze in Piteå house fire – one person to hospital",
+        "summary": "A fire is burning in a split-level villa in the Djupviken district of Piteå. According to SOS Alarm, the entire upper floor is on fire with open flames and one person has been transported by ambulance for medical care."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T12:31:18+01:00"
+      }
+    },
     {
       "id": "a0503b20e9b5",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "SEK 330 million for biogas plant investment in Norrköping",
         "summary": "Lantmännen plans to build Sweden's largest biogas plant at Händelö in Norrköping. The Swedish Environmental Protection Agency has now granted SEK 330 million in investment support through Klimatklivet."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "36bc2c2574dc",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/kultur/kontroversiella-kneecap-till-svt-har-ratt-att-vara-arga",
-      "guid": "https://www.svt.se/kultur/kontroversiella-kneecap-till-svt-har-ratt-att-vara-arga",
-      "published_at": "2026-11-13T11:17:51+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Kontroversiella Kneecap till SVT: ”Har rätt att vara arga”",
-        "summary": "Nordirländska bandet Kneecaps åsikter om Palestina och Gaza har gjort att de ställts inför rätta i Storbritannien och fått ett flertal konserter inställda. Själva förstår de inte upprördheten. – Jag tycker inte att det är kontroversiellt att kalla det som händer i Palestina för ett folkmord.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Controversial Kneecap to SVT: 'Have the right to be angry'",
-        "summary": "The Northern Irish band Kneecap's views on Palestine and Gaza have led to them being put on trial in the UK and having several concerts cancelled. They themselves do not understand the outrage. – I don't think it is controversial to call what is happening in Palestine a genocide."
       },
       "translation": {
         "status": "done",

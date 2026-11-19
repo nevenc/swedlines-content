@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T12:15:48+01:00",
+  "generated_at": "2026-11-19T12:31:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "25ab8220fb40",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/torbjorn-petersson-en-iscensatt-show-med-detaljerat-kinesiskt-manus",
+      "guid": "https://www.dn.se/varlden/torbjorn-petersson-en-iscensatt-show-med-detaljerat-kinesiskt-manus/",
+      "published_at": "2026-11-19T12:19:34+01:00",
+      "fetched_at": "2026-11-19T12:31:05+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/cae2af4d-5c10-48b1-af06-83860a196ebb.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Torbjörn Petersson: En iscensatt show med detaljerat kinesiskt manus",
+        "summary": "Peking. För den kinesiske ledaren Xi Jinping blev det en prestigevinst, för Vladimir Putin ett bevis för att omvärlden misslyckats med att isolera honom. Frågan är vad Donald Trump fick ut av det historiska mötet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Torbjörn Petersson: A staged show with a detailed Chinese script",
+        "summary": "Beijing. For Chinese leader Xi Jinping it was a prestige win; for Vladimir Putin, proof that the outside world has failed to isolate him. The question is what Donald Trump got out of the historic meeting."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T12:31:18+01:00"
+      }
+    },
     {
       "id": "bc8d1d8af09c",
       "schema_version": 1,
@@ -5361,33 +5388,6 @@
       "en": {
         "title": "Charming Old Duo Turns “Arne goes to space” Into Touching Swedish Science Fiction",
         "summary": "Two elderly brothers from Norrland suddenly receive an unexpected visit. An alien unlocks frozen emotions in a touching story about brotherly love, falukorv sausage and log splitting, writes Wanda Bendjelloul."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:17:06+01:00"
-      }
-    },
-    {
-      "id": "00e3d2f33913",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/firades-som-danmarks-aldsta-hade-morkt-forflutet",
-      "guid": "https://www.dn.se/varlden/firades-som-danmarks-aldsta-hade-morkt-forflutet/",
-      "published_at": "2026-11-16T15:12:03+01:00",
-      "fetched_at": "2026-11-16T15:16:56+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/0aa58c2e-18d4-4bf9-bc04-5da5e618b98b.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Firades som Danmarks äldsta – hade mörkt förflutet",
-        "summary": "Hon har under hösten firats som den äldsta personen i Danmarks historia. Men av uppmärksamheten följde avslöjanden från en mörkare del av hennes liv.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Celebrated as Denmark's Oldest – Had a Dark Past",
-        "summary": "She was celebrated this autumn as the oldest person in Danish history. But the attention was followed by revelations from a darker part of her life."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-19T12:15:48+01:00",
+  "generated_at": "2026-11-19T12:31:18+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "67ddf4faa857",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/kontroversiella-roc-boyz-bokade-till-butterfly-festival.4a9896a0-67ad-51bc-b9cd-20ba0911fdaa",
+      "guid": "4a9896a0-67ad-51bc-b9cd-20ba0911fdaa",
+      "published_at": "2026-11-19T12:01:02+01:00",
+      "fetched_at": "2026-11-19T12:31:08+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: Butterfly festival",
+        "Tagg: Roc Boyz",
+        "Tagg: Hets mot folkgrupp",
+        "Tagg: Festivaler",
+        "Tagg: Brännbollsyran",
+        "Tagg: Samer"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/ebde6589-2b06-3a69-af66-68cb87ddc867",
+      "sv": {
+        "title": "Kontroversiella Roc Boyz till Göteborg",
+        "summary": "Norska gruppen är klara för Butterfly festival – polisanmäldes för hets mot folkgrupp på Brännbollsyran i somras.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Controversial Roc Boyz to Göteborg",
+        "summary": "The Norwegian group is set to play Butterfly festival – reported to police for incitement against an ethnic group at Brännbollsyran last summer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T12:31:18+01:00"
+      }
+    },
     {
       "id": "1003956ba30f",
       "schema_version": 1,
@@ -5603,33 +5639,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T17:15:50+01:00"
-      }
-    },
-    {
-      "id": "e9b3095fd650",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/familj/minnesord-om-gert-glentow",
-      "guid": "e6d9fa95-191a-4886-a5c8-790c6f295a7e",
-      "published_at": "2026-11-16T17:00:00+01:00",
-      "fetched_at": "2026-11-16T17:01:15+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/8fca1fae-624c-4f35-a907-77f6137e855c.jpeg?width=600",
-      "sv": {
-        "title": "Minnesord om Gert Glentow",
-        "summary": "Poeten och läraren Gert Glentow, Lund, har avlidit i en ålder av 87 år. Han sörjs närmast av hustrun Birgit och dottern Camilla med familj.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Obituary for Gert Glentow",
-        "summary": "Poet and teacher Gert Glentow, Lund, has died at the age of 87. He is survived mainly by his wife Birgit and daughter Camilla and her family."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T17:01:20+01:00"
       }
     }
   ]
