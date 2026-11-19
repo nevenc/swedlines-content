@@ -1,7 +1,56 @@
 {
-  "generated_at": "2026-11-19T16:01:34+01:00",
+  "generated_at": "2026-11-19T16:16:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7537f412d020",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80095",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80095&utm_medium=rss",
+      "published_at": "2026-11-19T16:08:00+01:00",
+      "fetched_at": "2026-11-19T16:15:45+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Influensasäsongen är igång"
+      },
+      "en": {
+        "title": "Flu season is underway"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:16:01+01:00"
+      }
+    },
+    {
+      "id": "1be1e9ca1b06",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/g37jx9/influensasasongen-igang",
+      "guid": "https://www.aftonbladet.se/nyheter/a/g37jx9/influensasasongen-igang?utm_medium=rss",
+      "published_at": "2026-11-19T16:06:59+01:00",
+      "fetched_at": "2026-11-19T16:15:46+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Influensasäsongen igång",
+        "summary": "Influensasäsongen har startat tidigt i år, konstaterar Folkhälsomyndigheten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Flu season underway",
+        "summary": "The flu season has started early this year, the Public Health Agency notes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:16:01+01:00"
+      }
+    },
     {
       "id": "cae4d7b44d66",
       "schema_version": 1,
@@ -5354,59 +5403,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T14:31:14+01:00"
-      }
-    },
-    {
-      "id": "2edfb40dd006",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/vkQl0m/jultallriken-forsvinner-fran-tranas-sarskilda-boenden",
-      "guid": "https://www.aftonbladet.se/nyheter/a/vkQl0m/jultallriken-forsvinner-fran-tranas-sarskilda-boenden?utm_medium=rss",
-      "published_at": "2026-11-16T13:44:31+01:00",
-      "fetched_at": "2026-11-16T13:45:50+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/02c0e5b3-ab73-3f62-bef5-cfc27bb4e2d9?format=auto&s=354e6325e84f4251d1cee810ab215b68e1d60b1e&w=1000",
-      "sv": {
-        "title": "Ilska i Tranås när jultallriken ryker",
-        "summary": "Rasar mot kommunens särskilda boenden",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anger in Tranås as Christmas buffet plates fly off the shelves",
-        "summary": "Outrage over the municipality's special housing"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T13:45:57+01:00"
-      }
-    },
-    {
-      "id": "bf4d484e2901",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=e7f3e287-4fc5-4e42-a047-649912aa6797",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=e7f3e287-4fc5-4e42-a047-649912aa6797",
-      "published_at": "2026-11-16T12:52:54+01:00",
-      "fetched_at": "2026-11-16T13:01:25+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Vinterkräksjukan orsak bakom kräkkaos",
-        "summary": "90 barn blev sjuka på skola",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Winter vomiting disease behind vomiting chaos",
-        "summary": "90 children became ill at school"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T13:01:31+01:00"
       }
     }
   ]

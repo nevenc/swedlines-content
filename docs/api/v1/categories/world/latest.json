@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-19T16:01:34+01:00",
+  "generated_at": "2026-11-19T16:16:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "34264d117d8e",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2i4nhJjX7TLo8oZbY835SI/putin-utlovar-haemnd-betydligt-mer-smaertsamt",
+      "guid": "2i4nhJjX7TLo8oZbY835SI",
+      "published_at": "2026-11-19T16:09:08+01:00",
+      "fetched_at": "2026-11-19T16:15:47+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Utrikesnyheter"
+      ],
+      "sv": {
+        "title": "Putin utlovar hämnd: ”Betydligt mer smärtsamt”",
+        "summary": "Krimbron attackerad tre gånger på fyra dagar • Förödmjukar ryske ledaren",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin vows revenge: “Significantly more painful”",
+        "summary": "Crimea bridge attacked three times in four days • Humiliates Russian leader"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:16:01+01:00"
+      }
+    },
     {
       "id": "6e0f2068d229",
       "schema_version": 1,
@@ -5308,32 +5337,6 @@
       "en": {
         "title": "Drone toward Moldova's capital – airspace closed",
         "summary": "Moldova's airspace has been closed for security reasons since a drone heading toward the capital Chisinau was detected."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T19:31:23+01:00"
-      }
-    },
-    {
-      "id": "d3e9592e8257",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/udda-videon-pa-kim-jong-un-vid-dotterns-skidtur",
-      "guid": "https://www.expressen.se/nyheter/varlden/udda-videon-pa-kim-jong-un-vid-dotterns-skidtur/",
-      "published_at": "2026-11-17T19:25:21+01:00",
-      "fetched_at": "2026-11-17T19:31:14+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Udda videon på Kim Jong Un vid dotterns skidtur",
-        "summary": "Nordkoreas Kim Jong Un har besökt landets senaste skidanläggning. På bilder syns diktatorns dotter åka nedför backarna – samtidigt som han själv vilar upp sig med en cigarett. Samtidigt rapporteras det att Kim Jong Un väntas dissa Trump.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Odd video of Kim Jong Un during daughter's ski trip",
-        "summary": "North Korea's Kim Jong Un has visited the country's newest ski resort. Photos show the dictator's daughter skiing down the slopes – while he himself relaxes with a cigarette. Meanwhile, it is reported that Kim Jong Un is expected to snub Trump."
       },
       "translation": {
         "status": "done",

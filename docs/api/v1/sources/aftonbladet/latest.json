@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T16:01:34+01:00",
+  "generated_at": "2026-11-19T16:16:02+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1be1e9ca1b06",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/g37jx9/influensasasongen-igang",
+      "guid": "https://www.aftonbladet.se/nyheter/a/g37jx9/influensasasongen-igang?utm_medium=rss",
+      "published_at": "2026-11-19T16:06:59+01:00",
+      "fetched_at": "2026-11-19T16:15:46+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Influensasäsongen igång",
+        "summary": "Influensasäsongen har startat tidigt i år, konstaterar Folkhälsomyndigheten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Flu season underway",
+        "summary": "The flu season has started early this year, the Public Health Agency notes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:16:01+01:00"
+      }
+    },
     {
       "id": "27aba12579d1",
       "schema_version": 1,
@@ -5345,33 +5371,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T19:15:52+01:00"
-      }
-    },
-    {
-      "id": "61224dae5e93",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/LoA6Mx/le-pens-vallofte-stoppa-stodet-till-ukraina",
-      "guid": "https://www.aftonbladet.se/nyheter/a/LoA6Mx/le-pens-vallofte-stoppa-stodet-till-ukraina?utm_medium=rss",
-      "published_at": "2026-11-16T18:40:24+01:00",
-      "fetched_at": "2026-11-16T18:45:41+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/f495f7dc-67bb-37cf-8fe8-5a4716c27f3d?format=auto&s=5b6de8962c4c5c157c36f6dedcace28f5edee9aa&w=1000",
-      "sv": {
-        "title": "Le Pens vallöfte: Stoppa stödet till Ukraina",
-        "summary": "Franska ytterhögerns presidentkandidat Marine Le Pen lovar att sluta ge ekonomiskt stöd till Ukraina…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Le Pen promises to stop support for Ukraine",
-        "summary": "French far-right presidential candidate Marine Le Pen promises to end financial support for Ukraine…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:45:48+01:00"
       }
     }
   ]
