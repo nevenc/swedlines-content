@@ -1,7 +1,119 @@
 {
-  "generated_at": "2026-11-19T22:45:51+01:00",
+  "generated_at": "2026-11-19T23:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dc7dcbc3a57f",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346705",
+      "guid": "rss:sr.se/article/9346705",
+      "published_at": "2026-11-19T22:51:00+01:00",
+      "fetched_at": "2026-11-19T23:01:12+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Den kända flodhästen Fiona död – åt mössa",
+        "summary": "Flodhästen Fiona, känd som bokfigur och internetfenomen, har dött, meddelar djurparken där hon levde. Fiona hade de senaste dagarna fått dygnetruntvård på Cincinnati Zoo sedan hon i helgen tappat aptiten och visat tecken på att må dåligt efter att förra veckan ha svalt en stickad mössa som hamnat…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Famous hippo Fiona dead – ate a hat",
+        "summary": "Hippo Fiona, known as a book character and internet phenomenon, has died, the zoo where she lived announces. Over the past few days Fiona had been receiving round-the-clock care at Cincinnati Zoo after she lost her appetite over the weekend and showed signs of feeling unwell after last week swallowing a knitted hat that had become stuck…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:01:22+01:00"
+      }
+    },
+    {
+      "id": "e21a981c0abf",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/elon-musk-kanner--mig-ganska-dum",
+      "guid": "https://www.expressen.se/nyheter/varlden/elon-musk-kanner--mig-ganska-dum/",
+      "published_at": "2026-11-19T22:50:51+01:00",
+      "fetched_at": "2026-11-19T23:01:15+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Elon Musk: ”Känner mig ganska dum”",
+        "summary": "Världens rikaste man, Elon Musk, spenderade enorma summor på Republikanernas valkampanj i mellanårsvalet. Nu kommenterar han för första gången sitt ekonomiska stöd. – Jag känner mig ganska dum, säger han till New York Times.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elon Musk: \"I feel rather stupid\"",
+        "summary": "The world's richest man, Elon Musk, spent huge sums on the Republicans' campaign in the midterm elections. Now he comments for the first time on his financial support. \"I feel rather stupid,\" he tells the New York Times."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:01:22+01:00"
+      }
+    },
+    {
+      "id": "d5a49b831fc1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/teknikjatten-prisfuskade-myndigheten-vill-utkrava-vite",
+      "guid": "https://www.expressen.se/nyheter/sverige/teknikjatten-prisfuskade-myndigheten-vill-utkrava-vite/",
+      "published_at": "2026-11-19T22:49:57+01:00",
+      "fetched_at": "2026-11-19T23:01:15+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Teknikjätten prisfuskade – myndigheten vill utkräva vite",
+        "summary": "Kjell & Company skrev inte ut varornas billigaste pris under senaste månaden. I stället framställdes en prishöjning som rabatt. Nu vill konsumentombudsmannen att företaget ska betala vite om miljonbelopp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tech giant price-fixed – authority wants to claim penalty",
+        "summary": "Kjell & Company did not display the lowest price of its goods during the most recent month. Instead, a price increase was presented as a discount. Now the consumer ombudsman wants the company to pay a penalty of millions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:01:22+01:00"
+      }
+    },
+    {
+      "id": "144bd451ef82",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/skadespelerskan-bakom-gta-karaktaren-avslojad-nominerad-i-game-awards.1c505bb9-2967-588e-ab9b-f163be217678",
+      "guid": "1c505bb9-2967-588e-ab9b-f163be217678",
+      "published_at": "2026-11-19T22:43:33+01:00",
+      "fetched_at": "2026-11-19T23:01:17+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: breaking-GP",
+        "Tagg: GTA 6",
+        "Tagg: Rockstar",
+        "Tagg: The Game Awards"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/621f6b7a-a306-3356-b691-81903e66262e",
+      "sv": {
+        "title": "Skådespelerskan bakom GTA-stjärnan avslöjad",
+        "summary": "Manni. L Perez gör rollen som ”Lucia”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Actress behind GTA star revealed",
+        "summary": "Manni. L Perez plays the role of \"Lucia\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:01:22+01:00"
+      }
+    },
     {
       "id": "dab1a9f5abff",
       "schema_version": 1,
@@ -29,6 +141,38 @@
       }
     },
     {
+      "id": "389d64b92ec3",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/ishockey/frolunda/frolunda-sjalvkritiskt-efter-tung-forlust-mot-farjestad.0dd008b8-7972-54ba-935b-c005f43702c5",
+      "guid": "0dd008b8-7972-54ba-935b-c005f43702c5",
+      "published_at": "2026-11-19T22:37:34+01:00",
+      "fetched_at": "2026-11-19T23:01:17+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Frölunda",
+        "Tagg: Nicklas Lasu",
+        "Tagg: Henrik Tömmernes"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/15a73ff1-ba54-3f49-998c-0935c9f21dda",
+      "sv": {
+        "title": "Frölunda självkritiskt – efter tunga förlusten mot Färjestad",
+        "summary": "Frölunda föll mot ärkerivalen efter en match där man blev utvisat gång på gång.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Frölunda self-critical – after heavy loss to Färjestad",
+        "summary": "Frölunda lost to their arch-rivals after a match in which they were penalised again and again."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:01:22+01:00"
+      }
+    },
+    {
       "id": "ebffca918178",
       "schema_version": 1,
       "source": "sr",
@@ -52,6 +196,44 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T22:45:51+01:00"
+      }
+    },
+    {
+      "id": "a4b784934a98",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/ishockey/frolunda/jag-tror-att-vi-precis-har-sett-sm-vinnaren.31b8fbcb-10c8-594f-bb5b-2cc2818df115",
+      "guid": "31b8fbcb-10c8-594f-bb5b-2cc2818df115",
+      "published_at": "2026-11-19T22:23:12+01:00",
+      "fetched_at": "2026-11-19T23:01:17+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Frölunda",
+        "Tagg: Christian Folin",
+        "Tagg: Frölunda HC",
+        "Tagg: Viktor Lodin",
+        "Tagg: NHL",
+        "Tagg: Jacob Peterson",
+        "Tagg: Sanny Lindström",
+        "Tagg: TV4",
+        "Tagg: Färjestad"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/5a1a2ea4-1971-3ee8-851d-8b077f3b5e4a",
+      "sv": {
+        "title": "”Jag tror att vi precis har sett SM-vinnaren”",
+        "summary": "Fem punkter från heta rivalmötet mellan Färjestad och Frölunda.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"I think we have just seen the Swedish champion\"",
+        "summary": "Five points from the hot rivalry match between Färjestad and Frölunda."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:01:22+01:00"
       }
     },
     {
@@ -5271,166 +5453,6 @@
       "en": {
         "title": "Johan Esk: Same wax for everyone – Japan's skiers do what DN readers have wanted",
         "summary": "WAX SUPPLIERS. During every ski championship, reader emails arrive with the view: all skiers should have the same wax. When the Japanese skiers qualify for the World Cup over the weekend, they do so."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:01:27+01:00"
-      }
-    },
-    {
-      "id": "c695c1d9195a",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/kontroversiell-teknik-plotsligt-i-fokus-pa-klimatmotet",
-      "guid": "https://www.dn.se/varlden/kontroversiell-teknik-plotsligt-i-fokus-pa-klimatmotet/",
-      "published_at": "2026-11-19T16:54:23+01:00",
-      "fetched_at": "2026-11-19T17:01:15+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/2c88df1f-c30f-4a21-9af5-31a33153285a.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Kontroversiell teknik plötsligt i fokus på klimatmötet",
-        "summary": "ANTALYA. Världens länder har samlats i Turkiet för att försöka lösa klimatkrisen. Men i ett nytt utkast till överenskommelse nämns över huvud taget inte fossila bränslen – samtidigt som det har stort fokus på tekniker för infångning av koldioxid, så kallad CCS.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Controversial technology suddenly in focus at the climate summit",
-        "summary": "ANTALYA. The countries of the world have gathered in Turkey to try to solve the climate crisis. But in a new draft agreement fossil fuels are not mentioned at all – while there is a major focus on carbon capture technologies, so-called CCS."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:01:27+01:00"
-      }
-    },
-    {
-      "id": "58854824d81a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/kandisagda-kvd-koparen-trader-fram-vi-ar-lite-inkognito",
-      "guid": "c74b0d72-3d03-467a-9ffa-6c6c3ae4de81",
-      "published_at": "2026-11-19T16:54:01+01:00",
-      "fetched_at": "2026-11-19T17:01:18+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/7bd58946-ed5c-4ed8-a649-b16f73e76627.png?width=600",
-      "sv": {
-        "title": "Kändisägda Kvd-köparen träder fram: ”Vi är lite inkognito”",
-        "summary": "Den kändistäta köparen till fordonsmarknadsplatsen Kvd har hållit en låg profil – men nu väljer Remman Mobility Groups huvudägare att träda fram. ”Det här innebär nära en fördubbling av bolaget”, säger den EQT-meriterade vd:n Wilhelm Westerman i en Di-intervju – och talar om varifrån pengarna…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Celebrity-linked Kvd buyer steps forward: \"We are a little incognito\"",
-        "summary": "The celebrity-studded buyer of the vehicle marketplace Kvd has kept a low profile – but now the main owner of Remman Mobility Group chooses to step forward. \"This means nearly a doubling of the company\", says the EQT-experienced CEO Wilhelm Westerman in a Di interview – and talks about where the money comes from…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:01:27+01:00"
-      }
-    },
-    {
-      "id": "788f79e2f16c",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/ludvig-24-tog-semester-for-gta-6-spelade-hela-natten",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/ludvig-24-tog-semester-for-gta-6-spelade-hela-natten",
-      "published_at": "2026-11-19T16:53:49+01:00",
-      "fetched_at": "2026-11-19T17:01:12+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Ludvig, 24, tog semester för GTA 6 – spelade hela natten",
-        "summary": "Fansen har väntat i 13 år – och nu är GTA 6 släppt. 24-årige Ludvig Stenberg från Kalix tog ledigt från jobbet, köpte ny tv och spelkonsol och laddade med kaffe och energidryck. – Jag har spelat från första sekunden det här dygnet, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ludvig, 24, took holiday for GTA 6 – played all night",
-        "summary": "Fans have waited 13 years – and now GTA 6 is released. 24-year-old Ludvig Stenberg from Kalix took time off work, bought a new TV and game console, and stocked up with coffee and energy drinks. \"I have been playing from the first second of this day\", he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:01:27+01:00"
-      }
-    },
-    {
-      "id": "9207fdc3ee9d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/ARdqEz/sa-reser-trump-xi-och-putin",
-      "guid": "https://www.aftonbladet.se/nyheter/a/ARdqEz/sa-reser-trump-xi-och-putin?utm_medium=rss",
-      "published_at": "2026-11-19T16:53:15+01:00",
-      "fetched_at": "2026-11-19T17:01:16+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/bf61e10d-6282-39ca-baac-64b621dc14fd?format=auto&s=ea96d971b80c90900d96d5ef42fa74c978f51555&w=1000",
-      "sv": {
-        "title": "Pansarbilar, massförstörelseväskor och hemliga toalettsystem – så reser Trump, Xi och Putin",
-        "summary": "Pansarbil, domedagsväska och hemlig toalett",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Armoured cars, mass-destruction bags and secret toilet systems – how Trump, Xi and Putin travel",
-        "summary": "Armoured car, doomsday bag and secret toilet"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:01:27+01:00"
-      }
-    },
-    {
-      "id": "029bad3139a8",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/j3dXAb/partierna-overens-om-stod-till-gotlandstrafiken",
-      "guid": "https://www.aftonbladet.se/nyheter/a/j3dXAb/partierna-overens-om-stod-till-gotlandstrafiken?utm_medium=rss",
-      "published_at": "2026-11-19T16:51:16+01:00",
-      "fetched_at": "2026-11-19T17:01:16+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/2e5e69ed-c386-3698-bb12-7c286f10f416?format=auto&s=4e29264bf4d7ef7834e639ed03ef35829433ee0b&w=1000",
-      "sv": {
-        "title": "Partierna överens om stöd till Gotlandstrafiken",
-        "summary": "Riksdagens partier har ställt sig bakom att stötta Gotlandstrafiken. Tiotals miljoner ska användas…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Parties agree on support for Gotland traffic",
-        "summary": "The Riksdag's parties have backed supporting Gotland traffic. Tens of millions are to be used…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:01:27+01:00"
-      }
-    },
-    {
-      "id": "08b63875f163",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/techforvaltaren-vi-ansokte-om-anthropic-aktier",
-      "guid": "86e44339-8962-5f52-a7f4-e5d9422e471b",
-      "published_at": "2026-11-19T16:50:25+01:00",
-      "fetched_at": "2026-11-19T17:01:18+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Techförvaltaren: Vi ansökte om Anthropic-aktier",
-        "summary": "Kristofer Barrett, förvaltare Carmignac, om Anthropics notering.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tech manager: We applied for Anthropic shares",
-        "summary": "Kristofer Barrett, fund manager at Carmignac, on Anthropic's listing."
       },
       "translation": {
         "status": "done",

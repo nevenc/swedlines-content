@@ -1,7 +1,119 @@
 {
-  "generated_at": "2026-11-19T22:45:51+01:00",
-  "count": 682,
+  "generated_at": "2026-11-19T23:01:22+01:00",
+  "count": 688,
   "items": [
+    {
+      "id": "dc7dcbc3a57f",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346705",
+      "guid": "rss:sr.se/article/9346705",
+      "published_at": "2026-11-19T22:51:00+01:00",
+      "fetched_at": "2026-11-19T23:01:12+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Den kända flodhästen Fiona död – åt mössa",
+        "summary": "Flodhästen Fiona, känd som bokfigur och internetfenomen, har dött, meddelar djurparken där hon levde. Fiona hade de senaste dagarna fått dygnetruntvård på Cincinnati Zoo sedan hon i helgen tappat aptiten och visat tecken på att må dåligt efter att förra veckan ha svalt en stickad mössa som hamnat…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Famous hippo Fiona dead – ate a hat",
+        "summary": "Hippo Fiona, known as a book character and internet phenomenon, has died, the zoo where she lived announces. Over the past few days Fiona had been receiving round-the-clock care at Cincinnati Zoo after she lost her appetite over the weekend and showed signs of feeling unwell after last week swallowing a knitted hat that had become stuck…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:01:22+01:00"
+      }
+    },
+    {
+      "id": "e21a981c0abf",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/elon-musk-kanner--mig-ganska-dum",
+      "guid": "https://www.expressen.se/nyheter/varlden/elon-musk-kanner--mig-ganska-dum/",
+      "published_at": "2026-11-19T22:50:51+01:00",
+      "fetched_at": "2026-11-19T23:01:15+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Elon Musk: ”Känner mig ganska dum”",
+        "summary": "Världens rikaste man, Elon Musk, spenderade enorma summor på Republikanernas valkampanj i mellanårsvalet. Nu kommenterar han för första gången sitt ekonomiska stöd. – Jag känner mig ganska dum, säger han till New York Times.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elon Musk: \"I feel rather stupid\"",
+        "summary": "The world's richest man, Elon Musk, spent huge sums on the Republicans' campaign in the midterm elections. Now he comments for the first time on his financial support. \"I feel rather stupid,\" he tells the New York Times."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:01:22+01:00"
+      }
+    },
+    {
+      "id": "d5a49b831fc1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/teknikjatten-prisfuskade-myndigheten-vill-utkrava-vite",
+      "guid": "https://www.expressen.se/nyheter/sverige/teknikjatten-prisfuskade-myndigheten-vill-utkrava-vite/",
+      "published_at": "2026-11-19T22:49:57+01:00",
+      "fetched_at": "2026-11-19T23:01:15+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Teknikjätten prisfuskade – myndigheten vill utkräva vite",
+        "summary": "Kjell & Company skrev inte ut varornas billigaste pris under senaste månaden. I stället framställdes en prishöjning som rabatt. Nu vill konsumentombudsmannen att företaget ska betala vite om miljonbelopp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tech giant price-fixed – authority wants to claim penalty",
+        "summary": "Kjell & Company did not display the lowest price of its goods during the most recent month. Instead, a price increase was presented as a discount. Now the consumer ombudsman wants the company to pay a penalty of millions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:01:22+01:00"
+      }
+    },
+    {
+      "id": "144bd451ef82",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/skadespelerskan-bakom-gta-karaktaren-avslojad-nominerad-i-game-awards.1c505bb9-2967-588e-ab9b-f163be217678",
+      "guid": "1c505bb9-2967-588e-ab9b-f163be217678",
+      "published_at": "2026-11-19T22:43:33+01:00",
+      "fetched_at": "2026-11-19T23:01:17+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: breaking-GP",
+        "Tagg: GTA 6",
+        "Tagg: Rockstar",
+        "Tagg: The Game Awards"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/621f6b7a-a306-3356-b691-81903e66262e",
+      "sv": {
+        "title": "Skådespelerskan bakom GTA-stjärnan avslöjad",
+        "summary": "Manni. L Perez gör rollen som ”Lucia”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Actress behind GTA star revealed",
+        "summary": "Manni. L Perez plays the role of \"Lucia\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:01:22+01:00"
+      }
+    },
     {
       "id": "dab1a9f5abff",
       "schema_version": 1,
@@ -29,6 +141,38 @@
       }
     },
     {
+      "id": "389d64b92ec3",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/ishockey/frolunda/frolunda-sjalvkritiskt-efter-tung-forlust-mot-farjestad.0dd008b8-7972-54ba-935b-c005f43702c5",
+      "guid": "0dd008b8-7972-54ba-935b-c005f43702c5",
+      "published_at": "2026-11-19T22:37:34+01:00",
+      "fetched_at": "2026-11-19T23:01:17+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Frölunda",
+        "Tagg: Nicklas Lasu",
+        "Tagg: Henrik Tömmernes"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/15a73ff1-ba54-3f49-998c-0935c9f21dda",
+      "sv": {
+        "title": "Frölunda självkritiskt – efter tunga förlusten mot Färjestad",
+        "summary": "Frölunda föll mot ärkerivalen efter en match där man blev utvisat gång på gång.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Frölunda self-critical – after heavy loss to Färjestad",
+        "summary": "Frölunda lost to their arch-rivals after a match in which they were penalised again and again."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:01:22+01:00"
+      }
+    },
+    {
       "id": "ebffca918178",
       "schema_version": 1,
       "source": "sr",
@@ -52,6 +196,44 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T22:45:51+01:00"
+      }
+    },
+    {
+      "id": "a4b784934a98",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/ishockey/frolunda/jag-tror-att-vi-precis-har-sett-sm-vinnaren.31b8fbcb-10c8-594f-bb5b-2cc2818df115",
+      "guid": "31b8fbcb-10c8-594f-bb5b-2cc2818df115",
+      "published_at": "2026-11-19T22:23:12+01:00",
+      "fetched_at": "2026-11-19T23:01:17+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Frölunda",
+        "Tagg: Christian Folin",
+        "Tagg: Frölunda HC",
+        "Tagg: Viktor Lodin",
+        "Tagg: NHL",
+        "Tagg: Jacob Peterson",
+        "Tagg: Sanny Lindström",
+        "Tagg: TV4",
+        "Tagg: Färjestad"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/5a1a2ea4-1971-3ee8-851d-8b077f3b5e4a",
+      "sv": {
+        "title": "”Jag tror att vi precis har sett SM-vinnaren”",
+        "summary": "Fem punkter från heta rivalmötet mellan Färjestad och Frölunda.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"I think we have just seen the Swedish champion\"",
+        "summary": "Five points from the hot rivalry match between Färjestad and Frölunda."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:01:22+01:00"
       }
     },
     {

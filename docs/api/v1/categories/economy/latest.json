@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T22:45:51+01:00",
+  "generated_at": "2026-11-19T23:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d5a49b831fc1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/teknikjatten-prisfuskade-myndigheten-vill-utkrava-vite",
+      "guid": "https://www.expressen.se/nyheter/sverige/teknikjatten-prisfuskade-myndigheten-vill-utkrava-vite/",
+      "published_at": "2026-11-19T22:49:57+01:00",
+      "fetched_at": "2026-11-19T23:01:15+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Teknikjätten prisfuskade – myndigheten vill utkräva vite",
+        "summary": "Kjell & Company skrev inte ut varornas billigaste pris under senaste månaden. I stället framställdes en prishöjning som rabatt. Nu vill konsumentombudsmannen att företaget ska betala vite om miljonbelopp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tech giant price-fixed – authority wants to claim penalty",
+        "summary": "Kjell & Company did not display the lowest price of its goods during the most recent month. Instead, a price increase was presented as a discount. Now the consumer ombudsman wants the company to pay a penalty of millions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:01:22+01:00"
+      }
+    },
     {
       "id": "ebffca918178",
       "schema_version": 1,
@@ -5256,32 +5282,6 @@
       "en": {
         "title": "Warning: Petrol may run out at the pump",
         "summary": "There may be queues at the pump ahead of the increase in petrol and diesel tax at the end of the month. Fill up your tank in good time to avoid finding the station out of fuel when you arrive, urges the industry organisation Drivkraft Sverige's CEO Anna Törner."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T07:01:21+01:00"
-      }
-    },
-    {
-      "id": "021d261fb1af",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/usa-rantorna-sjunker-tillbaka",
-      "guid": "f2e0925b-e571-4178-8aa4-b359cfb8178d",
-      "published_at": "2026-11-19T06:51:04+01:00",
-      "fetched_at": "2026-11-19T07:01:15+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "USA-räntorna sjunker tillbaka",
-        "summary": "USA-räntorna sjunker under torsdagsmorgonen, samtidigt som dollarn håller sig nära sin högsta nivå på 19 månader och de asiatiska börserna backar till följd av fortsatt oro kring AI-sektorn.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "US yields fall back",
-        "summary": "US yields fall during Thursday morning trading, while the dollar stays near its highest level in 19 months and Asian stock markets fall on continued concern over the AI sector."
       },
       "translation": {
         "status": "done",

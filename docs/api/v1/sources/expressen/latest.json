@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-19T22:45:51+01:00",
+  "generated_at": "2026-11-19T23:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e21a981c0abf",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/elon-musk-kanner--mig-ganska-dum",
+      "guid": "https://www.expressen.se/nyheter/varlden/elon-musk-kanner--mig-ganska-dum/",
+      "published_at": "2026-11-19T22:50:51+01:00",
+      "fetched_at": "2026-11-19T23:01:15+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Elon Musk: ”Känner mig ganska dum”",
+        "summary": "Världens rikaste man, Elon Musk, spenderade enorma summor på Republikanernas valkampanj i mellanårsvalet. Nu kommenterar han för första gången sitt ekonomiska stöd. – Jag känner mig ganska dum, säger han till New York Times.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elon Musk: \"I feel rather stupid\"",
+        "summary": "The world's richest man, Elon Musk, spent huge sums on the Republicans' campaign in the midterm elections. Now he comments for the first time on his financial support. \"I feel rather stupid,\" he tells the New York Times."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:01:22+01:00"
+      }
+    },
+    {
+      "id": "d5a49b831fc1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/teknikjatten-prisfuskade-myndigheten-vill-utkrava-vite",
+      "guid": "https://www.expressen.se/nyheter/sverige/teknikjatten-prisfuskade-myndigheten-vill-utkrava-vite/",
+      "published_at": "2026-11-19T22:49:57+01:00",
+      "fetched_at": "2026-11-19T23:01:15+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Teknikjätten prisfuskade – myndigheten vill utkräva vite",
+        "summary": "Kjell & Company skrev inte ut varornas billigaste pris under senaste månaden. I stället framställdes en prishöjning som rabatt. Nu vill konsumentombudsmannen att företaget ska betala vite om miljonbelopp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tech giant price-fixed – authority wants to claim penalty",
+        "summary": "Kjell & Company did not display the lowest price of its goods during the most recent month. Instead, a price increase was presented as a discount. Now the consumer ombudsman wants the company to pay a penalty of millions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:01:22+01:00"
+      }
+    },
     {
       "id": "dab1a9f5abff",
       "schema_version": 1,
@@ -5139,58 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T14:31:14+01:00"
-      }
-    },
-    {
-      "id": "ccc44cf61545",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/men-varfor-skulle-vansterpartiet-backa",
-      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/men-varfor-skulle-vansterpartiet-backa/",
-      "published_at": "2026-11-16T14:14:54+01:00",
-      "fetched_at": "2026-11-16T14:31:06+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Men varför skulle Vänsterpartiet backa?",
-        "summary": "Om Vänsterpartiet backar nu har regeringskravet inte uppnått någonting mer än att göra partiet till åtlöje. Så varför skulle de göra det? Den frågan återstår för S – och C – att svara på.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "But why would the Left Party back off?",
-        "summary": "If the Left Party backs off now, the government demand will have achieved nothing more than making the party a laughingstock. So why would they do it? That question remains for the Social Democrats – and the Centre Party – to answer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:31:14+01:00"
-      }
-    },
-    {
-      "id": "6f5e3ac58b55",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/kungligt/estelle-praoar-i-helsingfors",
-      "guid": "https://www.expressen.se/nyheter/kungligt/estelle-praoar-i-helsingfors/",
-      "published_at": "2026-11-16T13:53:56+01:00",
-      "fetched_at": "2026-11-16T14:01:16+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Estelle praoar i Helsingfors",
-        "summary": "Förra veckan praoade prinsessan Estelle hos sin morfar, kungen. Nu fortsätter hennes prao – i Helsingfors.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estelle does work experience in Helsinki",
-        "summary": "Last week, Princess Estelle did work experience with her grandfather, the king. Now her work placement continues – in Helsinki."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:01:29+01:00"
       }
     }
   ]
