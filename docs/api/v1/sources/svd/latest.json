@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T01:01:16+01:00",
+  "generated_at": "2026-11-19T01:15:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c52b7913f647",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/z0GkW1/anthropic-bekraftar-aktiepris",
+      "guid": "https://www.svd.se/a/z0GkW1/anthropic-bekraftar-aktiepris?utm_medium=rss",
+      "published_at": "2026-11-19T01:04:37+01:00",
+      "fetched_at": "2026-11-19T01:15:41+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Anthropic bekräftar aktiepris",
+        "summary": "AI-jätten Anthropic sätter sin introduktionskurs till 83 dollar per aktie inför noteringen på Nasdaq…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic confirms share price",
+        "summary": "AI giant Anthropic sets its IPO price at 83 dollars per share ahead of its listing on Nasdaq…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T01:15:48+01:00"
+      }
+    },
     {
       "id": "d959d2b2f420",
       "schema_version": 1,
@@ -5205,30 +5231,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T00:15:51+01:00"
-      }
-    },
-    {
-      "id": "44837b77e679",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79947",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79947&utm_medium=rss",
-      "published_at": "2026-11-15T22:43:42+01:00",
-      "fetched_at": "2026-11-15T23:01:08+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/a10ee1d2-a5e1-3cd9-a314-9bd57f392381?format=auto&s=cb820f0b01a433b5486d132ba2d97ad8247f5722&w=1000",
-      "sv": {
-        "title": "Källor: Planerar Nvidia-comeback"
-      },
-      "en": {
-        "title": "Sources: Plans Nvidia comeback"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T23:01:14+01:00"
       }
     }
   ]

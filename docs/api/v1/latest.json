@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-19T01:01:16+01:00",
+  "generated_at": "2026-11-19T01:15:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c52b7913f647",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/z0GkW1/anthropic-bekraftar-aktiepris",
+      "guid": "https://www.svd.se/a/z0GkW1/anthropic-bekraftar-aktiepris?utm_medium=rss",
+      "published_at": "2026-11-19T01:04:37+01:00",
+      "fetched_at": "2026-11-19T01:15:41+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Anthropic bekräftar aktiepris",
+        "summary": "AI-jätten Anthropic sätter sin introduktionskurs till 83 dollar per aktie inför noteringen på Nasdaq…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic confirms share price",
+        "summary": "AI giant Anthropic sets its IPO price at 83 dollars per share ahead of its listing on Nasdaq…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T01:15:48+01:00"
+      }
+    },
+    {
+      "id": "402432c856ae",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/putin-har-med-sig-bajsportfolj-till-historiska-motet-i-kina",
+      "guid": "https://www.expressen.se/nyheter/varlden/putin-har-med-sig-bajsportfolj-till-historiska-motet-i-kina/",
+      "published_at": "2026-11-19T00:59:06+01:00",
+      "fetched_at": "2026-11-19T01:15:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Putin har med sig bajsportfölj till historiska mötet i Kina",
+        "summary": "Det är ett historiskt möte i Kina. På plats är Donald Trump, Xi Jinping och Vladimir Putin. Och Putins bajsportfölj.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin brings poop portfolio to historic meeting in China",
+        "summary": "It is a historic meeting in China. Donald Trump, Xi Jinping and Vladimir Putin are present. And Putin's poop portfolio."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T01:15:48+01:00"
+      }
+    },
     {
       "id": "cbac62af1b58",
       "schema_version": 1,
@@ -5408,59 +5460,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T16:32:47+01:00"
-      }
-    },
-    {
-      "id": "8ed93398dc1d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/ez8e8M/tekniskt-fel-orsakar-tagforseningar",
-      "guid": "https://www.aftonbladet.se/nyheter/a/ez8e8M/tekniskt-fel-orsakar-tagforseningar?utm_medium=rss",
-      "published_at": "2026-11-18T16:29:37+01:00",
-      "fetched_at": "2026-11-18T16:31:01+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/46b15724-e5c7-3f01-a832-ad4a97f861ed?format=auto&s=4047067f37da9bfaec85e2c1d3e65dd270305db3&w=1000",
-      "sv": {
-        "title": "Tekniskt fel orsakar tågförseningar",
-        "summary": "Ett problem med Trafikverkets telefonisystem orsakar förseningar i tågtrafiken runtom i…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Technical fault causes train delays",
-        "summary": "A problem with the Transport Administration's telephone system is causing delays to train traffic across the country…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "cd056964a990",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/israel-i-ny-insats-mot-gaza",
-      "guid": "https://www.dn.se/varlden/israel-i-ny-insats-mot-gaza/",
-      "published_at": "2026-11-18T16:28:27+01:00",
-      "fetched_at": "2026-11-18T16:31:00+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Israel i ny insats mot Gaza",
-        "summary": "Israel har inlett en insats i Gaza på onsdagen, enligt Reuters och AFP. Vittnen har sett israeliska stridsvagnar köra in i centrala Gaza och en person har dött i närheten av insatsen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Israel launches new operation in Gaza",
-        "summary": "Israel has launched an operation in Gaza on Wednesday, according to Reuters and AFP. Witnesses have seen Israeli tanks drive into central Gaza and one person has died near the operation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:31:12+01:00"
       }
     }
   ]

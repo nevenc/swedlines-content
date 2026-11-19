@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T01:01:16+01:00",
+  "generated_at": "2026-11-19T01:15:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "402432c856ae",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/putin-har-med-sig-bajsportfolj-till-historiska-motet-i-kina",
+      "guid": "https://www.expressen.se/nyheter/varlden/putin-har-med-sig-bajsportfolj-till-historiska-motet-i-kina/",
+      "published_at": "2026-11-19T00:59:06+01:00",
+      "fetched_at": "2026-11-19T01:15:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Putin har med sig bajsportfölj till historiska mötet i Kina",
+        "summary": "Det är ett historiskt möte i Kina. På plats är Donald Trump, Xi Jinping och Vladimir Putin. Och Putins bajsportfölj.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin brings poop portfolio to historic meeting in China",
+        "summary": "It is a historic meeting in China. Donald Trump, Xi Jinping and Vladimir Putin are present. And Putin's poop portfolio."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T01:15:48+01:00"
+      }
+    },
     {
       "id": "c1db19169a32",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T18:45:48+01:00"
-      }
-    },
-    {
-      "id": "42e2dae16c02",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/ekonomi/sabelle-24-tillverkar-dockor-med-olika-etniciteter",
-      "guid": "https://www.expressen.se/ekonomi/sabelle-24-tillverkar-dockor-med-olika-etniciteter/",
-      "published_at": "2026-11-15T18:25:08+01:00",
-      "fetched_at": "2026-11-15T18:30:58+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Sabelle, 24, tillverkar dockor med olika etniciteter",
-        "summary": "Glöm Barbies blonda svall och blåa ögon – 24-åriga Sabelle utmanar leksaksjätten. Hennes dockor med afro och hijab har tagit henne till samma rum som Bianca Ingrosso och prins Daniel.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sabelle, 24, makes dolls with different ethnicities",
-        "summary": "Forget Barbie's blonde locks and blue eyes – 24-year-old Sabelle is challenging the toy giant. Her dolls with afro and hijab have taken her to the same room as Bianca Ingrosso and Prince Daniel."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T18:31:05+01:00"
       }
     }
   ]

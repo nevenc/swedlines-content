@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T01:01:16+01:00",
+  "generated_at": "2026-11-19T01:15:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c52b7913f647",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/z0GkW1/anthropic-bekraftar-aktiepris",
+      "guid": "https://www.svd.se/a/z0GkW1/anthropic-bekraftar-aktiepris?utm_medium=rss",
+      "published_at": "2026-11-19T01:04:37+01:00",
+      "fetched_at": "2026-11-19T01:15:41+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Anthropic bekräftar aktiepris",
+        "summary": "AI-jätten Anthropic sätter sin introduktionskurs till 83 dollar per aktie inför noteringen på Nasdaq…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic confirms share price",
+        "summary": "AI giant Anthropic sets its IPO price at 83 dollars per share ahead of its listing on Nasdaq…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T01:15:48+01:00"
+      }
+    },
     {
       "id": "22fb07d5e16e",
       "schema_version": 1,
@@ -5247,32 +5273,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T07:45:51+01:00"
-      }
-    },
-    {
-      "id": "93c0f9558af5",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/sveafastigheter-meddelar-ny-utdelningspolicy",
-      "guid": "6ecd670a-e95f-47ba-b053-803b2047f6ee",
-      "published_at": "2026-11-18T07:29:07+01:00",
-      "fetched_at": "2026-11-18T07:31:03+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Sveafastigheter meddelar ny utdelningspolicy",
-        "summary": "Fastighetsbolaget Sveafastigheter fastställer nya finansiella mål efter fusionen med Klarabo och presenterar ny utdelningspolicy.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sveafastigheter announces new dividend policy",
-        "summary": "Property company Sveafastigheter sets new financial targets following the merger with Klarabo and presents a new dividend policy."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:31:11+01:00"
       }
     }
   ]

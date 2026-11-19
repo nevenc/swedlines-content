@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T01:01:16+01:00",
+  "generated_at": "2026-11-19T01:15:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "402432c856ae",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/putin-har-med-sig-bajsportfolj-till-historiska-motet-i-kina",
+      "guid": "https://www.expressen.se/nyheter/varlden/putin-har-med-sig-bajsportfolj-till-historiska-motet-i-kina/",
+      "published_at": "2026-11-19T00:59:06+01:00",
+      "fetched_at": "2026-11-19T01:15:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Putin har med sig bajsportfölj till historiska mötet i Kina",
+        "summary": "Det är ett historiskt möte i Kina. På plats är Donald Trump, Xi Jinping och Vladimir Putin. Och Putins bajsportfölj.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin brings poop portfolio to historic meeting in China",
+        "summary": "It is a historic meeting in China. Donald Trump, Xi Jinping and Vladimir Putin are present. And Putin's poop portfolio."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T01:15:48+01:00"
+      }
+    },
     {
       "id": "cbac62af1b58",
       "schema_version": 1,
@@ -5296,32 +5322,6 @@
       "en": {
         "title": "Soldiers train to hide from drones",
         "summary": "Swedish soldiers are to get better at protecting themselves against drones. The protection is about staying hidden, but also about knocking out enemy drones and drone pilots."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:01:18+01:00"
-      }
-    },
-    {
-      "id": "00ca16c23fd1",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=0547402e-9dbe-4337-80d3-d9243ee3acfd",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0547402e-9dbe-4337-80d3-d9243ee3acfd",
-      "published_at": "2026-11-17T05:53:40+01:00",
-      "fetched_at": "2026-11-17T06:01:11+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Stora broar träffade i Kiev",
-        "summary": "Angrepp mot huvudstaden",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Major bridges hit in Kyiv",
-        "summary": "Attack on the capital"
       },
       "translation": {
         "status": "done",
