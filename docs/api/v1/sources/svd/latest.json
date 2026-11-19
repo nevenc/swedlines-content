@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T16:45:52+01:00",
+  "generated_at": "2026-11-19T17:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "93a99981fb75",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/nLabyQ/underbart-udda-hoppas-pa-uppfoljare",
+      "guid": "https://www.svd.se/a/nLabyQ/underbart-udda-hoppas-pa-uppfoljare?utm_medium=rss",
+      "published_at": "2026-11-19T17:00:00+01:00",
+      "fetched_at": "2026-11-19T17:01:15+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/992aa615-c9d1-348b-b325-53970d79720e?format=auto&s=9aeb410417bbcd0f55bcf4cbf3760b2888776a31&w=1000",
+      "sv": {
+        "title": "Underbart udda – hoppas på uppföljare",
+        "summary": "Kemin mellan Olivia Colman och Alexander Skarsgård är en av de stora behållningarna med ”Wicker”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wonderfully odd – hopes for a sequel",
+        "summary": "The chemistry between Olivia Colman and Alexander Skarsgård is one of the major highlights of \"Wicker\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:01:27+01:00"
+      }
+    },
     {
       "id": "ff0117b3a550",
       "schema_version": 1,
@@ -5181,33 +5208,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T16:16:22+01:00"
-      }
-    },
-    {
-      "id": "336105ff88e9",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/5303qe/det-har-kan-v-krava-i-forhandlingar",
-      "guid": "https://www.svd.se/a/5303qe/det-har-kan-v-krava-i-forhandlingar?utm_medium=rss",
-      "published_at": "2026-11-16T15:27:14+01:00",
-      "fetched_at": "2026-11-16T15:31:00+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/84140e54-c0ce-3903-8faa-34ef4691481d?format=auto&s=21bc64819d2335bc05c5d5a8640476f8f468e7ab&w=1000",
-      "sv": {
-        "title": "Det här kan V kräva i förhandlingar",
-        "summary": "De rödgröna partierna ska inleda förhandlingar om regeringsfrågan. Ett grundbud i en sådan…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is what V may demand in negotiations",
-        "summary": "The red-green parties are to begin negotiations on the question of government. A basic demand in such negotiations should be…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:31:07+01:00"
       }
     }
   ]

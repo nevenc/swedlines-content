@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T16:45:52+01:00",
+  "generated_at": "2026-11-19T17:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "788f79e2f16c",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/ludvig-24-tog-semester-for-gta-6-spelade-hela-natten",
+      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/ludvig-24-tog-semester-for-gta-6-spelade-hela-natten",
+      "published_at": "2026-11-19T16:53:49+01:00",
+      "fetched_at": "2026-11-19T17:01:12+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Ludvig, 24, tog semester för GTA 6 – spelade hela natten",
+        "summary": "Fansen har väntat i 13 år – och nu är GTA 6 släppt. 24-årige Ludvig Stenberg från Kalix tog ledigt från jobbet, köpte ny tv och spelkonsol och laddade med kaffe och energidryck. – Jag har spelat från första sekunden det här dygnet, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ludvig, 24, took holiday for GTA 6 – played all night",
+        "summary": "Fans have waited 13 years – and now GTA 6 is released. 24-year-old Ludvig Stenberg from Kalix took time off work, bought a new TV and game console, and stocked up with coffee and energy drinks. \"I have been playing from the first second of this day\", he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:01:27+01:00"
+      }
+    },
     {
       "id": "468f4e986406",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Netherlands government saved – for now",
         "summary": "More talks are needed to avert the imminent risk of a government collapse in the Netherlands. So says the country's prime minister Rob Jetten after a crisis meeting on Friday evening."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "488bde2c7101",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/varnar-for-intern-splittring-i-c-vore-forodande-att-slappa-in",
-      "guid": "https://www.svt.se/nyheter/inrikes/varnar-for-intern-splittring-i-c-vore-forodande-att-slappa-in",
-      "published_at": "2026-11-13T17:52:34+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Varnar för intern splittring i C: ”Vore förödande att släppa in”",
-        "summary": "C-ledaren Elisabeth Thand Ringqvist har tagit emot totalpaketen från S och M. Nu står hennes parti inför ett vägval och flera personer varnar för intern splittring. – Det vore förödande att släppa in V, säger en C-källa.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Warns of internal split in C: 'Would be devastating to let in'",
-        "summary": "C leader Elisabeth Thand Ringqvist has received the total packages from S and M. Now her party faces a crossroads and several people warn of an internal split. – It would be devastating to let V in, says a C source."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-11-19T16:45:52+01:00",
+  "generated_at": "2026-11-19T17:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e7eb46cc4957",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/sverige/fhm-influensasasongen-ar-har.2305b55c-eb3c-55c7-a74d-2498aafda51c",
+      "guid": "2305b55c-eb3c-55c7-a74d-2498aafda51c",
+      "published_at": "2026-11-19T16:23:22+01:00",
+      "fetched_at": "2026-11-19T17:01:18+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Sverige",
+        "Tagg: breaking-GP",
+        "Tagg: Influensa",
+        "Tagg: Folkhälsomyndigheten",
+        "Tagg: Sjukdomar"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/95fea8f1-c2a0-3aeb-9a4b-371de19e4d4c",
+      "sv": {
+        "title": "Influensasäsongen är här – tidigare än vanligt",
+        "summary": "Folkhälsomyndighetens uppmaning: ”Stanna hemma vid sjukdom”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Influenza season is here – earlier than usual",
+        "summary": "The Public Health Agency's appeal: \"Stay home when sick\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:01:27+01:00"
+      }
+    },
     {
       "id": "57c0eff1c228",
       "schema_version": 1,
@@ -6850,42 +6884,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:00+01:00"
-      }
-    },
-    {
-      "id": "72cd0c45f482",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/litteratur/litteraturrecension/recension-for-ni-alskar-mig-valdigt-mycket-av-nina-hemmingsson.d8659d07-1ec1-5812-96be-67df958fcae6",
-      "guid": "d8659d07-1ec1-5812-96be-67df958fcae6",
-      "published_at": "2026-11-14T10:54:37+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Litteraturrecension",
-        "Tagg: Recension",
-        "Tagg: Nina Hemmingsson",
-        "Tagg: Diktsamling",
-        "Tagg: Poesi",
-        "Tagg: Psykisk ohälsa",
-        "Tagg: Humor"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/bd0cabd7-778b-39cb-a80f-5604eea6f6df",
-      "sv": {
-        "title": "Nina Hemmingsson dikter är slappa – men ger tröst och igenkänning",
-        "summary": "En röra av finurliga utsagor om kåthet, vindrickande och psykisk ohälsa enligt GP:s Katja Palo.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nina Hemmingsson's poems are limp – but offer comfort and recognition",
-        "summary": "A jumble of witty statements about lust, wine-drinking and mental ill health, according to GP's Katja Palo."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
       }
     }
   ]

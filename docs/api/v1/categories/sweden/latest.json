@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T16:45:52+01:00",
+  "generated_at": "2026-11-19T17:01:27+01:00",
   "count": 200,
   "items": [
     {
@@ -105,6 +105,40 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T16:31:09+01:00"
+      }
+    },
+    {
+      "id": "e7eb46cc4957",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/sverige/fhm-influensasasongen-ar-har.2305b55c-eb3c-55c7-a74d-2498aafda51c",
+      "guid": "2305b55c-eb3c-55c7-a74d-2498aafda51c",
+      "published_at": "2026-11-19T16:23:22+01:00",
+      "fetched_at": "2026-11-19T17:01:18+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Sverige",
+        "Tagg: breaking-GP",
+        "Tagg: Influensa",
+        "Tagg: Folkhälsomyndigheten",
+        "Tagg: Sjukdomar"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/95fea8f1-c2a0-3aeb-9a4b-371de19e4d4c",
+      "sv": {
+        "title": "Influensasäsongen är här – tidigare än vanligt",
+        "summary": "Folkhälsomyndighetens uppmaning: ”Stanna hemma vid sjukdom”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Influenza season is here – earlier than usual",
+        "summary": "The Public Health Agency's appeal: \"Stay home when sick\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:01:27+01:00"
       }
     },
     {
@@ -5375,29 +5409,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T17:45:55+01:00"
-      }
-    },
-    {
-      "id": "2ab819482e23",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79974",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79974&utm_medium=rss",
-      "published_at": "2026-11-16T17:14:19+01:00",
-      "fetched_at": "2026-11-16T17:15:41+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Man har fått i sig starkström på Arlanda"
-      },
-      "en": {
-        "title": "Man receives electric shock at Arlanda"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T17:15:50+01:00"
       }
     }
   ]
