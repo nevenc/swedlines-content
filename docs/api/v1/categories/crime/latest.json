@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-19T05:15:51+01:00",
+  "generated_at": "2026-11-19T05:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4d4ec8cb56a5",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/besiktningsteknikern-pierre-om-mutforsoken-hant-att-jag-erbjudits-pengar",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/besiktningsteknikern-pierre-om-mutforsoken-hant-att-jag-erbjudits-pengar",
+      "published_at": "2026-11-19T05:30:00+01:00",
+      "fetched_at": "2026-11-19T05:30:58+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Besiktningsteknikern Pierre om mutförsöken: ”Man blir helt paff”",
+        "summary": "Flera besiktningstekniker i länet vittnar nu om mutförsök för att släppa igenom bilar med fel. För några veckor sedan dömdes en man för att ha försökt muta en bilbesiktare i Värnamo. Och det är inte ovanligt med liknande försök.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Inspection technician Pierre on bribery attempts: \"You're completely stunned\"",
+        "summary": "Several vehicle inspection technicians in the county now report bribery attempts to pass vehicles with faults. A few weeks ago a man was convicted of trying to bribe a vehicle inspector in Värnamo. And similar attempts are not unusual."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T05:31:11+01:00"
+      }
+    },
+    {
+      "id": "da0496f727a7",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/vaktare-pa-vatten-sa-fick-vasteras-stopp-pa-batstolder-for-miljoner",
+      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/vaktare-pa-vatten-sa-fick-vasteras-stopp-pa-batstolder-for-miljoner",
+      "published_at": "2026-11-19T05:30:00+01:00",
+      "fetched_at": "2026-11-19T05:30:58+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Väktare på vatten – så fick Västerås stopp på båtstölder för miljoner",
+        "summary": "Genom åren har värden för miljonbelopp stulits. Men nu är de stora stölderna borta – tack vare nattpatrullerande väktare på vattnet utanför Västerås. – Tidigare har de tagit sig in i hamnar, bogserat ut båtar och plockat bort motor och drev – och sen släppt båtarna ute på fjärden, säger Västerås…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Security guards on the water – how Västerås put a stop to boat thefts worth millions",
+        "summary": "Over the years, boats worth millions have been stolen. But now the big thefts are gone – thanks to night-patrolling security guards on the water outside Västerås. \"Previously they have entered harbours, towed out boats and removed motors and drives – and then released the boats out on the bay,\" says Västerås…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T05:31:11+01:00"
+      }
+    },
     {
       "id": "ca544721b4d4",
       "schema_version": 1,
@@ -5303,59 +5355,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "fcd82f759ee6",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/sigtunaskolans-ledning-utbuad--pa-informationsdag-folk-skrek",
-      "guid": "https://www.expressen.se/nyheter/sverige/sigtunaskolans-ledning-utbuad--pa-informationsdag-folk-skrek/",
-      "published_at": "2026-11-14T18:21:44+01:00",
-      "fetched_at": "2026-11-14T18:42:03+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Sigtunaskolans ledning utbuad på informationsdag: ”Folk skrek”",
-        "summary": "Sex elever på Sigtunaskolan misstänks för grova brott mot andra elever. Skolan hade informationsdag på lördagen och föräldrar var mycket kritiska mot ledningen, erfar Expressen. – Folk skrek och buade, säger en person som var på plats.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sigtuna School management booed at information day: \"People shouted\"",
-        "summary": "Six pupils at Sigtunaskolan are suspected of serious crimes against other pupils. The school held an information day on Saturday and parents were very critical of management, Expressen reports. – People shouted and booed, says a person who was there."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:20+01:00"
-      }
-    },
-    {
-      "id": "3dab57b9dc10",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/malmolakare-misshandlade-sin-hoggravida-fru-infor-ogonen-pa-barnen",
-      "guid": "3232eb6a-8742-4eec-898e-59c2e1aead15",
-      "published_at": "2026-11-14T18:00:00+01:00",
-      "fetched_at": "2026-11-14T18:42:05+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/e8eb3590-0d0a-41bc-9f02-5821f35d74ca.jpeg?width=600",
-      "sv": {
-        "title": "Malmöläkare misshandlade sin höggravida fru – inför ögonen på barnen",
-        "summary": "Under flera års tid slog och förnedrade en Malmöläkare sin fru – även när hon var höggravid. Till slut tog kvinnan med sig barnen och flydde. Nu döms läkaren till fängelse. Sannolikt kommer han även att bli av med sin läkarlegitimation.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Malmö doctor assaulted his heavily pregnant wife – in front of the children",
-        "summary": "For several years a Malmö doctor beat and humiliated his wife – even when she was heavily pregnant. In the end the woman took the children and fled. Now the doctor is convicted and sentenced to prison. He will likely also lose his medical licence."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:20+01:00"
       }
     }
   ]

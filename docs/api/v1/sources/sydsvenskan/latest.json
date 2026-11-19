@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T05:15:51+01:00",
+  "generated_at": "2026-11-19T05:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0fbcaba658fa",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/vintern-kommer-men-sodra-sverige-ar-inte-redo",
+      "guid": "31f223d8-b703-4a3f-b1c8-a868ec0e34f4",
+      "published_at": "2026-11-19T05:30:00+01:00",
+      "fetched_at": "2026-11-19T05:31:03+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/7985a5b7-7ea7-4258-88b9-56c4bfcfa201.jpeg?width=600",
+      "sv": {
+        "title": "”Vintern kommer, men södra Sverige är inte redo.”",
+        "summary": "Moderaterna har rätt i att det behöver produceras mer el i södra Sverige, skriver Birger Lahti, Hanna Gedin och Alexandra Thomasson, företrädare för Vänsterpartiet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Winter is coming, but southern Sweden is not ready\"",
+        "summary": "The Moderates are right that more electricity needs to be produced in southern Sweden, write Birger Lahti, Hanna Gedin and Alexandra Thomasson, representatives of the Left Party."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T05:31:11+01:00"
+      }
+    },
     {
       "id": "9faa3bb24e3a",
       "schema_version": 1,
@@ -5091,33 +5118,6 @@
       "en": {
         "title": "Built flood protection – put to use right away",
         "summary": "After the 2000 flood, Arvika municipality decided it should never happen again. Twenty years later the flood protection was completed. It was put to use almost immediately."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:15:50+01:00"
-      }
-    },
-    {
-      "id": "d6e2d8b79648",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/nobbades-av-fredricson-blev-sedan-bast-i-varlden",
-      "guid": "5af357e8-158e-42fc-be99-441b1c38f009",
-      "published_at": "2026-11-17T06:11:00+01:00",
-      "fetched_at": "2026-11-17T06:15:45+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/efb0d14c-736c-4b71-8579-1510bca38fdd.jpeg?width=600",
-      "sv": {
-        "title": "Nobbades av Fredricson – blev sedan bäst i världen",
-        "summary": "Hästen Singclair är inte bara en världsmästare. Utan också ett bevis på en uppfödares öga för avel och talang. Valacken nobbades av Peder Fredricson, men har blivit ett dream team tillsammans med tyska Sophie Hinners. – Om två år är det OS i Los Angeles.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Turned down by Fredricson – later became world's best",
-        "summary": "The horse Singclair is not only a world champion. It is also proof of a breeder's eye for breeding and talent. The gelding was turned down by Peder Fredricson, but has become a dream team with German rider Sophie Hinners. – In two years it's the Olympics in Los Angeles."
       },
       "translation": {
         "status": "done",
