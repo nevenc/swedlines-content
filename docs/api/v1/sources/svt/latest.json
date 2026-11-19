@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T12:01:23+01:00",
+  "generated_at": "2026-11-19T12:15:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a0503b20e9b5",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/epa-kortege-i-mjolby-mans-vald-mot-kvinnor-ska-inte-finnas",
+      "guid": "https://www.svt.se/nyheter/lokalt/ost/epa-kortege-i-mjolby-mans-vald-mot-kvinnor-ska-inte-finnas",
+      "published_at": "2026-11-19T11:59:43+01:00",
+      "fetched_at": "2026-11-19T12:15:38+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "EPA-kortege i Mjölby: ”Mäns våld mot kvinnor ska inte finnas”",
+        "summary": "Just nu uppmärksammas Orange week, en vecka fri från våld. I Mjölby samlades därför ungdomar i en EPA-kortege och manifestation mot mäns våld mot kvinnor och flickor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "EPA motorcade in Mjölby: \"Men's violence against women must not exist\"",
+        "summary": "Orange Week, a week free from violence, is currently being highlighted. In Mjölby, young people therefore gathered in an EPA motorcade and demonstration against men's violence against women and girls."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T12:15:48+01:00"
+      }
+    },
     {
       "id": "b38d6b9d9ad0",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Controversial Kneecap to SVT: 'Have the right to be angry'",
         "summary": "The Northern Irish band Kneecap's views on Palestine and Gaza have led to them being put on trial in the UK and having several concerts cancelled. They themselves do not understand the outrage. – I don't think it is controversial to call what is happening in Palestine a genocide."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "7d65da1a2407",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jamtland/ett-steg-mot-e-metanolfabrik-i-ostersund-uniper-ansoker-om-tillstand",
-      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/ett-steg-mot-e-metanolfabrik-i-ostersund-uniper-ansoker-om-tillstand",
-      "published_at": "2026-11-13T11:15:04+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Ett steg mot e-metanolfabrik i Östersund – Uniper ansöker om tillstånd",
-        "summary": "Nu har en ansökan om att få bygga en fabrik för ett fossilfritt fartygsbränsle i Lugnvik lämnats in till Mark-och miljödomstolen. Energibolaget Uniper hoppas på en snabb process.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "A step towards e-methanol plant in Östersund – Uniper applies for permit",
-        "summary": "An application to build a plant for a fossil-free shipping fuel in Lugnvik has now been submitted to the Land and Environment Court. The energy company Uniper hopes for a quick process."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-19T12:01:23+01:00",
+  "generated_at": "2026-11-19T12:15:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bc8d1d8af09c",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/frida-westman-hoppade-225-meter-har-mer-skrack-i-en-mindre-backe",
+      "guid": "https://www.dn.se/sport/frida-westman-hoppade-225-meter-har-mer-skrack-i-en-mindre-backe/",
+      "published_at": "2026-11-19T12:13:34+01:00",
+      "fetched_at": "2026-11-19T12:15:39+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/cdcdd322-3e24-491d-b66b-c23543fdca3e.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Frida Westman hoppade 225 meter: ”Har mer skräck i en mindre backe”",
+        "summary": "Stora steg har tagits för jämställdheten i backhoppning – men männen får fortsatt klart större prischeckar. Inför världscuppremiären trivs Frida Westman med att vara VM-guldhopp, ser fram emot nya 220-metershopp och har arbetat med sin rädsla.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Frida Westman jumped 225 metres: \"I have more fear of a smaller hill\"",
+        "summary": "Big strides have been made for gender equality in ski jumping, but the men still receive clearly larger prize money. Ahead of the World Cup opener, Frida Westman enjoys being the reigning world champion ski jumper, looks forward to new 220-metre jumps and has worked on her fear."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T12:15:48+01:00"
+      }
+    },
+    {
+      "id": "e0586d318b04",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/debatt/fragan-om-jav-inom-idrotten-kraver-nyansering",
+      "guid": "https://www.dn.se/debatt/fragan-om-jav-inom-idrotten-kraver-nyansering/",
+      "published_at": "2026-11-19T12:13:20+01:00",
+      "fetched_at": "2026-11-19T12:15:39+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/4d25eebb-5f5e-4b04-a27e-04d29ec086bb.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "DN Debatt Repliker. ”Frågan om jäv inom idrotten kräver nyansering”",
+        "summary": "DN DEBATT REPLIK. Anna Iwarsson, Riksidrottsförbundet och Hans von Uthmann, SOK: Jävsfrågor måste tas på allvar, men förankring mellan nivåer är en styrka.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "DN Debate Replies: \"The question of conflicts of interest in sport requires nuance\"",
+        "summary": "DN DEBATE REPLY. Anna Iwarsson, the Swedish Sports Confederation, and Hans von Uthmann, SOK: Questions of conflict of interest must be taken seriously, but anchoring between levels is a strength."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T12:15:48+01:00"
+      }
+    },
     {
       "id": "25d09568adec",
       "schema_version": 1,
@@ -5551,58 +5605,6 @@
       "en": {
         "title": "Alexander Isak denied a penalty in the big match: 'Sour'",
         "summary": "Alexander Isak was robbed of a penalty. Should he have gone down in the situation? – You do wonder yourself whether you could have done something differently, he tells SVT Sport."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "72a8fd455d1e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/fotboll/manchester-united-sparkar-michael-carrick",
-      "guid": "https://www.svt.se/sport/fotboll/manchester-united-sparkar-michael-carrick",
-      "published_at": "2026-11-12T11:37:12+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Manchester United sparkar Michael Carrick",
-        "summary": "Nu är det officiellt. Manchester United och tränaren Michael Carrick går skilda vägar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Manchester United sack Michael Carrick",
-        "summary": "Now it is official. Manchester United and manager Michael Carrick are going their separate ways."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "5c3a0c9f2d25",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/fotboll/viktor-gyokeres-omtalade-sving-pikas-manga-som-ar-pa-mig",
-      "guid": "https://www.svt.se/sport/fotboll/viktor-gyokeres-omtalade-sving-pikas-manga-som-ar-pa-mig",
-      "published_at": "2026-11-12T09:38:16+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Viktor Gyökeres omtalade sving pikas: ”Många som är på mig”",
-        "summary": "Viktor Gyökeres insatser på golfbanan har inte imponerat på lagkamraterna, varken i landslaget eller klubblaget. Men övning ger färdighet och vännerna Eric Smith och Viktor Johansson medger att superstjärnans omtalade sving nu i alla fall är lite mindre dålig.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Viktor Gyökeres's much-discussed swing mocked: 'A lot of people are on my case'",
-        "summary": "Viktor Gyökeres's efforts on the golf course have not impressed his teammates, either in the national team or at his club. But practice makes perfect, and friends Eric Smith and Viktor Johansson admit that the superstar's much-discussed swing is at least now a little less bad."
       },
       "translation": {
         "status": "done",
