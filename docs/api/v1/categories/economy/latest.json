@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T22:31:04+01:00",
+  "generated_at": "2026-11-19T22:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ebffca918178",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346193",
+      "guid": "rss:sr.se/article/9346193",
+      "published_at": "2026-11-19T22:32:00+01:00",
+      "fetched_at": "2026-11-19T22:45:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Bankläckan: Oligarker med svenskkoppling bland kunderna",
+        "summary": "Deutsche Bank skakas av en rad avslöjanden om misstänkta penningtvättsupplägg och sanktionsbrott efter att miljontals dokument läckts från den tyska storbanken. Många av avslöjandena kretsar kring bankens hantering av ryska oligarker.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Bank leak: Oligarchs with Swedish links among clients",
+        "summary": "Deutsche Bank is shaken by a series of revelations about suspected money-laundering schemes and sanctions violations after millions of documents leaked from the German major bank. Many of the revelations revolve around the bank's handling of Russian oligarchs."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T22:45:51+01:00"
+      }
+    },
     {
       "id": "6f35187079f6",
       "schema_version": 1,
@@ -5263,33 +5289,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T07:01:21+01:00"
-      }
-    },
-    {
-      "id": "8bbce7c453e6",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/smasurt-pa-asienborserna-infor-jattenoteringen",
-      "guid": "2a9ab4ca-79f8-47d5-907f-3835526ab13f",
-      "published_at": "2026-11-19T06:43:56+01:00",
-      "fetched_at": "2026-11-19T06:45:44+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/e300fb5f-64ae-4ab9-9360-173176f4ca15.jpeg?width=600",
-      "sv": {
-        "title": "Småsurt på Asienbörserna inför jättenoteringen",
-        "summary": "Fortsatt press på Nvidia-aktien och en småsur utveckling på de asiatiska börserna utgör fonden inför torsdagens jättenotering av Claude-bolaget Anthropic.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Subdued Asian markets ahead of the mega listing",
-        "summary": "Continued pressure on the Nvidia share and a subdued development on Asian stock exchanges set the scene ahead of Thursday's mega listing of Claude maker Anthropic."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:45:49+01:00"
       }
     }
   ]

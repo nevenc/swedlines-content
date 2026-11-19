@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T22:31:04+01:00",
+  "generated_at": "2026-11-19T22:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dab1a9f5abff",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/kandis-flodhasten-fiona-dod",
+      "guid": "https://www.expressen.se/nyheter/varlden/kandis-flodhasten-fiona-dod/",
+      "published_at": "2026-11-19T22:37:54+01:00",
+      "fetched_at": "2026-11-19T22:45:45+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Kändis-flodhästen Fiona död",
+        "summary": "Flodhästen Fiona, känd som bokfigur och internetfenomen, har dött, meddelar djurparken där hon levde.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Celebrity hippo Fiona dead",
+        "summary": "Hippo Fiona, known as a book character and internet phenomenon, has died, the zoo where she lived announces."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T22:45:51+01:00"
+      }
+    },
     {
       "id": "1eef405b7a80",
       "schema_version": 1,
@@ -5158,32 +5184,6 @@
       "en": {
         "title": "Estelle does work experience in Helsinki",
         "summary": "Last week, Princess Estelle did work experience with her grandfather, the king. Now her work placement continues – in Helsinki."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:01:29+01:00"
-      }
-    },
-    {
-      "id": "0d39a86ca8c2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/ryssland-hotar-baltikum",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/ryssland-hotar-baltikum",
-      "published_at": "2026-11-16T13:45:59+01:00",
-      "fetched_at": "2026-11-16T14:01:16+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Hotar Baltikum",
-        "summary": "Ryska ilskan efter Estlands drag: ”Kan inte acceptera”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Threatens the Baltics",
-        "summary": "Russian anger over Estonia's move: “Cannot accept”"
       },
       "translation": {
         "status": "done",
