@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-11-19T08:01:26+01:00",
+  "generated_at": "2026-11-19T08:04:35+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d847f6aeeaaf",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4OWR72Ux1f2SdIN6XbI0Jx/enkel-wok-med-groensaker-och-cashewnoetter",
+      "guid": "4OWR72Ux1f2SdIN6XbI0Jx",
+      "published_at": "2026-11-19T08:02:53+01:00",
+      "fetched_at": "2026-11-19T08:04:30+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Mat"
+      ],
+      "sv": {
+        "title": "Enkel wok med grönsaker och cashewnötter",
+        "summary": "Dagens middagstips bjuder på grönsakswok med krispiga grönsaker, gyllenstekt tofu och knapriga cashewnötter. Allt vänds runt i en härligt god sås och serveras med nykokt ris. En enkel, snabblagad och riktigt god vegetarisk vardagsmiddag! Se Siri Barjes recept",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Easy wok with vegetables and cashew nuts",
+        "summary": "Today's dinner tip is a vegetable wok with crispy vegetables, golden-fried tofu and crunchy cashew nuts. Everything is tossed in a deliciously good sauce and served with freshly cooked rice. A simple, quick-to-make and really good vegetarian weekday dinner! See Siri Barje's recipe"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:04:35+01:00"
+      }
+    },
+    {
+      "id": "dbd79123b3d1",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345862",
+      "guid": "rss:sr.se/article/9345862",
+      "published_at": "2026-11-19T08:01:00+01:00",
+      "fetched_at": "2026-11-19T08:04:26+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Daniel Alling: Trots alla kramar märks det spänningar",
+        "summary": "Xi Jinping, Vladminir Putin och Donald Trump har för första gången som träffas tillsammans i formella trepartsamtal. ”Trots alla kramar märks det att det finns spänningar”, säger Daniel Alling, Sveriges Radios internationella korrespondent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Daniel Alling: Despite all the hugs, tensions are evident",
+        "summary": "Xi Jinping, Vladimir Putin and Donald Trump have for the first time met together in formal trilateral talks. \"Despite all the hugs, it is evident that there are tensions\", says Daniel Alling, Sveriges Radio's international correspondent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:04:35+01:00"
+      }
+    },
+    {
+      "id": "7f856d49ce1a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/arets-julklapp-ar-en-svekdebatt",
+      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/arets-julklapp-ar-en-svekdebatt/",
+      "published_at": "2026-11-19T08:00:04+01:00",
+      "fetched_at": "2026-11-19T08:04:29+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Årets julklapp är en svekdebatt",
+        "summary": "Ida Gabrielsson (V) var inte med i SVT:s Aktuellt på onsdagen. Ingen centerpartist heller. På det viset var det förmodligen den bästa av de hittills 67 dagar som gått av den rödgröna regeringsbildningen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This year's Christmas present is a betrayal debate",
+        "summary": "Ida Gabrielsson (V) was not on SVT's Aktuellt on Wednesday. Neither was any Centre Party member. In that way, it was probably the best of the 67 days so far that have passed since the red-green government formation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:04:35+01:00"
+      }
+    },
     {
       "id": "82cf444b216e",
       "schema_version": 1,
@@ -5320,87 +5401,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T20:31:09+01:00"
-      }
-    },
-    {
-      "id": "cf45291a4a52",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/pMLlmR/tak-har-rasat-in-pa-forlossningsavdelning",
-      "guid": "https://www.aftonbladet.se/nyheter/a/pMLlmR/tak-har-rasat-in-pa-forlossningsavdelning?utm_medium=rss",
-      "published_at": "2026-11-18T20:11:14+01:00",
-      "fetched_at": "2026-11-18T21:45:46+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/b9eb31c8-7274-30aa-921d-ff457306b3f9?format=auto&s=5e1e8347f945e7576dd19a2ec7415d015a05aa2f&w=1000",
-      "sv": {
-        "title": "Tak har rasat in på förlossningsavdelning – patienter stoppades",
-        "summary": "SÖS stoppade nya patienter ✓ ”Puts och betong”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ceiling collapses in maternity ward – patients halted",
-        "summary": "SÖS has stopped new patients ✓ \"Putty and concrete\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T21:45:53+01:00"
-      }
-    },
-    {
-      "id": "9d0fc7b97d12",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/eqt-topp-har-salt-aktier-for-31-5-miljoner",
-      "guid": "9ac3b4a4-9428-4397-8dca-d740ed7e54fd",
-      "published_at": "2026-11-18T20:04:47+01:00",
-      "fetched_at": "2026-11-18T20:15:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/57c36722-9fae-4c27-9215-6bdf1b454bff.jpeg?width=600",
-      "sv": {
-        "title": "EQT-topp har sålt aktier för 31,5 miljoner",
-        "summary": "James Yu, som är partner på EQT med titeln head of global client solutions, har sålt 100.000 aktier i riskkapitalbolaget.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "EQT top executive sells shares worth SEK 31.5 million",
-        "summary": "James Yu, partner at EQT with the title head of global client solutions, has sold 100,000 shares in the private equity firm."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T20:15:50+01:00"
-      }
-    },
-    {
-      "id": "fc5eac3a5038",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/n99rzQ/basta-resekreditkortet-villkor-och-bonus",
-      "guid": "https://www.svd.se/a/n99rzQ/basta-resekreditkortet-villkor-och-bonus?utm_medium=rss",
-      "published_at": "2026-11-18T20:03:14+01:00",
-      "fetched_at": "2026-11-18T20:15:43+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/d4357135-74c9-37ff-a21e-b3f6d3b5eaa0?format=auto&s=30c14e4dbaa517c28ed09a7eac821d042d101a98&w=1000",
-      "sv": {
-        "title": "Här är korten som ger mest på resan",
-        "summary": "Resekreditkort kan ge tillgång till bonusresor och förmåner på flygplatsen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here are the cards that give the most on your trip",
-        "summary": "Travel credit cards can give access to bonus trips and airport perks."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T20:15:50+01:00"
       }
     }
   ]

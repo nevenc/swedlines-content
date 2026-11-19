@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T08:01:26+01:00",
+  "generated_at": "2026-11-19T08:04:35+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7f856d49ce1a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/arets-julklapp-ar-en-svekdebatt",
+      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/arets-julklapp-ar-en-svekdebatt/",
+      "published_at": "2026-11-19T08:00:04+01:00",
+      "fetched_at": "2026-11-19T08:04:29+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Årets julklapp är en svekdebatt",
+        "summary": "Ida Gabrielsson (V) var inte med i SVT:s Aktuellt på onsdagen. Ingen centerpartist heller. På det viset var det förmodligen den bästa av de hittills 67 dagar som gått av den rödgröna regeringsbildningen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This year's Christmas present is a betrayal debate",
+        "summary": "Ida Gabrielsson (V) was not on SVT's Aktuellt on Wednesday. Neither was any Centre Party member. In that way, it was probably the best of the 67 days so far that have passed since the red-green government formation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:04:35+01:00"
+      }
+    },
     {
       "id": "ad4e1bb9076e",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T23:15:46+01:00"
-      }
-    },
-    {
-      "id": "b14de295cc4f",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/stark-press-pa-s-och-v-maste-hitta-en-losning",
-      "guid": "https://www.expressen.se/nyheter/politik/stark-press-pa-s-och-v-maste-hitta-en-losning/",
-      "published_at": "2026-11-15T22:57:42+01:00",
-      "fetched_at": "2026-11-15T23:01:09+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Stark press på S och V: ”Måste hitta en lösning”",
-        "summary": "C väljer den rödgröna sidan – men kravet på att V ska stå utanför regeringen ligger fast. Nu ökar pressen på S och V rejält, menar statsvetaren Jenny Madestam. – Brottningsmatchen mellan Andersson och Dadgostar, där måste det ske någon slags ”slutstrid”. De måste hitta en lösning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Strong pressure on S and V: “Must find a solution”",
-        "summary": "C chooses the red-green side – but the demand that V stay outside the government stands. Pressure on the Social Democrats and the Left Party now increases sharply, says political scientist Jenny Madestam. – The wrestling match between Andersson and Dadgostar, there has to be some kind of “final battle”. They have to find a solution."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T23:01:14+01:00"
       }
     }
   ]

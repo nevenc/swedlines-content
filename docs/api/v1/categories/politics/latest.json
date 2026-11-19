@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T08:01:26+01:00",
+  "generated_at": "2026-11-19T08:04:35+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7f856d49ce1a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/arets-julklapp-ar-en-svekdebatt",
+      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/arets-julklapp-ar-en-svekdebatt/",
+      "published_at": "2026-11-19T08:00:04+01:00",
+      "fetched_at": "2026-11-19T08:04:29+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Årets julklapp är en svekdebatt",
+        "summary": "Ida Gabrielsson (V) var inte med i SVT:s Aktuellt på onsdagen. Ingen centerpartist heller. På det viset var det förmodligen den bästa av de hittills 67 dagar som gått av den rödgröna regeringsbildningen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This year's Christmas present is a betrayal debate",
+        "summary": "Ida Gabrielsson (V) was not on SVT's Aktuellt on Wednesday. Neither was any Centre Party member. In that way, it was probably the best of the 67 days so far that have passed since the red-green government formation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:04:35+01:00"
+      }
+    },
     {
       "id": "02f8a7a85db5",
       "schema_version": 1,
@@ -5367,33 +5393,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T10:31:07+01:00"
-      }
-    },
-    {
-      "id": "c72640e084ea",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/regeringsbildningen-detta-har-hant",
-      "guid": "https://www.dn.se/sverige/regeringsbildningen-detta-har-hant/",
-      "published_at": "2026-11-16T09:57:50+01:00",
-      "fetched_at": "2026-11-16T10:01:15+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/88e60737-a031-4399-9112-9a75ffded65f.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Regeringsbildningen: Detta har hänt",
-        "summary": "Centerpartiet har valt att fortsätta förhandla med de rödgröna partierna om att bilda regering. Men flera frågetecken återstår.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The government formation: What has happened",
-        "summary": "The Centre Party has chosen to continue negotiating with the red-greens on forming a government. But several question marks remain."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:01:35+01:00"
       }
     }
   ]

@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-11-19T08:01:26+01:00",
-  "count": 137,
+  "generated_at": "2026-11-19T08:04:35+01:00",
+  "count": 140,
   "items": [
+    {
+      "id": "d847f6aeeaaf",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/4OWR72Ux1f2SdIN6XbI0Jx/enkel-wok-med-groensaker-och-cashewnoetter",
+      "guid": "4OWR72Ux1f2SdIN6XbI0Jx",
+      "published_at": "2026-11-19T08:02:53+01:00",
+      "fetched_at": "2026-11-19T08:04:30+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Mat"
+      ],
+      "sv": {
+        "title": "Enkel wok med grönsaker och cashewnötter",
+        "summary": "Dagens middagstips bjuder på grönsakswok med krispiga grönsaker, gyllenstekt tofu och knapriga cashewnötter. Allt vänds runt i en härligt god sås och serveras med nykokt ris. En enkel, snabblagad och riktigt god vegetarisk vardagsmiddag! Se Siri Barjes recept",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Easy wok with vegetables and cashew nuts",
+        "summary": "Today's dinner tip is a vegetable wok with crispy vegetables, golden-fried tofu and crunchy cashew nuts. Everything is tossed in a deliciously good sauce and served with freshly cooked rice. A simple, quick-to-make and really good vegetarian weekday dinner! See Siri Barje's recipe"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:04:35+01:00"
+      }
+    },
+    {
+      "id": "dbd79123b3d1",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345862",
+      "guid": "rss:sr.se/article/9345862",
+      "published_at": "2026-11-19T08:01:00+01:00",
+      "fetched_at": "2026-11-19T08:04:26+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Daniel Alling: Trots alla kramar märks det spänningar",
+        "summary": "Xi Jinping, Vladminir Putin och Donald Trump har för första gången som träffas tillsammans i formella trepartsamtal. ”Trots alla kramar märks det att det finns spänningar”, säger Daniel Alling, Sveriges Radios internationella korrespondent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Daniel Alling: Despite all the hugs, tensions are evident",
+        "summary": "Xi Jinping, Vladimir Putin and Donald Trump have for the first time met together in formal trilateral talks. \"Despite all the hugs, it is evident that there are tensions\", says Daniel Alling, Sveriges Radio's international correspondent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:04:35+01:00"
+      }
+    },
+    {
+      "id": "7f856d49ce1a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/arets-julklapp-ar-en-svekdebatt",
+      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/arets-julklapp-ar-en-svekdebatt/",
+      "published_at": "2026-11-19T08:00:04+01:00",
+      "fetched_at": "2026-11-19T08:04:29+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Årets julklapp är en svekdebatt",
+        "summary": "Ida Gabrielsson (V) var inte med i SVT:s Aktuellt på onsdagen. Ingen centerpartist heller. På det viset var det förmodligen den bästa av de hittills 67 dagar som gått av den rödgröna regeringsbildningen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This year's Christmas present is a betrayal debate",
+        "summary": "Ida Gabrielsson (V) was not on SVT's Aktuellt on Wednesday. Neither was any Centre Party member. In that way, it was probably the best of the 67 days so far that have passed since the red-green government formation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:04:35+01:00"
+      }
+    },
     {
       "id": "82cf444b216e",
       "schema_version": 1,

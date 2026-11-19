@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T08:01:26+01:00",
+  "generated_at": "2026-11-19T08:04:35+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dbd79123b3d1",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345862",
+      "guid": "rss:sr.se/article/9345862",
+      "published_at": "2026-11-19T08:01:00+01:00",
+      "fetched_at": "2026-11-19T08:04:26+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Daniel Alling: Trots alla kramar märks det spänningar",
+        "summary": "Xi Jinping, Vladminir Putin och Donald Trump har för första gången som träffas tillsammans i formella trepartsamtal. ”Trots alla kramar märks det att det finns spänningar”, säger Daniel Alling, Sveriges Radios internationella korrespondent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Daniel Alling: Despite all the hugs, tensions are evident",
+        "summary": "Xi Jinping, Vladimir Putin and Donald Trump have for the first time met together in formal trilateral talks. \"Despite all the hugs, it is evident that there are tensions\", says Daniel Alling, Sveriges Radio's international correspondent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:04:35+01:00"
+      }
+    },
     {
       "id": "96cd643866a9",
       "schema_version": 1,
@@ -5299,33 +5325,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T11:45:46+01:00"
-      }
-    },
-    {
-      "id": "751987dc8165",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/krimbron-uppges-skadad-vid-nytt-stort-anfall",
-      "guid": "https://www.dn.se/varlden/krimbron-uppges-skadad-vid-nytt-stort-anfall/",
-      "published_at": "2026-11-17T08:53:24+01:00",
-      "fetched_at": "2026-11-17T09:01:13+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/ee3a1190-036d-4f81-af66-f84940cff987.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Krimbron uppges skadad vid nytt stort anfall",
-        "summary": "Ukraina har anfallit Krimbron igen och enligt obekräftade bilder har en av dess stora valvbågar bombats sönder. I Kiev har två av de stora broar som binder samman staden över floden Dnepr träffats vid nya ryska attacker.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Crimea Bridge reportedly damaged in new major attack",
-        "summary": "Ukraine has attacked the Crimea Bridge again and, according to unconfirmed images, one of its large arch spans has been bombed apart. In Kyiv, two of the major bridges linking the city across the Dnipro river were hit in new Russian attacks."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:01:23+01:00"
       }
     }
   ]
