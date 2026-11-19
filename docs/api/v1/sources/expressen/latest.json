@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-19T19:15:56+01:00",
+  "generated_at": "2026-11-19T19:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3d60d1ef1f9b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/slakting-greven-blev-sol-och-varad",
+      "guid": "https://www.expressen.se/nyheter/sverige/slakting-greven-blev-sol-och-varad/",
+      "published_at": "2026-11-19T19:22:21+01:00",
+      "fetched_at": "2026-11-19T19:30:59+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Släkting: Greven blev sol-och-vårad",
+        "summary": "Ett hemligt sms i sista vittnesförhöret skapade kaos i rätten. Meddelandet har varit okänt fram till nu. Tingsrätten tog två akutmöten – för att till slut godkänna sms:et som bevisning. Då avslöjades helt nya uppgifter om grevens sista år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Relative: Count was sun-and-cured",
+        "summary": "A secret text message in the final witness hearing created chaos in court. The message had been unknown until now. The district court held two emergency meetings before finally admitting the text message as evidence. Entirely new details about the count's final years were then revealed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:31:05+01:00"
+      }
+    },
+    {
+      "id": "98badd8444f3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/han-knaade-nick-alinia-doms-i-hovratten",
+      "guid": "https://www.expressen.se/nyheter/sverige/han-knaade-nick-alinia-doms-i-hovratten/",
+      "published_at": "2026-11-19T19:13:54+01:00",
+      "fetched_at": "2026-11-19T19:30:59+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Han knäade Nick Alinia – döms i hovrätten",
+        "summary": "Vänsteraktivisten Andreas Klominek knäade högeraktivisten Nick Alinia i huvudet. Han friades i tingsrätten – men döms nu i hovrätten. Straffet blir villkorlig dom och samhällstjänst.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "He kneed Nick Alinia – convicted in court of appeal",
+        "summary": "Left-wing activist Andreas Klominek kneed right-wing activist Nick Alinia in the head. He was acquitted in the district court – but is now convicted in the court of appeal. The sentence becomes a suspended sentence and community service."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:31:05+01:00"
+      }
+    },
     {
       "id": "b2abb0566e4e",
       "schema_version": 1,
@@ -5139,58 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T11:00:46+01:00"
-      }
-    },
-    {
-      "id": "aef8b6ca2f23",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/brand-vid-skanstull-i-stockholm",
-      "guid": "https://www.expressen.se/nyheter/sverige/brand-vid-skanstull-i-stockholm/",
-      "published_at": "2026-11-16T10:24:23+01:00",
-      "fetched_at": "2026-11-16T10:30:57+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Brand vid Skanstull i Stockholm",
-        "summary": "En brand bröt på måndagsförmiddagen ut vid Skanstull på Södermalm i Stockholm. Nu utreder polisen om händelsen har koppling till de misstänkta pyromandåden i stadsdelen, enligt Expressens uppgifter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fire at Skanstull in Stockholm",
-        "summary": "A fire broke out on Monday morning at Skanstull on Södermalm in Stockholm. Police are now investigating whether the incident is connected to the suspected arson attacks in the district, according to Expressen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:31:07+01:00"
-      }
-    },
-    {
-      "id": "c77a52ae66af",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/flyr-nar-de-ser-vad-som-narmar-sig",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/flyr-nar-de-ser-vad-som-narmar-sig",
-      "published_at": "2026-11-16T10:16:55+01:00",
-      "fetched_at": "2026-11-16T10:30:57+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Flyr när de ser vad som närmar sig",
-        "summary": "Sekunder senare blir det panik i trafikkön i Sichuan",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Flee when they see what is approaching",
-        "summary": "Seconds later panic breaks out in the traffic queue in Sichuan"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:31:07+01:00"
       }
     }
   ]

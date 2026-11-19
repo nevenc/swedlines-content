@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-19T19:15:56+01:00",
+  "generated_at": "2026-11-19T19:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b5e6e7e037b7",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/nedgangen-tilltar-pa-wall-street-jOG9I",
+      "guid": "53e78f88-c547-494b-9b00-6cc3b109aa7b",
+      "published_at": "2026-11-19T19:24:14+01:00",
+      "fetched_at": "2026-11-19T19:31:00+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nedgången tilltar på Wall Street",
+        "summary": "USA-börserna lyser allt rödare under torsdagskvällen trots en lyckad börsdebut för AI-jätten Anthropic. Chiptillverkaren AMD rasar efter att analysfirman Hunterbrook tagit en kort position i aktien.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wall Street slides further",
+        "summary": "US stock exchanges are turning increasingly red on Thursday evening despite a successful stock market debut for AI giant Anthropic. Chipmaker AMD is plunging after the analysis firm Hunterbrook took a short position in the stock."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:31:05+01:00"
+      }
+    },
+    {
+      "id": "784ff7df02f2",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/tillbaka-i-fondtoppen-forvaltaren-tror-pa-nya-kurslyft",
+      "guid": "66c4157c-376a-4ce3-9cc3-f08ad379dc57",
+      "published_at": "2026-11-19T19:21:23+01:00",
+      "fetched_at": "2026-11-19T19:31:00+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/f74272d5-1143-48ff-a886-d861e93ae692.jpeg?width=600",
+      "sv": {
+        "title": "Tillbaka i fondtoppen – förvaltaren tror på nya kurslyft",
+        "summary": "Med en snittavkastning på 17 procent under de tre senaste åren är tillväxtmarknader tillbaka i fondmatchen. Fondproffset Marie-Anne Meldahl tror på en fortsatt stark utveckling men varnar för att det kan svänga kring de stora asiatiska teknikjättarna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Back at the top of funds – manager believes in new price gains",
+        "summary": "With an average return of 17 percent over the past three years, emerging markets are back in the fund race. Fund professional Marie-Anne Meldahl believes in continued strong development but warns that it could swing around the big Asian tech giants."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:31:05+01:00"
+      }
+    },
     {
       "id": "3dbe85fdb9cc",
       "schema_version": 1,
@@ -5279,60 +5332,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "eb463c8c4ba0",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ledare/pest-eller-kolera-i-paris",
-      "guid": "71071404-81c3-4d9f-a231-4813c12e12a0",
-      "published_at": "2026-11-18T16:08:45+01:00",
-      "fetched_at": "2026-11-18T16:15:52+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/f7ede17e-9c78-4f3a-a6d4-d8b7f26c9e0c.jpeg?width=600",
-      "sv": {
-        "title": "Pest eller kolera i Paris",
-        "summary": "Vem som styr i Frankrike spelar roll för hela Europa. I vår ska de välja president. Favoriter är än så länge två ytterkandidater, den ena lika illa som den andra.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Plague or cholera in Paris",
-        "summary": "Who governs France matters for all of Europe. This spring they are to elect a president. So far the favourites are two fringe candidates, one as bad as the other."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:16:01+01:00"
-      }
-    },
-    {
-      "id": "7a4457a1b006",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/svangigt-pa-wall-street",
-      "guid": "ccdc2d5b-a017-4ad8-811c-1dfc381a318f",
-      "published_at": "2026-11-18T16:04:36+01:00",
-      "fetched_at": "2026-11-18T16:15:52+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/3276de88-23f4-431e-94d3-53dd472dd4ad.jpeg?width=600",
-      "sv": {
-        "title": "Svängigt på Wall Street",
-        "summary": "USA-börserna pendlar fram och tillbaka i onsdagens inledande handel. Chipjätten Nvidia steg i den inledande handeln, men vände sedan snabbt ned under nollan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Volatile on Wall Street",
-        "summary": "US stock markets swing back and forth in Wednesday's opening trade. Chip giant Nvidia rose in the opening trade, but then quickly turned down below zero."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:16:01+01:00"
       }
     }
   ]
