@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T19:46:07+01:00",
+  "generated_at": "2026-11-19T20:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d4599e71cf61",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/pMLV8j/landsbygdsministern-efter-200-sekunders-avslojande-ska-inte-forekomma",
+      "guid": "https://www.aftonbladet.se/nyheter/a/pMLV8j/landsbygdsministern-efter-200-sekunders-avslojande-ska-inte-forekomma?utm_medium=rss",
+      "published_at": "2026-11-19T19:57:00+01:00",
+      "fetched_at": "2026-11-19T20:01:15+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/daf9dc6f-a578-3cf0-bc88-97213b1b747d?format=auto&s=d77e7b316a1ac3ee7e3b232e7e818c084532dcf9&w=1000",
+      "sv": {
+        "title": "Landsbygdsministern efter 200 sekunders avslöjande: ”Ska inte förekomma”",
+        "summary": "Ministern om avslöjandet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Rural affairs minister after 200-second exposé: \"Should not happen\"",
+        "summary": "The minister on the exposé"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:01:24+01:00"
+      }
+    },
     {
       "id": "0c2dd8e0f13d",
       "schema_version": 1,
@@ -5360,35 +5387,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T14:31:14+01:00"
-      }
-    },
-    {
-      "id": "924ba2fcf061",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3KK3mHYKYo1m4mquqYNjMp/ohlys-sagning-da-kommer-domen-bli-hard",
-      "guid": "3KK3mHYKYo1m4mquqYNjMp",
-      "published_at": "2026-11-16T13:44:27+01:00",
-      "fetched_at": "2026-11-16T13:45:52+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Svensk politik"
-      ],
-      "sv": {
-        "title": "Ohlys sågning: ”Då kommer domen bli hård”",
-        "summary": "Tidigare V-ledaren: Hon har verkligen misskött sig • Kallar C ”skämtparti”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ohly slams: \"Then the verdict will be harsh\"",
-        "summary": "Former V leader: She has really mishandled things • Calls C a \"joke party\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T13:45:57+01:00"
       }
     }
   ]

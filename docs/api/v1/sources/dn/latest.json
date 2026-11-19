@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T19:46:07+01:00",
+  "generated_at": "2026-11-19T20:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0dc48a695392",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/debatt/gor-utbildning-till-en-storre-del-av-arbetsmarknadspolitiken",
+      "guid": "https://www.dn.se/debatt/gor-utbildning-till-en-storre-del-av-arbetsmarknadspolitiken/",
+      "published_at": "2026-11-19T20:00:00+01:00",
+      "fetched_at": "2026-11-19T20:01:14+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/935912de-d30f-43b7-acca-b30ce2f391b6.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "DN Debatt. ”Gör utbildning till en större del av arbetsmarknadspolitiken”",
+        "summary": "DN DEBATT. När arbetsgivare söker kompetens som många arbetssökande saknar räcker det inte att effektivisera själva jobbsökandet och ställa högre krav på individen. Arbetssökande måste också få möjlighet att skaffa sig den kompetens som efterfrågas.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "DN Debate: \"Make education a larger part of labour market policy\"",
+        "summary": "DN DEBATE. When employers look for skills that many jobseekers lack, it is not enough to streamline the job search itself and set higher demands on the individual. Jobseekers must also be given the opportunity to acquire the skills that are in demand."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:01:24+01:00"
+      }
+    },
     {
       "id": "fe592b516583",
       "schema_version": 1,
@@ -5369,33 +5396,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T00:01:17+01:00"
-      }
-    },
-    {
-      "id": "50e2849abcf7",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/jon-ossoff-ger-obama-vibbar-men-staller-han-upp",
-      "guid": "https://www.dn.se/varlden/jon-ossoff-ger-obama-vibbar-men-staller-han-upp/",
-      "published_at": "2026-11-16T22:35:13+01:00",
-      "fetched_at": "2026-11-16T22:45:42+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/8d147323-9e93-488d-acc8-19f6929e43c3.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Jon Ossoff ger Obama-vibbar – men ställer han upp?",
-        "summary": "WASHINGTON. Han påminner om Barack Obama när han talar och krossar sina meningsmotståndare med kuslig precision. Demokrater över hela USA drömmer om senatorn Jon Ossoff som president 2028. Men på sistone har 39-åringen dragit sig undan. Vad är det egentligen han vill?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jon Ossoff gives Obama vibes – but will he run?",
-        "summary": "WASHINGTON. He reminds people of Barack Obama when he speaks and crushes his opponents with eerie precision. Democrats across the USA dream of Senator Jon Ossoff as president in 2028. But recently the 39-year-old has pulled back. What does he actually want?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T22:45:49+01:00"
       }
     }
   ]

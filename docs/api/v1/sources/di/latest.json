@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T19:46:07+01:00",
+  "generated_at": "2026-11-19T20:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5d8ca6513b6d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/explosion-nara-sveriges-ambassad-i-kiev",
+      "guid": "5c2a262f-9c20-404a-8176-1fe167979a57",
+      "published_at": "2026-11-19T19:47:13+01:00",
+      "fetched_at": "2026-11-19T20:01:16+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6bee6218-722c-4d37-a120-428863c1bfa4.jpeg?width=600",
+      "sv": {
+        "title": "Explosion nära Sveriges ambassad i Kiev",
+        "summary": "En explosion inträffade nära Sveriges ambassad i Ukrainas huvudstad Kiev på torsdagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Explosion near Sweden's embassy in Kyiv",
+        "summary": "An explosion occurred near Sweden's embassy in Ukraine's capital Kyiv on Thursday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:01:24+01:00"
+      }
+    },
     {
       "id": "be06996e9ec4",
       "schema_version": 1,
@@ -5298,33 +5325,6 @@
       "en": {
         "title": "Fund pro warns of bumpy AI ride – but happily buys Anthropic",
         "summary": "The AI party continues, but expect ongoing turbulence as investors become more selective. SEB fund manager Johan Söderström gives a thumbs-up to AI lab Anthropic ahead of its stock market listing, but warns that chip giant Nvidia has a rocky period ahead."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "096a7a4429b2",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/ny-israelisk-insats-i-gaza",
-      "guid": "3f145db4-c1d5-4fc4-bea5-048e91a73951",
-      "published_at": "2026-11-18T16:16:57+01:00",
-      "fetched_at": "2026-11-18T16:31:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/1b59d588-6d03-41e7-861e-9798da230aa8.jpeg?width=600",
-      "sv": {
-        "title": "Ny israelisk insats i Gaza",
-        "summary": "Den israeliska militären har på onsdagen inlett en insats i Gaza.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New Israeli operation in Gaza",
-        "summary": "The Israeli military launched an operation in Gaza on Wednesday."
       },
       "translation": {
         "status": "done",
