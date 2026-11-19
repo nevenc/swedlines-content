@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T23:15:51+01:00",
+  "generated_at": "2026-11-19T23:31:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5877e4ceef1d",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=4d0b34f7-63ac-4fca-977f-d9fb1f75c2f1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4d0b34f7-63ac-4fca-977f-d9fb1f75c2f1",
+      "published_at": "2026-11-19T23:13:22+01:00",
+      "fetched_at": "2026-11-19T23:30:57+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polis utreder villabrand i Järfälla",
+        "summary": "”Initialt hanteras det som mordbrand”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police investigate villa fire in Järfälla",
+        "summary": "\"Initially it is being handled as arson-murder\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:31:02+01:00"
+      }
+    },
     {
       "id": "74415364885a",
       "schema_version": 1,
@@ -5335,33 +5361,6 @@
       "en": {
         "title": "Malmö man linked to cannabis and thousands of drug vapes",
         "summary": "Nearly 13 kilos of cannabis and over 2,600 cannabis e-cigarettes were found in a family flat in Malmö. A 33-year-old is suspected to be behind it. He blames an American drug boss."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:01:23+01:00"
-      }
-    },
-    {
-      "id": "8574afc030f6",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/hennes-hund-bet-ihjal-flickvannen-far-fangelse",
-      "guid": "00e028e7-00fc-4608-bb11-16595155f19d",
-      "published_at": "2026-11-16T11:50:47+01:00",
-      "fetched_at": "2026-11-16T12:01:16+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/1fad8360-b2c4-4ba6-ba38-46bf86253444.jpg?width=600",
-      "sv": {
-        "title": "Hennes hund bet ihjäl flickvännen – får fängelse",
-        "summary": "En kvinna i 25-årsåldern i Göteborg döms till tre års fängelse för grovt vållande till annans död sedan hennes hund bet ihjäl hennes partner, skriver GP.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Her dog mauled girlfriend to death – gets prison",
-        "summary": "A woman in her 20s in Göteborg is sentenced to three years in prison for aggravated negligent manslaughter after her dog killed her partner, GP reports."
       },
       "translation": {
         "status": "done",

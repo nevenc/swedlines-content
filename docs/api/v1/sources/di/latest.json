@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-19T23:15:51+01:00",
+  "generated_at": "2026-11-19T23:31:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5f2501034f04",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/apple-utvecklar-egen-ai-agent",
+      "guid": "9f3600d6-6fd6-4d92-afeb-5ad6d5b44fa0",
+      "published_at": "2026-11-19T23:18:47+01:00",
+      "fetched_at": "2026-11-19T23:30:58+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6e48fe55-75c1-44ac-85ff-c6ed1de5ed48.jpeg?width=600",
+      "sv": {
+        "title": "Apple utvecklar egen AI-agent",
+        "summary": "Teknikbolaget Apple utvecklar en egen AI-agent som skulle konkurrera med AI-agenter från bolag såsom Open AI och Anthropic.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Apple develops own AI agent",
+        "summary": "Tech company Apple is developing its own AI agent that would compete with AI agents from companies such as Open AI and Anthropic."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:31:02+01:00"
+      }
+    },
+    {
+      "id": "c945183f2b9f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/jatten-kapar-antalet-anstallda-med-20-30-procent",
+      "guid": "93bc05e4-7d03-4293-ac5d-df17463441e9",
+      "published_at": "2026-11-19T23:15:41+01:00",
+      "fetched_at": "2026-11-19T23:30:58+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/4b55c329-9fff-4edc-8903-1ac73d6528c9.jpeg?width=600",
+      "sv": {
+        "title": "Jätten kapar antalet anställda med 20-30 procent",
+        "summary": "Den amerikanska konsumentvarugruppen Procter & Gamble planerar att minska antalet anställda inom tillverkning och logistik med mellan 20 och 30 procent fram till slutet av 2030.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Giant cuts workforce by 20-30 percent",
+        "summary": "US consumer goods group Procter & Gamble plans to reduce the number of employees in manufacturing and logistics by between 20 and 30 percent by the end of 2030."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:31:02+01:00"
+      }
+    },
     {
       "id": "249966215586",
       "schema_version": 1,
@@ -5276,60 +5330,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T17:15:53+01:00"
-      }
-    },
-    {
-      "id": "85d050bfe267",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/trots-oenighet-kan-bli-usa-s-forsta-svarta-talman",
-      "guid": "2fd6a9d5-012a-42fe-aac5-503be011bae0",
-      "published_at": "2026-11-18T17:02:58+01:00",
-      "fetched_at": "2026-11-18T17:15:47+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/4607b93d-287d-4206-8045-817c04d9f55b.jpg?width=600",
-      "sv": {
-        "title": "Trots oenighet: Kan bli USA:s första svarta talman",
-        "summary": "Demokraterna i USA:s representanthus har röstat fram sin talmanskandidat – den nuvarande minoritetsledaren Hakeem Jeffries valdes, trots att inte alla i partiet är entusiastiska.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Despite disagreement: could become the USA's first Black speaker",
-        "summary": "The Democrats in the US House of Representatives have voted in their speaker candidate – current minority leader Hakeem Jeffries was chosen, although not everyone in the party is enthusiastic."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:15:53+01:00"
-      }
-    },
-    {
-      "id": "c8ab47d52021",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/uppgift-trump-och-putin-ska-traffas-enskilt",
-      "guid": "83ed8db5-9271-49e4-9f37-8b36e48a7e96",
-      "published_at": "2026-11-18T16:58:31+01:00",
-      "fetched_at": "2026-11-18T17:01:18+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/7a336727-1312-434c-9005-fac923dfc363.jpg?width=600",
-      "sv": {
-        "title": "Uppgift: Trump och Putin ska träffas enskilt",
-        "summary": "USA:s president Donald Trump ska hålla ett enskilt samtal med Rysslands Vladimir Putin i samband med toppmötet i Kina, enligt uppgifter. Uppgifterna om mötet kommer inför trepartssamtalet mellan Trump, Putin och Xi Jinping.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Report: Trump and Putin to meet privately",
-        "summary": "US President Donald Trump is to hold a private conversation with Russia's Vladimir Putin in connection with the summit in China, according to reports. The reports about the meeting come ahead of the trilateral talks between Trump, Putin and Xi Jinping."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:01:26+01:00"
       }
     }
   ]

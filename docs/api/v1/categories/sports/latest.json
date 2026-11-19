@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T23:15:51+01:00",
+  "generated_at": "2026-11-19T23:31:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2ba737659901",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/superstart-av-svensken-i-ensam-ledning-i-usa",
+      "guid": "3763b760-dda2-4f9b-acf3-0da4bb2f99c4",
+      "published_at": "2026-11-19T23:25:16+01:00",
+      "fetched_at": "2026-11-19T23:30:59+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/646f2432-684b-4356-9778-9528b8225330.jpg?width=600",
+      "sv": {
+        "title": "Superstart av svensken – i ensam ledning i USA",
+        "summary": "Golfaren Jesper Svensson fick en superstart på PGA-tourtävlingen i Georgia. Svensken gick på åtta slag under par och är i ensam ledning efter den första rundan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swede gets superb start – in sole lead in USA",
+        "summary": "Golfer Jesper Svensson got a superb start at the PGA Tour event in Georgia. The Swede shot eight under par and is in sole lead after the first round."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T23:31:02+01:00"
+      }
+    },
     {
       "id": "1c3b5b74bc77",
       "schema_version": 1,
@@ -5609,33 +5636,6 @@
       "en": {
         "title": "Netherlands crush Greece – close to the knockout stage",
         "summary": "The Netherlands had a field day against Greece at home in Amsterdam. It ended 7–0 in the Nations League match – and the Netherlands are now close to the quarter-finals."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "ae0f087d299b",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/argentina-forlorade-forsta-matchen-utan-messi",
-      "guid": "7746df48-5624-4d4a-ac73-438ef7091c68",
-      "published_at": "2026-11-14T10:52:50+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/1d18e074-cbee-42ed-bcf3-9eacf5b16800.jpg?width=600",
-      "sv": {
-        "title": "Argentina förlorade första matchen utan Messi",
-        "summary": "Nystarten utan Lionel Messi hade kunnat gå bättre för Argentina. Uruguay vann landskampen i Buenos Aires med 2–1.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Argentina lose first match without Messi",
-        "summary": "The restart without Lionel Messi could have gone better for Argentina. Uruguay won the international match in Buenos Aires 2–1."
       },
       "translation": {
         "status": "done",
