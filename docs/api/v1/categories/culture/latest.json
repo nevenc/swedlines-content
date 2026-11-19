@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T14:45:56+01:00",
+  "generated_at": "2026-11-19T15:01:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4d298bcf9680",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/kultur/litteraturpris-for-roman-om-palestinsk-mans-uppvaxt",
+      "guid": "https://www.svt.se/kultur/litteraturpris-for-roman-om-palestinsk-mans-uppvaxt",
+      "published_at": "2026-11-19T14:59:13+01:00",
+      "fetched_at": "2026-11-19T15:01:13+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Litteraturpris för roman om palestinsk mans uppväxt",
+        "summary": "Årets pristagare har utsetts i National Book Award, ett av USA:s finaste litterära priser.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Literary prize for novel about a Palestinian man's upbringing",
+        "summary": "This year's laureate has been named at the National Book Award, one of the finest literary prizes in the USA."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T15:01:28+01:00"
+      }
+    },
     {
       "id": "e0387a34968c",
       "schema_version": 1,
@@ -27,6 +53,44 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T14:31:07+01:00"
+      }
+    },
+    {
+      "id": "c2a6ad128b8c",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/tv/tv-recension/historien-om-roxette-med-deras-egna-bilder.a4e8d3ba-5514-5cbf-8d5b-392156b9969b",
+      "guid": "a4e8d3ba-5514-5cbf-8d5b-392156b9969b",
+      "published_at": "2026-11-19T14:22:36+01:00",
+      "fetched_at": "2026-11-19T15:01:19+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "TV-recension",
+        "Tagg: Roxette",
+        "Tagg: Per Gessle",
+        "Tagg: Marie Fredriksson",
+        "Tagg: Gyllene Tider",
+        "Tagg: SVT",
+        "Tagg: TV-recension",
+        "Tagg: Dokumentärer",
+        "Tagg: Eva Dahlgren"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/e73bda02-3b84-3d28-b377-dcf3aeb01638",
+      "sv": {
+        "title": "Historien om Roxette – med deras egna bilder",
+        "summary": "SVT:s dokumentär är sevärd men bjuder på få nyheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The story of Roxette – with their own pictures",
+        "summary": "SVT's documentary is watchable but offers little news."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T15:01:28+01:00"
       }
     },
     {
@@ -5564,69 +5628,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T20:45:49+01:00"
-      }
-    },
-    {
-      "id": "8e8acbc0ee03",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/BrJgo9/du-kan-inte-alska-den-du-inte-hatar",
-      "guid": "https://www.svd.se/a/BrJgo9/du-kan-inte-alska-den-du-inte-hatar?utm_medium=rss",
-      "published_at": "2026-11-16T20:15:00+01:00",
-      "fetched_at": "2026-11-16T20:30:59+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/d4a16caa-8eb4-399c-88ae-4a671e77ded8?format=auto&s=c0793008cbb8bd5f04ace72ca3e72414f0e774ef&w=946",
-      "sv": {
-        "title": "Du kan inte älska den du inte hatar",
-        "summary": "Vad har Anne Carson, Jacques Lacan, den antika diktaren Nikarchos och popsångerskan Olivia Rodrigo…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "You cannot love the one you do not hate",
-        "summary": "What do Anne Carson, Jacques Lacan, the ancient poet Nikarchos and pop singer Olivia Rodrigo have in common…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T20:31:06+01:00"
-      }
-    },
-    {
-      "id": "b080eb3dcec1",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/restaurang/bigos-pa-restaurang-krakow-i-goteborg-sa-tillagas-polska-grytan.822b0dca-ce8e-5ee1-80b2-673c06df1166",
-      "guid": "822b0dca-ce8e-5ee1-80b2-673c06df1166",
-      "published_at": "2026-11-16T19:50:38+01:00",
-      "fetched_at": "2026-11-16T20:15:45+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Restaurang",
-        "Tagg: Restauranger",
-        "Tagg: Rätten",
-        "Tagg: Krogar",
-        "Tagg: Mat",
-        "Tagg: Två Dagar",
-        "Tagg: Foodflow"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/8ffae158-fab0-323a-bfeb-073f31596e16",
-      "sv": {
-        "title": "Kockarna på Krakow var munkar – nu lagar de bigos i Göteborg",
-        "summary": "Grytan har fått namn efter prinsessan Lilian och tillagas enligt polsk tradition.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Krakow chefs were monks – now they cook bigos in Göteborg",
-        "summary": "The stew is named after Princess Lilian and is prepared according to Polish tradition."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T20:15:51+01:00"
       }
     }
   ]

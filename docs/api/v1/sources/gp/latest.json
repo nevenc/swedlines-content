@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-11-19T14:45:56+01:00",
+  "generated_at": "2026-11-19T15:01:29+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c2a6ad128b8c",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/tv/tv-recension/historien-om-roxette-med-deras-egna-bilder.a4e8d3ba-5514-5cbf-8d5b-392156b9969b",
+      "guid": "a4e8d3ba-5514-5cbf-8d5b-392156b9969b",
+      "published_at": "2026-11-19T14:22:36+01:00",
+      "fetched_at": "2026-11-19T15:01:19+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "TV-recension",
+        "Tagg: Roxette",
+        "Tagg: Per Gessle",
+        "Tagg: Marie Fredriksson",
+        "Tagg: Gyllene Tider",
+        "Tagg: SVT",
+        "Tagg: TV-recension",
+        "Tagg: Dokumentärer",
+        "Tagg: Eva Dahlgren"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/e73bda02-3b84-3d28-b377-dcf3aeb01638",
+      "sv": {
+        "title": "Historien om Roxette – med deras egna bilder",
+        "summary": "SVT:s dokumentär är sevärd men bjuder på få nyheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The story of Roxette – with their own pictures",
+        "summary": "SVT's documentary is watchable but offers little news."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T15:01:28+01:00"
+      }
+    },
     {
       "id": "522eb84a1229",
       "schema_version": 1,
@@ -6854,38 +6892,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:10+01:00"
-      }
-    },
-    {
-      "id": "75600c3264f5",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/debatt/ar-det-inte-dags-att-det-blir-pinsamt-att-skryta-pa-sociala-igen.66e7e108-3bdd-54a1-a926-6d121ea93eb7",
-      "guid": "66e7e108-3bdd-54a1-a926-6d121ea93eb7",
-      "published_at": "2026-11-14T07:05:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Debatt",
-        "Tagg: Sociala medier",
-        "Tagg: Social kompetens"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/feff8917-f507-321d-b612-c21745d1732d",
-      "sv": {
-        "title": "Är det inte dags att det blir pinsamt att skryta på sociala medier igen?",
-        "summary": "Självskrytet försvaras gärna som en frigörelse från Jantelagen. Men alternativet är inte att basunera ut sin storhet inför en publik, skriver Nanna Gillberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Isn't it about time bragging on social media became embarrassing again?",
-        "summary": "Self-promotion is often defended as liberation from the Law of Jante. But the alternative is not to trumpet one's greatness before an audience, writes Nanna Gillberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:52+01:00"
       }
     }
   ]
