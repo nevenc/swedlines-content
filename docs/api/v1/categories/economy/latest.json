@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-19T17:31:19+01:00",
+  "generated_at": "2026-11-19T17:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4c0ccf601749",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/europaborserna-vande-till-rott",
+      "guid": "d7944b4e-1882-4011-8edf-9102901b1a01",
+      "published_at": "2026-11-19T17:39:02+01:00",
+      "fetched_at": "2026-11-19T17:45:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Europabörserna vände till rött",
+        "summary": "Europabörserna hade backat på bred front när handeln summerades, efter en eftermiddagsdipp för flera av världsbörserna. Det regionala samlingsindexet var ned 0,8 procent.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "European stock exchanges turn red",
+        "summary": "European stock exchanges had fallen across the board when trading was summed up, after an afternoon dip for several of the world's stock exchanges. The regional composite index was down 0.8 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "217bd31871ac",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/stockholmsborsen-foll-tillbaka-truecaller-rusade",
+      "guid": "de6ca307-b1f4-4671-a795-a4bb705c45e1",
+      "published_at": "2026-11-19T17:38:02+01:00",
+      "fetched_at": "2026-11-19T17:45:48+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/625933ae-232b-4fad-8e9c-385848934da8.jpeg?width=600",
+      "sv": {
+        "title": "Stockholmsbörsen föll tillbaka – Truecaller rusade",
+        "summary": "Stockholmsbörsen föll tillbaka under eftermiddagen i spåren av att Wall Street föll tillbaka. På bolagsnivå rusade Truecaller efter en köpstämpel från ABG.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stockholm stock exchange falls back – Truecaller surges",
+        "summary": "The Stockholm stock exchange fell back during the afternoon following Wall Street's decline. At company level, Truecaller surged after a buy rating from ABG."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "e044d9d76834",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/nordenborserna-stangde-i-rott-fI6e4",
+      "guid": "0cb3b2b3-bb04-4f52-9308-061ea6354347",
+      "published_at": "2026-11-19T17:36:56+01:00",
+      "fetched_at": "2026-11-19T17:45:48+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nordenbörserna stängde i rött",
+        "summary": "De nordiska börserna avslutar torsdagen på röda siffror, efter en oregelbunden handel som blev successivt surare efter att USA-börserna hade öppnat. Det regionala samlingsindexet Vinx 30 backade 0,5 procent till 1.502.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nordic stock exchanges close in the red",
+        "summary": "The Nordic stock exchanges ended Thursday in negative territory, after irregular trading that gradually turned more sour after US exchanges had opened. The regional composite index Vinx 30 fell 0.5 percent to 1,502."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T17:45:54+01:00"
+      }
+    },
     {
       "id": "2e721545be2f",
       "schema_version": 1,
@@ -5225,87 +5304,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T18:31:10+01:00"
-      }
-    },
-    {
-      "id": "69ae8f25b0ba",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/hegseth-i-venezuela-traffar-presidenten",
-      "guid": "f0565418-96d5-4824-b536-1adefb77ba31",
-      "published_at": "2026-11-18T18:18:19+01:00",
-      "fetched_at": "2026-11-18T18:31:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/5710b418-c20b-4c51-85af-cf6dfbd29581.jpg?width=600",
-      "sv": {
-        "title": "Hegseth i Venezuela – träffar presidenten",
-        "summary": "USA:s krigsminister Pete Hegseth är på besök i Venezuela. Besöket understryker Vita husets strävan att öka sitt inflytande i landet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hegseth in Venezuela – meets the president",
-        "summary": "US Secretary of War Pete Hegseth is visiting Venezuela. The visit underscores the White House's efforts to increase its influence in the country."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T18:31:10+01:00"
-      }
-    },
-    {
-      "id": "73f4eb83098d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/jordanien-ska-avsalta-vatten-for-67-miljarder-kronor",
-      "guid": "a613deb2-4712-417b-a41a-196aaca21d6d",
-      "published_at": "2026-11-18T18:05:43+01:00",
-      "fetched_at": "2026-11-18T18:15:44+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/eea8f301-71e4-4c2c-8912-d78ab9294e0f.jpg?width=600",
-      "sv": {
-        "title": "Jordanien ska avsalta vatten för 67 miljarder kronor",
-        "summary": "Ett enormt avsaltningsprojekt ska ge dricksvatten till fem miljoner människor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jordan to desalinate water for SEK 67 billion",
-        "summary": "A huge desalination project is to supply drinking water to five million people."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T18:15:50+01:00"
-      }
-    },
-    {
-      "id": "974c66b19e48",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/alfa-lavals-vd-ai-ar-inte-en-bubbla",
-      "guid": "46e6188e-9371-4ce9-a757-1b84fed00061",
-      "published_at": "2026-11-18T18:03:30+01:00",
-      "fetched_at": "2026-11-18T18:15:44+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6b5ff25b-9260-4762-a973-fd17601a9d97.jpeg?width=600",
-      "sv": {
-        "title": "Alfa Lavals vd: AI är inte en bubbla",
-        "summary": "Alfa Lavals orderingång växer kraftigt med hjälp av en stark cykel inom fartygsdivisionen Ocean och AI-boomen. Medan fartygsbyggandet väntas vända ned uppger vd Tom Erixon att AI-trenden bara har börjat.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Alfa Laval CEO: AI is not a bubble",
-        "summary": "Alfa Laval's order intake is growing strongly, driven by a strong cycle in the Ocean ship division and the AI boom. While shipbuilding is expected to turn down, CEO Tom Erixon says the AI trend has only just begun."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T18:15:50+01:00"
       }
     }
   ]
