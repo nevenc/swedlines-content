@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-19T07:15:51+01:00",
+  "generated_at": "2026-11-19T07:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5847ac99cc95",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/kungligt/avslojar-sanningen-om-drottning-elizabeths-favoritbarn",
+      "guid": "https://www.expressen.se/nyheter/kungligt/avslojar-sanningen-om-drottning-elizabeths-favoritbarn/",
+      "published_at": "2026-11-19T07:26:38+01:00",
+      "fetched_at": "2026-11-19T07:30:59+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Avslöjar sanningen om drottning Elizabeths favoritbarn",
+        "summary": "Andrew Mountbatten-Windsor har länge ansetts vara drottning Elizabeths favoritbarn. Helt fel, enligt hovets tidigare presschef Dickie Arbiter. I en podd avslöjar han vem hon verkligen gillade bäst.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reveals the truth about Queen Elizabeth's favourite child",
+        "summary": "Andrew Mountbatten-Windsor has long been considered Queen Elizabeth's favourite child. Completely wrong, according to the palace's former press secretary Dickie Arbiter. In a podcast he reveals who she really liked best."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:31:06+01:00"
+      }
+    },
+    {
+      "id": "880669722d9b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/har-gor-trump-det-igen",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-gor-trump-det-igen",
+      "published_at": "2026-11-19T07:26:08+01:00",
+      "fetched_at": "2026-11-19T07:30:59+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump sover",
+        "summary": "Slumrar till när Xi pratar",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump sleeps",
+        "summary": "Dozes off when Xi speaks"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:31:06+01:00"
+      }
+    },
     {
       "id": "9b9f87338bff",
       "schema_version": 1,
@@ -5139,58 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T22:15:59+01:00"
-      }
-    },
-    {
-      "id": "0ab3eeed0f2c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/ida-gabrielsson-v-efter-cs-val-ska-inga-i-regeringen",
-      "guid": "https://www.expressen.se/nyheter/sverige/ida-gabrielsson-v-efter-cs-val-ska-inga-i-regeringen/",
-      "published_at": "2026-11-15T20:49:25+01:00",
-      "fetched_at": "2026-11-15T21:01:07+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Ida Gabrielsson (V) efter C:s val: ”Ska ingå i regeringen”",
-        "summary": "Centerpartiet väljer Magdalena Anderssons totalpaket. Då återupprepar V sina regeringskrav. – Beskedet att vi ska ingå i regeringen, ligger fast, säger vice partiledare Ida Gabrielsson till SVT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ida Gabrielsson (V) after the Centre Party's choice: \"Will be part of the government\"",
-        "summary": "The Centre Party chooses Magdalena Andersson's package deal. The Left Party then reiterates its government demands. – The message that we will be part of the government stands, says deputy party leader Ida Gabrielsson to SVT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T21:01:14+01:00"
-      }
-    },
-    {
-      "id": "652df38189c4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/simona-mohamssons-pik-mot-c-tre-mot-ett",
-      "guid": "https://www.expressen.se/nyheter/politik/simona-mohamssons-pik-mot-c-tre-mot-ett/",
-      "published_at": "2026-11-15T20:37:29+01:00",
-      "fetched_at": "2026-11-15T20:45:39+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Simona Mohamssons pik mot C: Tre mot ett",
-        "summary": "L-ledaren Simona Mohamsson kommenterar Centerns vägval. ”Tre vänsterpartier är fler än ett Centerparti”, skriver hon på X.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Simona Mohamsson's jab at C: Three to one",
-        "summary": "Liberal leader Simona Mohamsson comments on the Centre Party's choice. “Three left parties are more than one Centre Party”, she writes on X."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T20:45:43+01:00"
       }
     }
   ]

@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-19T07:15:51+01:00",
+  "generated_at": "2026-11-19T07:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9415b54d1899",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/5308LE/mannen-som-stred-for-kvinnornas-rostratt",
+      "guid": "https://www.svd.se/a/5308LE/mannen-som-stred-for-kvinnornas-rostratt?utm_medium=rss",
+      "published_at": "2026-11-19T07:30:00+01:00",
+      "fetched_at": "2026-11-19T07:30:59+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/9381463f-dde8-3b2b-bef7-54d4e25f391d?format=auto&s=64b18ef6ced3b0c9b7b350e0fb206a52c90db209&w=1000",
+      "sv": {
+        "title": "Männen som stred för kvinnornas rösträtt",
+        "summary": "Kampen för kvinnlig rösträtt drevs framför allt av kvinnor. Men det fanns också män som organiserade…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The men who fought for women's suffrage",
+        "summary": "The struggle for women's suffrage was driven primarily by women. But there were also men who organised…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:31:06+01:00"
+      }
+    },
+    {
+      "id": "5847ac99cc95",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/kungligt/avslojar-sanningen-om-drottning-elizabeths-favoritbarn",
+      "guid": "https://www.expressen.se/nyheter/kungligt/avslojar-sanningen-om-drottning-elizabeths-favoritbarn/",
+      "published_at": "2026-11-19T07:26:38+01:00",
+      "fetched_at": "2026-11-19T07:30:59+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Avslöjar sanningen om drottning Elizabeths favoritbarn",
+        "summary": "Andrew Mountbatten-Windsor har länge ansetts vara drottning Elizabeths favoritbarn. Helt fel, enligt hovets tidigare presschef Dickie Arbiter. I en podd avslöjar han vem hon verkligen gillade bäst.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reveals the truth about Queen Elizabeth's favourite child",
+        "summary": "Andrew Mountbatten-Windsor has long been considered Queen Elizabeth's favourite child. Completely wrong, according to the palace's former press secretary Dickie Arbiter. In a podcast he reveals who she really liked best."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:31:06+01:00"
+      }
+    },
     {
       "id": "67cc2e6910cc",
       "schema_version": 1,
@@ -5565,66 +5618,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T10:31:07+01:00"
-      }
-    },
-    {
-      "id": "979deb144b02",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/pisakulturen-ar-medskyldig-till-de-daliga-pisaresultaten",
-      "guid": "https://www.dn.se/kultur/pisakulturen-ar-medskyldig-till-de-daliga-pisaresultaten/",
-      "published_at": "2026-11-16T10:21:46+01:00",
-      "fetched_at": "2026-11-16T10:30:56+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/c1307c00-b0cd-4035-b383-fd77a4229e63.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Kulturdebatt. ”Pisakulturen är medskyldig till de dåliga Pisaresultaten”",
-        "summary": "I den senaste Pisaundersökningen fick svenska 15-åringar sitt svagaste resultat sedan mätningarna började år 2000. Men själva mätkulturen kring läsning är starkt bidragande till de svaga resultaten, menar två företrädare för Läsfrämjarinstitutet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Culture debate. \"Pisa culture is partly to blame for poor Pisa results\"",
-        "summary": "In the latest Pisa survey, Swedish 15-year-olds recorded their weakest result since measurements began in 2000. But the testing culture around reading is itself a major contributor to the weak results, argue two representatives of the Läsfrämjarinstitutet."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:31:07+01:00"
-      }
-    },
-    {
-      "id": "05ca0fb574d3",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/varldens-gang/wedelkaseri-om-krakor.25dca4e0-8195-5793-b3e7-699719b909f6",
-      "guid": "25dca4e0-8195-5793-b3e7-699719b909f6",
-      "published_at": "2026-11-16T09:40:38+01:00",
-      "fetched_at": "2026-11-16T10:01:18+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Världens gång",
-        "Tagg: Världens gång",
-        "Tagg: Kristian Wedel",
-        "Tagg: Kåseri"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/05a10674-b463-3932-ba44-da0a6131559f",
-      "sv": {
-        "title": "GP Världens gång - kåseri av Kristian Wedel: En arg kråka är ett hemligt budskap",
-        "summary": "Den bistra sanningen är att det är en rättmätig hämnd.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "GP Världens gång - column by Kristian Wedel: An angry crow is a secret message",
-        "summary": "The bleak truth is that it is a justified revenge."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:01:35+01:00"
       }
     }
   ]
