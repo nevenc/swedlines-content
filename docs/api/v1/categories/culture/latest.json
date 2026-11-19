@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-19T19:31:06+01:00",
+  "generated_at": "2026-11-19T19:46:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fe592b516583",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/stora-journalistpriset-till-dns-malena-rydell",
+      "guid": "https://www.dn.se/kultur/stora-journalistpriset-till-dns-malena-rydell/",
+      "published_at": "2026-11-19T19:39:21+01:00",
+      "fetched_at": "2026-11-19T19:45:52+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/50c665dd-f4e8-4cef-9c5f-110d15af1981.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Stora journalistpriset till DN:s Malena Rydell",
+        "summary": "DN:s reporter Malena Rydell tilldelas Stora journalistpriset för sitt reportage ”Mamma sade: ”Lova att du aldrig blir politiker”. Reportaget handlar om David Lindh, son till utrikesminister Anna Lindh som mördades när han var 13 år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Grand journalism prize to DN's Malena Rydell",
+        "summary": "DN reporter Malena Rydell is awarded the Grand Journalism Prize for her report “Mamma sade: ‘Lova att du aldrig blir politiker’”. The report is about David Lindh, son of Foreign Minister Anna Lindh, who was murdered when he was 13 years old."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:46:07+01:00"
+      }
+    },
+    {
+      "id": "a8e602cb237c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/pMLbxV/hilma-af-klints-sallsynta-verk-salt-pa-auktion",
+      "guid": "https://www.svd.se/a/pMLbxV/hilma-af-klints-sallsynta-verk-salt-pa-auktion?utm_medium=rss",
+      "published_at": "2026-11-19T19:32:48+01:00",
+      "fetched_at": "2026-11-19T19:45:52+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/1d6cfc37-d498-3613-809b-8673dfb3f2a2?format=auto&s=cc8ddffd179531d46b5cee64ca71663d736c2c8b&w=1000",
+      "sv": {
+        "title": "Hilma af Klint-verk sålt för rekordsumma",
+        "summary": "För första gången på över 30 år har ett abstrakt verk på duk av Hilma af Klint sålts på auktion.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hilma af Klint work sold for record sum",
+        "summary": "For the first time in over 30 years, an abstract canvas by Hilma af Klint has been sold at auction."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:46:07+01:00"
+      }
+    },
     {
       "id": "cb091a196caa",
       "schema_version": 1,
@@ -5570,60 +5624,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T08:41:27+01:00"
-      }
-    },
-    {
-      "id": "3d3233481a16",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/sanna-jag-sag-holmes-filmen-i-washington-och-blir-inte-kvitt-henne",
-      "guid": "https://www.dn.se/kultur/sanna-jag-sag-holmes-filmen-i-washington-och-blir-inte-kvitt-henne/",
-      "published_at": "2026-11-17T07:30:00+01:00",
-      "fetched_at": "2026-11-17T07:30:58+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/76a9b9f3-bd87-4953-94f8-371e7e9a701c.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Sanna: Jag såg Holmes-filmen i Washington – och blir inte kvitt henne",
-        "summary": "Slughet byggs i många lager. Sanna och hennes kompis i Los Angeles försöker bearbeta filmen om Elizabeth Holmes.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sanna: I saw the Holmes film in Washington – and can't shake her off",
-        "summary": "Cunning is built up in many layers. Sanna and her friend in Los Angeles try to process the film about Elizabeth Holmes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:31:07+01:00"
-      }
-    },
-    {
-      "id": "684da0f0216b",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/lillebror-i-sverige-forvandlades-jag-till-klumpig-och-sur",
-      "guid": "https://www.dn.se/kultur/lillebror-i-sverige-forvandlades-jag-till-klumpig-och-sur/",
-      "published_at": "2026-11-17T07:30:00+01:00",
-      "fetched_at": "2026-11-17T07:30:58+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/1440649c-4443-430e-9185-cc524ed62a71.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Lillebror: I Sverige förvandlades jag till klumpig och sur",
-        "summary": "Lillebror är för artig i Finland och för burdus i Sverige. Nu tränar han på småorden som får samtalen att flyta bättre i Stockholm.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lillebror: In Sweden I became clumsy and grumpy",
-        "summary": "Lillebror is too polite in Finland and too blunt in Sweden. Now he is practising the small words that help conversations flow better in Stockholm."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T07:31:07+01:00"
       }
     }
   ]

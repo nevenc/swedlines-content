@@ -1,7 +1,246 @@
 {
-  "generated_at": "2026-11-19T19:31:06+01:00",
-  "count": 592,
+  "generated_at": "2026-11-19T19:46:07+01:00",
+  "count": 601,
   "items": [
+    {
+      "id": "be06996e9ec4",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/108-miljoner-for-sallsynt-klint",
+      "guid": "e34e19a3-9148-4d82-904d-7cf205f8640c",
+      "published_at": "2026-11-19T19:42:54+01:00",
+      "fetched_at": "2026-11-19T19:45:54+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/bb4ad516-5341-4c53-8098-5c9d68bbbb9c.jpeg?width=600",
+      "sv": {
+        "title": "108 miljoner för sällsynt Klint",
+        "summary": "Hilma af Klints sällsynta abstrakta målning ”Ser III No. 5” klubbades för rekordpriset 108 miljoner kronor på Bukowskis. Samtidigt laddar konkurrenten Stockholms Auktionsverk för att sälja två verk med miljonvärderingar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "108 million for rare Klint",
+        "summary": "Hilma af Klint's rare abstract painting “Ser III No. 5” was knocked down for a record price of 108 million kronor at Bukowskis. Meanwhile, rival Stockholms Auktionsverk is gearing up to sell two works valued in the millions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:46:07+01:00"
+      }
+    },
+    {
+      "id": "e07197c04efb",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346622",
+      "guid": "rss:sr.se/article/9346622",
+      "published_at": "2026-11-19T19:41:00+01:00",
+      "fetched_at": "2026-11-19T19:45:51+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Explosion nära Sveriges ambassad i Kyjiv",
+        "summary": "En explosion har inträffat nära Sveriges ambassad i Ukrainas huvudstad Kyjiv, enligt utrikesminister Maria Malmer Stenergard. Hon skriver på X att hon varit i kontakt med Sveriges ambassadör – och att all svensk ambassadpersonal är i säkerhet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Explosion near Sweden's embassy in Kyiv",
+        "summary": "An explosion has occurred near the Swedish embassy in Ukraine's capital Kyiv, according to Foreign Minister Maria Malmer Stenergard. She writes on X that she has been in contact with Sweden's ambassador, and that all Swedish embassy staff are safe."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:46:07+01:00"
+      }
+    },
+    {
+      "id": "fe592b516583",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/stora-journalistpriset-till-dns-malena-rydell",
+      "guid": "https://www.dn.se/kultur/stora-journalistpriset-till-dns-malena-rydell/",
+      "published_at": "2026-11-19T19:39:21+01:00",
+      "fetched_at": "2026-11-19T19:45:52+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/50c665dd-f4e8-4cef-9c5f-110d15af1981.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Stora journalistpriset till DN:s Malena Rydell",
+        "summary": "DN:s reporter Malena Rydell tilldelas Stora journalistpriset för sitt reportage ”Mamma sade: ”Lova att du aldrig blir politiker”. Reportaget handlar om David Lindh, son till utrikesminister Anna Lindh som mördades när han var 13 år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Grand journalism prize to DN's Malena Rydell",
+        "summary": "DN reporter Malena Rydell is awarded the Grand Journalism Prize for her report “Mamma sade: ‘Lova att du aldrig blir politiker’”. The report is about David Lindh, son of Foreign Minister Anna Lindh, who was murdered when he was 13 years old."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:46:07+01:00"
+      }
+    },
+    {
+      "id": "5886faeb7325",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/henrik-rydstroms-dubbla-sorg-vordnad-infor-livet",
+      "guid": "https://www.dn.se/sport/henrik-rydstroms-dubbla-sorg-vordnad-infor-livet/",
+      "published_at": "2026-11-19T19:39:02+01:00",
+      "fetched_at": "2026-11-19T19:45:52+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/84477a28-8fd9-4999-b627-203d1ea6a9a8.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Henrik Rydströms dubbla sorg: ”Vördnad inför livet”",
+        "summary": "Hammarbys tränare Henrik Rydström letar efter orden. – Jag vet inte hur jag ska säga det här för alla ord blir futtiga, men jag är bara så tacksam för allt som mina föräldrar gjorde för mig, säger han till slut. I början av året förlorade den guldjagande tränaren sin pappa.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Henrik Rydström's double grief: “Awe for life”",
+        "summary": "Hammarby coach Henrik Rydström is searching for words. – I don't know how to say this because all words feel inadequate, but I am just so grateful for everything my parents did for me, he says in the end. Early in the year, the gold-chasing coach lost his father."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:46:07+01:00"
+      }
+    },
+    {
+      "id": "e85c406eae00",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/explosion-nara-sveriges-ambassad-i-kiev",
+      "guid": "de44a6cb-3af3-4739-b9d8-3b8edab3dbd2",
+      "published_at": "2026-11-19T19:36:09+01:00",
+      "fetched_at": "2026-11-19T19:45:56+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Explosion nära Sveriges ambassad i Kiev",
+        "summary": "En explosion inträffade nära Sveriges ambassad i Ukrainas huvudstad Kiev på torsdagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Explosion near Sweden's embassy in Kyiv",
+        "summary": "An explosion occurred near the Swedish embassy in Ukraine's capital Kyiv on Thursday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:46:07+01:00"
+      }
+    },
+    {
+      "id": "7519d96af957",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trumps-kramkalas-nar-kina-och-ryssland-hotar-taiwan",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-kramkalas-nar-kina-och-ryssland-hotar-taiwan/",
+      "published_at": "2026-11-19T19:34:45+01:00",
+      "fetched_at": "2026-11-19T19:45:54+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trumps kramkalas när Kina och Ryssland hotar Taiwan",
+        "summary": "Kina trappar upp hoten mot Taiwan och även Ryssland skickar in bombflygplan i öns luftförsvarszon. Samtidigt kramas Donald Trump med Xi Jinping och ignorerar referenserna till Taiwan i deras möte med Vladimir Putin.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's cuddle-fest as China and Russia threaten Taiwan",
+        "summary": "China is escalating its threats against Taiwan, and Russia is also sending bombers into the island's air defence zone. Meanwhile, Donald Trump hugs Xi Jinping and ignores references to Taiwan in their meeting with Vladimir Putin."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:46:07+01:00"
+      }
+    },
+    {
+      "id": "a8e602cb237c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/pMLbxV/hilma-af-klints-sallsynta-verk-salt-pa-auktion",
+      "guid": "https://www.svd.se/a/pMLbxV/hilma-af-klints-sallsynta-verk-salt-pa-auktion?utm_medium=rss",
+      "published_at": "2026-11-19T19:32:48+01:00",
+      "fetched_at": "2026-11-19T19:45:52+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/1d6cfc37-d498-3613-809b-8673dfb3f2a2?format=auto&s=cc8ddffd179531d46b5cee64ca71663d736c2c8b&w=1000",
+      "sv": {
+        "title": "Hilma af Klint-verk sålt för rekordsumma",
+        "summary": "För första gången på över 30 år har ett abstrakt verk på duk av Hilma af Klint sålts på auktion.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hilma af Klint work sold for record sum",
+        "summary": "For the first time in over 30 years, an abstract canvas by Hilma af Klint has been sold at auction."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:46:07+01:00"
+      }
+    },
+    {
+      "id": "203f1c010491",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/uppgifter-trump-kritiserar-stod-till-ukraina",
+      "guid": "https://www.expressen.se/nyheter/varlden/uppgifter-trump-kritiserar-stod-till-ukraina/",
+      "published_at": "2026-11-19T19:31:34+01:00",
+      "fetched_at": "2026-11-19T19:45:54+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Uppgifter: Trump kritiserar stöd till Ukraina",
+        "summary": "Donald Trump uppges ha rasat mot Europas stöd till Ukraina. Bara timmar efter att ha träffat Vladimir Putin ringde presidenten överraskande upp europeiska ledare från Air force one. – Ingen visste om det, säger Ulf Kristersson till TT.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: Trump criticises support for Ukraine",
+        "summary": "Donald Trump reportedly raged against Europe's support for Ukraine. Just hours after meeting Vladimir Putin, the president unexpectedly called European leaders from Air Force One. – Nobody knew about it, says Ulf Kristersson to TT."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:46:07+01:00"
+      }
+    },
+    {
+      "id": "4981afd0d4a7",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/1vn8PK/en-dod-i-brand-utanfor-gnosjo",
+      "guid": "https://www.aftonbladet.se/nyheter/a/1vn8PK/en-dod-i-brand-utanfor-gnosjo?utm_medium=rss",
+      "published_at": "2026-11-19T19:30:15+01:00",
+      "fetched_at": "2026-11-19T19:45:53+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/63b08fe8-dc71-3977-9b6f-54cf799c3d46?format=auto&s=d8536e98f19904e9f10110ee39961c2bcbdf6cc7&w=1000",
+      "sv": {
+        "title": "En död i brand utanför Gnosjö",
+        "summary": "En person har omkommit i en brand i ett radhus utanför Gnosjö.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "One dead in fire outside Gnosjö",
+        "summary": "One person has died in a fire in a terraced house outside Gnosjö."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:46:07+01:00"
+      }
+    },
     {
       "id": "53e9b12bb346",
       "schema_version": 1,

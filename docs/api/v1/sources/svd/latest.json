@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T19:31:06+01:00",
+  "generated_at": "2026-11-19T19:46:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a8e602cb237c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/pMLbxV/hilma-af-klints-sallsynta-verk-salt-pa-auktion",
+      "guid": "https://www.svd.se/a/pMLbxV/hilma-af-klints-sallsynta-verk-salt-pa-auktion?utm_medium=rss",
+      "published_at": "2026-11-19T19:32:48+01:00",
+      "fetched_at": "2026-11-19T19:45:52+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/1d6cfc37-d498-3613-809b-8673dfb3f2a2?format=auto&s=cc8ddffd179531d46b5cee64ca71663d736c2c8b&w=1000",
+      "sv": {
+        "title": "Hilma af Klint-verk sålt för rekordsumma",
+        "summary": "För första gången på över 30 år har ett abstrakt verk på duk av Hilma af Klint sålts på auktion.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hilma af Klint work sold for record sum",
+        "summary": "For the first time in over 30 years, an abstract canvas by Hilma af Klint has been sold at auction."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:46:07+01:00"
+      }
+    },
     {
       "id": "04492c31d179",
       "schema_version": 1,
@@ -5186,33 +5213,6 @@
       "en": {
         "title": "The Centre's turn leads into a dead end",
         "summary": "After Thand Ringqvist's announcement, both the Centre Party (C) and the Left Party (V) see themselves as winners. Now the red-greens will try to negotiate…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T20:31:06+01:00"
-      }
-    },
-    {
-      "id": "8e8acbc0ee03",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/BrJgo9/du-kan-inte-alska-den-du-inte-hatar",
-      "guid": "https://www.svd.se/a/BrJgo9/du-kan-inte-alska-den-du-inte-hatar?utm_medium=rss",
-      "published_at": "2026-11-16T20:15:00+01:00",
-      "fetched_at": "2026-11-16T20:30:59+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/d4a16caa-8eb4-399c-88ae-4a671e77ded8?format=auto&s=c0793008cbb8bd5f04ace72ca3e72414f0e774ef&w=946",
-      "sv": {
-        "title": "Du kan inte älska den du inte hatar",
-        "summary": "Vad har Anne Carson, Jacques Lacan, den antika diktaren Nikarchos och popsångerskan Olivia Rodrigo…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "You cannot love the one you do not hate",
-        "summary": "What do Anne Carson, Jacques Lacan, the ancient poet Nikarchos and pop singer Olivia Rodrigo have in common…"
       },
       "translation": {
         "status": "done",

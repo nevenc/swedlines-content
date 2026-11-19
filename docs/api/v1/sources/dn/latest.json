@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-19T19:31:06+01:00",
+  "generated_at": "2026-11-19T19:46:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fe592b516583",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/stora-journalistpriset-till-dns-malena-rydell",
+      "guid": "https://www.dn.se/kultur/stora-journalistpriset-till-dns-malena-rydell/",
+      "published_at": "2026-11-19T19:39:21+01:00",
+      "fetched_at": "2026-11-19T19:45:52+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/50c665dd-f4e8-4cef-9c5f-110d15af1981.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Stora journalistpriset till DN:s Malena Rydell",
+        "summary": "DN:s reporter Malena Rydell tilldelas Stora journalistpriset för sitt reportage ”Mamma sade: ”Lova att du aldrig blir politiker”. Reportaget handlar om David Lindh, son till utrikesminister Anna Lindh som mördades när han var 13 år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Grand journalism prize to DN's Malena Rydell",
+        "summary": "DN reporter Malena Rydell is awarded the Grand Journalism Prize for her report “Mamma sade: ‘Lova att du aldrig blir politiker’”. The report is about David Lindh, son of Foreign Minister Anna Lindh, who was murdered when he was 13 years old."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:46:07+01:00"
+      }
+    },
+    {
+      "id": "5886faeb7325",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/henrik-rydstroms-dubbla-sorg-vordnad-infor-livet",
+      "guid": "https://www.dn.se/sport/henrik-rydstroms-dubbla-sorg-vordnad-infor-livet/",
+      "published_at": "2026-11-19T19:39:02+01:00",
+      "fetched_at": "2026-11-19T19:45:52+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/84477a28-8fd9-4999-b627-203d1ea6a9a8.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Henrik Rydströms dubbla sorg: ”Vördnad inför livet”",
+        "summary": "Hammarbys tränare Henrik Rydström letar efter orden. – Jag vet inte hur jag ska säga det här för alla ord blir futtiga, men jag är bara så tacksam för allt som mina föräldrar gjorde för mig, säger han till slut. I början av året förlorade den guldjagande tränaren sin pappa.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Henrik Rydström's double grief: “Awe for life”",
+        "summary": "Hammarby coach Henrik Rydström is searching for words. – I don't know how to say this because all words feel inadequate, but I am just so grateful for everything my parents did for me, he says in the end. Early in the year, the gold-chasing coach lost his father."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T19:46:07+01:00"
+      }
+    },
     {
       "id": "2f76a9661fbf",
       "schema_version": 1,
@@ -5342,60 +5396,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T22:45:49+01:00"
-      }
-    },
-    {
-      "id": "fc3952903a2d",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/vita-huset-slar-tillbaka-mot-granskningar",
-      "guid": "https://www.dn.se/varlden/vita-huset-slar-tillbaka-mot-granskningar/",
-      "published_at": "2026-11-16T22:35:08+01:00",
-      "fetched_at": "2026-11-16T22:45:42+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/e0003c35-71d9-4ba3-88e8-33abb2857d7e.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Vita huset slår tillbaka mot granskningar",
-        "summary": "När kongressen tillträder med ny majoritet i januari väntas Demokraterna granska Trumpadministrationens agerande under de två första åren av presidentens mandatperiod. Vita huset förbereder sig redan för att hantera sådana processer – här är strategierna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "White House hits back against scrutiny",
-        "summary": "When the new Congress takes office with a new majority in January, the Democrats are expected to examine the Trump administration's actions during the president's first two years in office. The White House is already preparing to handle such processes – here are the strategies."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T22:45:49+01:00"
-      }
-    },
-    {
-      "id": "78e916dcc77e",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/rekordlagt-intresse-for-trumps-kryptogala",
-      "guid": "https://www.dn.se/varlden/rekordlagt-intresse-for-trumps-kryptogala/",
-      "published_at": "2026-11-16T21:54:36+01:00",
-      "fetched_at": "2026-11-16T22:01:11+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/81c62dc5-2e9d-4165-802a-f5c7586dbe8a.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Rekordlågt intresse för Trumps kryptogala",
-        "summary": "Priset för att lägga beslag på en inbjudan till Donald Trumps kryptogala har störtdykt. Men samtidigt som värdet på presidentens egen digitala valuta rasar, fortsätter Trumpfamiljen att tjäna miljarder på satsningarna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Record-low interest in Trump crypto gala",
-        "summary": "The price of obtaining an invitation to Donald Trump's crypto gala has plummeted. But while the value of the president's own digital currency crashes, the Trump family continues to earn billions from the ventures."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T22:01:25+01:00"
       }
     }
   ]
