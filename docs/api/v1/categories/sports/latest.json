@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T14:01:25+01:00",
+  "generated_at": "2026-11-19T14:16:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1cf1e004d7c9",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/mff-maste-spara-lagger-ner-reservlaget-inte-en-forening-for-alla",
+      "guid": "90f99943-688a-4dc5-8b66-1f878cc6b6ef",
+      "published_at": "2026-11-19T14:12:43+01:00",
+      "fetched_at": "2026-11-19T14:15:48+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/593b7f0c-8457-41d2-aaa7-73d670502332.jpeg?width=600",
+      "sv": {
+        "title": "MFF måste spara – lägger ner reservlaget: ”Inte en förening för alla”",
+        "summary": "Förra veckan kom beskedet att FC Rosengård 1917 lägger ner sitt damlag. Nu gör MFF samma sak med Malmö FF akademi. Anledningen är att Malmö FF måste spara. – Ja, men det finns fler orsaker till att vi gör så här, säger Maxim Khalil, sportchef för damerna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "MFF must save – shuts down reserve team: “Not a club for everyone”",
+        "summary": "Last week came the news that FC Rosengård 1917 is shutting down its women's team. Now MFF is doing the same with the Malmö FF academy. The reason is that Malmö FF has to save. – Yes, but there are more reasons why we are doing this, says Maxim Khalil, sporting director for the women's team."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T14:16:07+01:00"
+      }
+    },
     {
       "id": "949d969f4732",
       "schema_version": 1,
@@ -5588,32 +5615,6 @@
       "en": {
         "title": "Norway and Finland bar Russian athletes",
         "summary": "Both Norway and Finland decided on Thursday to bar Russian athletes from competing in their countries – for as long as the war in Ukraine continues. Sports Minister Jakob Forssmed says the government is analysing the possibilities for Sweden to act."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "68e50bd0e09b",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/fotboll/hjalmar-ekdal-om-mardromsstarten-galet",
-      "guid": "https://www.svt.se/sport/fotboll/hjalmar-ekdal-om-mardromsstarten-galet",
-      "published_at": "2026-11-12T20:15:51+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Hjalmar Ekdal om mardrömsstarten: ”Galet”",
-        "summary": "Burnley ramlade ur Premier League. Nu huserar man i botten av Championship. – Det är galet, säger landslagsbacken Hjalmar Ekdal till SVT Sport.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hjalmar Ekdal on the nightmare start: 'Crazy'",
-        "summary": "Burnley dropped out of the Premier League. Now they sit at the bottom of the Championship. – It is crazy, national team defender Hjalmar Ekdal tells SVT Sport."
       },
       "translation": {
         "status": "done",

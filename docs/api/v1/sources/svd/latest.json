@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T14:01:25+01:00",
+  "generated_at": "2026-11-19T14:16:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9957f6ce1b4f",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/ARdqOz/ge-lararna-mandat-och-omdome-tillbaka-skriver-mats-alvesson-och-susanne-dodillet",
+      "guid": "https://www.svd.se/a/ARdqOz/ge-lararna-mandat-och-omdome-tillbaka-skriver-mats-alvesson-och-susanne-dodillet?utm_medium=rss",
+      "published_at": "2026-11-19T14:00:00+01:00",
+      "fetched_at": "2026-11-19T14:15:45+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/c8d31e3d-2730-416b-b684-7c9c36f377c4?format=auto&s=4216539593c32488520bbe6525c945f03a36ecf9&w=1000",
+      "sv": {
+        "title": "”Standardkritik som blandar bort korten”",
+        "summary": "Vår artikel handlade om att ge lärarna mandat och omdöme tillbaka. Att köra med standardkritik mot…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "“Standard criticism that muddles the cards”",
+        "summary": "Our article was about giving teachers their mandate and judgement back. To run with standard criticism against…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T14:16:07+01:00"
+      }
+    },
     {
       "id": "aa41d5093363",
       "schema_version": 1,
@@ -5184,33 +5211,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T14:01:29+01:00"
-      }
-    },
-    {
-      "id": "2da13007cc35",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/mMRMKq/c-ledaren-ser-fram-emot-att-ses-i-forhandlingar",
-      "guid": "https://www.svd.se/a/mMRMKq/c-ledaren-ser-fram-emot-att-ses-i-forhandlingar?utm_medium=rss",
-      "published_at": "2026-11-16T13:25:59+01:00",
-      "fetched_at": "2026-11-16T13:31:04+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/7dc9990b-1ded-3d9d-8812-354811f691f3?format=auto&s=8f8e61eae70729c1fa85361f13fed967221867c4&w=1000",
-      "sv": {
-        "title": "C-ledaren: Ser fram emot att ses i förhandlingar",
-        "summary": "C-ledaren Elisabeth Thand Ringqvist räknar med att förhandlingar mellan de rödgröna kan komma i gång…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "C leader: Looks forward to meeting in negotiations",
-        "summary": "C leader Elisabeth Thand Ringqvist expects negotiations between the red-greens could get under way…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T13:31:13+01:00"
       }
     }
   ]
