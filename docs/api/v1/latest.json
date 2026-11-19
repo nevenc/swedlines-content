@@ -1,7 +1,136 @@
 {
-  "generated_at": "2026-11-19T15:45:59+01:00",
+  "generated_at": "2026-11-19T16:01:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3e45e40fcbbe",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/jag-vantar-mig-magi-och-fara-men-pa-premiaren-kanns-satans-bal-mer-som-sallskapsresan",
+      "guid": "ad5f70a6-fb97-4dc1-b1a9-a9ea0efc2566",
+      "published_at": "2026-11-19T15:59:09+01:00",
+      "fetched_at": "2026-11-19T16:01:30+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/af0db85f-4ec3-4d0a-aefb-fc73878efa8f.png?width=600",
+      "sv": {
+        "title": "Jag väntar mig magi och fara men på premiären känns Satans bal mer som ”Sällskapsresan”",
+        "summary": "När balen i ”Mästaren och Margarita” tar plats på Lilith Performance Studio når konceptet inte hela vägen. Föreställningen glimmar dock till när det serveras lammhjärta, skriver Tor Billgren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "I expect magic and danger, but at the premiere Satan's Ball feels more like \"Sällskapsresan\"",
+        "summary": "As the ball in \"Mästaren och Margarita\" takes place at Lilith Performance Studio, the concept does not go all the way. The production does shine when lamb heart is served, writes Tor Billgren."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:01:34+01:00"
+      }
+    },
+    {
+      "id": "6e0f2068d229",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346113",
+      "guid": "rss:sr.se/article/9346113",
+      "published_at": "2026-11-19T15:56:00+01:00",
+      "fetched_at": "2026-11-19T16:01:25+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Édouard Philippe vill skapa ordning i Frankrike inför presidentvalet",
+        "summary": "Frankrikes tidigare premiärminister Édouard Philippe lanserar sin presidentkampanj med budskapet ”ordning och allvar” – och varnar för en akut ekonomisk kris om budgetunderskottet inte hanteras.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Édouard Philippe wants to bring order to France ahead of the presidential election",
+        "summary": "Former French prime minister Édouard Philippe launches his presidential campaign with the message \"order and seriousness\" – and warns of an acute economic crisis if the budget deficit is not addressed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:01:34+01:00"
+      }
+    },
+    {
+      "id": "f532c929783c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ecb-liten-men-vaxande-exponering-mot-datacenter-hos-bankerna",
+      "guid": "eecc8445-0d83-4dfd-bbdb-6cb8e61b131a",
+      "published_at": "2026-11-19T15:52:56+01:00",
+      "fetched_at": "2026-11-19T16:01:29+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "ECB: Liten men växande exponering mot datacenter hos bankerna",
+        "summary": "Bankernas kreditexponering mot datacenter inom euroområdet är relativt liten men växer snabbt, vilket kräver ökad uppmärksamhet. Det sade Claudia Buch, chef för banktillsynen vid ECB, på torsdagen enligt Reuters.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "ECB: Small but growing exposure to data centres at banks",
+        "summary": "Banks' credit exposure to data centres in the euro area is relatively small but growing rapidly, which requires increased attention. Claudia Buch, head of banking supervision at the ECB, said on Thursday according to Reuters."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:01:34+01:00"
+      }
+    },
+    {
+      "id": "27aba12579d1",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/OypPqV/gul-varning-for-snofall-i-stockholm",
+      "guid": "https://www.aftonbladet.se/nyheter/a/OypPqV/gul-varning-for-snofall-i-stockholm?utm_medium=rss",
+      "published_at": "2026-11-19T15:49:00+01:00",
+      "fetched_at": "2026-11-19T16:01:27+01:00",
+      "category": "weather",
+      "image_url": "https://akamai.vgc.no/v2/images/7838e339-b7b8-30f3-a71f-bc098e10ad34?format=auto&s=c415262db4f0a6812c596fc6417c39183ca601b6&w=1000",
+      "sv": {
+        "title": "Gul varning för snöfall i Stockholm",
+        "summary": "SMHI har utfärdat en gul varning för snöfall för Stockholm och Uppsala.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Yellow warning for snowfall in Stockholm",
+        "summary": "SMHI has issued a yellow warning for snowfall for Stockholm and Uppsala."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:01:34+01:00"
+      }
+    },
+    {
+      "id": "d02a0ddecef1",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80094",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80094&utm_medium=rss",
+      "published_at": "2026-11-19T15:47:14+01:00",
+      "fetched_at": "2026-11-19T16:01:26+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "Gul varning i Stockholm – 15 cm snö väntas"
+      },
+      "en": {
+        "title": "Yellow warning in Stockholm – 15 cm of snow expected"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:01:34+01:00"
+      }
+    },
     {
       "id": "e434b434d1f9",
       "schema_version": 1,
@@ -26,6 +155,67 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T15:45:59+01:00"
+      }
+    },
+    {
+      "id": "afc98d049a61",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/orgryte-is/flera-fragetecken-i-ois-infor-dramat-mot-kalmar.fcdc755b-f281-56f3-b9c7-1678fe39f84d",
+      "guid": "fcdc755b-f281-56f3-b9c7-1678fe39f84d",
+      "published_at": "2026-11-19T15:44:47+01:00",
+      "fetched_at": "2026-11-19T16:01:29+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Örgryte IS",
+        "Tagg: Mikael Dyrestam",
+        "Tagg: Johan Hammar",
+        "Tagg: Öis",
+        "Tagg: Adam Andersson",
+        "Tagg: Andreas Holmberg"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/ee5ebaaa-b0ba-38c9-b8bc-e1b389c21ffe",
+      "sv": {
+        "title": "Flera startspelare saknades på Öis träning",
+        "summary": "Mikael Dyrestam, Christoffer Styffe, Benjamin Laturnus och Adam Andersson osäkra inför Kalmarmatchen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Several starting players were missing from Öis training",
+        "summary": "Mikael Dyrestam, Christoffer Styffe, Benjamin Laturnus and Adam Andersson uncertain ahead of the Kalmar match."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:01:34+01:00"
+      }
+    },
+    {
+      "id": "7fc2afd30adf",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2311aaf8-3905-47f3-9bf6-d41429aba746",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2311aaf8-3905-47f3-9bf6-d41429aba746",
+      "published_at": "2026-11-19T15:44:40+01:00",
+      "fetched_at": "2026-11-19T16:01:28+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "SMHI varnar för snö och vind",
+        "summary": "Slår till mot Stockholm",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI warns of snow and wind",
+        "summary": "Hits Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:01:34+01:00"
       }
     },
     {
@@ -184,6 +374,38 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T15:45:59+01:00"
+      }
+    },
+    {
+      "id": "0d1ffc4308c7",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/ifk-goteborgs-nya-plan-med-sportchefen-hampus-andersson.57849473-590f-547c-bb94-6b67f88c49be",
+      "guid": "57849473-590f-547c-bb94-6b67f88c49be",
+      "published_at": "2026-11-19T15:35:30+01:00",
+      "fetched_at": "2026-11-19T16:01:29+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "IFK Göteborg",
+        "Tagg: IFK Göteborg",
+        "Tagg: Fotboll"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/1ce43009-d152-33cc-89aa-8c09140fab97",
+      "sv": {
+        "title": "Det vill Blåvitt förändra – med nya sportchefen",
+        "summary": "Blåvitts ordförande: ”Från och med nu ska IFK Göteborg jobba så”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "That is what Blåvitt wants to change – with the new sporting director",
+        "summary": "Blåvitt chairman: \"From now on IFK Göteborg must work like that.\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:01:34+01:00"
       }
     },
     {
@@ -5201,222 +5423,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "0eb866b2ff2f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/vd-intervjuer/nkt-okar-vinsten-organiska-tillvaxten-backar",
-      "guid": "c605f730-02f5-5ab0-ad92-81b3a78146c0",
-      "published_at": "2026-11-19T10:51:37+01:00",
-      "fetched_at": "2026-11-19T11:01:20+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "NKT ökar vinsten – organiska tillväxten backar",
-        "summary": "Intervju med vd Claes Westerlind",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "NKT increases profit – organic growth slows",
-        "summary": "Interview with CEO Claes Westerlind"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "8d9c772414d1",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/vd-intervjuer/better-collective-stuvar-om-i-ledningen-sa-ser-laget-ut-i-brasilien",
-      "guid": "5d3ff491-e795-5e9b-b528-1f12e15edc4b",
-      "published_at": "2026-11-19T10:51:05+01:00",
-      "fetched_at": "2026-11-19T11:01:20+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Better Collective stuvar om i ledningen – så ser läget ut i Brasilien",
-        "summary": "Intervju med vd Jesper Søgaard",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Better Collective reshuffles leadership – here is the situation in Brazil",
-        "summary": "Interview with CEO Jesper Søgaard"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "b95c2efb5a74",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/2Vk9lv/larmet-efter-hemliga-filmerna-kyckjlingarna-behandlas-som-kanslolosa-produkter",
-      "guid": "https://www.aftonbladet.se/nyheter/a/2Vk9lv/larmet-efter-hemliga-filmerna-kyckjlingarna-behandlas-som-kanslolosa-produkter?utm_medium=rss",
-      "published_at": "2026-11-19T10:51:01+01:00",
-      "fetched_at": "2026-11-19T11:01:19+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/d8f4df0f-8371-3ab9-994a-58cd585b63e9?format=auto&s=0b63b094bb5cdca193eb4122e30fb21da2625278&w=832",
-      "sv": {
-        "title": "Hemliga filmerna från kycklinguppfödningen: ”Behandlas som känslolösa produkter”",
-        "summary": "Kravet efter hemliga filmerna",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Secret films from chicken farming: \"Treated as emotionless products\"",
-        "summary": "Demands following the secret films"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "5e6ec9be70ba",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/varlden/matning-sverige-inte-langre-bast-pa-jamstalldhet-inom-eu.2a8b90e4-e914-5417-95be-16513cf6e254",
-      "guid": "2a8b90e4-e914-5417-95be-16513cf6e254",
-      "published_at": "2026-11-19T10:50:22+01:00",
-      "fetched_at": "2026-11-19T11:31:02+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Världen",
-        "Tagg: Jämställdhet",
-        "Tagg: Styrelser",
-        "Tagg: Kvotering",
-        "Tagg: EU"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/6756801f-a66a-36b8-b0c5-fe2b46483708",
-      "sv": {
-        "title": "Mätning: Sverige inte längre bäst på jämställdhet",
-        "summary": "Sverige har i över ett decennium toppat EU:s jämställdhetsindex men ramlar nu från förstaplatsen. I år är det ett annat land som tar ledningen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Survey: Sweden no longer best at gender equality",
-        "summary": "Sweden has topped the EU gender equality index for more than a decade but is now falling from first place. This year another country takes the lead."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T11:31:11+01:00"
-      }
-    },
-    {
-      "id": "bc49ffc5df1a",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/edvin-anger-har-hittat-vad-som-gick-fel-pa-os-siktar-pa-medalj-pa-vm.a98fcbc3-e6f4-5a26-b764-834a1f7d03fa",
-      "guid": "a98fcbc3-e6f4-5a26-b764-834a1f7d03fa",
-      "published_at": "2026-11-19T10:49:22+01:00",
-      "fetched_at": "2026-11-19T11:31:02+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Sport",
-        "Tagg: Anton Grahn",
-        "Tagg: Edvin Anger",
-        "Tagg: Längdskidor"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/c20ab3fd-b364-32f7-ba05-912239e3f278",
-      "sv": {
-        "title": "Edvin Anger har hittat vad som gick fel på OS",
-        "summary": "Edvin Anger kom till OS som ett stor svenskt hopp. Det slutade i fiasko, för både honom och det svenska herrlaget. Nu har han hittat vad som gick fel.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Edvin Anger has found what went wrong at the Olympics",
-        "summary": "Edvin Anger came to the Olympics as a great Swedish hope. It ended in fiasco, for both him and the Swedish men's team. Now he has found what went wrong."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T11:31:11+01:00"
-      }
-    },
-    {
-      "id": "357cd4e05dcd",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/ARdQOA/svd-vinklubb-vill-du-ocksa-ha-basta-vinlanseringarna-fore-alla-andra",
-      "guid": "https://www.svd.se/a/ARdQOA/svd-vinklubb-vill-du-ocksa-ha-basta-vinlanseringarna-fore-alla-andra?utm_medium=rss",
-      "published_at": "2026-11-19T10:45:20+01:00",
-      "fetched_at": "2026-11-19T10:45:42+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/d7367aa8-03f8-321b-a1c7-c3ada415fc7a?format=auto&s=a1d94ce241e9d4145d6fca72700e65f652aa625d&w=1000",
-      "sv": {
-        "title": "”Viner resten av världen bara kan drömma om”"
-      },
-      "en": {
-        "title": "\"They have what the rest of the world can only dream of\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T10:45:49+01:00"
-      }
-    },
-    {
-      "id": "3e23bde0abbf",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-villa-6ltbd",
-      "guid": "c275da8b-6102-4f28-87ba-5b36d0b9e176",
-      "published_at": "2026-11-19T10:41:45+01:00",
-      "fetched_at": "2026-11-19T10:45:45+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nya ägare till villa"
-      },
-      "en": {
-        "title": "New owners of villa"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T10:45:49+01:00"
-      }
-    },
-    {
-      "id": "f59aff9388b2",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/1940-talshus-saldes-for-7-4-miljoner",
-      "guid": "1fe43198-715e-49e9-a72f-1d0dc3e43ae7",
-      "published_at": "2026-11-19T10:41:45+01:00",
-      "fetched_at": "2026-11-19T10:45:45+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "1940-talshus såldes för 7,4 miljoner"
-      },
-      "en": {
-        "title": "1940s house sold for 7.4 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T10:45:49+01:00"
       }
     }
   ]

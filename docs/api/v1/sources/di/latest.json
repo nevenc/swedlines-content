@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T15:45:59+01:00",
+  "generated_at": "2026-11-19T16:01:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f532c929783c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ecb-liten-men-vaxande-exponering-mot-datacenter-hos-bankerna",
+      "guid": "eecc8445-0d83-4dfd-bbdb-6cb8e61b131a",
+      "published_at": "2026-11-19T15:52:56+01:00",
+      "fetched_at": "2026-11-19T16:01:29+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "ECB: Liten men växande exponering mot datacenter hos bankerna",
+        "summary": "Bankernas kreditexponering mot datacenter inom euroområdet är relativt liten men växer snabbt, vilket kräver ökad uppmärksamhet. Det sade Claudia Buch, chef för banktillsynen vid ECB, på torsdagen enligt Reuters.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "ECB: Small but growing exposure to data centres at banks",
+        "summary": "Banks' credit exposure to data centres in the euro area is relatively small but growing rapidly, which requires increased attention. Claudia Buch, head of banking supervision at the ECB, said on Thursday according to Reuters."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:01:34+01:00"
+      }
+    },
     {
       "id": "c6d79f57527e",
       "schema_version": 1,
@@ -5314,33 +5340,6 @@
       "en": {
         "title": "EQT considers selling Indian fertility chain",
         "summary": "EQT is reportedly considering selling its Indian fertility business Indira IVF Hospital, the country's largest, at a valuation of around SEK 15 billion. Bloomberg writes this based on sources."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T13:01:24+01:00"
-      }
-    },
-    {
-      "id": "649d30bf2029",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/sa-sakrade-nordnet-forspranget-i-anthropic",
-      "guid": "6c58a5f9-302b-4834-b328-f33bf1447e98",
-      "published_at": "2026-11-18T12:49:55+01:00",
-      "fetched_at": "2026-11-18T13:01:17+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/96d0d741-04c3-40d3-95f9-2e5735ca7ba7.jpeg?width=600",
-      "sv": {
-        "title": "Så säkrade Nordnet försprånget i Anthropic",
-        "summary": "När Anthropic går till börsen har Nordnet något som Avanza saknar: möjligheten att erbjuda småspararna teckning inför noteringen. Nordnet lägger locket på om hur affären kom till – men spåren leder till en Wall Street-jätte.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is how Nordnet secured its position in Anthropic",
-        "summary": "When Anthropic goes public, Nordnet has something Avanza lacks: the ability to offer small savers subscriptions ahead of the listing. Nordnet does not disclose how the deal came about – but the trail leads to a Wall Street giant."
       },
       "translation": {
         "status": "done",

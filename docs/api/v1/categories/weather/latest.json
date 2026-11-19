@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-19T15:45:59+01:00",
-  "count": 31,
+  "generated_at": "2026-11-19T16:01:34+01:00",
+  "count": 34,
   "items": [
+    {
+      "id": "27aba12579d1",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/OypPqV/gul-varning-for-snofall-i-stockholm",
+      "guid": "https://www.aftonbladet.se/nyheter/a/OypPqV/gul-varning-for-snofall-i-stockholm?utm_medium=rss",
+      "published_at": "2026-11-19T15:49:00+01:00",
+      "fetched_at": "2026-11-19T16:01:27+01:00",
+      "category": "weather",
+      "image_url": "https://akamai.vgc.no/v2/images/7838e339-b7b8-30f3-a71f-bc098e10ad34?format=auto&s=c415262db4f0a6812c596fc6417c39183ca601b6&w=1000",
+      "sv": {
+        "title": "Gul varning för snöfall i Stockholm",
+        "summary": "SMHI har utfärdat en gul varning för snöfall för Stockholm och Uppsala.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Yellow warning for snowfall in Stockholm",
+        "summary": "SMHI has issued a yellow warning for snowfall for Stockholm and Uppsala."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:01:34+01:00"
+      }
+    },
+    {
+      "id": "d02a0ddecef1",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80094",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80094&utm_medium=rss",
+      "published_at": "2026-11-19T15:47:14+01:00",
+      "fetched_at": "2026-11-19T16:01:26+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "Gul varning i Stockholm – 15 cm snö väntas"
+      },
+      "en": {
+        "title": "Yellow warning in Stockholm – 15 cm of snow expected"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:01:34+01:00"
+      }
+    },
     {
       "id": "e434b434d1f9",
       "schema_version": 1,
@@ -26,6 +76,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T15:45:59+01:00"
+      }
+    },
+    {
+      "id": "7fc2afd30adf",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2311aaf8-3905-47f3-9bf6-d41429aba746",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2311aaf8-3905-47f3-9bf6-d41429aba746",
+      "published_at": "2026-11-19T15:44:40+01:00",
+      "fetched_at": "2026-11-19T16:01:28+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "SMHI varnar för snö och vind",
+        "summary": "Slår till mot Stockholm",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI warns of snow and wind",
+        "summary": "Hits Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:01:34+01:00"
       }
     },
     {

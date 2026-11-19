@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T15:45:59+01:00",
+  "generated_at": "2026-11-19T16:01:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7fc2afd30adf",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=2311aaf8-3905-47f3-9bf6-d41429aba746",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=2311aaf8-3905-47f3-9bf6-d41429aba746",
+      "published_at": "2026-11-19T15:44:40+01:00",
+      "fetched_at": "2026-11-19T16:01:28+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "SMHI varnar för snö och vind",
+        "summary": "Slår till mot Stockholm",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI warns of snow and wind",
+        "summary": "Hits Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:01:34+01:00"
+      }
+    },
     {
       "id": "2f3e736a5397",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T07:45:47+01:00"
-      }
-    },
-    {
-      "id": "ed478f243aad",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f036f2e6-1145-4088-b7ff-9f4943017cbf",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f036f2e6-1145-4088-b7ff-9f4943017cbf",
-      "published_at": "2026-11-16T07:18:41+01:00",
-      "fetched_at": "2026-11-16T07:30:58+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Tonåring utpressades efter nakenbilder",
-        "summary": "Tonåring larmade polisen",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Teenager extorted after nude photos",
-        "summary": "Teenager alerted the police"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T07:31:04+01:00"
       }
     }
   ]

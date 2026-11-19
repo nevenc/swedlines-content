@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T15:45:59+01:00",
+  "generated_at": "2026-11-19T16:01:34+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6e0f2068d229",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346113",
+      "guid": "rss:sr.se/article/9346113",
+      "published_at": "2026-11-19T15:56:00+01:00",
+      "fetched_at": "2026-11-19T16:01:25+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Édouard Philippe vill skapa ordning i Frankrike inför presidentvalet",
+        "summary": "Frankrikes tidigare premiärminister Édouard Philippe lanserar sin presidentkampanj med budskapet ”ordning och allvar” – och varnar för en akut ekonomisk kris om budgetunderskottet inte hanteras.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Édouard Philippe wants to bring order to France ahead of the presidential election",
+        "summary": "Former French prime minister Édouard Philippe launches his presidential campaign with the message \"order and seriousness\" – and warns of an acute economic crisis if the budget deficit is not addressed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T16:01:34+01:00"
+      }
+    },
     {
       "id": "5d772df7b2d7",
       "schema_version": 1,
@@ -5308,33 +5334,6 @@
       "en": {
         "title": "Odd video of Kim Jong Un during daughter's ski trip",
         "summary": "North Korea's Kim Jong Un has visited the country's newest ski resort. Photos show the dictator's daughter skiing down the slopes – while he himself relaxes with a cigarette. Meanwhile, it is reported that Kim Jong Un is expected to snub Trump."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T19:31:23+01:00"
-      }
-    },
-    {
-      "id": "9a92adaf863e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/turkisk-polisrad-mot-oppositionell-tv-kanal",
-      "guid": "45301e6a-d912-44f3-aa70-1f7a376df2b7",
-      "published_at": "2026-11-17T19:22:43+01:00",
-      "fetched_at": "2026-11-17T19:31:17+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/4c256c2d-f362-4bc3-a0fd-0357721b7170.jpg?width=600",
-      "sv": {
-        "title": "Turkisk polisräd mot oppositionell tv-kanal",
-        "summary": "Turkisk polis slog på tisdagen till mot det oberoende mediehuset Sözcü och har gripit flera chefer. Oppositionsledaren Özgür Özel skriver att ”vi låter oss inte tystas”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Turkish police raid opposition TV channel",
-        "summary": "Turkish police on Tuesday raided the independent media group Sözcü and have detained several of its executives. Opposition leader Özgür Özel writes that \"we will not let ourselves be silenced\"."
       },
       "translation": {
         "status": "done",
