@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-19T14:31:08+01:00",
-  "count": 405,
+  "generated_at": "2026-11-19T14:45:56+01:00",
+  "count": 409,
   "items": [
+    {
+      "id": "61a8a6779539",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/priset-pa-gas-lyfter-kraftigt",
+      "guid": "c59ebf12-e7de-451e-a9fd-f6a6a39fb4f1",
+      "published_at": "2026-11-19T14:42:00+01:00",
+      "fetched_at": "2026-11-19T14:45:50+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/3fb905c4-073f-4b6f-9511-49f3283abc44.jpg?width=600",
+      "sv": {
+        "title": "Priset på gas lyfter kraftigt",
+        "summary": "Ett förlängt produktionsbortfall i Visundfältet i Norge – som förblir stängt till januari – trycker upp priset på fossil gas på den europeiska marknaden med nästan 5 procent. Tidigare var prognosen att fältet skulle börja leverera gas igen i december.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gas Prices Rise Sharply",
+        "summary": "An extended production outage at the Visund field in Norway, which will remain closed until January, pushes the price of fossil gas on the European market up by nearly 5 percent. Previously, the forecast was that the field would resume gas deliveries in December."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T14:45:55+01:00"
+      }
+    },
+    {
+      "id": "8a50898ae4bc",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/miljonsaljer-i-catena-media",
+      "guid": "b629164c-fb9f-4ebe-aa2a-3d03d77a3543",
+      "published_at": "2026-11-19T14:41:45+01:00",
+      "fetched_at": "2026-11-19T14:45:50+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Miljonsäljer i Catena Media",
+        "summary": "Martin Zetterlund, styrelseledamot i spelmarknadsföringsbolaget Catena Media sedan december 2024, har sålt 526.802 aktier i bolaget, för 3 kronor styck, eller för totalt 1,6 miljoner kronor. Det framgår av Finansinspektionens insynsregister.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Board Member Sells Shares Worth Millions in Catena Media",
+        "summary": "Martin Zetterlund, board member of gaming marketing company Catena Media since December 2024, has sold 526,802 shares in the company at SEK 3 each, or SEK 1.6 million in total. This is according to the Financial Supervisory Authority's insider register."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T14:45:55+01:00"
+      }
+    },
     {
       "id": "e0387a34968c",
       "schema_version": 1,
@@ -27,6 +80,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T14:31:07+01:00"
+      }
+    },
+    {
+      "id": "7386b5b826a8",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/manliga-aktierna-som-kraschat-vi-ar-faktiskt-kassa",
+      "guid": "ca465dfa-0632-4e76-a29f-58968f5db78d",
+      "published_at": "2026-11-19T14:28:58+01:00",
+      "fetched_at": "2026-11-19T14:45:50+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6fc4c9b8-2e73-4de5-973c-d1a5834a2d5e.jpeg?width=600",
+      "sv": {
+        "title": "Manliga aktierna som kraschat: ”Vi är faktiskt kassa”",
+        "summary": "Med bakgrund i den internationella mansdagen har Di listat aktierna med högst andel manliga ägare. Nästan samtliga är bolag som kraschat på börsen. ”Du är finansiellt illitterat när du köper detta”, säger daytradern och poddprofilen Leonard Zetterberg när han pekar ut vilka bolag han ratar – och…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The Male-Owned Stocks That Crashed: \"We Are Actually Rubbish\"",
+        "summary": "Marking International Men's Day, Di has listed the stocks with the highest share of male owners. Nearly all are companies that crashed on the stock exchange. \"You are financially illiterate when you buy this,\" says day trader and podcast personality Leonard Zetterberg as he points out which companies he rejects – and..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T14:45:55+01:00"
       }
     },
     {
@@ -1277,6 +1357,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T13:45:54+01:00"
+      }
+    },
+    {
+      "id": "c49c4ba528e3",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/wdPbMP/putin-lovar-hamnd-efter-attacken-mot-krimbron",
+      "guid": "https://www.aftonbladet.se/nyheter/a/wdPbMP/putin-lovar-hamnd-efter-attacken-mot-krimbron?utm_medium=rss",
+      "published_at": "2026-11-19T13:31:34+01:00",
+      "fetched_at": "2026-11-19T14:45:49+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/95e0983b-aedb-3d4b-8674-5bc98f58e658?format=auto&s=9bf5f30fcda00f72febff3f51248b8ba38f41263&w=1000",
+      "sv": {
+        "title": "Putin hotar med hämnd: ”Mycket mer plågsamt”",
+        "summary": "Presidentens löfte",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin Threatens Revenge: \"Much More Painful\"",
+        "summary": "The president's promise"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T14:45:55+01:00"
       }
     },
     {

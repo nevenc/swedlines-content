@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T14:31:08+01:00",
+  "generated_at": "2026-11-19T14:45:56+01:00",
   "count": 200,
   "items": [
     {
@@ -54,6 +54,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T14:01:25+01:00"
+      }
+    },
+    {
+      "id": "c49c4ba528e3",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/wdPbMP/putin-lovar-hamnd-efter-attacken-mot-krimbron",
+      "guid": "https://www.aftonbladet.se/nyheter/a/wdPbMP/putin-lovar-hamnd-efter-attacken-mot-krimbron?utm_medium=rss",
+      "published_at": "2026-11-19T13:31:34+01:00",
+      "fetched_at": "2026-11-19T14:45:49+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/95e0983b-aedb-3d4b-8674-5bc98f58e658?format=auto&s=9bf5f30fcda00f72febff3f51248b8ba38f41263&w=1000",
+      "sv": {
+        "title": "Putin hotar med hämnd: ”Mycket mer plågsamt”",
+        "summary": "Presidentens löfte",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin Threatens Revenge: \"Much More Painful\"",
+        "summary": "The president's promise"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T14:45:55+01:00"
       }
     },
     {
@@ -5345,33 +5372,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T17:45:55+01:00"
-      }
-    },
-    {
-      "id": "fe1fcc5e095a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/2vG91q/ny-rattegang-mot-lindsay-clancy",
-      "guid": "https://www.aftonbladet.se/nyheter/a/2vG91q/ny-rattegang-mot-lindsay-clancy?utm_medium=rss",
-      "published_at": "2026-11-16T17:29:13+01:00",
-      "fetched_at": "2026-11-16T17:31:13+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/d94f89b1-6d04-32b2-b73e-dcd892e71ebe?format=auto&s=60bdab3a02b37c307e3a017de7eacf81beab31ba&w=1000",
-      "sv": {
-        "title": "Ny rättegång mot Lindsay Clancy",
-        "summary": "Lindsay Clancy, som har erkänt att hon dödade sina tre små barn, ställs åter inför rätta för mord.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New trial for Lindsay Clancy",
-        "summary": "Lindsay Clancy, who has confessed to killing her three young children, is once again facing trial for murder."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T17:31:20+01:00"
       }
     }
   ]
