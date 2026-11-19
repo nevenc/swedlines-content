@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T08:04:35+01:00",
+  "generated_at": "2026-11-19T08:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c33b64260b97",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/kMJyO6/forberedde-is-dad-i-skolan-de-fortjanar-dodsstraff",
+      "guid": "https://www.svd.se/a/kMJyO6/forberedde-is-dad-i-skolan-de-fortjanar-dodsstraff?utm_medium=rss",
+      "published_at": "2026-11-19T08:07:54+01:00",
+      "fetched_at": "2026-11-19T08:15:45+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/2055f14c-bf8f-3fcc-ab36-417f63553832?format=auto&s=e1d7d18fa677e99bce2a6415540a7202cb344927&w=1000",
+      "sv": {
+        "title": "Förberedde IS-dåd i skolan – ”De förtjänar dödsstraff”",
+        "summary": "Den 18-årige Halmstadsbon skrev att han ville bli martyr och döda 15 personer på sin gymnasieskola.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Prepared IS attack at school – \"They deserve the death penalty\"",
+        "summary": "The 18-year-old from Halmstad wrote that he wanted to become a martyr and kill 15 people at his upper secondary school"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T08:15:56+01:00"
+      }
+    },
     {
       "id": "5bc65d70ea87",
       "schema_version": 1,
@@ -5191,33 +5218,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T07:45:47+01:00"
-      }
-    },
-    {
-      "id": "da44876f1ba3",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/kMJ056/oroande-okning-av-fratskador-pa-tander-hos-unga",
-      "guid": "https://www.svd.se/a/kMJ056/oroande-okning-av-fratskador-pa-tander-hos-unga?utm_medium=rss",
-      "published_at": "2026-11-16T06:51:00+01:00",
-      "fetched_at": "2026-11-16T07:01:10+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/286723b7-915f-39f9-a484-ef57a989ba42?format=auto&s=3c241aa08bcc466619d36e508e98aba9af37fe1c&w=1000",
-      "sv": {
-        "title": "Oroande ökning av frätskador på tänder hos unga",
-        "summary": "Slitna och ilande tänder redan hos unga personer oroar tandläkare. Energidrycker och läsk uppges…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Worrying increase in acid erosion of teeth among young people",
-        "summary": "Worn and sensitive teeth already in young people worry dentists. Energy drinks and soft drinks are reported to be behind the increase…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T07:01:24+01:00"
       }
     }
   ]
