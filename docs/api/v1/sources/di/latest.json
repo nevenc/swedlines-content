@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-19T20:01:25+01:00",
+  "generated_at": "2026-11-19T20:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "64d1c30f6a35",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/utan-jobben-ingen-hogkonjunktur",
+      "guid": "a2ccff5d-fde0-44ed-97df-8de0af639c28",
+      "published_at": "2026-11-19T20:08:21+01:00",
+      "fetched_at": "2026-11-19T20:15:48+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/2b514b35-16a2-43a8-b95d-08fb80011469.jpeg?width=600",
+      "sv": {
+        "title": "Utan jobben – ingen högkonjunktur",
+        "summary": "Vändningen för jobben vägrar att ta fart, trots att tillväxt och konsumtion varvat upp rejält. Lågt sug efter arbetskraft seglar upp som en risk för den fortsatta konjunkturuppgången.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Without jobs – no economic boom",
+        "summary": "The turnaround in jobs refuses to gain momentum, even though growth and consumption have picked up considerably. Low appetite for labour is emerging as a risk to the continued economic upturn."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:15:56+01:00"
+      }
+    },
+    {
+      "id": "353b116f84f0",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/explosion-nara-sveriges-ambassad-i-kiev-UARbJ",
+      "guid": "07bc085e-7ed5-49cb-9112-de51171fbdfe",
+      "published_at": "2026-11-19T20:05:28+01:00",
+      "fetched_at": "2026-11-19T20:15:48+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d0c5e137-8179-4599-b730-f2d6c50fc586.jpg?width=600",
+      "sv": {
+        "title": "Explosion nära Sveriges ambassad i Kiev",
+        "summary": "En explosion inträffade nära Sveriges ambassad i Ukrainas huvudstad Kiev på torsdagen, uppger utrikesminister Maria Malmer Stenergard (M).",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Explosion near Swedish embassy in Kyiv",
+        "summary": "An explosion occurred near the Swedish embassy in Ukraine's capital Kyiv on Thursday, according to Foreign Minister Maria Malmer Stenergard (M)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:15:56+01:00"
+      }
+    },
     {
       "id": "5d8ca6513b6d",
       "schema_version": 1,
@@ -5271,60 +5325,6 @@
       "en": {
         "title": "Fastator wants to list preference shares",
         "summary": "Fastator is considering listing its preference shares and has hired Mangold as adviser. The largest preference share holder, and the one who gets locked in if the listing plan goes ahead, will find it easier to exit the share: Nordstjernan."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "7bba53b669e1",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/digital/efter-kursraset-einride-branner-70-mkr-i-manaden",
-      "guid": "9027d883-a4bc-4d8e-adec-219e512143d7",
-      "published_at": "2026-11-18T16:24:21+01:00",
-      "fetched_at": "2026-11-18T16:31:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/c17d9f9e-c9ac-4dc6-9e57-2b8139431457.png?width=600",
-      "sv": {
-        "title": "Efter kursraset: Einride bränner 70 Mkr i månaden",
-        "summary": "Svenska Einride har rasat med över 85 procent sedan sin notering i USA i somras. Trots en stark tillväxt bränner man 70 miljoner kronor i månaden – och kassan ser därmed bara ut att räcka till maj nästa år.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "After share price crash: Einride burns SEK 70 million a month",
-        "summary": "Swedish Einride has plunged more than 85 percent since its listing in the US last summer. Despite strong growth, the company is burning SEK 70 million a month – and its cash appears sufficient only until May next year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "6222b704fd56",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/fondproffset-varnar-for-skakig-ai-resa-men-koper-garna-anthropic",
-      "guid": "d21261a8-9a19-4c15-ba73-1a60f8e3c84a",
-      "published_at": "2026-11-18T16:19:54+01:00",
-      "fetched_at": "2026-11-18T16:31:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b00969df-1462-44e9-a402-1f202c9e9100.jpeg?width=600",
-      "sv": {
-        "title": "Fondproffset varnar för skakig AI-resa – men köper gärna Anthropic",
-        "summary": "AI-festen fortsätter men räkna med fortsatt turbulens när investerarna blir mer kräsna. SEB:s fondförvaltare Johan Söderström gör tummen upp för AI-labbet Anthropic inför börsnoteringen men varnar för att chipjätten Nvidia har en skakig period framför sig.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fund pro warns of bumpy AI ride – but happily buys Anthropic",
-        "summary": "The AI party continues, but expect ongoing turbulence as investors become more selective. SEB fund manager Johan Söderström gives a thumbs-up to AI lab Anthropic ahead of its stock market listing, but warns that chip giant Nvidia has a rocky period ahead."
       },
       "translation": {
         "status": "done",

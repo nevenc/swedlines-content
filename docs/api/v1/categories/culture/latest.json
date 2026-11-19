@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-19T20:01:25+01:00",
+  "generated_at": "2026-11-19T20:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e1488760623f",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2OLCOP61ivqKc5mOGEuxDS/foertjaenar-du-att-vinna-svarar-pa-tuffa-fragan-infoer-finalen",
+      "guid": "2OLCOP61ivqKc5mOGEuxDS",
+      "published_at": "2026-11-19T20:00:09+01:00",
+      "fetched_at": "2026-11-19T20:15:47+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Nöje"
+      ],
+      "sv": {
+        "title": "”Förtjänar du att vinna?” – svarar på tuffa frågan inför finalen",
+        "summary": "Höstens säsong av ”Robinson” börjar lida mot sitt slut och på söndag är det dags för final. Chansen att stå där och göra upp mot redan finalklara Petra Sjödin har Juliette Bergkvist, Philip Denik och Fredrik Allvar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "“Do you deserve to win?” – answers the tough question ahead of the final",
+        "summary": "The autumn season of “Robinson” is drawing to a close and the final is on Sunday. The chance to stand there and face the already-qualified finalist Petra Sjödin belongs to Juliette Bergkvist, Philip Denik and Fredrik Allvar."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T20:15:56+01:00"
+      }
+    },
     {
       "id": "45f9d8db5284",
       "schema_version": 1,
@@ -5615,33 +5644,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T10:45:55+01:00"
-      }
-    },
-    {
-      "id": "efa8a091ca48",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/familj/kunglig-medalj-till-lundaforfattaren-lina-wolff",
-      "guid": "c2b258b6-2ea0-4e00-9af4-1205bf5c70ab",
-      "published_at": "2026-11-17T10:20:00+01:00",
-      "fetched_at": "2026-11-17T10:31:01+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/f36fae6f-1e6a-414c-b32e-13bd9df97b48.jpeg?width=600",
-      "sv": {
-        "title": "Kunglig medalj till Lundaförfattaren Lina Wolff",
-        "summary": "Författaren Lina Wolff, bosatt i Lund och med rötter i Hörby, har tilldelats den kungliga medaljen Litteris et Artibus.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Royal medal for Lund author Lina Wolff",
-        "summary": "Author Lina Wolff, resident in Lund and with roots in Hörby, has been awarded the royal medal Litteris et Artibus."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T10:31:17+01:00"
       }
     }
   ]
