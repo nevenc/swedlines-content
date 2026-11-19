@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-19T05:06:34+01:00",
+  "generated_at": "2026-11-19T05:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f2df43de225a",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80073",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80073&utm_medium=rss",
+      "published_at": "2026-11-19T05:12:02+01:00",
+      "fetched_at": "2026-11-19T05:15:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Krimbron attackerad på nytt"
+      },
+      "en": {
+        "title": "Crimea Bridge attacked again"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T05:15:51+01:00"
+      }
+    },
+    {
+      "id": "dcc240742c92",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ledare/lisa-magnusson-influerarna-ler-och-intygar-att-de-trivs-for-det-maste-de-ju",
+      "guid": "https://www.dn.se/ledare/lisa-magnusson-influerarna-ler-och-intygar-att-de-trivs-for-det-maste-de-ju/",
+      "published_at": "2026-11-19T05:10:11+01:00",
+      "fetched_at": "2026-11-19T05:15:44+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/79dd74d0-a746-401a-9cab-756c7bc455d4.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Lisa Magnusson: Influerarna ler och intygar att de trivs – för det måste de ju",
+        "summary": "Ingen vill sponsra en surpuppa.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lisa Magnusson: Influencers smile and assure that they are happy – because they have to, after all",
+        "summary": "Nobody wants to sponsor a grump."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T05:15:51+01:00"
+      }
+    },
     {
       "id": "ec3f0a710090",
       "schema_version": 1,
@@ -5393,60 +5443,6 @@
       "en": {
         "title": "SvD livestreams GTA VI",
         "summary": "SvD invites well-known guests to celebrate this year's most hyped game release during an eight-hour-long…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:01:26+01:00"
-      }
-    },
-    {
-      "id": "c8ab47d52021",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/uppgift-trump-och-putin-ska-traffas-enskilt",
-      "guid": "83ed8db5-9271-49e4-9f37-8b36e48a7e96",
-      "published_at": "2026-11-18T16:58:31+01:00",
-      "fetched_at": "2026-11-18T17:01:18+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/7a336727-1312-434c-9005-fac923dfc363.jpg?width=600",
-      "sv": {
-        "title": "Uppgift: Trump och Putin ska träffas enskilt",
-        "summary": "USA:s president Donald Trump ska hålla ett enskilt samtal med Rysslands Vladimir Putin i samband med toppmötet i Kina, enligt uppgifter. Uppgifterna om mötet kommer inför trepartssamtalet mellan Trump, Putin och Xi Jinping.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Report: Trump and Putin to meet privately",
-        "summary": "US President Donald Trump is to hold a private conversation with Russia's Vladimir Putin in connection with the summit in China, according to reports. The reports about the meeting come ahead of the trilateral talks between Trump, Putin and Xi Jinping."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:01:26+01:00"
-      }
-    },
-    {
-      "id": "4086131d0725",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/svenskt-naringsliv-sagar-s-bud-till-c-tillvaxtfientligt-paket",
-      "guid": "4c88f4ae-33e8-419a-a764-cc35483db48f",
-      "published_at": "2026-11-18T16:58:02+01:00",
-      "fetched_at": "2026-11-18T17:01:18+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b38bcb5d-8631-4ea2-b5f9-72a60fd84122.jpeg?width=600",
-      "sv": {
-        "title": "Svenskt Näringsliv sågar S bud till C: ”Tillväxtfientligt paket”",
-        "summary": "Socialdemokraternas totalpaket är tillväxtfientligt och skulle slå stenhårt mot landets företag. Det anser Svenskt Näringslivs chefsekonom Sven-Olov Daunfeldt. ”Jag kan inte se att Centerpartiet, som ett företagarvänligt parti, skulle kunna gå med på det här”, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Confederation of Swedish Enterprise slams S offer to C: \"Anti-growth package\"",
-        "summary": "The Social Democrats' total package is anti-growth and would hit the country's companies hard. That is the view of the Confederation of Swedish Enterprise's chief economist Sven-Olov Daunfeldt. \"I cannot see the Centre Party, as a business-friendly party, being able to agree to this,\" he says."
       },
       "translation": {
         "status": "done",

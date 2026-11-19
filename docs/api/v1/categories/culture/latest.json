@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T05:06:34+01:00",
+  "generated_at": "2026-11-19T05:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dcc240742c92",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ledare/lisa-magnusson-influerarna-ler-och-intygar-att-de-trivs-for-det-maste-de-ju",
+      "guid": "https://www.dn.se/ledare/lisa-magnusson-influerarna-ler-och-intygar-att-de-trivs-for-det-maste-de-ju/",
+      "published_at": "2026-11-19T05:10:11+01:00",
+      "fetched_at": "2026-11-19T05:15:44+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/79dd74d0-a746-401a-9cab-756c7bc455d4.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Lisa Magnusson: Influerarna ler och intygar att de trivs – för det måste de ju",
+        "summary": "Ingen vill sponsra en surpuppa.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lisa Magnusson: Influencers smile and assure that they are happy – because they have to, after all",
+        "summary": "Nobody wants to sponsor a grump."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T05:15:51+01:00"
+      }
+    },
     {
       "id": "ec3f0a710090",
       "schema_version": 1,
@@ -5597,43 +5624,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T06:15:47+01:00"
-      }
-    },
-    {
-      "id": "ad22404bf9d4",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/kommentar/har-du-gjort-ett-ansiktslyft-anvand-watergate-tricket.0e28bc26-2b54-564f-8485-8f524b875eb9",
-      "guid": "0e28bc26-2b54-564f-8485-8f524b875eb9",
-      "published_at": "2026-11-16T05:56:50+01:00",
-      "fetched_at": "2026-11-16T06:01:14+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Kommentar",
-        "Tagg: Jennifer Lawrence",
-        "Tagg: Kris Jenner",
-        "Tagg: Botox",
-        "Tagg: Skönhet",
-        "Tagg: Internet",
-        "Tagg: Feminism",
-        "Tagg: Plastikoperationer"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/2bb67704-5596-34b6-8f8f-762fffc35f6f",
-      "sv": {
-        "title": "Har du gjort ett ansiktslyft? Använd Watergate-tricket",
-        "summary": "I dag kan en rik och vacker filmstjärna som Jennifer Lawrence erkänna flera ingrepp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Have you had a facelift? Use the Watergate trick",
-        "summary": "Today a rich and beautiful film star like Jennifer Lawrence can admit to several procedures."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T06:01:32+01:00"
       }
     }
   ]
