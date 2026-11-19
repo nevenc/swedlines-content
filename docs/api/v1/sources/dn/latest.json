@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T10:31:12+01:00",
+  "generated_at": "2026-11-19T10:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6a878301f80b",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/sanna-toren-bjorling-andra-lander-kan-dra-lardom-av-flamingoattackerna-mot-krimbron",
+      "guid": "https://www.dn.se/varlden/sanna-toren-bjorling-andra-lander-kan-dra-lardom-av-flamingoattackerna-mot-krimbron/",
+      "published_at": "2026-11-19T10:36:09+01:00",
+      "fetched_at": "2026-11-19T10:45:42+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/8c551808-3fa8-465f-bac7-2dc83f2cff9d.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Sanna Torén Björling: Andra länder kan dra lärdom av Flamingoattackerna mot Krimbron",
+        "summary": "Attackerna mot Krimbron hade förberetts i veckor. Operationen var en styrkeuppvisning, men visar också hur ytterst nära militär, industri och politik samarbetar i Ukraina. Frågan är vilken lärdom andra länder drar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sanna Torén Björling: Other countries can learn from the Flamingo attacks on the Crimean Bridge",
+        "summary": "The attacks on the Crimean Bridge were prepared for weeks. The operation was a show of strength, but also shows how closely the military, industry and politics cooperate in Ukraine. The question is what lesson other countries draw."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:45:49+01:00"
+      }
+    },
     {
       "id": "22d084e432da",
       "schema_version": 1,
@@ -5368,33 +5395,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T12:31:21+01:00"
-      }
-    },
-    {
-      "id": "6e88c57f1a98",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/det-haller-inte-nar-naomi-klein-skyller-fascismen-pa-var-tids-dumburk",
-      "guid": "https://www.dn.se/kultur/det-haller-inte-nar-naomi-klein-skyller-fascismen-pa-var-tids-dumburk/",
-      "published_at": "2026-11-16T11:37:50+01:00",
-      "fetched_at": "2026-11-16T11:45:40+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/f09d46af-7592-4b7d-ac61-7ed3733e1412.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Det håller inte när Naomi Klein skyller fascismen på vår tids dumburk",
-        "summary": "Naomi Klein och Astra Taylor fångar techhögerns bisarra maktfantasier i boken ”Undergångsfascismen”. Men varför skulle just AI kräva fascism? Böcker med stora teser om heta fenomen bör man läsa med kylig blick, skriver Leonidas Aretakis.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "It doesn't hold up when Naomi Klein blames fascism on our era's dumb box",
-        "summary": "Naomi Klein and Astra Taylor capture the tech right's bizarre fantasies of power in the book \"Undergångsfascismen\". But why should AI in particular demand fascism? Books with big theses about hot phenomena should be read with a cool eye, writes Leonidas Aretakis."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T11:45:50+01:00"
       }
     }
   ]

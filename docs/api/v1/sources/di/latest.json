@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T10:31:12+01:00",
+  "generated_at": "2026-11-19T10:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4ad74d28fc40",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/anthropics-aktier-racker-inte-till-exceptionellt-intresse",
+      "guid": "2dea4945-8f67-4ddd-991d-95ee68c833ff",
+      "published_at": "2026-11-19T10:38:48+01:00",
+      "fetched_at": "2026-11-19T10:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/9012fec1-1abb-4b05-8ac1-d035ff759571.jpeg?width=600",
+      "sv": {
+        "title": "Anthropics aktier räcker inte till – ”exceptionellt intresse”",
+        "summary": "I eftermiddag handelsdebuterar AI-jätten Anthropic i vad som väntas bli den största börsnoteringen hittills. Men svenska sparare kommer att få betydligt färre aktier än vad de kanske hade önskat i monsternoteringen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Anthropic shares not enough – \"exceptional interest\"",
+        "summary": "This afternoon AI giant Anthropic makes its trading debut in what is expected to be the largest stock listing so far. But Swedish savers will get significantly fewer shares than they may have wished for in the monster listing."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:45:49+01:00"
+      }
+    },
     {
       "id": "a6e58d61e26d",
       "schema_version": 1,
@@ -5304,32 +5331,6 @@
       "en": {
         "title": "Musk lands rockets – we can only watch",
         "summary": "Elon Musk's Space X was able over the weekend for the first time to land and park a Starship rocket that had flown 14 orbits around the earth. What is the next step? Daily departures to space? Nothing seems impossible for the Americans."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T08:31:09+01:00"
-      }
-    },
-    {
-      "id": "e806db90d9e1",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/mycronic-far-order-vard-2-3-miljoner-dollar",
-      "guid": "a5f56549-7957-4546-8da2-27aa0caa2eca",
-      "published_at": "2026-11-18T08:11:35+01:00",
-      "fetched_at": "2026-11-18T08:31:01+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Mycronic får order värd 2-3 miljoner dollar",
-        "summary": "Teknikbolaget Mycronic har fått en order på ett reparationssystem för fotomasker för halvledare från en befintlig kund i USA.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mycronic receives order worth USD 2-3 million",
-        "summary": "The tech company Mycronic has received an order for a repair system for photomasks for semiconductors from an existing customer in the USA."
       },
       "translation": {
         "status": "done",

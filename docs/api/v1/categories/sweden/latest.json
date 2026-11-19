@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-19T10:31:12+01:00",
+  "generated_at": "2026-11-19T10:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "357cd4e05dcd",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/ARdQOA/svd-vinklubb-vill-du-ocksa-ha-basta-vinlanseringarna-fore-alla-andra",
+      "guid": "https://www.svd.se/a/ARdQOA/svd-vinklubb-vill-du-ocksa-ha-basta-vinlanseringarna-fore-alla-andra?utm_medium=rss",
+      "published_at": "2026-11-19T10:45:20+01:00",
+      "fetched_at": "2026-11-19T10:45:42+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/d7367aa8-03f8-321b-a1c7-c3ada415fc7a?format=auto&s=a1d94ce241e9d4145d6fca72700e65f652aa625d&w=1000",
+      "sv": {
+        "title": "”Viner resten av världen bara kan drömma om”"
+      },
+      "en": {
+        "title": "\"They have what the rest of the world can only dream of\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:45:49+01:00"
+      }
+    },
     {
       "id": "9cc2b6dd1816",
       "schema_version": 1,
@@ -5383,32 +5407,6 @@
       },
       "en": {
         "title": "One dead after flat fire"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T05:45:47+01:00"
-      }
-    },
-    {
-      "id": "35dfe6a6f231",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jamtland/tre-ar-senare-an-planerat-nya-reningsverket-i-funasdalen-ska-invigas",
-      "guid": "https://www.svt.se/nyheter/lokalt/jamtland/tre-ar-senare-an-planerat-nya-reningsverket-i-funasdalen-ska-invigas",
-      "published_at": "2026-11-16T05:30:06+01:00",
-      "fetched_at": "2026-11-16T05:45:35+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Tre år senare än planerat – nya reningsverket i Funäsdalen ska invigas",
-        "summary": "Den första december invigs det nya reningsverket i Funäsdalen. Bygget har under årens gång stött på många problem och försenats med tre år. Nu är man nästan i mål, men fortfarande återstår en del arbete.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Three years later than planned – new wastewater treatment plant in Funäsdalen to be inaugurated",
-        "summary": "The new wastewater treatment plant in Funäsdalen will be inaugurated on 1 December. Construction has encountered many problems over the years and been delayed by three years. Now it is nearly complete, but a good deal of work remains."
       },
       "translation": {
         "status": "done",

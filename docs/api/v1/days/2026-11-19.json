@@ -1,7 +1,237 @@
 {
-  "generated_at": "2026-11-19T10:31:12+01:00",
-  "count": 229,
+  "generated_at": "2026-11-19T10:45:50+01:00",
+  "count": 238,
   "items": [
+    {
+      "id": "357cd4e05dcd",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/ARdQOA/svd-vinklubb-vill-du-ocksa-ha-basta-vinlanseringarna-fore-alla-andra",
+      "guid": "https://www.svd.se/a/ARdQOA/svd-vinklubb-vill-du-ocksa-ha-basta-vinlanseringarna-fore-alla-andra?utm_medium=rss",
+      "published_at": "2026-11-19T10:45:20+01:00",
+      "fetched_at": "2026-11-19T10:45:42+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/d7367aa8-03f8-321b-a1c7-c3ada415fc7a?format=auto&s=a1d94ce241e9d4145d6fca72700e65f652aa625d&w=1000",
+      "sv": {
+        "title": "”Viner resten av världen bara kan drömma om”"
+      },
+      "en": {
+        "title": "\"They have what the rest of the world can only dream of\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:45:49+01:00"
+      }
+    },
+    {
+      "id": "3e23bde0abbf",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-villa-6ltbd",
+      "guid": "c275da8b-6102-4f28-87ba-5b36d0b9e176",
+      "published_at": "2026-11-19T10:41:45+01:00",
+      "fetched_at": "2026-11-19T10:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nya ägare till villa"
+      },
+      "en": {
+        "title": "New owners of villa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:45:49+01:00"
+      }
+    },
+    {
+      "id": "f59aff9388b2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/1940-talshus-saldes-for-7-4-miljoner",
+      "guid": "1fe43198-715e-49e9-a72f-1d0dc3e43ae7",
+      "published_at": "2026-11-19T10:41:45+01:00",
+      "fetched_at": "2026-11-19T10:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "1940-talshus såldes för 7,4 miljoner"
+      },
+      "en": {
+        "title": "1940s house sold for 7.4 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:45:49+01:00"
+      }
+    },
+    {
+      "id": "5fd1c3fde11b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345997",
+      "guid": "rss:sr.se/article/9345997",
+      "published_at": "2026-11-19T10:40:00+01:00",
+      "fetched_at": "2026-11-19T10:45:41+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Danmark godkänner försvarsavtal med Grönland och USA",
+        "summary": "Danska folketinget har godkänt säkerhets- och försvarsavtalet som Danmark har ingått med Grönland och USA, rapporterar Danmarks Radio. Det grönländska parlamentet godkände avtalet tidigare i november.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Denmark approves defence agreement with Greenland and the United States",
+        "summary": "The Danish Folketing has approved the security and defence agreement Denmark has concluded with Greenland and the United States, reports Danmarks Radio. The Greenlandic parliament approved the agreement earlier in November."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:45:49+01:00"
+      }
+    },
+    {
+      "id": "4ad74d28fc40",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/anthropics-aktier-racker-inte-till-exceptionellt-intresse",
+      "guid": "2dea4945-8f67-4ddd-991d-95ee68c833ff",
+      "published_at": "2026-11-19T10:38:48+01:00",
+      "fetched_at": "2026-11-19T10:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/9012fec1-1abb-4b05-8ac1-d035ff759571.jpeg?width=600",
+      "sv": {
+        "title": "Anthropics aktier räcker inte till – ”exceptionellt intresse”",
+        "summary": "I eftermiddag handelsdebuterar AI-jätten Anthropic i vad som väntas bli den största börsnoteringen hittills. Men svenska sparare kommer att få betydligt färre aktier än vad de kanske hade önskat i monsternoteringen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Anthropic shares not enough – \"exceptional interest\"",
+        "summary": "This afternoon AI giant Anthropic makes its trading debut in what is expected to be the largest stock listing so far. But Swedish savers will get significantly fewer shares than they may have wished for in the monster listing."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:45:49+01:00"
+      }
+    },
+    {
+      "id": "6a878301f80b",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/sanna-toren-bjorling-andra-lander-kan-dra-lardom-av-flamingoattackerna-mot-krimbron",
+      "guid": "https://www.dn.se/varlden/sanna-toren-bjorling-andra-lander-kan-dra-lardom-av-flamingoattackerna-mot-krimbron/",
+      "published_at": "2026-11-19T10:36:09+01:00",
+      "fetched_at": "2026-11-19T10:45:42+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/8c551808-3fa8-465f-bac7-2dc83f2cff9d.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Sanna Torén Björling: Andra länder kan dra lärdom av Flamingoattackerna mot Krimbron",
+        "summary": "Attackerna mot Krimbron hade förberetts i veckor. Operationen var en styrkeuppvisning, men visar också hur ytterst nära militär, industri och politik samarbetar i Ukraina. Frågan är vilken lärdom andra länder drar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sanna Torén Björling: Other countries can learn from the Flamingo attacks on the Crimean Bridge",
+        "summary": "The attacks on the Crimean Bridge were prepared for weeks. The operation was a show of strength, but also shows how closely the military, industry and politics cooperate in Ukraine. The question is what lesson other countries draw."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:45:49+01:00"
+      }
+    },
+    {
+      "id": "b6d2f469baff",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345999",
+      "guid": "rss:sr.se/article/9345999",
+      "published_at": "2026-11-19T10:36:00+01:00",
+      "fetched_at": "2026-11-19T10:45:41+01:00",
+      "category": "world",
+      "sv": {
+        "title": "EU-kommissionen har utsatts för en cyberattack",
+        "summary": "EU-kommissionen har utsatts för en cyberattack. Enligt nyhetsplattformen Politico kan hackarna ha kommit över stora mängder personuppgifter. Det är oklart hur stora skadorna är.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "European Commission has been hit by a cyberattack",
+        "summary": "The European Commission has been hit by a cyberattack. According to the news platform Politico, the hackers may have obtained large amounts of personal data. It is unclear how severe the damage is."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:45:49+01:00"
+      }
+    },
+    {
+      "id": "552d724aff41",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/mMRyoL/donald-trumps-markliga-gest-mot-xi-jinping",
+      "guid": "https://www.aftonbladet.se/nyheter/a/mMRyoL/donald-trumps-markliga-gest-mot-xi-jinping?utm_medium=rss",
+      "published_at": "2026-11-19T10:33:11+01:00",
+      "fetched_at": "2026-11-19T10:45:42+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/493d5f11-5efb-3198-9898-3285c449de56?format=auto&s=8bcb34c74253d50179fe888f2b89df9b37502051&w=1000",
+      "sv": {
+        "title": "Donald Trumps märkliga gest mot Xi Jinping",
+        "summary": "Nöjer sig inte med kramen ✓ Möter Putin",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Donald Trump's strange gesture towards Xi Jinping",
+        "summary": "Not satisfied with the hug ✓ Meets Putin"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:45:49+01:00"
+      }
+    },
+    {
+      "id": "1441ca7605b0",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/spel/falskt-gta-sprids-pa-darkweb-av-kontokapare",
+      "guid": "5686eaf1-595a-4648-a6f3-d1ae657ce553",
+      "published_at": "2026-11-19T10:31:14+01:00",
+      "fetched_at": "2026-11-19T10:45:45+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/9d3a1367-c94f-4500-b214-5f24423efba7.jpeg?width=600",
+      "sv": {
+        "title": "Falskt GTA sprids på darkweb av kontokapare",
+        "summary": "På dark web erbjuds falska pc-versioner av spelet GTA VI. Med det som lockbete kan bedragare kapa konton och stjäla kryptovaluta, avslöjar it-säkerhetsföretaget NordVPN.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fake GTA sold on darkweb by account thieves",
+        "summary": "On the dark web, fake PC versions of the GTA VI game are offered. Using this as bait, fraudsters can take over accounts and steal cryptocurrency, cybersecurity company NordVPN reveals."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:45:49+01:00"
+      }
+    },
     {
       "id": "7833d4a24164",
       "schema_version": 1,

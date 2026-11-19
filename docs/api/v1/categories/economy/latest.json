@@ -1,7 +1,80 @@
 {
-  "generated_at": "2026-11-19T10:31:12+01:00",
+  "generated_at": "2026-11-19T10:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3e23bde0abbf",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-villa-6ltbd",
+      "guid": "c275da8b-6102-4f28-87ba-5b36d0b9e176",
+      "published_at": "2026-11-19T10:41:45+01:00",
+      "fetched_at": "2026-11-19T10:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nya ägare till villa"
+      },
+      "en": {
+        "title": "New owners of villa"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:45:49+01:00"
+      }
+    },
+    {
+      "id": "f59aff9388b2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/1940-talshus-saldes-for-7-4-miljoner",
+      "guid": "1fe43198-715e-49e9-a72f-1d0dc3e43ae7",
+      "published_at": "2026-11-19T10:41:45+01:00",
+      "fetched_at": "2026-11-19T10:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "1940-talshus såldes för 7,4 miljoner"
+      },
+      "en": {
+        "title": "1940s house sold for 7.4 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:45:49+01:00"
+      }
+    },
+    {
+      "id": "4ad74d28fc40",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/anthropics-aktier-racker-inte-till-exceptionellt-intresse",
+      "guid": "2dea4945-8f67-4ddd-991d-95ee68c833ff",
+      "published_at": "2026-11-19T10:38:48+01:00",
+      "fetched_at": "2026-11-19T10:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/9012fec1-1abb-4b05-8ac1-d035ff759571.jpeg?width=600",
+      "sv": {
+        "title": "Anthropics aktier räcker inte till – ”exceptionellt intresse”",
+        "summary": "I eftermiddag handelsdebuterar AI-jätten Anthropic i vad som väntas bli den största börsnoteringen hittills. Men svenska sparare kommer att få betydligt färre aktier än vad de kanske hade önskat i monsternoteringen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Anthropic shares not enough – \"exceptional interest\"",
+        "summary": "This afternoon AI giant Anthropic makes its trading debut in what is expected to be the largest stock listing so far. But Swedish savers will get significantly fewer shares than they may have wished for in the monster listing."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:45:49+01:00"
+      }
+    },
     {
       "id": "a6e58d61e26d",
       "schema_version": 1,
@@ -5216,87 +5289,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T13:15:59+01:00"
-      }
-    },
-    {
-      "id": "28dea7c36788",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/danmark-visar-vagen-i-arbetstidsfragan",
-      "guid": "d18cb85e-c1d0-4fd8-8ac1-b388f0a13e58",
-      "published_at": "2026-11-18T13:00:12+01:00",
-      "fetched_at": "2026-11-18T13:15:53+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/825a1f0f-5c4e-4d1b-8a71-0c76bcbb79e8.jpeg?width=600",
-      "sv": {
-        "title": "Danmark visar vägen i arbetstidsfrågan",
-        "summary": "Den svenska debatten om arbetstid har fastnat. När arbetslivet förändras räcker det inte att försvara gårdagens lösningar. Vi behöver våga diskutera nya, skriver Akavias förhandlingschefer Daniel Falk och Viktoria Färm.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Denmark shows the way on working hours",
-        "summary": "The Swedish debate on working hours has stalled. When working life changes, it is not enough to defend yesterday's solutions. We need to dare to discuss new ones, write Akavia's negotiation chiefs Daniel Falk and Viktoria Färm."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T13:15:59+01:00"
-      }
-    },
-    {
-      "id": "875872855b84",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/eqt-overvager-salja-indisk-fertilitetskedja",
-      "guid": "1ad56834-3d6e-40ef-ad0c-b47cd38f6059",
-      "published_at": "2026-11-18T12:58:36+01:00",
-      "fetched_at": "2026-11-18T13:01:17+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/71698bca-8898-4b19-8062-513ead8dd17b.jpeg?width=600",
-      "sv": {
-        "title": "EQT överväger sälja indisk fertilitetskedja",
-        "summary": "EQT uppges överväga att sälja sin indiska fertilitetsverksamhet Indira IVF Hospital, landets största, till en värdering motsvarande runt 15 miljarder kronor. Det skriver Bloomberg baserat på källor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "EQT considers selling Indian fertility chain",
-        "summary": "EQT is reportedly considering selling its Indian fertility business Indira IVF Hospital, the country's largest, at a valuation of around SEK 15 billion. Bloomberg writes this based on sources."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T13:01:24+01:00"
-      }
-    },
-    {
-      "id": "649d30bf2029",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/sa-sakrade-nordnet-forspranget-i-anthropic",
-      "guid": "6c58a5f9-302b-4834-b328-f33bf1447e98",
-      "published_at": "2026-11-18T12:49:55+01:00",
-      "fetched_at": "2026-11-18T13:01:17+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/96d0d741-04c3-40d3-95f9-2e5735ca7ba7.jpeg?width=600",
-      "sv": {
-        "title": "Så säkrade Nordnet försprånget i Anthropic",
-        "summary": "När Anthropic går till börsen har Nordnet något som Avanza saknar: möjligheten att erbjuda småspararna teckning inför noteringen. Nordnet lägger locket på om hur affären kom till – men spåren leder till en Wall Street-jätte.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "This is how Nordnet secured its position in Anthropic",
-        "summary": "When Anthropic goes public, Nordnet has something Avanza lacks: the ability to offer small savers subscriptions ahead of the listing. Nordnet does not disclose how the deal came about – but the trail leads to a Wall Street giant."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T13:01:24+01:00"
       }
     }
   ]
