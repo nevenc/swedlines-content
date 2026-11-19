@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T15:31:08+01:00",
+  "generated_at": "2026-11-19T15:45:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "724938c76a9c",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-vansterkaoset-i-savsjo-stolar-star-tomma",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-vansterkaoset-i-savsjo-stolar-star-tomma",
+      "published_at": "2026-11-19T15:38:33+01:00",
+      "fetched_at": "2026-11-19T15:45:41+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Efter vänsterkaoset i Sävsjö – stolar står tomma",
+        "summary": "Trots valframgångarna har Vänsterpartiets två stolar stått tomma i Sävsjö fullmäktige efter valet. Flera av toppnamnen på listan har hoppat av. – Vi har fått stötta en del och det är en del oerfarenhet, säger Kristoffer Wolke som är distriktsordförande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After the Left Party chaos in Sävsjö – seats stand empty",
+        "summary": "Despite election gains, the Left Party's two seats have stood empty on the Sävsjö municipal council since the election. Several of the top names on the list have dropped out. – We have had to support a number of people and there is some inexperience, says Kristoffer Wolke, district chair."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T15:45:59+01:00"
+      }
+    },
     {
       "id": "e688dd8873bd",
       "schema_version": 1,
@@ -5375,33 +5401,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T15:06:30+01:00"
-      }
-    },
-    {
-      "id": "b001fbf2650e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/statsvetaren-s-och-c-ar-jatteradda-for-extra-val",
-      "guid": "2e3c6b36-13ed-46b8-ba78-c16ec21ca516",
-      "published_at": "2026-11-16T11:52:27+01:00",
-      "fetched_at": "2026-11-16T12:01:16+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/600a4c17-e5e7-4688-acc6-6acae94642cb.jpg?width=600",
-      "sv": {
-        "title": "Statsvetaren: S och C är jätterädda för extra val",
-        "summary": "Huvudproblemet består – varken C eller V har suddat ut några röda linjer. Det enda som hänt sedan valnatten är att C öppnat dörren högerut, menar statsvetaren Andreas Johansson Heinö. – Centerpartiet är uppenbart splittrat mellan vänster och höger.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Political scientist: S and C are terrified of a snap election",
-        "summary": "The main problem remains – neither C nor V has erased any red lines. The only thing that has happened since election night is that C has opened the door to the right, political scientist Andreas Johansson Heinö argues. – The Centre Party is obviously split between left and right."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:01:23+01:00"
       }
     }
   ]

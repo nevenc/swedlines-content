@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T15:31:08+01:00",
+  "generated_at": "2026-11-19T15:45:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fa4f2d05a6d2",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/dJOPjj/man-dod-efter-arbetsplatsolycka",
+      "guid": "https://www.aftonbladet.se/nyheter/a/dJOPjj/man-dod-efter-arbetsplatsolycka?utm_medium=rss",
+      "published_at": "2026-11-19T15:30:21+01:00",
+      "fetched_at": "2026-11-19T15:45:49+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/93087f20-abce-39d0-b51b-750a5d2048ff?format=auto&s=51407b02ce1fe7e6c75d6289f4f85ab97dee3080&w=1000",
+      "sv": {
+        "title": "Man död efter arbetsplatsolycka",
+        "summary": "En man i 35-årsåldern har avlidit efter en arbetsplatsolycka på en industri i Västervik, uppger…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man dies after workplace accident",
+        "summary": "A man in his mid-thirties has died after a workplace accident at an industrial plant in Västervik, reports…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T15:45:59+01:00"
+      }
+    },
     {
       "id": "c3a71e3d027f",
       "schema_version": 1,
@@ -5345,33 +5372,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "ffd9e08de0c1",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/klimat/a/j3d3Aw/tuffa-punkterna-i-cop-dokumentet",
-      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/j3d3Aw/tuffa-punkterna-i-cop-dokumentet?utm_medium=rss",
-      "published_at": "2026-11-16T17:36:15+01:00",
-      "fetched_at": "2026-11-16T17:45:42+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/e8609652-8710-3be4-bd87-4d700a26eea1?format=auto&s=c94f39061516ec1d42e2b60b135d2bba15b651e3&w=1000",
-      "sv": {
-        "title": "Tuffa punkterna i COP-dokumentet",
-        "summary": "COP31 Fyra dagar – sedan ska länderna enas",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The tough points in the COP document",
-        "summary": "COP31 Four days – then the countries must reach agreement"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T17:45:55+01:00"
       }
     }
   ]
