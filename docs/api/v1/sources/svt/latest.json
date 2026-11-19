@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T10:16:03+01:00",
+  "generated_at": "2026-11-19T10:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "28f1610bdac4",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vast/larm-om-misstankt-farligt-foremal-i-goteborg-opuyqx",
+      "guid": "https://www.svt.se/nyheter/lokalt/vast/larm-om-misstankt-farligt-foremal-i-goteborg-opuyqx",
+      "published_at": "2026-11-19T10:14:59+01:00",
+      "fetched_at": "2026-11-19T10:31:00+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Larm om misstänkt farligt föremål i Göteborg",
+        "summary": "Polisen hanterar just nu ett misstänkt farligt föremål i Vidkärr i närheten av Munkebäckstorget i Göteborg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alarm over suspected dangerous object in Göteborg",
+        "summary": "Police are currently handling a suspected dangerous object in Vidkärr near Munkebäckstorget in Göteborg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:31:11+01:00"
+      }
+    },
     {
       "id": "006aaf8b2792",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Arson in Finspång – one suspect arrested",
         "summary": "At half past two last night the rescue service was alerted to a fire outside an entrance on Bergslagsvägen in Finspång. One person has been arrested on suspicion of having started the fire."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "ab45cd9a7f1b",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/polisforbundet-atta-av-tio-nya-poliser-utsatts-for-hot-och-vald",
-      "guid": "https://www.svt.se/nyheter/inrikes/polisforbundet-atta-av-tio-nya-poliser-utsatts-for-hot-och-vald",
-      "published_at": "2026-11-13T06:23:29+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Polisförbundet: Åtta av tio nya poliser utsätts för hot och våld",
-        "summary": "Poliser som är nya i yrket är betydligt mer utsatta för hot och våld jämfört med sina mer erfarna kollegor, enligt en ny rapport från Polisförbundet. Samtidigt svarar över hälften att det är brist på erfarna instruktörer för nya aspiranter.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Police Union: Eight in ten new police officers subjected to threats and violence",
-        "summary": "Police officers new to the profession are considerably more exposed to threats and violence than their more experienced colleagues, according to a new report from the Swedish Police Union. At the same time more than half say there is a shortage of experienced instructors for new recruits."
       },
       "translation": {
         "status": "done",

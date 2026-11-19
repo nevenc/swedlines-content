@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T10:16:03+01:00",
+  "generated_at": "2026-11-19T10:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "58b2880ba3f6",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/dygnet-runt/svart-rida-kan-vinna-p3-guld-pris",
+      "guid": "54b3ddea-1349-4636-9a72-8f5be4357135",
+      "published_at": "2026-11-19T10:22:27+01:00",
+      "fetched_at": "2026-11-19T10:31:06+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/2bd25f00-ccbe-444f-a118-7529f055fe12.jpeg?width=600",
+      "sv": {
+        "title": "Svart Ridå kan vinna P3 Guld-pris",
+        "summary": "Zara Larsson, Robyn, Lykke Li och Swedish House Mafia kan alla vinna dubbla priser på P3 Guld nästa år. Enda Malmöchansen till pris är rocktrion Svart Ridå.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Svart Ridå could win P3 Guld prize",
+        "summary": "Zara Larsson, Robyn, Lykke Li and Swedish House Mafia could all win double prizes at P3 Guld next year. The only Malmö act nominated is rock trio Svart Ridå."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:31:11+01:00"
+      }
+    },
     {
       "id": "6d8ae60289c5",
       "schema_version": 1,
@@ -5595,33 +5622,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T15:40:28+01:00"
-      }
-    },
-    {
-      "id": "8b85254386e5",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/charmerande-gubbduo-gor-arne-goes-to-space-till-rorande-svensk-science-fiction",
-      "guid": "https://www.dn.se/kultur/charmerande-gubbduo-gor-arne-goes-to-space-till-rorande-svensk-science-fiction/",
-      "published_at": "2026-11-16T15:13:45+01:00",
-      "fetched_at": "2026-11-16T15:16:56+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/8ab83620-0f54-479e-b4a8-ef972ee5c77c.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Charmerande gubbduo gör ”Arne goes to space” till rörande svensk science fiction",
-        "summary": "Två gamla norrländska bröder får plötsligt oväntat besök. En utomjording förlöser frusna känslor i en rörande berättelse om brödrakärlek, falukorv och vedklyvning, skriver Wanda Bendjelloul.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Charming Old Duo Turns “Arne goes to space” Into Touching Swedish Science Fiction",
-        "summary": "Two elderly brothers from Norrland suddenly receive an unexpected visit. An alien unlocks frozen emotions in a touching story about brotherly love, falukorv sausage and log splitting, writes Wanda Bendjelloul."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:17:06+01:00"
       }
     }
   ]

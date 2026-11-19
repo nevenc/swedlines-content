@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-19T10:16:03+01:00",
+  "generated_at": "2026-11-19T10:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a6e58d61e26d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/ford-startar-batteriproduktion-i-usa-med-kina-teknik",
+      "guid": "e67cc0f2-016c-45bb-9f6f-edb48b8bcfb2",
+      "published_at": "2026-11-19T10:22:05+01:00",
+      "fetched_at": "2026-11-19T10:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/132cb0c5-8583-49e6-8418-834f4a975bea.jpeg?width=600",
+      "sv": {
+        "title": "Ford startar batteriproduktion i USA med Kina-teknik",
+        "summary": "Amerikanska fordonsjätten Ford har inlett produktion av battericeller vid sin fabrik i Marshall, Michigan, efter en investering på 3 miljarder dollar. Batterierna ska användas i den kommande eldrivna pickupen Fathom, uppger bolaget i ett pressmeddelande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ford starts battery production in USA with Chinese technology",
+        "summary": "American automaker Ford has begun production of battery cells at its factory in Marshall, Michigan, after an investment of USD 3 billion. The batteries will be used in the upcoming electric Fathom pickup, the company says in a press release."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:31:11+01:00"
+      }
+    },
+    {
+      "id": "f67097d3ecfb",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/finansmannen-brande-100-miljoner-som-byggare-bob",
+      "guid": "c8f72820-1091-4770-b152-b1dd1028789b",
+      "published_at": "2026-11-19T10:20:23+01:00",
+      "fetched_at": "2026-11-19T10:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/28e2c09c-1031-440c-a80c-2aefc56492b6.jpeg?width=600",
+      "sv": {
+        "title": "Finansmannen brände 100 miljoner som ”Byggare Bob”",
+        "summary": "Den norske finansprofilen Jan Petter Sissener, 71, brände närmare 100 miljoner kronor på ett privat fastighetsfiasko. Nu talar hedgefondveteranen ut om självgodheten som ”Byggare Bob” – och varför han spår ett fortsatt börsrally. ”Då kan vi få en ordentlig börsbonanza”, säger han.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Financier burned 100 million as \"Builder Bob\"",
+        "summary": "Norwegian finance figure Jan Petter Sissener, 71, burned nearly SEK 100 million on a private property fiasco. Now the hedge fund veteran speaks out about the self-satisfaction of being \"Builder Bob\" – and why he predicts a continued stock market rally. \"Then we could get a proper stock market bonanza,\" he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:31:11+01:00"
+      }
+    },
+    {
+      "id": "bc2e743d487a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/bratt-har-ar-de-dyraste-fonderna",
+      "guid": "8c1db5cf-b7c0-592e-b5b1-2e43ec76f3ab",
+      "published_at": "2026-11-19T10:15:25+01:00",
+      "fetched_at": "2026-11-19T10:31:05+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Bratt: Här är de dyraste fonderna",
+        "summary": "Frida Bratt, privatekonomisk expert, om fonderna med högst avgifter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bratt: Here are the most expensive funds",
+        "summary": "Frida Bratt, personal finance expert, on the funds with the highest fees."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:31:11+01:00"
+      }
+    },
     {
       "id": "61c0d5cfea25",
       "schema_version": 1,
@@ -5257,87 +5337,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T08:31:09+01:00"
-      }
-    },
-    {
-      "id": "edb2198e733c",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/northmill-bank-far-sanktionsavgift-fran-fi",
-      "guid": "d05de239-a5de-4861-906c-d841e2f45173",
-      "published_at": "2026-11-18T08:11:25+01:00",
-      "fetched_at": "2026-11-18T08:31:01+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/779624fc-1a5a-4045-a0e6-bb3dcf2ea8c5.jpeg?width=600",
-      "sv": {
-        "title": "Northmill Bank får sanktionsavgift från FI",
-        "summary": "Finansinspektionen (FI) ger Northmill Bank en anmärkning och en sanktionsavgift på 20 miljoner kronor för överträdelser av penningtvättsreglerna. Det framgår av ett pressmeddelande från myndigheten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Northmill Bank receives sanction fee from FI",
-        "summary": "The Financial Supervisory Authority (FI) issues Northmill Bank a reprimand and a sanction fee of SEK 20 million for violations of the anti-money laundering rules. This is stated in a press release from the authority."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T08:31:09+01:00"
-      }
-    },
-    {
-      "id": "e94df4723532",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/fem-saker-att-ha-koll-pa-infor-borsoppningen-osMTH",
-      "guid": "89dc0e6b-4ae1-4031-a6bf-c5e182d402cf",
-      "published_at": "2026-11-18T08:09:02+01:00",
-      "fetched_at": "2026-11-18T08:15:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/c05fd6a3-adce-4f08-9370-956979305c0e.jpeg?width=600",
-      "sv": {
-        "title": "Fem saker att ha koll på inför börsöppningen",
-        "summary": "Europeiska börser och även Stockholmsbörsen går mot öppning med små rörelser enligt terminshandeln. Även i Asien handlas indexen kring oförändrade nivåer efter Nvidiarapporten på tisdagskvällen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Five things to watch ahead of the stock market opening",
-        "summary": "European exchanges and the Stockholm Stock Exchange are heading for an open with small moves according to futures trading. Indexes in Asia are also trading around unchanged levels after Nvidia's report on Tuesday evening."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T08:15:50+01:00"
-      }
-    },
-    {
-      "id": "43ca1cdcb067",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/okad-lonsamhet-for-kopparbergs",
-      "guid": "d3149003-1a92-431d-b4ac-89a6967aa69c",
-      "published_at": "2026-11-18T08:08:43+01:00",
-      "fetched_at": "2026-11-18T08:15:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/5b0e3405-c168-4f6d-aefd-9d8d38827eee.jpeg?width=600",
-      "sv": {
-        "title": "Ökad lönsamhet för Kopparbergs",
-        "summary": "Bryggeriet Kopparbergs ökade omsättningen och lönsamheten under det tredje kvartalet. ”Den positiva utvecklingen visar på styrkan i vårt varumärke”, kommenterar vd:n Peter Bronsman. Hör och se honom i Di TV klockan 8.25.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kopparbergs increases profitability",
-        "summary": "The brewery Kopparbergs increased its turnover and profitability in the third quarter. \"The positive development shows the strength of our brand,\" comments CEO Peter Bronsman. Hear and see him on Di TV at 8.25."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T08:15:50+01:00"
       }
     }
   ]

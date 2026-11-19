@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-19T10:16:03+01:00",
+  "generated_at": "2026-11-19T10:31:12+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a6e58d61e26d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/ford-startar-batteriproduktion-i-usa-med-kina-teknik",
+      "guid": "e67cc0f2-016c-45bb-9f6f-edb48b8bcfb2",
+      "published_at": "2026-11-19T10:22:05+01:00",
+      "fetched_at": "2026-11-19T10:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/132cb0c5-8583-49e6-8418-834f4a975bea.jpeg?width=600",
+      "sv": {
+        "title": "Ford startar batteriproduktion i USA med Kina-teknik",
+        "summary": "Amerikanska fordonsjätten Ford har inlett produktion av battericeller vid sin fabrik i Marshall, Michigan, efter en investering på 3 miljarder dollar. Batterierna ska användas i den kommande eldrivna pickupen Fathom, uppger bolaget i ett pressmeddelande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ford starts battery production in USA with Chinese technology",
+        "summary": "American automaker Ford has begun production of battery cells at its factory in Marshall, Michigan, after an investment of USD 3 billion. The batteries will be used in the upcoming electric Fathom pickup, the company says in a press release."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:31:11+01:00"
+      }
+    },
+    {
+      "id": "f67097d3ecfb",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/finansmannen-brande-100-miljoner-som-byggare-bob",
+      "guid": "c8f72820-1091-4770-b152-b1dd1028789b",
+      "published_at": "2026-11-19T10:20:23+01:00",
+      "fetched_at": "2026-11-19T10:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/28e2c09c-1031-440c-a80c-2aefc56492b6.jpeg?width=600",
+      "sv": {
+        "title": "Finansmannen brände 100 miljoner som ”Byggare Bob”",
+        "summary": "Den norske finansprofilen Jan Petter Sissener, 71, brände närmare 100 miljoner kronor på ett privat fastighetsfiasko. Nu talar hedgefondveteranen ut om självgodheten som ”Byggare Bob” – och varför han spår ett fortsatt börsrally. ”Då kan vi få en ordentlig börsbonanza”, säger han.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Financier burned 100 million as \"Builder Bob\"",
+        "summary": "Norwegian finance figure Jan Petter Sissener, 71, burned nearly SEK 100 million on a private property fiasco. Now the hedge fund veteran speaks out about the self-satisfaction of being \"Builder Bob\" – and why he predicts a continued stock market rally. \"Then we could get a proper stock market bonanza,\" he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:31:11+01:00"
+      }
+    },
+    {
+      "id": "bc2e743d487a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/bratt-har-ar-de-dyraste-fonderna",
+      "guid": "8c1db5cf-b7c0-592e-b5b1-2e43ec76f3ab",
+      "published_at": "2026-11-19T10:15:25+01:00",
+      "fetched_at": "2026-11-19T10:31:05+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Bratt: Här är de dyraste fonderna",
+        "summary": "Frida Bratt, privatekonomisk expert, om fonderna med högst avgifter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bratt: Here are the most expensive funds",
+        "summary": "Frida Bratt, personal finance expert, on the funds with the highest fees."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T10:31:11+01:00"
+      }
+    },
     {
       "id": "61c0d5cfea25",
       "schema_version": 1,
@@ -5217,87 +5297,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T13:01:24+01:00"
-      }
-    },
-    {
-      "id": "f6b2e649c63f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/demonstration-oroar-butiker-hojer-sakerheten",
-      "guid": "15e5816c-5db9-43ef-a235-8e433e42c75c",
-      "published_at": "2026-11-18T12:49:02+01:00",
-      "fetched_at": "2026-11-18T13:01:17+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/309a0947-20c9-4b91-b033-3b1929689914.jpeg?width=600",
-      "sv": {
-        "title": "Demonstration oroar butiker – höjer säkerheten",
-        "summary": "Fredagen den 20 november planeras en demonstration i Stockholm. Bland annat är Ung Vänster och Revolutionär Kommunistisk Ungdom organisatörer. Även grupper som Extinction Rebellion stödjer demonstrationen. Det har fått vissa butiker att höja sin säkerhet i innerstaden. Men polisen är inte orolig.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Demonstration worries shops – raises security",
-        "summary": "A demonstration is planned in Stockholm on Friday 20 November. Ung Vänster and Revolutionär Kommunistisk Ungdom are among the organisers. Groups such as Extinction Rebellion also support the demonstration. This has led some shops in the city centre to raise their security. But the police are not worried."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T13:01:24+01:00"
-      }
-    },
-    {
-      "id": "89c9e283f746",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/ny-gratistjanst-ska-fa-fler-att-samaka-till-evenemanget",
-      "guid": "6e20d396-280b-4aaa-8796-72b81b299e04",
-      "published_at": "2026-11-18T12:37:31+01:00",
-      "fetched_at": "2026-11-18T12:45:46+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/370a1d83-cd7e-49a9-ad82-22459c27aa59.jpeg?width=600",
-      "sv": {
-        "title": "Ny gratistjänst ska få fler att samåka till evenemanget",
-        "summary": "Nu kan alla eventarrangörer i Sverige erbjuda sina besökare samåkning – helt gratis. Göteborg Film Festival och O-ringen är två aktörer som nappat på erbjudandet. Bakom tjänsten står den ideella samåkningsföreningen Skjutsgruppen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New free service to get more people carpooling to events",
-        "summary": "All event organisers in Sweden can now offer their visitors carpooling – completely free. Göteborg Film Festival and O-ringen are two organisers that have taken up the offer. The service is backed by the non-profit carpooling association Skjutsgruppen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T12:45:51+01:00"
-      }
-    },
-    {
-      "id": "176075d7bedb",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/uppgifter-lars-danielsson-blir-ny-sanktionsgeneral-i-eu",
-      "guid": "db70b316-f34f-4f15-985c-71dbf0e37c89",
-      "published_at": "2026-11-18T12:37:04+01:00",
-      "fetched_at": "2026-11-18T12:45:46+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/3eb7f2b6-58c0-4cc2-ba6a-1a44abdf7a94.jpg?width=600",
-      "sv": {
-        "title": "Uppgifter: Lars Danielsson blir ny sanktionsgeneral i EU",
-        "summary": "Förre statssekreteraren och ambassadören Lars Danielsson blir nytt EU-sändebud för sanktioner, enligt uppgifter till nyhetssajten Politico Europe.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: Lars Danielsson to become new EU sanctions envoy",
-        "summary": "Former state secretary and ambassador Lars Danielsson is to become the new EU envoy for sanctions, according to information given to the news site Politico Europe."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T12:45:51+01:00"
       }
     }
   ]
