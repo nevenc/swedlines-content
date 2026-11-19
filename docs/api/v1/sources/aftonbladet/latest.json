@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T06:31:04+01:00",
+  "generated_at": "2026-11-19T06:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "df23c53b5d22",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/wdP431/black-friday-snart-har-nu-varnar-experten-for-bedragerier",
+      "guid": "https://www.aftonbladet.se/nyheter/a/wdP431/black-friday-snart-har-nu-varnar-experten-for-bedragerier?utm_medium=rss",
+      "published_at": "2026-11-19T06:37:47+01:00",
+      "fetched_at": "2026-11-19T06:45:42+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/a043c2da-f945-30a5-923b-e7744cfaddc4?format=auto&s=cdeb79f2f4cb554c0942a4c0e04df3f6c11570a9&w=1000",
+      "sv": {
+        "title": "It-expertens varning inför årets Black Friday",
+        "summary": "”Då vet man om det stämmer”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "IT expert's warning ahead of this year's Black Friday",
+        "summary": "\"Then you'll know if it's true\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T06:45:49+01:00"
+      }
+    },
     {
       "id": "3549c03953cb",
       "schema_version": 1,
@@ -5344,33 +5371,6 @@
       "en": {
         "title": "Foreign minister: Putin's demands are \"absurd\"",
         "summary": "Reports that Russia would demand that Finland, for example, leave NATO are absurd, the minister notes…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:31:08+01:00"
-      }
-    },
-    {
-      "id": "621956d7a906",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/GPGrPB/man-hittad-dod-i-goteborg",
-      "guid": "https://www.aftonbladet.se/nyheter/a/GPGrPB/man-hittad-dod-i-goteborg?utm_medium=rss",
-      "published_at": "2026-11-16T09:16:19+01:00",
-      "fetched_at": "2026-11-16T09:30:58+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/81cab91b-cc98-395a-83fd-9f425d218bdf?format=auto&s=7d4971cf2e91bd913c56aae58b4d42d7f97d262e&w=1000",
-      "sv": {
-        "title": "Man hittad död i Göteborg",
-        "summary": "En man har hittats död i Biskopsgården i Göteborg, skriver polisen på sin sajt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man found dead in Göteborg",
-        "summary": "A man has been found dead in Biskopsgården in Göteborg, the police say on their website."
       },
       "translation": {
         "status": "done",
