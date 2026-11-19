@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-19T20:46:00+01:00",
+  "generated_at": "2026-11-19T21:01:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "54b13e24d8f7",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/manga-paroller-i-berlin-de-tre-maktiga-i-kina-holl-tyst",
+      "guid": "https://www.dn.se/varlden/manga-paroller-i-berlin-de-tre-maktiga-i-kina-holl-tyst/",
+      "published_at": "2026-11-19T20:55:21+01:00",
+      "fetched_at": "2026-11-19T21:01:09+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/bfd7ea26-29d9-4e76-afd2-973f0641fef2.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Många paroller i Berlin – de tre mäktiga i Kina höll tyst",
+        "summary": "BERLIN Medan 35 västledare möttes i Berlin för att tala om Ukraina träffades USA, Kina och Ryssland i Shenzhen. Officiellt nämnde de inte ens Ukraina.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Many slogans in Berlin – the three powers in China stayed silent",
+        "summary": "BERLIN While 35 Western leaders met in Berlin to discuss Ukraine, the USA, China and Russia met in Shenzhen. Officially, they did not even mention Ukraine."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:01:17+01:00"
+      }
+    },
+    {
+      "id": "d09867980f5c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/striden-om-norden-sa-ritas-kartan-om",
+      "guid": "https://www.expressen.se/nyheter/sverige/striden-om-norden-sa-ritas-kartan-om/",
+      "published_at": "2026-11-19T20:42:42+01:00",
+      "fetched_at": "2026-11-19T21:01:11+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Striden om Norden: Så ritas kartan om",
+        "summary": "Från en defensiv försvarslinje vid Lule älv till offensiv strid i Finland. Med ett enkelt karttrick visar överste Magnus Ståhl hur Sveriges försvar i norr har förändrats i grunden med Nato-medlemskapet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The battle for the North: this is how the map is being redrawn",
+        "summary": "From a defensive line at the Lule River to offensive combat in Finland. Using a simple map trick, Colonel Magnus Ståhl shows how Sweden's defence in the north has fundamentally changed with NATO membership."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:01:17+01:00"
+      }
+    },
     {
       "id": "1d7a09161ff2",
       "schema_version": 1,
@@ -5313,60 +5366,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T06:01:29+01:00"
-      }
-    },
-    {
-      "id": "00290a7c666e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/orikets-larm-det-som-drabbar-oss-drabbar-alla",
-      "guid": "41d96519-247c-4b6b-ade0-24623728448a",
-      "published_at": "2026-11-18T04:50:29+01:00",
-      "fetched_at": "2026-11-18T05:01:10+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/7b150ea1-958a-4c42-82cc-c193fcd257e7.jpg?width=600",
-      "sv": {
-        "title": "Örikets larm: ”Det som drabbar oss drabbar alla”",
-        "summary": "För öriket Palau är det livsviktigt att överskridandet av 1,5 graders temperaturökning blir tillfälligt. Nu hoppas landets FN-ambassadör Ilana Seid att klimattoppmötet COP31 levererar. – Vi är väldigt utlämnade åt vädrets makter, säger hon till TT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Island nation's alarm: “What affects us affects everyone”",
-        "summary": "For the island nation of Palau, it is vital that the overshoot of the 1.5-degree temperature rise is temporary. Now the country's UN ambassador Ilana Seid hopes the COP31 climate summit delivers. – We are very exposed to the forces of the weather, she tells TT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T05:01:17+01:00"
-      }
-    },
-    {
-      "id": "0075dd2f543f",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/9Bv8JE/orikets-larm-det-som-drabbar-oss-drabbar-alla",
-      "guid": "https://www.svd.se/a/9Bv8JE/orikets-larm-det-som-drabbar-oss-drabbar-alla?utm_medium=rss",
-      "published_at": "2026-11-18T04:50:15+01:00",
-      "fetched_at": "2026-11-18T05:01:09+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/aea10a71-c761-388e-a82d-da9b8e1012a3?format=auto&s=7cf4b06cadbb9dccd64926a029675ed0a6856634&w=1000",
-      "sv": {
-        "title": "Örikets larm: ”Det som drabbar oss drabbar alla”",
-        "summary": "För öriket Palau är det livsviktigt att överskridandet av 1,5 graders temperaturökning blir…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Island nation's alarm: “What affects us affects everyone”",
-        "summary": "For the island nation of Palau, it is vital that the overshoot of the 1.5-degree temperature rise becomes temporary…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T05:01:17+01:00"
       }
     }
   ]

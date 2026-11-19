@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-19T20:46:00+01:00",
+  "generated_at": "2026-11-19T21:01:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "54b13e24d8f7",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/manga-paroller-i-berlin-de-tre-maktiga-i-kina-holl-tyst",
+      "guid": "https://www.dn.se/varlden/manga-paroller-i-berlin-de-tre-maktiga-i-kina-holl-tyst/",
+      "published_at": "2026-11-19T20:55:21+01:00",
+      "fetched_at": "2026-11-19T21:01:09+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/bfd7ea26-29d9-4e76-afd2-973f0641fef2.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Många paroller i Berlin – de tre mäktiga i Kina höll tyst",
+        "summary": "BERLIN Medan 35 västledare möttes i Berlin för att tala om Ukraina träffades USA, Kina och Ryssland i Shenzhen. Officiellt nämnde de inte ens Ukraina.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Many slogans in Berlin – the three powers in China stayed silent",
+        "summary": "BERLIN While 35 Western leaders met in Berlin to discuss Ukraine, the USA, China and Russia met in Shenzhen. Officially, they did not even mention Ukraine."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:01:17+01:00"
+      }
+    },
+    {
+      "id": "7e621476ddc4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/svt-stjarnan-bygger-sveriges-eget-palantir-",
+      "guid": "https://www.expressen.se/nyheter/sverige/svt-stjarnan-bygger-sveriges-eget-palantir-/",
+      "published_at": "2026-11-19T20:45:59+01:00",
+      "fetched_at": "2026-11-19T21:01:11+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "SVT-stjärnan bygger Sveriges eget Palantir",
+        "summary": "Evelina Anttila, 39, ska skydda Sverige. Med hjälp av hjärnan bakom Spotify bygger hon ett eget Palantir. Men när skattemiljarder från Försvarsmakten kommer på tal blir hon tyst. – Sekretess, hävdar Draknästet-stjärnan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SVT star builds Sweden's own Palantir",
+        "summary": "Evelina Anttila, 39, is to protect Sweden. With the help of the brain behind Spotify, she is building her own Palantir. But when billions in tax money from the Armed Forces come up, she goes quiet. – Secrecy, claims the Draknästet star."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:01:17+01:00"
+      }
+    },
     {
       "id": "61d99f9fe94b",
       "schema_version": 1,
@@ -27,6 +80,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T20:45:59+01:00"
+      }
+    },
+    {
+      "id": "d09867980f5c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/striden-om-norden-sa-ritas-kartan-om",
+      "guid": "https://www.expressen.se/nyheter/sverige/striden-om-norden-sa-ritas-kartan-om/",
+      "published_at": "2026-11-19T20:42:42+01:00",
+      "fetched_at": "2026-11-19T21:01:11+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Striden om Norden: Så ritas kartan om",
+        "summary": "Från en defensiv försvarslinje vid Lule älv till offensiv strid i Finland. Med ett enkelt karttrick visar överste Magnus Ståhl hur Sveriges försvar i norr har förändrats i grunden med Nato-medlemskapet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The battle for the North: this is how the map is being redrawn",
+        "summary": "From a defensive line at the Lule River to offensive combat in Finland. Using a simple map trick, Colonel Magnus Ståhl shows how Sweden's defence in the north has fundamentally changed with NATO membership."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:01:17+01:00"
       }
     },
     {
@@ -106,6 +185,40 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T20:45:59+01:00"
+      }
+    },
+    {
+      "id": "a1d8c458c442",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/mystiskt-ljusfenomen-over-goteborg.c44e4114-552a-5948-a358-dc172ab73029",
+      "guid": "c44e4114-552a-5948-a358-dc172ab73029",
+      "published_at": "2026-11-19T20:34:59+01:00",
+      "fetched_at": "2026-11-19T21:01:12+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: breaking-GP",
+        "Tagg: Försvarsmakten",
+        "Tagg: Hisingen",
+        "Tagg: Göteborg"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/5b5b6ed5-eb5b-3fcf-946d-d75e565e6bd3",
+      "sv": {
+        "title": "Mystiskt ljusfenomen över Göteborg – det låg bakom",
+        "summary": "Starkt sken dök upp • Emma: ”Aldrig sett något liknande”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mysterious light phenomenon over Göteborg – here's what was behind it",
+        "summary": "Strong glow appeared • Emma: \"Never seen anything like it\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:01:17+01:00"
       }
     },
     {
@@ -2530,6 +2643,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T18:31:15+01:00"
+      }
+    },
+    {
+      "id": "150f55cf89cb",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/totalstopp-efter-krock-pa-e4-tva-bilar-inblandade",
+      "guid": "https://www.svt.se/nyheter/lokalt/ost/totalstopp-efter-krock-pa-e4-tva-bilar-inblandade",
+      "published_at": "2026-11-19T18:14:20+01:00",
+      "fetched_at": "2026-11-19T21:01:08+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Fyra personer till sjukhus efter trafikolycka utanför Norrköping",
+        "summary": "Flera trafikolyckor inträdde på torsdagen. Vid en av olyckorna fick fyra personer föras till sjukhus med oklara skador.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Four people taken to hospital after traffic accident outside Norrköping",
+        "summary": "Several traffic accidents occurred on Thursday. In one of the accidents, four people had to be taken to hospital with unclear injuries."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:01:17+01:00"
       }
     },
     {
@@ -5266,143 +5405,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T15:45:59+01:00"
-      }
-    },
-    {
-      "id": "724938c76a9c",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-vansterkaoset-i-savsjo-stolar-star-tomma",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-vansterkaoset-i-savsjo-stolar-star-tomma",
-      "published_at": "2026-11-19T15:38:33+01:00",
-      "fetched_at": "2026-11-19T15:45:41+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Efter vänsterkaoset i Sävsjö – stolar står tomma",
-        "summary": "Trots valframgångarna har Vänsterpartiets två stolar stått tomma i Sävsjö fullmäktige efter valet. Flera av toppnamnen på listan har hoppat av. – Vi har fått stötta en del och det är en del oerfarenhet, säger Kristoffer Wolke som är distriktsordförande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the Left Party chaos in Sävsjö – seats stand empty",
-        "summary": "Despite election gains, the Left Party's two seats have stood empty on the Sävsjö municipal council since the election. Several of the top names on the list have dropped out. – We have had to support a number of people and there is some inexperience, says Kristoffer Wolke, district chair."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
-      }
-    },
-    {
-      "id": "ceb4dbc1f3d3",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/muntert-pa-wall-street-anthropicagare-stiger",
-      "guid": "7dfa1db7-4cbc-403e-85b6-a946bb6a8e72",
-      "published_at": "2026-11-19T15:38:17+01:00",
-      "fetched_at": "2026-11-19T15:45:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/c944c0ac-ded9-4e9c-8e79-85a61fdd9bbf.jpeg?width=600",
-      "sv": {
-        "title": "Muntert på Wall Street – Anthropicägare stiger",
-        "summary": "USA-börserna inleder torsdagen med muntra miner när AI-bolaget Anthropics jättenotering lyfte stämningen. På bolagsnivå klättrar AI-jättens storägare Amazon och Alphabet i den inledande handel.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Cheerful on Wall Street – Anthropic owner rises",
-        "summary": "US stock markets open Thursday in good spirits as the huge listing of AI company Anthropic lifted sentiment. At company level, Amazon and Alphabet, major shareholders in the AI giant, climb in early trading."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
-      }
-    },
-    {
-      "id": "75f9114a5c21",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/fagelinfluensan-kan-paverka-aggproduktion-det-har-behover-du-veta",
-      "guid": "https://www.svt.se/nyheter/lokalt/ost/fagelinfluensan-kan-paverka-aggproduktion-det-har-behover-du-veta",
-      "published_at": "2026-11-19T15:38:01+01:00",
-      "fetched_at": "2026-11-19T15:45:41+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Fågelinfluensan kan påverka äggproduktion – det här behöver du veta",
-        "summary": "Fågelinfluensan är ett hot mot svenska äggproducenter och kan påverka tillgången på ägg. Men för konsumenter finns ingen anledning till oro för att äta ägg, enligt Svenska Ägg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bird flu may affect egg production – what you need to know",
-        "summary": "Bird flu is a threat to Swedish egg producers and may affect the supply of eggs. But there is no reason for consumers to worry about eating eggs, according to Svenska Ägg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
-      }
-    },
-    {
-      "id": "2f3e736a5397",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/krim/misstanken-det-utsattes-eleverna-for-pa-sigtuna",
-      "guid": "https://www.expressen.se/nyheter/krim/misstanken-det-utsattes-eleverna-for-pa-sigtuna/",
-      "published_at": "2026-11-19T15:35:53+01:00",
-      "fetched_at": "2026-11-19T15:45:49+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Misstanken: Det utsattes eleverna för på Sigtuna",
-        "summary": "Sex sistaårselever på Sigtunaskolan har åtalats. Två av dem misstänks för grova brott. Det rör sig om tvång, hot och våld med ”tortyrliknande inslag”. De ska bland annat ha slagit yngre elever med bälten – och tvingat dem göra sugmärken på varandra.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The suspicion: what the pupils at Sigtuna were subjected to",
-        "summary": "Six final-year pupils at Sigtunaskolan have been charged. Two of them are suspected of serious crimes. It concerns coercion, threats and violence with \"torture-like elements\". Among other things, they are alleged to have hit younger pupils with belts and forced them to make suction marks on each other."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
-      }
-    },
-    {
-      "id": "0d1ffc4308c7",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/ifk-goteborg/ifk-goteborgs-nya-plan-med-sportchefen-hampus-andersson.57849473-590f-547c-bb94-6b67f88c49be",
-      "guid": "57849473-590f-547c-bb94-6b67f88c49be",
-      "published_at": "2026-11-19T15:35:30+01:00",
-      "fetched_at": "2026-11-19T16:01:29+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "IFK Göteborg",
-        "Tagg: IFK Göteborg",
-        "Tagg: Fotboll"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/1ce43009-d152-33cc-89aa-8c09140fab97",
-      "sv": {
-        "title": "Det vill Blåvitt förändra – med nya sportchefen",
-        "summary": "Blåvitts ordförande: ”Från och med nu ska IFK Göteborg jobba så”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "That is what Blåvitt wants to change – with the new sporting director",
-        "summary": "Blåvitt chairman: \"From now on IFK Göteborg must work like that.\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:01:34+01:00"
       }
     }
   ]

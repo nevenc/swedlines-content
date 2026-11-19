@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-19T20:46:00+01:00",
+  "generated_at": "2026-11-19T21:01:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7e621476ddc4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/svt-stjarnan-bygger-sveriges-eget-palantir-",
+      "guid": "https://www.expressen.se/nyheter/sverige/svt-stjarnan-bygger-sveriges-eget-palantir-/",
+      "published_at": "2026-11-19T20:45:59+01:00",
+      "fetched_at": "2026-11-19T21:01:11+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "SVT-stjärnan bygger Sveriges eget Palantir",
+        "summary": "Evelina Anttila, 39, ska skydda Sverige. Med hjälp av hjärnan bakom Spotify bygger hon ett eget Palantir. Men när skattemiljarder från Försvarsmakten kommer på tal blir hon tyst. – Sekretess, hävdar Draknästet-stjärnan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SVT star builds Sweden's own Palantir",
+        "summary": "Evelina Anttila, 39, is to protect Sweden. With the help of the brain behind Spotify, she is building her own Palantir. But when billions in tax money from the Armed Forces come up, she goes quiet. – Secrecy, claims the Draknästet star."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:01:17+01:00"
+      }
+    },
+    {
+      "id": "d09867980f5c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/striden-om-norden-sa-ritas-kartan-om",
+      "guid": "https://www.expressen.se/nyheter/sverige/striden-om-norden-sa-ritas-kartan-om/",
+      "published_at": "2026-11-19T20:42:42+01:00",
+      "fetched_at": "2026-11-19T21:01:11+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Striden om Norden: Så ritas kartan om",
+        "summary": "Från en defensiv försvarslinje vid Lule älv till offensiv strid i Finland. Med ett enkelt karttrick visar överste Magnus Ståhl hur Sveriges försvar i norr har förändrats i grunden med Nato-medlemskapet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The battle for the North: this is how the map is being redrawn",
+        "summary": "From a defensive line at the Lule River to offensive combat in Finland. Using a simple map trick, Colonel Magnus Ståhl shows how Sweden's defence in the north has fundamentally changed with NATO membership."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:01:17+01:00"
+      }
+    },
     {
       "id": "10bbcccfde1f",
       "schema_version": 1,
@@ -5139,58 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T12:31:21+01:00"
-      }
-    },
-    {
-      "id": "6f7fce9124d8",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/nasas-uppmaning-halsa-till-voyager-1-pa-ettdygnsdagen",
-      "guid": "https://www.expressen.se/nyheter/varlden/nasas-uppmaning-halsa-till-voyager-1-pa-ettdygnsdagen/",
-      "published_at": "2026-11-16T12:04:16+01:00",
-      "fetched_at": "2026-11-16T12:15:41+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "Nasas uppmaning – hälsa till Voyager 1 på ettdygnsdagen",
-        "summary": "Grattis på ettdygnsdagen! Efter 49 år är rymdfarkosten Voyager 1 ett ljusdygn från jorden. Nu uppmanar Nasa alla att skicka en hälsning. Så går du tillväga.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nasa urges greetings to Voyager 1 on its one-day anniversary",
-        "summary": "Happy one-day anniversary! After 49 years, the spacecraft Voyager 1 is one light-day from Earth. Nasa now urges everyone to send a greeting. Here's how to do it."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:15:47+01:00"
-      }
-    },
-    {
-      "id": "d3d531e1a784",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/krim/antonia-44-dog-efter-hundattack-nu-doms-flickvannen",
-      "guid": "https://www.expressen.se/nyheter/krim/antonia-44-dog-efter-hundattack-nu-doms-flickvannen/",
-      "published_at": "2026-11-16T11:48:41+01:00",
-      "fetched_at": "2026-11-16T12:01:14+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Antonia, 44, dog efter hundattack – nu döms flickvännen",
-        "summary": "I samband med ett bråk gick flickvännens kamphund till attack. Antonia, 44, förblödde i badrummet medan flickvännen väntade med att larma. Flickvännen döms nu till fängelse.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Antonia, 44, died after dog attack – girlfriend now sentenced",
-        "summary": "During an argument, the girlfriend's fighting dog attacked. Antonia, 44, bled to death in the bathroom while the girlfriend waited to raise the alarm. The girlfriend is now sentenced to prison."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T12:01:23+01:00"
       }
     }
   ]

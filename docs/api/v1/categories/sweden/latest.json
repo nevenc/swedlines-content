@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-11-19T20:46:00+01:00",
+  "generated_at": "2026-11-19T21:01:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a1d8c458c442",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/mystiskt-ljusfenomen-over-goteborg.c44e4114-552a-5948-a358-dc172ab73029",
+      "guid": "c44e4114-552a-5948-a358-dc172ab73029",
+      "published_at": "2026-11-19T20:34:59+01:00",
+      "fetched_at": "2026-11-19T21:01:12+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: breaking-GP",
+        "Tagg: Försvarsmakten",
+        "Tagg: Hisingen",
+        "Tagg: Göteborg"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/5b5b6ed5-eb5b-3fcf-946d-d75e565e6bd3",
+      "sv": {
+        "title": "Mystiskt ljusfenomen över Göteborg – det låg bakom",
+        "summary": "Starkt sken dök upp • Emma: ”Aldrig sett något liknande”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mysterious light phenomenon over Göteborg – here's what was behind it",
+        "summary": "Strong glow appeared • Emma: \"Never seen anything like it\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:01:17+01:00"
+      }
+    },
     {
       "id": "16508760a386",
       "schema_version": 1,
@@ -162,6 +196,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T18:31:15+01:00"
+      }
+    },
+    {
+      "id": "150f55cf89cb",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/totalstopp-efter-krock-pa-e4-tva-bilar-inblandade",
+      "guid": "https://www.svt.se/nyheter/lokalt/ost/totalstopp-efter-krock-pa-e4-tva-bilar-inblandade",
+      "published_at": "2026-11-19T18:14:20+01:00",
+      "fetched_at": "2026-11-19T21:01:08+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Fyra personer till sjukhus efter trafikolycka utanför Norrköping",
+        "summary": "Flera trafikolyckor inträdde på torsdagen. Vid en av olyckorna fick fyra personer föras till sjukhus med oklara skador.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Four people taken to hospital after traffic accident outside Norrköping",
+        "summary": "Several traffic accidents occurred on Thursday. In one of the accidents, four people had to be taken to hospital with unclear injuries."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T21:01:17+01:00"
       }
     },
     {
@@ -5338,60 +5398,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T21:31:04+01:00"
-      }
-    },
-    {
-      "id": "465fbf05945a",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/200-000-hons-avlivade-i-halmstad",
-      "guid": "2f520e5d-8039-4ca9-903b-44765f199638",
-      "published_at": "2026-11-16T21:14:42+01:00",
-      "fetched_at": "2026-11-16T21:15:49+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/85e861ad-e7bc-428b-b66b-0c5a6bb71372.jpg?width=600",
-      "sv": {
-        "title": "200 000 höns avlivade i Halmstad",
-        "summary": "Omkring 200 000 höns har avlivats efter att det smittsamma fågelviruset newcastlesjukan upptäckts hos en äggproducent i Eldsberga, rapporterar Hallandsposten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "200,000 hens culled in Halmstad",
-        "summary": "About 200,000 hens have been culled after the highly contagious bird virus Newcastle disease was detected at an egg producer in Eldsberga, Hallandsposten reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T21:15:56+01:00"
-      }
-    },
-    {
-      "id": "94a8e3c33dab",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/j3dOgb/200-000-hons-avlivade-i-halmstad",
-      "guid": "https://www.aftonbladet.se/nyheter/a/j3dOgb/200-000-hons-avlivade-i-halmstad?utm_medium=rss",
-      "published_at": "2026-11-16T21:06:06+01:00",
-      "fetched_at": "2026-11-16T21:15:46+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/bee2040f-03f4-3104-8acd-d97bb99f71dc?format=auto&s=b5ad81fab7212f331a99ce36b79967bfd19ae749&w=1000",
-      "sv": {
-        "title": "200 000 höns avlivade i Halmstad",
-        "summary": "Omkring 200 000 höns har avlivats efter att det smittsamma fågelviruset newcastlesjukan upptäckts…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "200,000 hens culled in Halmstad",
-        "summary": "About 200,000 hens have been culled after the highly contagious bird virus Newcastle disease was detected at an egg producer in Eldsberga…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T21:15:56+01:00"
       }
     }
   ]
