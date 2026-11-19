@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T18:01:30+01:00",
+  "generated_at": "2026-11-19T18:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "98804d9c57ad",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/flocken-ar-ett-ovanligt-sjalvklart-debutalbum",
+      "guid": "https://www.dn.se/kultur/flocken-ar-ett-ovanligt-sjalvklart-debutalbum/",
+      "published_at": "2026-11-19T18:06:01+01:00",
+      "fetched_at": "2026-11-19T18:15:46+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/3aedba99-e0ad-4801-ae97-b95a7dfc9d62.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "”Flocken” är ett ovanligt självklart debutalbum",
+        "summary": "Sofia HK gör ett strålande försök att tonsätta själens relation till en stillsam natur och en urbaniserad samtid. DN:s Mattias Dahlström lyssnar på ett debutalbum med folkmusik och triphop-pop, där urskogen är ständigt närvarande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Flocken\" is an unusually natural debut album",
+        "summary": "Sofia HK makes a brilliant attempt to set to music the soul's relationship with a quiet nature and a urbanised present. DN's Mattias Dahlström listens to a debut album of folk music and triphop pop, in which the primeval forest is constantly present."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T18:15:54+01:00"
+      }
+    },
     {
       "id": "e53169059e8c",
       "schema_version": 1,
@@ -5598,33 +5625,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T07:01:17+01:00"
-      }
-    },
-    {
-      "id": "b67b11ab386d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/alla-heter-allan-i-malmos-nya-korvkrig",
-      "guid": "afd17518-0a71-4cd7-aab0-ff69db29da74",
-      "published_at": "2026-11-17T06:31:00+01:00",
-      "fetched_at": "2026-11-17T06:45:40+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/98a100a1-9d32-426c-a311-1fc32de08cf4.jpeg?width=600",
-      "sv": {
-        "title": "Alla heter Allan i Malmös nya korvkrig",
-        "summary": "Alla heter plötsligt Allan. I ena ringhörnan klassiska Allans korv intill Stadion, i andra nyöppnade Allans grill på Segevång. – Grillen säljer shawarma och falafel och sån skit, säger Burim Zuta på Allans korv.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Everyone is called Allan in Malmö's new sausage war",
-        "summary": "Suddenly everyone is called Allan. In one corner, classic Allans korv next to the stadium, in the other, newly opened Allans grill in Segevång. \"The grill sells shawarma and falafel and such crap,\" says Burim Zuta of Allans korv."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:45:44+01:00"
       }
     }
   ]
