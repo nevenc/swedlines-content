@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T07:31:06+01:00",
+  "generated_at": "2026-11-19T07:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bdb1c8b6075f",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/radet-efter-gta-slappet-vaga-vara-foralder",
+      "guid": "8741a04b-1032-40e3-a5c0-b2d4bddca954",
+      "published_at": "2026-11-19T07:42:08+01:00",
+      "fetched_at": "2026-11-19T07:45:49+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/a186f70f-5013-4968-a77a-6201991bf52a.jpg?width=600",
+      "sv": {
+        "title": "Rådet efter ”GTA”-släppet: Våga vara förälder",
+        "summary": "I dag släpps ”GTA VI”. Våld, sex och droger har gjort att spelet har 18-årsgräns – men hur gör man om barnen vill spela ändå?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Advice after the \"GTA\" release: Dare to be a parent",
+        "summary": "\"GTA VI\" is released today. Violence, sex and drugs have led to an 18 age limit for the game – but what do you do if the children want to play anyway?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:45:55+01:00"
+      }
+    },
     {
       "id": "9415b54d1899",
       "schema_version": 1,
@@ -5591,33 +5618,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T11:00:46+01:00"
-      }
-    },
-    {
-      "id": "61b329aef2cf",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/johan-croneman-jag-saknar-nar-svt-speglade-folkets-vrede-over-fiaskot",
-      "guid": "https://www.dn.se/kultur/johan-croneman-jag-saknar-nar-svt-speglade-folkets-vrede-over-fiaskot/",
-      "published_at": "2026-11-16T10:25:33+01:00",
-      "fetched_at": "2026-11-16T10:30:56+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/3c0e5c86-4ba2-4f49-81b2-52ebb0ff726f.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Johan Croneman: Jag saknar när SVT speglade folkets vrede över fiaskot",
-        "summary": "Svenska folket får bära dumstruten när politikerna misslyckas med regeringsbildningen. Man saknar de gamla debattprogrammen där ”vanligt folks” ilska fick komma till tals, skriver Johan Croneman.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Johan Croneman: I miss when SVT reflected the public's anger over the fiasco",
-        "summary": "The Swedish people have to bear the blame when politicians fail at government formation. The old debate programmes, where \"ordinary people's\" anger got a voice, are missed, writes Johan Croneman."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T10:31:07+01:00"
       }
     }
   ]

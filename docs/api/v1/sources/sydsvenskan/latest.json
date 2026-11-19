@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-19T07:31:06+01:00",
+  "generated_at": "2026-11-19T07:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bdb1c8b6075f",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/radet-efter-gta-slappet-vaga-vara-foralder",
+      "guid": "8741a04b-1032-40e3-a5c0-b2d4bddca954",
+      "published_at": "2026-11-19T07:42:08+01:00",
+      "fetched_at": "2026-11-19T07:45:49+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/a186f70f-5013-4968-a77a-6201991bf52a.jpg?width=600",
+      "sv": {
+        "title": "Rådet efter ”GTA”-släppet: Våga vara förälder",
+        "summary": "I dag släpps ”GTA VI”. Våld, sex och droger har gjort att spelet har 18-årsgräns – men hur gör man om barnen vill spela ändå?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Advice after the \"GTA\" release: Dare to be a parent",
+        "summary": "\"GTA VI\" is released today. Violence, sex and drugs have led to an 18 age limit for the game – but what do you do if the children want to play anyway?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:45:55+01:00"
+      }
+    },
     {
       "id": "d861d607984a",
       "schema_version": 1,
@@ -5095,29 +5122,6 @@
       "en": {
         "title": "Bert Sundström leaves SVT",
         "summary": "Journalist Bert Sundström is leaving SVT after 36 years, SVT Nyheter reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:41:27+01:00"
-      }
-    },
-    {
-      "id": "08324b8c8570",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/169-kvadratmeter-stort-hus-for-8-9-miljoner",
-      "guid": "07f04dd5-f026-4d6f-abc6-376c75e3897f",
-      "published_at": "2026-11-17T08:35:46+01:00",
-      "fetched_at": "2026-11-17T08:41:22+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "169 kvadratmeter stort hus för 8,9 miljoner"
-      },
-      "en": {
-        "title": "169 square metre house for SEK 8.9 million"
       },
       "translation": {
         "status": "done",

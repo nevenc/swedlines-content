@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-19T07:31:06+01:00",
+  "generated_at": "2026-11-19T07:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4823bfc3dd77",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/dalarna/naturskyddsforeningen-overklagar-vargjakten-hor-hemma-i-svensk-natur",
+      "guid": "https://www.svt.se/nyheter/lokalt/dalarna/naturskyddsforeningen-overklagar-vargjakten-hor-hemma-i-svensk-natur",
+      "published_at": "2026-11-19T07:33:37+01:00",
+      "fetched_at": "2026-11-19T07:45:42+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Naturskyddsföreningen överklagar vargjakten: ”Hör hemma i svensk natur”",
+        "summary": "Naturskyddsföreningen överklagar nästa års licensjakt på varg. – Vargen hör hemma i den svenska naturen. Vi har ett ansvar för att den ska finnas kvar, säger generalsekreterare Beatrice Rindevall till TT.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish Society for Nature Conservation appeals wolf hunt: \"Belongs in Swedish nature\"",
+        "summary": "The Swedish Society for Nature Conservation is appealing next year's licensed wolf hunt. \"The wolf belongs in Swedish nature. We have a responsibility to ensure it remains,\" says Secretary General Beatrice Rindevall to TT."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:45:55+01:00"
+      }
+    },
+    {
+      "id": "65f97651b309",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/beslutet-sis-stanger-vemyra-i-solleftea",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/beslutet-sis-stanger-vemyra-i-solleftea",
+      "published_at": "2026-11-19T07:27:07+01:00",
+      "fetched_at": "2026-11-19T07:45:42+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Beslutet: SiS stänger Vemyra i Sollefteå",
+        "summary": "Ungdomshemmet Vemyra stängs. Det står klart efter att SiS beslutat att inte överklaga Kammarrättens dom.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Decision: SiS closes Vemyra in Sollefteå",
+        "summary": "The Vemyra youth home is closing. This is clear after SiS decided not to appeal the Court of Appeal's ruling."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-19T07:45:55+01:00"
+      }
+    },
     {
       "id": "4d4ec8cb56a5",
       "schema_version": 1,
@@ -5141,58 +5193,6 @@
       "en": {
         "title": "Darth Vader's lightsaber sold for millions",
         "summary": "The lightsaber from the Star Wars films 'The Empire Strikes Back' and 'Return of the Jedi' has been sold for close to SEK 50 million."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "85fdbf9cf3e9",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/v-valjare-hellre-regering-utan-vansterpartiet-an-extraval",
-      "guid": "https://www.svt.se/nyheter/inrikes/v-valjare-hellre-regering-utan-vansterpartiet-an-extraval",
-      "published_at": "2026-11-12T21:07:45+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "V-väljare: Hellre regering utan Vänsterpartiet än extraval",
-        "summary": "V-väljare ser helst en rödgrön fyrpartiregering – men om valet står mellan ett extraval eller stå utanför en regering med S, MP och C, då föredrar de det senare. Det visar en mätning som Indikator opinion gjort för SVT:s räkning.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "V voters: Rather a government without the Left Party than a snap election",
-        "summary": "V voters would most like to see a red-green four-party government – but if the choice is between a snap election or standing outside a government of S, MP and C, they prefer the latter. That is shown by a poll Indikator opinion conducted for SVT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "68e50bd0e09b",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/fotboll/hjalmar-ekdal-om-mardromsstarten-galet",
-      "guid": "https://www.svt.se/sport/fotboll/hjalmar-ekdal-om-mardromsstarten-galet",
-      "published_at": "2026-11-12T20:15:51+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Hjalmar Ekdal om mardrömsstarten: ”Galet”",
-        "summary": "Burnley ramlade ur Premier League. Nu huserar man i botten av Championship. – Det är galet, säger landslagsbacken Hjalmar Ekdal till SVT Sport.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hjalmar Ekdal on the nightmare start: 'Crazy'",
-        "summary": "Burnley dropped out of the Premier League. Now they sit at the bottom of the Championship. – It is crazy, national team defender Hjalmar Ekdal tells SVT Sport."
       },
       "translation": {
         "status": "done",
