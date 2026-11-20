@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T13:15:53+01:00",
+  "generated_at": "2026-11-20T13:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fdb4899e60d0",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/svahn-och-grahn-starkas-i-skidpremiaren-ringrostig",
+      "guid": "https://www.dn.se/sport/svahn-och-grahn-starkas-i-skidpremiaren-ringrostig/",
+      "published_at": "2026-11-20T13:24:14+01:00",
+      "fetched_at": "2026-11-20T13:31:01+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/60b258df-17e3-45bb-a150-c439c4cbf492.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Svahn och Grahn starkas i skidpremiären: ”Ringrostig”",
+        "summary": "Linn Svahn fick slita i semifinalen – men knäckte alla konkurrenter i finalen. Och vann sin första Sverigepremiär. – Det är en skön känsla, säger hon till SVT efter segern i sprintpremiären.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Svahn and Grahn shine in the Swedish season opener: “Rusty”",
+        "summary": "Linn Svahn had to struggle in the semi-final but beat all rivals in the final and won her first Swedish season opener. – It's a nice feeling, she tells SVT after winning the sprint opener."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:31:20+01:00"
+      }
+    },
     {
       "id": "454daad532b7",
       "schema_version": 1,
@@ -5585,33 +5612,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:58:20+01:00"
-      }
-    },
-    {
-      "id": "437f99c47360",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/GPG3J4/nations-league-matchen-bosnien-mot-sverige-tusentals-hitresta-fans",
-      "guid": "https://www.svd.se/a/GPG3J4/nations-league-matchen-bosnien-mot-sverige-tusentals-hitresta-fans?utm_medium=rss",
-      "published_at": "2026-11-14T17:22:26+01:00",
-      "fetched_at": "2026-11-14T18:42:02+01:00",
-      "category": "sports",
-      "image_url": "https://akamai.vgc.no/v2/images/5558cd13-d953-3519-8b57-15025e60c0e0?format=auto&s=63b9941231d31da2ce0f74205079e10d9f11e3da&w=1000",
-      "sv": {
-        "title": "I kväll hejar nästan alla på bortalaget: ”Magiskt”",
-        "summary": "40 000 bosniska supportrar väntas till kvällens match mot Sverige. ”Resultatet är sekundärt, det är…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tonight almost everyone is cheering for the away team: \"Magical\"",
-        "summary": "40,000 Bosnian supporters are expected at tonight's match against Sweden. \"The result is secondary, it is…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:32+01:00"
       }
     }
   ]

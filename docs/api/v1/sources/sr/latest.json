@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T13:15:53+01:00",
+  "generated_at": "2026-11-20T13:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bccdf1572cef",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347118",
+      "guid": "rss:sr.se/article/9347118",
+      "published_at": "2026-11-20T13:16:00+01:00",
+      "fetched_at": "2026-11-20T13:31:00+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ulf Kristersson om Donald Trumps samtal: ”Skällde inte”",
+        "summary": "Donald Trump ska via ett telefonsamtal ha uppmanat länder att avsluta sitt Ukrainastöd, rapporterar The Telegraph. Ulf Kristersson (M) bekräftar telefonsamtalet: ”Det är lite udda”, säger statsministern i P4 Extra och fortsätter: ”Men han skällde absolut inte ut någon”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ulf Kristersson on Donald Trump's call: “He didn't rant”",
+        "summary": "Donald Trump is reported by The Telegraph to have urged countries via a phone call to end their Ukraine aid. Ulf Kristersson (M) confirms the phone call: “It's a bit odd”, the prime minister says on P4 Extra, and continues: “But he absolutely didn't rant at anyone.”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:31:20+01:00"
+      }
+    },
     {
       "id": "7de29dcabf59",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "LO members on the government formation: \"Grown-up daycare\"",
         "summary": "LO chair Johan Lindholm reacts with frustration to the protracted government process. \"I have spent a lot of time at workplaces across the country before election day and heard frustration that it was more about who takes whom."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:52+01:00"
-      }
-    },
-    {
-      "id": "e157a5e5b3e8",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340793",
-      "guid": "rss:sr.se/article/9340793",
-      "published_at": "2026-11-14T06:07:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Pensionspengar kopplas till israeliska bosättningar",
-        "summary": "AP-fonderna, Sveriges allmänna pensionsfonder, har investerat uppemot nio miljarder kronor i bolag som enligt FN har verksamhet kopplad till israeliska bosättningar på ockuperad palestinsk mark.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Pension money linked to Israeli settlements",
-        "summary": "The AP funds, Sweden's national pension funds, have invested up to nine billion kronor in companies that, according to the UN, have operations linked to Israeli settlements on occupied Palestinian land."
       },
       "translation": {
         "status": "done",
