@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T15:31:10+01:00",
+  "generated_at": "2026-11-20T15:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "aa4cdbca54a6",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347184",
+      "guid": "rss:sr.se/article/9347184",
+      "published_at": "2026-11-20T15:38:00+01:00",
+      "fetched_at": "2026-11-20T15:45:44+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Swedfund lånar en miljard för investeringar i utvecklingsländer",
+        "summary": "Det statliga investeringsbolaget Swedfund lånar 1 miljard kronor från pensionsbolagen Skandia, Kåpan och SPP i form av en olistad obligation, tecknad på fem år. Samtidigt granskas bolaget av Riksrevisionen, som pekar på tidigare brister i Swedfunds uppföljningsarbete.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Swedfund borrows one billion for investments in developing countries",
+        "summary": "The state-owned investment company Swedfund is borrowing SEK 1 billion from the pension companies Skandia, Kåpan and SPP in the form of an unlisted bond, subscribed for five years. At the same time, the company is being scrutinised by the National Audit Office, which points to earlier shortcomings in Swedfund's follow-up work."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T15:45:52+01:00"
+      }
+    },
     {
       "id": "d1da7c331719",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Magdalena Andersson: V is ready to take part in negotiations",
         "summary": "The Social Democrats want to form a government with the Centre Party and the Green Party in cooperation with the Left Party, Magdalena Andersson writes in a debate article in Expressen. According to Andersson, the Left Party has made clear that it too is ready to take part in these negotiations."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "58fe132834a4",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340576",
-      "guid": "rss:sr.se/article/9340576",
-      "published_at": "2026-11-14T12:43:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nvidia pressas hårt – frågetecken kring intäkter från Kina",
-        "summary": "Det har varit en mycket skakig vecka för den amerikanska chipjätten Nvidia. Vd Jensen Huang har avgått efter flera påstådda otrohetsaffärer, varav en med en misstänkt kinesisk spion. Även nästa vecka väntas bjuda på dramatik.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Nvidia under heavy pressure – question marks over revenue from China",
-        "summary": "It has been a very shaky week for the American chip giant Nvidia. CEO Jensen Huang has resigned after several alleged infidelity affairs, one of them with a suspected Chinese spy. Further drama is expected next week as well."
       },
       "translation": {
         "status": "done",

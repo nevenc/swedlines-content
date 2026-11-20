@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T15:31:10+01:00",
+  "generated_at": "2026-11-20T15:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c46e70e323c2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/c-ilska-mot-v-i-samtalen-det-ar-direkt-oseriost",
+      "guid": "https://www.expressen.se/nyheter/politik/c-ilska-mot-v-i-samtalen-det-ar-direkt-oseriost/",
+      "published_at": "2026-11-20T15:40:41+01:00",
+      "fetched_at": "2026-11-20T15:45:45+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-ilska mot V i samtalen: ”Det är direkt oseriöst”",
+        "summary": "Centerpartiet dömer ut V:s agerande i samtalen om en ny rödgrön regering. – Det verkar som att de vill krascha förhandlingarna genom skitsnack och att lägga skulden på Centerpartiet, säger Rickard Nordin (C). Mikael Damberg (S) uppmanar alla att ta ansvar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre anger at V in talks: \"This is downright unserious\"",
+        "summary": "The Centre Party condemns the Left Party's conduct in talks on a new red-green government. \"It seems they want to crash the negotiations through nonsense and to blame the Centre Party,\" says Rickard Nordin (C). Mikael Damberg (S) urges everyone to take responsibility."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T15:45:52+01:00"
+      }
+    },
     {
       "id": "32ce0ea29d31",
       "schema_version": 1,
@@ -5384,33 +5410,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T23:01:13+01:00"
-      }
-    },
-    {
-      "id": "be1467e7e9ae",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/QgvpW4/centern-sticker-ut-till-hoger-om-moderaterna",
-      "guid": "https://www.svd.se/a/QgvpW4/centern-sticker-ut-till-hoger-om-moderaterna?utm_medium=rss",
-      "published_at": "2026-11-16T22:22:16+01:00",
-      "fetched_at": "2026-11-16T22:31:09+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/6fbff591-8aed-3483-b4b3-af64446a66d6?format=auto&s=086b0585f66e777e32c078a1077c4e740af1daaf&w=1000",
-      "sv": {
-        "title": "Centern sticker ut – till höger om Moderaterna",
-        "summary": "Att bilda en ny regering har visat sig svårt. Men att enas om en gemensam ekonomisk politik kan bli…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Party stands out – to the right of the Moderates",
-        "summary": "Forming a new government has proven difficult. But agreeing on a common economic policy may become…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T22:31:17+01:00"
       }
     }
   ]

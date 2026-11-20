@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T15:31:10+01:00",
+  "generated_at": "2026-11-20T15:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7c6cabc5a048",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/anthropic-rasar-sochp-500-faller-for-sjunde-dagen-i-rad",
+      "guid": "49b91e8e-40a2-4c05-b5f6-b593c64d90f5",
+      "published_at": "2026-11-20T15:33:51+01:00",
+      "fetched_at": "2026-11-20T15:45:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0c6de097-df97-439c-9867-f6e39753955b.jpeg?width=600",
+      "sv": {
+        "title": "Anthropic rasar – S&P 500 faller för sjunde dagen i rad",
+        "summary": "USA-börserna var på ett fortsatt uselt humör i fredagens inledande handel. AI-jätten Anthropic fick en smakstart på karriären som noterat på bolag, men på fredagen var det andra bollar och aktien rasar i den inledande handeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic plunges – S&P 500 falls for seventh day in a row",
+        "summary": "US exchanges were in a continued dismal mood in Friday's opening trade. AI giant Anthropic got a rocky start to its career as a listed company, but on Friday it was a different story, and the share is plunging in early trading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T15:45:52+01:00"
+      }
+    },
     {
       "id": "10518e07cccf",
       "schema_version": 1,
@@ -5293,33 +5320,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T12:45:56+01:00"
-      }
-    },
-    {
-      "id": "d29be8c2a01f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/riskkapitalisten-anthropics-aktie-ar-overvarderad",
-      "guid": "2b83eff6-b9d1-41ee-a8a9-c7475f898a68",
-      "published_at": "2026-11-19T12:23:02+01:00",
-      "fetched_at": "2026-11-19T12:31:08+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/3b26e30d-afb6-4238-9550-2d5d2648e9dc.jpeg?width=600",
-      "sv": {
-        "title": "Riskkapitalisten: Anthropics aktie är övervärderad",
-        "summary": "NEW YORK. Anthropic är för högt värderat, anser Angela Lee, riskkapitalist och professor vid Columbia Business School i New York. Hon varnar för att ryckas med av en inledande kursrusning i AI-bolaget, men menar att torsdagens notering ge ny fart åt riskkapitalmarknaden som länge väntat på att få…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Venture capitalist: Anthropic's stock is overvalued",
-        "summary": "NEW YORK. Anthropic is valued too highly, believes Angela Lee, venture capitalist and professor at Columbia Business School in New York. She warns against being swept along by an initial share price surge in the AI company, but argues that Thursday's listing will give new momentum to the venture capital market, which has long been waiting to get…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T12:31:18+01:00"
       }
     }
   ]

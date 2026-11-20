@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-20T15:31:10+01:00",
+  "generated_at": "2026-11-20T15:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "aa4cdbca54a6",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347184",
+      "guid": "rss:sr.se/article/9347184",
+      "published_at": "2026-11-20T15:38:00+01:00",
+      "fetched_at": "2026-11-20T15:45:44+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Swedfund lånar en miljard för investeringar i utvecklingsländer",
+        "summary": "Det statliga investeringsbolaget Swedfund lånar 1 miljard kronor från pensionsbolagen Skandia, Kåpan och SPP i form av en olistad obligation, tecknad på fem år. Samtidigt granskas bolaget av Riksrevisionen, som pekar på tidigare brister i Swedfunds uppföljningsarbete.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Swedfund borrows one billion for investments in developing countries",
+        "summary": "The state-owned investment company Swedfund is borrowing SEK 1 billion from the pension companies Skandia, Kåpan and SPP in the form of an unlisted bond, subscribed for five years. At the same time, the company is being scrutinised by the National Audit Office, which points to earlier shortcomings in Swedfund's follow-up work."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T15:45:52+01:00"
+      }
+    },
+    {
+      "id": "14ed8c622f6d",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/lMAmP7/anthropic-faller-tillbaka-mot-nollpunkten",
+      "guid": "https://www.svd.se/a/lMAmP7/anthropic-faller-tillbaka-mot-nollpunkten?utm_medium=rss",
+      "published_at": "2026-11-20T15:35:32+01:00",
+      "fetched_at": "2026-11-20T15:45:45+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/609ad5ba-4689-36de-9649-c4515eb9b194?format=auto&s=96624417c52dab807c89d992231b683505410c58&w=1000",
+      "sv": {
+        "title": "Anthropic faller tillbaka mot nollpunkten",
+        "summary": "New York-börsen inleder fredagen med röda siffror. Oro i den AI-kopplade sektorn sänker återigen…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic slides back towards zero",
+        "summary": "The New York stock exchange opens Friday in the red. Concern in the AI-linked sector again pushes down…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T15:45:52+01:00"
+      }
+    },
+    {
+      "id": "7c6cabc5a048",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/anthropic-rasar-sochp-500-faller-for-sjunde-dagen-i-rad",
+      "guid": "49b91e8e-40a2-4c05-b5f6-b593c64d90f5",
+      "published_at": "2026-11-20T15:33:51+01:00",
+      "fetched_at": "2026-11-20T15:45:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0c6de097-df97-439c-9867-f6e39753955b.jpeg?width=600",
+      "sv": {
+        "title": "Anthropic rasar – S&P 500 faller för sjunde dagen i rad",
+        "summary": "USA-börserna var på ett fortsatt uselt humör i fredagens inledande handel. AI-jätten Anthropic fick en smakstart på karriären som noterat på bolag, men på fredagen var det andra bollar och aktien rasar i den inledande handeln.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic plunges – S&P 500 falls for seventh day in a row",
+        "summary": "US exchanges were in a continued dismal mood in Friday's opening trade. AI giant Anthropic got a rocky start to its career as a listed company, but on Friday it was a different story, and the share is plunging in early trading."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T15:45:52+01:00"
+      }
+    },
     {
       "id": "10518e07cccf",
       "schema_version": 1,
@@ -5222,85 +5302,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T18:01:29+01:00"
-      }
-    },
-    {
-      "id": "4c0ccf601749",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/europaborserna-vande-till-rott",
-      "guid": "d7944b4e-1882-4011-8edf-9102901b1a01",
-      "published_at": "2026-11-19T17:39:02+01:00",
-      "fetched_at": "2026-11-19T17:45:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Europabörserna vände till rött",
-        "summary": "Europabörserna hade backat på bred front när handeln summerades, efter en eftermiddagsdipp för flera av världsbörserna. Det regionala samlingsindexet var ned 0,8 procent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "European stock exchanges turn red",
-        "summary": "European stock exchanges had fallen across the board when trading was summed up, after an afternoon dip for several of the world's stock exchanges. The regional composite index was down 0.8 percent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:45:54+01:00"
-      }
-    },
-    {
-      "id": "217bd31871ac",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/stockholmsborsen-foll-tillbaka-truecaller-rusade",
-      "guid": "de6ca307-b1f4-4671-a795-a4bb705c45e1",
-      "published_at": "2026-11-19T17:38:02+01:00",
-      "fetched_at": "2026-11-19T17:45:48+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/625933ae-232b-4fad-8e9c-385848934da8.jpeg?width=600",
-      "sv": {
-        "title": "Stockholmsbörsen föll tillbaka – Truecaller rusade",
-        "summary": "Stockholmsbörsen föll tillbaka under eftermiddagen i spåren av att Wall Street föll tillbaka. På bolagsnivå rusade Truecaller efter en köpstämpel från ABG.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stockholm stock exchange falls back – Truecaller surges",
-        "summary": "The Stockholm stock exchange fell back during the afternoon following Wall Street's decline. At company level, Truecaller surged after a buy rating from ABG."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:45:54+01:00"
-      }
-    },
-    {
-      "id": "e044d9d76834",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/nordenborserna-stangde-i-rott-fI6e4",
-      "guid": "0cb3b2b3-bb04-4f52-9308-061ea6354347",
-      "published_at": "2026-11-19T17:36:56+01:00",
-      "fetched_at": "2026-11-19T17:45:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nordenbörserna stängde i rött",
-        "summary": "De nordiska börserna avslutar torsdagen på röda siffror, efter en oregelbunden handel som blev successivt surare efter att USA-börserna hade öppnat. Det regionala samlingsindexet Vinx 30 backade 0,5 procent till 1.502.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nordic stock exchanges close in the red",
-        "summary": "The Nordic stock exchanges ended Thursday in negative territory, after irregular trading that gradually turned more sour after US exchanges had opened. The regional composite index Vinx 30 fell 0.5 percent to 1,502."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:45:54+01:00"
       }
     }
   ]

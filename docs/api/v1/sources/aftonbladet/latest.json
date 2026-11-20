@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T15:31:10+01:00",
+  "generated_at": "2026-11-20T15:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "36a1082af5aa",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/BrRe4E/ambassadattacken-kan-vara-en-slump-men-tajmingen-sager-annat",
+      "guid": "https://www.aftonbladet.se/nyheter/a/BrRe4E/ambassadattacken-kan-vara-en-slump-men-tajmingen-sager-annat?utm_medium=rss",
+      "published_at": "2026-11-20T15:39:46+01:00",
+      "fetched_at": "2026-11-20T15:45:45+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/33a83551-693a-383d-aff0-8f25111e5487?format=auto&s=0fae30aae2b3e772007b8b39546f7859ddc598ee&w=1000",
+      "sv": {
+        "title": "Ambassadattacken kan vara en slump – men tajmingen säger annat",
+        "summary": "NICLAS VENT Illavarslande tajming",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The embassy attack may be a coincidence – but the timing says otherwise",
+        "summary": "NICLAS VENT Ominous timing"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T15:45:52+01:00"
+      }
+    },
     {
       "id": "91bc3e547383",
       "schema_version": 1,
@@ -5346,33 +5373,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T19:31:23+01:00"
-      }
-    },
-    {
-      "id": "97967d8acf46",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/JnovjJ/turkisk-polisrad-mot-oppositionell-tv-kanal",
-      "guid": "https://www.aftonbladet.se/nyheter/a/JnovjJ/turkisk-polisrad-mot-oppositionell-tv-kanal?utm_medium=rss",
-      "published_at": "2026-11-17T19:13:53+01:00",
-      "fetched_at": "2026-11-17T19:15:43+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/1a638c23-4791-3b2b-b8b2-11f458143b48?format=auto&s=e6036b68f5bfec2c56e0cc37318990fff1c2776a&w=1000",
-      "sv": {
-        "title": "Turkisk polisräd mot oppositionell tv-kanal",
-        "summary": "Turkisk polis slog på tisdagen till mot det oberoende mediehuset Sözcü och har gripit flera chefer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Turkish police raid opposition TV channel",
-        "summary": "Turkish police on Tuesday raided the independent media group Sözcü and have detained several of its executives."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T19:15:50+01:00"
       }
     }
   ]
