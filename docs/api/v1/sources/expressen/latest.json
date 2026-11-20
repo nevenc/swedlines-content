@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T04:46:01+01:00",
+  "generated_at": "2026-11-20T04:57:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9f4500e50729",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/efter-fornedringen-i-mellanarsvalet-rubio-ny-favorit",
+      "guid": "https://www.expressen.se/nyheter/varlden/efter-fornedringen-i-mellanarsvalet-rubio-ny-favorit/",
+      "published_at": "2026-11-20T04:47:45+01:00",
+      "fetched_at": "2026-11-20T04:57:17+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Efter förnedringen i mellanårsvalet – Rubio ny favorit",
+        "summary": "Republikanerna kraschade i mellanårsvalet. Ur Maga-askan kliver en ny favorit till presidentvalet fram. – Det är uppseendeväckande många som säger att de verkligen vill ha honom, säger tidigare talmannen Newt Gingrich.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After the humiliation in the midterms – Rubio new favourite",
+        "summary": "Republicans crashed in the midterm elections. From the ashes of Maga, a new favourite for the presidential election emerges. – It is remarkably many who say they really want him, says former House Speaker Newt Gingrich."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T04:57:22+01:00"
+      }
+    },
     {
       "id": "055d077abcdb",
       "schema_version": 1,
@@ -5158,32 +5184,6 @@
       "en": {
         "title": "Train traffic between Göteborg and Stockholm halted",
         "summary": "Signal fault between Stockholm and Göteborg"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:01:23+01:00"
-      }
-    },
-    {
-      "id": "efa5f1cfc1a3",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/elva-doda-i-brand-i-thailand",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/elva-doda-i-brand-i-thailand/",
-      "published_at": "2026-11-16T17:49:34+01:00",
-      "fetched_at": "2026-11-16T18:01:14+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Elva döda i brand i Thailand",
-        "summary": "Mc-butik i lågor i Phuket",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Eleven dead in fire in Thailand",
-        "summary": "Motorcycle shop in flames in Phuket"
       },
       "translation": {
         "status": "done",
