@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T16:45:52+01:00",
+  "generated_at": "2026-11-20T17:01:35+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cd9efccc3408",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/planen-morda--ukrainsk-rappare",
+      "guid": "https://www.expressen.se/nyheter/varlden/planen-morda--ukrainsk-rappare/",
+      "published_at": "2026-11-20T16:48:25+01:00",
+      "fetched_at": "2026-11-20T17:01:23+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Planen: Mörda ukrainsk rappare",
+        "summary": "Två danskar har häktats som misstänkta för en mordkomplott mot den ukrainske rapparen ”Kyivstoner”, rapporterar DR. Den ryska underrättelsetjänsten misstänks ha gett dem uppdraget. Men männen greps kort före artistens konsert.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The plot: Murder Ukrainian rapper",
+        "summary": "Two Danes have been remanded in custody as suspects in a murder plot against the Ukrainian rapper \"Kyivstoner\", reports DR. Russian intelligence is suspected of having commissioned them. But the men were arrested shortly before the artist's concert."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T17:01:35+01:00"
+      }
+    },
     {
       "id": "47ed1d57ef18",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T12:01:24+01:00"
-      }
-    },
-    {
-      "id": "122facbd2767",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=d0134dae-56f3-4119-b06a-9858f846c7aa",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d0134dae-56f3-4119-b06a-9858f846c7aa",
-      "published_at": "2026-11-17T11:16:04+01:00",
-      "fetched_at": "2026-11-17T11:31:02+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Miljöpartiet om V i regering: \"Vi ska se\"",
-        "summary": "Miljöpartiet om V i regering",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Green Party on V in government: \"We'll see\"",
-        "summary": "Green Party on V in government"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T11:31:11+01:00"
       }
     }
   ]
