@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T03:01:13+01:00",
+  "generated_at": "2026-11-20T03:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "664e92e41e45",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Oyp093/kockduon-lamnar-stjarnkrogen",
+      "guid": "https://www.svd.se/a/Oyp093/kockduon-lamnar-stjarnkrogen?utm_medium=rss",
+      "published_at": "2026-11-20T03:06:04+01:00",
+      "fetched_at": "2026-11-20T03:15:45+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/c250d86a-ac2e-36a0-a7b5-1967b456aa21?format=auto&s=4b99f22ce1ee2dbc93662b28d74f4d1fdf6bc550&w=1000",
+      "sv": {
+        "title": "Kockduon lämnar stjärnkrogen",
+        "summary": "Efter sex år vid rodret lämnar Tommy Myllymäki och Pi Le restaurangen ”Aira”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Cooking duo leaves star restaurant",
+        "summary": "After six years at the helm, Tommy Myllymäki and Pi Le are leaving the restaurant \"Aira\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T03:15:50+01:00"
+      }
+    },
     {
       "id": "4c7b8508c9a1",
       "schema_version": 1,
@@ -5198,33 +5225,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T05:31:08+01:00"
-      }
-    },
-    {
-      "id": "fa58561e4a1f",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/530bPW/japan-ryska-plan-krankt-luftrum",
-      "guid": "https://www.svd.se/a/530bPW/japan-ryska-plan-krankt-luftrum?utm_medium=rss",
-      "published_at": "2026-11-17T02:29:53+01:00",
-      "fetched_at": "2026-11-17T02:45:39+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/0930ce9b-6122-3638-a978-2bb72c8a3a61?format=auto&s=7b4b619f052872b57cb53f6ddb5f6417d80cc99b&w=1000",
-      "sv": {
-        "title": "Japan: Ryska plan har kränkt vårt luftrum",
-        "summary": "Två flygplan som misstänks komma från Ryssland har kränkt Japans luftrum, uppger japanska…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Japan: Russian planes have violated our airspace",
-        "summary": "Two aircraft suspected of coming from Russia have violated Japan's airspace, Japanese government officials said…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T02:45:44+01:00"
       }
     }
   ]
