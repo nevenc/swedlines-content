@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-20T08:31:11+01:00",
+  "generated_at": "2026-11-20T08:45:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "32db07916f96",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/wdPkRn/svensk-kvinna-hittad-dod-i-filippinerna",
+      "guid": "https://www.aftonbladet.se/nyheter/a/wdPkRn/svensk-kvinna-hittad-dod-i-filippinerna?utm_medium=rss",
+      "published_at": "2026-11-20T08:44:48+01:00",
+      "fetched_at": "2026-11-20T08:45:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Svensk kvinna hittad död i Filippinerna",
+        "summary": "En svensk kvinna i 70-årsåldern har dött i Filippinerna. Enligt filippinska medier ska kvinnan ha…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish woman found dead in the Philippines",
+        "summary": "A Swedish woman in her 70s has died in the Philippines. According to Filipino media, the woman is said to have…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:45:49+01:00"
+      }
+    },
+    {
+      "id": "8fdde4a128f5",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/BrReVE/avrattning-i-usa-tog-over-en-timme",
+      "guid": "https://www.aftonbladet.se/nyheter/a/BrReVE/avrattning-i-usa-tog-over-en-timme?utm_medium=rss",
+      "published_at": "2026-11-20T08:36:27+01:00",
+      "fetched_at": "2026-11-20T08:45:42+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/a0695ba7-f1ff-38eb-9522-d56907b558de?format=auto&s=c70e41f18b3e62fe6f9fa3660059a35d06fdb0c2&w=1000",
+      "sv": {
+        "title": "Avrättning i USA tog över en timme",
+        "summary": "Hittade inte venen ✓ Andra på kort tid",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Execution in USA took over an hour",
+        "summary": "Could not find the vein ✓ Others in a short time"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:45:49+01:00"
+      }
+    },
     {
       "id": "7bf97429d736",
       "schema_version": 1,
@@ -5349,60 +5402,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T12:45:51+01:00"
-      }
-    },
-    {
-      "id": "052d46bf8ee4",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/4Eqx3E/lars-danielsson-blir-ny-sanktionsgeneral",
-      "guid": "https://www.aftonbladet.se/nyheter/a/4Eqx3E/lars-danielsson-blir-ny-sanktionsgeneral?utm_medium=rss",
-      "published_at": "2026-11-18T12:34:13+01:00",
-      "fetched_at": "2026-11-18T12:45:44+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/09f33898-43fe-35d0-b165-49ff8c3cf9e9?format=auto&s=cd105128e150b69d4805f34447ad59b25f90e294&w=1000",
-      "sv": {
-        "title": "Lars Danielsson blir ny sanktionsgeneral",
-        "summary": "Förre statssekreteraren och ambassadören Lars Danielsson blir nytt EU-sändebud för…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lars Danielsson becomes new EU sanctions envoy",
-        "summary": "Former state secretary and ambassador Lars Danielsson is to become the new EU envoy for sanctions, according to information given to the news site Politico Europe."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T12:45:51+01:00"
-      }
-    },
-    {
-      "id": "bf108689050e",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/militarexperten-attacken-mot-krimbron-kan-fa-stor-betydelse",
-      "guid": "https://www.dn.se/varlden/militarexperten-attacken-mot-krimbron-kan-fa-stor-betydelse/",
-      "published_at": "2026-11-18T12:23:02+01:00",
-      "fetched_at": "2026-11-18T12:30:55+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/90781158-cfce-4597-b39d-972df652c8a1.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Militärexperten: Attacken mot Krimbron kan få stor betydelse",
-        "summary": "Ukrainas attack förstörde stora delar av Krimbron och är en prestigeförlust för Vladimir Putin. Den annekterade halvön har nu blivit än mer isolerad – vilket kan öppna upp för nya ukrainska framryckningar. – Den ryska försörjningslinjen är väldigt försvagad nu, säger militärexperten Johan Huovinen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Military expert: Attack on the Crimean Bridge may be of great significance",
-        "summary": "Ukraine's attack destroyed large parts of the Crimean Bridge and is a loss of prestige for Vladimir Putin. The annexed peninsula has now become even more isolated – which could open the way for new Ukrainian advances. “The Russian supply line is very weakened now,” says military expert Johan Huovinen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T12:31:14+01:00"
       }
     }
   ]

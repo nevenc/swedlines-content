@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T08:31:11+01:00",
+  "generated_at": "2026-11-20T08:45:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "824035dc4222",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346787",
+      "guid": "rss:sr.se/article/9346787",
+      "published_at": "2026-11-20T08:31:00+01:00",
+      "fetched_at": "2026-11-20T08:45:41+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Uppgifter: Svensk kvinna mördad i Filippinerna",
+        "summary": "En svensk kvinna i 70-årsåldern har dött på ön Cebu i Filippinerna, rapporterar Expressen. Kvinnan ska ha mördats, enligt lokala medier. UD bekräftar att en svensk kvinna i 70-årsåldern från Götaland avled i Filippinerna den 8 november, skriver Expressen. Anhöriga är underrättade.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: Swedish woman murdered in the Philippines",
+        "summary": "A Swedish woman in her 70s has died on the island of Cebu in the Philippines, reports Expressen. The woman is said to have been murdered, according to local media. The Foreign Ministry confirms that a Swedish woman in her 70s from Götaland died in the Philippines on 8 November, writes Expressen. Relatives have been notified."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:45:49+01:00"
+      }
+    },
     {
       "id": "e235c92b7cd8",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T14:56:57+01:00"
-      }
-    },
-    {
-      "id": "3061c825fadf",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340838",
-      "guid": "rss:sr.se/article/9340838",
-      "published_at": "2026-11-13T20:39:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Fem länder ska föra Europas talan om Ukraina",
-        "summary": "EU:s ledare har enats om hur Europa ska företrädas i förhandlingar om Ukraina. Ingen enskild person får uppdraget. Fem länder: Tyskland, Frankrike, Storbritannien, Italien och Polen, ska tillsammans med EU:s institutioner föra Europas talan.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Five countries to speak for Europe on Ukraine",
-        "summary": "EU leaders have agreed on how Europe is to be represented in negotiations on Ukraine. No single person gets the job. Five countries: Germany, France, the United Kingdom, Italy and Poland, will speak for Europe together with the EU's institutions."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
       }
     }
   ]

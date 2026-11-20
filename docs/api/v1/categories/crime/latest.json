@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T08:31:11+01:00",
+  "generated_at": "2026-11-20T08:45:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "824035dc4222",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346787",
+      "guid": "rss:sr.se/article/9346787",
+      "published_at": "2026-11-20T08:31:00+01:00",
+      "fetched_at": "2026-11-20T08:45:41+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Uppgifter: Svensk kvinna mördad i Filippinerna",
+        "summary": "En svensk kvinna i 70-årsåldern har dött på ön Cebu i Filippinerna, rapporterar Expressen. Kvinnan ska ha mördats, enligt lokala medier. UD bekräftar att en svensk kvinna i 70-årsåldern från Götaland avled i Filippinerna den 8 november, skriver Expressen. Anhöriga är underrättade.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: Swedish woman murdered in the Philippines",
+        "summary": "A Swedish woman in her 70s has died on the island of Cebu in the Philippines, reports Expressen. The woman is said to have been murdered, according to local media. The Foreign Ministry confirms that a Swedish woman in her 70s from Götaland died in the Philippines on 8 November, writes Expressen. Relatives have been notified."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:45:49+01:00"
+      }
+    },
     {
       "id": "d2fae409ec5f",
       "schema_version": 1,
@@ -5341,32 +5367,6 @@
       "en": {
         "title": "Henrik Landerholm appeals guilty verdict",
         "summary": "Former national security adviser Henrik Landerholm is appealing the guilty verdict to the Supreme Court, Dagens Nyheter reports. Landerholm was convicted of gross negligence in handling classified information after he left classified documents in an unlocked cabinet. The documents were later found by a cleaner."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:15:51+01:00"
-      }
-    },
-    {
-      "id": "732b1f3a8e34",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/landerholm-overklagar-till-hogsta-domstolen",
-      "guid": "6cca5ff9-9ed5-4392-a1e3-bd42b5400ed6",
-      "published_at": "2026-11-16T14:05:27+01:00",
-      "fetched_at": "2026-11-16T14:15:46+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Landerholm överklagar till Högsta domstolen",
-        "summary": "Henrik Landerholm överklagar till Högsta domstolen, skriver DN.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Landerholm appeals to the Supreme Court",
-        "summary": "Henrik Landerholm is appealing to the Supreme Court, DN reports."
       },
       "translation": {
         "status": "done",
