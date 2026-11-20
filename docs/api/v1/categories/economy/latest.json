@@ -1,7 +1,110 @@
 {
-  "generated_at": "2026-11-20T22:01:22+01:00",
+  "generated_at": "2026-11-20T22:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3f76393849e6",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/blodig-fredag-med-ai-slakt-pa-wall-street",
+      "guid": "bdd18324-624e-44b6-a501-3e1378330c0d",
+      "published_at": "2026-11-20T22:15:27+01:00",
+      "fetched_at": "2026-11-20T22:15:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1de0b3b2-e066-426e-8285-ddc262300c2f.jpg?width=600",
+      "sv": {
+        "title": "Blodig fredag med AI-slakt på Wall Street",
+        "summary": "New York-börsen öppnade deppigt och fallet tilltog efter ett tal av president Donald Trump på fredagskvällen. En redan stor oro i den AI-kopplade sektorn förstärktes – och den nyfödda jätten Anthropic föll ned till nära nollpunkten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bloody Friday as AI sell-off hits Wall Street",
+        "summary": "The New York stock exchange opened in a gloomy mood, and the decline deepened after a speech by President Donald Trump on Friday evening. Already significant concern in the AI-linked sector was amplified – and the newborn giant Anthropic fell to near zero."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T22:15:49+01:00"
+      }
+    },
+    {
+      "id": "56b9f26d6b0f",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80137",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80137&utm_medium=rss",
+      "published_at": "2026-11-20T22:11:53+01:00",
+      "fetched_at": "2026-11-20T22:15:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Utför på Wall Street – Nasdaq stänger 5% ned"
+      },
+      "en": {
+        "title": "Wall Street plunges – Nasdaq closes 5% down"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T22:15:49+01:00"
+      }
+    },
+    {
+      "id": "86593229428b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347569",
+      "guid": "rss:sr.se/article/9347569",
+      "published_at": "2026-11-20T22:08:00+01:00",
+      "fetched_at": "2026-11-20T22:15:42+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "AI-frossa på börsen i USA – årets uppgång raderad",
+        "summary": "Fredagshandeln ger breda nedgångar på världens börser. Vid stängning backade Nasdaq med över fem procent, medan S&P 500 stängde på minus fyra procent. Chipjätten Nvidia fortsatte den senaste tidens nedgång och rasade 13,7 procent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "AI jitters on US stock market – year's gains wiped out",
+        "summary": "Friday trading brings broad declines on the world's stock exchanges. At close, the Nasdaq fell by over five percent, while the S&P 500 closed down four percent. Chip giant Nvidia continued its recent decline and plunged 13.7 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T22:15:49+01:00"
+      }
+    },
+    {
+      "id": "2d6dd30cf2df",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/illrott-pa-wall-street-nvidia-rasade-tvasiffrigt",
+      "guid": "4f2242cd-2d94-4890-bb86-08297dc05331",
+      "published_at": "2026-11-20T22:02:54+01:00",
+      "fetched_at": "2026-11-20T22:15:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/373771c6-cf4d-489c-97f3-8cb12eb4d8f3.jpeg?width=600",
+      "sv": {
+        "title": "Illrött på Wall Street – Nvidia rasade tvåsiffrigt",
+        "summary": "USA-börserna rasade hela vägen in i kaklet och stängde kring dagslägsta. S&P 500 befinner sig nu i korrektion medan tekniktunga Nasdaq är på minus för året. ”Det här är inte endast en värderingsdriven korrektion.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Ill-red Wall Street – Nvidia plunges double digits",
+        "summary": "US stock exchanges plunged all the way to the finish and closed near the day's low. The S&P 500 is now in correction while the tech-heavy Nasdaq is down for the year. \"This is not only a valuation-driven correction."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T22:15:49+01:00"
+      }
+    },
     {
       "id": "15417af83056",
       "schema_version": 1,
@@ -5169,120 +5272,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T06:01:38+01:00"
-      }
-    },
-    {
-      "id": "940880695f73",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/kina-lamnar-referensrantor-oforandrade-BbwMb",
-      "guid": "62742254-6214-4685-aeea-4207f501ebd3",
-      "published_at": "2026-11-20T05:42:33+01:00",
-      "fetched_at": "2026-11-20T06:01:17+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Kina lämnar referensräntor oförändrade",
-        "summary": "Kinas centralbank, PBOC, lämnar den ettåriga referensräntan LPR (Loan prime rate) oförändrad på 3,00 procent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "China leaves benchmark interest rates unchanged",
-        "summary": "The People's Bank of China, PBOC, leaves the one-year Loan prime rate LPR unchanged at 3.00 percent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:01:38+01:00"
-      }
-    },
-    {
-      "id": "b94b4dd35467",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/ekonomi/kedjan-oppnar-annu-en-butik-i-centrala-goteborg-behovs-absolut.3f8196c2-4faf-5639-a173-35ec4e71d273",
-      "guid": "3f8196c2-4faf-5639-a173-35ec4e71d273",
-      "published_at": "2026-11-20T05:42:28+01:00",
-      "fetched_at": "2026-11-20T06:01:18+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Ekonomi",
-        "Tagg: Normal",
-        "Tagg: Göteborg",
-        "Tagg: Vasakronan",
-        "Tagg: Apoteket",
-        "Tagg: Nordstan"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/dc85356b-0d1b-3d59-b70e-426d8d992b5f",
-      "sv": {
-        "title": "Lågpriskedjan öppnar ännu en butik i Göteborg",
-        "summary": "Tar över efter konkurs: ”Behövs absolut”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Discount chain opens another store in Göteborg",
-        "summary": "Takes over after bankruptcy: \"Absolutely needed\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:01:38+01:00"
-      }
-    },
-    {
-      "id": "a9e98f39627b",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/natomedlemskap-mot-mark-uppges-diskuteras-med-ukraina",
-      "guid": "8cb49dda-a874-4813-9ce5-45e38f9537a3",
-      "published_at": "2026-11-20T05:40:56+01:00",
-      "fetched_at": "2026-11-20T06:01:17+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/36f9f8e7-2d98-4b43-be64-5dcb67360789.jpeg?width=600",
-      "sv": {
-        "title": "Natomedlemskap mot mark uppges diskuteras med Ukraina",
-        "summary": "Under fredssamtal de senaste månaderna har USA:s särskilda sändebud Jared Kushner, svärson till USA:s president Donald Trump, diskuterat en idé som tidigare ansågs vara dödfödd: ett Nato-medlemskap för Ukraina, under förutsättning att landet avstår territorium till Ryssland.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "NATO membership in exchange for land reportedly discussed with Ukraine",
-        "summary": "During peace talks in recent months, US special envoy Jared Kushner, son-in-law of US President Donald Trump, has discussed an idea previously considered dead on arrival: NATO membership for Ukraine, on condition that the country cedes territory to Russia."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:01:38+01:00"
-      }
-    },
-    {
-      "id": "5b3483534ff1",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/martin-i-arboga-vann-mot-storforetaget-slipper-solcellspark-bakom-huset",
-      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/martin-i-arboga-vann-mot-storforetaget-slipper-solcellspark-bakom-huset",
-      "published_at": "2026-11-20T05:30:00+01:00",
-      "fetched_at": "2026-11-20T05:45:38+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Martin i Arboga vann mot storföretaget – slipper solcellspark bakom huset",
-        "summary": "Martin Carlbinder och hans grannar i Arboga skulle bli omringade av en jättelik solcellspark. De gick ihop och kämpade emot. Nu har företaget pausat etableringen. – Det känns jätteskönt, säger Martin Carlbinder.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Martin in Arboga won against the company – no solar park behind the house",
-        "summary": "Martin Carlbinder and his neighbours in Arboga were to be surrounded by a huge solar park. They joined forces and fought back. Now the company has paused the development. – It feels really great, says Martin Carlbinder."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T05:45:48+01:00"
       }
     }
   ]

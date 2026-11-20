@@ -1,7 +1,110 @@
 {
-  "generated_at": "2026-11-20T22:01:22+01:00",
+  "generated_at": "2026-11-20T22:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3f76393849e6",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/blodig-fredag-med-ai-slakt-pa-wall-street",
+      "guid": "bdd18324-624e-44b6-a501-3e1378330c0d",
+      "published_at": "2026-11-20T22:15:27+01:00",
+      "fetched_at": "2026-11-20T22:15:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1de0b3b2-e066-426e-8285-ddc262300c2f.jpg?width=600",
+      "sv": {
+        "title": "Blodig fredag med AI-slakt på Wall Street",
+        "summary": "New York-börsen öppnade deppigt och fallet tilltog efter ett tal av president Donald Trump på fredagskvällen. En redan stor oro i den AI-kopplade sektorn förstärktes – och den nyfödda jätten Anthropic föll ned till nära nollpunkten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bloody Friday as AI sell-off hits Wall Street",
+        "summary": "The New York stock exchange opened in a gloomy mood, and the decline deepened after a speech by President Donald Trump on Friday evening. Already significant concern in the AI-linked sector was amplified – and the newborn giant Anthropic fell to near zero."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T22:15:49+01:00"
+      }
+    },
+    {
+      "id": "56b9f26d6b0f",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80137",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80137&utm_medium=rss",
+      "published_at": "2026-11-20T22:11:53+01:00",
+      "fetched_at": "2026-11-20T22:15:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Utför på Wall Street – Nasdaq stänger 5% ned"
+      },
+      "en": {
+        "title": "Wall Street plunges – Nasdaq closes 5% down"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T22:15:49+01:00"
+      }
+    },
+    {
+      "id": "86593229428b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347569",
+      "guid": "rss:sr.se/article/9347569",
+      "published_at": "2026-11-20T22:08:00+01:00",
+      "fetched_at": "2026-11-20T22:15:42+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "AI-frossa på börsen i USA – årets uppgång raderad",
+        "summary": "Fredagshandeln ger breda nedgångar på världens börser. Vid stängning backade Nasdaq med över fem procent, medan S&P 500 stängde på minus fyra procent. Chipjätten Nvidia fortsatte den senaste tidens nedgång och rasade 13,7 procent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "AI jitters on US stock market – year's gains wiped out",
+        "summary": "Friday trading brings broad declines on the world's stock exchanges. At close, the Nasdaq fell by over five percent, while the S&P 500 closed down four percent. Chip giant Nvidia continued its recent decline and plunged 13.7 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T22:15:49+01:00"
+      }
+    },
+    {
+      "id": "2d6dd30cf2df",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/illrott-pa-wall-street-nvidia-rasade-tvasiffrigt",
+      "guid": "4f2242cd-2d94-4890-bb86-08297dc05331",
+      "published_at": "2026-11-20T22:02:54+01:00",
+      "fetched_at": "2026-11-20T22:15:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/373771c6-cf4d-489c-97f3-8cb12eb4d8f3.jpeg?width=600",
+      "sv": {
+        "title": "Illrött på Wall Street – Nvidia rasade tvåsiffrigt",
+        "summary": "USA-börserna rasade hela vägen in i kaklet och stängde kring dagslägsta. S&P 500 befinner sig nu i korrektion medan tekniktunga Nasdaq är på minus för året. ”Det här är inte endast en värderingsdriven korrektion.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Ill-red Wall Street – Nvidia plunges double digits",
+        "summary": "US stock exchanges plunged all the way to the finish and closed near the day's low. The S&P 500 is now in correction while the tech-heavy Nasdaq is down for the year. \"This is not only a valuation-driven correction."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T22:15:49+01:00"
+      }
+    },
     {
       "id": "57596f26d4b6",
       "schema_version": 1,
@@ -5346,119 +5449,6 @@
       "en": {
         "title": "Stockholm Treasury reduces loss",
         "summary": "Spotlight-listed investment company Stockholm Treasury had net revenue of SEK 24,000 in the third quarter of 2026 (SEK 5.5 million)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:01:24+01:00"
-      }
-    },
-    {
-      "id": "48a9bbdea6d3",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/universeum-utsatt-for-hackerattack.509fbf66-7d36-5f97-a089-3e0eded60c6a",
-      "guid": "509fbf66-7d36-5f97-a089-3e0eded60c6a",
-      "published_at": "2026-11-20T15:45:41+01:00",
-      "fetched_at": "2026-11-20T16:01:17+01:00",
-      "category": "science_tech",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: breaking-GP",
-        "Tagg: Universeum"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/c77f1da2-0436-3eab-b641-694d692b868e",
-      "sv": {
-        "title": "Universeum utsatt för hackerattack",
-        "summary": "Museet Universeum har blivit utsatt för en hackerattack.Enligt ett mejl till kunder skriver de att obehöriga kan ha kommit åt kunddata.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Universeum hit by hacker attack",
-        "summary": "The museum Universeum has been hit by a hacker attack. According to an email to customers, they write that unauthorised persons may have accessed customer data."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:01:24+01:00"
-      }
-    },
-    {
-      "id": "b7004f6a4e6c",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/jag-ar-har-for-att-kampa-mot-militarism-och-krigshets",
-      "guid": "45ad6f5b-af39-4080-9d79-41cda7070884",
-      "published_at": "2026-11-20T15:45:05+01:00",
-      "fetched_at": "2026-11-20T15:45:47+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/51f646e6-72b7-49be-a73d-e956e9a206d0.jpeg?width=600",
-      "sv": {
-        "title": "”Jag är här för att kämpa mot militarism och krigshets”",
-        "summary": "Vid 12-tiden samlades cirka 200 personer på Stortorget i Lund för en internationell ungdoms- och studentstrejk som genomförs i flera europeiska länder. Allt under parollen ”Kämpa för vår framtid, inte för deras krig.”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"I am here to fight militarism and warmongering\"",
-        "summary": "At around noon, about 200 people gathered at Stortorget in Lund for an international youth and student strike taking place in several European countries. Everything under the slogan \"Fight for our future, not for their wars.\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T15:45:52+01:00"
-      }
-    },
-    {
-      "id": "22eccc607ab3",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/trump-overvager-strypa-chip-export-till-kina",
-      "guid": "f0b0910b-10f3-435d-8d57-38966857bb4b",
-      "published_at": "2026-11-20T15:43:07+01:00",
-      "fetched_at": "2026-11-20T16:01:17+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/51be0d65-082e-46b4-8be4-9fac31fdf05a.jpg?width=600",
-      "sv": {
-        "title": "Trump överväger strypa chip-export till Kina",
-        "summary": "Trumpregeringen överväger nya licenser som begränsar export av datorchip till Kina, uppger USA:s handelsrepresentant Jamieson Greer i en intervju med Bloomberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump considers curbing chip exports to China",
-        "summary": "The Trump government is considering new licences that restrict exports of computer chips to China, according to US Trade Representative Jamieson Greer in an interview with Bloomberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:01:24+01:00"
-      }
-    },
-    {
-      "id": "684ef57dfd7d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/oppning-for-unga-nar-storbritannien-narmar-sig-eu",
-      "guid": "f829eca5-ee13-4d15-87a4-0e6e9685b6ca",
-      "published_at": "2026-11-20T15:42:14+01:00",
-      "fetched_at": "2026-11-20T16:01:17+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/35b133ac-be24-49b0-8dcc-8a14132e1641.jpg?width=600",
-      "sv": {
-        "title": "Öppning för unga när Storbritannien närmar sig EU",
-        "summary": "Billigare universitetsstudier och ökade möjligheter för unga ingår när EU och Storbritannien avtalar om en ny relation. ”Ni är alltid välkomna i EU”, hälsar rådsordförande António Costa på toppmötet i Bryssel.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Opening for young people as the United Kingdom moves closer to the EU",
-        "summary": "Cheaper university studies and greater opportunities for young people are included as the EU and the United Kingdom agree on a new relationship. \"You are always welcome in the EU\", says Council President António Costa at the summit in Brussels."
       },
       "translation": {
         "status": "done",

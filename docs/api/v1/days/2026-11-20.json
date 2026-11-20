@@ -1,7 +1,110 @@
 {
-  "generated_at": "2026-11-20T22:01:22+01:00",
-  "count": 649,
+  "generated_at": "2026-11-20T22:15:50+01:00",
+  "count": 653,
   "items": [
+    {
+      "id": "3f76393849e6",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/blodig-fredag-med-ai-slakt-pa-wall-street",
+      "guid": "bdd18324-624e-44b6-a501-3e1378330c0d",
+      "published_at": "2026-11-20T22:15:27+01:00",
+      "fetched_at": "2026-11-20T22:15:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1de0b3b2-e066-426e-8285-ddc262300c2f.jpg?width=600",
+      "sv": {
+        "title": "Blodig fredag med AI-slakt på Wall Street",
+        "summary": "New York-börsen öppnade deppigt och fallet tilltog efter ett tal av president Donald Trump på fredagskvällen. En redan stor oro i den AI-kopplade sektorn förstärktes – och den nyfödda jätten Anthropic föll ned till nära nollpunkten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bloody Friday as AI sell-off hits Wall Street",
+        "summary": "The New York stock exchange opened in a gloomy mood, and the decline deepened after a speech by President Donald Trump on Friday evening. Already significant concern in the AI-linked sector was amplified – and the newborn giant Anthropic fell to near zero."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T22:15:49+01:00"
+      }
+    },
+    {
+      "id": "56b9f26d6b0f",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80137",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80137&utm_medium=rss",
+      "published_at": "2026-11-20T22:11:53+01:00",
+      "fetched_at": "2026-11-20T22:15:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Utför på Wall Street – Nasdaq stänger 5% ned"
+      },
+      "en": {
+        "title": "Wall Street plunges – Nasdaq closes 5% down"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T22:15:49+01:00"
+      }
+    },
+    {
+      "id": "86593229428b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347569",
+      "guid": "rss:sr.se/article/9347569",
+      "published_at": "2026-11-20T22:08:00+01:00",
+      "fetched_at": "2026-11-20T22:15:42+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "AI-frossa på börsen i USA – årets uppgång raderad",
+        "summary": "Fredagshandeln ger breda nedgångar på världens börser. Vid stängning backade Nasdaq med över fem procent, medan S&P 500 stängde på minus fyra procent. Chipjätten Nvidia fortsatte den senaste tidens nedgång och rasade 13,7 procent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "AI jitters on US stock market – year's gains wiped out",
+        "summary": "Friday trading brings broad declines on the world's stock exchanges. At close, the Nasdaq fell by over five percent, while the S&P 500 closed down four percent. Chip giant Nvidia continued its recent decline and plunged 13.7 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T22:15:49+01:00"
+      }
+    },
+    {
+      "id": "2d6dd30cf2df",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/illrott-pa-wall-street-nvidia-rasade-tvasiffrigt",
+      "guid": "4f2242cd-2d94-4890-bb86-08297dc05331",
+      "published_at": "2026-11-20T22:02:54+01:00",
+      "fetched_at": "2026-11-20T22:15:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/373771c6-cf4d-489c-97f3-8cb12eb4d8f3.jpeg?width=600",
+      "sv": {
+        "title": "Illrött på Wall Street – Nvidia rasade tvåsiffrigt",
+        "summary": "USA-börserna rasade hela vägen in i kaklet och stängde kring dagslägsta. S&P 500 befinner sig nu i korrektion medan tekniktunga Nasdaq är på minus för året. ”Det här är inte endast en värderingsdriven korrektion.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Ill-red Wall Street – Nvidia plunges double digits",
+        "summary": "US stock exchanges plunged all the way to the finish and closed near the day's low. The S&P 500 is now in correction while the tech-heavy Nasdaq is down for the year. \"This is not only a valuation-driven correction."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T22:15:49+01:00"
+      }
+    },
     {
       "id": "57596f26d4b6",
       "schema_version": 1,
