@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-20T17:31:16+01:00",
+  "generated_at": "2026-11-20T17:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8b2750ca8ee8",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7dS55XtIi9T3ZsiQG3cD5u/valdslarmet-gav-resultat-facket-far-igenom-kraven",
+      "guid": "7dS55XtIi9T3ZsiQG3cD5u",
+      "published_at": "2026-11-20T17:38:28+01:00",
+      "fetched_at": "2026-11-20T17:45:49+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Våldslarmet gav resultat – facket får igenom kraven",
+        "summary": "I höstas rapporterade TV4 Nyheterna om att fackförbundet Sveriges Lärare i Stockholm lämnat in en så kallad 6:6 a-begäran till Stockholm stads utbildningsförvaltning. Det efter att det under september registrerades 338 händelser av hot och våld inom Stockholm stads grundskolor.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Violence alarm leads to results – union gets its demands through",
+        "summary": "Last autumn, TV4 Nyheterna reported that the union Sveriges Lärare in Stockholm had submitted a so-called 6:6 a request to the Stockholm city education administration. This came after 338 incidents of threats and violence were registered in Stockholm city's compulsory schools during September."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T17:45:55+01:00"
+      }
+    },
     {
       "id": "99f4cb91ade1",
       "schema_version": 1,
@@ -5389,33 +5418,6 @@
       "en": {
         "title": "Volunteering gives Elise, 47, greater meaning in life – after a personal crisis",
         "summary": "Elise Ljung, 47, in Malmö had considered volunteering for a long time. Only after a personal crisis did she feel ready to take the step. Now she never wants to stop her volunteer work for the Red Cross. – It gives life a kind of greater meaning, she says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:01:25+01:00"
-      }
-    },
-    {
-      "id": "f93c2571abdc",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/storsta-faran-i-novembermorkret-svar-du-sjalv",
-      "guid": "4b9dd8ce-34dd-45d0-b1e7-5cf982a611bb",
-      "published_at": "2026-11-17T17:00:00+01:00",
-      "fetched_at": "2026-11-17T17:01:20+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/7fc68699-f7b3-43f8-9b07-5b9c423a634c.jpeg?width=600",
-      "sv": {
-        "title": "Största faran i novembermörkret? Svar: Du själv",
-        "summary": "Fotgängare och cyklister lever farligt i Lund just nu. November är årets näst mest olycksdrabbade månad för oskyddade trafikanter. – Folk tror att det vanligaste är att man blir påkörd av en bil – men det är det inte, säger trafikingenjör Veronica Haagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The biggest danger in the November darkness? Answer: you yourself",
-        "summary": "Pedestrians and cyclists are living dangerously in Lund right now. November is this year's second most accident-prone month for unprotected road users. – People think the most common thing is being hit by a car – but it isn't, says traffic engineer Veronica Haagen."
       },
       "translation": {
         "status": "done",

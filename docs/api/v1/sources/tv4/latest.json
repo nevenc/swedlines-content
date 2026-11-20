@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-20T17:31:16+01:00",
+  "generated_at": "2026-11-20T17:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8b2750ca8ee8",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7dS55XtIi9T3ZsiQG3cD5u/valdslarmet-gav-resultat-facket-far-igenom-kraven",
+      "guid": "7dS55XtIi9T3ZsiQG3cD5u",
+      "published_at": "2026-11-20T17:38:28+01:00",
+      "fetched_at": "2026-11-20T17:45:49+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Våldslarmet gav resultat – facket får igenom kraven",
+        "summary": "I höstas rapporterade TV4 Nyheterna om att fackförbundet Sveriges Lärare i Stockholm lämnat in en så kallad 6:6 a-begäran till Stockholm stads utbildningsförvaltning. Det efter att det under september registrerades 338 händelser av hot och våld inom Stockholm stads grundskolor.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Violence alarm leads to results – union gets its demands through",
+        "summary": "Last autumn, TV4 Nyheterna reported that the union Sveriges Lärare in Stockholm had submitted a so-called 6:6 a request to the Stockholm city education administration. This came after 338 incidents of threats and violence were registered in Stockholm city's compulsory schools during September."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T17:45:55+01:00"
+      }
+    },
     {
       "id": "058dbbdefbcb",
       "schema_version": 1,
@@ -5740,35 +5769,6 @@
       "en": {
         "title": "SD member resigns – accused of boundary-crossing sexual behaviour",
         "summary": "Dagens Nyheter has investigated how young women are treated within the Sweden Democrats. In a first part of the investigation, a large number of girls testify to how they were subjected to unwanted advances and sexual violence by boys they met in Ungsvenskarna."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "14419c12ec59",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/yY8zeF3akAuNhTCEBbvKc/experten-reder-ut-myter-om-klimakteriet-en-biologisk-haendelse",
-      "guid": "yY8zeF3akAuNhTCEBbvKc",
-      "published_at": "2026-11-12T17:56:15+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Efter fem"
-      ],
-      "sv": {
-        "title": "Experten reder ut myter om klimakteriet: ”En biologisk händelse”",
-        "summary": "I Efter fem kommenterade Zytomierska en studie från Göteborgs universitet som undersökt i vilken ålder kvinnor mår som bäst. Studien visade bland annat att 38-åriga kvinnor är mest stressade, medan 50-åriga kvinnor trivs mer med livet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "The expert clears up myths about the menopause: 'A biological event'",
-        "summary": "On Efter fem, Zytomierska commented on a study from the University of Gothenburg that examined at what age women feel best. Among other things the study showed that 38-year-old women are the most stressed, while 50-year-old women are more content with life."
       },
       "translation": {
         "status": "done",
