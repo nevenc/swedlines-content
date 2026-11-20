@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T16:16:04+01:00",
+  "generated_at": "2026-11-20T16:20:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "26bbc0f93786",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/johan-esk-klart-att-jag-vill-se-klantiga-calle-i-vm",
+      "guid": "https://www.dn.se/sport/johan-esk-klart-att-jag-vill-se-klantiga-calle-i-vm/",
+      "published_at": "2026-11-20T16:20:13+01:00",
+      "fetched_at": "2026-11-20T16:20:51+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/820ca367-e7d0-4a4a-bae6-20d640933e2d.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Johan Esk: Klart att jag vill se klantiga Calle i VM",
+        "summary": "BRUKSVALLARNA. Man vet att skidsäsongen är igång när Calle klantar till det. Trots diskning och halsont hoppas jag att få se de här ”grannarna” från Dalarna i Faluns VM: Calle Halfvarsson och Alvar Myhlback.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Johan Esk: Of course I want to see clumsy Calle at the World Championships",
+        "summary": "BRUKSVALLARNA. You know the ski season has started when Calle makes a blunder. Despite disqualification and a sore throat, I hope to see these 'neighbours' from Dalarna at the Falun World Championships: Calle Halfvarsson and Alvar Myhlback."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:20:57+01:00"
+      }
+    },
     {
       "id": "401284c02aea",
       "schema_version": 1,
@@ -27,6 +54,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:16:03+01:00"
+      }
+    },
+    {
+      "id": "2d59e01153b1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/aq-groups-vd-tankar-aktier-89bRq",
+      "guid": "a99763b4-b9de-4e14-bdbe-a0d2356dde03",
+      "published_at": "2026-11-20T16:14:34+01:00",
+      "fetched_at": "2026-11-20T16:20:53+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1b5f29cb-8f2a-4e77-9925-2a7c6570bd15.jpeg?width=600",
+      "sv": {
+        "title": "AQ Groups vd tankar aktier",
+        "summary": "Verkstadsbolaget AQ Groups vd James Ahrgren har på fredagen köpt 3.200 AQ Group-aktier för 217,45 kronor styck, eller totalt 0,7 miljoner kronor. Det framgår av inrapportering till Finansinspektionens insynsregister.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "AQ Group CEO buys shares",
+        "summary": "AQ Group CEO James Ahrgren, of the engineering company, bought 3,200 AQ Group shares at SEK 217.45 each, or SEK 0.7 million in total on Friday. This is according to a report to the Financial Supervisory Authority's insider register."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:20:57+01:00"
       }
     },
     {
@@ -83,6 +137,85 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:16:03+01:00"
+      }
+    },
+    {
+      "id": "fa163b21d267",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/inflationsforvantningarna-sjunker-hos-usa-hushall",
+      "guid": "c22b42a3-7de2-4cdd-a938-60ad5624d719",
+      "published_at": "2026-11-20T16:11:26+01:00",
+      "fetched_at": "2026-11-20T16:20:53+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Inflationsförväntningarna sjunker hos USA-hushåll",
+        "summary": "University of Michigans index över det amerikanska konsumentförtroendet steg till 51,5 i november jämfört med 48,0 i oktober.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Inflation expectations fall among US households",
+        "summary": "The University of Michigan index of American consumer confidence rose to 51.5 in November from 48.0 in October."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:20:57+01:00"
+      }
+    },
+    {
+      "id": "a02970bdb821",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/mtg-storagare-mangmiljontankar-igen",
+      "guid": "f14bb477-ae35-4677-bc84-272a3adc5692",
+      "published_at": "2026-11-20T16:11:05+01:00",
+      "fetched_at": "2026-11-20T16:20:53+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "MTG-storägare mångmiljontankar – igen",
+        "summary": "MTG:s styrelseledamot Florian Schuhbauer har via bolaget Active Ownership (AOC) köpt knappt 110.000 aktier i gamingbolaget för cirka 11,5 miljoner kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "MTG major shareholder makes multimillion-kronor bets – again",
+        "summary": "MTG board member Florian Schuhbauer has, through the company Active Ownership (AOC), bought just under 110,000 shares in the gaming company for approximately SEK 11.5 million."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:20:57+01:00"
+      }
+    },
+    {
+      "id": "086b18210ac7",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/di-gasell/normbrytande-vinnare-pa-gasellfesten-i-goteborg",
+      "guid": "5e7c4437-434e-4958-a872-8323c4d203ff",
+      "published_at": "2026-11-20T16:10:18+01:00",
+      "fetched_at": "2026-11-20T16:20:53+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a624bd21-b2db-41dd-b770-bb1bad5be930.jpeg?width=600",
+      "sv": {
+        "title": "Normbrytande vinnare på Gasellfesten i Göteborg",
+        "summary": "Att utmana normer och vikten av ett starkt team. Det var några av de återkommande teman när Dagens industri firade Västsveriges snabbast växande företag på Gasellfesten i Göteborg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norm-breaking winners at the Gasell Gala in Göteborg",
+        "summary": "Challenging norms and the importance of a strong team. These were some of the recurring themes when Dagens industri celebrated West Sweden's fastest-growing companies at the Gasell Gala in Göteborg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:20:57+01:00"
       }
     },
     {
@@ -5313,140 +5446,6 @@
       },
       "en": {
         "title": "Russian cruise missile violated Polish airspace"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:31:22+01:00"
-      }
-    },
-    {
-      "id": "861ed3977ef1",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ledare/oljebankerna-har-ingen-anledning-att-skammas",
-      "guid": "3f08c8a6-6bf8-4f77-b781-674e7d6673b3",
-      "published_at": "2026-11-20T11:23:49+01:00",
-      "fetched_at": "2026-11-20T11:31:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/8803da4c-93ca-4b92-b64c-fecae5cc5543.jpeg?width=600",
-      "sv": {
-        "title": "Oljebankerna har ingen anledning att skämmas",
-        "summary": "Svenska banker och pensionsförvaltare har investerat 209 miljarder kronor i olje och gasbolag, enligt en rapport från Fair Finance Guide och Naturskyddsföreningen. Det låter illa ur ett klimatperspektiv. Men verkligheten är mer komplicerad än så.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The oil banks have no reason to be ashamed",
-        "summary": "Swedish banks and pension managers have invested SEK 209 billion in oil and gas companies, according to a report from Fair Finance Guide and the Swedish Society for Nature Conservation. This sounds bad from a climate perspective. But reality is more complicated than that."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:31:22+01:00"
-      }
-    },
-    {
-      "id": "3ccc0125c870",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/9Bv0gq/burnham-i-bryssel-nytt-avtal-vantas-med-eu",
-      "guid": "https://www.svd.se/a/9Bv0gq/burnham-i-bryssel-nytt-avtal-vantas-med-eu?utm_medium=rss",
-      "published_at": "2026-11-20T11:22:35+01:00",
-      "fetched_at": "2026-11-20T11:31:01+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/62f45985-3bb1-32a4-af9b-fe8788ce7761?format=auto&s=08a21c2c8b7b3761e92132bda88f351970da5ef9&w=1000",
-      "sv": {
-        "title": "Burnham i Bryssel – nytt avtal väntas med EU",
-        "summary": "Sex år efter brexit väntas EU och Storbritannien i dag ta ett stort steg närmare varandra.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Burnham in Brussels – new agreement expected with EU",
-        "summary": "Six years after Brexit, the EU and the United Kingdom are expected to take a major step closer to each other today."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:31:22+01:00"
-      }
-    },
-    {
-      "id": "3603871efe41",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/analys/nu-laggs-maktpusslet",
-      "guid": "214e6683-85b4-44fa-81dd-72ff2c9fd9ed",
-      "published_at": "2026-11-20T11:22:33+01:00",
-      "fetched_at": "2026-11-20T11:31:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/4550bcd8-d31d-48e6-a39f-52bf3f8a040c.png?width=600",
-      "sv": {
-        "title": "Nu läggs maktpusslet",
-        "summary": "Euroländernas känsliga maktpussel börjar falla på plats för det nya toppgarnityret på centralbanken ECB. En trio tunga ekonomer på ingång bäddar för kontinuitet, men också en mer proaktiv centralbank.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Now the power puzzle is coming together",
-        "summary": "The euro countries' delicate power puzzle is starting to fall into place for the new top team at the ECB central bank. A trio of heavyweight economists taking up their posts paves the way for continuity, but also for a more proactive central bank."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:31:22+01:00"
-      }
-    },
-    {
-      "id": "879866efa2d5",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/ingrosso-salde-slut-gor-en-till-ullevikonsert",
-      "guid": "30e2b1fa-18d1-412b-9909-65376610ecb6",
-      "published_at": "2026-11-20T11:22:13+01:00",
-      "fetched_at": "2026-11-20T11:31:04+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/233cbdcd-5898-42d4-82bd-19bd51cda15b.jpg?width=600",
-      "sv": {
-        "title": "Ingrosso sålde slut – gör en till Ullevikonsert",
-        "summary": "Biljetterna till Benjamin Ingrossos Ullevi-spelning sålde slut på mindre än en timme. Nu lägger han till ytterligare en konsert på Göteborgsarenan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ingrosso's tickets sold out – adds another Ullevi concert",
-        "summary": "Tickets for Benjamin Ingrosso's Ullevi show sold out in less than an hour. Now he is adding another concert at Göteborgsarenan."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:31:22+01:00"
-      }
-    },
-    {
-      "id": "346101b0b218",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346981",
-      "guid": "rss:sr.se/article/9346981",
-      "published_at": "2026-11-20T11:21:00+01:00",
-      "fetched_at": "2026-11-20T11:30:59+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Två ryska robotar och en drönare har kränkt polskt luftrum",
-        "summary": "Polen uppger att en rysk kryssningsrobot ska ha kränkt det polska luftrummet under natten. Den polske försvarsministern beskriver – under en presskonferens i Warszawa – intrånget som ännu en rysk provokation.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Two Russian missiles and a drone have violated Polish airspace",
-        "summary": "Poland reports that a Russian cruise missile is said to have violated Polish airspace during the night. The Polish defence minister describes the intrusion, at a press conference in Warsaw, as yet another Russian provocation."
       },
       "translation": {
         "status": "done",

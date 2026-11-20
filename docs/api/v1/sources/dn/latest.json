@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T16:16:04+01:00",
+  "generated_at": "2026-11-20T16:20:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "26bbc0f93786",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/johan-esk-klart-att-jag-vill-se-klantiga-calle-i-vm",
+      "guid": "https://www.dn.se/sport/johan-esk-klart-att-jag-vill-se-klantiga-calle-i-vm/",
+      "published_at": "2026-11-20T16:20:13+01:00",
+      "fetched_at": "2026-11-20T16:20:51+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/820ca367-e7d0-4a4a-bae6-20d640933e2d.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Johan Esk: Klart att jag vill se klantiga Calle i VM",
+        "summary": "BRUKSVALLARNA. Man vet att skidsäsongen är igång när Calle klantar till det. Trots diskning och halsont hoppas jag att få se de här ”grannarna” från Dalarna i Faluns VM: Calle Halfvarsson och Alvar Myhlback.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Johan Esk: Of course I want to see clumsy Calle at the World Championships",
+        "summary": "BRUKSVALLARNA. You know the ski season has started when Calle makes a blunder. Despite disqualification and a sore throat, I hope to see these 'neighbours' from Dalarna at the Falun World Championships: Calle Halfvarsson and Alvar Myhlback."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:20:57+01:00"
+      }
+    },
     {
       "id": "401284c02aea",
       "schema_version": 1,
@@ -5367,33 +5394,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T21:01:25+01:00"
-      }
-    },
-    {
-      "id": "36727eb5d4eb",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/imam-erbjods-10-000-for-vigsel-de-ville-ha-en-halal-relation",
-      "guid": "https://www.dn.se/sverige/imam-erbjods-10-000-for-vigsel-de-ville-ha-en-halal-relation/",
-      "published_at": "2026-11-17T20:44:09+01:00",
-      "fetched_at": "2026-11-17T20:45:45+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/ba2b1342-ec73-4640-ac1d-f84aa918b704.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Imam erbjöds 10 000 för vigsel: ”De ville ha en halal-relation”",
-        "summary": "SVT:s avslöjande om att flera svenska imamer accepterar månggifte har väckt starka känslor i muslimska församlingar. En rad olika granskningar har inletts. – Reportaget visar en del av verkligheten som vi annars inte ser, säger Ajdin Terzic, imam i Bosniakiska församlingen i Halmstad.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Imam offered SEK 10,000 for wedding: \"They wanted a halal relationship\"",
-        "summary": "SVT's exposé that several Swedish imams accept polygamy has stirred strong emotions in Muslim congregations. A number of reviews have been launched. – The report shows a part of reality that we otherwise don't see, says Ajdin Terzic, imam at the Bosniak congregation in Halmstad."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T20:45:54+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T16:16:04+01:00",
+  "generated_at": "2026-11-20T16:20:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "26bbc0f93786",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/johan-esk-klart-att-jag-vill-se-klantiga-calle-i-vm",
+      "guid": "https://www.dn.se/sport/johan-esk-klart-att-jag-vill-se-klantiga-calle-i-vm/",
+      "published_at": "2026-11-20T16:20:13+01:00",
+      "fetched_at": "2026-11-20T16:20:51+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/820ca367-e7d0-4a4a-bae6-20d640933e2d.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Johan Esk: Klart att jag vill se klantiga Calle i VM",
+        "summary": "BRUKSVALLARNA. Man vet att skidsäsongen är igång när Calle klantar till det. Trots diskning och halsont hoppas jag att få se de här ”grannarna” från Dalarna i Faluns VM: Calle Halfvarsson och Alvar Myhlback.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Johan Esk: Of course I want to see clumsy Calle at the World Championships",
+        "summary": "BRUKSVALLARNA. You know the ski season has started when Calle makes a blunder. Despite disqualification and a sore throat, I hope to see these 'neighbours' from Dalarna at the Falun World Championships: Calle Halfvarsson and Alvar Myhlback."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:20:57+01:00"
+      }
+    },
     {
       "id": "6edee30a4de6",
       "schema_version": 1,
@@ -5571,32 +5598,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T20:30:22+01:00"
-      }
-    },
-    {
-      "id": "3265334be491",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/fotbollsherrarna-jagar-gruppseger",
-      "guid": "f9ff35c4-c164-4e74-b723-8ae4c03396c5",
-      "published_at": "2026-11-14T19:00:00+01:00",
-      "fetched_at": "2026-11-14T20:30:12+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Fotbollsherrarna jagar gruppseger",
-        "summary": "Fortsätter succén för Graham Potters landslag? Sverige tar emot Bosnien-Hercegovina på Strawberry arena och kan säkra uppflyttning till Nations Leagues A-division.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The men's national team chases group win",
-        "summary": "Will Graham Potter's national team's success continue? Sweden welcomes Bosnia-Herzegovina at Strawberry arena and can secure promotion to the Nations League A division."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:32+01:00"
       }
     }
   ]
