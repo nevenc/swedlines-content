@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T12:31:07+01:00",
+  "generated_at": "2026-11-20T12:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ea632b1695fa",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347049",
+      "guid": "rss:sr.se/article/9347049",
+      "published_at": "2026-11-20T12:33:00+01:00",
+      "fetched_at": "2026-11-20T12:45:42+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Hyresgästföreningen om överhyror bland utsatta: ”Förkastligt”",
+        "summary": "Hyresgästföreningen riktar skarp kritik mot att Stockholms stads bostadsstiftelse SHIS tagit ut oskäligt höga hyror av bland andra flyktingar och människor i social utsatthet. Flera hyresgäster från krigets Ukraina har fått betala tusentals kronor för mycket i månaden.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Tenants' Association on overcharged rents among vulnerable groups: \"Reprehensible\"",
+        "summary": "The Tenants' Association sharply criticises Stockholm city's housing foundation SHIS for charging unreasonably high rents to, among others, refugees and people in social vulnerability. Several tenants from war-torn Ukraine have had to pay thousands of kronor too much per month."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:45:49+01:00"
+      }
+    },
     {
       "id": "be5e4c821624",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "At least 44 killed in attacks in Kongo-Kinshasa",
         "summary": "In Kongo-Kinshasa, at least 44 people have been killed in attacks carried out by a group of armed individuals with links to the terrorist movement IS. According to AFP, the attacks took place earlier this week in the north-eastern parts of the country."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:02+01:00"
-      }
-    },
-    {
-      "id": "2f6e62d49ab7",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340100",
-      "guid": "rss:sr.se/article/9340100",
-      "published_at": "2026-11-14T04:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Över 400 000 sjuka från brandröken i Indonesien: ”Svårt att andas”",
-        "summary": "Röken från bränderna i Indonesien har lett till minst 400 000 luftvägsinfektioner, enligt hälsoministeriet. En uppskattning från Helsingforsbaserade organisationen Centre for Research on Energy and Clean Air säger att röken kan ha orsakat omkring 3 500 dödsfall i Indonesien bara under september…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Over 400,000 sick from Indonesian fire smoke: \"Hard to breathe\"",
-        "summary": "Smoke from the fires in Indonesia has led to at least 400,000 respiratory infections, according to the health ministry. An estimate from the Helsinki-based Centre for Research on Energy and Clean Air says the smoke may have caused about 3,500 deaths in Indonesia in September alone…"
       },
       "translation": {
         "status": "done",

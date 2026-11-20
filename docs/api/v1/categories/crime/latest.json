@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T12:31:07+01:00",
+  "generated_at": "2026-11-20T12:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "728e670df59e",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/serievaldtaktsmannen-babyface-begars-haktad-for-ny-valdtakt",
+      "guid": "https://www.dn.se/sverige/serievaldtaktsmannen-babyface-begars-haktad-for-ny-valdtakt/",
+      "published_at": "2026-11-20T12:31:48+01:00",
+      "fetched_at": "2026-11-20T12:45:42+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/4d0067dc-a5f1-4b26-acf4-2731c23b896e.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Serievåldtäktsmannen ”Babyface” begärs häktad för ny våldtäkt",
+        "summary": "Som tonåring spred han skräck i Göteborg när han åkte runt på sin moped och trängde sig in i sina kvinnors lägenheter för att våldta dem. Nu, 33 år gammal häktas han på sannolika skäl misstänkt för en ny våldtäkt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Serial rapist \"Babyface\" to be remanded in custody for new rape",
+        "summary": "As a teenager he spread terror in Göteborg, riding around on his moped and forcing his way into his victims' apartments to rape them. Now, aged 33, he is to be remanded in custody on probable cause, suspected of a new rape."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:45:49+01:00"
+      }
+    },
     {
       "id": "0e0b5bacd268",
       "schema_version": 1,
@@ -5357,35 +5384,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T21:01:13+01:00"
-      }
-    },
-    {
-      "id": "b6fe6def676d",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/74qt5xjeF45Ai94mapCIUb/broed-och-salt-affaer-kan-vara-brottslig-boer-inleda-foerundersoekning",
-      "guid": "74qt5xjeF45Ai94mapCIUb",
-      "published_at": "2026-11-16T20:22:55+01:00",
-      "fetched_at": "2026-11-16T20:31:00+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Brott och straff"
-      ],
-      "sv": {
-        "title": "Bröd och Salt-affär kan vara brottslig: ”Finns anledning att anta”",
-        "summary": "Bröd och Salt har vuxit snabbt, och många caféer ligger på attraktiva adresser i Stockholm. År 2022 får ägaren Michel Mourad nys om en lokal i en kebabrestaurang med ett toppläge i centrala Stockholm. Bröd och Salt köper upp företaget som står på hyreskontraktet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Bröd och Salt sale may be criminal: \"Reason to assume\"",
-        "summary": "Bröd och Salt has grown rapidly, and many of its cafés are on attractive addresses in Stockholm. In 2022, owner Michel Mourad learns of a premises in a kebab restaurant in a prime location in central Stockholm. Bröd och Salt buys up the company that holds the lease."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T20:31:06+01:00"
       }
     }
   ]

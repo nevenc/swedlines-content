@@ -1,7 +1,53 @@
 {
-  "generated_at": "2026-11-20T12:31:07+01:00",
+  "generated_at": "2026-11-20T12:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7192f5071008",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-163-kvm-saldes-for-6-3-miljoner",
+      "guid": "aacea421-ed5b-4f22-8eba-f54e6790216b",
+      "published_at": "2026-11-20T12:31:52+01:00",
+      "fetched_at": "2026-11-20T12:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Hus på 163 kvm såldes för 6,3 miljoner"
+      },
+      "en": {
+        "title": "House of 163 sqm sold for 6.3 million"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:45:49+01:00"
+      }
+    },
+    {
+      "id": "6a9fb93e2a74",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/fastighetsaffarer/161-kvadratmeter-stort-hus-i-hofterup-loddekopinge-salt",
+      "guid": "142181a8-7f53-4e19-92ae-72fd5d3dfc45",
+      "published_at": "2026-11-20T12:31:51+01:00",
+      "fetched_at": "2026-11-20T12:45:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "161 kvadratmeter stort hus i Hofterup, Löddeköpinge sålt"
+      },
+      "en": {
+        "title": "161 sqm house in Hofterup, Löddeköpinge sold"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:45:49+01:00"
+      }
+    },
     {
       "id": "b58836f12a4e",
       "schema_version": 1,
@@ -5151,60 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T10:31:10+01:00"
-      }
-    },
-    {
-      "id": "3c813469b15f",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/efter-haveriet-nytt-kvittningssystem-i-riksdagen",
-      "guid": "d9247b7f-c443-4e36-846c-141593924877",
-      "published_at": "2026-11-18T10:19:53+01:00",
-      "fetched_at": "2026-11-18T10:31:03+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/df9442ca-1d8b-4f26-8a84-d00ee6fe2dd1.jpg?width=600",
-      "sv": {
-        "title": "Efter haveriet – nytt kvittningssystem i riksdagen",
-        "summary": "Riksdagspartierna är överens om en ny kvittningsöverenskommelse. Det gamla avtalet havererade för sex månader sedan och har orsakat kaos i riksdagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the breakdown – new pairing system in the Riksdag",
-        "summary": "The Riksdag parties have agreed on a new pairing agreement. The old agreement broke down six months ago and has caused chaos in the Riksdag."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T10:31:10+01:00"
-      }
-    },
-    {
-      "id": "698462496ed6",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/ilska-pa-toppmotet-skitsnack-och-luft",
-      "guid": "84f7e4d5-7692-46a3-94a5-9329dd56fd25",
-      "published_at": "2026-11-18T10:11:46+01:00",
-      "fetched_at": "2026-11-18T10:15:53+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/a4c89fdd-5eed-4fac-8cf3-352f3ae9bc59.jpg?width=600",
-      "sv": {
-        "title": "Ilska på toppmötet: ”Skitsnack och luft”",
-        "summary": "Frustrationen växer bland vissa förhandlare på klimattoppmötet. – Det är bara vackra tal som inte är mer än skitsnack och luft, säger Panamas miljöminister Juan Carlos Navarro till TT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anger at the summit: \"Empty talk and hot air\"",
-        "summary": "Frustration is growing among some negotiators at the climate summit. – It's just beautiful words that are no more than empty talk and hot air, says Panama's environment minister Juan Carlos Navarro to TT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T10:15:58+01:00"
       }
     }
   ]

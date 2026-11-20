@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-20T12:31:07+01:00",
+  "generated_at": "2026-11-20T12:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ea632b1695fa",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347049",
+      "guid": "rss:sr.se/article/9347049",
+      "published_at": "2026-11-20T12:33:00+01:00",
+      "fetched_at": "2026-11-20T12:45:42+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Hyresgästföreningen om överhyror bland utsatta: ”Förkastligt”",
+        "summary": "Hyresgästföreningen riktar skarp kritik mot att Stockholms stads bostadsstiftelse SHIS tagit ut oskäligt höga hyror av bland andra flyktingar och människor i social utsatthet. Flera hyresgäster från krigets Ukraina har fått betala tusentals kronor för mycket i månaden.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Tenants' Association on overcharged rents among vulnerable groups: \"Reprehensible\"",
+        "summary": "The Tenants' Association sharply criticises Stockholm city's housing foundation SHIS for charging unreasonably high rents to, among others, refugees and people in social vulnerability. Several tenants from war-torn Ukraine have had to pay thousands of kronor too much per month."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:45:49+01:00"
+      }
+    },
+    {
+      "id": "3341cf54eb26",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/kMJxQX/barnen-pa-safiren-far-stanna-pappans-lattnad",
+      "guid": "https://www.aftonbladet.se/nyheter/a/kMJxQX/barnen-pa-safiren-far-stanna-pappans-lattnad?utm_medium=rss",
+      "published_at": "2026-11-20T12:31:26+01:00",
+      "fetched_at": "2026-11-20T12:45:43+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/f96e90e3-8102-3e5a-92fb-6df63eb1058c?format=auto&s=8c74e4d2edcf335e02671922a85c761d035d117c&w=1000",
+      "sv": {
+        "title": "Barnen på Safiren får stanna – pappans lättnad",
+        "summary": "De fem svårt sjuka barnen på LSS-boendet Safiren i Vallentuna riskerade att förlora sitt hem efter en administrativ miss. Nu kovänder regionen och låter barnen stanna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Children at Safiren may stay – father relieved",
+        "summary": "The five seriously ill children at the LSS home Safiren in Vallentuna risked losing their home after an administrative error. Now the region reverses course and lets the children stay."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:45:49+01:00"
+      }
+    },
     {
       "id": "a20312f0056e",
       "schema_version": 1,
@@ -5352,56 +5405,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T12:45:55+01:00"
-      }
-    },
-    {
-      "id": "f9ca8dca0b67",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/bk57we/flera-bostader-brinner-i-radhusbrand",
-      "guid": "https://www.aftonbladet.se/nyheter/a/bk57we/flera-bostader-brinner-i-radhusbrand?utm_medium=rss",
-      "published_at": "2026-11-17T12:28:28+01:00",
-      "fetched_at": "2026-11-17T12:31:01+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/b253afb0-3bb4-35dd-a8ba-9b63d2210763?format=auto&s=5cbcfd4eb6d3193895b41a95b264fc8d960d24d1&w=1000",
-      "sv": {
-        "title": "Flera bostäder brinner i radhusbrand",
-        "summary": "En brand har brutit ut i en radhuslänga i Södertälje, skriver polisen på sin hemsida.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Several homes burn in row house fire",
-        "summary": "A fire has broken out in a row house block in Södertälje, the police say on their website."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:31:09+01:00"
-      }
-    },
-    {
-      "id": "2ecc6fbf51f6",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80000",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80000&utm_medium=rss",
-      "published_at": "2026-11-17T12:27:11+01:00",
-      "fetched_at": "2026-11-17T12:31:01+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Radhus brinner i Södertälje"
-      },
-      "en": {
-        "title": "Row house on fire in Södertälje"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:31:09+01:00"
       }
     }
   ]

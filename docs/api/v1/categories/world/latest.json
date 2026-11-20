@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T12:31:07+01:00",
+  "generated_at": "2026-11-20T12:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a1ad9b7c3cf2",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/GPG5mq/ryssland-planerade-blodigt-dad-vid-polska-gransen",
+      "guid": "https://www.aftonbladet.se/nyheter/a/GPG5mq/ryssland-planerade-blodigt-dad-vid-polska-gransen?utm_medium=rss",
+      "published_at": "2026-11-20T12:43:56+01:00",
+      "fetched_at": "2026-11-20T12:45:43+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/81e3c64e-c72b-373a-875e-e29e14fe766c?format=auto&s=334e84a74cb7d41a854acb4cd381c2cf0b39c8c0&w=1000",
+      "sv": {
+        "title": "Ryssland planerade blodigt dåd vid polska gränsen: ”Klassiskt terrordåd”",
+        "summary": "Skulle peka mot Kiev ✓ Män med ficklampor",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russia planned bloody attack at Polish border: \"Classic terror attack\"",
+        "summary": "Would point towards Kyiv ✓ Men with torches"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:45:49+01:00"
+      }
+    },
     {
       "id": "887c729d50f4",
       "schema_version": 1,
@@ -5367,32 +5394,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T17:45:57+01:00"
-      }
-    },
-    {
-      "id": "d10952e29fb5",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/svenske-professorn-epstein-kan-ha-mordats",
-      "guid": "https://www.expressen.se/nyheter/varlden/svenske-professorn-epstein-kan-ha-mordats/",
-      "published_at": "2026-11-18T17:10:14+01:00",
-      "fetched_at": "2026-11-18T17:15:46+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Svenske professorn: Epstein kan ha mördats",
-        "summary": "Tog Jeffrey Epstein verkligen sitt liv i sin cell? Nej, anser den svenske forskaren Anders Eriksson, som tillsammans med två andra rättsmedicinska experter granskat obduktionsmaterialet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Swedish professor: Epstein may have been murdered",
-        "summary": "Did Jeffrey Epstein really take his own life in his cell? No, says the Swedish researcher Anders Eriksson, who together with two other forensic experts has examined the autopsy material."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:15:53+01:00"
       }
     }
   ]
