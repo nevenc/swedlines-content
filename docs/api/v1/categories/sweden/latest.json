@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-20T05:45:49+01:00",
+  "generated_at": "2026-11-20T06:01:39+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4bd25ec7a1fa",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344225",
+      "guid": "rss:sr.se/article/9344225",
+      "published_at": "2026-11-20T06:00:00+01:00",
+      "fetched_at": "2026-11-20T06:01:13+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Elbolag har fått största sanktionsavgiften hittills för brister i säkerhetsskyddet",
+        "summary": "Flera verksamheter som är viktiga för Sveriges säkerhet har haft brister i säkerhetsskyddet mot exempelvis spionage och sabotage som bedömts så allvarliga att de fått betala miljonbelopp i så kallad sanktionsavgift, det visar Ekots granskning.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Electricity company receives largest sanction fee so far for security protection shortcomings",
+        "summary": "Several operations important to Sweden's security have had shortcomings in their security protection against, for example, espionage and sabotage, judged serious enough that they have had to pay millions in so-called sanction fees, according to an Ekot investigation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:01:34+01:00"
+      }
+    },
+    {
+      "id": "cda7b4e063e7",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9345954",
+      "guid": "rss:sr.se/article/9345954",
+      "published_at": "2026-11-20T06:00:00+01:00",
+      "fetched_at": "2026-11-20T06:01:13+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Flera beslut om sanktionsavgift har överklagats",
+        "summary": "Flera verksamheter som har fått så kallad sanktionsavgift för brister i säkerhetsskyddsarbetet mot sabotage, spionage och terrorism - har överklagat besluten, det framgår i Ekots granskning. Ett exempel är Göteborgs universitet som tyckte att summan på åtta miljoner var för hög.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Several sanction fee decisions have been appealed",
+        "summary": "Several operations that have received so-called sanction fees for shortcomings in security protection work against sabotage, espionage and terrorism have appealed the decisions, according to an Ekot investigation. One example is the University of Gothenburg, which considered the sum of eight million to be too high."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:01:34+01:00"
+      }
+    },
     {
       "id": "2f01cff4e58f",
       "schema_version": 1,
@@ -54,6 +106,42 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T05:45:48+01:00"
+      }
+    },
+    {
+      "id": "cff421936539",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/har-ar-omradena-som-kan-fa-plaskis-i-goteborg.d145f537-40a8-5721-a5b2-62f7fd809d50",
+      "guid": "d145f537-40a8-5721-a5b2-62f7fd809d50",
+      "published_at": "2026-11-20T05:39:58+01:00",
+      "fetched_at": "2026-11-20T06:01:18+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: Angered",
+        "Tagg: Hjällbo",
+        "Tagg: Biskopsgården",
+        "Tagg: Göteborgs stad",
+        "Tagg: VITA FLÄCKAR Angered",
+        "Tagg: Badanläggningar"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/342cf00d-2532-309a-85b4-22d89bceffa8",
+      "sv": {
+        "title": "Två nya plaskisdammar kan byggas i Göteborg – här föreslås de ligga",
+        "summary": "Kungsladugård har sin plaskis. Nu står två nya platser näst på tur när det ska byggas fler runt om i Göteborg. Ytterligare två plaskisdammar planeras.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two new paddling pools could be built in Göteborg – here is where they are proposed",
+        "summary": "Kungsladugård has its paddling pool. Now two new locations are next in line as more are to be built around Göteborg. Two more paddling pools are planned."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:01:38+01:00"
       }
     },
     {
@@ -5314,96 +5402,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T08:15:46+01:00"
-      }
-    },
-    {
-      "id": "e839ca4e98d4",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/allvarliga-bristningar-och-stora-blodningar-vid-forlossning-okar.cc7e3bc8-1fa0-51d7-8d05-31b37c7567e5",
-      "guid": "cc7e3bc8-1fa0-51d7-8d05-31b37c7567e5",
-      "published_at": "2026-11-17T08:02:57+01:00",
-      "fetched_at": "2026-11-17T08:15:40+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: Samhällsredaktionen",
-        "Tagg: SKR, Sveriges kommuner och regioner",
-        "Tagg: Förlossningsvården",
-        "Tagg: Vård",
-        "Tagg: Sveriges kommuner och regioner",
-        "Tagg: Förlossning",
-        "Tagg: Gravid",
-        "Tagg: Mödravård",
-        "Tagg: Västra Götalandsregionen"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/e40b6b0f-b03d-3338-8d8b-17de047ccdba",
-      "sv": {
-        "title": "Allvarliga bristningar och stora blödningar vid förlossning har ökat"
-      },
-      "en": {
-        "title": "Serious tears and heavy bleeding during childbirth have increased"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:15:46+01:00"
-      }
-    },
-    {
-      "id": "35c37c7b10c6",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/byggde-skydd-mot-oversvamning-skarpt-lage-direkt",
-      "guid": "a13af69c-1574-4b37-b1c0-6ffc3ebe1d83",
-      "published_at": "2026-11-17T06:15:21+01:00",
-      "fetched_at": "2026-11-17T06:15:45+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/c311f4cf-625b-4c6c-8b14-1b27500a73b8.jpg?width=600",
-      "sv": {
-        "title": "Byggde skydd mot översvämning – skarpt läge direkt",
-        "summary": "Efter översvämningen 2000 bestämde sig Arvika kommun för att det aldrig skulle få hända igen. 20 år senare stod översvämningsskyddet klart. Det kom till användning nästan direkt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Built flood protection – put to use right away",
-        "summary": "After the 2000 flood, Arvika municipality decided it should never happen again. Twenty years later the flood protection was completed. It was put to use almost immediately."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:15:50+01:00"
-      }
-    },
-    {
-      "id": "9f21c82ac07b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/QroPgR/byggde-skydd-mot-oversvamning-skarpt-lage-direkt",
-      "guid": "https://www.svd.se/a/QroPgR/byggde-skydd-mot-oversvamning-skarpt-lage-direkt?utm_medium=rss",
-      "published_at": "2026-11-17T06:15:13+01:00",
-      "fetched_at": "2026-11-17T06:30:57+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/2186a631-e1a0-39dd-891e-eb79cf2501bf?format=auto&s=42b959a3efc19a9cbfd0919571909cf027317048&w=1000",
-      "sv": {
-        "title": "Byggde skydd mot översvämning – skarpt läge direkt",
-        "summary": "Efter översvämningen 2000 bestämde sig Arvika kommun för att det aldrig skulle få hända igen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Built flood defences – now put to the test immediately",
-        "summary": "After the 2000 flood, Arvika municipality decided that it should never happen again."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:31:06+01:00"
       }
     }
   ]
