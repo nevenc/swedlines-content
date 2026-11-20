@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-20T23:31:08+01:00",
+  "generated_at": "2026-11-20T23:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "be07c8f68d16",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/kommuntoppens-distansjobb-fran-spanska-solkusten",
+      "guid": "https://www.expressen.se/nyheter/sverige/kommuntoppens-distansjobb-fran-spanska-solkusten/",
+      "published_at": "2026-11-20T23:37:13+01:00",
+      "fetched_at": "2026-11-20T23:45:46+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Kommuntoppens distansjobb – från spanska solkusten",
+        "summary": "Österåkers HR-chef väljer spanska solkusten före Åkersberga. Genom ”en särskild överenskommelse” tillåts hon jobba på distans från Costa del Sol. – När jag är inne och rör mig får jag samma känsla som om jag hade varit här exakt varje dag, säger hon till Nu Österåker",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Municipal top official's remote work – from the Spanish sunny coast",
+        "summary": "Österåker's HR chief chooses the Spanish sunny coast over Åkersberga. Through \"a special agreement\" she is allowed to work remotely from the Costa del Sol. \"When I'm in and moving around, I get the same feeling as if I had been here exactly every day,\" she tells Nu Österåker"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T23:45:51+01:00"
+      }
+    },
+    {
+      "id": "266ad2356f7b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/pourmokhtari-starkt-kritisk-till-avtalsforslaget",
+      "guid": "https://www.expressen.se/nyheter/varlden/pourmokhtari-starkt-kritisk-till-avtalsforslaget/",
+      "published_at": "2026-11-20T23:35:18+01:00",
+      "fetched_at": "2026-11-20T23:45:46+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Pourmokhtari starkt kritisk till avtalsförslaget",
+        "summary": "Klimattoppmötet COP 31 drar ut på tiden. Man kommer inte överens. I det senaste avtalsförslaget utelämnas ordet ”fossil”. – Det är ett katastrofalt förslag som kommer från det turkiska och australienska ordförandeskapet, säger klimat- och miljöminister Romina Pourmokhtari (L).",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Pourmokhtari strongly critical of draft agreement",
+        "summary": "The COP 31 climate summit is dragging on. No agreement is being reached. In the latest draft agreement the word \"fossil\" is left out. \"It is a catastrophic proposal coming from the Turkish and Australian presidency,\" says Climate and Environment Minister Romina Pourmokhtari (L)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T23:45:51+01:00"
+      }
+    },
     {
       "id": "24064f18a5b6",
       "schema_version": 1,
@@ -5385,59 +5437,6 @@
       "en": {
         "title": "The Speaker meets party leaders on Tuesday",
         "summary": "Speaker Andreas Norlén will meet party leaders and spokespersons for all parties on Tuesday, according to a press release."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:16:03+01:00"
-      }
-    },
-    {
-      "id": "b1ca6c93212e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/anthropic-faller-wall-street-aterhamtar-sig",
-      "guid": "49b91e8e-40a2-4c05-b5f6-b593c64d90f5",
-      "published_at": "2026-11-20T16:03:07+01:00",
-      "fetched_at": "2026-11-20T16:15:54+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0c6de097-df97-439c-9867-f6e39753955b.jpeg?width=600",
-      "sv": {
-        "title": "Anthropic faller – Wall Street återhämtar sig",
-        "summary": "USA-börserna var på ett fortsatt uselt humör i fredagens inledande handel, men återhämtade sig relativt snabbt. AI-jätten Anthropic fick en smakstart på karriären som noterat bolag, men på fredagen var det andra bullar och aktien faller i den inledande handeln.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anthropic falls – Wall Street recovers",
-        "summary": "US stock exchanges were in a continued poor mood in Friday's opening trade, but recovered relatively quickly. AI giant Anthropic got a rocky start to its career as a listed company, but on Friday it was a different story, and the share falls in the opening trade."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:16:03+01:00"
-      }
-    },
-    {
-      "id": "864b708d9155",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/humoret-forbattras-hos-emu-hushallen",
-      "guid": "4e4094d1-fcc9-4150-a8ed-5971ca168aec",
-      "published_at": "2026-11-20T16:03:06+01:00",
-      "fetched_at": "2026-11-20T16:15:54+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Humöret förbättras hos EMU-hushållen",
-        "summary": "EU-kommissionens snabbestimat för konfidensindikatorn för hushåll i euroområdet steg till -16,9 i november jämfört med -17,9 föregående månad.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mood improves among eurozone households",
-        "summary": "The European Commission's flash estimate of the consumer confidence indicator for households in the euro area rose to -16.9 in November from -17.9 the previous month."
       },
       "translation": {
         "status": "done",
