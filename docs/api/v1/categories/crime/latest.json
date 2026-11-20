@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-20T19:45:51+01:00",
+  "generated_at": "2026-11-20T20:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "393895fb0608",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/mMRxVv/svenska-fangarna-pa-tartu-fangelset-i-estland-larmar-om-daliga-forhallanden",
+      "guid": "https://www.svd.se/a/mMRxVv/svenska-fangarna-pa-tartu-fangelset-i-estland-larmar-om-daliga-forhallanden?utm_medium=rss",
+      "published_at": "2026-11-20T19:52:12+01:00",
+      "fetched_at": "2026-11-20T20:01:13+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/25bc27f4-61ef-3e49-af87-42fab8a43b16?format=auto&s=7b7be29d1c6f48b132ac241440b88b8a3bd25ca1&w=1000",
+      "sv": {
+        "title": "Efter matbråket i Tartu: Sverige skickar experter",
+        "summary": "Små portioner och ensidig kost. De svenska intagna på Tartu-fängelset i Estland är fortfarande…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After food fight in Tartu: Sweden sends experts",
+        "summary": "Small portions and monotonous diet. The Swedish inmates at the Tartu prison in Estonia are still…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T20:01:22+01:00"
+      }
+    },
+    {
+      "id": "b586e9964694",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Oyp1el/spokbokningar-pa-tag-utreds-som-dataintrang",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Oyp1el/spokbokningar-pa-tag-utreds-som-dataintrang?utm_medium=rss",
+      "published_at": "2026-11-20T19:47:45+01:00",
+      "fetched_at": "2026-11-20T20:01:13+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/aa8dfcaf-802b-3094-a462-9dbe10c81a05?format=auto&s=e4a6e82d964ba64e6e30bbf517e38a72d7f7c789&w=1000",
+      "sv": {
+        "title": "”Spökbokningar” på tåg utreds som dataintrång",
+        "summary": "Hotfulla namnen ✓ Misstänkt cyberbrott",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Ghost bookings\" on trains investigated as data intrusion",
+        "summary": "Threatening names ✓ Suspected cybercrime"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T20:01:22+01:00"
+      }
+    },
     {
       "id": "50ed23313064",
       "schema_version": 1,
@@ -5332,55 +5386,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T10:01:55+01:00"
-      }
-    },
-    {
-      "id": "8e99e2d4803a",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/skane/mordhotade-amanda-lind-atalas",
-      "guid": "https://www.svt.se/nyheter/lokalt/skane/mordhotade-amanda-lind-atalas",
-      "published_at": "2026-11-17T09:48:53+01:00",
-      "fetched_at": "2026-11-17T10:01:18+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Mordhotade Amanda Lind (MP) – man åtalas",
-        "summary": "En man i 45-årsåldern från Östra Göinge åtalas för att ha mordhotat Miljöpartiets språkrör Amanda Lind, skriver Kristianstadsbladet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Death-threatened Amanda Lind (MP) – man charged",
-        "summary": "A man aged 45 from Östra Göinge is charged with having threatened to murder Green Party spokesperson Amanda Lind, Kristianstadsbladet reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T10:01:55+01:00"
-      }
-    },
-    {
-      "id": "1c220b85ca0b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79994",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79994&utm_medium=rss",
-      "published_at": "2026-11-17T09:43:11+01:00",
-      "fetched_at": "2026-11-17T09:45:43+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Mordhotade Amanda Lind – åtalas"
-      },
-      "en": {
-        "title": "Murder-threatened Amanda Lind charged"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:45:48+01:00"
       }
     }
   ]

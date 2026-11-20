@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-11-20T19:45:51+01:00",
+  "generated_at": "2026-11-20T20:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3e36b0eed129",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/klimat/tiden-rinner-ut-pa-cop31-last-lage-i-antalya.28982dd2-21b8-5158-a14e-7e3854893569",
+      "guid": "28982dd2-21b8-5158-a14e-7e3854893569",
+      "published_at": "2026-11-20T19:28:56+01:00",
+      "fetched_at": "2026-11-20T20:01:14+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Klimat",
+        "Tagg: EU",
+        "Tagg: Panama",
+        "Tagg: Antalya",
+        "Tagg: Romina Pourmokhtari",
+        "Tagg: Sverige",
+        "Tagg: USA",
+        "Tagg: COP31"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/f07836de-42b6-3a61-b00c-39b0f168a5a4",
+      "sv": {
+        "title": "Låst läge på klimatmötet – pengar och utsläpp delar länderna",
+        "summary": "På COP31:s planerade slutdag har länderna ännu inte enats om en sluttext. Klimatforskaren Mikael Karlsson är på plats i Antalya och förklarar varför det är ovanligt svårt att komma överens i år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Climate talks stalled – money and emissions divide countries",
+        "summary": "On COP31's planned final day, countries have yet to agree on a final text. Climate researcher Mikael Karlsson is on site in Antalya and explains why it is unusually difficult to reach agreement this year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T20:01:22+01:00"
+      }
+    },
     {
       "id": "c81453f23d41",
       "schema_version": 1,
@@ -6863,42 +6900,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T11:31:23+01:00"
-      }
-    },
-    {
-      "id": "61f5fe22a191",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/fa-koll-pa-dagens-viktigaste-nyheter-med-gp-pejl.e101fcf2-82d0-5e78-9831-b6da533c99ea",
-      "guid": "e101fcf2-82d0-5e78-9831-b6da533c99ea",
-      "published_at": "2026-11-16T10:56:13+01:00",
-      "fetched_at": "2026-11-16T11:00:38+01:00",
-      "category": "other",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: breaking-GP",
-        "Tagg: Nyheter",
-        "Tagg: Göteborg",
-        "Tagg: Sverige",
-        "Tagg: Journalistik",
-        "Tagg: Stampen"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/cbdf26c1-637e-362e-ba70-4a789a8a4040",
-      "sv": {
-        "title": "Få grepp om nyhetsflödet med GP Pejl",
-        "summary": "Dagens viktigaste nyheter sammanfattade och förklarade.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Get a grip on the news flow with GP Pejl",
-        "summary": "Today's most important news summarised and explained."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T11:00:46+01:00"
       }
     }
   ]
