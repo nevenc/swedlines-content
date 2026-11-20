@@ -1,7 +1,69 @@
 {
-  "generated_at": "2026-11-20T17:45:56+01:00",
+  "generated_at": "2026-11-20T18:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "289d56fb5885",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/oppning-for-unga-nar-storbritannien-narmar-sig-eu",
+      "guid": "https://www.dn.se/varlden/oppning-for-unga-nar-storbritannien-narmar-sig-eu/",
+      "published_at": "2026-11-20T17:55:25+01:00",
+      "fetched_at": "2026-11-20T18:01:15+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/71f6025f-99fd-4645-8170-ee968695f499.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Öppning för unga när Storbritannien närmar sig EU",
+        "summary": "Billigare universitetsstudier och ökade möjligheter för unga ingår när EU och Storbritannien avtalar om en ny relation. – Ni är alltid välkomna i EU, hälsar rådsordförande António Costa på toppmötet i Bryssel.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Opening for young people as Britain moves closer to the EU",
+        "summary": "Cheaper university studies and greater opportunities for young people are part of a new relationship agreed between the EU and Britain. – You are always welcome in the EU, says Council President António Costa at the summit in Brussels."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:01:24+01:00"
+      }
+    },
+    {
+      "id": "e29cec011f1f",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/vem-ska-ge-upp-sina-karnvapen.dce80c79-b2d9-5662-b419-7ca0b0a10e13",
+      "guid": "dce80c79-b2d9-5662-b419-7ca0b0a10e13",
+      "published_at": "2026-11-20T17:49:50+01:00",
+      "fetched_at": "2026-11-20T18:01:17+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Xi Jinping",
+        "Tagg: Donald Trump",
+        "Tagg: Kärnvapen",
+        "Tagg: Vladimir Putin",
+        "Tagg: Krig"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/4c7e8317-5821-3dec-b998-938721ec579e",
+      "sv": {
+        "title": "Analys: Vem ska ge upp sina kärnvapen?",
+        "summary": "Xi ”vill se en kärnvapenfri värld” – men Kina bygger ut sin arsenal, skriver GP:s Britt-Marie Mattsson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Analysis: Who will give up their nuclear weapons?",
+        "summary": "Xi \"wants to see a nuclear-weapon-free world\" – but China is expanding its arsenal, writes GP's Britt-Marie Mattsson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:01:24+01:00"
+      }
+    },
     {
       "id": "977337f774e2",
       "schema_version": 1,
@@ -5327,60 +5389,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T04:53:13+01:00"
-      }
-    },
-    {
-      "id": "8fc909c7a976",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/z0GQl5/putin-ryssland-ar-oppet-for-varlden",
-      "guid": "https://www.aftonbladet.se/nyheter/a/z0GQl5/putin-ryssland-ar-oppet-for-varlden?utm_medium=rss",
-      "published_at": "2026-11-19T04:49:50+01:00",
-      "fetched_at": "2026-11-19T04:53:06+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/0b8debd2-7123-34a6-b646-abb968169b92?format=auto&s=750b8a1f1cd89b7c2d2cd9fc9ce853a6b11144a8&w=1000",
-      "sv": {
-        "title": "Putin: Ryssland är öppet för världen",
-        "summary": "Ryssland är och förblir ”öppet för världen” säger landets president Vladimir Putin under Apec-mötet…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Putin: Russia is and remains \"open to the world\"",
-        "summary": "Russia is and remains \"open to the world\", says the country's president Vladimir Putin at the Apec meeting…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T04:53:13+01:00"
-      }
-    },
-    {
-      "id": "dd63a3f17790",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/j3dpQw/prins-harry-kan-tanka-mig-att-strida-mot-ryssland",
-      "guid": "https://www.aftonbladet.se/nyheter/a/j3dpQw/prins-harry-kan-tanka-mig-att-strida-mot-ryssland?utm_medium=rss",
-      "published_at": "2026-11-19T04:13:40+01:00",
-      "fetched_at": "2026-11-19T04:15:42+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/2075fbfc-fe04-3eb7-87e7-b86a942a6329?format=auto&s=c80ed8c9aaa2599576ba0eb69588a601edfda75d&w=1000",
-      "sv": {
-        "title": "Prins Harry: Kan tänka mig att strida mot Ryssland",
-        "summary": "Prins Harry vill se ett större internationellt stöd för Ukraina och säger att han själv inte skulle…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Prince Harry: Could imagine fighting against Russia",
-        "summary": "Prince Harry wants to see greater international support for Ukraine and says he himself would not…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T04:15:47+01:00"
       }
     }
   ]

@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-20T17:45:56+01:00",
+  "generated_at": "2026-11-20T18:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4e1fdb853748",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/dygnet-runt/fran-bongo-till-pickwick-sa-byggde-walterstrom-sitt-nojespalats",
+      "guid": "5f58d25d-5dc5-42ed-978f-bf6cac54e850",
+      "published_at": "2026-11-20T18:00:00+01:00",
+      "fetched_at": "2026-11-20T18:01:18+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/291dfdea-eafa-42ab-a0da-b28704a9221f.jpeg?width=600",
+      "sv": {
+        "title": "Från Bongo till Pickwick – så byggde Walterström sitt nöjespalats",
+        "summary": "Historien om Dan Walterströms nöjespalats Malmborgen tog sin start redan på 60-talet. Här är historien sammanfattad i fem kapitel – från limbokung till bok.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "From Bongo to Pickwick – how Walterström built his entertainment palace",
+        "summary": "The story of Dan Walterström's entertainment palace Malmborgen began as far back as the 1960s. Here is the history summarised in five chapters – from limbo king to book."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:01:24+01:00"
+      }
+    },
+    {
+      "id": "cdc3eb75a7ca",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/mandys-lilla-lilla-trosa-i-nya-gta-ar-det-mest-pinsamma-just-nu",
+      "guid": "323e95a9-73f4-44fd-bf25-3e16d3f5e38e",
+      "published_at": "2026-11-20T18:00:00+01:00",
+      "fetched_at": "2026-11-20T18:01:18+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/6a7db56a-43ea-4cb8-a333-78198abfd46a.jpeg?width=600",
+      "sv": {
+        "title": "Mandys lilla, lilla trosa i nya GTA är det mest pinsamma just nu",
+        "summary": "Man kan inte längre döda prostituerade i tv-spelet, men den kvinnliga fägringen finns kvar. Känner du dig förresten lite blodfattig och glåmig i vinter? Det är numera en trend. Och så råder det namnförvirring deluxe. Vi vet knappt själva vad vi heter längre.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mandy's little, little thong in the new GTA is the most embarrassing thing right now",
+        "summary": "You can no longer kill sex workers in the video game, but the female glamour remains. Do you feel a bit anaemic and dull this winter, by the way? It is now a trend. And there is name confusion deluxe. We barely know what we are called any more."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:01:24+01:00"
+      }
+    },
     {
       "id": "977337f774e2",
       "schema_version": 1,
@@ -5162,56 +5216,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T14:01:21+01:00"
-      }
-    },
-    {
-      "id": "2bd4e5278164",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-145-kvm-saldes-for-9-4-miljoner",
-      "guid": "0875bc1f-fa2d-49b5-81df-c683c2a9541c",
-      "published_at": "2026-11-18T13:37:45+01:00",
-      "fetched_at": "2026-11-18T13:45:47+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Hus på 145 kvm såldes för 9,4 miljoner"
-      },
-      "en": {
-        "title": "House of 145 sqm sold for 9.4 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T13:45:53+01:00"
-      }
-    },
-    {
-      "id": "8b15f6367102",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/nio-av-tio-trygga-vid-forlossning-samre-stod-efterat",
-      "guid": "d1081c16-a077-489b-a2ed-dff9ccdfe324",
-      "published_at": "2026-11-18T13:24:18+01:00",
-      "fetched_at": "2026-11-18T13:31:02+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/1491a689-9197-4054-b1af-76915f93d168.jpg?width=600",
-      "sv": {
-        "title": "Nio av tio trygga vid förlossning – sämre stöd efteråt",
-        "summary": "Förtroendet för gravid- och förlossningsvården fortsätter att öka. Men många saknar stöd när barnet väl är fött, enligt en nationell enkät.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nine in ten feel safe during childbirth – support afterwards is worse",
-        "summary": "Trust in pregnancy and childbirth care continues to rise. But many lack support once the baby is born, according to a national survey."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T13:31:06+01:00"
       }
     }
   ]
