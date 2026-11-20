@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T07:15:50+01:00",
+  "generated_at": "2026-11-20T07:31:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a0ba90d7be13",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/saverman-min-bror-och-jag-at-atta-kanelbullar-om-dagen",
+      "guid": "https://www.dn.se/kultur/saverman-min-bror-och-jag-at-atta-kanelbullar-om-dagen/",
+      "published_at": "2026-11-20T07:30:00+01:00",
+      "fetched_at": "2026-11-20T07:31:04+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/a84441dc-62bb-48ec-a7c8-ac45240d0b33.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Säverman: Min bror och jag åt åtta kanelbullar om dagen",
+        "summary": "Varför är bullar så dyra? Och finns det inga bakelsegafflar för vänsterhänta? I dag går Säverman på kafé samt avslöjar sina matvanor från ungdomen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Säverman: My brother and I ate eight cinnamon buns a day",
+        "summary": "Why are buns so expensive? And are there no pastry forks for left-handed people? Today Säverman visits a café and reveals his eating habits from his youth."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:31:23+01:00"
+      }
+    },
     {
       "id": "a2cfa9a8ff5a",
       "schema_version": 1,
@@ -5361,33 +5388,6 @@
       "en": {
         "title": "She is building prisons worth SEK 61 billion and this is only the beginning",
         "summary": "With the number of prison places doubled, modular prisons and an intensive search for new land, the Prison and Probation Service faces a historic construction boom. Property director Malin Lövström warns at the same time that today's expansive plans may prove insufficient."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T11:01:24+01:00"
-      }
-    },
-    {
-      "id": "a51f2f69587f",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ekonomi/har-byggs-sveriges-storsta-fangelse",
-      "guid": "https://www.dn.se/ekonomi/har-byggs-sveriges-storsta-fangelse/",
-      "published_at": "2026-11-17T10:50:10+01:00",
-      "fetched_at": "2026-11-17T11:01:13+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/03091c4b-5d11-4c84-98a3-86efd3413263.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Här byggs Sveriges största fängelse",
-        "summary": "Trots oro bland invånare och överklaganden har Trelleborgs politiker stått eniga bakom Kriminalvårdens etablering. Om fem år ska Sveriges största fängelse stå klart i landets sydligaste stad, med hundratals nya jobb som följd.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here is where Sweden's largest prison is being built",
-        "summary": "Despite concern among residents and appeals, Trelleborg's politicians have stood united behind the Prison and Probation Service's establishment. In five years, Sweden's largest prison is to be ready in the country's southernmost town, with hundreds of new jobs as a result."
       },
       "translation": {
         "status": "done",

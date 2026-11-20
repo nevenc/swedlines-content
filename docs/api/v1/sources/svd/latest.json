@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-20T07:15:50+01:00",
+  "generated_at": "2026-11-20T07:31:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "663185202c6e",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/8PmV6w/butiker-om-protesterna-inte-som-i-frankrike",
+      "guid": "https://www.svd.se/a/8PmV6w/butiker-om-protesterna-inte-som-i-frankrike?utm_medium=rss",
+      "published_at": "2026-11-20T07:30:12+01:00",
+      "fetched_at": "2026-11-20T07:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/129e46bd-da47-38a6-9d6a-77e9f90a20bd?format=auto&s=7e5379444ad0cdad84cc490de3c80a3a152933ee&w=1000",
+      "sv": {
+        "title": "Butiker om protesterna: Inte som i Frankrike",
+        "summary": "Inför dagens ungdomsprotester har Svensk Handel förberett butiker på det värsta.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stores on the protests: Not like in France",
+        "summary": "Ahead of today's youth protests, Svensk Handel has prepared stores for the worst."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:31:23+01:00"
+      }
+    },
+    {
+      "id": "24c1e4e0f5ae",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/oMpxp0/protester-i-hela-europa-mot-krig-och-kostnader",
+      "guid": "https://www.svd.se/a/oMpxp0/protester-i-hela-europa-mot-krig-och-kostnader?utm_medium=rss",
+      "published_at": "2026-11-20T07:27:51+01:00",
+      "fetched_at": "2026-11-20T07:31:05+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/bda474c4-e8d0-3bc5-8d8d-c40b15abe347?format=auto&s=6fa28cb3d64f561c70e51e5ccf41c5df3bf834e3&w=1000",
+      "sv": {
+        "title": "Protester i hela Europa mot krig och kostnader",
+        "summary": "Över hela Europa väntas miljoner människor protestera i helgen – mot det dyra livet, upprustningen…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Protests across Europe against war and costs",
+        "summary": "Across Europe, millions of people are expected to protest this weekend against the high cost of living, rearmament…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:31:23+01:00"
+      }
+    },
     {
       "id": "1bfd4316845f",
       "schema_version": 1,
@@ -5181,56 +5235,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T09:45:48+01:00"
-      }
-    },
-    {
-      "id": "b051662134e5",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79987",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79987&utm_medium=rss",
-      "published_at": "2026-11-17T08:31:38+01:00",
-      "fetched_at": "2026-11-17T08:41:19+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "SVT-profilen lämnar efter 36 år"
-      },
-      "en": {
-        "title": "SVT profile leaves after 36 years"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:41:27+01:00"
-      }
-    },
-    {
-      "id": "fd11c9c679f9",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/bk5Xkg/regeringsbildningen-kristersson-ska-traffa-talmannen",
-      "guid": "https://www.svd.se/a/bk5Xkg/regeringsbildningen-kristersson-ska-traffa-talmannen?utm_medium=rss",
-      "published_at": "2026-11-17T08:26:58+01:00",
-      "fetched_at": "2026-11-17T08:30:57+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/938a3af6-ef07-352e-a22d-d77868dcd286?format=auto&s=0478371bac85870608b139a27d6dc43eb990a9d0&w=1000",
-      "sv": {
-        "title": "”Vill inte stå med kniven mot strupen”",
-        "summary": "Idag ska Kristersson träffa talmannen. Om han sedan lägger fram Ulf Kristersson i en…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Don't want to stand with the knife to the throat\"",
-        "summary": "Today Kristersson is to meet the Speaker. If he then presents Ulf Kristersson (M) in a…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:31:03+01:00"
       }
     }
   ]
