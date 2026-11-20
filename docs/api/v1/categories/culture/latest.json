@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T13:01:22+01:00",
+  "generated_at": "2026-11-20T13:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "83c6266470bf",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wdP9ld/tragedi-om-halva-man-med-forbjudna-begar",
+      "guid": "https://www.svd.se/a/wdP9ld/tragedi-om-halva-man-med-forbjudna-begar?utm_medium=rss",
+      "published_at": "2026-11-20T13:00:00+01:00",
+      "fetched_at": "2026-11-20T13:15:45+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/09bee150-5247-341c-bde3-6807f5685875?format=auto&s=0a28c0549dcb44823be12b81f3c41576064ae5c8&w=1000",
+      "sv": {
+        "title": "Tragedi om halva män med förbjudna begär",
+        "summary": "Scenversionen av ”Brokeback Mountain” är ett kammarspel om maskulinitet och begär.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tragedy of half of men with forbidden desires",
+        "summary": "The stage version of 'Brokeback Mountain' is a chamber play about masculinity and desire."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:15:53+01:00"
+      }
+    },
     {
       "id": "8b60824167b6",
       "schema_version": 1,
@@ -5610,33 +5637,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T11:31:06+01:00"
-      }
-    },
-    {
-      "id": "d7a46a0498db",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/erik-holmstrom-folk-kommer-tro-att-jag-ar-helt-tokig-i-sex",
-      "guid": "https://www.dn.se/kultur/erik-holmstrom-folk-kommer-tro-att-jag-ar-helt-tokig-i-sex/",
-      "published_at": "2026-11-18T11:15:13+01:00",
-      "fetched_at": "2026-11-18T11:15:44+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/2c24d32f-2e76-4d87-93dc-0f2668163d9e.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Erik Holmström: ”Folk kommer tro att jag är helt tokig i sex”",
-        "summary": "I Carl-Henning Wijkmarks ”Jägarna på Karinhall” ordnar nazistledaren Hermann Göring en grotesk orgie sitt jaktslott. När romanen blir dockteater i Malmö kan publiken räkna med en blandning av sadism och gladporr – som inte är för alla.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Erik Holmström: ”People will think I’m completely crazy about sex”",
-        "summary": "In Carl-Henning Wijkmark’s ”Jägarna på Karinhall”, Nazi leader Hermann Göring stages a grotesque orgy at his hunting lodge. When the novel becomes a puppet theatre in Malmö, the audience can expect a mix of sadism and soft porn – which is not for everyone."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T11:16:04+01:00"
       }
     }
   ]

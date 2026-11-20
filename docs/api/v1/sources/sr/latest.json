@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T13:01:22+01:00",
+  "generated_at": "2026-11-20T13:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7de29dcabf59",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347105",
+      "guid": "rss:sr.se/article/9347105",
+      "published_at": "2026-11-20T13:05:00+01:00",
+      "fetched_at": "2026-11-20T13:15:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Strid om fossila bränslen på klimatmötets sista dag",
+        "summary": "I dag är det den sista dagen för FN:s stora klimatkonferens, COP31, men ländernas delegationer har fortfarande svårt att enas på flera punkter. Bland annat bearbetas nu det förslag till sluttext som lades fram igår eftermiddag, men förslaget har mött kritik från en del länder eftersom det saknas…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Dispute over fossil fuels on the last day of the climate summit",
+        "summary": "Today is the last day of the UN's major climate conference, COP31, but the countries' delegations still struggle to agree on several points. Among other things, the draft final text presented yesterday afternoon is being revised, but the proposal has met criticism from some countries because it lacks…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:15:53+01:00"
+      }
+    },
     {
       "id": "ea632b1695fa",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:52+01:00"
-      }
-    },
-    {
-      "id": "3e12c6d48b70",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340891",
-      "guid": "rss:sr.se/article/9340891",
-      "published_at": "2026-11-14T04:12:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Minst 44 dödade i attacker i Kongo-Kinshasa",
-        "summary": "I Kongo-Kinshasa har minst 44 personer dödats i attacker utförda av en grupp beväpnade personer med kopplingar till terrorrörelsen IS. Enligt AFP skedde attackerna tidigare i veckan i nordöstra delarna av landet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "At least 44 killed in attacks in Kongo-Kinshasa",
-        "summary": "In Kongo-Kinshasa, at least 44 people have been killed in attacks carried out by a group of armed individuals with links to the terrorist movement IS. According to AFP, the attacks took place earlier this week in the north-eastern parts of the country."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:02+01:00"
       }
     }
   ]

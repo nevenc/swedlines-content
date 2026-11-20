@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T13:01:22+01:00",
+  "generated_at": "2026-11-20T13:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3136be8b2571",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/nytt-besked-multisjuka-barnen-far-bo-kvar-pa-safiren",
+      "guid": "https://www.dn.se/sverige/nytt-besked-multisjuka-barnen-far-bo-kvar-pa-safiren/",
+      "published_at": "2026-11-20T13:04:42+01:00",
+      "fetched_at": "2026-11-20T13:15:44+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/a9d881c8-f9b2-4765-bb5e-1294ce5cf48e.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Nytt besked: Multisjuka barnen får bo kvar på Safiren",
+        "summary": "I sista stund kom beskedet: De svårt sjuka barnen på Safiren i Vallentuna får bo kvar. Region Stockholm har beslutat att förvandla Safiren från LSS-boende till vårdenhet, vilket betyder att barnen kan stanna i samma lokaler med samma personal. – Man är mer än tacksam.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "New decision: Children with multiple illnesses can stay at Safiren",
+        "summary": "At the last minute came the news: the seriously ill children at Safiren in Vallentuna can stay. Region Stockholm has decided to convert Safiren from an LSS home into a healthcare unit, meaning the children can remain in the same premises with the same staff. – We are more than grateful."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:15:53+01:00"
+      }
+    },
     {
       "id": "8b60824167b6",
       "schema_version": 1,
@@ -5360,33 +5387,6 @@
       "en": {
         "title": "DN Debate. \"Ivo sacrifices our sick children on the altar of principle\"",
         "summary": "DN DEBATE. The Safiren housing has been vital for our children. Until now. Ivo wants to shut it down for principled reasons. But the message has got through, the region will presumably do the right thing in future."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T18:01:27+01:00"
-      }
-    },
-    {
-      "id": "5eb385b789ff",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/podd/alskade-politik/far-rodgrona-eld-i-baken-av-kristerssons-besked",
-      "guid": "https://www.dn.se/podd/alskade-politik/far-rodgrona-eld-i-baken-av-kristerssons-besked/",
-      "published_at": "2026-11-17T17:47:01+01:00",
-      "fetched_at": "2026-11-17T18:01:16+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/gcs/bilder/podspace/ty2hxvfxy5ng2sgztccw4nzhyjn2g5uk63b4mw6brr3eggrgwtla.png?io=1&width=1000",
-      "sv": {
-        "title": "Får rödgröna eld i baken av Kristerssons besked?",
-        "summary": "Moderatledaren ger inte upp drömmen om regeringsmakten och vill ha mer tid på sig för att locka till sig Centerpartiet. Och talmannen lovar en jul utan politiska förhandlingar om regeringsmakten. Kan dagens besked ge de rödgröna eld i baken?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Do the red-greens feel the heat from Kristersson's announcement?",
-        "summary": "The Moderate leader is not giving up the dream of government power and wants more time to attract the Centre Party. And the Speaker promises a Christmas without political negotiations over government power. Can today's announcement put the red-greens under pressure?"
       },
       "translation": {
         "status": "done",

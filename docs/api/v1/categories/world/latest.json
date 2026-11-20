@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-20T13:01:22+01:00",
+  "generated_at": "2026-11-20T13:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0097d969a46a",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/r8A45m/kritiken-arets-klimatmote-varsta-nagonsin",
+      "guid": "https://www.aftonbladet.se/nyheter/a/r8A45m/kritiken-arets-klimatmote-varsta-nagonsin?utm_medium=rss",
+      "published_at": "2026-11-20T13:10:51+01:00",
+      "fetched_at": "2026-11-20T13:15:45+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/2f663e5b-3cdd-3ba1-821b-127aff84035c?format=auto&s=0939ddc5ce49047992cfe99d1705c1c600ebaa24&w=1000",
+      "sv": {
+        "title": "Kritiken: Årets klimatmöte ”värsta någonsin”",
+        "summary": "Årets upplaga av FN:s klimattoppmöte är på god väg att bli den värsta någonsin, anser flera av…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Critics: This year's climate summit 'the worst ever'",
+        "summary": "This year's edition of the UN climate summit is well on its way to becoming the worst ever, according to several of…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:15:53+01:00"
+      }
+    },
+    {
+      "id": "ef23ea3864a0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/kungligt/rakningen-for-kung-haralds-begravning-klar",
+      "guid": "https://www.expressen.se/nyheter/kungligt/rakningen-for-kung-haralds-begravning-klar/",
+      "published_at": "2026-11-20T13:10:21+01:00",
+      "fetched_at": "2026-11-20T13:15:46+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Räkningen för kung Haralds begravning klar",
+        "summary": "279,3 miljoner norska kronor. Så mycket kostade kung Haralds begravning, rapporterar Dagbladet. Kostnaderna uppges ha skenat på grund av säkerhetskrav.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bill for King Harald's funeral settled",
+        "summary": "NOK 279.3 million. That is what King Harald's funeral cost, reports Dagbladet. Costs are said to have soared due to security requirements."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:15:53+01:00"
+      }
+    },
+    {
+      "id": "7de29dcabf59",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347105",
+      "guid": "rss:sr.se/article/9347105",
+      "published_at": "2026-11-20T13:05:00+01:00",
+      "fetched_at": "2026-11-20T13:15:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Strid om fossila bränslen på klimatmötets sista dag",
+        "summary": "I dag är det den sista dagen för FN:s stora klimatkonferens, COP31, men ländernas delegationer har fortfarande svårt att enas på flera punkter. Bland annat bearbetas nu det förslag till sluttext som lades fram igår eftermiddag, men förslaget har mött kritik från en del länder eftersom det saknas…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Dispute over fossil fuels on the last day of the climate summit",
+        "summary": "Today is the last day of the UN's major climate conference, COP31, but the countries' delegations still struggle to agree on several points. Among other things, the draft final text presented yesterday afternoon is being revised, but the proposal has met criticism from some countries because it lacks…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:15:53+01:00"
+      }
+    },
     {
       "id": "5325c17ae935",
       "schema_version": 1,
@@ -5314,87 +5393,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T18:15:50+01:00"
-      }
-    },
-    {
-      "id": "bc20f70669c8",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/avsaltningsprojekt-ger-vatten-till-miljoner",
-      "guid": "543c4396-4d63-4511-a2e5-d0c8ade0fc55",
-      "published_at": "2026-11-18T17:55:00+01:00",
-      "fetched_at": "2026-11-18T18:01:20+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/d0d7ad3b-cc72-4be7-939f-148619e9ce49.jpg?width=600",
-      "sv": {
-        "title": "Avsaltningsprojekt ger vatten till miljoner",
-        "summary": "Ett enormt avsaltningsprojekt ska ge dricksvatten till fem miljoner människor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Desalination project brings water to millions",
-        "summary": "A huge desalination project is to provide drinking water to five million people."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T18:01:26+01:00"
-      }
-    },
-    {
-      "id": "83e7e6c028e2",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/ARdXRx/avsaltningsprojekt-ger-vatten-till-miljoner",
-      "guid": "https://www.aftonbladet.se/nyheter/a/ARdXRx/avsaltningsprojekt-ger-vatten-till-miljoner?utm_medium=rss",
-      "published_at": "2026-11-18T17:50:57+01:00",
-      "fetched_at": "2026-11-18T18:01:17+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/1818d5d6-c720-3cd4-b44a-df4ca07f0484?format=auto&s=e0f0e2f625e1d77eac0e9bfdeefe806dfa4e1f97&w=1000",
-      "sv": {
-        "title": "Avsaltningsprojekt ger vatten till miljoner",
-        "summary": "Ett enormt avsaltningsprojekt ska ge dricksvatten till fem miljoner människor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Desalination project brings water to millions",
-        "summary": "A huge desalination project is to provide drinking water to five million people."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T18:01:26+01:00"
-      }
-    },
-    {
-      "id": "f6aacaa401e9",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/klimat/a/ARdXRx/avsaltningsprojekt-ger-vatten-till-miljoner",
-      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/ARdXRx/avsaltningsprojekt-ger-vatten-till-miljoner?utm_medium=rss",
-      "published_at": "2026-11-18T17:50:57+01:00",
-      "fetched_at": "2026-11-18T23:01:08+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/e5c2e6cb-fc43-3ba6-84ef-d71c62bb96cd?format=auto&s=f7347dd6e81312278df05fa25edb920ec78f31d6&w=1000",
-      "sv": {
-        "title": "Avsaltningsprojekt ger vatten till miljoner",
-        "summary": "COP31 Investering på 67 miljarder kronor",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Desalination project provides water to millions",
-        "summary": "COP31 Investment of SEK 67 billion"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T23:01:13+01:00"
       }
     }
   ]
