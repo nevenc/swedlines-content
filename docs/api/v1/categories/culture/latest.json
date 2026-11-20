@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T18:01:25+01:00",
+  "generated_at": "2026-11-20T18:16:00+01:00",
   "count": 200,
   "items": [
     {
@@ -54,6 +54,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T18:01:24+01:00"
+      }
+    },
+    {
+      "id": "52f6b5d498d4",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/carina-bergfeldt-hjalpte-expert-att-anmala-svt-artikel",
+      "guid": "https://www.dn.se/kultur/carina-bergfeldt-hjalpte-expert-att-anmala-svt-artikel/",
+      "published_at": "2026-11-20T17:47:08+01:00",
+      "fetched_at": "2026-11-20T18:15:44+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/0483f151-bf89-45b6-b014-b14dd5573747.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Carina Bergfeldt hjälpte expert att anmäla SVT-artikel",
+        "summary": "Carina Bergfeldt hjälpte en expert som medverkade i hennes SVT-serie ”Alla mina bokstäver” att anmäla programmet till Granskningsnämnden, rapporterar SVT:s Uppdrag granskning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Carina Bergfeldt helped expert report SVT article",
+        "summary": "Carina Bergfeldt helped an expert who appeared in her SVT series \"Alla mina bokstäver\" report the programme to Granskningsnämnden (the Swedish Broadcasting Complaints Commission), SVT's Uppdrag granskning reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:16:00+01:00"
       }
     },
     {
@@ -5633,32 +5660,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T17:15:53+01:00"
-      }
-    },
-    {
-      "id": "a07c56321787",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/quiz/vad-vet-du-om-den-klassiska-skolmaten",
-      "guid": "6710c951-4d7f-4c5c-bb04-9aef3c6eb159",
-      "published_at": "2026-11-18T17:00:00+01:00",
-      "fetched_at": "2026-11-18T17:01:19+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Vad vet du om den klassiska skolmaten?",
-        "summary": "I år fyller den svenska skolmaten 80 år. För att fira det har elever runt om i landet fått testa tidlösa klassiker som köttfärslåda med curry och Flygande Jakob. Men vad kan du om forna tiders favoriter från skolbespisningen?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "What do you know about classic school food?",
-        "summary": "This year Swedish school food turns 80. To mark the occasion, pupils across the country have been able to try timeless classics such as minced meat casserole with curry and Flying Jacob. But what do you know about the past's favourites from school catering?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:01:26+01:00"
       }
     }
   ]

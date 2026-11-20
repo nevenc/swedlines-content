@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T18:01:25+01:00",
+  "generated_at": "2026-11-20T18:16:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "50c7134abc16",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347487",
+      "guid": "rss:sr.se/article/9347487",
+      "published_at": "2026-11-20T18:07:00+01:00",
+      "fetched_at": "2026-11-20T18:15:44+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisens varning: Ett bedrägeriförsök i minuten",
+        "summary": "Det nu görs just nu i snitt ett bedrägeriförsök i minuten, enligt polisens lägesbild. Polisen varnar för att falska annonser och erbjudanden på nätet väntas öka inför Black Friday.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Police warning: One fraud attempt every minute",
+        "summary": "There is currently an average of one fraud attempt per minute, according to the police situation report. Police warn that fake ads and offers online are expected to increase ahead of Black Friday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:16:00+01:00"
+      }
+    },
     {
       "id": "2207598e89c9",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T01:26:27+01:00"
-      }
-    },
-    {
-      "id": "bc7dc4a11ad3",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341121",
-      "guid": "rss:sr.se/article/9341121",
-      "published_at": "2026-11-14T22:09:00+01:00",
-      "fetched_at": "2026-11-14T23:33:34+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Flygstoppet i USA kan ha orsakats av kabelbyte",
-        "summary": "Det kan ha varit ett underhållsarbete som orsakade fredagens flygstopp i USA när en kopparledning byttes ut till fiberkabel, enligt USA:s transportminister. Flygstoppet varade i nästan fem timmar och ledde till att tusentals flyg fick ställas in när det blev problem med kommunikationen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "US flight stoppage may have been caused by cable replacement",
-        "summary": "It may have been maintenance work that caused Friday's flight stoppage in the USA when a copper line was replaced with fibre cable, according to the US Transport Secretary. The stoppage lasted almost five hours and led to thousands of flights being cancelled when communication problems arose."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T23:33:46+01:00"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T18:01:25+01:00",
+  "generated_at": "2026-11-20T18:16:00+01:00",
   "count": 200,
   "items": [
     {
@@ -26,6 +26,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T17:45:55+01:00"
+      }
+    },
+    {
+      "id": "8bf8571fc5e1",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/z0G3Gq/rysk-forsvarsattache-utvisas",
+      "guid": "https://www.aftonbladet.se/nyheter/a/z0G3Gq/rysk-forsvarsattache-utvisas?utm_medium=rss",
+      "published_at": "2026-11-20T17:13:44+01:00",
+      "fetched_at": "2026-11-20T18:15:45+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/2874b906-c25d-3d87-be6e-49063bb8b956?format=auto&s=e13a04499a2eeae9240ad2676d900080e924bbcb&w=1000",
+      "sv": {
+        "title": "Mordplan mot rappare i Danmark – rysk diplomat utvisas",
+        "summary": "Två män med vapen ✓ ”Nog är nog”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Murder plot against rapper in Denmark – Russian diplomat expelled",
+        "summary": "Two men with weapons ✓ \"Enough is enough\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:16:00+01:00"
       }
     },
     {
@@ -5345,33 +5372,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T21:31:08+01:00"
-      }
-    },
-    {
-      "id": "5f51078010f6",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/pMLKAR/enorma-utslapp-fran-amerikanska-datacenter",
-      "guid": "https://www.aftonbladet.se/nyheter/a/pMLKAR/enorma-utslapp-fran-amerikanska-datacenter?utm_medium=rss",
-      "published_at": "2026-11-17T20:33:18+01:00",
-      "fetched_at": "2026-11-17T20:45:46+01:00",
-      "category": "science_tech",
-      "image_url": "https://akamai.vgc.no/v2/images/85af83b0-b5b2-3a06-9a47-0e7dea159a4a?format=auto&s=c6d1db89ccf24c8973c195ede6484f4f1553249d&w=1000",
-      "sv": {
-        "title": "Enorma utsläpp från amerikanska datacenter",
-        "summary": "Under ett år förbrukar de 400 största datacentren i USA lika mycket el som hela delstater.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Enormous emissions from American data centres",
-        "summary": "Over one year, the 400 largest data centres in the USA consume as much electricity as entire states."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T20:45:54+01:00"
       }
     }
   ]

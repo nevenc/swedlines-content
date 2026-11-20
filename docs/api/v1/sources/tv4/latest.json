@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-20T18:01:25+01:00",
+  "generated_at": "2026-11-20T18:16:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "da55d80e2383",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/1SGz8btW3MNBd4PFzWvecS/klimatmoete-pa-oevertid-oenigt-om-fossila-braenslen",
+      "guid": "1SGz8btW3MNBd4PFzWvecS",
+      "published_at": "2026-11-20T18:10:56+01:00",
+      "fetched_at": "2026-11-20T18:15:46+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Utrikesnyheter"
+      ],
+      "sv": {
+        "title": "Klimatmöte på övertid – oenigt om fossila bränslen",
+        "summary": "Klimatmötet COP31 har nu pågått i två veckor. Samtidigt som montrar och utställningshallar monteras ned pågår intensiva förhandlingar i turkiska Antalya.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Climate talks in overtime – disagreement over fossil fuels",
+        "summary": "The COP31 climate summit has now run for two weeks. As exhibition stands and halls are being dismantled, intense negotiations continue in Antalya, Turkey."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:16:00+01:00"
+      }
+    },
     {
       "id": "8b2750ca8ee8",
       "schema_version": 1,
@@ -5740,35 +5769,6 @@
       "en": {
         "title": "10-year-old Hampus has camped outdoors for months",
         "summary": "During the interview Hampus is, as on so many evenings before, in his tent on the family's veranda. Despite weather warnings and snow chaos sweeping across the country, he is in a good mood. – It's not that cold yet, but there have been a few nights when it was crap."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "6135458dfd9a",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2aPkYi6aT6nYGgQxuZY0d4/sd-ledamot-avgar-efter-anklagelser-om-sexuella-oevertramp",
-      "guid": "2aPkYi6aT6nYGgQxuZY0d4",
-      "published_at": "2026-11-12T18:23:46+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Inrikes"
-      ],
-      "sv": {
-        "title": "SD-ledamot avgår – anklagas för gränslöst sexuellt beteende",
-        "summary": "Dagens Nyheter har granskat hur unga kvinnor behandlas inom Sverigedemokraterna. I en första del av granskningen vittnar en stor del tjejer om hur de utsatts för oönskade närmanden och sexuellt våld av killar de träffat i Ungsvenskarna.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "SD member resigns – accused of boundary-crossing sexual behaviour",
-        "summary": "Dagens Nyheter has investigated how young women are treated within the Sweden Democrats. In a first part of the investigation, a large number of girls testify to how they were subjected to unwanted advances and sexual violence by boys they met in Ungsvenskarna."
       },
       "translation": {
         "status": "done",
