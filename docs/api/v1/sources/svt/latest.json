@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T11:31:23+01:00",
+  "generated_at": "2026-11-20T11:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "58fb11050de1",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/verkstad-pa-volvo-ce-i-eskilstuna-utrymd-efter-larm-om-lackage",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/verkstad-pa-volvo-ce-i-eskilstuna-utrymd-efter-larm-om-lackage",
+      "published_at": "2026-11-20T11:37:23+01:00",
+      "fetched_at": "2026-11-20T11:45:48+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Verkstad på Volvo CE i Eskilstuna utrymd efter larm om läckage",
+        "summary": "Volvo CE har utrymt samtliga medarbetare från en byggnad där det ska ha läckt ut en mindre mängd av ämnet pikrinsyra. – Vi vidtog åtgärder omedelbart och utrymde samtliga medarbetare från byggnaden.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Workshop at Volvo CE in Eskilstuna evacuated after leak alarm",
+        "summary": "Volvo CE has evacuated all employees from a building where a small amount of the substance picric acid is reported to have leaked. – We took measures immediately and evacuated all employees from the building."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T11:45:57+01:00"
+      }
+    },
     {
       "id": "0fe19ac5a15f",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:58:20+01:00"
-      }
-    },
-    {
-      "id": "dd395fac5676",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/full-drift-efter-flygstoppet-men-fortsatta-forseningar",
-      "guid": "https://www.svt.se/nyheter/utrikes/full-drift-efter-flygstoppet-men-fortsatta-forseningar",
-      "published_at": "2026-11-14T17:21:39+01:00",
-      "fetched_at": "2026-11-14T18:42:01+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Full drift efter flygstoppet – men fortsatta förseningar",
-        "summary": "Ett byte från koppartråd till fiber orsakade kommunikationshaveriet som ledde till att ett totalt flygstopp i USA under fredagen. Felet har nu åtgärdats. – Vi är tillbaka till full drift, säger USA:s transportminister Sean Duffy. Men tusentals passagerare påverkas fortfarande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Full operations restored after flight stoppage – but delays continue",
-        "summary": "A switch from copper wire to fibre caused the communications breakdown that led to a total flight stoppage in the USA on Friday. The fault has now been fixed. \"We are back to full operations,\" says US Transportation Secretary Sean Duffy. But thousands of passengers are still affected."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:32+01:00"
       }
     }
   ]

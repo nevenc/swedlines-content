@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T11:31:23+01:00",
+  "generated_at": "2026-11-20T11:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "58fb11050de1",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/verkstad-pa-volvo-ce-i-eskilstuna-utrymd-efter-larm-om-lackage",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/verkstad-pa-volvo-ce-i-eskilstuna-utrymd-efter-larm-om-lackage",
+      "published_at": "2026-11-20T11:37:23+01:00",
+      "fetched_at": "2026-11-20T11:45:48+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Verkstad på Volvo CE i Eskilstuna utrymd efter larm om läckage",
+        "summary": "Volvo CE har utrymt samtliga medarbetare från en byggnad där det ska ha läckt ut en mindre mängd av ämnet pikrinsyra. – Vi vidtog åtgärder omedelbart och utrymde samtliga medarbetare från byggnaden.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Workshop at Volvo CE in Eskilstuna evacuated after leak alarm",
+        "summary": "Volvo CE has evacuated all employees from a building where a small amount of the substance picric acid is reported to have leaked. – We took measures immediately and evacuated all employees from the building."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T11:45:57+01:00"
+      }
+    },
     {
       "id": "5ef3187bb0d6",
       "schema_version": 1,
@@ -5376,30 +5402,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T11:31:11+01:00"
-      }
-    },
-    {
-      "id": "5bbdc2bcc574",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/skane/om-adhd-utredningar",
-      "guid": "67139c5f-fbf4-4225-b3ad-d24d6601e295",
-      "published_at": "2026-11-17T11:00:00+01:00",
-      "fetched_at": "2026-11-17T11:01:17+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/65511e90-4e54-44c3-85ef-247acccc4d40.png?width=600",
-      "sv": {
-        "title": "Om adhd-utredningar"
-      },
-      "en": {
-        "title": "On ADHD assessments"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T11:01:24+01:00"
       }
     }
   ]

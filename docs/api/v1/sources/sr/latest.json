@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T11:31:23+01:00",
+  "generated_at": "2026-11-20T11:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "741a87194a0f",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347014",
+      "guid": "rss:sr.se/article/9347014",
+      "published_at": "2026-11-20T11:41:00+01:00",
+      "fetched_at": "2026-11-20T11:45:48+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Danskar misstänkts ha lejts av Ryssland – för att döda ukrainsk rappare",
+        "summary": "Två danska män misstänkts ha lejts av rysk underrättelsetjänst för att likvidera en ukrainsk rappare som skulle hålla en konsert i Danmark. Det här rapporterar Danmarks Radio. Attentatet misslyckades dock och de båda männen greps strax innan konserten som skulle hållits i september.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Danes suspected of being hired by Russia – to kill Ukrainian rapper",
+        "summary": "Two Danish men are suspected of having been hired by Russian intelligence to assassinate a Ukrainian rapper who was to hold a concert in Denmark. This is according to Danmarks Radio. The attack failed, however, and the two men were arrested shortly before the concert that was to be held in September."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T11:45:57+01:00"
+      }
+    },
     {
       "id": "346101b0b218",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Trump, Putin and Xi to meet next week",
         "summary": "The leaders of the US, China and Russia will meet for talks in connection with the Apec meeting in China next week. Trump, Xi and Putin are expected to discuss nuclear weapons and the Iran war, among other things, American officials tell the news agency AFP. But the war in Ukraine is not on the agenda."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:02+01:00"
-      }
-    },
-    {
-      "id": "86993b0b890f",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340889",
-      "guid": "rss:sr.se/article/9340889",
-      "published_at": "2026-11-14T02:15:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Gammal teknik pekas ut efter flygstoppet i USA",
-        "summary": "Ovisshet och kaos bröt ut på amerikanska flygplatser i samband med det nationella flygstoppet. På grund av tekniska problem stoppades flyg från att lyfta i över fyra timmars tid.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Old technology blamed after US flight stoppage",
-        "summary": "Uncertainty and chaos broke out at American airports in connection with the nationwide flight stoppage. Due to technical problems, flights were prevented from taking off for over four hours."
       },
       "translation": {
         "status": "done",

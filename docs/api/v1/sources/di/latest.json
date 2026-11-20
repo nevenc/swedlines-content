@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T11:31:23+01:00",
+  "generated_at": "2026-11-20T11:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5e7dd52558b3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/flera-ryska-robotar-har-slagigt-ned-i-polen",
+      "guid": "98162448-f36f-4bba-b8f7-0bdaecd3cc7e",
+      "published_at": "2026-11-20T11:29:55+01:00",
+      "fetched_at": "2026-11-20T11:45:51+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/5a494e78-7b5d-4995-a471-118e4078b812.jpeg?width=600",
+      "sv": {
+        "title": "Flera ryska robotar har slagigt ned i Polen",
+        "summary": "Polens försvarsminister Wladyslaw Kosiniak-Kamysz uppgav på fredagen att två ryska robotar och en drönare slagigt ned på polsk mark, samtidigt som Moskva genomförde en omfattande attack mot grannlandet Ukraina. Det rapporterar Bloomberg News.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Several Russian missiles have crashed in Poland",
+        "summary": "Polish Defence Minister Wladyslaw Kosiniak-Kamysz stated on Friday that two Russian missiles and a drone crashed on Polish soil, while Moscow carried out an extensive attack on neighbouring Ukraine. This is according to Bloomberg News."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T11:45:57+01:00"
+      }
+    },
     {
       "id": "861ed3977ef1",
       "schema_version": 1,
@@ -5282,33 +5309,6 @@
       "en": {
         "title": "Sensys Gatso profit drops",
         "summary": "Sensys Gatso, which develops road safety and traffic information systems, reports an operating profit of SEK 6.0 million for the third quarter of 2026, down from SEK 16.4 million last year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T08:45:59+01:00"
-      }
-    },
-    {
-      "id": "2e7fc61316c8",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/norwegian-inleder-samarbete-inom-syntetiskt-flygbransle",
-      "guid": "39e135df-5726-4b31-b951-e5e21ee8210a",
-      "published_at": "2026-11-19T08:38:08+01:00",
-      "fetched_at": "2026-11-19T08:45:52+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/dc3ef412-7751-4d3d-aa45-4618b7dfe28f.jpeg?width=600",
-      "sv": {
-        "title": "Norwegian inleder samarbete inom syntetiskt flygbränsle",
-        "summary": "Flygbolaget Norwegian inleder ett strategiskt samarbete med European Energy och schweiziska Metafuels för att utveckla produktion av syntetiskt flygbränsle, e-SAF, i Danmark. Det framgår av ett pressmeddelande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Norwegian launches synthetic aviation fuel partnership",
-        "summary": "Airline Norwegian is launching a strategic partnership with European Energy and Swiss company Metafuels to develop production of synthetic aviation fuel, e-SAF, in Denmark. This is according to a press release."
       },
       "translation": {
         "status": "done",

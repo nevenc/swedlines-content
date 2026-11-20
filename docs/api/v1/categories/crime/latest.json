@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T11:31:23+01:00",
+  "generated_at": "2026-11-20T11:45:58+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b5f1a5e1daa9",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/z0Gzdq/kvinna-hogg-ihjal-aldre-man-doms-till-vard",
+      "guid": "https://www.aftonbladet.se/nyheter/a/z0Gzdq/kvinna-hogg-ihjal-aldre-man-doms-till-vard?utm_medium=rss",
+      "published_at": "2026-11-20T11:37:12+01:00",
+      "fetched_at": "2026-11-20T11:45:50+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/012536e4-75f3-376a-9501-840b0d490e0f?format=auto&s=326a08bbb12213023b03d6be2d30d673ff62b2a9&w=1000",
+      "sv": {
+        "title": "Kvinna högg ihjäl äldre man – döms till vård",
+        "summary": "En kvinna i 40-årsåldern döms till rättspsykiatrisk vård för mordet på en man i 75-årsåldern i Sveg…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Woman stabbed elderly man to death – sentenced to forensic psychiatric care",
+        "summary": "A woman in her 40s is sentenced to forensic psychiatric care for the murder of a man in his 70s in Sveg…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T11:45:57+01:00"
+      }
+    },
     {
       "id": "9174721072a9",
       "schema_version": 1,
@@ -5353,32 +5380,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T20:15:51+01:00"
-      }
-    },
-    {
-      "id": "046ab3b5001f",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9343993",
-      "guid": "rss:sr.se/article/9343993",
-      "published_at": "2026-11-16T19:49:00+01:00",
-      "fetched_at": "2026-11-16T20:01:25+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Polisens varning inför ”Black Week”: Smörgåsbord för bedragare",
-        "summary": "Polisen varnar för ökad risk för bedrägerier under Black Week, med till exempel falska webbshoppar och bluff-sms som kan lura konsumenter på pengar. Enligt Lotta Mauritzson på polisens nationella operativa avdelning används AI för att skapa falska hemsidor som stjäl kortuppgifter.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Police warning ahead of \"Black Week\": Smorgasbord for fraudsters",
-        "summary": "The police warn of an increased risk of fraud during Black Week, with for example fake web shops and scam text messages that can trick consumers out of money. According to Lotta Mauritzson of the police's National Operative Department, AI is being used to create fake websites that steal card details."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T20:01:33+01:00"
       }
     }
   ]
