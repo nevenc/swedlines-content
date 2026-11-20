@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T03:45:41+01:00",
+  "generated_at": "2026-11-20T04:01:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b71f2fe32935",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/olycka-pa-riksvag-11-vagen-avstangd",
+      "guid": "c0a51174-b45f-4a05-9196-9738aedebac6",
+      "published_at": "2026-11-20T04:00:48+01:00",
+      "fetched_at": "2026-11-20T04:01:17+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Olycka på riksväg 11 – vägen avstängd",
+        "summary": "En singelolycka har inträffat på riksväg 11 mellan Veberöd och Sjöbo.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Accident on route 11 – road closed",
+        "summary": "A single-vehicle accident has occurred on route 11 between Veberöd and Sjöbo."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T04:01:19+01:00"
+      }
+    },
     {
       "id": "50aeb206af7b",
       "schema_version": 1,
@@ -5407,35 +5433,6 @@
       "en": {
         "title": "Nordic stock exchanges close in the red",
         "summary": "The Nordic stock exchanges ended Thursday in negative territory, after irregular trading that gradually turned more sour after US exchanges had opened. The regional composite index Vinx 30 fell 0.5 percent to 1,502."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:45:54+01:00"
-      }
-    },
-    {
-      "id": "cac5136802f7",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3cdolLx0pZGLduFJfGe7TT/en-moerk-men-aenda-hoppfull-himmel-oever-berlin",
-      "guid": "3cdolLx0pZGLduFJfGe7TT",
-      "published_at": "2026-11-19T17:33:53+01:00",
-      "fetched_at": "2026-11-19T17:45:48+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "En mörk men ändå hoppfull himmel över Berlin",
-        "summary": "Några timmar innan ett 30-tal stats- och regeringschefer anlände till förbundskanslerbyggnaden i Berlin öppnade sig himlen. Ett störtregn dränkte staden, och nyfikna turister kunde knappt se konvojerna som körde genom regnet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "A dark but hopeful sky over Berlin",
-        "summary": "A few hours before some 30 heads of state and government arrived at the Chancellery in Berlin, the sky opened. A downpour drenched the city, and curious tourists could barely see the convoys driving through the rain."
       },
       "translation": {
         "status": "done",

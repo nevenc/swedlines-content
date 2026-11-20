@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T03:45:41+01:00",
+  "generated_at": "2026-11-20T04:01:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b71f2fe32935",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/olycka-pa-riksvag-11-vagen-avstangd",
+      "guid": "c0a51174-b45f-4a05-9196-9738aedebac6",
+      "published_at": "2026-11-20T04:00:48+01:00",
+      "fetched_at": "2026-11-20T04:01:17+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Olycka på riksväg 11 – vägen avstängd",
+        "summary": "En singelolycka har inträffat på riksväg 11 mellan Veberöd och Sjöbo.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Accident on route 11 – road closed",
+        "summary": "A single-vehicle accident has occurred on route 11 between Veberöd and Sjöbo."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T04:01:19+01:00"
+      }
+    },
     {
       "id": "8b114ab252f9",
       "schema_version": 1,
@@ -5356,33 +5382,6 @@
       "en": {
         "title": "Researchers' solution – how bullying can be reduced",
         "summary": "Researchers have long studied how bullying can be reduced. Yet more children report being bullied at school."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T05:45:51+01:00"
-      }
-    },
-    {
-      "id": "979d667cdfbd",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Bx9alG/forbannad-larare-blev-till-slut-hennes-raddning",
-      "guid": "https://www.svd.se/a/Bx9alG/forbannad-larare-blev-till-slut-hennes-raddning?utm_medium=rss",
-      "published_at": "2026-11-17T05:37:57+01:00",
-      "fetched_at": "2026-11-17T05:45:43+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/2c1b58cb-cc6e-3f14-85e6-78ca5a534f3b?format=auto&s=c22be0ff62c19c02e7b047863fdbf41148e582e6&w=1000",
-      "sv": {
-        "title": "”Förbannad” lärare blev till slut hennes räddning",
-        "summary": "När Johanna Teern hörde SvD:s berättelse om 13-årige Max Olofssons skolgång kom minnena tillbaka.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Furious\" teacher became her salvation in the end",
-        "summary": "When Johanna Teern heard SvD's account of 13-year-old Max Olofsson's schooling, the memories came back."
       },
       "translation": {
         "status": "done",
