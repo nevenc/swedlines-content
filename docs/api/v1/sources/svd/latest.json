@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-20T16:31:13+01:00",
+  "generated_at": "2026-11-20T16:45:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "082947e90372",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80127",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80127&utm_medium=rss",
+      "published_at": "2026-11-20T16:44:10+01:00",
+      "fetched_at": "2026-11-20T16:45:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Nattsvart vecka på Wall Street – med AI i täten"
+      },
+      "en": {
+        "title": "Gloomy week on Wall Street – with AI at the helm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:45:52+01:00"
+      }
+    },
+    {
+      "id": "47e577a15cb1",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/9BvW5r/stangda-karnkraftverk-paverkar-elpriserna-da-vantas-de-sjunka-igen",
+      "guid": "https://www.svd.se/a/9BvW5r/stangda-karnkraftverk-paverkar-elpriserna-da-vantas-de-sjunka-igen?utm_medium=rss",
+      "published_at": "2026-11-20T16:30:02+01:00",
+      "fetched_at": "2026-11-20T16:45:43+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/7cbf7ef0-6a0f-3688-bc52-380f422680a9?format=auto&s=e2cee2fd9dd26e6e42257295f5c627b80fa03e53&w=1000",
+      "sv": {
+        "title": "Avstängda reaktorer pressar upp elpriset",
+        "summary": "Ojar du dig över det periodvis höga elpriset? En bidragande orsak i höst är flera avstängda…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Shut-down reactors push up electricity prices",
+        "summary": "Are you annoyed by the periodically high electricity prices? One contributing cause this autumn is several shut-down…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:45:52+01:00"
+      }
+    },
     {
       "id": "6cf398bae0fb",
       "schema_version": 1,
@@ -5197,60 +5247,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T21:31:08+01:00"
-      }
-    },
-    {
-      "id": "8d38b6b3af51",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Xog48m/enorma-utslapp-fran-amerikanska-datacenter",
-      "guid": "https://www.svd.se/a/Xog48m/enorma-utslapp-fran-amerikanska-datacenter?utm_medium=rss",
-      "published_at": "2026-11-17T20:33:19+01:00",
-      "fetched_at": "2026-11-17T20:45:46+01:00",
-      "category": "science_tech",
-      "image_url": "https://akamai.vgc.no/v2/images/85af83b0-b5b2-3a06-9a47-0e7dea159a4a?format=auto&s=c6d1db89ccf24c8973c195ede6484f4f1553249d&w=1000",
-      "sv": {
-        "title": "Enorma utsläpp från amerikanska datacenter",
-        "summary": "Under ett år förbrukar de 400 största datacentren i USA lika mycket el som hela delstater.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Enormous emissions from American data centres",
-        "summary": "Over one year, the 400 largest data centres in the USA consume as much electricity as entire states."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T20:45:54+01:00"
-      }
-    },
-    {
-      "id": "1658ca5014bd",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/r8A5A8/svensk-professor-om-epstein-kan-ha-mordats",
-      "guid": "https://www.svd.se/a/r8A5A8/svensk-professor-om-epstein-kan-ha-mordats?utm_medium=rss",
-      "published_at": "2026-11-17T20:17:57+01:00",
-      "fetched_at": "2026-11-17T20:31:03+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/2bb213f1-f942-3055-b75c-99d63a4479ba?format=auto&s=fd743440045d5db8661412a938a0c1553666a6d6&w=1000",
-      "sv": {
-        "title": "Svensk professor om Epstein: Kan ha mördats",
-        "summary": "Hur gick det egentligen till när Jeffrey Epstein dog? Anders Eriksson, professor emeritus i…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish professor on Epstein: may have been murdered",
-        "summary": "How did it really happen when Jeffrey Epstein died? Anders Eriksson, professor emeritus in…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T20:31:09+01:00"
       }
     }
   ]
