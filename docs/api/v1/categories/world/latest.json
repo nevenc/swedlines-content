@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T14:31:08+01:00",
+  "generated_at": "2026-11-20T14:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "152497e0a3ea",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/kMJPzQ/frankrike-begar-fn-mote-efter-ambassadanfall",
+      "guid": "https://www.aftonbladet.se/nyheter/a/kMJPzQ/frankrike-begar-fn-mote-efter-ambassadanfall?utm_medium=rss",
+      "published_at": "2026-11-20T14:40:09+01:00",
+      "fetched_at": "2026-11-20T14:45:46+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/e028959b-b2ad-3035-9469-3f5fa5d730a8?format=auto&s=7c17dc000333d020ee39934bfed355d0f20b7766&w=1000",
+      "sv": {
+        "title": "Frankrike begär FN-möte efter ambassadanfall",
+        "summary": "Efter torsdagens ryska attacker mot ambassader i Ukraina har Frankrike begärt ett möte i FN:s…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "France requests UN meeting after embassy attacks",
+        "summary": "Following Thursday's Russian attacks on embassies in Ukraine, France has requested a meeting at the UN…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:45:51+01:00"
+      }
+    },
     {
       "id": "5ed71c48f6da",
       "schema_version": 1,
@@ -5354,33 +5381,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T21:45:53+01:00"
-      }
-    },
-    {
-      "id": "27fa216c9de7",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/gerillakrigaren-priset-for-ett-misstag-ar-alldeles-for-hogt",
-      "guid": "https://www.dn.se/varlden/gerillakrigaren-priset-for-ett-misstag-ar-alldeles-for-hogt/",
-      "published_at": "2026-11-18T21:10:18+01:00",
-      "fetched_at": "2026-11-18T21:15:44+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/dc41876e-43ce-492b-882c-7eb6767f9c34.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Gerillakrigaren: ”Priset för ett misstag är alldeles för högt”",
-        "summary": "Gerillakrigarna i den pro-ukrainska motståndsgruppen Atesj hävdar att de är jagade av den ryska staten. Nu berättar en av dem för DN om tillvaron. ”Man får inte missa en enda detalj. Priset för det är alldeles för högt”, säger mannen som uppges ligga bakom ett nyligen utfört sabotagedåd i Ryssland.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Guerrilla fighter: \"The price of a mistake is far too high\"",
-        "summary": "Guerrilla fighters in the pro-Ukrainian resistance group Atesh claim they are hunted by the Russian state. Now one of them tells DN about life. \"You cannot miss a single detail. The price for that is far too high,\" says the man who is reportedly behind a recent sabotage attack in Russia."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T21:15:54+01:00"
       }
     }
   ]

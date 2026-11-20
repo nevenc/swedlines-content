@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T14:31:08+01:00",
+  "generated_at": "2026-11-20T14:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6edee30a4de6",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/felix-rosenqvist-nomineras-till-jerringpriset",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/felix-rosenqvist-nomineras-till-jerringpriset",
+      "published_at": "2026-11-20T14:32:15+01:00",
+      "fetched_at": "2026-11-20T14:45:44+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Felix Rosenqvist nomineras till Jerringpriset",
+        "summary": "Här är de 14 idrottare som gör upp om årets Jerringpris.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Felix Rosenqvist nominated for the Jerring Prize",
+        "summary": "Here are the 14 athletes competing for this year's Jerring Prize."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:45:51+01:00"
+      }
+    },
     {
       "id": "21255352d59b",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Benjamin Ingrosso to Ullevi this summer",
         "summary": "Benjamin Ingrosso is coming to Göteborg this summer. He performs at Ullevi on 31 July 2027."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "8c1537271509",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/fotboll/sverige-klar-gruppvinnare-efter-seger-mot-bosnien-hercegovina",
-      "guid": "https://www.svt.se/sport/fotboll/sverige-klar-gruppvinnare-efter-seger-mot-bosnien-hercegovina",
-      "published_at": "2026-11-14T22:39:28+01:00",
-      "fetched_at": "2026-11-14T23:33:33+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Sverige klar gruppvinnare efter seger mot Bosnien-Hercegovina",
-        "summary": "Sverige spelade två vitt skilda halvlekar mot Bosnien-Hercegovina. Till slut vann Blågult med 3–2 – vilket innebär gruppseger och avancemang till Nations Leagues A-division. – Vi kontrollerar inte matchen som vi vill, säger Victor Nilsson Lindelöf till SVT Sport.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sweden confirmed group winners after win over Bosnia-Herzegovina",
-        "summary": "Sweden played two wildly different halves against Bosnia-Herzegovina. In the end Blågult won 3–2, which means group victory and promotion to the Nations League A division. \"We're not controlling the match the way we want,\" says Victor Nilsson Lindelöf to SVT Sport."
       },
       "translation": {
         "status": "done",

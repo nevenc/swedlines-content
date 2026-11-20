@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T14:31:08+01:00",
+  "generated_at": "2026-11-20T14:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6edee30a4de6",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/felix-rosenqvist-nomineras-till-jerringpriset",
+      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/felix-rosenqvist-nomineras-till-jerringpriset",
+      "published_at": "2026-11-20T14:32:15+01:00",
+      "fetched_at": "2026-11-20T14:45:44+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Felix Rosenqvist nomineras till Jerringpriset",
+        "summary": "Här är de 14 idrottare som gör upp om årets Jerringpris.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Felix Rosenqvist nominated for the Jerring Prize",
+        "summary": "Here are the 14 athletes competing for this year's Jerring Prize."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:45:51+01:00"
+      }
+    },
     {
       "id": "3ae2b1dc8e27",
       "schema_version": 1,
@@ -5564,40 +5590,6 @@
       "en": {
         "title": "The men's national team chases group win",
         "summary": "Will Graham Potter's national team's success continue? Sweden welcomes Bosnia-Herzegovina at Strawberry arena and can secure promotion to the Nations League A division."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T20:30:32+01:00"
-      }
-    },
-    {
-      "id": "658c11553e7d",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/ishockey/frolunda/efter-nollan-han-far-garna-vara-sjuk-mer.72e35b5b-dfa4-59be-84d1-87a64503f0da",
-      "guid": "72e35b5b-dfa4-59be-84d1-87a64503f0da",
-      "published_at": "2026-11-14T18:54:59+01:00",
-      "fetched_at": "2026-11-14T20:30:11+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Frölunda",
-        "Tagg: Samuel Fagemo",
-        "Tagg: Frölunda HC",
-        "Tagg: Rögle",
-        "Tagg: Tre Kronor"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/ae0e2b88-1ed5-335d-88f6-a53ac3acce31",
-      "sv": {
-        "title": "Efter nollan: ”Han får gärna vara sjuk mer”",
-        "summary": "Lasse Johansson räddade 37 skott för utspelat Frölunda.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the shutout: 'He's welcome to be sick more often'",
-        "summary": "Lasse Johansson saved 37 shots as Frölunda was outplayed."
       },
       "translation": {
         "status": "done",
