@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-20T18:16:00+01:00",
+  "generated_at": "2026-11-20T18:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d6cbb634a0d4",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/ryska-robotar-kraschade-i-polen-i-massiv-ukrainaattack",
+      "guid": "e5dd549a-8bd6-4d7d-997b-88b3f7a3dfce",
+      "published_at": "2026-11-20T18:22:58+01:00",
+      "fetched_at": "2026-11-20T18:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/95fd549d-0b6e-4241-823d-04e9e14ba209.jpg?width=600",
+      "sv": {
+        "title": "Ryska robotar kraschade i Polen i massiv Ukrainaattack",
+        "summary": "Ryssland har gått till attack med över 100 robotar mot Ukraina. Minst åtta personer har dödats och flera ryska projektiler har kraschat i Natolandet Polen. ”Det ser inte ut som ett misstag utan som en avsiktlig provokation”, säger den polske premiärministern Donald Tusk.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Russian missiles crash in Poland in massive Ukraine attack",
+        "summary": "Russia has launched an attack with over 100 missiles against Ukraine. At least eight people have been killed and several Russian projectiles have crashed in NATO country Poland. \"It does not look like a mistake but like a deliberate provocation,\" says Polish prime minister Donald Tusk."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
+    {
+      "id": "f1db882d970e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/techuppror-mot-eu-dra-tillbaka-eu-inc",
+      "guid": "b4a1aa9d-781e-480f-a5fe-e8a8d72fb3d4",
+      "published_at": "2026-11-20T18:18:20+01:00",
+      "fetched_at": "2026-11-20T18:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/2e970071-a7b5-449c-b8e2-6e83862bcdc7.jpeg?width=600",
+      "sv": {
+        "title": "Techuppror mot EU: ”Dra tillbaka EU Inc”",
+        "summary": "Från en varning till ett krav. En bred front av techprofiler och investerare uppmanar nu EU-kommissionen att dra tillbaka hela förslaget om den nya bolagsformen ”EU Inc”, som de anser har urvattnats till oigenkännlighet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Tech revolt against EU: \"Withdraw EU Inc\"",
+        "summary": "From a warning to a demand. A broad front of tech figures and investors now calls on the European Commission to withdraw the entire proposal for the new company form \"EU Inc\", which they consider has been watered down beyond recognition."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
     {
       "id": "cb217ce5246e",
       "schema_version": 1,
@@ -5260,59 +5314,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T15:01:28+01:00"
-      }
-    },
-    {
-      "id": "61a8a6779539",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/priset-pa-gas-lyfter-kraftigt",
-      "guid": "c59ebf12-e7de-451e-a9fd-f6a6a39fb4f1",
-      "published_at": "2026-11-19T14:42:00+01:00",
-      "fetched_at": "2026-11-19T14:45:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/3fb905c4-073f-4b6f-9511-49f3283abc44.jpg?width=600",
-      "sv": {
-        "title": "Priset på gas lyfter kraftigt",
-        "summary": "Ett förlängt produktionsbortfall i Visundfältet i Norge – som förblir stängt till januari – trycker upp priset på fossil gas på den europeiska marknaden med nästan 5 procent. Tidigare var prognosen att fältet skulle börja leverera gas igen i december.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Gas Prices Rise Sharply",
-        "summary": "An extended production outage at the Visund field in Norway, which will remain closed until January, pushes the price of fossil gas on the European market up by nearly 5 percent. Previously, the forecast was that the field would resume gas deliveries in December."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T14:45:55+01:00"
-      }
-    },
-    {
-      "id": "8a50898ae4bc",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/miljonsaljer-i-catena-media",
-      "guid": "b629164c-fb9f-4ebe-aa2a-3d03d77a3543",
-      "published_at": "2026-11-19T14:41:45+01:00",
-      "fetched_at": "2026-11-19T14:45:50+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Miljonsäljer i Catena Media",
-        "summary": "Martin Zetterlund, styrelseledamot i spelmarknadsföringsbolaget Catena Media sedan december 2024, har sålt 526.802 aktier i bolaget, för 3 kronor styck, eller för totalt 1,6 miljoner kronor. Det framgår av Finansinspektionens insynsregister.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Board Member Sells Shares Worth Millions in Catena Media",
-        "summary": "Martin Zetterlund, board member of gaming marketing company Catena Media since December 2024, has sold 526,802 shares in the company at SEK 3 each, or SEK 1.6 million in total. This is according to the Financial Supervisory Authority's insider register."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T14:45:55+01:00"
       }
     }
   ]

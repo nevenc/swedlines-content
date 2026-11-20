@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-20T18:16:00+01:00",
+  "generated_at": "2026-11-20T18:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "531379457860",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/just-nu-donald-trump-haller-presstraff",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/just-nu-donald-trump-haller-presstraff",
+      "published_at": "2026-11-20T18:27:36+01:00",
+      "fetched_at": "2026-11-20T18:31:01+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Donald Trump håller pressträff i Vita huset",
+        "summary": "Se när han svarar på frågor i Vita huset",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Donald Trump holds press conference at the White House",
+        "summary": "Watch as he answers questions at the White House"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
+    {
+      "id": "097c055221c5",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/kungligt/prinsessans-prao-i-finland",
+      "guid": "https://www.expressen.se/nyheter/kungligt/prinsessans-prao-i-finland/",
+      "published_at": "2026-11-20T18:18:15+01:00",
+      "fetched_at": "2026-11-20T18:31:01+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Prinsessans prao i Finland",
+        "summary": "Prinsessan Estelle har praoat i Finland. Hon tillbringade veckan på den svenska ambassaden och med president Alexander Stubb. ”Det har varit en intensiv men fantastisk vecka”, skriver hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The princess's work placement in Finland",
+        "summary": "Princess Estelle has done a work placement in Finland. She spent the week at the Swedish embassy and with President Alexander Stubb. \"It has been an intensive but fantastic week,\" she writes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
     {
       "id": "fa505248a61e",
       "schema_version": 1,
@@ -5139,58 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T13:15:51+01:00"
-      }
-    },
-    {
-      "id": "142cb49435f4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/ebba-busch-tanker-prata-omkull-centern",
-      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/ebba-busch-tanker-prata-omkull-centern/",
-      "published_at": "2026-11-17T12:59:32+01:00",
-      "fetched_at": "2026-11-17T13:15:45+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Ebba Busch tänker prata omkull Centern",
-        "summary": "Det är alldeles tydligt att Moderaterna och KD har en plan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ebba Busch intends to talk the Centre Party into collapse",
-        "summary": "It is quite clear that the Moderates and KD have a plan."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:15:51+01:00"
-      }
-    },
-    {
-      "id": "e39a88c7dca2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/radhusbrand-i-hovsjo-i-sodertalje",
-      "guid": "https://www.expressen.se/nyheter/sverige/radhusbrand-i-hovsjo-i-sodertalje/",
-      "published_at": "2026-11-17T12:45:39+01:00",
-      "fetched_at": "2026-11-17T13:01:12+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Radhusbrand i Hovsjö i Södertälje",
-        "summary": "Det brinner i en radhuslänga i Hovsjö i Södertälje. Branden har spridit sig upp till vinden.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Terraced house fire in Hovsjö in Södertälje",
-        "summary": "Fire is burning in a terraced house row in Hovsjö in Södertälje. The fire has spread up to the attic."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:01:18+01:00"
       }
     }
   ]

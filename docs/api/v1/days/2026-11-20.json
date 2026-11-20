@@ -1,7 +1,258 @@
 {
-  "generated_at": "2026-11-20T18:16:00+01:00",
-  "count": 556,
+  "generated_at": "2026-11-20T18:31:09+01:00",
+  "count": 566,
   "items": [
+    {
+      "id": "531379457860",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/just-nu-donald-trump-haller-presstraff",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/just-nu-donald-trump-haller-presstraff",
+      "published_at": "2026-11-20T18:27:36+01:00",
+      "fetched_at": "2026-11-20T18:31:01+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Donald Trump håller pressträff i Vita huset",
+        "summary": "Se när han svarar på frågor i Vita huset",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Donald Trump holds press conference at the White House",
+        "summary": "Watch as he answers questions at the White House"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
+    {
+      "id": "d6cbb634a0d4",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/ryska-robotar-kraschade-i-polen-i-massiv-ukrainaattack",
+      "guid": "e5dd549a-8bd6-4d7d-997b-88b3f7a3dfce",
+      "published_at": "2026-11-20T18:22:58+01:00",
+      "fetched_at": "2026-11-20T18:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/95fd549d-0b6e-4241-823d-04e9e14ba209.jpg?width=600",
+      "sv": {
+        "title": "Ryska robotar kraschade i Polen i massiv Ukrainaattack",
+        "summary": "Ryssland har gått till attack med över 100 robotar mot Ukraina. Minst åtta personer har dödats och flera ryska projektiler har kraschat i Natolandet Polen. ”Det ser inte ut som ett misstag utan som en avsiktlig provokation”, säger den polske premiärministern Donald Tusk.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Russian missiles crash in Poland in massive Ukraine attack",
+        "summary": "Russia has launched an attack with over 100 missiles against Ukraine. At least eight people have been killed and several Russian projectiles have crashed in NATO country Poland. \"It does not look like a mistake but like a deliberate provocation,\" says Polish prime minister Donald Tusk."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
+    {
+      "id": "c5089a935811",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/3BJwML/carina-bergfeldt-hjalpte-expert-att-anmala-svt",
+      "guid": "https://www.svd.se/a/3BJwML/carina-bergfeldt-hjalpte-expert-att-anmala-svt?utm_medium=rss",
+      "published_at": "2026-11-20T18:20:09+01:00",
+      "fetched_at": "2026-11-20T18:31:00+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/11deecbc-4841-3420-a82d-6a9776d30e4e?format=auto&s=f9c5b80a6653177c5803b914ad60e1ae54d131e2&w=1000",
+      "sv": {
+        "title": "Carina Bergfeldt hjälpte expert att anmäla SVT",
+        "summary": "En artikel av SVT:s Kulturnyheterna har anmälts till Granskningsnämnden av såväl journalisten och…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Carina Bergfeldt helped expert report SVT",
+        "summary": "An article by SVT's Kulturnyheterna has been reported to the Broadcasting Complaints Commission by both the journalist and…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
+    {
+      "id": "214ea26c00b7",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5wSs4EIjyUZl8912vu3lsF/bergfeldt-hjaelpte-adhd-expert-att-anmaela-egna-arbetsgivaren",
+      "guid": "5wSs4EIjyUZl8912vu3lsF",
+      "published_at": "2026-11-20T18:18:50+01:00",
+      "fetched_at": "2026-11-20T18:31:02+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Bergfeldt hjälpte adhd-expert att anmäla egna arbetsgivaren",
+        "summary": "I programmet ”Alla mina bokstäver” får tittaren följa SVT-profilen Carina Bergfeldt när hon utreds för adhd. Programmet har kritiserats för att ge en skev bild av adhd och för att forskaren Lotta Borg Skoglunds kopplingar till läkemedelsindustrin samt att hon driver en egen adhd-klinik inte…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Bergfeldt helped ADHD expert report her own employer",
+        "summary": "In the programme \"Alla mina bokstäver\", viewers follow SVT profile Carina Bergfeldt as she is assessed for ADHD. The programme has been criticised for giving a skewed picture of ADHD and for researcher Lotta Borg Skoglund's ties to the pharmaceutical industry and for running her own ADHD clinic, not…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
+    {
+      "id": "f1db882d970e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/techuppror-mot-eu-dra-tillbaka-eu-inc",
+      "guid": "b4a1aa9d-781e-480f-a5fe-e8a8d72fb3d4",
+      "published_at": "2026-11-20T18:18:20+01:00",
+      "fetched_at": "2026-11-20T18:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/2e970071-a7b5-449c-b8e2-6e83862bcdc7.jpeg?width=600",
+      "sv": {
+        "title": "Techuppror mot EU: ”Dra tillbaka EU Inc”",
+        "summary": "Från en varning till ett krav. En bred front av techprofiler och investerare uppmanar nu EU-kommissionen att dra tillbaka hela förslaget om den nya bolagsformen ”EU Inc”, som de anser har urvattnats till oigenkännlighet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Tech revolt against EU: \"Withdraw EU Inc\"",
+        "summary": "From a warning to a demand. A broad front of tech figures and investors now calls on the European Commission to withdraw the entire proposal for the new company form \"EU Inc\", which they consider has been watered down beyond recognition."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
+    {
+      "id": "6c98ed2596ec",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/storgoteborg/har-falls-julgranen-till-gustaf-adolfs-torg-i-landvetter.7af20404-6c93-59c5-a65c-16fb17fcac6a",
+      "guid": "7af20404-6c93-59c5-a65c-16fb17fcac6a",
+      "published_at": "2026-11-20T18:18:17+01:00",
+      "fetched_at": "2026-11-20T18:31:02+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Storgöteborg",
+        "Tagg: Landvetter",
+        "Tagg: Härryda",
+        "Tagg: VITA FLÄCKAR Härryda",
+        "Tagg: Göteborg",
+        "Tagg: Jul"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/c29329bb-6516-3435-bed3-6888ce2b8871",
+      "sv": {
+        "title": "Här fälls julgranen till Gustaf Adolfs torg",
+        "summary": "Julgranen som ska pryda Gustaf Adolfs torg i Göteborg hittades i år i Landvetter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here is the Christmas tree being felled for Gustaf Adolfs torg",
+        "summary": "The Christmas tree that will decorate Gustaf Adolfs torg in Göteborg was found this year in Landvetter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
+    {
+      "id": "097c055221c5",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/kungligt/prinsessans-prao-i-finland",
+      "guid": "https://www.expressen.se/nyheter/kungligt/prinsessans-prao-i-finland/",
+      "published_at": "2026-11-20T18:18:15+01:00",
+      "fetched_at": "2026-11-20T18:31:01+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Prinsessans prao i Finland",
+        "summary": "Prinsessan Estelle har praoat i Finland. Hon tillbringade veckan på den svenska ambassaden och med president Alexander Stubb. ”Det har varit en intensiv men fantastisk vecka”, skriver hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The princess's work placement in Finland",
+        "summary": "Princess Estelle has done a work placement in Finland. She spent the week at the Swedish embassy and with President Alexander Stubb. \"It has been an intensive but fantastic week,\" she writes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
+    {
+      "id": "e70d807e99d6",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/sara-kristoffersson-rack-upp-handen-den-som-vill-forsvara-woke-i-dag",
+      "guid": "https://www.dn.se/kultur/sara-kristoffersson-rack-upp-handen-den-som-vill-forsvara-woke-i-dag/",
+      "published_at": "2026-11-20T18:16:51+01:00",
+      "fetched_at": "2026-11-20T18:31:00+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/7ef16527-c7ad-4f38-8081-09b5d5cbfbe4.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Sara Kristoffersson: Räck upp handen den som vill försvara ”woke” i dag",
+        "summary": "Få kulturella fält tog till sig ”woke” lika friktionsfritt som konstvärlden. När vi blickar framåt är det viktigt att inte försköna eller dölja vad det faktiskt handlade om, skriver Sara Kristoffersson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sara Kristoffersson: Raise your hand if you want to defend \"woke\" today",
+        "summary": "Few cultural fields embraced \"woke\" as frictionlessly as the art world. Looking ahead, it is important not to sugarcoat or conceal what it actually was about, writes Sara Kristoffersson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
+    {
+      "id": "7ee1942c34ba",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/dn-valjer-har-ar-veckans-basta-musik-vecka-47",
+      "guid": "https://www.dn.se/kultur/dn-valjer-har-ar-veckans-basta-musik-vecka-47/",
+      "published_at": "2026-11-20T18:15:40+01:00",
+      "fetched_at": "2026-11-20T18:31:00+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/3f1f4391-3a16-42cf-8166-f732a7159b8f.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "DN väljer: Här är veckans bästa musik, vecka 47",
+        "summary": "Hyperpop på finska, vemodig folkpop och musik till tv-spelet ”GTA VI” av Lana Del Rey finns med när DN:s musikkritiker utser veckans bästa låtar. Dessutom har nya singlar av bland andra Markus Krunegård och Grimes letat sig in på spellistan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "DN picks: This week's best music, week 47",
+        "summary": "Finnish hyperpop, wistful folk pop and music for the video game \"GTA VI\" by Lana Del Rey feature as DN's music critics pick the week's best songs. In addition, new singles by, among others, Markus Krunegård and Grimes have made it onto the playlist."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
     {
       "id": "954d8ae103b7",
       "schema_version": 1,
@@ -162,6 +413,41 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T18:16:00+01:00"
+      }
+    },
+    {
+      "id": "d46e15bb1a74",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/svt-granskar-julvarden-carina-bergfeldt.7d4306fa-a4fb-54c0-8b18-8e676d806ff8",
+      "guid": "7d4306fa-a4fb-54c0-8b18-8e676d806ff8",
+      "published_at": "2026-11-20T18:05:13+01:00",
+      "fetched_at": "2026-11-20T18:31:02+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: breaking-GP",
+        "Tagg: Carina Bergfeldt",
+        "Tagg: SVT",
+        "Tagg: Uppdrag granskning",
+        "Tagg: Granskningsnämnden"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/2c4ae4bb-9445-3146-a024-d50cdebb4ef4",
+      "sv": {
+        "title": "Carina Bergfeldt granskas – av SVT",
+        "summary": "Julvärden har anmält sin egen arbetsgivare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Carina Bergfeldt investigated – by SVT",
+        "summary": "The Christmas host has reported her own employer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:31:09+01:00"
       }
     },
     {

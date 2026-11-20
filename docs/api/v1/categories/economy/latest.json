@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-20T18:16:00+01:00",
+  "generated_at": "2026-11-20T18:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d6cbb634a0d4",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/ryska-robotar-kraschade-i-polen-i-massiv-ukrainaattack",
+      "guid": "e5dd549a-8bd6-4d7d-997b-88b3f7a3dfce",
+      "published_at": "2026-11-20T18:22:58+01:00",
+      "fetched_at": "2026-11-20T18:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/95fd549d-0b6e-4241-823d-04e9e14ba209.jpg?width=600",
+      "sv": {
+        "title": "Ryska robotar kraschade i Polen i massiv Ukrainaattack",
+        "summary": "Ryssland har gått till attack med över 100 robotar mot Ukraina. Minst åtta personer har dödats och flera ryska projektiler har kraschat i Natolandet Polen. ”Det ser inte ut som ett misstag utan som en avsiktlig provokation”, säger den polske premiärministern Donald Tusk.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Russian missiles crash in Poland in massive Ukraine attack",
+        "summary": "Russia has launched an attack with over 100 missiles against Ukraine. At least eight people have been killed and several Russian projectiles have crashed in NATO country Poland. \"It does not look like a mistake but like a deliberate provocation,\" says Polish prime minister Donald Tusk."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
+    {
+      "id": "f1db882d970e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/techuppror-mot-eu-dra-tillbaka-eu-inc",
+      "guid": "b4a1aa9d-781e-480f-a5fe-e8a8d72fb3d4",
+      "published_at": "2026-11-20T18:18:20+01:00",
+      "fetched_at": "2026-11-20T18:31:02+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/2e970071-a7b5-449c-b8e2-6e83862bcdc7.jpeg?width=600",
+      "sv": {
+        "title": "Techuppror mot EU: ”Dra tillbaka EU Inc”",
+        "summary": "Från en varning till ett krav. En bred front av techprofiler och investerare uppmanar nu EU-kommissionen att dra tillbaka hela förslaget om den nya bolagsformen ”EU Inc”, som de anser har urvattnats till oigenkännlighet.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Tech revolt against EU: \"Withdraw EU Inc\"",
+        "summary": "From a warning to a demand. A broad front of tech figures and investors now calls on the European Commission to withdraw the entire proposal for the new company form \"EU Inc\", which they consider has been watered down beyond recognition."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
     {
       "id": "cb217ce5246e",
       "schema_version": 1,
@@ -5244,60 +5298,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T20:45:59+01:00"
-      }
-    },
-    {
-      "id": "67ab68e8730c",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ekonomi/rosa-mjolken-har-for-att-stanna-proteintrenden-driver-pa-mjolkkonsumtionen",
-      "guid": "https://www.dn.se/ekonomi/rosa-mjolken-har-for-att-stanna-proteintrenden-driver-pa-mjolkkonsumtionen/",
-      "published_at": "2026-11-19T20:36:22+01:00",
-      "fetched_at": "2026-11-19T20:45:51+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/be0f3694-af3a-4eb0-87d3-f1e4ea6240be.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Rosa mjölken här för att stanna – proteintrenden driver på mjölkkonsumtionen",
-        "summary": "Den rosa mjölken tog Sverige med storm och tömde butikshyllorna runtom i landet. Nu bekräftar Arla att sommarens tillfälliga succé är här för att stanna. – Den rosa mjölken har bidragit till en positiv utveckling för hela mjölkkategorin, säger Sara Borg på Arla.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Pink milk here to stay – protein trend drives milk consumption",
-        "summary": "Pink milk took Sweden by storm and emptied shelves across the country. Now Arla confirms that this summer's temporary success is here to stay. – Pink milk has contributed to a positive development for the whole milk category, says Sara Borg at Arla."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T20:45:59+01:00"
-      }
-    },
-    {
-      "id": "16c68052b0d5",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/rekordpris-for-sallsynt-klint",
-      "guid": "e34e19a3-9148-4d82-904d-7cf205f8640c",
-      "published_at": "2026-11-19T20:25:17+01:00",
-      "fetched_at": "2026-11-19T20:30:58+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/13a4f323-a18e-4672-9851-0760384388af.jpeg?width=600",
-      "sv": {
-        "title": "Rekordpris för sällsynt Klint",
-        "summary": "Hilma af Klints sällsynta abstrakta målning ”Ser III No. 5” klubbades för rekordpriset 108 miljoner kronor på Bukowskis. Samtidigt laddar konkurrenten Stockholms Auktionsverk för att sälja två verk med miljonvärderingar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Record price for rare Klint",
-        "summary": "Hilma af Klint's rare abstract painting \"Ser III No. 5\" was knocked down for a record SEK 108 million at Bukowskis. Meanwhile, rival Stockholms Auktionsverk is gearing up to sell two works valued at millions."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T20:31:04+01:00"
       }
     }
   ]
