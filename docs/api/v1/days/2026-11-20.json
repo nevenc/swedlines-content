@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-20T17:15:56+01:00",
-  "count": 520,
+  "generated_at": "2026-11-20T17:31:16+01:00",
+  "count": 525,
   "items": [
+    {
+      "id": "2207598e89c9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347497",
+      "guid": "rss:sr.se/article/9347497",
+      "published_at": "2026-11-20T17:24:00+01:00",
+      "fetched_at": "2026-11-20T17:31:07+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "SVT granskar Carina Bergfeldt",
+        "summary": "SVT-profilen Carina Bergfeldt har använt interna resurser på SVT för att ta reda på vilka medarbetare som låg bakom en publicering hon själv anmält till Granskningsnämnden. Det uppger SVT:s ”Uppdrag granskning”.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "SVT investigates Carina Bergfeldt",
+        "summary": "SVT profile Carina Bergfeldt has used SVT's internal resources to find out which employees were behind a broadcast she herself reported to the Broadcasting Complaints Commission. This is according to SVT's \"Uppdrag granskning\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T17:31:16+01:00"
+      }
+    },
+    {
+      "id": "ba6177f93d14",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/noje/tv-och-streaming/bergfeldt-hjalpte-adhd-expert-att-anmala-svt",
+      "guid": "https://www.expressen.se/noje/tv-och-streaming/bergfeldt-hjalpte-adhd-expert-att-anmala-svt/",
+      "published_at": "2026-11-20T17:22:04+01:00",
+      "fetched_at": "2026-11-20T17:31:09+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Bergfeldt hjälpte adhd-expert att anmäla SVT",
+        "summary": "Carina Bergfeldt hjälpte adhd-expert att anmäla SVT till Granskningsnämnden. Det avslöjar Uppdrag granskning på fredagen. Dessutom följer Bergfeldts man med experten till UG-intervjun och beskriver sig som ”en kompis”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bergfeldt helped ADHD expert file complaint against SVT",
+        "summary": "Carina Bergfeldt helped an ADHD expert file a complaint against SVT with the Broadcasting Complaints Commission. Uppdrag granskning reveals this on Friday. In addition, Bergfeldt's husband accompanies the expert to the UG interview and describes himself as \"a friend\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T17:31:16+01:00"
+      }
+    },
+    {
+      "id": "7935931c1061",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/det-ar-inte-sa-konstigt-att-vansterpartiet-star-pa-sig",
+      "guid": "https://www.dn.se/insandare/det-ar-inte-sa-konstigt-att-vansterpartiet-star-pa-sig/",
+      "published_at": "2026-11-20T17:20:32+01:00",
+      "fetched_at": "2026-11-20T17:31:07+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/810234d4-5ca2-4240-8533-1c507a4fa7ec.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Det är inte så konstigt att Vänsterpartiet står på sig",
+        "summary": "INSÄNDARE. När Socialdemokraterna utlovar vänsterpartistisk politik brukar dessa fagra löften ofta brytas. Endast ett formaliserat samarbete med mycket långtgående garantier kan förhindra att historien upprepar sig, skriver Martin Nordborg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Letter. It is not so strange that the Left Party stands its ground",
+        "summary": "LETTER. When the Social Democrats promise Left Party-style politics, these fine promises are often broken. Only a formalised cooperation with very far-reaching guarantees can prevent history from repeating itself, writes Martin Nordborg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T17:31:16+01:00"
+      }
+    },
     {
       "id": "2c6fd1b4922c",
       "schema_version": 1,
@@ -26,6 +105,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T17:15:55+01:00"
+      }
+    },
+    {
+      "id": "4489bbf8a190",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/polisen-utreder-misstankt-dataintrang-hos-taxibolag",
+      "guid": "ee48fa4d-6c66-4410-91f8-a3775bff0a57",
+      "published_at": "2026-11-20T17:11:18+01:00",
+      "fetched_at": "2026-11-20T17:31:10+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0385d908-0a91-4718-b348-c45032e17c6e.jpg?width=600",
+      "sv": {
+        "title": "Polisen utreder misstänkt dataintrång hos taxibolag",
+        "summary": "Polisen utreder ett misstänkt dataintrång mot taxibolag. Enligt uppgifter till TT rör intrånget Cabonline, som äger bland annat Taxikurir.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police investigate suspected data breach at taxi company",
+        "summary": "Police are investigating a suspected data breach against a taxi company. According to information to TT, the breach concerns Cabonline, which owns among others Taxikurir."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T17:31:16+01:00"
       }
     },
     {
@@ -160,6 +266,43 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T17:15:55+01:00"
+      }
+    },
+    {
+      "id": "f6572130e77c",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/c-toppen-borjar-bli-oppen-for-kristersson.298cb471-7ebf-5b7d-a8d8-6f854a93442c",
+      "guid": "298cb471-7ebf-5b7d-a8d8-6f854a93442c",
+      "published_at": "2026-11-20T17:04:05+01:00",
+      "fetched_at": "2026-11-20T17:31:11+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Politik",
+        "Tagg: Ulf Kristersson",
+        "Tagg: Magdalena Andersson",
+        "Tagg: Västra Götaland",
+        "Tagg: Vänsterpartiet",
+        "Tagg: Centerpartiet",
+        "Tagg: Extraval",
+        "Tagg: breaking-GP"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/b7674e12-56bc-3727-acc6-31023cebc3b5",
+      "sv": {
+        "title": "C-toppen öppnar för Kristersson",
+        "summary": "C-ilskan mot V: ”Sätter käppar i hjulen för Socialdemokraterna”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "C top opens to Kristersson",
+        "summary": "C anger at V: \"Puts spokes in the wheels for the Social Democrats\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T17:31:16+01:00"
       }
     },
     {
