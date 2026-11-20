@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-20T07:45:51+01:00",
+  "generated_at": "2026-11-20T07:56:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d009d08a015a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/hart-straff-for-bosniska-bengaler",
+      "guid": "6b28bd44-704e-4c0d-b1c2-e02f041338a7",
+      "published_at": "2026-11-20T07:53:39+01:00",
+      "fetched_at": "2026-11-20T07:56:06+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/15e94f5c-7e39-4727-8bc8-cb7f1a71ac5f.jpg?width=600",
+      "sv": {
+        "title": "Hårt straff för bosniska bengaler",
+        "summary": "De bosniska supportrarna tände en stor mängd bengaliska eldar i Nations League-matcher mot Sverige på Strawberry arena. För det straffas Bosnien-Hercegovinas fotbollsförbund hårt av Uefa.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Harsh punishment for Bosnian flares",
+        "summary": "Bosnian supporters lit a large number of flares in Nations League matches against Sweden at Strawberry Arena. For this, the Bosnia and Herzegovina football federation is being harshly punished by Uefa."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:56:15+01:00"
+      }
+    },
+    {
+      "id": "475260ce5bdb",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/stora-nedgangar-stockholmsborsen-vantas-sjunka",
+      "guid": "9d8feae1-abac-4614-a282-28ebe25be68e",
+      "published_at": "2026-11-20T07:52:27+01:00",
+      "fetched_at": "2026-11-20T07:56:06+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/de7f9fe6-79d9-473f-bf12-be2f863f213d.jpg?width=600",
+      "sv": {
+        "title": "Stora nedgångar – Stockholmsbörsen väntas sjunka",
+        "summary": "Stockholmsbörsen väntas inleda tydligt nedåt, enligt IG Markets.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major declines – Stockholm stock exchange expected to fall",
+        "summary": "The Stockholm stock exchange is expected to open clearly lower, according to IG Markets."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:56:15+01:00"
+      }
+    },
     {
       "id": "e08bcf01387d",
       "schema_version": 1,
@@ -5117,52 +5171,6 @@
       },
       "en": {
         "title": "1960s house in Revingeby, Revinge sold – for 1.9 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "02dfd41bd816",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-villa-rX8CQ",
-      "guid": "7bffcc6b-ae06-447d-b42d-f85ec1c1cd41",
-      "published_at": "2026-11-18T07:02:02+01:00",
-      "fetched_at": "2026-11-18T07:15:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nya ägare till villa"
-      },
-      "en": {
-        "title": "New owners of villa"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "158fedda11d2",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/stor-vardeokning-nar-fastighet-i-hollviken-saljs-igen-RYnwe",
-      "guid": "e129fd27-c70e-4ebd-adf6-e7f010419538",
-      "published_at": "2026-11-18T07:02:01+01:00",
-      "fetched_at": "2026-11-18T07:15:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Stor värdeökning när fastighet i Höllviken säljs igen"
-      },
-      "en": {
-        "title": "Large value increase when property in Höllviken is sold again"
       },
       "translation": {
         "status": "done",

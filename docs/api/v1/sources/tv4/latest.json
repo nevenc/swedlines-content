@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-20T07:45:51+01:00",
+  "generated_at": "2026-11-20T07:56:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "650eb52ff4b9",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6LG4Y3cTxtVMXWjT77sY5r/trumps-kronprins-skakas-nu-pekas-ny-favorit-ut",
+      "guid": "6LG4Y3cTxtVMXWjT77sY5r",
+      "published_at": "2026-11-20T07:51:20+01:00",
+      "fetched_at": "2026-11-20T07:56:04+01:00",
+      "category": "world",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Trumps ”kronprins” skakas – nu pekas ny favorit ut",
+        "summary": "USA:s utrikesminister Marco Rubio avfärdar fortfarande frågor om presidentvalet 2028. Men enligt CNN har han på senare tid blivit mindre tydlig med att utesluta en kandidatur – något de beskriver som ett förändrat tonläge hos utrikesministern.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Trump's \"crown prince\" shaken – new favourite pointed out",
+        "summary": "US Secretary of State Marco Rubio still dismisses questions about the 2028 presidential election. But according to CNN, he has recently become less clear about ruling out a candidacy – which they describe as a changed tone from the Secretary of State."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:56:15+01:00"
+      }
+    },
     {
       "id": "109f6f3e34a3",
       "schema_version": 1,
@@ -5739,35 +5768,6 @@
       },
       "translation": {
         "status": "pending"
-      }
-    },
-    {
-      "id": "ce68b091941b",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/5OKXPu6qgHUTFx6PTv8JKb/insatsstyrkan-slog-till-mot-rysskopplade-fartyget-nu-skuggas-det-av-dansk-militaer",
-      "guid": "5OKXPu6qgHUTFx6PTv8JKb",
-      "published_at": "2026-11-11T17:20:27+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Ryssland"
-      ],
-      "sv": {
-        "title": "Rysskopplat fartyg skuggas under Zelenskyjmöte",
-        "summary": "Nationella insatsstyrkan slog till mot ett stort fartyg vid Gotlands nordvästra kust under natten till den 31 oktober. Fartygets rederi har tidigare varit föremål för utredningar gällande ryska hybridattacker. Enligt uppgifter till TV4 Nyheterna består dess besättning av ryska medborgare.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Russia-linked ship shadowed during Zelensky meeting",
-        "summary": "The National Task Force raided a large ship off Gotland's north-west coast during the night of 31 October. The ship's owner has previously been the subject of investigations into Russian hybrid attacks. According to information given to TV4 Nyheterna, its crew consists of Russian citizens."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
       }
     }
   ]

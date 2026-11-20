@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-20T07:45:51+01:00",
+  "generated_at": "2026-11-20T07:56:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c7ade2a023a7",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/OypX3E/bosnien-hercegovina-far-bota-for-bengaler-mot-sverige-i-nations-league",
+      "guid": "https://www.svd.se/a/OypX3E/bosnien-hercegovina-far-bota-for-bengaler-mot-sverige-i-nations-league?utm_medium=rss",
+      "published_at": "2026-11-20T07:55:24+01:00",
+      "fetched_at": "2026-11-20T07:56:03+01:00",
+      "category": "sports",
+      "image_url": "https://akamai.vgc.no/v2/images/f4c81805-bd6d-37ef-8418-d4ef6322f302?format=auto&s=35bfc925819ac957bd3fda2a98feeb51ac34affe&w=1000",
+      "sv": {
+        "title": "Bosnien får böta för bengaler mot Sverige",
+        "summary": "De bosniska supportrarna tände en stor mängd bengaliska eldar i Nations League-matcher mot Sverige…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bosnia faces fine for flares against Sweden",
+        "summary": "Bosnian supporters lit a large number of flares in Nations League matches against Sweden…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:56:15+01:00"
+      }
+    },
+    {
+      "id": "d009d08a015a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/hart-straff-for-bosniska-bengaler",
+      "guid": "6b28bd44-704e-4c0d-b1c2-e02f041338a7",
+      "published_at": "2026-11-20T07:53:39+01:00",
+      "fetched_at": "2026-11-20T07:56:06+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/15e94f5c-7e39-4727-8bc8-cb7f1a71ac5f.jpg?width=600",
+      "sv": {
+        "title": "Hårt straff för bosniska bengaler",
+        "summary": "De bosniska supportrarna tände en stor mängd bengaliska eldar i Nations League-matcher mot Sverige på Strawberry arena. För det straffas Bosnien-Hercegovinas fotbollsförbund hårt av Uefa.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Harsh punishment for Bosnian flares",
+        "summary": "Bosnian supporters lit a large number of flares in Nations League matches against Sweden at Strawberry Arena. For this, the Bosnia and Herzegovina football federation is being harshly punished by Uefa."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:56:15+01:00"
+      }
+    },
     {
       "id": "48f8e2125fa1",
       "schema_version": 1,
@@ -5576,60 +5630,6 @@
       "en": {
         "title": "Years of disaster and total chaos – now Italy is rising again",
         "summary": "At the football federation it is hurricane season. In the Nations League the men's national team is sailing along. After three missed World Cups there are signs that the Azzurri are on the way back. They have had to confront a series of Italian football truths to get here."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "442926ab27c5",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sport/elvira-oberg-vann-premiaren-lite-nojig",
-      "guid": "https://www.dn.se/sport/elvira-oberg-vann-premiaren-lite-nojig/",
-      "published_at": "2026-11-14T12:39:41+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/98c0fa24-577d-46c5-aeb2-96bca2eaca70.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Elvira Öberg vann premiären: ”Lite nojig”",
-        "summary": "Elvira Öberg vann skidskyttarnas Sverigepremiär i Idre efter en skakig inledning. – Jag blev lite nojig att jag kanske öppnade för hårt när jag fick höra tiden på första varvet, säger hon till SVT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Elvira Öberg won the opener: “A bit nervous”",
-        "summary": "Elvira Öberg won the biathletes' Swedish season opener in Idre after a shaky start. – I got a bit nervous that I perhaps pushed too hard when I heard the time on the first lap, she tells SVT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "d0e15fe6ed84",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/elvira-oberg-vinner-sverigepremiaren",
-      "guid": "4103ddbb-85ae-47c9-99f1-86b1e7a005d1",
-      "published_at": "2026-11-14T12:30:57+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/02f1491b-9c06-4076-9413-ac847ee8828d.jpg?width=600",
-      "sv": {
-        "title": "Elvira Öberg vann premiären: ”Lite nojig”",
-        "summary": "Elvira Öberg vann skidskyttarnas Sverigepremiär i Idre efter en skakig inledning. – Jag blev lite nojig att jag kanske öppnade för hårt när jag fick höra tiden på första varvet, säger hon till SVT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Elvira Öberg won the opener: “A bit nervous”",
-        "summary": "Elvira Öberg won the biathletes' Swedish season opener in Idre after a shaky start. – I got a bit nervous that I perhaps pushed too hard when I heard the time on the first lap, she tells SVT."
       },
       "translation": {
         "status": "done",

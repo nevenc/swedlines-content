@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T07:45:51+01:00",
+  "generated_at": "2026-11-20T07:56:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d2fae409ec5f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/halland/efter-dodsolycka-pa-sodra-atal-vackt",
+      "guid": "https://www.svt.se/nyheter/lokalt/halland/efter-dodsolycka-pa-sodra-atal-vackt",
+      "published_at": "2026-11-20T07:45:14+01:00",
+      "fetched_at": "2026-11-20T07:56:01+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Efter dödsolycka på Södra – åtal väckt",
+        "summary": "Södra skogsägarna krävs på en företagsbot på drygt 7 miljoner kronor efter dödsolyckan 2022 vid Södra cell Värö i Varbergs kommun då en lokförare omkom i en olycka. Enligt Haverikommissionen hade Södra brustit i sin riskhantering.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After fatal accident at Södra – charges filed",
+        "summary": "Södra skogsägarna is facing a corporate fine of just over SEK 7 million after the 2022 fatal accident at Södra cell Värö in Varbergs kommun, when a train driver died in an accident. According to Haverikommissionen, Södra had failed in its risk management."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:56:15+01:00"
+      }
+    },
     {
       "id": "dca4891a3048",
       "schema_version": 1,
@@ -5341,29 +5367,6 @@
       "en": {
         "title": "Landerholm appeals to the Supreme Court",
         "summary": "Henrik Landerholm is appealing to the Supreme Court, DN reports."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T14:15:51+01:00"
-      }
-    },
-    {
-      "id": "dab62604d99c",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79967",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79967&utm_medium=rss",
-      "published_at": "2026-11-16T14:02:34+01:00",
-      "fetched_at": "2026-11-16T14:15:43+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Landerholm överklagar till HD"
-      },
-      "en": {
-        "title": "Landerholm appeals to the Supreme Court"
       },
       "translation": {
         "status": "done",

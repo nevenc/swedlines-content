@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-20T07:45:51+01:00",
+  "generated_at": "2026-11-20T07:56:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "475260ce5bdb",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/stora-nedgangar-stockholmsborsen-vantas-sjunka",
+      "guid": "9d8feae1-abac-4614-a282-28ebe25be68e",
+      "published_at": "2026-11-20T07:52:27+01:00",
+      "fetched_at": "2026-11-20T07:56:06+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/de7f9fe6-79d9-473f-bf12-be2f863f213d.jpg?width=600",
+      "sv": {
+        "title": "Stora nedgångar – Stockholmsbörsen väntas sjunka",
+        "summary": "Stockholmsbörsen väntas inleda tydligt nedåt, enligt IG Markets.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major declines – Stockholm stock exchange expected to fall",
+        "summary": "The Stockholm stock exchange is expected to open clearly lower, according to IG Markets."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:56:15+01:00"
+      }
+    },
+    {
+      "id": "4eeb716ecce6",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/guldet-fortsatter-ned",
+      "guid": "cb9378f7-3b9b-411d-9144-278bed75ff1c",
+      "published_at": "2026-11-20T07:42:12+01:00",
+      "fetched_at": "2026-11-20T07:56:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8cd4323d-e6e7-48ad-a1a2-dc51b75a1654.jpeg?width=600",
+      "sv": {
+        "title": "Guldet fortsätter ned",
+        "summary": "Guldpriset sjönk på fredagen pressat av en motståndskraftig dollar och förväntningar om att Federal Reserve kommer höja styrräntan i december. Det skriver Reuters.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gold keeps falling",
+        "summary": "Gold prices fell on Friday, pressured by a resilient dollar and expectations that the Federal Reserve will raise the policy rate in December. Reuters reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:56:15+01:00"
+      }
+    },
     {
       "id": "96477a72fd59",
       "schema_version": 1,
@@ -5253,62 +5307,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T09:45:49+01:00"
-      }
-    },
-    {
-      "id": "c1f4be6c63ca",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/6xwU4uzkNKBMpTZYgrXjmc/anthropic-boersnoteras-i-dag-sa-paverkas-svenska-sparare",
-      "guid": "6xwU4uzkNKBMpTZYgrXjmc",
-      "published_at": "2026-11-19T09:15:14+01:00",
-      "fetched_at": "2026-11-19T10:01:16+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Nyhetsmorgon"
-      ],
-      "sv": {
-        "title": "Anthropic börsnoteras i dag – så påverkas svenska sparare",
-        "summary": "AI-jätten Anthropic sätter priset på aktien till 83 dollar när den i dag introduceras på Nasdaq-börsen i USA. Sammanlagt omfattar noteringen omkring 980 miljoner aktier, vilket motsvarar beräknade intäkter på 81,3 miljarder dollar.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Anthropic goes public today – this is how Swedish savers are affected",
-        "summary": "AI giant Anthropic sets the share price at 83 dollars as it is introduced on the Nasdaq exchange in the US today. In total the listing comprises about 980 million shares, corresponding to estimated revenue of 81.3 billion dollars."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T10:01:25+01:00"
-      }
-    },
-    {
-      "id": "c745f780f883",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/borsen-vander-upp-coor-stiger-efter-forvarv",
-      "guid": "43ccc9eb-f230-4c68-a268-abf361389e3c",
-      "published_at": "2026-11-19T09:13:04+01:00",
-      "fetched_at": "2026-11-19T09:15:43+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6aae4930-a961-4b00-b580-edd1433e32f4.jpeg?width=600",
-      "sv": {
-        "title": "Börsen vänder upp – Coor stiger efter förvärv",
-        "summary": "Stockholmsbörsen vänder upp på torsdagsmorgonen inför eftermiddagens jättenotering av Anthropic. De stora verkstadsbolagen stiger, och Coor lyfter efter ett förvärv.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stocks turn up – Coor rises after acquisition",
-        "summary": "The Stockholm stock exchange turns up on Thursday morning ahead of this afternoon's huge listing of Anthropic. The large engineering companies rise, and Coor jumps after an acquisition."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T09:15:58+01:00"
       }
     }
   ]

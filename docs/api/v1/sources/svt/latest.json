@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T07:45:51+01:00",
+  "generated_at": "2026-11-20T07:56:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d2fae409ec5f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/halland/efter-dodsolycka-pa-sodra-atal-vackt",
+      "guid": "https://www.svt.se/nyheter/lokalt/halland/efter-dodsolycka-pa-sodra-atal-vackt",
+      "published_at": "2026-11-20T07:45:14+01:00",
+      "fetched_at": "2026-11-20T07:56:01+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Efter dödsolycka på Södra – åtal väckt",
+        "summary": "Södra skogsägarna krävs på en företagsbot på drygt 7 miljoner kronor efter dödsolyckan 2022 vid Södra cell Värö i Varbergs kommun då en lokförare omkom i en olycka. Enligt Haverikommissionen hade Södra brustit i sin riskhantering.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After fatal accident at Södra – charges filed",
+        "summary": "Södra skogsägarna is facing a corporate fine of just over SEK 7 million after the 2022 fatal accident at Södra cell Värö in Varbergs kommun, when a train driver died in an accident. According to Haverikommissionen, Södra had failed in its risk management."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:56:15+01:00"
+      }
+    },
     {
       "id": "4ee96079ca89",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:58:49+01:00"
-      }
-    },
-    {
-      "id": "8c9528139010",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/emilia-18-om-scoutboomen-ungdomar-ar-trotta-pa-det-uppkopplade",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/emilia-18-om-scoutboomen-ungdomar-ar-trotta-pa-det-uppkopplade",
-      "published_at": "2026-11-14T14:53:55+01:00",
-      "fetched_at": "2026-11-14T15:17:22+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Emilia, 18 om scoutboomen: ”Ungdomar är trötta på det uppkopplade”",
-        "summary": "Intresset för scouting fortsätter att öka. Antalet medlemmar i scouterna har nu ökat tolv år i rad. I helgen träffades över 1 500 scouter i Jönköping. – Ungdomar i dag är trötta på det artificiella och det uppkopplade, man vill ta sig ut, säger 18-åriga Emilia Thomasson från Gotland som varit…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Emilia, 18, on the scouting boom: “Young people are tired of being online”",
-        "summary": "Interest in scouting continues to grow. Membership in the Scouts has now risen for twelve years in a row. Over the weekend more than 1,500 scouts met in Jönköping. – Young people today are tired of the artificial and being online, they want to get out, says 18-year-old Emilia Thomasson from Gotland who has been…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:12+01:00"
       }
     }
   ]
