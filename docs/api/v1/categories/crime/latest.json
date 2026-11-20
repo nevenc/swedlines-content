@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-20T09:15:53+01:00",
+  "generated_at": "2026-11-20T09:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2df11721b872",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80111",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80111&utm_medium=rss",
+      "published_at": "2026-11-20T09:28:51+01:00",
+      "fetched_at": "2026-11-20T09:30:59+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Åtal väcks för dödsskörning på Östermalm"
+      },
+      "en": {
+        "title": "Charges filed for fatal car ramming in Östermalm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T09:31:07+01:00"
+      }
+    },
+    {
+      "id": "9dc6696a4fc8",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=58db3461-df7c-4a1f-be1f-33ffb624114f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=58db3461-df7c-4a1f-be1f-33ffb624114f",
+      "published_at": "2026-11-20T09:23:09+01:00",
+      "fetched_at": "2026-11-20T09:31:00+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Åtal efter Östermalmsolycka",
+        "summary": "Man misstänks • Lotta Hellstrand, 57, dog",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Charges after Östermalm accident",
+        "summary": "Man suspected • Lotta Hellstrand, 57, died"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T09:31:07+01:00"
+      }
+    },
+    {
+      "id": "b0717ea5157b",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/svensk-kvinna-ihjalskjuten-pa-filippinerna.8b603261-f31a-5020-bedb-f3c9389aa3fc",
+      "guid": "8b603261-f31a-5020-bedb-f3c9389aa3fc",
+      "published_at": "2026-11-20T09:01:55+01:00",
+      "fetched_at": "2026-11-20T09:31:01+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Filippinerna"
+      ],
+      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
+      "sv": {
+        "title": "Svensk kvinna ihjälskjuten i Filippinerna",
+        "summary": "Två personer gripna misstänkta för mord, rapporterar lokala medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish woman shot dead in the Philippines",
+        "summary": "Two people detained on suspicion of murder, local media report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T09:31:07+01:00"
+      }
+    },
     {
       "id": "ab1dcf841d72",
       "schema_version": 1,
@@ -5294,86 +5374,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T16:35:37+01:00"
-      }
-    },
-    {
-      "id": "87c190308ef6",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79969",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79969&utm_medium=rss",
-      "published_at": "2026-11-16T15:17:01+01:00",
-      "fetched_at": "2026-11-16T15:31:00+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "En gripen efter hot mot skola i Stockholm"
-      },
-      "en": {
-        "title": "One arrested after threats against school in Stockholm"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:31:07+01:00"
-      }
-    },
-    {
-      "id": "71ec1488b42b",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/storgoteborg/nya-fotot-kan-visa-forsvunna-kvinnan-i-landvetter.b76bfd5e-77ef-569a-8560-d886ff7408dc",
-      "guid": "b76bfd5e-77ef-569a-8560-d886ff7408dc",
-      "published_at": "2026-11-16T15:06:58+01:00",
-      "fetched_at": "2026-11-16T15:40:23+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Storgöteborg",
-        "Tagg: ab:Breaking News-karusell"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/e39ebf3b-4842-33f8-9678-9ac6d88b4183",
-      "sv": {
-        "title": "Ny kamerabild kan visa försvunnen kvinna i Göteborg",
-        "summary": "Kvinnan anmäldes försvunnen i slutet av september. Nu vädjar polisen om tips från allmänheten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New camera footage may show missing woman in Göteborg",
-        "summary": "The woman was reported missing at the end of September. Now the police are appealing to the public for tips."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:40:28+01:00"
-      }
-    },
-    {
-      "id": "0ae54a728d71",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/stockholm/14-arig-flicka-slappt-fran-haktet-fortsatt-misstankt-i-alvsjomordet",
-      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/14-arig-flicka-slappt-fran-haktet-fortsatt-misstankt-i-alvsjomordet",
-      "published_at": "2026-11-16T14:58:51+01:00",
-      "fetched_at": "2026-11-16T15:06:20+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "14-årig flicka släppt från häktet – fortsatt misstänkt i Älvsjömordet",
-        "summary": "Den 14-åriga flicka som misstänks för medhjälp till mord i Älvsjö släpptes från häktet under måndagsförmiddagen, meddelar åklagaren. Hon hanteras nu av socialtjänsten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "14-year-old girl released from remand – still suspected in Älvsjö murder",
-        "summary": "The 14-year-old girl suspected of complicity in the Älvsjö murder was released from remand on Monday morning, the prosecutor says. She is now being looked after by social services."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T15:06:30+01:00"
       }
     }
   ]

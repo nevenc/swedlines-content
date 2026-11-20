@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-20T09:15:53+01:00",
+  "generated_at": "2026-11-20T09:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2b93103c8845",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/ez8zOR/kommer-hemnet-att-kopas-ut-fran-borsen",
+      "guid": "https://www.svd.se/a/ez8zOR/kommer-hemnet-att-kopas-ut-fran-borsen?utm_medium=rss",
+      "published_at": "2026-11-20T09:29:53+01:00",
+      "fetched_at": "2026-11-20T09:30:59+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/958fe0a0-4e1c-3915-b385-f0a84c7cc2ef?format=auto&s=516df930aa01cd206fd91b0b6977ce6cb4f1024f&w=1000",
+      "sv": {
+        "title": "Kommer Hemnet bli kvar på börsen?",
+        "summary": "Från folkligt helgnöje till börsraket – och därefter till stadigt fallande aktiekurs.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Will Hemnet stay on the stock exchange?",
+        "summary": "From popular Sunday pastime to stock market surge – and then to a steadily falling share price."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T09:31:07+01:00"
+      }
+    },
+    {
+      "id": "2df11721b872",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80111",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80111&utm_medium=rss",
+      "published_at": "2026-11-20T09:28:51+01:00",
+      "fetched_at": "2026-11-20T09:30:59+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Åtal väcks för dödsskörning på Östermalm"
+      },
+      "en": {
+        "title": "Charges filed for fatal car ramming in Östermalm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T09:31:07+01:00"
+      }
+    },
     {
       "id": "cafb076b9ada",
       "schema_version": 1,
@@ -5186,60 +5236,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T11:31:11+01:00"
-      }
-    },
-    {
-      "id": "d49f78887ba9",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/dJOkwA/mp-toppen-koper-inte-totalpaketet-s-bud",
-      "guid": "https://www.svd.se/a/dJOkwA/mp-toppen-koper-inte-totalpaketet-s-bud?utm_medium=rss",
-      "published_at": "2026-11-17T11:25:32+01:00",
-      "fetched_at": "2026-11-17T11:31:01+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/ee1e9a4b-cd0d-3da6-a7d0-eec8eae419f2?format=auto&s=13a5685b37b2b8829b5d6cef792eac10dcd6d895&w=1000",
-      "sv": {
-        "title": "MP-toppen köper inte totalpaketet: ”S-bud”",
-        "summary": "Miljöpartiet köper inte hela Socialdemokraternas totalpaket. ”Tydligt ett S-bud”, säger partitoppen…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Green Party leadership won't buy the whole package: \"Clearly an S offer\"",
-        "summary": "The Green Party is not buying the Social Democrats' whole package. \"Clearly an S offer,\" says the party leadership…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T11:31:11+01:00"
-      }
-    },
-    {
-      "id": "f6187e14b538",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Oypjgk/mp-koper-inte-hela-totalpaketet",
-      "guid": "https://www.svd.se/a/Oypjgk/mp-koper-inte-hela-totalpaketet?utm_medium=rss",
-      "published_at": "2026-11-17T11:11:42+01:00",
-      "fetched_at": "2026-11-17T11:15:45+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/255ee091-7c24-35cb-807c-e0bc95d6f0cc?format=auto&s=551760a3377eeee5e07c8bf8ee0da366e15e810b&w=1000",
-      "sv": {
-        "title": "MP: Köper inte hela totalpaketet",
-        "summary": "Miljöpartiet köper inte det så kallade totalpaket som Socialdemokraterna tagit fram.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "MP: Not Buying the Whole Package",
-        "summary": "The Green Party is not buying the so-called total package that the Social Democrats have put together."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T11:15:55+01:00"
       }
     }
   ]

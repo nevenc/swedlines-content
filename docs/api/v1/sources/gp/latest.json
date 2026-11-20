@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-11-20T09:15:53+01:00",
+  "generated_at": "2026-11-20T09:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b0717ea5157b",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/svensk-kvinna-ihjalskjuten-pa-filippinerna.8b603261-f31a-5020-bedb-f3c9389aa3fc",
+      "guid": "8b603261-f31a-5020-bedb-f3c9389aa3fc",
+      "published_at": "2026-11-20T09:01:55+01:00",
+      "fetched_at": "2026-11-20T09:31:01+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Filippinerna"
+      ],
+      "image_url": "https://www.gp.se/images/slm/gp/fallback-og-image.png",
+      "sv": {
+        "title": "Svensk kvinna ihjälskjuten i Filippinerna",
+        "summary": "Två personer gripna misstänkta för mord, rapporterar lokala medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish woman shot dead in the Philippines",
+        "summary": "Two people detained on suspicion of murder, local media report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T09:31:07+01:00"
+      }
+    },
+    {
+      "id": "a50e68e49821",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/the-strokes-kommer-till-way-out-west-2027.5ee0d9a2-6f04-5fef-aba5-71731ecc3da8",
+      "guid": "5ee0d9a2-6f04-5fef-aba5-71731ecc3da8",
+      "published_at": "2026-11-20T09:00:13+01:00",
+      "fetched_at": "2026-11-20T09:31:01+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: The Strokes",
+        "Tagg: Robyn",
+        "Tagg: Way Out West",
+        "Tagg: Coachella",
+        "Tagg: Julian Casablancas"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/9de7e486-22cd-302f-9fc9-932dc62c7fa9",
+      "sv": {
+        "title": "The Strokes till Way Out West",
+        "summary": "Skapade stor uppmärksamhet på Coachella",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Strokes to Way Out West",
+        "summary": "Attracted major attention at Coachella"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T09:31:07+01:00"
+      }
+    },
     {
       "id": "b6221354dd20",
       "schema_version": 1,
@@ -6817,79 +6883,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:30:08+01:00"
-      }
-    },
-    {
-      "id": "c3ac0b50e3ef",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/livsstil/nar-larde-vi-oss-hata-vart-kroppshar.eafb9eab-0b8a-5b38-be9d-2ac5bc7c49ff",
-      "guid": "eafb9eab-0b8a-5b38-be9d-2ac5bc7c49ff",
-      "published_at": "2026-11-15T06:06:20+01:00",
-      "fetched_at": "2026-11-15T08:29:36+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Livsstil",
-        "Tagg: Livsstil",
-        "Tagg: Kroppshygien",
-        "Tagg: Skönhetsideal",
-        "Tagg: Porrindustrin",
-        "Tagg: Genusfrågor",
-        "Tagg: Kvinnohistoria"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/7e1003b5-8444-3895-aa2c-3b0ee50fa4f4",
-      "sv": {
-        "title": "Hatet mot håret: vaxade könet innan förlossningen",
-        "summary": "När lärde vi oss att hata håret på våra kroppar? Tre kvinnor berättar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The hatred of hair: waxed genitals before childbirth",
-        "summary": "When did we learn to hate the hair on our bodies? Three women tell their stories."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:08+01:00"
-      }
-    },
-    {
-      "id": "d2f947a74320",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/linnea-claesons-regnbagshar-var-overallt-sedan-forsvann-hon.9b51c9c9-7817-5fe7-be42-fd65ec43f6f0",
-      "guid": "9b51c9c9-7817-5fe7-be42-fd65ec43f6f0",
-      "published_at": "2026-11-15T06:03:23+01:00",
-      "fetched_at": "2026-11-15T08:29:36+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Kultur",
-        "Tagg: Linnéa Claeson",
-        "Tagg: woke",
-        "Tagg: Feminism",
-        "Tagg: Sexuella trakasserier",
-        "Tagg: Mänskliga rättigheter",
-        "Tagg: Civilsamhälle",
-        "Tagg: fb_x_exkludera"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/f7842268-5a6a-332e-9953-b19365ed66bf",
-      "sv": {
-        "title": "Drev och stalkers nära att knäcka Linnéa Claeson",
-        "summary": "”Jag vill bara ta tillbaka min historia och berätta vad som är sant.”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Harassment and stalkers close to breaking Linnéa Claeson",
-        "summary": "\"I just want to take back my story and tell what is true.\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:14+01:00"
       }
     }
   ]

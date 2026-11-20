@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T09:15:53+01:00",
+  "generated_at": "2026-11-20T09:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "213a28ebcfb5",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/1vne6M/radio-aftonbladets-fredagsquizet-20-november",
+      "guid": "https://www.aftonbladet.se/nyheter/a/1vne6M/radio-aftonbladets-fredagsquizet-20-november?utm_medium=rss",
+      "published_at": "2026-11-20T09:22:45+01:00",
+      "fetched_at": "2026-11-20T09:31:00+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/7ff6b387-25fd-379f-83bf-3e8a19317b7f?format=auto&s=a1fb64ed6a6020923d9536c20aebff973b3c7c0b&w=1000",
+      "sv": {
+        "title": "QUIZ: testa dig på veckans händelser",
+        "summary": "Gör Radio Aftonbladets fredagsquiz",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "QUIZ: test yourself on this week's events",
+        "summary": "Take Radio Aftonbladet's Friday quiz"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T09:31:07+01:00"
+      }
+    },
     {
       "id": "ab1dcf841d72",
       "schema_version": 1,
@@ -5345,33 +5372,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T12:31:09+01:00"
-      }
-    },
-    {
-      "id": "addf8c7d8e12",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/M5RjER/c-toppen-vi-ar-knappast-krasmagade",
-      "guid": "https://www.aftonbladet.se/nyheter/a/M5RjER/c-toppen-vi-ar-knappast-krasmagade?utm_medium=rss",
-      "published_at": "2026-11-17T12:06:17+01:00",
-      "fetched_at": "2026-11-17T12:15:45+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/943a9947-5945-3b5c-ae36-b282b44d6c24?format=auto&s=8041d7b65fd0dd4120a7821ee7745c4e92a8bff7&w=1000",
-      "sv": {
-        "title": "C-toppen: Vi är knappast kräsmagade",
-        "summary": "Socialdemokraternas totalpaket är långt ifrån färdigförhandlat, menar Centerpartiet. Den ekonomisk-politiska talespersonen Martin Ådahl (C) är också kritisk till V-toppens anklagelse om att partiet är ”kräsmagade”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Party leadership: We are hardly picky",
-        "summary": "The Social Democrats' overall package is far from fully negotiated, the Centre Party says. Economic policy spokesperson Martin Ådahl (C) is also critical of the Left Party leadership's accusation that the party is “picky”."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:16:04+01:00"
       }
     }
   ]

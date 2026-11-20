@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-20T09:15:53+01:00",
+  "generated_at": "2026-11-20T09:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "be7b28b74791",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bf586eef-c64f-4cab-8ae3-d5bcc6d740c2",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bf586eef-c64f-4cab-8ae3-d5bcc6d740c2",
+      "published_at": "2026-11-20T09:24:42+01:00",
+      "fetched_at": "2026-11-20T09:31:00+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Förlorar gummibjörnsbråk",
+        "summary": "Godisjätten får inte ensamrätt",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Loses gummy bear dispute",
+        "summary": "Candy giant does not get exclusive rights"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T09:31:07+01:00"
+      }
+    },
+    {
+      "id": "9dc6696a4fc8",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=58db3461-df7c-4a1f-be1f-33ffb624114f",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=58db3461-df7c-4a1f-be1f-33ffb624114f",
+      "published_at": "2026-11-20T09:23:09+01:00",
+      "fetched_at": "2026-11-20T09:31:00+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Åtal efter Östermalmsolycka",
+        "summary": "Man misstänks • Lotta Hellstrand, 57, dog",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Charges after Östermalm accident",
+        "summary": "Man suspected • Lotta Hellstrand, 57, died"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T09:31:07+01:00"
+      }
+    },
     {
       "id": "b19a3ed00f0c",
       "schema_version": 1,
@@ -5139,58 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T23:31:02+01:00"
-      }
-    },
-    {
-      "id": "71ba1e1efbb5",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=c1de6def-5817-48fe-b83f-06d7d9e8ca52",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=c1de6def-5817-48fe-b83f-06d7d9e8ca52",
-      "published_at": "2026-11-16T23:18:23+01:00",
-      "fetched_at": "2026-11-16T23:30:56+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Robotar mot Kiev",
-        "summary": "”Kiev attackeras”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Robots against Kyiv",
-        "summary": "\"Kyiv is under attack\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T23:31:02+01:00"
-      }
-    },
-    {
-      "id": "f3402b80e458",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/mor-och-dotter-dog-inom-nagra-timmar-av-olika-orsaker",
-      "guid": "https://www.expressen.se/nyheter/varlden/mor-och-dotter-dog-inom-nagra-timmar-av-olika-orsaker/",
-      "published_at": "2026-11-16T23:10:25+01:00",
-      "fetched_at": "2026-11-16T23:15:45+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Mor och dotter dog inom några timmar – av olika orsaker",
-        "summary": "En toppolitikers fru och dotter dog inom några timmar på samma sjukhus – av olika sjukdomar, skriver BBC. Det beskrivs som en ”dubbel tragedi” och ”en djup personlig chock”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mother and daughter died within hours of each other – from different causes",
-        "summary": "The wife and daughter of a senior politician died within hours of each other at the same hospital – from different illnesses, BBC reports. It is described as a \"double tragedy\" and \"a profound personal shock\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T23:15:52+01:00"
       }
     }
   ]
