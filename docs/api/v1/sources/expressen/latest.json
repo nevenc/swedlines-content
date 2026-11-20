@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T00:45:51+01:00",
+  "generated_at": "2026-11-20T01:01:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9e4bd00bb19e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trump-missade-kim",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-missade-kim/",
+      "published_at": "2026-11-20T00:44:24+01:00",
+      "fetched_at": "2026-11-20T01:01:13+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump missade Kim",
+        "summary": "Förklaringen: Därför blev det inget möte",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump misses Kim",
+        "summary": "The explanation: why no meeting took place"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T01:01:17+01:00"
+      }
+    },
     {
       "id": "dd97c8132a88",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T17:01:20+01:00"
-      }
-    },
-    {
-      "id": "d1c587cf1d2c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/experten-domer-ut-anderssons-chanser-att-bilda-regering",
-      "guid": "https://www.expressen.se/nyheter/politik/experten-domer-ut-anderssons-chanser-att-bilda-regering/",
-      "published_at": "2026-11-16T16:51:17+01:00",
-      "fetched_at": "2026-11-16T16:54:15+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Experten dömer ut Anderssons chanser att bilda regering",
-        "summary": "Talmannen har flera viktiga beslut att fatta inom den närmsta tiden. Vilka de än blir tror statsvetaren Per Andersson att Ulf Kristersson blir vinnaren. Men vägen dit går via talmannen Andreas Norlén. – Jag tror att han grubblar ganska mycket nu.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Experts dismiss Andersson's chances of forming a government",
-        "summary": "The Speaker has several important decisions to make in the near future. Whatever they are, political scientist Per Andersson believes Ulf Kristersson (M) will be the winner. But the path there goes through Speaker Andreas Norlén. – I think he is brooding quite a lot right now."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:54:22+01:00"
       }
     }
   ]

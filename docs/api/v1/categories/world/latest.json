@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T00:45:51+01:00",
+  "generated_at": "2026-11-20T01:01:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9e4bd00bb19e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trump-missade-kim",
+      "guid": "https://www.expressen.se/nyheter/varlden/trump-missade-kim/",
+      "published_at": "2026-11-20T00:44:24+01:00",
+      "fetched_at": "2026-11-20T01:01:13+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump missade Kim",
+        "summary": "Förklaringen: Därför blev det inget möte",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump misses Kim",
+        "summary": "The explanation: why no meeting took place"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T01:01:17+01:00"
+      }
+    },
     {
       "id": "4c7b8508c9a1",
       "schema_version": 1,
@@ -5351,33 +5377,6 @@
       },
       "en": {
         "title": "Xi and Putin meet – Trump comes tomorrow"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "7e6a636259d8",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/expert-osannolikt-att-bron-kan-lagas-under-kriget",
-      "guid": "07a564a0-e9c3-4e05-931b-db0055710a05",
-      "published_at": "2026-11-18T07:07:42+01:00",
-      "fetched_at": "2026-11-18T07:15:48+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/73f7e4e7-60c1-42d6-b76e-07989add9eac.jpg?width=600",
-      "sv": {
-        "title": "Expert: Osannolikt att bron kan lagas under kriget",
-        "summary": "Delar av Krimbron ligger på havets botten efter riktade ukrainska attacker. Ryssland lovar att bygga upp den, men militärexperten Emil Kastehelmi ser det som osannolikt, så länge som kriget pågår. – Det går inte bara att bygga en ny stålkropp och sätta den på plats, säger han till TT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Expert: Unlikely the bridge can be repaired during the war",
-        "summary": "Parts of the Crimean Bridge lie on the seabed after targeted Ukrainian attacks. Russia promises to rebuild it, but military expert Emil Kastehelmi sees this as unlikely as long as the war continues. – It's not just a matter of building a new steel structure and putting it in place, he tells TT."
       },
       "translation": {
         "status": "done",
