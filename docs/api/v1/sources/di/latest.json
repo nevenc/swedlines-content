@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T07:31:24+01:00",
+  "generated_at": "2026-11-20T07:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "50c49b2a19dd",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/debatt/forbud-mot-vitt-snus-hotar-svenska-jobb",
+      "guid": "06bf6b46-8971-4085-9bd1-de855c587ccd",
+      "published_at": "2026-11-20T07:29:37+01:00",
+      "fetched_at": "2026-11-20T07:45:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/85393a4a-8c36-485d-a554-e4e707df6e7e.jpeg?width=600",
+      "sv": {
+        "title": "Förbud mot vitt snus hotar svenska jobb",
+        "summary": "Vi behöver inte vara överens om varje detalj i nikotinpolitiken. Vi har byggt upp en världsledande svensk industri. Nu måste politiken ta ansvar för att den också har en framtid, skriver fyra industrifack.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ban on white snus threatens Swedish jobs",
+        "summary": "We do not need to agree on every detail of nicotine policy. We have built up a world-leading Swedish industry. Now politics must take responsibility for it also having a future, write four industrial unions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:45:51+01:00"
+      }
+    },
     {
       "id": "9a069c01de4f",
       "schema_version": 1,
@@ -5303,33 +5330,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T19:31:10+01:00"
-      }
-    },
-    {
-      "id": "9b08cc87c9e1",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/bakom-julklappen-rekordintakter-for-svenska-lopp",
-      "guid": "8a790f87-e1e2-4c32-9c52-4902b77fd231",
-      "published_at": "2026-11-18T19:06:46+01:00",
-      "fetched_at": "2026-11-18T19:15:48+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6e0b9f28-a08f-4326-9095-b1dd85157639.jpeg?width=600",
-      "sv": {
-        "title": "Bakom julklappen: Rekordintäkter för svenska lopp",
-        "summary": "När HUI Research utser startnumret till årets julklapp sätts strålkastarljuset på en bransch som hittat formen efter pandemins ökenvandring. Men även om intäkterna från de största motionsloppen nått nya höjder är antalet deltagare fortfarande lägre än 2019.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Behind the Christmas present: Record revenues for Swedish races",
-        "summary": "When HUI Research picks the start number for this year's Christmas present, the spotlight falls on an industry that has found its form after the pandemic's desert wandering. But even though revenues from the largest fun runs have reached new heights, the number of participants is still lower than in 2019."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:15:55+01:00"
       }
     }
   ]

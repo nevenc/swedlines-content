@@ -1,7 +1,58 @@
 {
-  "generated_at": "2026-11-20T07:31:24+01:00",
+  "generated_at": "2026-11-20T07:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "96477a72fd59",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/GPG8kB/anthropics-borsnotering-nastan-alla-blev-dollarmiljonarer",
+      "guid": "https://www.svd.se/a/GPG8kB/anthropics-borsnotering-nastan-alla-blev-dollarmiljonarer?utm_medium=rss",
+      "published_at": "2026-11-20T07:40:01+01:00",
+      "fetched_at": "2026-11-20T07:45:43+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/fa2ce3bf-04d3-3205-86f4-32c2d04d5965?format=auto&s=0015efe3b648f4ccaefa511a0acbe88daabb6b8f&w=1000",
+      "sv": {
+        "title": "Nästan alla blev dollarmiljonärer"
+      },
+      "en": {
+        "title": "Almost everyone became dollar millionaires"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:45:51+01:00"
+      }
+    },
+    {
+      "id": "7e5c449146cf",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/nastan-alla-ai-jattens-anstallda-har-blivit-dollarmiljonarer",
+      "guid": "https://www.dn.se/ekonomi/nastan-alla-ai-jattens-anstallda-har-blivit-dollarmiljonarer/",
+      "published_at": "2026-11-20T07:37:35+01:00",
+      "fetched_at": "2026-11-20T07:45:42+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/fe3e0c6e-066d-497b-afdc-1d7598d267fc.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Nästan alla AI-jättens anställda har blivit dollarmiljonärer",
+        "summary": "Internt kallas de anställda på Anthropic för ”myror”. Från en dag till en annan har nästan allihop blivit dollarmiljonärer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Almost all of AI giant's employees have become dollar millionaires",
+        "summary": "Internally, the employees at Anthropic are called \"ants\". Overnight, almost all of them have become dollar millionaires."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:45:51+01:00"
+      }
+    },
     {
       "id": "663185202c6e",
       "schema_version": 1,
@@ -54,6 +105,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T07:31:23+01:00"
+      }
+    },
+    {
+      "id": "50c49b2a19dd",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/debatt/forbud-mot-vitt-snus-hotar-svenska-jobb",
+      "guid": "06bf6b46-8971-4085-9bd1-de855c587ccd",
+      "published_at": "2026-11-20T07:29:37+01:00",
+      "fetched_at": "2026-11-20T07:45:45+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/85393a4a-8c36-485d-a554-e4e707df6e7e.jpeg?width=600",
+      "sv": {
+        "title": "Förbud mot vitt snus hotar svenska jobb",
+        "summary": "Vi behöver inte vara överens om varje detalj i nikotinpolitiken. Vi har byggt upp en världsledande svensk industri. Nu måste politiken ta ansvar för att den också har en framtid, skriver fyra industrifack.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ban on white snus threatens Swedish jobs",
+        "summary": "We do not need to agree on every detail of nicotine policy. We have built up a world-leading Swedish industry. Now politics must take responsibility for it also having a future, write four industrial unions."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:45:51+01:00"
       }
     },
     {
@@ -5231,87 +5309,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T09:15:58+01:00"
-      }
-    },
-    {
-      "id": "0173c0629823",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/hog-personalomsattning-pa-bank-id-vacker-oro-befinner-sig-pa-en-forandringsresa",
-      "guid": "cabc8aeb-a4d5-4831-99f5-46ae65ad0b70",
-      "published_at": "2026-11-19T09:12:57+01:00",
-      "fetched_at": "2026-11-19T09:15:43+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/fbceeb78-37f8-48e1-8ede-31e966102972.jpeg?width=600",
-      "sv": {
-        "title": "Hög personalomsättning på Bank-id väcker oro: ”Befinner sig på en förändringsresa”",
-        "summary": "Finansiell id-teknik, bolaget bakom Bank-id, skakas av hög personalomsättning och intern oro, enligt uppgifter till Di. ”Bank-id befinner sig på en förändringsresa och vi anpassar organisationen”, uppger bolagets pressansvariga Charlotte Patakay.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "High staff turnover at Bank-id raises concern: “Is going through a period of change”",
-        "summary": "Finansiell id-teknik, the company behind Bank-id, is being shaken by high staff turnover and internal concern, according to information to Di. “Bank-id is going through a period of change and we are adapting the organisation,” says press officer Charlotte Patakay."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T09:15:58+01:00"
-      }
-    },
-    {
-      "id": "4a20ff864ef2",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/ncab-bommade-tidigare-mal-satter-nya",
-      "guid": "35ef5107-7918-4529-b071-df0412223fd1",
-      "published_at": "2026-11-19T08:49:19+01:00",
-      "fetched_at": "2026-11-19T09:01:13+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/dc9e13ba-3441-4a9b-9d08-7730475ee5d2.jpeg?width=600",
-      "sv": {
-        "title": "NCAB bommade tidigare mål – sätter nya",
-        "summary": "Mönsterkorttillverkaren NCAB lanserar nya mål inför torsdagens kapitalmarknadsdag. Detta efter att ha bommat de tidigare målen – med råge. Bolaget luddar också till sin utdelningspolicy.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "NCAB missed earlier targets – sets new ones",
-        "summary": "Circuit board manufacturer NCAB is launching new targets ahead of Thursday's capital markets day. This follows missing the previous targets – by a wide margin. The company is also fudging its dividend policy."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T09:01:18+01:00"
-      }
-    },
-    {
-      "id": "8b7cf4884001",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/grahandeln-visar-anthropic-ser-ut-att-rusa-i-borsdebuten",
-      "guid": "1a8da336-27f7-47ec-8e65-5e0fc55840fb",
-      "published_at": "2026-11-19T08:48:34+01:00",
-      "fetched_at": "2026-11-19T09:01:13+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/41a24cd7-7206-4e7c-a9c0-aed24da6e61c.jpeg?width=600",
-      "sv": {
-        "title": "Gråhandeln visar: Anthropic ser ut att rusa i börsdebuten",
-        "summary": "På torsdagen gör AI-jätten Anthropic börsdebut i New York. Om man ska tro gråhandeln kommer bolaget att få en drömstart – på flera plattformar indikeras en kursuppgång på över 20 procent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Grey market signals: Anthropic looks set for a strong stock market debut",
-        "summary": "On Thursday, AI giant Anthropic makes its stock market debut in New York. If the grey market is to be believed, the company will get a dream start – several platforms indicate a share price rise of over 20 percent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T09:01:18+01:00"
       }
     }
   ]

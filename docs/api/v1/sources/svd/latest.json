@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-20T07:31:24+01:00",
+  "generated_at": "2026-11-20T07:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "96477a72fd59",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/GPG8kB/anthropics-borsnotering-nastan-alla-blev-dollarmiljonarer",
+      "guid": "https://www.svd.se/a/GPG8kB/anthropics-borsnotering-nastan-alla-blev-dollarmiljonarer?utm_medium=rss",
+      "published_at": "2026-11-20T07:40:01+01:00",
+      "fetched_at": "2026-11-20T07:45:43+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/fa2ce3bf-04d3-3205-86f4-32c2d04d5965?format=auto&s=0015efe3b648f4ccaefa511a0acbe88daabb6b8f&w=1000",
+      "sv": {
+        "title": "Nästan alla blev dollarmiljonärer"
+      },
+      "en": {
+        "title": "Almost everyone became dollar millionaires"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:45:51+01:00"
+      }
+    },
     {
       "id": "663185202c6e",
       "schema_version": 1,
@@ -5212,29 +5236,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T10:15:53+01:00"
-      }
-    },
-    {
-      "id": "1c220b85ca0b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79994",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79994&utm_medium=rss",
-      "published_at": "2026-11-17T09:43:11+01:00",
-      "fetched_at": "2026-11-17T09:45:43+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Mordhotade Amanda Lind – åtalas"
-      },
-      "en": {
-        "title": "Murder-threatened Amanda Lind charged"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:45:48+01:00"
       }
     }
   ]

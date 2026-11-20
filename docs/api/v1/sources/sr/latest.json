@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T07:31:24+01:00",
+  "generated_at": "2026-11-20T07:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e235c92b7cd8",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346688",
+      "guid": "rss:sr.se/article/9346688",
+      "published_at": "2026-11-20T07:29:00+01:00",
+      "fetched_at": "2026-11-20T07:45:41+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Svenskägt bostadsbolag i Berlin kan bli förstatligat",
+        "summary": "I Berlin kan bostadsbolaget Heimstadens tusental bostäder tvångsövertas. Bolaget har svenska pensionsbolagen Alecta och Folksam som storägare. Den tyska regeringen vill försvåra möjligheten att tvångsöverta stora bostadsbestånd, vilket vänsterpartiet Die Linke lovat att göra i Berlin.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Swedish-owned housing company in Berlin may be nationalised",
+        "summary": "In Berlin, the housing company Heimstaden's thousands of homes could be forcibly taken over. The company has the Swedish pension companies Alecta and Folksam as major owners. The German government wants to make it harder to forcibly take over large housing stocks, which the Left Party Die Linke has promised to do in Berlin."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:45:51+01:00"
+      }
+    },
     {
       "id": "8c9d0263a448",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Five countries to speak for Europe on Ukraine",
         "summary": "EU leaders have agreed on how Europe is to be represented in negotiations on Ukraine. No single person gets the job. Five countries: Germany, France, the United Kingdom, Italy and Poland, will speak for Europe together with the EU's institutions."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "48d8323601bc",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340658",
-      "guid": "rss:sr.se/article/9340658",
-      "published_at": "2026-11-13T19:19:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "60 dagar utan ny regering – det här har hänt",
-        "summary": "I dag har det gått 60 dagar utan en ny regering. Är det svårt att hänga med i regeringsbildningen? Ekot sammanfattar vad som har hänt de här två senaste månaderna i svensk politik.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "60 days without a new government – this is what has happened",
-        "summary": "Today marks 60 days without a new government. Hard to keep up with the government formation? Ekot sums up what has happened in Swedish politics over the past two months."
       },
       "translation": {
         "status": "done",
