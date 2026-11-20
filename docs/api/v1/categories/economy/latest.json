@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-20T23:01:21+01:00",
+  "generated_at": "2026-11-20T23:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b01dd9cc488b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347574",
+      "guid": "rss:sr.se/article/9347574",
+      "published_at": "2026-11-20T23:01:00+01:00",
+      "fetched_at": "2026-11-20T23:15:45+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Knut Kainz Rognerud: AI-pianot har slutat spela",
+        "summary": "AI-bolaget Anthropics uppmärksammade börsintroduktion blev inte den vändpunkt som marknaden hade hoppats på – istället stängde börserna i USA med breda nedgångar under fredagen. Oron för att AI-bubblan ska spricka växer, vilket också påverkar svenska småsparare.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Knut Kainz Rognerud: The AI piano has stopped playing",
+        "summary": "The stock market debut of the AI company Anthropic did not become the turning point the market had hoped for – instead, US exchanges closed with broad declines on Friday. Fears that the AI bubble will burst are growing, which is also affecting Swedish small savers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T23:15:53+01:00"
+      }
+    },
+    {
+      "id": "fdd1c869f38d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/suntrade-forhandlar-om-datacenter-kan-behova-nya-pengar",
+      "guid": "f5926839-b787-4dcf-a7cd-958334e9c3fd",
+      "published_at": "2026-11-20T22:59:07+01:00",
+      "fetched_at": "2026-11-20T23:15:48+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/592ce4d9-6e08-47d2-a154-9f81ce0fd061.jpeg?width=600",
+      "sv": {
+        "title": "Suntrade förhandlar om datacenter – kan behöva nya pengar",
+        "summary": "Spotlightlistade energibolaget Suntrade för samtal med bland annat amerikanska och tyska aktörer om att etablera mindre datacenter i Sverige. Samtidigt flaggar vd Daniel Hedström för att nya pengar behövs om ett halvår om förhandlingarna går i lås.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Suntrade in talks on data centres – may need new money",
+        "summary": "The Spotlight-listed energy company Suntrade is in talks with, among others, American and German players about establishing smaller data centres in Sweden. Meanwhile, CEO Daniel Hedström flags that new money will be needed in six months if the negotiations reach a deadlock."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T23:15:53+01:00"
+      }
+    },
     {
       "id": "562bbe75bb89",
       "schema_version": 1,
@@ -5221,59 +5274,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T06:31:13+01:00"
-      }
-    },
-    {
-      "id": "a75ddba92db0",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/dygnet-runt/juliuskoncernen-skulle-saljas-utomlands-nu-talar-agarna-ut-om-konkursen",
-      "guid": "51640b1a-7de7-4a64-b8ff-b2eb7905db69",
-      "published_at": "2026-11-20T06:00:00+01:00",
-      "fetched_at": "2026-11-20T06:01:18+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6dcf11b0-e88d-4655-8a74-294546df5374.jpeg?width=600",
-      "sv": {
-        "title": "Juliuskoncernen skulle säljas utomlands – nu talar ägarna ut om konkursen",
-        "summary": "Skuldberget började växa redan förra året för nöjeskoncernen Julius. Då smiddes planer på att sälja hela imperiet till ett utländskt bolag. Nu berättar ägarna Julius Malmström och Emelie Löfmark för första gången om bakgrunden till konkursen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "The Julius group was to be sold abroad – now the owners speak out about the bankruptcy",
-        "summary": "The debt mountain began growing already last year for the entertainment group Julius. Plans were then forged to sell the entire empire to a foreign company. Now owners Julius Malmström and Emelie Löfmark tell for the first time about the background to the bankruptcy."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:01:34+01:00"
-      }
-    },
-    {
-      "id": "291e9bd1ab24",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/fed-chef-behover-hoja-rantan-mer",
-      "guid": "cf84c104-7c60-4d60-a9ec-dbdcc1693898",
-      "published_at": "2026-11-20T05:48:57+01:00",
-      "fetched_at": "2026-11-20T06:01:17+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Fed-chef: Behöver höja räntan mer",
-        "summary": "Federal Reserve kommer att behöva höja räntan igen eftersom inflationen är för hög i en för övrigt stark ekonomi. Det sade Anna Paulson, chef för Federal Reserve i Philadelphia, på torsdagen enligt Reuters.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fed chief: Need to raise interest rates further",
-        "summary": "The Federal Reserve will need to raise interest rates again because inflation is too high in an otherwise strong economy. Anna Paulson, president of the Federal Reserve Bank of Philadelphia, said on Thursday, according to Reuters."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T06:01:34+01:00"
       }
     }
   ]

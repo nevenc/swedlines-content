@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T23:01:21+01:00",
+  "generated_at": "2026-11-20T23:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e9ad79063ce9",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/langdskidor/splittringen-i-norska-damlandslaget-en-dok-upp-pa-lagret-extremt-daligt",
+      "guid": "https://www.svt.se/sport/langdskidor/splittringen-i-norska-damlandslaget-en-dok-upp-pa-lagret-extremt-daligt",
+      "published_at": "2026-11-20T23:04:48+01:00",
+      "fetched_at": "2026-11-20T23:15:44+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Splittringen i norska damlandslaget – en dök upp på lägret: ”Extremt dåligt”",
+        "summary": "Milla Grosberghaugen Andreassen, 21, är debutant i norska längdlandslaget. På ett försäsongsläger i Idre var hon den enda åkaren som dök upp. – Jag tycker det är extremt dåligt, säger hon till NRK.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Split in the Norwegian women's national team – one shows up at the camp: \"Extremely bad\"",
+        "summary": "Milla Grosberghaugen Andreassen, 21, is a debutante in the Norwegian cross-country team. At a pre-season camp in Idre, she was the only skier who showed up. \"I think it's extremely bad,\" she tells NRK."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T23:15:53+01:00"
+      }
+    },
     {
       "id": "9cd751c4eb78",
       "schema_version": 1,
@@ -5573,35 +5599,6 @@
       },
       "en": {
         "title": "Sweden take the lead straight away"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T21:40:46+01:00"
-      }
-    },
-    {
-      "id": "bcc8efb9b507",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/bx17caxrcQ3OPjQKUUk2s/just-nu-sverige-leder",
-      "guid": "bx17caxrcQ3OPjQKUUk2s",
-      "published_at": "2026-11-14T20:55:04+01:00",
-      "fetched_at": "2026-11-14T21:40:37+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Nations league"
-      ],
-      "sv": {
-        "title": "Drömstart för Sverige i Nations League",
-        "summary": "Blågult har allt i egna händer. Vid seger hemma mot Bosnien-Hercegovina blir det uppflyttning till Nations Leagues A-division, med en match kvar att spela. När lagen möttes i oktober blev det 1-1. Den matchen spelades i Zenica.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Dream start for Sweden in the Nations League",
-        "summary": "Blågult have everything in their own hands. A home win against Bosnia-Herzegovina means promotion to the Nations League A division, with one match left to play. When the teams met in October it ended 1-1. That match was played in Zenica."
       },
       "translation": {
         "status": "done",
