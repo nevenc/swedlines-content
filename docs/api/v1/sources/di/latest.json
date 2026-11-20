@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T16:20:58+01:00",
+  "generated_at": "2026-11-20T16:31:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "16d55d53d7ab",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/anthropic-faller-i-ai-frossan",
+      "guid": "49b91e8e-40a2-4c05-b5f6-b593c64d90f5",
+      "published_at": "2026-11-20T16:22:10+01:00",
+      "fetched_at": "2026-11-20T16:31:06+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0c6de097-df97-439c-9867-f6e39753955b.jpeg?width=600",
+      "sv": {
+        "title": "Anthropic faller i AI-frossan",
+        "summary": "USA-börserna var på ett fortsatt uselt humör i fredagens inledande handel. AI-jätten Anthropic fick en smakstart på karriären som noterat bolag, men på fredagen var det andra bullar och aktien rasar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic falls in AI chill",
+        "summary": "US stock exchanges were in a continued dismal mood in Friday's opening trade. AI giant Anthropic got a rocky start to its career as a listed company, but on Friday it was a different story and the share is plunging."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:31:12+01:00"
+      }
+    },
     {
       "id": "2d59e01153b1",
       "schema_version": 1,
@@ -5290,33 +5317,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T14:01:25+01:00"
-      }
-    },
-    {
-      "id": "f0c478a9315f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/walmart-hojer-prognosen-aktien-sjunker",
-      "guid": "bdcdc78b-8fb8-4ff4-a3b8-876b7c61cda3",
-      "published_at": "2026-11-19T13:36:30+01:00",
-      "fetched_at": "2026-11-19T13:45:45+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/887d8bec-d113-4229-a509-67605c417637.jpeg?width=600",
-      "sv": {
-        "title": "Walmart höjer prognosen – aktien sjunker",
-        "summary": "Den amerikanska varuhuskedjan Walmart redovisar ett justerat resultat per aktie på 0,65 dollar för det tredje kvartalet i det brutna räkenskapsåret.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Walmart raises forecast – shares fall",
-        "summary": "The American retail chain Walmart reports an adjusted earnings per share of 0.65 dollars for the third quarter of its fiscal year."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T13:45:54+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T16:20:58+01:00",
+  "generated_at": "2026-11-20T16:31:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bbbe3b374d05",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/uppgifter-v-nobbar-s-bud-om-tjansteman-pa-regeringskansliet",
+      "guid": "https://www.svt.se/nyheter/inrikes/uppgifter-v-nobbar-s-bud-om-tjansteman-pa-regeringskansliet",
+      "published_at": "2026-11-20T16:30:11+01:00",
+      "fetched_at": "2026-11-20T16:31:03+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Uppgifter: V nobbar S-bud om tjänstemän på regeringskansliet",
+        "summary": "Efter att ha förhandlat och övernattat tillsammans är läget fortsatt låst bland de rödgröna partierna. Enligt SVT:s uppgifter har V fått ett bud från S som innehåller tjänstemän på regeringskansliet. – Jag hoppas det finns en gemensam vilja att hitta lösningar, säger Mikael Damberg (S).",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: Left Party rejects Social Democrat offer on civil servants in the Government Offices",
+        "summary": "After negotiating and staying overnight together, the impasse among the red-green parties remains. According to SVT's reports, the Left Party has received an offer from the Social Democrats that includes civil servants in the Government Offices. – I hope there is a shared will to find solutions, says Mikael Damberg (S)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:31:12+01:00"
+      }
+    },
     {
       "id": "f3c474fc791a",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:30:08+01:00"
-      }
-    },
-    {
-      "id": "e2c8c1b4d860",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/malas-onskemal-efter-lagandringen-fler-nyanlanda",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/malas-onskemal-efter-lagandringen-fler-nyanlanda",
-      "published_at": "2026-11-15T05:30:07+01:00",
-      "fetched_at": "2026-11-16T09:01:22+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Malås önskemål efter lagändringen: Fler nyanlända",
-        "summary": "Vid årsskiftet får kommunerna mer att säga till om när nyanlända ska fördelas. Nu hoppas Malå kommun kunna få ta emot fler personer än vad Migrationsverket föreslagit. – Det är viktigt för hela Malås framtid. Det föds alldeles för lite barn, säger kommunalrådet Cecilia Festin Stenlund (L).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Malå's wishes after law change: More newly arrived migrants",
-        "summary": "From the turn of the year, municipalities will have more say over the distribution of newly arrived people. Now Malå municipality hopes to be able to take in more people than the Migration Agency has proposed. – It is important for Malå's entire future. Far too few children are being born, says municipal commissioner Cecilia Festin Stenlund (L)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T09:01:40+01:00"
       }
     }
   ]

@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-20T16:20:58+01:00",
+  "generated_at": "2026-11-20T16:31:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6cf398bae0fb",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/JnowV6/polisen-utreder-misstankt-dataintrang-hos-taxibolag",
+      "guid": "https://www.svd.se/a/JnowV6/polisen-utreder-misstankt-dataintrang-hos-taxibolag?utm_medium=rss",
+      "published_at": "2026-11-20T16:20:46+01:00",
+      "fetched_at": "2026-11-20T16:31:04+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisen utreder misstänkt dataintrång hos taxibolag",
+        "summary": "Polisen utreder ett misstänkt dataintrång mot taxibolag. Enligt uppgifter till TT rör intrånget…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police investigate suspected data breach at taxi company",
+        "summary": "Police are investigating a suspected data breach at a taxi company. According to information to TT, the breach concerns…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:31:12+01:00"
+      }
+    },
+    {
+      "id": "574064982db8",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/dJOQxJ/polisen-utreder-misstankt-dataintrang-hos-taxibolag",
+      "guid": "https://www.aftonbladet.se/nyheter/a/dJOQxJ/polisen-utreder-misstankt-dataintrang-hos-taxibolag?utm_medium=rss",
+      "published_at": "2026-11-20T16:20:45+01:00",
+      "fetched_at": "2026-11-20T16:31:05+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisen utreder misstänkt dataintrång hos taxibolag",
+        "summary": "Polisen utreder ett misstänkt dataintrång mot taxibolag. Enligt uppgifter till TT rör intrånget…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police investigate suspected data breach at taxi company",
+        "summary": "Police are investigating a suspected data breach at a taxi company. According to information to TT, the breach concerns…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:31:12+01:00"
+      }
+    },
     {
       "id": "e21a1ce33443",
       "schema_version": 1,
@@ -5330,65 +5382,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T06:15:50+01:00"
-      }
-    },
-    {
-      "id": "94b88cb6b369",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/krim/william-skulle-pa-dejt-blev-ranad-av-sex-killar.99dc795e-4a44-53b6-a313-8eb1a073cdf7",
-      "guid": "99dc795e-4a44-53b6-a313-8eb1a073cdf7",
-      "published_at": "2026-11-17T05:51:19+01:00",
-      "fetched_at": "2026-11-17T06:15:44+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Krim",
-        "Tagg: Brott och straff",
-        "Tagg: Rån",
-        "Tagg: Polisen"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/b659a47e-d2f8-3cdc-8392-0dfcb495a6e3",
-      "sv": {
-        "title": "William skulle på dejt – blev rånad av sex killar",
-        "summary": "Personer med intellektuell funktionsnedsättning mer utsatta för brott.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "William was going on a date – was robbed by six guys",
-        "summary": "People with intellectual disabilities more exposed to crime."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:15:50+01:00"
-      }
-    },
-    {
-      "id": "d3b83a06f217",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasmalet-i-hovratten-den-atalade-inte-med-vid-synen-pa-platsen",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/brattasmalet-i-hovratten-den-atalade-inte-med-vid-synen-pa-platsen",
-      "published_at": "2026-11-17T05:30:02+01:00",
-      "fetched_at": "2026-11-17T05:30:57+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Brattåsmålet i hovrätten: Den åtalade inte med vid synen på platsen",
-        "summary": "När tingsrätten gjorde syn på platsen för dubbelmordet i Brattås var den åtalade närvarande i mindre än en minut. Vid synen under hovrättsförhandlingarna kommer han inte att vara med alls. – Det är ett önskemål från min klient, säger advokat Jonas Vedin till SVT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Brattås case in the court of appeal: The accused not present at site inspection",
-        "summary": "When the district court conducted a site inspection at the location of the double murder in Brattås, the accused was present for less than one minute. At the site inspection during the court of appeal hearings, he will not be present at all. \"It is a request from my client,\" says lawyer Jonas Vedin to SVT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T05:31:08+01:00"
       }
     }
   ]

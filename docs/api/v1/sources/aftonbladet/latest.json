@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T16:20:58+01:00",
+  "generated_at": "2026-11-20T16:31:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "574064982db8",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/dJOQxJ/polisen-utreder-misstankt-dataintrang-hos-taxibolag",
+      "guid": "https://www.aftonbladet.se/nyheter/a/dJOQxJ/polisen-utreder-misstankt-dataintrang-hos-taxibolag?utm_medium=rss",
+      "published_at": "2026-11-20T16:20:45+01:00",
+      "fetched_at": "2026-11-20T16:31:05+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisen utreder misstänkt dataintrång hos taxibolag",
+        "summary": "Polisen utreder ett misstänkt dataintrång mot taxibolag. Enligt uppgifter till TT rör intrånget…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police investigate suspected data breach at taxi company",
+        "summary": "Police are investigating a suspected data breach at a taxi company. According to information to TT, the breach concerns…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:31:12+01:00"
+      }
+    },
     {
       "id": "587548ba7c54",
       "schema_version": 1,
@@ -5347,33 +5373,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T20:31:09+01:00"
-      }
-    },
-    {
-      "id": "282b71a3f9d1",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/JnoBoX/nakenutstallning-i-burlov-vacker-kanslor-pappan-olampligt",
-      "guid": "https://www.aftonbladet.se/nyheter/a/JnoBoX/nakenutstallning-i-burlov-vacker-kanslor-pappan-olampligt?utm_medium=rss",
-      "published_at": "2026-11-17T20:15:16+01:00",
-      "fetched_at": "2026-11-17T20:15:54+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/6b40e65f-11ad-3b97-ba99-2417cb45c73c?format=auto&s=95665e42e8f4848bab61637ac5d59fcd94cf6f15&w=1000",
-      "sv": {
-        "title": "Nakenutställning på badhus upprör: ”Olämpligt”",
-        "summary": "Upprörd pappa: ”Olämpligt”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nude exhibition at swimming baths causes outrage: \"Unsuitable\"",
-        "summary": "Upset father: \"Unsuitable\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T20:16:02+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T16:20:58+01:00",
+  "generated_at": "2026-11-20T16:31:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e6788c6b68fd",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347422",
+      "guid": "rss:sr.se/article/9347422",
+      "published_at": "2026-11-20T16:25:00+01:00",
+      "fetched_at": "2026-11-20T16:31:03+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Storbritannien närmar sig EU – öppning för unga",
+        "summary": "Storbritannien och EU har enats om utökat samarbete kring handel, säkerhet och utbyten för unga vid ett toppmöte i Bryssel. Det var parternas första toppmöte sedan Brexit.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Britain moves closer to the EU – opening for young people",
+        "summary": "Britain and the EU have agreed on expanded cooperation on trade, security and exchanges for young people at a summit in Brussels. It was the parties' first summit since Brexit."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:31:12+01:00"
+      }
+    },
     {
       "id": "50450e99551b",
       "schema_version": 1,
@@ -5354,32 +5380,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T12:01:23+01:00"
-      }
-    },
-    {
-      "id": "4513b7053516",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/xJP7aB/ryssland-krimbron-attackerad-igen",
-      "guid": "https://www.aftonbladet.se/nyheter/a/xJP7aB/ryssland-krimbron-attackerad-igen?utm_medium=rss",
-      "published_at": "2026-11-18T23:59:49+01:00",
-      "fetched_at": "2026-11-19T00:01:13+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ryssland: Krimbron attackerad igen",
-        "summary": "Den viktiga bron till Krimhalvön har återigen attackerats, hävdar Moskvas Krimguvernör Sergej…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russia: Crimea bridge attacked again",
-        "summary": "The important bridge to the Crimean peninsula has again been attacked, claims Moscow's Crimea governor Sergei…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T00:01:18+01:00"
       }
     }
   ]

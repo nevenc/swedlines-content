@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T16:20:58+01:00",
+  "generated_at": "2026-11-20T16:31:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8f4373232766",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/protester-nar-hyllat-stod-for-fodande-kvinnor-skrotas-oacceptabelt-och-ovardigt",
+      "guid": "https://www.dn.se/sverige/protester-nar-hyllat-stod-for-fodande-kvinnor-skrotas-oacceptabelt-och-ovardigt/",
+      "published_at": "2026-11-20T16:26:23+01:00",
+      "fetched_at": "2026-11-20T16:31:04+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/2bd146c1-ad97-4a93-86b3-a883ab677bbf.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Protester när hyllat stöd för födande kvinnor skrotas: ”Oacceptabelt och ovärdigt”",
+        "summary": "Trots goda resultat vill Region Skåne lägga ner det hyllade förlossningsprojektet ”Min barnmorska” i Malmö. På lördag demonstrerar tidigare patienter, barnmorskor och oppositionspolitiker mot beslutet – bland dem Tove Jansson, som beskriver stödet hon fick som ovärderligt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Protests as acclaimed support for birthing women is scrapped: \"Unacceptable and unworthy\"",
+        "summary": "Despite good results, Region Skåne wants to shut down the acclaimed childbirth project \"Min barnmorska\" in Malmö. On Saturday, former patients, midwives and opposition politicians will demonstrate against the decision – among them Tove Jansson, who describes the support she received as invaluable."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:31:12+01:00"
+      }
+    },
     {
       "id": "26bbc0f93786",
       "schema_version": 1,
@@ -5368,32 +5395,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T21:31:08+01:00"
-      }
-    },
-    {
-      "id": "be8a0f9974f1",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/17-november-missa-inte-dagens-nyheter",
-      "guid": "https://www.dn.se/varlden/17-november-missa-inte-dagens-nyheter/",
-      "published_at": "2026-11-17T21:00:51+01:00",
-      "fetched_at": "2026-11-17T21:01:14+01:00",
-      "category": "other",
-      "sv": {
-        "title": "17 november: Missa inte dagens nyheter",
-        "summary": "Talmannens slutgiltiga tidsfrist, SD visste inget om Giertz svängning och rekorddyr el kan vänta – här är nyheterna du inte får missa från dagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "17 November: Don't miss today's news",
-        "summary": "The Speaker's final deadline, SD had no knowledge of Giertz's U-turn and record-expensive electricity may wait – here are the news items you must not miss today."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T21:01:25+01:00"
       }
     }
   ]

@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-11-20T16:20:58+01:00",
+  "generated_at": "2026-11-20T16:31:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c9ec2ebecd3c",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/livsstil/livsstilskronika/krisen-hos-lyxmarkena-sankta-priser-och-dupes.57d69822-fc95-59b3-bc09-70d94a8fe6ff",
+      "guid": "57d69822-fc95-59b3-bc09-70d94a8fe6ff",
+      "published_at": "2026-11-20T16:06:44+01:00",
+      "fetched_at": "2026-11-20T16:31:06+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Livsstilskrönika",
+        "Tagg: Gucci",
+        "Tagg: Prada",
+        "Tagg: Louis Vuitton",
+        "Tagg: Konsument",
+        "Tagg: Underhåll mig - BEHOV"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/39bd376f-6d6a-33b1-ab33-7354a152f002",
+      "sv": {
+        "title": "Emily Dahl: Gucci, Prada och Louis Vuittons i kris",
+        "summary": "Sänkta priser och ”dupes” bakom lyxbransch i fritt fall",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Emily Dahl: Gucci, Prada and Louis Vuitton in crisis",
+        "summary": "Lower prices and \"dupes\" send the luxury industry into free fall"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:31:12+01:00"
+      }
+    },
     {
       "id": "ab28e5c3a5db",
       "schema_version": 1,
@@ -5611,33 +5646,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T14:31:07+01:00"
-      }
-    },
-    {
-      "id": "b05c38db0f5b",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Jnopj8/aftonbladets-lisa-rostlund-prisas-far-arets-visselpipa",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Jnopj8/aftonbladets-lisa-rostlund-prisas-far-arets-visselpipa?utm_medium=rss",
-      "published_at": "2026-11-18T14:04:06+01:00",
-      "fetched_at": "2026-11-18T14:15:46+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/56876269-f7a4-39a7-bb35-7f2ede6445ba?format=auto&s=403d2d9e9a7ce51258d1356bd1dd65d64208f7b2&w=1000",
-      "sv": {
-        "title": "Lisa Röstlund prisad igen – får Årets visselpipa",
-        "summary": "Aftonbladets reporter: ”En stor ära”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lisa Röstlund honoured again – wins Årets visselpipa",
-        "summary": "Aftonbladet reporter: \"A great honour\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T14:15:54+01:00"
       }
     }
   ]

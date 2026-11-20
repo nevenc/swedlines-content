@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T16:20:58+01:00",
+  "generated_at": "2026-11-20T16:31:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8f4373232766",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/protester-nar-hyllat-stod-for-fodande-kvinnor-skrotas-oacceptabelt-och-ovardigt",
+      "guid": "https://www.dn.se/sverige/protester-nar-hyllat-stod-for-fodande-kvinnor-skrotas-oacceptabelt-och-ovardigt/",
+      "published_at": "2026-11-20T16:26:23+01:00",
+      "fetched_at": "2026-11-20T16:31:04+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/2bd146c1-ad97-4a93-86b3-a883ab677bbf.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Protester när hyllat stöd för födande kvinnor skrotas: ”Oacceptabelt och ovärdigt”",
+        "summary": "Trots goda resultat vill Region Skåne lägga ner det hyllade förlossningsprojektet ”Min barnmorska” i Malmö. På lördag demonstrerar tidigare patienter, barnmorskor och oppositionspolitiker mot beslutet – bland dem Tove Jansson, som beskriver stödet hon fick som ovärderligt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Protests as acclaimed support for birthing women is scrapped: \"Unacceptable and unworthy\"",
+        "summary": "Despite good results, Region Skåne wants to shut down the acclaimed childbirth project \"Min barnmorska\" in Malmö. On Saturday, former patients, midwives and opposition politicians will demonstrate against the decision – among them Tove Jansson, who describes the support she received as invaluable."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:31:12+01:00"
+      }
+    },
     {
       "id": "f3c474fc791a",
       "schema_version": 1,
@@ -5380,32 +5407,6 @@
       "fetched_at": "2026-11-17T15:45:51+01:00",
       "category": "sweden",
       "image_url": "https://static.bonniernews.se/ba/fd154e8a-7305-4ca7-b5a6-2d3c622ff6a8.jpg?width=600",
-      "sv": {
-        "title": "Jordbruksverket varnar för fågelinfluensa",
-        "summary": "Flera konstaterade fall av fågelinfluensa bland vilda fåglar har fått Jordbruksverket att införa högriskområden i stora delar av södra Sverige för att skydda tama fåglar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Board of Agriculture warns of bird flu",
-        "summary": "Several confirmed cases of bird flu among wild birds have led the Board of Agriculture to introduce high-risk areas across large parts of southern Sweden to protect domestic birds."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T15:45:57+01:00"
-      }
-    },
-    {
-      "id": "19b569d0edca",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/jordbruksverket-varnar-for-fagelinfluensa",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/jordbruksverket-varnar-for-fagelinfluensa",
-      "published_at": "2026-11-17T15:33:09+01:00",
-      "fetched_at": "2026-11-17T15:45:46+01:00",
-      "category": "sweden",
       "sv": {
         "title": "Jordbruksverket varnar för fågelinfluensa",
         "summary": "Flera konstaterade fall av fågelinfluensa bland vilda fåglar har fått Jordbruksverket att införa högriskområden i stora delar av södra Sverige för att skydda tama fåglar.",
