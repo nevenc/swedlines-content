@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-20T12:01:25+01:00",
+  "generated_at": "2026-11-20T12:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "403e67329631",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80116",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80116&utm_medium=rss",
+      "published_at": "2026-11-20T12:07:07+01:00",
+      "fetched_at": "2026-11-20T12:15:43+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "SMHI förlänger gul snövarning – omfattar Stockholm"
+      },
+      "en": {
+        "title": "SMHI extends yellow snow warning – covers Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:15:53+01:00"
+      }
+    },
     {
       "id": "d117944cd7d5",
       "schema_version": 1,
@@ -5217,29 +5240,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T15:15:54+01:00"
-      }
-    },
-    {
-      "id": "571b337f048d",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80002",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80002&utm_medium=rss",
-      "published_at": "2026-11-17T14:40:35+01:00",
-      "fetched_at": "2026-11-17T14:45:41+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Förseningar på Gröna linjen i Stockholm"
-      },
-      "en": {
-        "title": "Delays on the Gröna linjen in Stockholm"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T14:45:49+01:00"
       }
     }
   ]

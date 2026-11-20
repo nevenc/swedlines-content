@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T12:01:25+01:00",
+  "generated_at": "2026-11-20T12:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "be5e4c821624",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347052",
+      "guid": "rss:sr.se/article/9347052",
+      "published_at": "2026-11-20T12:11:00+01:00",
+      "fetched_at": "2026-11-20T12:15:42+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "Gul snövarning utökas för Stockholm och Uppland",
+        "summary": "SMHI förlänger sin gula varning för snöfall i östra Svealand – till måndag förmiddag. Varningen gäller från ikväll – och det väntas till imorgon kväll uppemot 15 centimeter snö – störst mängd i Uppland. Enligt SMHI kommer snöfallet fortsätta på söndag och måndag.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Yellow snow warning expanded to Stockholm and Uppland",
+        "summary": "SMHI extends its yellow warning for snowfall in eastern Svealand – until Monday morning. The warning applies from this evening, and up to 15 centimetres of snow is expected by tomorrow evening, the largest amount in Uppland. According to SMHI, the snowfall will continue on Sunday and Monday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:15:53+01:00"
+      }
+    },
     {
       "id": "741a87194a0f",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Over 400,000 sick from Indonesian fire smoke: \"Hard to breathe\"",
         "summary": "Smoke from the fires in Indonesia has led to at least 400,000 respiratory infections, according to the health ministry. An estimate from the Helsinki-based Centre for Research on Energy and Clean Air says the smoke may have caused about 3,500 deaths in Indonesia in September alone…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:01:02+01:00"
-      }
-    },
-    {
-      "id": "7921d23e6363",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340890",
-      "guid": "rss:sr.se/article/9340890",
-      "published_at": "2026-11-14T03:24:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trump, Putin och Xi möts i nästa vecka",
-        "summary": "Ledarna för USA, Kina och Ryssland kommer mötas för samtal i samband med Apec-mötet i Kina nästa vecka. Trump, Xi och Putin väntas bland annat diskutera kärnvapen och Irankriget, säger amerikanska tjänstemän till nyhetsbyrån AFP. Men kriget i Ukraina finns inte på agendan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump, Putin and Xi to meet next week",
-        "summary": "The leaders of the US, China and Russia will meet for talks in connection with the Apec meeting in China next week. Trump, Xi and Putin are expected to discuss nuclear weapons and the Iran war, among other things, American officials tell the news agency AFP. But the war in Ukraine is not on the agenda."
       },
       "translation": {
         "status": "done",

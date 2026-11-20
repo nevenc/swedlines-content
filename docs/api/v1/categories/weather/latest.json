@@ -1,7 +1,108 @@
 {
-  "generated_at": "2026-11-20T12:01:25+01:00",
-  "count": 43,
+  "generated_at": "2026-11-20T12:15:53+01:00",
+  "count": 47,
   "items": [
+    {
+      "id": "ffa0673bfa08",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/j3dnzL/smhi-forlanger-gul-snovarning",
+      "guid": "https://www.aftonbladet.se/nyheter/a/j3dnzL/smhi-forlanger-gul-snovarning?utm_medium=rss",
+      "published_at": "2026-11-20T12:11:29+01:00",
+      "fetched_at": "2026-11-20T12:15:45+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "SMHI förlänger gul snövarning",
+        "summary": "SMHI förlänger den gula varningen för snöfall i östra Svealand.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI extends yellow snow warning",
+        "summary": "SMHI extends the yellow warning for snowfall in eastern Svealand."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:15:53+01:00"
+      }
+    },
+    {
+      "id": "be5e4c821624",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347052",
+      "guid": "rss:sr.se/article/9347052",
+      "published_at": "2026-11-20T12:11:00+01:00",
+      "fetched_at": "2026-11-20T12:15:42+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "Gul snövarning utökas för Stockholm och Uppland",
+        "summary": "SMHI förlänger sin gula varning för snöfall i östra Svealand – till måndag förmiddag. Varningen gäller från ikväll – och det väntas till imorgon kväll uppemot 15 centimeter snö – störst mängd i Uppland. Enligt SMHI kommer snöfallet fortsätta på söndag och måndag.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Yellow snow warning expanded to Stockholm and Uppland",
+        "summary": "SMHI extends its yellow warning for snowfall in eastern Svealand – until Monday morning. The warning applies from this evening, and up to 15 centimetres of snow is expected by tomorrow evening, the largest amount in Uppland. According to SMHI, the snowfall will continue on Sunday and Monday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:15:53+01:00"
+      }
+    },
+    {
+      "id": "403e67329631",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80116",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80116&utm_medium=rss",
+      "published_at": "2026-11-20T12:07:07+01:00",
+      "fetched_at": "2026-11-20T12:15:43+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "SMHI förlänger gul snövarning – omfattar Stockholm"
+      },
+      "en": {
+        "title": "SMHI extends yellow snow warning – covers Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:15:53+01:00"
+      }
+    },
+    {
+      "id": "5d23dae44043",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=3d6a0e27-7a2e-4a80-ab7f-10222af2e351",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3d6a0e27-7a2e-4a80-ab7f-10222af2e351",
+      "published_at": "2026-11-20T12:05:06+01:00",
+      "fetched_at": "2026-11-20T12:15:45+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "SMHI utökar snövarning",
+        "summary": "5-15 centimeter väntas",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI expands snow warning",
+        "summary": "5-15 centimetres expected"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:15:53+01:00"
+      }
+    },
     {
       "id": "c5d91bc34d98",
       "schema_version": 1,
