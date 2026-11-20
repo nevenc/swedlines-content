@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T13:31:20+01:00",
+  "generated_at": "2026-11-20T13:45:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "71389f037462",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/birgitta-rubin-rafflande-kamp-om-raritet-av-hilma-af-klint",
+      "guid": "https://www.dn.se/kultur/birgitta-rubin-rafflande-kamp-om-raritet-av-hilma-af-klint/",
+      "published_at": "2026-11-20T13:40:41+01:00",
+      "fetched_at": "2026-11-20T13:45:42+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/63e12f5c-a384-42af-ab57-4d1906b9e58f.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Birgitta Rubin: Rafflande kamp om raritet av Hilma af Klint",
+        "summary": "Ett abstrakt verk av Hilma af Klint såldes på torsdagskvällen för 128,9 miljoner kronor, Sveriges genom tiderna dyraste konstverk. Birgitta Rubin bevittnade den historiska och sällsynt spännande dragkampen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Birgitta Rubin: Thrilling battle over a rarity by Hilma af Klint",
+        "summary": "An abstract work by Hilma af Klint sold on Thursday evening for SEK 128.9 million, Sweden's most expensive artwork ever. Birgitta Rubin witnessed the historic and rarely thrilling tug-of-war."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:45:48+01:00"
+      }
+    },
     {
       "id": "84cb60c0f77c",
       "schema_version": 1,
@@ -5360,33 +5387,6 @@
       "en": {
         "title": "Vesna Prekopic: Teachers are threatened and spat on – a cultural change is needed",
         "summary": "Violence against teachers continues to rise. The school is now a workplace where employees must expect violence, says Vesna Prekopic, who calls for changed attitudes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T18:45:46+01:00"
-      }
-    },
-    {
-      "id": "4182f89a8c90",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/johan-nilsson-sa-paverkas-du-av-att-usa-inte-ar-fritt-fran-massling",
-      "guid": "https://www.dn.se/sverige/johan-nilsson-sa-paverkas-du-av-att-usa-inte-ar-fritt-fran-massling/",
-      "published_at": "2026-11-17T18:31:43+01:00",
-      "fetched_at": "2026-11-17T18:45:40+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/da30d3e6-9fd2-4e27-b626-8238040361b2.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Johan Nilsson: Så påverkas du av att USA inte är fritt från mässling",
-        "summary": "Världshälsoorganisationen WHO:s amerikanska gren har nu formellt beslutat att USA inte längre är fritt från mässling. DN:s vetenskapsreporter svarar på frågor vad det innebär och vad du som svensk bör tänka på. Framför allt om du är född på 1970-talet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Johan Nilsson: This is how you are affected by the USA no longer being free of measles",
-        "summary": "The American branch of the World Health Organization, WHO, has now formally decided that the USA is no longer free of measles. DN's science reporter answers questions about what it means and what you as a Swede should consider. Especially if you were born in the 1970s."
       },
       "translation": {
         "status": "done",

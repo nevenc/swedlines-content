@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T13:31:20+01:00",
+  "generated_at": "2026-11-20T13:45:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "32a5bcb7da1b",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/analytiker-gta-succen-kan-pressa-svenska-spelaktierna",
+      "guid": "e2c272d2-2ed8-4118-8706-321928e2a46d",
+      "published_at": "2026-11-20T13:33:02+01:00",
+      "fetched_at": "2026-11-20T13:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/1c9d25df-63b4-4010-adb7-afa4c4c8d665.jpeg?width=600",
+      "sv": {
+        "title": "Analytiker: GTA-succén kan pressa svenska spelaktierna",
+        "summary": "Den nya storspelet GTA 6 har fått en succéstart. Det bör vara positivt för sektorn – men på kort sikt riskerar det att pressa spelutvecklarna på Stockholmsbörsen, skriver Handelsbanken.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Analyst: GTA hit could put pressure on Swedish gaming stocks",
+        "summary": "The new blockbuster GTA 6 has got off to a hit start. It should be positive for the sector – but in the short term it risks pressuring game developers on the Stockholm Stock Exchange, writes Handelsbanken."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:45:48+01:00"
+      }
+    },
     {
       "id": "06bf66a1a915",
       "schema_version": 1,
@@ -5291,33 +5318,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T10:45:49+01:00"
-      }
-    },
-    {
-      "id": "a6e58d61e26d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/ford-startar-batteriproduktion-i-usa-med-kina-teknik",
-      "guid": "e67cc0f2-016c-45bb-9f6f-edb48b8bcfb2",
-      "published_at": "2026-11-19T10:22:05+01:00",
-      "fetched_at": "2026-11-19T10:31:05+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/132cb0c5-8583-49e6-8418-834f4a975bea.jpeg?width=600",
-      "sv": {
-        "title": "Ford startar batteriproduktion i USA med Kina-teknik",
-        "summary": "Amerikanska fordonsjätten Ford har inlett produktion av battericeller vid sin fabrik i Marshall, Michigan, efter en investering på 3 miljarder dollar. Batterierna ska användas i den kommande eldrivna pickupen Fathom, uppger bolaget i ett pressmeddelande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ford starts battery production in USA with Chinese technology",
-        "summary": "American automaker Ford has begun production of battery cells at its factory in Marshall, Michigan, after an investment of USD 3 billion. The batteries will be used in the upcoming electric Fathom pickup, the company says in a press release."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T10:31:11+01:00"
       }
     }
   ]

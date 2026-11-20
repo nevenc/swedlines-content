@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-20T13:31:20+01:00",
+  "generated_at": "2026-11-20T13:45:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3c91c35d1b50",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=34604d57-b22d-475a-b2dd-1e4d354d75b2",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=34604d57-b22d-475a-b2dd-1e4d354d75b2",
+      "published_at": "2026-11-20T13:34:52+01:00",
+      "fetched_at": "2026-11-20T13:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Svenska Jas i insats",
+        "summary": "Polens luftrum kränktes",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish Gripen jets on mission",
+        "summary": "Polish airspace was violated"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:45:48+01:00"
+      }
+    },
+    {
+      "id": "89aa5c7ec142",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/klimat/a/4EqQBq/urvattnat-utkast-pa-cop-igen-i-dag-ska-nya-dokumentet-vara-klart",
+      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/4EqQBq/urvattnat-utkast-pa-cop-igen-i-dag-ska-nya-dokumentet-vara-klart?utm_medium=rss",
+      "published_at": "2026-11-20T13:30:31+01:00",
+      "fetched_at": "2026-11-20T13:45:43+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/d5727241-abf9-3b82-a6ef-b3ea851d3a18?format=auto&s=a222a349ad1aefa55979ca846c4a41346461ae22&w=1000",
+      "sv": {
+        "title": "Urvattnat utkast på COP igen – i dag ska nya dokumentet vara klart",
+        "summary": "COP31 ”Tävling mellan hycklare”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Watered-down draft at COP again – new document due to be finished today",
+        "summary": "COP31 \"Competition between hypocrites\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:45:48+01:00"
+      }
+    },
     {
       "id": "84cb60c0f77c",
       "schema_version": 1,
@@ -5327,73 +5380,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T19:15:55+01:00"
-      }
-    },
-    {
-      "id": "6352b887ea67",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/varlden/det-ar-sma-stater-som-betalar-priset-om-stormakterna-far-bestamma.5463c188-6323-5756-b85c-dccd6c8929c5",
-      "guid": "5463c188-6323-5756-b85c-dccd6c8929c5",
-      "published_at": "2026-11-18T18:53:44+01:00",
-      "fetched_at": "2026-11-18T19:15:48+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Världen",
-        "Tagg: Shenzhen",
-        "Tagg: Vladimir Putin",
-        "Tagg: Europa",
-        "Tagg: Donald Trump",
-        "Tagg: Volodymyr Zelenskyj",
-        "Tagg: Xi Jinping",
-        "Tagg: Ryssland",
-        "Tagg: USA",
-        "Tagg: Kina",
-        "Tagg: Ge mig perspektiv - BEHOV"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/567aace7-a599-3885-ada4-b3b731f10ed6",
-      "sv": {
-        "title": "Analys: Därför ska du oroa dig för stormaktsmötet",
-        "summary": "Donald Trump möter Rysslands Vladimir Putin och Kinas Xi Jinping ska ha ett historiskt trepartssamtal. Det finns goda skäl att oroa sig för vad de kommer att diskutera, skriver GP:s Andreas Granath.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Analysis: Why you should be worried about the superpower summit",
-        "summary": "Donald Trump meets Russia's Vladimir Putin, and China's Xi Jinping is reportedly to hold a historic three-way conversation. There are good reasons to be concerned about what they will discuss, writes GP's Andreas Granath."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:15:55+01:00"
-      }
-    },
-    {
-      "id": "8d9f52396423",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/hegseth-i-venezuela-traffar-presidenten",
-      "guid": "ed84428b-8c71-4e1d-9b57-c8859f1e353f",
-      "published_at": "2026-11-18T18:24:09+01:00",
-      "fetched_at": "2026-11-18T18:31:04+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/1207bb44-d64b-4ea5-9d21-3dec3044ad0d.jpg?width=600",
-      "sv": {
-        "title": "Hegseth i Venezuela – träffar presidenten",
-        "summary": "USA:s krigsminister Pete Hegseth är på besök i Venezuela. Besöket understryker Vita husets strävan att öka sitt inflytande i landet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hegseth in Venezuela – meets the president",
-        "summary": "US Secretary of War Pete Hegseth is visiting Venezuela. The visit underscores the White House's efforts to increase its influence in the country."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T18:31:10+01:00"
       }
     }
   ]

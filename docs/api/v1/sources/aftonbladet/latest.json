@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T13:31:20+01:00",
+  "generated_at": "2026-11-20T13:45:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "89aa5c7ec142",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/klimat/a/4EqQBq/urvattnat-utkast-pa-cop-igen-i-dag-ska-nya-dokumentet-vara-klart",
+      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/4EqQBq/urvattnat-utkast-pa-cop-igen-i-dag-ska-nya-dokumentet-vara-klart?utm_medium=rss",
+      "published_at": "2026-11-20T13:30:31+01:00",
+      "fetched_at": "2026-11-20T13:45:43+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/d5727241-abf9-3b82-a6ef-b3ea851d3a18?format=auto&s=a222a349ad1aefa55979ca846c4a41346461ae22&w=1000",
+      "sv": {
+        "title": "Urvattnat utkast på COP igen – i dag ska nya dokumentet vara klart",
+        "summary": "COP31 ”Tävling mellan hycklare”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Watered-down draft at COP again – new document due to be finished today",
+        "summary": "COP31 \"Competition between hypocrites\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:45:48+01:00"
+      }
+    },
     {
       "id": "7510ed4aa0be",
       "schema_version": 1,
@@ -5344,33 +5371,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T21:01:25+01:00"
-      }
-    },
-    {
-      "id": "62abf686f2b7",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/WmboWa/da-slutar-danmark-producera-olja-och-gas",
-      "guid": "https://www.aftonbladet.se/nyheter/a/WmboWa/da-slutar-danmark-producera-olja-och-gas?utm_medium=rss",
-      "published_at": "2026-11-17T16:41:53+01:00",
-      "fetched_at": "2026-11-17T16:45:46+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/7ec3f0e8-44f3-33dd-8981-1a52154cff14?format=auto&s=22e993d368ace67233ccaf66c6cdf19ce4dc62aa&w=1000",
-      "sv": {
-        "title": "Då slutar Danmark producera olja och gas",
-        "summary": "Danmark ska ha minskat utsläppen med 85 procent år 2035, enligt en plan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Then Denmark stops producing oil and gas",
-        "summary": "Denmark is to have cut emissions by 85 percent by 2035, according to a plan."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:45:54+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T13:31:20+01:00",
+  "generated_at": "2026-11-20T13:45:48+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3c91c35d1b50",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=34604d57-b22d-475a-b2dd-1e4d354d75b2",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=34604d57-b22d-475a-b2dd-1e4d354d75b2",
+      "published_at": "2026-11-20T13:34:52+01:00",
+      "fetched_at": "2026-11-20T13:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Svenska Jas i insats",
+        "summary": "Polens luftrum kränktes",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish Gripen jets on mission",
+        "summary": "Polish airspace was violated"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:45:48+01:00"
+      }
+    },
     {
       "id": "348d4b0bb991",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T09:31:07+01:00"
-      }
-    },
-    {
-      "id": "db47fd0d0a98",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/bert-sundstrom-slutar-pa-svt",
-      "guid": "https://www.expressen.se/nyheter/sverige/bert-sundstrom-slutar-pa-svt/",
-      "published_at": "2026-11-17T08:51:44+01:00",
-      "fetched_at": "2026-11-17T09:01:14+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Bert Sundström slutar på SVT",
-        "summary": "Tidigare Rysslandskorrespondenten Bert Sundström, 67, slutar på SVT efter 36 år. Det skriver SVT Nyheter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bert Sundström leaves SVT",
-        "summary": "Former Russia correspondent Bert Sundström, 67, is leaving SVT after 36 years. SVT Nyheter reports this."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:01:23+01:00"
       }
     }
   ]
