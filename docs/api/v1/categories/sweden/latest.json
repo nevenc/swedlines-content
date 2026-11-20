@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T06:31:14+01:00",
+  "generated_at": "2026-11-20T06:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e359b3eb8b9e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f9e6de80-6410-41dd-8205-740918f3b445",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f9e6de80-6410-41dd-8205-740918f3b445",
+      "published_at": "2026-11-20T06:28:34+01:00",
+      "fetched_at": "2026-11-20T06:45:44+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Strul för pendeltågen",
+        "summary": "Inställda avgångar i Stockholm",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trouble for the commuter trains",
+        "summary": "Cancelled departures in Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:45:50+01:00"
+      }
+    },
     {
       "id": "aca94610bb2a",
       "schema_version": 1,
@@ -5368,33 +5394,6 @@
       "en": {
         "title": "99-year-old Iris started strength training: \"Have never exercised\"",
         "summary": "In summer 2026, Iris Malmros Svensson set foot in a gym for the first time. After a drop in blood pressure she fell so badly that she needed surgery. In connection with this she was advised to train with a personal trainer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:01:23+01:00"
-      }
-    },
-    {
-      "id": "fd36bd70a9eb",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/qOLv8w/nytt-varningslarm-i-mobilen-testas-i-hela-landet",
-      "guid": "https://www.aftonbladet.se/nyheter/a/qOLv8w/nytt-varningslarm-i-mobilen-testas-i-hela-landet?utm_medium=rss",
-      "published_at": "2026-11-17T08:50:46+01:00",
-      "fetched_at": "2026-11-17T09:01:14+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/6765bf00-7a22-3d5a-83cf-5e4f5ae99dfc?format=auto&s=0c45f2879376ce69bd5ea252f78ca09ae3988834&w=1000",
-      "sv": {
-        "title": "Nytt varningslarm i mobilen testas i hela landet",
-        "summary": "I vinter ska det nya varningslarmet SE-Alert testas i mobiltelefoner i hela landet, rapporterar P4…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New emergency alert on mobile phones to be tested nationwide",
-        "summary": "This winter the new SE-Alert warning system will be tested on mobile phones across the country, reports P4…"
       },
       "translation": {
         "status": "done",

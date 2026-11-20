@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T06:31:14+01:00",
+  "generated_at": "2026-11-20T06:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6fec2b874f46",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ledare/max-hjelm-ni-borde-tacka-oss-som-alskar-lussekorven",
+      "guid": "https://www.dn.se/ledare/max-hjelm-ni-borde-tacka-oss-som-alskar-lussekorven/",
+      "published_at": "2026-11-20T06:41:35+01:00",
+      "fetched_at": "2026-11-20T06:45:42+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/06bce211-20e1-4173-bbaa-9ed1a8f4033b.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Max Hjelm: Ni borde tacka oss som älskar lussekorven",
+        "summary": "Skända lussebullen! Vägra vanlig semla! Svik de traditionella bakverken! Var otraditionell!",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Max Hjelm: You should thank us who love the lussekorv",
+        "summary": "Desecrate the Lucia bun! Refuse the traditional semla! Betray the traditional pastries! Be untraditional!"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:45:50+01:00"
+      }
+    },
     {
       "id": "b2b41da0ae78",
       "schema_version": 1,
@@ -5566,33 +5593,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T20:31:09+01:00"
-      }
-    },
-    {
-      "id": "282b71a3f9d1",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/JnoBoX/nakenutstallning-i-burlov-vacker-kanslor-pappan-olampligt",
-      "guid": "https://www.aftonbladet.se/nyheter/a/JnoBoX/nakenutstallning-i-burlov-vacker-kanslor-pappan-olampligt?utm_medium=rss",
-      "published_at": "2026-11-17T20:15:16+01:00",
-      "fetched_at": "2026-11-17T20:15:54+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/6b40e65f-11ad-3b97-ba99-2417cb45c73c?format=auto&s=95665e42e8f4848bab61637ac5d59fcd94cf6f15&w=1000",
-      "sv": {
-        "title": "Nakenutställning på badhus upprör: ”Olämpligt”",
-        "summary": "Upprörd pappa: ”Olämpligt”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nude exhibition at swimming baths causes outrage: \"Unsuitable\"",
-        "summary": "Upset father: \"Unsuitable\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T20:16:02+01:00"
       }
     }
   ]

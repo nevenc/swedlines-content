@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T06:31:14+01:00",
+  "generated_at": "2026-11-20T06:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e359b3eb8b9e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f9e6de80-6410-41dd-8205-740918f3b445",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f9e6de80-6410-41dd-8205-740918f3b445",
+      "published_at": "2026-11-20T06:28:34+01:00",
+      "fetched_at": "2026-11-20T06:45:44+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Strul för pendeltågen",
+        "summary": "Inställda avgångar i Stockholm",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trouble for the commuter trains",
+        "summary": "Cancelled departures in Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:45:50+01:00"
+      }
+    },
     {
       "id": "c1f2b69a572e",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T20:15:51+01:00"
-      }
-    },
-    {
-      "id": "2ea4cfc1df8f",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/ohly-sagar-v-for-regeringskravet-risk-for-ny-tidoregering",
-      "guid": "https://www.expressen.se/nyheter/politik/ohly-sagar-v-for-regeringskravet-risk-for-ny-tidoregering/",
-      "published_at": "2026-11-16T19:10:53+01:00",
-      "fetched_at": "2026-11-16T19:15:45+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Ohly sågar V för regeringskravet – risk för ny Tidöregering",
-        "summary": "Den tidigare V-ledaren Lars Ohly är mycket kritisk till partiets krav på att få ingå i en rödgrön regering. Om låsningen leder till att Sverige får en ny Tidöregering skulle V:s väljare bli mycket besvikna, menar han.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Ohly slams the Left Party over government demand – risk of new Tidö government",
-        "summary": "Former Left Party leader Lars Ohly is highly critical of the party's demand to join a red-green government. If the deadlock leads to Sweden getting a new Tidö government, the Left Party's voters would be very disappointed, he argues."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T19:15:52+01:00"
       }
     }
   ]
