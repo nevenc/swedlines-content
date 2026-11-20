@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T03:15:51+01:00",
+  "generated_at": "2026-11-20T03:31:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "50aeb206af7b",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/QroKb8/huthierna-saudisk-dodlig-attack",
+      "guid": "https://www.svd.se/a/QroKb8/huthierna-saudisk-dodlig-attack?utm_medium=rss",
+      "published_at": "2026-11-20T03:16:37+01:00",
+      "fetched_at": "2026-11-20T03:30:59+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Huthierna: Saudisk dödlig attack",
+        "summary": "Huthikontrollerade myndigheter anklagar saudiska styrkor för att från flygplan ha attackerat en…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Houthis: Saudi deadly attack",
+        "summary": "Houthi-controlled authorities accuse Saudi forces of attacking a… from aircraft"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T03:31:05+01:00"
+      }
+    },
     {
       "id": "664e92e41e45",
       "schema_version": 1,
@@ -5202,29 +5228,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T05:45:51+01:00"
-      }
-    },
-    {
-      "id": "e598ab53b780",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79983",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79983&utm_medium=rss",
-      "published_at": "2026-11-17T05:23:26+01:00",
-      "fetched_at": "2026-11-17T05:30:59+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Uppgifter: Iran planerar bombdåd i USA"
-      },
-      "en": {
-        "title": "Reports: Iran plans bombing in the USA"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T05:31:08+01:00"
       }
     }
   ]

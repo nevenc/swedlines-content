@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T03:15:51+01:00",
+  "generated_at": "2026-11-20T03:31:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5960942f3ca8",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/KL3kmG/huthierna-saudisk-dodlig-attack",
+      "guid": "https://www.aftonbladet.se/nyheter/a/KL3kmG/huthierna-saudisk-dodlig-attack?utm_medium=rss",
+      "published_at": "2026-11-20T03:16:36+01:00",
+      "fetched_at": "2026-11-20T03:31:00+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Huthierna: Saudisk dödlig attack",
+        "summary": "Huthikontrollerade myndigheter anklagar saudiska styrkor för att från flygplan ha attackerat en…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Houthis: Saudi deadly attack",
+        "summary": "Houthi-controlled authorities accuse Saudi forces of attacking a… from aircraft"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T03:31:05+01:00"
+      }
+    },
     {
       "id": "67c4ae54ddb1",
       "schema_version": 1,
@@ -5349,32 +5375,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T09:01:23+01:00"
-      }
-    },
-    {
-      "id": "ad4ecf911003",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/pMLnmW/smallar-i-bahrain-vid-nytt-iranskt-anfall",
-      "guid": "https://www.aftonbladet.se/nyheter/a/pMLnmW/smallar-i-bahrain-vid-nytt-iranskt-anfall?utm_medium=rss",
-      "published_at": "2026-11-17T08:33:04+01:00",
-      "fetched_at": "2026-11-17T08:41:20+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Smällar i Bahrain vid nytt iranskt anfall",
-        "summary": "Smällar ljuder i Bahrain. Iran säger sig ha attackerat ett USA-kopplat mål i den lilla önationen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Explosions in Bahrain after new Iranian attack",
-        "summary": "Explosions are heard in Bahrain. Iran says it has attacked a US-linked target in the small island nation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:41:27+01:00"
       }
     }
   ]
