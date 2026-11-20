@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T09:31:08+01:00",
+  "generated_at": "2026-11-20T09:45:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c3747cf04900",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/turistorten-hotas-av-hettan-kan-inte-langre-rora-sig-utomhus",
+      "guid": "https://www.dn.se/varlden/turistorten-hotas-av-hettan-kan-inte-langre-rora-sig-utomhus/",
+      "published_at": "2026-11-20T09:42:12+01:00",
+      "fetched_at": "2026-11-20T09:45:41+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/1263535e-4a11-4779-b4e5-e15ef06a7a50.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Turistorten hotas av hettan: ”Kan inte längre röra sig utomhus”",
+        "summary": "ANTALYA. Turister överger de turkiska turistorterna – på grund av klimatkrisen. Mitt under klimatmötet COP31 i Antalya ser restaurangägaren Ruhi Bal hur hans levebröd hotas efter ännu en sommar präglad av extremhetta och skyfall. – Jag har bott i Antalya nästan hela mitt liv.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Tourist resort threatened by heat: \"Can no longer move outdoors\"",
+        "summary": "ANTALYA. Tourists are abandoning Turkish resorts – due to the climate crisis. In the middle of the COP31 climate summit in Antalya, restaurant owner Ruhi Bal sees his livelihood threatened after yet another summer marked by extreme heat and cloudbursts. – I have lived in Antalya almost my whole life."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T09:45:59+01:00"
+      }
+    },
     {
       "id": "44cadf99d9f3",
       "schema_version": 1,
@@ -5375,32 +5402,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T13:31:06+01:00"
-      }
-    },
-    {
-      "id": "254f4e5e60da",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345129",
-      "guid": "rss:sr.se/article/9345129",
-      "published_at": "2026-11-18T12:53:00+01:00",
-      "fetched_at": "2026-11-18T13:01:14+01:00",
-      "category": "world",
-      "sv": {
-        "title": "EU: Nytt lån på 500 miljarder till Ukraina",
-        "summary": "EU-kommissionen föreslår ett lån till Ukraina på 500 miljarder kronor för att hjälpa landet genom 2027. Det meddelade EU-kommissionen idag. Ytterligare ett sanktionspaket riktat mot Ryssland ska presenteras nästa vecka enligt kommissionens ordförande Ursula von der Leyen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "EU: New loan of SEK 500 billion to Ukraine",
-        "summary": "The European Commission proposes a loan to Ukraine of SEK 500 billion to help the country through 2027. The European Commission announced this today. A further sanctions package targeting Russia is to be presented next week, according to Commission President Ursula von der Leyen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T13:01:24+01:00"
       }
     }
   ]
