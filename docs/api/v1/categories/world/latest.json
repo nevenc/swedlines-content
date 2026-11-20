@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T20:01:22+01:00",
+  "generated_at": "2026-11-20T20:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "17a064bcdba8",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347550",
+      "guid": "rss:sr.se/article/9347550",
+      "published_at": "2026-11-20T20:06:00+01:00",
+      "fetched_at": "2026-11-20T20:15:47+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trumps hot: Inga amerikanska datacenter utanför USA",
+        "summary": "USA:s president Donald Trump hotar amerikanska techbolag med, vad han kallar, \"en enorm skatt” om de bygger AI-datacenter i andra länder, rapporterar AP. Han uppmanar samtidigt amerikanska distrikt att välkomna datacenter.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Trump threatens: No American data centres outside the US",
+        "summary": "US President Donald Trump threatens American tech companies with what he calls \"a huge tax\" if they build AI data centres in other countries, AP reports. At the same time, he urges American districts to welcome data centres."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T20:15:58+01:00"
+      }
+    },
     {
       "id": "465ebf68340f",
       "schema_version": 1,
@@ -5391,33 +5417,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T08:01:26+01:00"
-      }
-    },
-    {
-      "id": "5dc6a1adc6a1",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/helmerson-vi-hor-hesa-friedrich-och-tror-att-kriget-ar-har",
-      "guid": "https://www.dn.se/kultur/helmerson-vi-hor-hesa-friedrich-och-tror-att-kriget-ar-har/",
-      "published_at": "2026-11-19T07:30:00+01:00",
-      "fetched_at": "2026-11-19T07:30:58+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/bc1ba1e2-2f56-49a1-b025-d8c24fe7d9df.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Helmerson: Vi hör Hesa Friedrich och tror att kriget är här",
-        "summary": "Det nattliga flyglarmet i Tyskland fick Helmerson att frukta att ryssen var på väg. Men varför brydde sig ingen annan? Två år senare fick han förklaringen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Helmerson: We hear Hesa Friedrich and think war is here",
-        "summary": "The nighttime air raid alarm in Germany made Helmerson fear that the Russians were on their way. But why did no one else care? Two years later he got the explanation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T07:31:06+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T20:01:22+01:00",
+  "generated_at": "2026-11-20T20:15:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "17a064bcdba8",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347550",
+      "guid": "rss:sr.se/article/9347550",
+      "published_at": "2026-11-20T20:06:00+01:00",
+      "fetched_at": "2026-11-20T20:15:47+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trumps hot: Inga amerikanska datacenter utanför USA",
+        "summary": "USA:s president Donald Trump hotar amerikanska techbolag med, vad han kallar, \"en enorm skatt” om de bygger AI-datacenter i andra länder, rapporterar AP. Han uppmanar samtidigt amerikanska distrikt att välkomna datacenter.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Trump threatens: No American data centres outside the US",
+        "summary": "US President Donald Trump threatens American tech companies with what he calls \"a huge tax\" if they build AI data centres in other countries, AP reports. At the same time, he urges American districts to welcome data centres."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T20:15:58+01:00"
+      }
+    },
     {
       "id": "82f9964eaf2f",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:30:14+01:00"
-      }
-    },
-    {
-      "id": "ef7b2032fa80",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9339368",
-      "guid": "rss:sr.se/article/9339368",
-      "published_at": "2026-11-15T03:00:00+01:00",
-      "fetched_at": "2026-11-15T03:31:39+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Forskare om C:s motstånd mot V: ”Handlar om väljarna”",
-        "summary": "Centerpartiets motstånd mot att samarbeta med Sverigedemokraterna handlar framförallt om olika människosyn. När det gäller motståndet mot att släppa in Vänsterpartiet i regeringen är det mer komplicerat, säger källor till Ekot.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Researcher on the Centre Party's opposition to the Left Party: \"It's about the voters\"",
-        "summary": "The Centre Party's opposition to cooperating with the Sweden Democrats is primarily about differing views of humanity. Opposition to letting the Left Party into government is more complicated, sources tell Ekot."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T03:31:50+01:00"
       }
     }
   ]
