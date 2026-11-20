@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T23:45:51+01:00",
+  "generated_at": "2026-11-21T00:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ccd6199481f3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/jensen-huangs-skrackvalde-hanen-mot-nvidias-anstallda",
+      "guid": "https://www.expressen.se/nyheter/varlden/jensen-huangs-skrackvalde-hanen-mot-nvidias-anstallda/",
+      "published_at": "2026-11-20T23:57:28+01:00",
+      "fetched_at": "2026-11-21T00:01:16+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Jensen Huangs skräckvälde – hånen mot Nvidias anställda",
+        "summary": "Jensen Huang ska ha hotat slita huvudet av en anställd – och sagt till en annan att hans mamma borde ha gjort abort. Nvidias förra vd anklagas nu för ett riktigt skräckvälde. Enligt New York Times pågick det i decennier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Jensen Huang's reign of terror – the mockery of Nvidia's employees",
+        "summary": "Jensen Huang reportedly threatened to tear the head off an employee and told another that his mother should have had an abortion. Nvidia's former CEO is now accused of a real reign of terror. According to The New York Times, it went on for decades."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T00:01:21+01:00"
+      }
+    },
     {
       "id": "48be174b2c89",
       "schema_version": 1,
@@ -5247,33 +5273,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T07:15:49+01:00"
-      }
-    },
-    {
-      "id": "927913efe6f2",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/morgonkoll-ai-frossa-pa-asienborserna-marknaden-ar-inte-glad",
-      "guid": "8b822f0e-1e8c-4854-9340-7d0c366fabaf",
-      "published_at": "2026-11-20T06:52:54+01:00",
-      "fetched_at": "2026-11-20T07:01:06+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6c80d892-fa5a-48de-be8c-e71b85235500.jpeg?width=600",
-      "sv": {
-        "title": "Morgonkoll: AI-frossa på Asienbörserna – ”marknaden är inte glad”",
-        "summary": "Det lyser rött på de asiatiska börserna efter torsdagens nedgångar på Wall Street. Flera AI- och teknikbolag tillhör förlorarna. Även i Europa väntas tydliga nedgångar under veckans sista handelsdag.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Morning check: AI jitters on Asian stock exchanges – \"the market is not happy\"",
-        "summary": "Asian stock exchanges are in the red after Thursday's declines on Wall Street. Several AI and technology companies are among the losers. Clear declines are also expected in Europe on the last trading day of the week."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:01:13+01:00"
       }
     }
   ]

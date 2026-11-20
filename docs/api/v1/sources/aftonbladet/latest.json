@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T23:45:51+01:00",
+  "generated_at": "2026-11-21T00:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6e780ea12d4d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/8Pm1x1/ai-kan-ha-lost-167-ar-gammalt-mattemysterium",
+      "guid": "https://www.aftonbladet.se/nyheter/a/8Pm1x1/ai-kan-ha-lost-167-ar-gammalt-mattemysterium?utm_medium=rss",
+      "published_at": "2026-11-20T23:57:50+01:00",
+      "fetched_at": "2026-11-21T00:01:16+01:00",
+      "category": "science_tech",
+      "image_url": "https://akamai.vgc.no/v2/images/380635ad-a5d3-3cc6-b3b4-c1b7d0543dd7?format=auto&s=7779c073427be6c5c7c5c555885ee27415ca8593&w=1000",
+      "sv": {
+        "title": "Efter 167 år – AI kan ha hittat svaret: ”Galet”",
+        "summary": "Minnesmästarnen: ”Total science fiction”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After 167 years – AI may have found the answer: \"Crazy\"",
+        "summary": "Memory champion: \"Total science fiction\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T00:01:21+01:00"
+      }
+    },
     {
       "id": "d16f12565748",
       "schema_version": 1,
@@ -5348,33 +5375,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T11:16:04+01:00"
-      }
-    },
-    {
-      "id": "53d5aa5eda45",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/9BvrlM/expert-osannolikt-att-bron-kan-lagas-under-kriget",
-      "guid": "https://www.aftonbladet.se/nyheter/a/9BvrlM/expert-osannolikt-att-bron-kan-lagas-under-kriget?utm_medium=rss",
-      "published_at": "2026-11-18T07:07:11+01:00",
-      "fetched_at": "2026-11-18T07:15:46+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/9bf740b0-809d-3cc2-958b-3d12d9ddf796?format=auto&s=a1be9b385bd9a82b173fdd201b5edd10d5bf2511&w=1000",
-      "sv": {
-        "title": "Expert: Osannolikt att bron kan lagas under kriget",
-        "summary": "Delar av Krimbron ligger på havets botten efter riktade ukrainska attacker.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Expert: Unlikely the bridge can be repaired during the war",
-        "summary": "Parts of the Crimean Bridge lie on the seabed after targeted Ukrainian attacks."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
       }
     }
   ]

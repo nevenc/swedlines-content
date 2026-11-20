@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T23:45:51+01:00",
+  "generated_at": "2026-11-21T00:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ccd6199481f3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/jensen-huangs-skrackvalde-hanen-mot-nvidias-anstallda",
+      "guid": "https://www.expressen.se/nyheter/varlden/jensen-huangs-skrackvalde-hanen-mot-nvidias-anstallda/",
+      "published_at": "2026-11-20T23:57:28+01:00",
+      "fetched_at": "2026-11-21T00:01:16+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Jensen Huangs skräckvälde – hånen mot Nvidias anställda",
+        "summary": "Jensen Huang ska ha hotat slita huvudet av en anställd – och sagt till en annan att hans mamma borde ha gjort abort. Nvidias förra vd anklagas nu för ett riktigt skräckvälde. Enligt New York Times pågick det i decennier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Jensen Huang's reign of terror – the mockery of Nvidia's employees",
+        "summary": "Jensen Huang reportedly threatened to tear the head off an employee and told another that his mother should have had an abortion. Nvidia's former CEO is now accused of a real reign of terror. According to The New York Times, it went on for decades."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T00:01:21+01:00"
+      }
+    },
     {
       "id": "be07c8f68d16",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T19:45:54+01:00"
-      }
-    },
-    {
-      "id": "d3e9592e8257",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/udda-videon-pa-kim-jong-un-vid-dotterns-skidtur",
-      "guid": "https://www.expressen.se/nyheter/varlden/udda-videon-pa-kim-jong-un-vid-dotterns-skidtur/",
-      "published_at": "2026-11-17T19:25:21+01:00",
-      "fetched_at": "2026-11-17T19:31:14+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Udda videon på Kim Jong Un vid dotterns skidtur",
-        "summary": "Nordkoreas Kim Jong Un har besökt landets senaste skidanläggning. På bilder syns diktatorns dotter åka nedför backarna – samtidigt som han själv vilar upp sig med en cigarett. Samtidigt rapporteras det att Kim Jong Un väntas dissa Trump.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Odd video of Kim Jong Un during daughter's ski trip",
-        "summary": "North Korea's Kim Jong Un has visited the country's newest ski resort. Photos show the dictator's daughter skiing down the slopes – while he himself relaxes with a cigarette. Meanwhile, it is reported that Kim Jong Un is expected to snub Trump."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T19:31:23+01:00"
       }
     }
   ]
