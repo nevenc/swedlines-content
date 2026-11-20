@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T06:45:51+01:00",
+  "generated_at": "2026-11-20T07:01:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fdd65f147e53",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/androidbarnen-i-sheep-in-the-box-blir-snuttefiltar-for-nostalgiker",
+      "guid": "https://www.dn.se/kultur/androidbarnen-i-sheep-in-the-box-blir-snuttefiltar-for-nostalgiker/",
+      "published_at": "2026-11-20T07:00:00+01:00",
+      "fetched_at": "2026-11-20T07:01:05+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/8d99930c-06ba-41c9-b4e5-e9f0e6e44b0a.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Androidbarnen i ”Sheep in the box” blir snuttefiltar för nostalgiker",
+        "summary": "Ett föräldrapar i en nära framtiden försöker ersätta sin döda son med en robotpojke. Behålla eller lämna tillbaka? Sörja eller gå vidare? Hirokazu Kore-eda spelar på alla känslosträngar men lyckas inte riktigt engagera, skriver Sebastian Lindvall.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The android children in \"Sheep in the box\" become comfort objects for nostalgics",
+        "summary": "A couple of parents in the near future try to replace their dead son with a robot boy. Keep or return? Mourn or move on? Hirokazu Kore-eda plays on all the emotional strings but fails to really engage, writes Sebastian Lindvall."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:01:13+01:00"
+      }
+    },
     {
       "id": "6fec2b874f46",
       "schema_version": 1,
@@ -5361,33 +5388,6 @@
       "en": {
         "title": "Letter. The United Nations should govern the Moon",
         "summary": "LETTER. The build-up of a permanent manned space base may make people think about something other than conflicts between nations. It is time for politicians to start acting so that the Moon and its use are regulated by a body under the UN, writes Dag Lindgren."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T10:31:17+01:00"
-      }
-    },
-    {
-      "id": "3b95139f6446",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/det-rimliga-ar-att-s-och-mp-bildar-regering",
-      "guid": "https://www.dn.se/insandare/det-rimliga-ar-att-s-och-mp-bildar-regering/",
-      "published_at": "2026-11-17T10:23:06+01:00",
-      "fetched_at": "2026-11-17T10:30:57+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/e0ec08ad-cc7e-481e-bbc3-1054e6d63d59.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Det rimliga är att S och MP bildar regering",
-        "summary": "INSÄNDARE. Det logiska är att V och C ställs utanför regeringen, men med ett Tidöliknande avtal. För att få V dit skulle ett sådant kunna innehålla en avveckling av marknadsskolan, skriver Fredrik Svensson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Letter. The reasonable thing is for the Social Democrats (S) and the Green Party (MP) to form a government",
-        "summary": "LETTER. The logical thing is for the Left Party (V) and the Centre Party (C) to be left outside the government, but with a Tidö-like agreement. To get the Left Party on board, such an agreement could include dismantling the market school, writes Fredrik Svensson."
       },
       "translation": {
         "status": "done",

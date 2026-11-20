@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-20T06:45:51+01:00",
+  "generated_at": "2026-11-20T07:01:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a1eba175c25a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=1fee3f84-c240-46d5-9ac6-340a27fc03b4",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1fee3f84-c240-46d5-9ac6-340a27fc03b4",
+      "published_at": "2026-11-20T06:56:06+01:00",
+      "fetched_at": "2026-11-20T07:01:06+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Olycka på E4",
+        "summary": "Trafikverket: ”Mycket stor påverkan”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Accident on the E4",
+        "summary": "Transport Administration: \"Very major impact\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:01:13+01:00"
+      }
+    },
+    {
+      "id": "dc939e63dd4b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/attack-mot-putins-kemijatte-i-natt",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/attack-mot-putins-kemijatte-i-natt",
+      "published_at": "2026-11-20T06:55:32+01:00",
+      "fetched_at": "2026-11-20T07:01:06+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Putins kemijätte attackeras",
+        "summary": "Tillverkar gödsel • Uppges visa träff",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Putin's chemical giant attacked",
+        "summary": "Manufactures fertiliser • Reportedly shows a hit"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:01:13+01:00"
+      }
+    },
     {
       "id": "e359b3eb8b9e",
       "schema_version": 1,
@@ -182,6 +234,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T02:01:15+01:00"
+      }
+    },
+    {
+      "id": "96f9b73a20a4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=35546b8c-5a63-4b87-a8ac-9741d225b369",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=35546b8c-5a63-4b87-a8ac-9741d225b369",
+      "published_at": "2026-11-20T00:44:24+01:00",
+      "fetched_at": "2026-11-20T07:01:06+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trump missade Kim",
+        "summary": "Förklaringen: Därför blev det inget möte",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump missed Kim",
+        "summary": "The explanation: This is why there was no meeting"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:01:13+01:00"
       }
     },
     {
@@ -5113,84 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T21:31:04+01:00"
-      }
-    },
-    {
-      "id": "52fcb70f625b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/naemi-22-berattar-om-livet-efter-lejonattacken-kampar-pa-allt-jag-kan",
-      "guid": "https://www.expressen.se/nyheter/sverige/naemi-22-berattar-om-livet-efter-lejonattacken-kampar-pa-allt-jag-kan/",
-      "published_at": "2026-11-16T21:13:17+01:00",
-      "fetched_at": "2026-11-16T21:15:47+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Naemi, 22, berättar om livet efter lejonattacken: ”Kämpar på allt jag kan”",
-        "summary": "Hon hade änglavakt som överlevde. Men ett drygt år efter lejonattacken i Sydafrika kämpar Naemi Boy, 22, fortfarande med smärtor och jobbiga minnen. – Jag är så klart jättetacksam för att jag lever. Men det är en sorg, det jag har behövt gå igenom, säger hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Naemi, 22, on life after the lion attack: \"I keep fighting with everything I have\"",
-        "summary": "She had a guardian angel who survived. But a little over a year after the lion attack in South Africa, Naemi Boy, 22, still struggles with pain and distressing memories. \"Of course I am very grateful to be alive. But it is a grief, what I have had to go through,\" she says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T21:15:56+01:00"
-      }
-    },
-    {
-      "id": "87f44b6c0563",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=1fe9ebb1-36bc-4b9b-800b-be50f45434da",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1fe9ebb1-36bc-4b9b-800b-be50f45434da",
-      "published_at": "2026-11-16T20:56:27+01:00",
-      "fetched_at": "2026-11-16T21:01:09+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "”Började äta på sig själv”",
-        "summary": "Polisens nya drogvarning",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Started eating himself\"",
-        "summary": "Police's new drug warning"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T21:01:13+01:00"
-      }
-    },
-    {
-      "id": "29a3d6e80e94",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/soren-55-kopte-julpynt-blev-lurad-manga-har-skrattat",
-      "guid": "https://www.expressen.se/nyheter/sverige/soren-55-kopte-julpynt-blev-lurad-manga-har-skrattat/",
-      "published_at": "2026-11-16T20:04:51+01:00",
-      "fetched_at": "2026-11-16T20:15:43+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Sören, 55, köpte julpynt – blev lurad: ”Många har skrattat”",
-        "summary": "Sören Johansson trodde sig ha gjort ett julfynd. När leveransen kom fick han titta både en och två gånger. – Jag tänkte: ”vad är detta?”, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sören, 55, bought Christmas decorations – was fooled: “Many have laughed”",
-        "summary": "Sören Johansson thought he had made a great find. When the delivery arrived, he had to look twice, even three times. – I thought: “what is this?”, he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T20:15:51+01:00"
       }
     }
   ]

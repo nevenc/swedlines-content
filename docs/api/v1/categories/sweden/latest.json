@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T06:45:51+01:00",
+  "generated_at": "2026-11-20T07:01:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a1eba175c25a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=1fee3f84-c240-46d5-9ac6-340a27fc03b4",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1fee3f84-c240-46d5-9ac6-340a27fc03b4",
+      "published_at": "2026-11-20T06:56:06+01:00",
+      "fetched_at": "2026-11-20T07:01:06+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Olycka på E4",
+        "summary": "Trafikverket: ”Mycket stor påverkan”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Accident on the E4",
+        "summary": "Transport Administration: \"Very major impact\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:01:13+01:00"
+      }
+    },
     {
       "id": "e359b3eb8b9e",
       "schema_version": 1,
@@ -5365,35 +5391,6 @@
       "en": {
         "title": "New emergency alert on mobile phones to be tested nationwide",
         "summary": "This winter the new SE-Alert warning system will be tested on mobile phones across the country, reports P4 Stockholm."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:01:23+01:00"
-      }
-    },
-    {
-      "id": "e1758f58169a",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/5GsOdnIBzl92RBRbaknCV8/99-ariga-iris-boerjade-styrketraena-har-aldrig-sportat",
-      "guid": "5GsOdnIBzl92RBRbaknCV8",
-      "published_at": "2026-11-17T08:53:23+01:00",
-      "fetched_at": "2026-11-17T09:01:14+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "99-åriga Iris började styrketräna: ”Har aldrig sportat”",
-        "summary": "Sommaren 2026 satte Iris Malmros Svensson sin fot på ett gym för första gången. Efter ett blodtrycksfall föll hon så illa att hon behövde opereras. I samband med det fick hon rådet att träna med en personlig tränare.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "99-year-old Iris started strength training: \"Have never exercised\"",
-        "summary": "In summer 2026, Iris Malmros Svensson set foot in a gym for the first time. After a drop in blood pressure she fell so badly that she needed surgery. In connection with this she was advised to train with a personal trainer."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-11-20T06:45:51+01:00",
+  "generated_at": "2026-11-20T07:01:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a42d0dd4f0fb",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/kulturkronika/vem-ar-galen-nog-att-driva-restaurang-i-goteborg.b49fea57-b6b3-5e4d-ad24-871af3a0ac62",
+      "guid": "b49fea57-b6b3-5e4d-ad24-871af3a0ac62",
+      "published_at": "2026-11-20T06:40:41+01:00",
+      "fetched_at": "2026-11-20T07:01:07+01:00",
+      "category": "other",
+      "feed_categories": [
+        "Kulturkrönika",
+        "Tagg: Björn Frantzén",
+        "Tagg: Restauranger",
+        "Tagg: Göteborg",
+        "Tagg: Krogar",
+        "Tagg: Barer"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/985c2282-b506-37ee-8ee4-2ae4db627ab1",
+      "sv": {
+        "title": "Vem är galen nog att driva restaurang i Göteborg?",
+        "summary": "Personalen skulle piska mig med kålrötter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Who is crazy enough to run a restaurant in Göteborg?",
+        "summary": "The staff would whip me with kohlrabi."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:01:13+01:00"
+      }
+    },
     {
       "id": "9a2132e45c95",
       "schema_version": 1,
@@ -6859,39 +6894,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:30:14+01:00"
-      }
-    },
-    {
-      "id": "b909d16c0cbe",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/debatt/polisens-laktarvald-har-gatt-for-langt-gor-bengaler-lagliga.b790ad00-d310-5c7e-820b-5e0884acb5ba",
-      "guid": "b790ad00-d310-5c7e-820b-5e0884acb5ba",
-      "published_at": "2026-11-15T04:55:00+01:00",
-      "fetched_at": "2026-11-15T10:05:49+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Debatt",
-        "Tagg: Pyroteknik",
-        "Tagg: Polisen",
-        "Tagg: Allsvenskan"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/111b3c66-08aa-3891-abf8-b36b8aa6fc37",
-      "sv": {
-        "title": "Polisens läktarvåld har gått för långt – gör bengaler lagliga",
-        "summary": "Polisen blockerade utgångarna från läktaren samtidigt som man med sköldar och pepparsprej tryckte supportrarna längre in, skriver två Centerstudenter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Police violence in stands has gone too far – legalise flares",
-        "summary": "Police blocked the exits from the stand while pushing supporters further in with shields and pepper spray, write two Centre Student representatives."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T10:06:15+01:00"
       }
     }
   ]
