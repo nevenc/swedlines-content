@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T14:01:30+01:00",
+  "generated_at": "2026-11-20T14:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "372e60828073",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/fotboll/supportrar-i-samtal-med-djurgardens-spelare-infor-sirius-matchen",
+      "guid": "https://www.svt.se/sport/fotboll/supportrar-i-samtal-med-djurgardens-spelare-infor-sirius-matchen",
+      "published_at": "2026-11-20T14:03:11+01:00",
+      "fetched_at": "2026-11-20T14:15:46+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Supportrar i samtal med Djurgårdens spelare inför Sirius-matchen",
+        "summary": "Djurgården ställs mot Sirius. Inför matchen dök supportrar upp för att samtala med spelarna. – Det var en bra stämning. I lugn ton och bra samtalsklimat upplever jag att de fick utrymma att förklara sina känslor kring det läge som Djurgården är i, säger säkerhetsansvarig Mats Jonsson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Supporters talk with Djurgården players ahead of Sirius match",
+        "summary": "Djurgården face Sirius. Ahead of the match supporters turned up to talk with the players. \"It was a good atmosphere. In a calm tone and good conversational climate, I feel they had room to explain their feelings about the situation Djurgården is in,\" says security manager Mats Jonsson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:16:02+01:00"
+      }
+    },
     {
       "id": "cd10397ad13f",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T23:33:46+01:00"
-      }
-    },
-    {
-      "id": "e7d4ca634e9d",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/fotboll/sveriges-dromhalvlek-mot-bosnien-hercegovina",
-      "guid": "https://www.svt.se/sport/fotboll/sveriges-dromhalvlek-mot-bosnien-hercegovina",
-      "published_at": "2026-11-14T21:36:47+01:00",
-      "fetched_at": "2026-11-14T21:40:34+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Sveriges drömhalvlek mot Bosnien-Hercegovina",
-        "summary": "Sverige kör över Bosnien-Hercegovina. I halvlek leder Blågult med 3–0.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sweden's dream half against Bosnia-Herzegovina",
-        "summary": "Sweden routs Bosnia-Herzegovina. At half-time Blågult lead 3–0."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T21:40:46+01:00"
       }
     }
   ]

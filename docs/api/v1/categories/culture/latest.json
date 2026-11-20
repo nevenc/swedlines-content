@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T14:01:30+01:00",
+  "generated_at": "2026-11-20T14:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bb11b98f7411",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/trafikkaos-nar-den-saknade-klumpen-kom-hem-till-lund",
+      "guid": "5115f4cc-64f6-40b1-b65f-df62ce9034b6",
+      "published_at": "2026-11-20T14:09:35+01:00",
+      "fetched_at": "2026-11-20T14:15:52+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/dbe34b93-07b6-4dd2-a415-859e7fbf94ef.jpeg?width=600",
+      "sv": {
+        "title": "Trafikkaos när den saknade Klumpen kom hem till Lund",
+        "summary": "Tidigt på fredagsmorgonen var det äntligen dags: Eduardo Chillidas skulptur ”Rymdfält av frid” kom tillbaka till sin plats på Stortorget. Lastbilen som fraktade verket skapade visst kaos i trafiken – men det spelade mindre roll just den här morgonen. – Detta är starkt, säger konstchef Åsa Nacking.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Traffic chaos as the missing Klumpen returns home to Lund",
+        "summary": "Early Friday morning the moment had finally come: Eduardo Chillida's sculpture \"Rymdfält av frid\" returned to its place at Stortorget. The lorry carrying the artwork apparently caused chaos in traffic, but that mattered little this particular morning. \"This is powerful,\" says art director Åsa Nacking."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:16:02+01:00"
+      }
+    },
     {
       "id": "71389f037462",
       "schema_version": 1,
@@ -5610,33 +5637,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T12:15:57+01:00"
-      }
-    },
-    {
-      "id": "be13477bf198",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/guldpennan-till-staffan-heimerson",
-      "guid": "d41a96bb-a183-48c3-9a4c-e0e8134312a0",
-      "published_at": "2026-11-18T11:42:57+01:00",
-      "fetched_at": "2026-11-18T11:45:45+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/f5ddad38-9b3e-4284-8e4c-9cdbf53fc3d0.jpg?width=600",
-      "sv": {
-        "title": "Guldpennan till Staffan Heimerson",
-        "summary": "Journalisten och författaren Staffan Heimerson får Publicistklubbens utmärkelse Guldpennan för att han ”i decennier förgyllt svensk journalistik”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Guldpennan award goes to Staffan Heimerson",
-        "summary": "Journalist and author Staffan Heimerson receives the Publicistklubben's Guldpennan award for having \"gilded Swedish journalism for decades\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T11:45:58+01:00"
       }
     }
   ]

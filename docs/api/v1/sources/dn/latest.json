@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T14:01:30+01:00",
+  "generated_at": "2026-11-20T14:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "68ae9a667084",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/ola-larsmo-manniskorattens-dodgravare-stravar-efter-ingenting-alls",
+      "guid": "https://www.dn.se/kultur/ola-larsmo-manniskorattens-dodgravare-stravar-efter-ingenting-alls/",
+      "published_at": "2026-11-20T14:07:36+01:00",
+      "fetched_at": "2026-11-20T14:15:48+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/17747c8c-f6c9-4936-88be-f0753626e06f.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Ola Larsmo: Människorättens dödgrävare strävar efter ”ingenting alls”",
+        "summary": "Den 19 november blev Myanmar den första staten att fällas för folkmord av FN:s högsta domstol. Samma dag förenades Putin, Trump och Xi i ett gemensamt utfall mot människorätten. Nu väntar en ödesstund för rättvisan, skriver Ola Larsmo.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ola Larsmo: Human rights gravediggers strive for \"nothing at all\"",
+        "summary": "On 19 November Myanmar became the first state to be convicted of genocide by the UN's highest court. The same day Putin, Trump and Xi came together in a joint move against human rights. Now a decisive moment for justice awaits, writes Ola Larsmo."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:16:02+01:00"
+      }
+    },
     {
       "id": "71389f037462",
       "schema_version": 1,
@@ -5367,33 +5394,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T19:31:23+01:00"
-      }
-    },
-    {
-      "id": "6bd9ccded491",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/vesna-prekopic-larare-blir-hotade-och-spottade-pa-det-kravs-kulturforandring",
-      "guid": "https://www.dn.se/kultur/vesna-prekopic-larare-blir-hotade-och-spottade-pa-det-kravs-kulturforandring/",
-      "published_at": "2026-11-17T18:34:33+01:00",
-      "fetched_at": "2026-11-17T18:45:40+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/04acb480-38a9-48c5-b5be-bb74b4a1db10.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Vesna Prekopic: Lärare blir hotade och spottade på – det krävs kulturförändring",
-        "summary": "Våld mot lärare fortsätter att öka. Skolan är numera en arbetsplats där man som anställd får räkna med våld, konstaterar Vesna Prekopic, som efterlyser förändrade attityder.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Vesna Prekopic: Teachers are threatened and spat on – a cultural change is needed",
-        "summary": "Violence against teachers continues to rise. The school is now a workplace where employees must expect violence, says Vesna Prekopic, who calls for changed attitudes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T18:45:46+01:00"
       }
     }
   ]

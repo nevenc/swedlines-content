@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T14:01:30+01:00",
+  "generated_at": "2026-11-20T14:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "284cec2887c8",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/kMJxgj/naturskyddsforeningen-allmanheten-kan-mista-tillgangen-till-stranderna",
+      "guid": "https://www.svd.se/a/kMJxgj/naturskyddsforeningen-allmanheten-kan-mista-tillgangen-till-stranderna?utm_medium=rss",
+      "published_at": "2026-11-20T14:00:00+01:00",
+      "fetched_at": "2026-11-20T14:15:48+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/ba4e1661-a02b-3104-bd36-c772baa357e9?format=auto&s=9983a41566d2dd03ffeb47af863239f1ce23e24f&w=1000",
+      "sv": {
+        "title": "”Allmänheten kan mista tillgången till stränder”",
+        "summary": "Ett generellt strandskydd är viktigt för allmänheten, naturen och klimat­beredskapen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"The public may lose access to beaches\"",
+        "summary": "A general shoreline protection is important for the public, nature and climate preparedness."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:16:02+01:00"
+      }
+    },
     {
       "id": "3b21a88c3b9a",
       "schema_version": 1,
@@ -5379,33 +5406,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T22:15:49+01:00"
-      }
-    },
-    {
-      "id": "d5d2bf59bbf3",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/sd-ledamot-andrar-sig-tanker-inte-hoppa-av",
-      "guid": "f1b0db6c-d172-411a-8d2b-276000294ee7",
-      "published_at": "2026-11-16T22:03:36+01:00",
-      "fetched_at": "2026-11-16T22:11:56+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/e6183234-6ca2-4117-bf9d-7671b75cf4cb.jpg?width=600",
-      "sv": {
-        "title": "SD-ledamot ändrar sig – tänker inte hoppa av",
-        "summary": "SD-riksdagsledamoten Rasmus Giertz meddelade sitt avhopp efter anklagelser om sexuella övertramp. Men nu har han ändrat sig och tänker stanna kvar i riksdagen, säger han till nättidningen Samnytt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "SD member changes his mind – does not intend to resign",
-        "summary": "SD Riksdag member Rasmus Giertz announced his resignation after allegations of sexual misconduct. But he has now changed his mind and intends to remain in the Riksdag, he tells the online news outlet Samnytt."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T22:11:59+01:00"
       }
     }
   ]

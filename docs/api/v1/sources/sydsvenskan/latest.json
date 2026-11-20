@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-20T14:01:30+01:00",
+  "generated_at": "2026-11-20T14:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bb11b98f7411",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/trafikkaos-nar-den-saknade-klumpen-kom-hem-till-lund",
+      "guid": "5115f4cc-64f6-40b1-b65f-df62ce9034b6",
+      "published_at": "2026-11-20T14:09:35+01:00",
+      "fetched_at": "2026-11-20T14:15:52+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/dbe34b93-07b6-4dd2-a415-859e7fbf94ef.jpeg?width=600",
+      "sv": {
+        "title": "Trafikkaos när den saknade Klumpen kom hem till Lund",
+        "summary": "Tidigt på fredagsmorgonen var det äntligen dags: Eduardo Chillidas skulptur ”Rymdfält av frid” kom tillbaka till sin plats på Stortorget. Lastbilen som fraktade verket skapade visst kaos i trafiken – men det spelade mindre roll just den här morgonen. – Detta är starkt, säger konstchef Åsa Nacking.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Traffic chaos as the missing Klumpen returns home to Lund",
+        "summary": "Early Friday morning the moment had finally come: Eduardo Chillida's sculpture \"Rymdfält av frid\" returned to its place at Stortorget. The lorry carrying the artwork apparently caused chaos in traffic, but that mattered little this particular morning. \"This is powerful,\" says art director Åsa Nacking."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:16:02+01:00"
+      }
+    },
+    {
+      "id": "a84242b15a1f",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/svenska-gripenplan-i-insats-over-polen",
+      "guid": "fec051a2-125e-4461-8c01-140f8651815b",
+      "published_at": "2026-11-20T14:06:09+01:00",
+      "fetched_at": "2026-11-20T14:15:52+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/ebee006d-a663-448b-a30e-6441143c3905.jpg?width=600",
+      "sv": {
+        "title": "Svenska Gripenplan i insats över Polen",
+        "summary": "Svenska Gripenplan deltog i en Natoinsats för att skydda det polska luftrummet när flera ”oidentifierade objekt” upptäcktes under natten mot fredagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish Gripen jets deployed over Poland",
+        "summary": "Swedish Gripen jets took part in a NATO operation to protect Polish airspace when several \"unidentified objects\" were detected during the night to Friday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:16:02+01:00"
+      }
+    },
     {
       "id": "da399c151c79",
       "schema_version": 1,
@@ -5147,60 +5201,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T11:45:58+01:00"
-      }
-    },
-    {
-      "id": "209bf56ad285",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/tva-karnkraftsreaktorer-gar-igang-onsdag-kvall",
-      "guid": "f5cefa20-6636-49c4-9d91-12b0f6507761",
-      "published_at": "2026-11-18T11:30:08+01:00",
-      "fetched_at": "2026-11-18T11:31:01+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/aca2d968-ada4-44d9-b9f8-d50419aa743a.jpg?width=600",
-      "sv": {
-        "title": "Två kärnkraftsreaktorer går igång onsdag kväll",
-        "summary": "Två av Forsmarks reaktorer som varit avstängda går igång onsdag kväll, meddelar kärnkraftverket. Ett välkommet besked för hårt pressade elkonsumenter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Two nuclear reactors to restart Wednesday evening",
-        "summary": "Two of Forsmark's reactors that have been shut down will restart Wednesday evening, the nuclear power plant announces. A welcome message for hard-pressed electricity consumers."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T11:31:06+01:00"
-      }
-    },
-    {
-      "id": "db1f2b1842cc",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/kvinna-tog-livet-av-sig-pa-akutboende-fruktansvard-handelse",
-      "guid": "982c5236-c7a4-4dba-ab42-845546e007ec",
-      "published_at": "2026-11-18T11:30:00+01:00",
-      "fetched_at": "2026-11-18T11:31:01+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/5ad1ac1d-ca7e-4dfe-b164-8cc52e46d43b.png?width=600",
-      "sv": {
-        "title": "Kvinna tog livet av sig på akutboende: ”Fruktansvärd händelse”",
-        "summary": "I somras tog en kvinna livet av sig på ett av kommunens akutboenden. En utredning visar att det fanns brister i rutinerna på boendet. – Vi behöver en utomstående granskning av en oberoende myndighet, säger Farishta Sulaiman (M), vice ordförande i arbetsmarknads- och socialnämnden.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Woman took her own life at emergency housing: \"Horrific incident\"",
-        "summary": "Last summer a woman took her own life at one of the municipality's emergency housing facilities. An investigation shows there were shortcomings in the procedures at the housing. \"We need an external review by an independent authority,\" says Farishta Sulaiman (M), vice chair of the employment and social welfare committee."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T11:31:06+01:00"
       }
     }
   ]

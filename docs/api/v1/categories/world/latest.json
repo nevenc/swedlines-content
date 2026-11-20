@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-20T14:01:30+01:00",
+  "generated_at": "2026-11-20T14:16:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "68ae9a667084",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/ola-larsmo-manniskorattens-dodgravare-stravar-efter-ingenting-alls",
+      "guid": "https://www.dn.se/kultur/ola-larsmo-manniskorattens-dodgravare-stravar-efter-ingenting-alls/",
+      "published_at": "2026-11-20T14:07:36+01:00",
+      "fetched_at": "2026-11-20T14:15:48+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/17747c8c-f6c9-4936-88be-f0753626e06f.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Ola Larsmo: Människorättens dödgrävare strävar efter ”ingenting alls”",
+        "summary": "Den 19 november blev Myanmar den första staten att fällas för folkmord av FN:s högsta domstol. Samma dag förenades Putin, Trump och Xi i ett gemensamt utfall mot människorätten. Nu väntar en ödesstund för rättvisan, skriver Ola Larsmo.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ola Larsmo: Human rights gravediggers strive for \"nothing at all\"",
+        "summary": "On 19 November Myanmar became the first state to be convicted of genocide by the UN's highest court. The same day Putin, Trump and Xi came together in a joint move against human rights. Now a decisive moment for justice awaits, writes Ola Larsmo."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:16:02+01:00"
+      }
+    },
+    {
+      "id": "a84242b15a1f",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/svenska-gripenplan-i-insats-over-polen",
+      "guid": "fec051a2-125e-4461-8c01-140f8651815b",
+      "published_at": "2026-11-20T14:06:09+01:00",
+      "fetched_at": "2026-11-20T14:15:52+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/ebee006d-a663-448b-a30e-6441143c3905.jpg?width=600",
+      "sv": {
+        "title": "Svenska Gripenplan i insats över Polen",
+        "summary": "Svenska Gripenplan deltog i en Natoinsats för att skydda det polska luftrummet när flera ”oidentifierade objekt” upptäcktes under natten mot fredagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish Gripen jets deployed over Poland",
+        "summary": "Swedish Gripen jets took part in a NATO operation to protect Polish airspace when several \"unidentified objects\" were detected during the night to Friday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:16:02+01:00"
+      }
+    },
     {
       "id": "bf9bec634f16",
       "schema_version": 1,
@@ -5328,59 +5382,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T21:15:54+01:00"
-      }
-    },
-    {
-      "id": "c73e64b93c77",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/KL3l75/polen-chefsdomare-forlorar-immunitet",
-      "guid": "https://www.aftonbladet.se/nyheter/a/KL3l75/polen-chefsdomare-forlorar-immunitet?utm_medium=rss",
-      "published_at": "2026-11-18T20:54:24+01:00",
-      "fetched_at": "2026-11-18T21:01:13+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/065b57bb-b76d-3c6a-bf87-bc13ba1b8c8a?format=auto&s=5e95d77daa55e67483a8e71393cd668617383401&w=1000",
-      "sv": {
-        "title": "Polen: Chefsdomare förlorar immunitet",
-        "summary": "Den domare som varit i fokus under krisen för Polens författningsdomstol har förlorat sin immunitet…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Poland: Chief judge loses immunity",
-        "summary": "The judge who has been in focus during the crisis at Poland's constitutional court has lost his immunity…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T21:01:20+01:00"
-      }
-    },
-    {
-      "id": "fb3a704b537a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/4EqVKg/tva-vuxna-och-ett-barn-hittade-doda-i-danmark",
-      "guid": "https://www.aftonbladet.se/nyheter/a/4EqVKg/tva-vuxna-och-ett-barn-hittade-doda-i-danmark?utm_medium=rss",
-      "published_at": "2026-11-18T20:38:20+01:00",
-      "fetched_at": "2026-11-18T20:45:47+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Två vuxna och ett barn hittade döda i Danmark",
-        "summary": "En man, en kvinna och en flicka har hittats döda vid en fastighet i en mindre tätort på Jylland i…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Two adults and a child found dead in Denmark",
-        "summary": "A man, a woman and a girl have been found dead at a property in a small urban area in Jutland in..."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T20:46:01+01:00"
       }
     }
   ]
