@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-21T00:01:22+01:00",
+  "generated_at": "2026-11-21T00:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "eec3a4d5d248",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/glomde-foremal-i-patientens-huvud",
+      "guid": "https://www.expressen.se/nyheter/sverige/glomde-foremal-i-patientens-huvud/",
+      "published_at": "2026-11-21T00:02:58+01:00",
+      "fetched_at": "2026-11-21T00:15:50+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Glömde föremål i patientens huvud",
+        "summary": "Under en hjärnoperation i Umeå glömdes två föremål kvar i patientens huvud. De upptäcktes först efter han opererats igen. – Det här var en beklaglig och olycklig händelse, säger chefläkaren Bengt Andersson till SVT Nyheter Västerbotten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two items left in patient's head",
+        "summary": "During brain surgery in Umeå, two items were left in the patient's head. They were only discovered after he had been operated on again. \"This was a regrettable and unfortunate incident,\" says chief physician Bengt Andersson to SVT Nyheter Västerbotten."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T00:15:55+01:00"
+      }
+    },
+    {
+      "id": "a1099049a76e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/lejlands-motor/porsches-nya-elektriska-monster-enorm-kraft-och-fart",
+      "guid": "34c20923-15fd-5f6e-9289-d04c50d8de99",
+      "published_at": "2026-11-21T00:00:00+01:00",
+      "fetched_at": "2026-11-21T00:15:51+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Porsches nya elektriska monster – enorm kraft och fart",
+        "summary": "Test av tre sportiga bilar från Volkswagen-koncernen: Den 50-årsjubilerande Golf GTI:n, den spanskbyggda el-suven Cupra Formentor VZ5 och slutligen den extremt kraftfulla eldrivna Porsche Cayenne Turbo.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Porsche's new electric monster – enormous power and speed",
+        "summary": "Test of three sporty cars from the Volkswagen Group: the 50th-anniversary Golf GTI, the Spanish-built electric SUV Cupra Formentor VZ5 and finally the extremely powerful electric Porsche Cayenne Turbo."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T00:15:55+01:00"
+      }
+    },
     {
       "id": "6e780ea12d4d",
       "schema_version": 1,
@@ -5386,56 +5438,6 @@
       "en": {
         "title": "Alarming figure – three elderly people have died in fires in Jönköping County in nine days",
         "summary": "December is usually the month with the most residential fire incidents, but this year November has stood out; so far three elderly men have died in residential fires in Jönköping County."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:16:03+01:00"
-      }
-    },
-    {
-      "id": "3b48fbf171e6",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/trelleborgs-vd-miljontankar-aktier-GC0us",
-      "guid": "367f48d7-60f7-4e03-88bb-3694a1a48a16",
-      "published_at": "2026-11-20T16:05:31+01:00",
-      "fetched_at": "2026-11-20T16:15:54+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0e0f2f0f-b067-4d0b-8bbf-3596410247ab.jpeg?width=600",
-      "sv": {
-        "title": "Trelleborgs vd miljontankar aktier",
-        "summary": "Trelleborgs vd Peter Nilsson har köpt 2.500 aktier för omkring 1,1 miljoner kronor i industrikoncernen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trelleborg CEO buys shares worth millions",
-        "summary": "Trelleborg CEO Peter Nilsson has bought 2,500 shares for about SEK 1.1 million in the industrial group."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:16:03+01:00"
-      }
-    },
-    {
-      "id": "7a804d539a7c",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80125",
-      "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80125&utm_medium=rss",
-      "published_at": "2026-11-20T16:05:04+01:00",
-      "fetched_at": "2026-11-20T16:15:53+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Ny talmansrunda på tisdag"
-      },
-      "en": {
-        "title": "New speaker's round on Tuesday"
       },
       "translation": {
         "status": "done",

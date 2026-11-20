@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T00:01:22+01:00",
+  "generated_at": "2026-11-21T00:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "eec3a4d5d248",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/glomde-foremal-i-patientens-huvud",
+      "guid": "https://www.expressen.se/nyheter/sverige/glomde-foremal-i-patientens-huvud/",
+      "published_at": "2026-11-21T00:02:58+01:00",
+      "fetched_at": "2026-11-21T00:15:50+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Glömde föremål i patientens huvud",
+        "summary": "Under en hjärnoperation i Umeå glömdes två föremål kvar i patientens huvud. De upptäcktes först efter han opererats igen. – Det här var en beklaglig och olycklig händelse, säger chefläkaren Bengt Andersson till SVT Nyheter Västerbotten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two items left in patient's head",
+        "summary": "During brain surgery in Umeå, two items were left in the patient's head. They were only discovered after he had been operated on again. \"This was a regrettable and unfortunate incident,\" says chief physician Bengt Andersson to SVT Nyheter Västerbotten."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T00:15:55+01:00"
+      }
+    },
     {
       "id": "1ab0664edf05",
       "schema_version": 1,
@@ -5410,32 +5436,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T18:01:27+01:00"
-      }
-    },
-    {
-      "id": "7cf4e6826ba4",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/sormland/efter-kamphundsattacken-rebecca-tvingades-avliva-sin-hast",
-      "guid": "https://www.svt.se/nyheter/lokalt/sormland/efter-kamphundsattacken-rebecca-tvingades-avliva-sin-hast",
-      "published_at": "2026-11-17T17:43:17+01:00",
-      "fetched_at": "2026-11-17T17:45:46+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Efter kamphundsattacken – Rebecca tvingades avliva sin häst",
-        "summary": "SVT träffade Rebecca Tenser och hennes häst Teeni Weenie i oktober efter den allvarliga hundattacken. Då mådde hästen bättre och framtiden såg ljus ut. Men sen förändrades allt. – Det är nog den finaste hästen jag fått äga under en alldeles för kort stund, säger Rebecca Tenser.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the dog-attack – Rebecca was forced to put down her horse",
-        "summary": "SVT met Rebecca Tenser and her horse Teeni Weenie in October after the serious dog attack. At that time the horse was doing better and the future looked bright. But then everything changed. – It's probably the finest horse I've been allowed to own for far too short a time, says Rebecca Tenser."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:45:57+01:00"
       }
     }
   ]
