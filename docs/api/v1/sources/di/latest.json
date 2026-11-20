@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T22:45:57+01:00",
+  "generated_at": "2026-11-20T23:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a1a8d5cf193e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/wall-street-star-vid-ett-vagskal",
+      "guid": "bbf80bd2-1bba-454e-be41-51a8123f2f18",
+      "published_at": "2026-11-20T22:37:31+01:00",
+      "fetched_at": "2026-11-20T23:01:15+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/9847b039-0780-4cc3-9bc7-bf02e7631a8f.jpeg?width=600",
+      "sv": {
+        "title": "Wall Street står vid ett vägskäl",
+        "summary": "NEW YORK. Wall Street har satsat tusentals miljarder på att AI ska förändra världsekonomin. Men efter Anthropics rekordnotering växer tvivlen. Fredagens breda börsfall kan markera ett avgörande vägskäl för den amerikanska aktiemarknaden.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wall Street at a crossroads",
+        "summary": "NEW YORK. Wall Street has invested thousands of billions in AI to transform the world economy. But after Anthropic's record listing, doubts are growing. Friday's broad stock market drop may mark a decisive crossroads for the American stock market."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T23:01:20+01:00"
+      }
+    },
     {
       "id": "2d6dd30cf2df",
       "schema_version": 1,
@@ -5283,33 +5310,6 @@
       "en": {
         "title": "Nobas technology chief has sold shares for SEK 1.4 million",
         "summary": "Nobas's technology chief has in three transactions sold 15,000 shares in the bank for a total of just over SEK 1.4 million. This is according to the Financial Supervisory Authority's insider register."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:16:01+01:00"
-      }
-    },
-    {
-      "id": "1493255d1fb2",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/burnham-sonderar-terrangen-for-breturn",
-      "guid": "0d29ae6a-31ff-426c-a4a5-9e8932d4d9fb",
-      "published_at": "2026-11-19T15:57:23+01:00",
-      "fetched_at": "2026-11-19T16:15:48+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b5ac47bc-f602-49dd-be61-c3bc27624091.jpeg?width=600",
-      "sv": {
-        "title": "Burnham sonderar terrängen för ”breturn”",
-        "summary": "Storbritanniens nye premiärminister Andy Burnham har talat varmt om ett fördjupat samarbete med EU. Men fredagens toppmöte i Bryssel riskerar att bli ett antiklimax, spår experter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Burnham sounds out terrain for “breturn”",
-        "summary": "UK's new prime minister Andy Burnham has spoken warmly about deeper cooperation with the EU. But Friday's summit in Brussels risks becoming an anticlimax, experts predict."
       },
       "translation": {
         "status": "done",

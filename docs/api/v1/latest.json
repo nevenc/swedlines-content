@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-20T22:45:57+01:00",
+  "generated_at": "2026-11-20T23:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fda9edb0c2f0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/vader/nya-bud-kring-smhis-snovarningar-har-andrats-flera-ganger",
+      "guid": "https://www.expressen.se/nyheter/vader/nya-bud-kring-smhis-snovarningar-har-andrats-flera-ganger/",
+      "published_at": "2026-11-20T22:52:06+01:00",
+      "fetched_at": "2026-11-20T23:01:15+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "Nya bud kring SMHI:s snövarningar – har ändrats flera gånger",
+        "summary": "SMHI varnar för snöfall i östra Svealand. Igen. Först förkortade myndigheten sin snövarning med två dygn – men sen dök det upp en ny varning. – Det är en uppehållsperiod emellan, säger meteorologen Anders Wettergren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New details on SMHI's snow warnings – changed several times",
+        "summary": "SMHI warns of snowfall in eastern Svealand. Again. First the agency shortened its snow warning by two days – but then a new warning appeared. – It's a break in between, says meteorologist Anders Wettergren."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T23:01:20+01:00"
+      }
+    },
+    {
+      "id": "562bbe75bb89",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/ekonomi/aktier-och-bors/blodbad-pa-borserna-nvidia-rasar-14-procent",
+      "guid": "https://www.expressen.se/ekonomi/aktier-och-bors/blodbad-pa-borserna-nvidia-rasar-14-procent/",
+      "published_at": "2026-11-20T22:43:13+01:00",
+      "fetched_at": "2026-11-20T23:01:15+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Blodbad på börserna – Nvidia rasar 14 procent",
+        "summary": "Rött, rött, rött, rött och rött. Så har siffrorna på börsen sett ut i veckan. – Så dålig vecka har man inte haft sen Trumps tullkalas, säger Sveriges Radios USA-korrespondent Simon Isaksson till Ekot.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bloodbath on the stock exchanges – Nvidia plunges 14 percent",
+        "summary": "Red, red, red, red and red. That is how the figures on the stock market have looked this week. – We haven't had a week this bad since Trump's tariff party, says Sveriges Radio's USA correspondent Simon Isaksson to Ekot."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T23:01:20+01:00"
+      }
+    },
+    {
+      "id": "a1a8d5cf193e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/wall-street-star-vid-ett-vagskal",
+      "guid": "bbf80bd2-1bba-454e-be41-51a8123f2f18",
+      "published_at": "2026-11-20T22:37:31+01:00",
+      "fetched_at": "2026-11-20T23:01:15+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/9847b039-0780-4cc3-9bc7-bf02e7631a8f.jpeg?width=600",
+      "sv": {
+        "title": "Wall Street står vid ett vägskäl",
+        "summary": "NEW YORK. Wall Street har satsat tusentals miljarder på att AI ska förändra världsekonomin. Men efter Anthropics rekordnotering växer tvivlen. Fredagens breda börsfall kan markera ett avgörande vägskäl för den amerikanska aktiemarknaden.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wall Street at a crossroads",
+        "summary": "NEW YORK. Wall Street has invested thousands of billions in AI to transform the world economy. But after Anthropic's record listing, doubts are growing. Friday's broad stock market drop may mark a decisive crossroads for the American stock market."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T23:01:20+01:00"
+      }
+    },
     {
       "id": "02c78d79d390",
       "schema_version": 1,
@@ -5360,97 +5439,6 @@
       "en": {
         "title": "Tusk on violations: \"Deliberate Russian provocation\"",
         "summary": "Friday morning's violations of Polish airspace were most likely a \"deliberate Russian provocation\". So says the country's prime minister Donald Tusk. The violations occurred in connection with the night's massive attack on Ukraine."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:01:24+01:00"
-      }
-    },
-    {
-      "id": "c0108eb10660",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/ledamot-i-catena-media-har-salt-aktier-for-3-5-miljoner",
-      "guid": "eed4c3b5-28d1-4028-bb0c-d982d3895f4b",
-      "published_at": "2026-11-20T15:54:52+01:00",
-      "fetched_at": "2026-11-20T16:01:17+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/30406c1d-133c-4453-9569-daad518b150d.jpeg?width=600",
-      "sv": {
-        "title": "Ledamot i Catena Media har sålt aktier för 3,5 miljoner",
-        "summary": "Martin Zetterlund, styrelseledamot i Catena Media sedan december 2024, har sålt knappt 1,2 miljoner aktier i bolaget för 3 kronor styck, eller totalt 3,5 miljoner kronor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Board member of Catena Media has sold shares worth SEK 3.5 million",
-        "summary": "Martin Zetterlund, board member of Catena Media since December 2024, has sold just under 1.2 million shares in the company at SEK 3 each, or SEK 3.5 million in total."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:01:24+01:00"
-      }
-    },
-    {
-      "id": "ab28e5c3a5db",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/restaurang/recension-gp-testar-dorsia-pa-tradgardsgatan.638a2823-99a4-5354-aeb1-baa71331dc4c",
-      "guid": "638a2823-99a4-5354-aeb1-baa71331dc4c",
-      "published_at": "2026-11-20T15:51:59+01:00",
-      "fetched_at": "2026-11-20T16:01:17+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Restaurang",
-        "Tagg: Restauranger",
-        "Tagg: Krogar",
-        "Tagg: Hotell",
-        "Tagg: Barer",
-        "Tagg: Uteätarna",
-        "Tagg: Två Dagar",
-        "Tagg: Foodflow"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/8b1a6e7f-ed46-386b-beaa-a90c3e1cc618",
-      "sv": {
-        "title": "Lyxkrogen i Göteborg förtrollar – men något saknas på tallriken",
-        "summary": "På stans mest överdådiga hotellrestaurang är inte alla smaker lika storslagna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Luxury restaurant in Göteborg enchants – but something is missing on the plate",
-        "summary": "At the city's most lavish hotel restaurant, not all flavours are equally magnificent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:01:24+01:00"
-      }
-    },
-    {
-      "id": "a5ce0665ed5b",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/XogOyW/talmannen-moter-partiledarna-pa-tisdag",
-      "guid": "https://www.aftonbladet.se/nyheter/a/XogOyW/talmannen-moter-partiledarna-pa-tisdag?utm_medium=rss",
-      "published_at": "2026-11-20T15:49:54+01:00",
-      "fetched_at": "2026-11-20T16:01:16+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/112a7586-ced4-3c7e-ae0c-805aa3877ca4?format=auto&s=0c1eb52f71bfbfb1a6d53611f733acc4bd867ff6&w=1000",
-      "sv": {
-        "title": "Talmannen möter partiledarna på tisdag",
-        "summary": "Talman Andreas Norlén kommer att träffa partiledare och språkrör för samtliga partier…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Speaker meets party leaders on Tuesday",
-        "summary": "Speaker Andreas Norlén will meet party leaders and spokespersons for all parties…"
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-20T22:45:57+01:00",
+  "generated_at": "2026-11-20T23:01:21+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fda9edb0c2f0",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/vader/nya-bud-kring-smhis-snovarningar-har-andrats-flera-ganger",
+      "guid": "https://www.expressen.se/nyheter/vader/nya-bud-kring-smhis-snovarningar-har-andrats-flera-ganger/",
+      "published_at": "2026-11-20T22:52:06+01:00",
+      "fetched_at": "2026-11-20T23:01:15+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "Nya bud kring SMHI:s snövarningar – har ändrats flera gånger",
+        "summary": "SMHI varnar för snöfall i östra Svealand. Igen. Först förkortade myndigheten sin snövarning med två dygn – men sen dök det upp en ny varning. – Det är en uppehållsperiod emellan, säger meteorologen Anders Wettergren.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New details on SMHI's snow warnings – changed several times",
+        "summary": "SMHI warns of snowfall in eastern Svealand. Again. First the agency shortened its snow warning by two days – but then a new warning appeared. – It's a break in between, says meteorologist Anders Wettergren."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T23:01:20+01:00"
+      }
+    },
+    {
+      "id": "562bbe75bb89",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/ekonomi/aktier-och-bors/blodbad-pa-borserna-nvidia-rasar-14-procent",
+      "guid": "https://www.expressen.se/ekonomi/aktier-och-bors/blodbad-pa-borserna-nvidia-rasar-14-procent/",
+      "published_at": "2026-11-20T22:43:13+01:00",
+      "fetched_at": "2026-11-20T23:01:15+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Blodbad på börserna – Nvidia rasar 14 procent",
+        "summary": "Rött, rött, rött, rött och rött. Så har siffrorna på börsen sett ut i veckan. – Så dålig vecka har man inte haft sen Trumps tullkalas, säger Sveriges Radios USA-korrespondent Simon Isaksson till Ekot.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bloodbath on the stock exchanges – Nvidia plunges 14 percent",
+        "summary": "Red, red, red, red and red. That is how the figures on the stock market have looked this week. – We haven't had a week this bad since Trump's tariff party, says Sveriges Radio's USA correspondent Simon Isaksson to Ekot."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T23:01:20+01:00"
+      }
+    },
     {
       "id": "9e86378384a4",
       "schema_version": 1,
@@ -5139,58 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T18:31:10+01:00"
-      }
-    },
-    {
-      "id": "500624f29fc7",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/psychomode-musiken-enorm-varld-har-ar-det-nya-i-gta-6",
-      "guid": "https://www.expressen.se/nyheter/varlden/psychomode-musiken-enorm-varld-har-ar-det-nya-i-gta-6/",
-      "published_at": "2026-11-17T18:15:29+01:00",
-      "fetched_at": "2026-11-17T18:31:04+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "”Psychomode”, musiken, enorm värld – här är det nya i GTA 6",
-        "summary": "Nytt hederssystem, nya relationer och en enorm värld. Grand Theft Auto 6 bjuder på en helt ny spelupplevelse. Här är allt du behöver veta om vad som är nytt inför tidernas största spelsläpp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Psychomode\", the music, enormous world – here's what's new in GTA 6",
-        "summary": "New honour system, new relationships and an enormous world. Grand Theft Auto 6 offers a completely new gaming experience. Here is everything you need to know about what is new ahead of the biggest game release of all time."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T18:31:10+01:00"
-      }
-    },
-    {
-      "id": "ad2d8af54a9b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/forfattaren-om-gta-6-skammen-blir-en-swiftie",
-      "guid": "https://www.expressen.se/nyheter/sverige/forfattaren-om-gta-6-skammen-blir-en-swiftie/",
-      "published_at": "2026-11-17T18:11:45+01:00",
-      "fetched_at": "2026-11-17T18:15:47+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Författaren om GTA 6-skammen: ”Blir en Swiftie”",
-        "summary": "Grand Theft Auto-spelen har en speciell plats i mångas hjärta. Bland annat hos författaren Mikael Yvesand – som tagit en veckas semester för att spela. – Jag ser så mycket fram emot att bara vända på dygnet, utan skam, och bli radikaliserad av tv-spelsvåld, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Author on GTA 6 shame: \"Becomes a Swiftie\"",
-        "summary": "Grand Theft Auto games have a special place in many hearts. Among them author Mikael Yvesand, who has taken a week's holiday to play. \"I'm really looking forward to just flipping the day-night cycle, without shame, and being radicalised by video game violence,\" he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T18:15:56+01:00"
       }
     }
   ]
