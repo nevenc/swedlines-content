@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T04:01:20+01:00",
+  "generated_at": "2026-11-20T04:15:43+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1885c3256d41",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346668",
+      "guid": "rss:sr.se/article/9346668",
+      "published_at": "2026-11-20T04:00:00+01:00",
+      "fetched_at": "2026-11-20T04:15:38+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Toppmöte kan bli nystart mellan EU och Storbritannien",
+        "summary": "EU och Storbritannien håller ett toppmöte i Bryssel och målet är att komma överens om ett närmare samarbete. Enklare regler för matexport och större frihet för unga att jobba och plugga utomlands är viktiga delar av avtalet, som vissa hoppas ska öppna för tätare relationer framåt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Summit could mark a fresh start between the EU and the United Kingdom",
+        "summary": "The EU and the United Kingdom are holding a summit in Brussels, with the aim of agreeing on closer cooperation. Simpler rules for food exports and greater freedom for young people to work and study abroad are important parts of the agreement, which some hope will open the way for closer relations going forward."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T04:15:43+01:00"
+      }
+    },
     {
       "id": "50aeb206af7b",
       "schema_version": 1,
@@ -5361,32 +5387,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T07:45:51+01:00"
-      }
-    },
-    {
-      "id": "bf5782e0cd9b",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344898",
-      "guid": "rss:sr.se/article/9344898",
-      "published_at": "2026-11-18T07:27:00+01:00",
-      "fetched_at": "2026-11-18T07:30:59+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Krav på att släppa alla politiska fångar i Venezuela",
-        "summary": "I Venezuela har familjer börjat tälta utanför amerikanska ambassaden i Caracas för att kräva att USA ser till att den venezolanska regeringen släpper de sista politiska fångarna. \"Delcy Rodriguez vill få USA att tro att hon släppt alla politiska fångar i Venezuela.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Demand to release all political prisoners in Venezuela",
-        "summary": "In Venezuela, families have begun camping outside the American embassy in Caracas to demand that the US ensure the Venezuelan government releases the last political prisoners. \"Delcy Rodriguez wants the US to believe she has released all political prisoners in Venezuela."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:31:11+01:00"
       }
     }
   ]
