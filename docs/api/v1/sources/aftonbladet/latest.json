@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T21:45:50+01:00",
+  "generated_at": "2026-11-20T22:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "42a1924bceed",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/wdPppL/svenska-ud-kallade-upp-rysslands-ambassador",
+      "guid": "https://www.aftonbladet.se/nyheter/a/wdPppL/svenska-ud-kallade-upp-rysslands-ambassador?utm_medium=rss",
+      "published_at": "2026-11-20T21:50:00+01:00",
+      "fetched_at": "2026-11-20T22:01:15+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/7fba9402-b1db-3ecf-a1ae-eef4d14a18bf?format=auto&s=33ec27e8727b79695462f26f84c686224f751640&w=1000",
+      "sv": {
+        "title": "Svenska UD kallade upp Rysslands ambassadör",
+        "summary": "Svenska utrikesdepartementet kallade på fredagen upp Rysslands ambassadör i Stockholm.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish MFA summons Russian ambassador",
+        "summary": "The Swedish Ministry for Foreign Affairs on Friday summoned Russia's ambassador in Stockholm."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T22:01:22+01:00"
+      }
+    },
     {
       "id": "33aabddb15e0",
       "schema_version": 1,
@@ -5348,33 +5375,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T06:45:43+01:00"
-      }
-    },
-    {
-      "id": "632bba04680e",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/lMAOxk/riksbanken-chef-akte-pa-lyxresa-infor-upphandling",
-      "guid": "https://www.aftonbladet.se/nyheter/a/lMAOxk/riksbanken-chef-akte-pa-lyxresa-infor-upphandling?utm_medium=rss",
-      "published_at": "2026-11-18T06:28:06+01:00",
-      "fetched_at": "2026-11-18T06:30:58+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/abebd84c-4f97-3383-895d-acf1f6e7e253?format=auto&s=cce06da628a1ac757a25f59f7845c736ce079e25&w=1000",
-      "sv": {
-        "title": "Riksbanken-chef reste på lyxresa till Tokyo inför upphandling",
-        "summary": "Riksbankens it-chef träffade ”någon japan”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Riksbank chief went on luxury trip to Tokyo ahead of procurement",
-        "summary": "The Riksbank's IT chief met \"someone from Japan\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T06:31:03+01:00"
       }
     }
   ]

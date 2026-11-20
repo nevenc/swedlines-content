@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T21:45:50+01:00",
+  "generated_at": "2026-11-20T22:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "15417af83056",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/oligark-kravs-pa-8-miljarder-av-ex-fru",
+      "guid": "08e6bd21-866e-4fcc-b33a-0058d581a7d8",
+      "published_at": "2026-11-20T21:51:05+01:00",
+      "fetched_at": "2026-11-20T22:01:16+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/53f7aba9-5c27-490e-b333-5822f21439c5.jpg?width=600",
+      "sv": {
+        "title": "Oligark krävs på 8 miljarder av ex-fru",
+        "summary": "Den ryske oligarken Vladimir Potanins ex-fru vill ha en andel av hans förmögenhet. Om inte kräver hon över 8 miljarder kronor för ”rimliga behov”. Rättstvisten efter skilsmässan som nu pågår är den största någonsin i Storbritannien.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Oligarch demanded to pay SEK 8 billion to ex-wife",
+        "summary": "Russian oligarch Vladimir Potanin's ex-wife wants a share of his fortune. Failing that, she demands over SEK 8 billion for \"reasonable needs\". The divorce legal dispute now under way is the largest ever in the United Kingdom."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T22:01:22+01:00"
+      }
+    },
     {
       "id": "af191b504e73",
       "schema_version": 1,
@@ -5249,32 +5276,6 @@
       "en": {
         "title": "Martin in Arboga won against the company – no solar park behind the house",
         "summary": "Martin Carlbinder and his neighbours in Arboga were to be surrounded by a huge solar park. They joined forces and fought back. Now the company has paused the development. – It feels really great, says Martin Carlbinder."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T05:45:48+01:00"
-      }
-    },
-    {
-      "id": "6591835ea51e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/varmland/hoga-elpriser-stalverket-i-bjorneborg-varnar-for-svag-svensk-konkurrenskraft",
-      "guid": "https://www.svt.se/nyheter/lokalt/varmland/hoga-elpriser-stalverket-i-bjorneborg-varnar-for-svag-svensk-konkurrenskraft",
-      "published_at": "2026-11-20T05:30:00+01:00",
-      "fetched_at": "2026-11-20T05:45:38+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Höga elpriser: Stålverket i Björneborg varnar för svag svensk konkurrenskraft",
-        "summary": "Stålverket Björneborg Steel känner en oro över de väntande höga elpriserna i vinter. Inte bara för egen skull utan för hela industrins konkurrenskraft mot andra europeiska företag. – Orättvist, säger företagets vd Håkan Dedorsson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "High electricity prices: Björneborg steelworks warns of weak Swedish competitiveness",
-        "summary": "Björneborg Steel is concerned about the high electricity prices expected this winter. Not only for its own sake but for the competitiveness of the whole industry against other European companies. – Unfair, says the company's CEO Håkan Dedorsson."
       },
       "translation": {
         "status": "done",

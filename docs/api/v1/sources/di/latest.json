@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T21:45:50+01:00",
+  "generated_at": "2026-11-20T22:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "15417af83056",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/oligark-kravs-pa-8-miljarder-av-ex-fru",
+      "guid": "08e6bd21-866e-4fcc-b33a-0058d581a7d8",
+      "published_at": "2026-11-20T21:51:05+01:00",
+      "fetched_at": "2026-11-20T22:01:16+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/53f7aba9-5c27-490e-b333-5822f21439c5.jpg?width=600",
+      "sv": {
+        "title": "Oligark krävs på 8 miljarder av ex-fru",
+        "summary": "Den ryske oligarken Vladimir Potanins ex-fru vill ha en andel av hans förmögenhet. Om inte kräver hon över 8 miljarder kronor för ”rimliga behov”. Rättstvisten efter skilsmässan som nu pågår är den största någonsin i Storbritannien.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Oligarch demanded to pay SEK 8 billion to ex-wife",
+        "summary": "Russian oligarch Vladimir Potanin's ex-wife wants a share of his fortune. Failing that, she demands over SEK 8 billion for \"reasonable needs\". The divorce legal dispute now under way is the largest ever in the United Kingdom."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T22:01:22+01:00"
+      }
+    },
     {
       "id": "af191b504e73",
       "schema_version": 1,
@@ -5289,33 +5316,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T16:01:34+01:00"
-      }
-    },
-    {
-      "id": "c6d79f57527e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/krisande-storklubben-faller-pa-wall-street",
-      "guid": "535dfbd5-8985-4fbd-a97e-5789362093cd",
-      "published_at": "2026-11-19T15:43:11+01:00",
-      "fetched_at": "2026-11-19T15:45:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/116fe311-e51d-41ce-a088-f6b17b4e31e8.jpeg?width=600",
-      "sv": {
-        "title": "Krisande storklubben faller på Wall Street",
-        "summary": "Den engelska storklubben Manchester United, vars aktie handlas i New York, faller tungt efter en rejäl resultatförsämring under det gångna kvartalet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Struggling giant falls on Wall Street",
-        "summary": "The English football club Manchester United, whose shares trade in New York, falls sharply after a substantial deterioration in results in the past quarter."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
       }
     }
   ]

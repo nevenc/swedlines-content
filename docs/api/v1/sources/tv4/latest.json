@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-20T21:45:50+01:00",
+  "generated_at": "2026-11-20T22:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ae7de88829d0",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/16e0I4O5DmwXbA8lbM5ovk/atalad-skickade-hundratals-meddelanden-till-ai-innan-doedskraschen",
+      "guid": "16e0I4O5DmwXbA8lbM5ovk",
+      "published_at": "2026-11-20T21:54:25+01:00",
+      "fetched_at": "2026-11-20T22:01:15+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Skickade hundratals meddelanden till AI innan dödskraschen",
+        "summary": "I mitten av september gav sig mannen ut på en vansinnesfärd i centrala Stockholm. Han kraschade i hög hastighet våldsamt in i en bil, som slungades vidare in i flera andra fordon. 57-åriga Lotta Hellstrand satt i den påkörda bilen och dog av sina skador. Hennes son skadades allvarligt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Sent hundreds of messages to AI before the fatal crash",
+        "summary": "In mid-September the man set off on a reckless drive in central Stockholm. He crashed violently at high speed into a car, which was sent on into several other vehicles. 57-year-old Lotta Hellstrand was sitting in the hit car and died of her injuries. Her son was seriously injured."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T22:01:22+01:00"
+      }
+    },
     {
       "id": "f3dd5c3b5a55",
       "schema_version": 1,
@@ -5740,35 +5769,6 @@
       "en": {
         "title": "Here autistic William, 17, is rescued after six days in the wilderness",
         "summary": "It was on Friday last week that the 17-year-old boy disappeared in the forests of eastern Australia, just over 185 kilometres east of Melbourne, where he was going camping with a friend."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "afde61e2e970",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/51rPNmr0It3kjUOSbasi5T/paret-misstaenks-ha-blast-hotell-flydde-notan-i-ambulans",
-      "guid": "51rPNmr0It3kjUOSbasi5T",
-      "published_at": "2026-11-12T21:17:53+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Norrland"
-      ],
-      "sv": {
-        "title": "Paret misstänks ha blåst hotell – flydde notan i ambulans",
-        "summary": "Ett hotell i Sundsvall slog larm till polisen. Personalen ville ha hjälp med att avhysa två personer, en kvinna i 40-årsåldern och en man i 60-årsåldern, som inte kunde betala för sin vistelse.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Couple suspected of stiffing hotel – fled the bill in an ambulance",
-        "summary": "A hotel in Sundsvall alerted the police. Staff wanted help evicting two people, a woman in her 40s and a man in his 60s, who could not pay for their stay."
       },
       "translation": {
         "status": "done",
