@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-20T11:45:58+01:00",
+  "generated_at": "2026-11-20T12:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cd5add775f9f",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3CC0sqmy4NxeFUp3PfdhP1/ryska-robotar-har-kraschat-pa-polsk-mark-syftet-aer-att-skraemmas",
+      "guid": "3CC0sqmy4NxeFUp3PfdhP1",
+      "published_at": "2026-11-20T11:55:59+01:00",
+      "fetched_at": "2026-11-20T12:01:16+01:00",
+      "category": "world",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Ryska robotar har kraschat på polsk mark: ”Syftet är att skrämmas”",
+        "summary": "Under natten till fredagen larmade den polska militären om oidentifierade flygande objekt och inledde en utredning för att fastställa om landets luftrum hade kränkts.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Russian missiles crashed on Polish soil: \"The aim is to intimidate\"",
+        "summary": "During the night to Friday, the Polish military raised the alarm about unidentified flying objects and launched an investigation to determine whether the country's airspace had been violated."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:01:25+01:00"
+      }
+    },
     {
       "id": "619f924d8451",
       "schema_version": 1,
@@ -5740,35 +5769,6 @@
       "en": {
         "title": "75-year-old's remains found in burnt-out car",
         "summary": "It all began with a burning car in Sandnäset outside Luleå municipality one December night last year. Since the car was in a water protection area it could not be extinguished and was therefore left to burn out."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "12ad0c2c8d3a",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3duiwxGHRDQgs1XuDL4nu5/tidigare-partimedlem-trakasserade-sd-toppen-i-aratal",
-      "guid": "3duiwxGHRDQgs1XuDL4nu5",
-      "published_at": "2026-11-11T21:55:11+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Inrikes"
-      ],
-      "sv": {
-        "title": "Tidigare partimedlem trakasserade SD-toppen i åratal",
-        "summary": "Mannen som nu belagts med kontaktförbud var tidigare medlem i Sverigedemokraterna. När han uteslöts av partistyrelsen 2022 hade Tobias Andersson och andra partimedlemmar försökt nå fram till honom, säger Andersson i förhör.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Former party member harassed SD leader for years",
-        "summary": "The man who has now been placed under a restraining order was previously a member of the Sweden Democrats. When he was expelled by the party board in 2022, Tobias Andersson and other party members had tried to reach him, Andersson says in a police interview."
       },
       "translation": {
         "status": "done",

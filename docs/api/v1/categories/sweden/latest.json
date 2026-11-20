@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-20T11:45:58+01:00",
+  "generated_at": "2026-11-20T12:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b58836f12a4e",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/nabil-58-dromde-om-att-bli-doktor-nu-laker-han-rosengard",
+      "guid": "47b12679-6cd5-4a34-b511-28af79d64f8c",
+      "published_at": "2026-11-20T12:00:00+01:00",
+      "fetched_at": "2026-11-20T12:01:18+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/4f2b0a7c-405e-4293-9dce-fb95305376a2.jpeg?width=600",
+      "sv": {
+        "title": "Nabil, 58, drömde om att bli doktor – nu läker han Rosengård",
+        "summary": "Han finns överallt på Rosengård. På fredagsbönen, vid religiösa högtider, under demonstrationerna till stöd för Palestina, på gruppaktiviteter för vuxna, i vallokaler och på brottsplatser där polisen rycker ut. Han är Nabil Abdulmajid, 58 år gammal.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nabil, 58, dreamed of becoming a doctor – now he heals Rosengård",
+        "summary": "He is everywhere in Rosengård. At Friday prayers, during religious holidays, at demonstrations in support of Palestine, at group activities for adults, at polling stations and at crime scenes where police are called out. He is Nabil Abdulmajid, 58 years old."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:01:25+01:00"
+      }
+    },
+    {
+      "id": "856b2575d784",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=0f15cdfb-8baa-4b99-8b82-8dac176421c2",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0f15cdfb-8baa-4b99-8b82-8dac176421c2",
+      "published_at": "2026-11-20T11:52:06+01:00",
+      "fetched_at": "2026-11-20T12:01:15+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Volvoverkstad utrymd",
+        "summary": "Syra har läckt ut, enligt SVT Sörmland",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Car workshop evacuated",
+        "summary": "Acid has leaked out, according to SVT Sörmland"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:01:25+01:00"
+      }
+    },
     {
       "id": "58fb11050de1",
       "schema_version": 1,
@@ -5349,59 +5402,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T12:31:09+01:00"
-      }
-    },
-    {
-      "id": "098a6de357be",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/ARdp0q/radhusbrand-i-sodertalje",
-      "guid": "https://www.aftonbladet.se/nyheter/a/ARdp0q/radhusbrand-i-sodertalje?utm_medium=rss",
-      "published_at": "2026-11-17T11:49:03+01:00",
-      "fetched_at": "2026-11-17T13:31:04+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Radhuslänga brinner i Södertälje",
-        "summary": "Branden är fullt utvecklad och det är kraftig rökutveckling.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Row-house block on fire in Södertälje",
-        "summary": "The fire is fully developed and there is heavy smoke."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:31:17+01:00"
-      }
-    },
-    {
-      "id": "778879a31ef7",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/grannar-om-sopberget-vid-kronprinsen-fruktansvart",
-      "guid": "eeb1f598-6aa7-4930-ba02-8565d2c87816",
-      "published_at": "2026-11-17T11:30:00+01:00",
-      "fetched_at": "2026-11-17T11:31:04+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/6c36a6da-e7ec-4216-8a0d-8f0b4b4ea0e2.jpeg?width=600",
-      "sv": {
-        "title": "Grannar om sopberget vid Kronprinsen: ”Fruktansvärt”",
-        "summary": "Högar med sopor har tornat upp sig vid Kronprinsen. – Det är fruktansvärt. Fullt med fåglar och råttor som springer överallt, säger Anna Suknik. Nu lovar både Heimstaden och VA Syd att ta tag i problemet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Neighbours on the rubbish heap at Kronprinsen: \"Terrible\"",
-        "summary": "Piles of rubbish have built up at Kronprinsen. \"It's terrible. Full of birds and rats running everywhere,\" says Anna Suknik. Now both Heimstaden and VA Syd promise to deal with the problem."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T11:31:11+01:00"
       }
     }
   ]
