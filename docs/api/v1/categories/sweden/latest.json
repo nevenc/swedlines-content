@@ -1,7 +1,68 @@
 {
-  "generated_at": "2026-11-20T14:16:03+01:00",
+  "generated_at": "2026-11-20T14:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "21255352d59b",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/aldre-fick-ligga-blota-i-urin-och-full-bloja-pa-boende-i-kalix",
+      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/aldre-fick-ligga-blota-i-urin-och-full-bloja-pa-boende-i-kalix",
+      "published_at": "2026-11-20T14:21:58+01:00",
+      "fetched_at": "2026-11-20T14:30:57+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Äldre fick ligga blöta i urin och full blöja på boende i Kalix",
+        "summary": "Flera personer vid ett äldreboende i Kalix har vid upprepade tillfällen legat blöta av urin i sin sängar. Nu lex Sarah-anmäler kommunen missförhållandena.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elderly left lying in urine and full nappies at care home in Kalix",
+        "summary": "Several residents at a care home in Kalix have repeatedly lain wet with urine in their beds. Now a Lex Sarah report has been filed against the municipality over the shortcomings."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:31:08+01:00"
+      }
+    },
+    {
+      "id": "01f072579384",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/ungdomsprotester-i-goteborg.85f748a3-13f6-5732-8f1f-009faae402c5",
+      "guid": "85f748a3-13f6-5732-8f1f-009faae402c5",
+      "published_at": "2026-11-20T14:15:05+01:00",
+      "fetched_at": "2026-11-20T14:31:00+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: Göteborg",
+        "Tagg: Studenter",
+        "Tagg: breaking-GP",
+        "Tagg: Klimatförändringar",
+        "Tagg: Strejker"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/cd7867e6-65cd-3268-a8b7-1b904ccb28ff",
+      "sv": {
+        "title": "Här lämnar elever skolan i protest",
+        "summary": "Ungdomsprotester i Göteborg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here pupils leave school in protest",
+        "summary": "Youth protests in Göteborg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:31:08+01:00"
+      }
+    },
     {
       "id": "348d4b0bb991",
       "schema_version": 1,
@@ -5352,59 +5413,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T14:45:49+01:00"
-      }
-    },
-    {
-      "id": "b7dd19cb28a6",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/z0G8G4/farligt-att-urholka-skolplikten-i-dagens-marknadsskola-skriver-sara-lundberg",
-      "guid": "https://www.svd.se/a/z0G8G4/farligt-att-urholka-skolplikten-i-dagens-marknadsskola-skriver-sara-lundberg?utm_medium=rss",
-      "published_at": "2026-11-17T14:15:00+01:00",
-      "fetched_at": "2026-11-17T14:31:05+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/0687500f-8a9c-3f0e-be7d-6ae511c84ebc?format=auto&s=fab4332bbce3353f99ac718312bc7d0cc3b80c7f&w=1000",
-      "sv": {
-        "title": "”Farligt att urholka skolplikten i marknadsskolan”",
-        "summary": "Förslaget att urholka skolpliktens krav på närvaro och kraven när det gäller skolans kompensatoriska…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "“Dangerous to erode compulsory schooling in the market school”",
-        "summary": "The proposal to erode the compulsory schooling requirements on attendance and the requirements regarding the school's compensatory…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T14:31:11+01:00"
-      }
-    },
-    {
-      "id": "e39a88c7dca2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/radhusbrand-i-hovsjo-i-sodertalje",
-      "guid": "https://www.expressen.se/nyheter/sverige/radhusbrand-i-hovsjo-i-sodertalje/",
-      "published_at": "2026-11-17T12:45:39+01:00",
-      "fetched_at": "2026-11-17T13:01:12+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Radhusbrand i Hovsjö i Södertälje",
-        "summary": "Det brinner i en radhuslänga i Hovsjö i Södertälje. Branden har spridit sig upp till vinden.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Terraced house fire in Hovsjö in Södertälje",
-        "summary": "Fire is burning in a terraced house row in Hovsjö in Södertälje. The fire has spread up to the attic."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:01:18+01:00"
       }
     }
   ]

@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-20T14:16:03+01:00",
+  "generated_at": "2026-11-20T14:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "08a53245c6ed",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80123",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80123&utm_medium=rss",
+      "published_at": "2026-11-20T14:28:27+01:00",
+      "fetched_at": "2026-11-20T14:30:59+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Känd rappare döms för skattebrott"
+      },
+      "en": {
+        "title": "Well-known rapper convicted of tax crime"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:31:08+01:00"
+      }
+    },
     {
       "id": "094f18b89fa9",
       "schema_version": 1,
@@ -5364,32 +5387,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T22:31:17+01:00"
-      }
-    },
-    {
-      "id": "1bf63ba8fcfe",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=aaa095d5-f629-4006-8771-3ad437138fd4",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=aaa095d5-f629-4006-8771-3ad437138fd4",
-      "published_at": "2026-11-16T21:24:19+01:00",
-      "fetched_at": "2026-11-16T21:30:59+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Nya uppgifter om Epsteins död",
-        "summary": "CBS: Kanske inte självmord",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New details on Epstein's death",
-        "summary": "CBS: Maybe not suicide"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T21:31:04+01:00"
       }
     }
   ]

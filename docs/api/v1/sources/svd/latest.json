@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-20T14:16:03+01:00",
+  "generated_at": "2026-11-20T14:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "08a53245c6ed",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80123",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80123&utm_medium=rss",
+      "published_at": "2026-11-20T14:28:27+01:00",
+      "fetched_at": "2026-11-20T14:30:59+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Känd rappare döms för skattebrott"
+      },
+      "en": {
+        "title": "Well-known rapper convicted of tax crime"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:31:08+01:00"
+      }
+    },
+    {
+      "id": "8223f94e435a",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/yz300K/trots-os-guldet-sundling-nobbas",
+      "guid": "https://www.svd.se/a/yz300K/trots-os-guldet-sundling-nobbas?utm_medium=rss",
+      "published_at": "2026-11-20T14:17:35+01:00",
+      "fetched_at": "2026-11-20T14:30:59+01:00",
+      "category": "sports",
+      "image_url": "https://akamai.vgc.no/v2/images/f014f865-b080-3f20-bbec-f3308c57135e?format=auto&s=fd07c190daa2738e79dfaa7cb27d197f4b6fefd6&w=1000",
+      "sv": {
+        "title": "Trots OS-guldet: Sundling nobbas",
+        "summary": "Förra årets Jerringpristagare Jonna Sundling tog guld i OS – men det räcker inte för att nomineras…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Despite Olympic gold: Sundling snubbed",
+        "summary": "Last year's Jerring Prize winner Jonna Sundling won gold at the Olympics – but that is not enough to be nominated…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:31:08+01:00"
+      }
+    },
     {
       "id": "010f1cc2e5c6",
       "schema_version": 1,
@@ -5195,60 +5245,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T18:45:46+01:00"
-      }
-    },
-    {
-      "id": "e0dd930142c8",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Qro948/eu-forsvarar-smutsigt-elmal",
-      "guid": "https://www.svd.se/a/Qro948/eu-forsvarar-smutsigt-elmal?utm_medium=rss",
-      "published_at": "2026-11-17T18:05:38+01:00",
-      "fetched_at": "2026-11-17T18:15:46+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/f2e9816b-79a2-3da4-a643-6ee2022c9f3f?format=auto&s=7eef8840b71841ef926ec7177eda885625530fce&w=1000",
-      "sv": {
-        "title": "EU försvarar ”smutsigt” elmål",
-        "summary": "EU ställer sig bakom ett mål om 35 procents elektrifiering fram till 2035, trots att elen kan…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "EU defends \"dirty\" electricity target",
-        "summary": "The EU backs a target of 35 percent electrification by 2035, even though electricity can…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "3be590e38793",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/nLamxL/antiliberalerna-i-europas-nya-hoger",
-      "guid": "https://www.svd.se/a/nLamxL/antiliberalerna-i-europas-nya-hoger?utm_medium=rss",
-      "published_at": "2026-11-17T17:53:14+01:00",
-      "fetched_at": "2026-11-17T18:01:17+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/55a2979e-0ba1-3f4b-9b03-ae0775c98e9b?format=auto&s=c66022ac77e6bbdfd6bf92a63c03ad5f19aa5a6e&w=1000",
-      "sv": {
-        "title": "Antiliberalerna i Europas nya höger",
-        "summary": "Ser vi en ny järnridå som delar den europeiska ytterhögern?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The anti-liberals in Europe's new right",
-        "summary": "Are we seeing a new Iron Curtain dividing the European far right?"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T18:01:27+01:00"
       }
     }
   ]

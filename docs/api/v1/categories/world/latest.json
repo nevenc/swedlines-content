@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T14:16:03+01:00",
+  "generated_at": "2026-11-20T14:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5ed71c48f6da",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347224",
+      "guid": "rss:sr.se/article/9347224",
+      "published_at": "2026-11-20T14:24:00+01:00",
+      "fetched_at": "2026-11-20T14:30:57+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Folkmordsdom mot Myanmar väcker debatt i Israel",
+        "summary": "I Israel har Internationella brottmålsdomstolens dom att Myanmar begått folkmord mot rohingyerna väckt diskussion. Politiker, kommentatorer och jurister i Israel befarar att den kan få betydelse för Sydafrikas folkmordsåtal mot Israel för krigföringen i Gaza.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Genocide ruling against Myanmar sparks debate in Israel",
+        "summary": "In Israel, the International Court of Justice's ruling that Myanmar committed genocide against the Rohingya has sparked discussion. Politicians, commentators and lawyers in Israel fear it could affect South Africa's genocide case against Israel over the fighting in Gaza."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:31:08+01:00"
+      }
+    },
     {
       "id": "68ae9a667084",
       "schema_version": 1,
@@ -5348,33 +5374,6 @@
       "en": {
         "title": "Guerrilla fighter: \"The price of a mistake is far too high\"",
         "summary": "Guerrilla fighters in the pro-Ukrainian resistance group Atesh claim they are hunted by the Russian state. Now one of them tells DN about life. \"You cannot miss a single detail. The price for that is far too high,\" says the man who is reportedly behind a recent sabotage attack in Russia."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T21:15:54+01:00"
-      }
-    },
-    {
-      "id": "96cfb605a9e4",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/karl-dalen-teknikproblemen-i-usa-far-spekulationerna-att-floda",
-      "guid": "https://www.dn.se/varlden/karl-dalen-teknikproblemen-i-usa-far-spekulationerna-att-floda/",
-      "published_at": "2026-11-18T21:09:36+01:00",
-      "fetched_at": "2026-11-18T21:15:44+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/8a9053f7-1d83-4d99-9d88-68e0363aec35.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Karl Dalén: Teknikproblemen i USA får spekulationerna att flöda",
-        "summary": "WASHINGTON. Det kan väl inte vara en tillfällighet? Den frågan ställer sig miljontals amerikaner efter problem med mejl, bankbetalningar och flygresor. Vita huset säger att driftstörningarna inte hänger ihop. Ändå kan AI ha ett finger med i spelet – fast inte på det sätt som många tror.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Karl Dalén: Technical problems in the US fuel speculation",
-        "summary": "WASHINGTON. It can't be a coincidence, can it? Millions of Americans are asking that question after problems with email, bank payments and flights. The White House says the disruptions are not connected. Still, AI may have a hand in the game – though not in the way many believe."
       },
       "translation": {
         "status": "done",

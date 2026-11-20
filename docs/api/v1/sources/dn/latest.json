@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T14:16:03+01:00",
+  "generated_at": "2026-11-20T14:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "87c07d963aa3",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/john-turturro-jag-har-aldrig-kunnat-slappa-rollen-som-forintelseoverlevare",
+      "guid": "https://www.dn.se/kultur/john-turturro-jag-har-aldrig-kunnat-slappa-rollen-som-forintelseoverlevare/",
+      "published_at": "2026-11-20T14:28:00+01:00",
+      "fetched_at": "2026-11-20T14:30:57+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/62595192-18f2-4244-b358-60df2f4b8769.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "John Turturro: ”Jag har aldrig kunnat släppa rollen som Förintelseöverlevare”",
+        "summary": "Han har gjort en rad nerviga och skruvade figurer i filmer av bland andra bröderna Coen och Spike Lee. Helena Lindblad har pratat med den amerikanska skådespelaren John Turturro som prisas på Stockholms filmfestival och är aktuell som analog antihjälte i ”The only living pickpocket i New York”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "John Turturro: \"I have never been able to let go of the role as a Holocaust survivor\"",
+        "summary": "He has played a range of jittery and eccentric characters in films by the Coen brothers and Spike Lee, among others. Helena Lindblad has talked with American actor John Turturro, who is being honoured at the Stockholm Film Festival and stars as an analogue antihero in \"The Only Living Pickpocket in New York\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:31:08+01:00"
+      }
+    },
     {
       "id": "68ae9a667084",
       "schema_version": 1,
@@ -5360,33 +5387,6 @@
       "en": {
         "title": "Max Hjelm: This is the election that should worry all Europeans",
         "summary": "France is not only divided, but also battered. It could get worse with next year's presidential election."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T19:31:23+01:00"
-      }
-    },
-    {
-      "id": "cc769bccaf23",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/bukeles-soldater-har-atertagit-haitis-nationalarena-fran-gangen",
-      "guid": "https://www.dn.se/varlden/bukeles-soldater-har-atertagit-haitis-nationalarena-fran-gangen/",
-      "published_at": "2026-11-17T19:17:41+01:00",
-      "fetched_at": "2026-11-17T19:31:11+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/3add852a-9c9b-4fab-a46f-05a805bd3bcd.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Bukeles soldater har återtagit Haitis nationalarena från gängen",
-        "summary": "RIO DE JANEIRO. Salvadoranska specialstyrkor har lycktas återta nationalarenan i Haiti från de väpnade gängen. Stadion ska nu bli en militärbas för en fritagningsoperation av de fyra flygteknikerna från El Salvador som kidnappats i Haiti.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Bukele's soldiers have retaken Haiti's national stadium from gangs",
-        "summary": "RIO DE JANEIRO. Salvadoran special forces have managed to retake Haiti's national stadium from the armed gangs. The stadium is now to become a military base for a rescue operation for the four aviation technicians from El Salvador who were kidnapped in Haiti."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T14:16:03+01:00",
+  "generated_at": "2026-11-20T14:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5ed71c48f6da",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347224",
+      "guid": "rss:sr.se/article/9347224",
+      "published_at": "2026-11-20T14:24:00+01:00",
+      "fetched_at": "2026-11-20T14:30:57+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Folkmordsdom mot Myanmar väcker debatt i Israel",
+        "summary": "I Israel har Internationella brottmålsdomstolens dom att Myanmar begått folkmord mot rohingyerna väckt diskussion. Politiker, kommentatorer och jurister i Israel befarar att den kan få betydelse för Sydafrikas folkmordsåtal mot Israel för krigföringen i Gaza.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Genocide ruling against Myanmar sparks debate in Israel",
+        "summary": "In Israel, the International Court of Justice's ruling that Myanmar committed genocide against the Rohingya has sparked discussion. Politicians, commentators and lawyers in Israel fear it could affect South Africa's genocide case against Israel over the fighting in Gaza."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:31:08+01:00"
+      }
+    },
     {
       "id": "3b21a88c3b9a",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "238bf2c13089",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340943",
-      "guid": "rss:sr.se/article/9340943",
-      "published_at": "2026-11-14T09:27:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Svensk gripen i Thailand – misstänkt för bedrägerier",
-        "summary": "En svensk man har gripits i Thailand. Enligt ett pressmeddelande från thailändsk polis är han efterlyst i Sverige, misstänkt för åtta fall av bedrägeri här, till ett värde av flera miljoner. Mannen greps utanför ett hotell i Bang Lamung-distriktet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Swede arrested in Thailand – suspected of fraud",
-        "summary": "A Swedish man has been arrested in Thailand. According to a press release from Thai police, he is wanted in Sweden, suspected of eight cases of fraud here, worth several million. The man was arrested outside a hotel in the Bang Lamung district."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:32+01:00"
       }
     }
   ]
