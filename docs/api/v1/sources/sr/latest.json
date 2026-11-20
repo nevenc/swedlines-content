@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T15:15:56+01:00",
+  "generated_at": "2026-11-20T15:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d1da7c331719",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347083",
+      "guid": "rss:sr.se/article/9347083",
+      "published_at": "2026-11-20T15:22:00+01:00",
+      "fetched_at": "2026-11-20T15:31:02+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Expert: ”Brobombningarna en del av förhandlingsspel”",
+        "summary": "De senaste dagarnas bombningar av broar på båda sidor är en upptrappning av Ukrainakriget som ska ses som del i ett förhandlingsspel, säger Johan Huovinen vid Försvarshögskolan. Inför den femte krigsvintern har mycket lite hänt vid frontlinjerna, medan Ryssland fått övertaget i luften.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Expert: \"Bridge bombings part of negotiation game\"",
+        "summary": "The bombings of bridges on both sides in recent days are an escalation of the Ukraine war that should be seen as part of a negotiation game, says Johan Huovinen at the Swedish Defence University. Ahead of the fifth winter of war, very little has happened at the front lines, while Russia has gained the upper hand in the air."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T15:31:09+01:00"
+      }
+    },
     {
       "id": "5ed71c48f6da",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Nvidia under heavy pressure – question marks over revenue from China",
         "summary": "It has been a very shaky week for the American chip giant Nvidia. CEO Jensen Huang has resigned after several alleged infidelity affairs, one of them with a suspected Chinese spy. Further drama is expected next week as well."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "97f0fb7f803b",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340977",
-      "guid": "rss:sr.se/article/9340977",
-      "published_at": "2026-11-14T12:31:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Centerpartister delade mellan höger och vänster",
-        "summary": "Centerpartiet är delat i frågan om partiet ska gå högerut eller vänsterut, efter att Moderaterna och Socialdemokraterna lämnat sina regeringsförslag. I Laholm hoppas kommunstyrelsens ordförande Ove Bengtsson på en borgerlig lösning sedan SD släppt kravet på ministerposter, medan Lars Vikinge,…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Centre Party members split between right and left",
-        "summary": "The Centre Party is divided on whether the party should move to the right or the left, after the Moderates and the Social Democrats submitted their government proposals. In Laholm, municipal executive board chair Ove Bengtsson hopes for a bourgeois solution now that the SD has dropped its demand for ministerial posts, while Lars Vikinge,…"
       },
       "translation": {
         "status": "done",

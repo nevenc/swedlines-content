@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T15:15:56+01:00",
+  "generated_at": "2026-11-20T15:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f61175e4ab11",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/sverige/kan-man-vara-otrogen-med-en-spelkaraktar",
+      "guid": "https://www.expressen.se/tv/nyheter/sverige/kan-man-vara-otrogen-med-en-spelkaraktar",
+      "published_at": "2026-11-20T15:26:31+01:00",
+      "fetched_at": "2026-11-20T15:31:04+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Kan man vara otrogen med en spelkaraktär?",
+        "summary": "Efter GTA 6-släppet – experten svarar",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Can you be unfaithful with a game character?",
+        "summary": "After the GTA 6 release – the expert answers"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T15:31:09+01:00"
+      }
+    },
     {
       "id": "587819a36a45",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T10:01:55+01:00"
-      }
-    },
-    {
-      "id": "d91de7534511",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=6dd35be7-7482-4fe6-bb5e-9f719efbf6f5",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6dd35be7-7482-4fe6-bb5e-9f719efbf6f5",
-      "published_at": "2026-11-17T09:33:31+01:00",
-      "fetched_at": "2026-11-17T09:45:43+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Nya varningssystemet ska testas i hela Sverige",
-        "summary": "Varningssystem testas nu i hela landet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New warning system to be tested across Sweden",
-        "summary": "Warning system is now being tested across the country"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:45:48+01:00"
       }
     }
   ]

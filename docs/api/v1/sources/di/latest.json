@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T15:15:56+01:00",
+  "generated_at": "2026-11-20T15:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "10518e07cccf",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/skrackindex-nara-arets-hogsta-niva",
+      "guid": "505b940f-271a-4436-b3e1-eec5547cf87c",
+      "published_at": "2026-11-20T15:23:55+01:00",
+      "fetched_at": "2026-11-20T15:31:04+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Skräckindex nära årets högsta nivå",
+        "summary": "Världens börser faller på fredagen. Samtidigt stiger volatilitetsindexet Vix, ofta kallat skräckindex, och närmar sig årets högsta nivåer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fear index near this year's high",
+        "summary": "World stock markets fall on Friday. At the same time, the volatility index Vix, often called the fear index, is rising and approaching this year's highest levels."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T15:31:09+01:00"
+      }
+    },
     {
       "id": "fc13ca175e6e",
       "schema_version": 1,
@@ -5294,33 +5320,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T12:31:18+01:00"
-      }
-    },
-    {
-      "id": "4ae27128c78e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/uttalandet-efter-supertoppmotet-kallas-fredsdeklaration",
-      "guid": "7272fe9b-05ae-41f6-a44b-3dcd7ac23a50",
-      "published_at": "2026-11-19T12:08:20+01:00",
-      "fetched_at": "2026-11-19T12:15:41+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/4c238a3b-97f6-42de-9e77-7427bcaa346d.jpeg?width=600",
-      "sv": {
-        "title": "Uttalandet efter supertoppmötet kallas ”fredsdeklaration”",
-        "summary": "Kina, Ryssland och USA var vid sitt möte på torsdagen överens om att ett kärnvapenkrig inte kan vinnas och aldrig bör utkämpas.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Statement after the super summit is called a \"peace declaration\"",
-        "summary": "China, Russia and the United States agreed at their meeting on Thursday that a nuclear war cannot be won and should never be fought."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T12:15:48+01:00"
       }
     }
   ]

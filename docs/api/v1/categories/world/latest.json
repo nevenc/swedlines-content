@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-20T15:15:56+01:00",
+  "generated_at": "2026-11-20T15:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b0651bbf861b",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/tva-danskar-misstanks-ha-deltagit-i-ryskt-attentatsforsok",
+      "guid": "https://www.dn.se/varlden/tva-danskar-misstanks-ha-deltagit-i-ryskt-attentatsforsok/",
+      "published_at": "2026-11-20T15:26:55+01:00",
+      "fetched_at": "2026-11-20T15:31:02+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/4995caa0-30b1-4927-99c6-4f9d70143081.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Två danskar misstänks ha deltagit i ryskt attentatsförsök",
+        "summary": "Två danska män misstänks ha anlitats av den ryska underrättelsetjänsten för att mörda en ukrainsk rappare, rapporterar Danmarks Radio. Det kan röra sig om den allvarligaste attacken hittills i Rysslands skuggkrig mot Danmark.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two Danes suspected of taking part in Russian assassination attempt",
+        "summary": "Two Danish men are suspected of having been hired by Russian intelligence to murder a Ukrainian rapper, Danmarks Radio reports. It may be the most serious attack so far in Russia's shadow war against Denmark."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T15:31:09+01:00"
+      }
+    },
+    {
+      "id": "d1da7c331719",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347083",
+      "guid": "rss:sr.se/article/9347083",
+      "published_at": "2026-11-20T15:22:00+01:00",
+      "fetched_at": "2026-11-20T15:31:02+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Expert: ”Brobombningarna en del av förhandlingsspel”",
+        "summary": "De senaste dagarnas bombningar av broar på båda sidor är en upptrappning av Ukrainakriget som ska ses som del i ett förhandlingsspel, säger Johan Huovinen vid Försvarshögskolan. Inför den femte krigsvintern har mycket lite hänt vid frontlinjerna, medan Ryssland fått övertaget i luften.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Expert: \"Bridge bombings part of negotiation game\"",
+        "summary": "The bombings of bridges on both sides in recent days are an escalation of the Ukraine war that should be seen as part of a negotiation game, says Johan Huovinen at the Swedish Defence University. Ahead of the fifth winter of war, very little has happened at the front lines, while Russia has gained the upper hand in the air."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T15:31:09+01:00"
+      }
+    },
     {
       "id": "4a75a4903576",
       "schema_version": 1,
@@ -5326,58 +5379,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T00:01:18+01:00"
-      }
-    },
-    {
-      "id": "13b2b3daea73",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/expertens-forvaning-over-putins-narvaro-teorin",
-      "guid": "https://www.expressen.se/nyheter/varlden/expertens-forvaning-over-putins-narvaro-teorin/",
-      "published_at": "2026-11-18T23:40:40+01:00",
-      "fetched_at": "2026-11-18T23:41:47+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Expertens förvåning över Putins närvaro – teorin",
-        "summary": "Donald Trump besöker Kinas president Xi Jinping – och på plats är också Vladimir Putin. Det förvånar Kinaexperten Björn Jerdén. – Putin har ju harvat i norrettan här ett par säsonger, men nu bjuds han in till Champions League, säger han i ”Aktuellt”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Expert surprised by Putin's presence – the theory",
-        "summary": "Donald Trump is visiting Chinese President Xi Jinping – and Vladimir Putin is also present. China expert Björn Jerdén is surprised by this. – Putin has been grinding away in the minor leagues here for a couple of seasons, but now he's being invited to the Champions League, he says on \"Aktuellt\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T23:41:52+01:00"
-      }
-    },
-    {
-      "id": "cbef93fae220",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345784",
-      "guid": "rss:sr.se/article/9345784",
-      "published_at": "2026-11-18T22:55:00+01:00",
-      "fetched_at": "2026-11-18T23:01:06+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Nya attacker i Gaza – tusentals palestinier på flykt",
-        "summary": "Israel har under dagen inlett en ny offensiv i Gaza. Det är den första större markräden i området sedan vapenvilan hösten 2025. Lina Malers, Ekots Mellanösternkorrespondent, berättar att tusentals palestinier nu flyr attackerna.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "New attacks in Gaza – thousands of Palestinians flee",
-        "summary": "Israel has launched a new offensive in Gaza today. It is the first major ground raid in the area since the ceasefire in autumn 2025. Lina Maler, Ekot's Middle East correspondent, reports that thousands of Palestinians are now fleeing the attacks."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T23:01:13+01:00"
       }
     }
   ]
