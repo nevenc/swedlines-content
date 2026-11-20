@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-20T08:45:49+01:00",
+  "generated_at": "2026-11-20T09:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ff7b15d71ef5",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/sundlings-styrkebesked-snabbast-i-premiaren",
+      "guid": "a001545e-eab0-4f8c-95a6-935aeb0ad7de",
+      "published_at": "2026-11-20T09:00:41+01:00",
+      "fetched_at": "2026-11-20T09:01:12+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Sundlings styrkebesked – snabbast i premiären",
+        "summary": "Jonna Sundling visade stark form direkt längdpremiären i Bruksvallarna. Den svenska superstjärnan var snabbast i sprintkvalet när det seedade fältet kört. Hon var drygt två sekunder före Linn Svahn på en andraplats och Maja Dahlqvist som körde in som trea. Kvalet pågår.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Sundling's show of strength – fastest in the opener",
+        "summary": "Jonna Sundling showed strong form in the cross-country season opener in Bruksvallarna. The Swedish superstar was fastest in the sprint qualifier once the seeded field had skied. She was just over two seconds ahead of Linn Svahn in second place, with Maja Dahlqvist finishing third. Qualifying continues."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T09:01:24+01:00"
+      }
+    },
+    {
+      "id": "1188d8519661",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/en-kanonskytt-ar-guld-vard-for-redhawks-bara-att-skjuta",
+      "guid": "f7d38816-3343-4dfa-9b6c-43fdf1c25132",
+      "published_at": "2026-11-20T09:00:00+01:00",
+      "fetched_at": "2026-11-20T09:01:12+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/44e2d911-9b6b-4d66-b6bf-2a4200cee9bf.jpeg?width=600",
+      "sv": {
+        "title": "Kanonskytten guld värd för Redhawks: ”Bara att skjuta”",
+        "summary": "En dryg minut in i förlängningen klappade Oliwer Kaski in segermålet. Han firade stort med fansen på ståplats. – Jag tycker att de gjorde ett riktigt bra jobb med stämningen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Top scorer worth gold for the Redhawks: \"Just shoot\"",
+        "summary": "A little over a minute into overtime, Oliwer Kaski scored the winning goal. He celebrated big with the fans in the standing area. – I think they did a really good job with the atmosphere."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T09:01:24+01:00"
+      }
+    },
+    {
+      "id": "4b6fcc4ef8e3",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/svensk-kvinna-hittad-dod-i-filippinerna",
+      "guid": "3abb2259-ccae-49d0-9cab-b35bf0b52819",
+      "published_at": "2026-11-20T08:49:43+01:00",
+      "fetched_at": "2026-11-20T09:01:12+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Svensk kvinna hittad död i Filippinerna",
+        "summary": "En svensk kvinna i 70-årsåldern har dött i Filippinerna. Enligt filippinska medier ska kvinnan ha skjutits till döds, rapporterar Expressen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish woman found dead in the Philippines",
+        "summary": "A Swedish woman in her 70s has died in the Philippines. According to Philippine media, the woman is said to have been shot dead, reports Expressen."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T09:01:24+01:00"
+      }
+    },
     {
       "id": "d43584c9897c",
       "schema_version": 1,
@@ -5113,79 +5192,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T07:31:11+01:00"
-      }
-    },
-    {
-      "id": "7e6a636259d8",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/expert-osannolikt-att-bron-kan-lagas-under-kriget",
-      "guid": "07a564a0-e9c3-4e05-931b-db0055710a05",
-      "published_at": "2026-11-18T07:07:42+01:00",
-      "fetched_at": "2026-11-18T07:15:48+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/73f7e4e7-60c1-42d6-b76e-07989add9eac.jpg?width=600",
-      "sv": {
-        "title": "Expert: Osannolikt att bron kan lagas under kriget",
-        "summary": "Delar av Krimbron ligger på havets botten efter riktade ukrainska attacker. Ryssland lovar att bygga upp den, men militärexperten Emil Kastehelmi ser det som osannolikt, så länge som kriget pågår. – Det går inte bara att bygga en ny stålkropp och sätta den på plats, säger han till TT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Expert: Unlikely the bridge can be repaired during the war",
-        "summary": "Parts of the Crimean Bridge lie on the seabed after targeted Ukrainian attacks. Russia promises to rebuild it, but military expert Emil Kastehelmi sees this as unlikely as long as the war continues. – It's not just a matter of building a new steel structure and putting it in place, he tells TT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "98c1edf18bda",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/villa-i-loddekopinge-dyraste-forsaljningen-i-ar",
-      "guid": "2dbe474b-b617-48db-8c3c-5b30ce7cb182",
-      "published_at": "2026-11-18T07:03:11+01:00",
-      "fetched_at": "2026-11-18T07:15:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Villa i Löddeköpinge dyraste försäljningen i år"
-      },
-      "en": {
-        "title": "Villa in Löddeköpinge the most expensive sale this year"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "069018a00480",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-villa-Gh6oW",
-      "guid": "2f3285eb-819b-48f6-b86b-053a23d6f2d6",
-      "published_at": "2026-11-18T07:02:51+01:00",
-      "fetched_at": "2026-11-18T07:15:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nya ägare till villa"
-      },
-      "en": {
-        "title": "New owners of villa"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
       }
     }
   ]
