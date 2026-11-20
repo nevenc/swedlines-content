@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-20T13:45:48+01:00",
+  "generated_at": "2026-11-20T14:01:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3f57b7dce0c3",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7InWCJQbanrxuGtwVuojtz/kaellor-s-plan-foer-regeringsbildningen-fungerar-inte",
+      "guid": "7InWCJQbanrxuGtwVuojtz",
+      "published_at": "2026-11-20T13:50:27+01:00",
+      "fetched_at": "2026-11-20T14:01:20+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Regeringsbildningen"
+      ],
+      "sv": {
+        "title": "S plan fungerar inte: ”Det är stumt”",
+        "summary": "Källor: Låsta positioner • ”Rena skambud”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "S plan isn't working: \"It's silent\"",
+        "summary": "Sources: Locked positions • \"Outright lousy offers\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:01:29+01:00"
+      }
+    },
     {
       "id": "716cea21b6aa",
       "schema_version": 1,
@@ -29,6 +58,35 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T12:31:07+01:00"
+      }
+    },
+    {
+      "id": "e54d4c6d87ed",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/tt-261120-valregering1-ce661eb7/centern-v-vagrar-forhandla",
+      "guid": "tt-261120-valregering1-ce661eb7",
+      "published_at": "2026-11-20T12:20:11+01:00",
+      "fetched_at": "2026-11-20T14:01:20+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Ida Gabrielsson"
+      ],
+      "sv": {
+        "title": "Rödgröna befinner sig på hemlig ort – förhandlar under tidspress",
+        "summary": "Tredje statsministeromröstning nästa vecka",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Red-greens in secret location – negotiating under time pressure",
+        "summary": "Third prime ministerial vote next week"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:01:29+01:00"
       }
     },
     {
@@ -5711,64 +5769,6 @@
       "en": {
         "title": "New budget presented: 'A special political situation'",
         "summary": "Since Sweden still lacks a new government, the finance minister is presenting a so-called transitional budget. – We are in a special political situation. The government formation is taking time and we need to deal with that."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "6fed7439aab9",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/50lkC4XIUlQqWLzLNY639l/hyresgaesternas-snusklarm-bland-de-vaersta-koek-jag-sett",
-      "guid": "50lkC4XIUlQqWLzLNY639l",
-      "published_at": "2026-11-12T06:17:55+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Hyresgästernas snusklarm: ”Bland de värsta kök jag sett”",
-        "summary": "Bland loftgångar och bakom fasaderna mitt i Vårberg centrum visar Hyresgästföreningens jurist Nicklas Tulldahl en lägenhet för TV4. Köksluckor hänger löst, diskbänken sitter inte fast och ventilationen luktar så illa att den har täppts igen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Tenants' squalor alarm: 'Among the worst kitchens I have seen'",
-        "summary": "Among the access balconies and behind the facades in the middle of Vårberg centrum, the Tenants' Association's lawyer Nicklas Tulldahl shows TV4 a flat. Kitchen cupboard doors hang loose, the sink is not fixed and the ventilation smells so bad that it has been blocked up."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "0323a0bb830f",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/6v140DwUudkTri0gfx65K0/skarsgard-vaeljer-sm-guld-foer-hammarby-foere-en-oscars",
-      "guid": "6v140DwUudkTri0gfx65K0",
-      "published_at": "2026-11-11T22:20:38+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Skarsgård väljer SM-guld till Hammarby före en Oscar",
-        "summary": "Alexander Skarsgård gästade röda mattan på Stockholms filmfestival på onsdagskvällen i samband med den nordiska premiären av hans nya film Wicker. Men när TV4 Nyheterna fick en pratstund med världsstjärnan handlade det inte om filmrollen, utan om fotboll och Hammarbys chanser att ta sitt första…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Skarsgård picks a Swedish title for Hammarby over an Oscar",
-        "summary": "Alexander Skarsgård graced the red carpet at the Stockholm Film Festival on Wednesday evening for the Nordic premiere of his new film Wicker. But when TV4 Nyheterna got a chat with the world star, it was not about the film role but about football and Hammarby's chances of taking their first…"
       },
       "translation": {
         "status": "done",

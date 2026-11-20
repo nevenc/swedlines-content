@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-20T13:45:48+01:00",
+  "generated_at": "2026-11-20T14:01:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3b21a88c3b9a",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347166",
+      "guid": "rss:sr.se/article/9347166",
+      "published_at": "2026-11-20T13:59:00+01:00",
+      "fetched_at": "2026-11-20T14:01:18+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Ekot erfar: S har lämnat bud till V och fått nobben",
+        "summary": "Enligt flera källor till Ekot ska Socialdemokraterna under de pågående regeringsförhandlingarna ha lämnat över ett bud till Vänsterpartiet som partiet nu ska ha tackat nej till.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Ekot learns: S has made offer to V and been turned down",
+        "summary": "According to several sources to Ekot, the Social Democrats have, during the ongoing government negotiations, submitted an offer to the Left Party, which the party now reportedly has rejected."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:01:29+01:00"
+      }
+    },
+    {
+      "id": "9e96d8520d9c",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347155",
+      "guid": "rss:sr.se/article/9347155",
+      "published_at": "2026-11-20T13:49:00+01:00",
+      "fetched_at": "2026-11-20T14:01:18+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Ulf Kristersson i P4 Extra: ”Inte en sekund rädd för ett extraval”",
+        "summary": "Moderaternas partiledare Ulf Kristersson intervjuades i P4 Extra på fredagseftermiddagen. Omkring 70 dagar efter valet leder han en övergångsregering i väntan på att riksdagen ska välja en ny regeringsbildare.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Ulf Kristersson in P4 Extra: \"Not one second afraid of a snap election\"",
+        "summary": "Moderates leader Ulf Kristersson was interviewed in P4 Extra on Friday afternoon. About 70 days after the election, he leads a transitional government while awaiting the Riksdag to choose a new government formateur."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:01:29+01:00"
+      }
+    },
     {
       "id": "bccdf1572cef",
       "schema_version": 1,
@@ -5148,58 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:00:32+01:00"
-      }
-    },
-    {
-      "id": "453314fd00c6",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340837",
-      "guid": "rss:sr.se/article/9340837",
-      "published_at": "2026-11-14T07:21:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "USA förlorar sin status som mässlingsfritt",
-        "summary": "Mässlingsutbrott pågår runtom i USA. Antalet registrerade fall hittills i år överstiger 5 000 och åtta personer har dött. Nu förlorar USA sin status som mässlingsfritt, som man fick år 2000, rapporterar The Washington Post och hänvisar till en källa med insyn i beslutet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "USA loses its measles-free status",
-        "summary": "Measles outbreaks are ongoing across the USA. The number of registered cases so far this year exceeds 5,000 and eight people have died. Now the USA is losing its measles-free status, which it gained in 2000, reports The Washington Post, citing a source with insight into the decision."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:42+01:00"
-      }
-    },
-    {
-      "id": "1e418da16906",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340574",
-      "guid": "rss:sr.se/article/9340574",
-      "published_at": "2026-11-14T06:10:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "LO:s medlemmar om regeringsbildningen: ”Vuxendagis”",
-        "summary": "LO:s ordförande Johan Lindholm reagerar med frustration på den utdragna regeringsprocessen. ”Jag har lagt mycket tid ute på landets arbetsplatser innan valdagen och hört frustration över att det handlat mer om vem som tar vem.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "LO members on the government formation: \"Grown-up daycare\"",
-        "summary": "LO chair Johan Lindholm reacts with frustration to the protracted government process. \"I have spent a lot of time at workplaces across the country before election day and heard frustration that it was more about who takes whom."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T19:00:52+01:00"
       }
     }
   ]

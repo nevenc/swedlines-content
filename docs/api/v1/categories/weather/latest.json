@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-20T13:45:48+01:00",
-  "count": 47,
+  "generated_at": "2026-11-20T14:01:30+01:00",
+  "count": 49,
   "items": [
+    {
+      "id": "587819a36a45",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/vader/snoovader-drar-in--varning-forlangs",
+      "guid": "https://www.expressen.se/nyheter/vader/snoovader-drar-in--varning-forlangs/",
+      "published_at": "2026-11-20T13:56:44+01:00",
+      "fetched_at": "2026-11-20T14:01:20+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "Snöoväder drar in – varning förlängs",
+        "summary": "Snart drar ett kraftigare snöfall in över Stockholmsområdet. Nu förlänger SMHI den gula varningen med 12 timmar. – Det kommer att mata på med snö, säger meteorologen Marie Staerk.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Snow arrives – warning extended",
+        "summary": "A heavier snowfall is soon moving in over the Stockholm area. SMHI is now extending the yellow warning by 12 hours. \"It will keep snowing,\" says meteorologist Marie Staerk."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:01:29+01:00"
+      }
+    },
+    {
+      "id": "7b61bb4b109a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/smhi-forlanger-gul-snovarning-halt-pa-vagarna",
+      "guid": "a5237ac9-6a01-498c-ac15-0881ddad69e2",
+      "published_at": "2026-11-20T13:46:55+01:00",
+      "fetched_at": "2026-11-20T14:01:22+01:00",
+      "category": "weather",
+      "image_url": "https://static.bonniernews.se/ba/19e5641b-b92a-4720-af70-a41a852fd724.jpg?width=600",
+      "sv": {
+        "title": "SMHI förlänger gul snövarning – halt på vägarna",
+        "summary": "SMHI förlänger den gula varningen för snöfall i östra Svealand. Flera trafikolyckor har under fredagen inträffat på hala vägar runtom i landet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI extends yellow snow warning – slippery roads",
+        "summary": "SMHI is extending the yellow warning for snowfall in eastern Svealand. Several traffic accidents have occurred on icy roads across the country during Friday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T14:01:29+01:00"
+      }
+    },
     {
       "id": "ffa0673bfa08",
       "schema_version": 1,
