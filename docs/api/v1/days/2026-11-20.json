@@ -1,7 +1,135 @@
 {
-  "generated_at": "2026-11-20T18:45:56+01:00",
-  "count": 568,
+  "generated_at": "2026-11-20T19:01:30+01:00",
+  "count": 575,
   "items": [
+    {
+      "id": "b228db9995d4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trumps-tullhot-mot-amerikanska-foretag",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-tullhot-mot-amerikanska-foretag/",
+      "published_at": "2026-11-20T18:55:15+01:00",
+      "fetched_at": "2026-11-20T19:01:24+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trumps tullhot – mot amerikanska företag",
+        "summary": "Donald Trump förbjuder amerikanska företag från att bygga datacenter i andra länder än USA. – Den som vinner AI vinner allt, säger Donald Trump på en pressträff på fredagen. Företag som går emot honom hotas med strafftullar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's tariff threat – against American companies",
+        "summary": "Donald Trump bans American companies from building data centres in countries other than the USA. – The one who wins AI wins everything, says Donald Trump at a press conference on Friday. Companies that go against him are threatened with punitive tariffs."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
+    {
+      "id": "8003dccb893e",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80131",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80131&utm_medium=rss",
+      "published_at": "2026-11-20T18:53:41+01:00",
+      "fetched_at": "2026-11-20T19:01:21+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trump: Stopp för amerikanska datacenter utomlands"
+      },
+      "en": {
+        "title": "Trump: Halt to American data centres abroad"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
+    {
+      "id": "50ed23313064",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/lararens-sexuppmaning-till-eleverna-tappa-oskulden",
+      "guid": "https://www.expressen.se/nyheter/sverige/lararens-sexuppmaning-till-eleverna-tappa-oskulden/",
+      "published_at": "2026-11-20T18:50:12+01:00",
+      "fetched_at": "2026-11-20T19:01:24+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Lärarens sexuppmaning till eleverna: ”Tappa oskulden”",
+        "summary": "Eleverna gjorde sig redo för sin klassresa. Även läraren var förberedd. – Det som händer på ön stannar på ön, förklarade han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Teacher's sexual urging to pupils: \"Lose your virginity\"",
+        "summary": "The pupils got ready for their class trip. The teacher was also prepared. – What happens on the island stays on the island, he explained."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
+    {
+      "id": "27f5365cc84e",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/9BvW0p/polisen-ska-utreda-djurplageri-vid-kycklinggarden",
+      "guid": "https://www.aftonbladet.se/nyheter/a/9BvW0p/polisen-ska-utreda-djurplageri-vid-kycklinggarden?utm_medium=rss",
+      "published_at": "2026-11-20T18:48:55+01:00",
+      "fetched_at": "2026-11-20T19:01:23+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/18478d46-d919-34ea-a0a7-00600f85fd23?format=auto&s=70e00a332949c52b58f04a3be66dfd8de715cb41&w=1000",
+      "sv": {
+        "title": "Polisen ska utreda djurplågeri vid kycklinggården",
+        "summary": "Går vidare efter 200 sekunders avslöjande",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police to investigate animal cruelty at chicken farm",
+        "summary": "Follows 200-second exposé"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
+    {
+      "id": "e5e1f8c1cb2b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=66e202b0-8ec0-4034-a3da-92a1d4a1bc0a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=66e202b0-8ec0-4034-a3da-92a1d4a1bc0a",
+      "published_at": "2026-11-20T18:48:36+01:00",
+      "fetched_at": "2026-11-20T19:01:24+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trump: Förbjuder byggandet av datacenter i andra länder",
+        "summary": "Riktar sig till amerikanska företag",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump: Bans construction of data centres in other countries",
+        "summary": "Targets American companies"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
     {
       "id": "ed4a2cff7756",
       "schema_version": 1,
@@ -56,6 +184,44 @@
       }
     },
     {
+      "id": "c81453f23d41",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/har-tagar-ungdomar-i-goteborg-for-en-battre-framtid.e6c75794-c1cf-5cb6-875b-50a000df197d",
+      "guid": "e6c75794-c1cf-5cb6-875b-50a000df197d",
+      "published_at": "2026-11-20T18:28:49+01:00",
+      "fetched_at": "2026-11-20T19:01:25+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: breaking-GP",
+        "Tagg: Europa",
+        "Tagg: Studenter",
+        "Tagg: Avenyn",
+        "Tagg: Rebellmammorna",
+        "Tagg: Göteborg",
+        "Tagg: Polisen",
+        "Tagg: Ung Vänster"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/d1e7b23e-e640-3673-ab4b-b245ab3016cc",
+      "sv": {
+        "title": "Här tågar ungdomarna – för en bättre framtid",
+        "summary": "”Förhoppningsvis kan vi visa att vi också har makt” • Studentprotester intog Göteborg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here the youths march – for a better future",
+        "summary": "\"Hopefully we can show that we also have power\" • Student protests took over Göteborg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
+    {
       "id": "531379457860",
       "schema_version": 1,
       "source": "expressen",
@@ -79,6 +245,37 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
+    {
+      "id": "3cb9d936b486",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/gais/gais-om-nikola-vasics-framtid-da-kan-beskedet-komma.d5ccba14-99ed-52c4-8ee8-d9dd5673b7da",
+      "guid": "d5ccba14-99ed-52c4-8ee8-d9dd5673b7da",
+      "published_at": "2026-11-20T18:24:23+01:00",
+      "fetched_at": "2026-11-20T19:01:25+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Gais",
+        "Tagg: Gais"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/f337bdf9-8bb9-3d90-a28a-f1cff36c6338",
+      "sv": {
+        "title": "Gais-direktörens svar – om Nikola Vasic framtid",
+        "summary": "Kontraktet löper ut – blir anfallaren kvar eller inte?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gais director's answer – on Nikola Vasic's future",
+        "summary": "The contract is running out – will the striker stay or not?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
       }
     },
     {

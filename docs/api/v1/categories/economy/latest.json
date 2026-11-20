@@ -1,7 +1,82 @@
 {
-  "generated_at": "2026-11-20T18:45:56+01:00",
+  "generated_at": "2026-11-20T19:01:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b228db9995d4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trumps-tullhot-mot-amerikanska-foretag",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-tullhot-mot-amerikanska-foretag/",
+      "published_at": "2026-11-20T18:55:15+01:00",
+      "fetched_at": "2026-11-20T19:01:24+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trumps tullhot – mot amerikanska företag",
+        "summary": "Donald Trump förbjuder amerikanska företag från att bygga datacenter i andra länder än USA. – Den som vinner AI vinner allt, säger Donald Trump på en pressträff på fredagen. Företag som går emot honom hotas med strafftullar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's tariff threat – against American companies",
+        "summary": "Donald Trump bans American companies from building data centres in countries other than the USA. – The one who wins AI wins everything, says Donald Trump at a press conference on Friday. Companies that go against him are threatened with punitive tariffs."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
+    {
+      "id": "8003dccb893e",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80131",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80131&utm_medium=rss",
+      "published_at": "2026-11-20T18:53:41+01:00",
+      "fetched_at": "2026-11-20T19:01:21+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trump: Stopp för amerikanska datacenter utomlands"
+      },
+      "en": {
+        "title": "Trump: Halt to American data centres abroad"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
+    {
+      "id": "e5e1f8c1cb2b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=66e202b0-8ec0-4034-a3da-92a1d4a1bc0a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=66e202b0-8ec0-4034-a3da-92a1d4a1bc0a",
+      "published_at": "2026-11-20T18:48:36+01:00",
+      "fetched_at": "2026-11-20T19:01:24+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trump: Förbjuder byggandet av datacenter i andra länder",
+        "summary": "Riktar sig till amerikanska företag",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump: Bans construction of data centres in other countries",
+        "summary": "Targets American companies"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
     {
       "id": "d6cbb634a0d4",
       "schema_version": 1,
@@ -5220,84 +5295,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T21:15:59+01:00"
-      }
-    },
-    {
-      "id": "1f1785be7025",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/gasell/hans-mjukvara-gor-varldens-fartyg-energisnalare",
-      "guid": "a2833711-eb80-5281-bdcb-84ade7a302bd",
-      "published_at": "2026-11-19T21:00:00+01:00",
-      "fetched_at": "2026-11-19T21:15:49+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Hans mjukvara gör världens fartyg energisnålare",
-        "summary": "Jens Stjärna, grundare av CATC AB, levererar automationslösningar till allt från Älvsnabben i Göteborg till kryssningsjättar i Miami.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "His software makes the world's ships more energy-efficient",
-        "summary": "Jens Stjärna, founder of CATC AB, supplies automation solutions to everything from Älvsnabben in Göteborg to cruise giants in Miami."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T21:15:59+01:00"
-      }
-    },
-    {
-      "id": "629cf4e1637f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/gasell/fran-motstand-till-sjalvklarhet-sa-tog-de-in-mensskydd-pa-arbetsplatserna",
-      "guid": "d75e8ce8-ab2f-5a65-add6-5a2718512b16",
-      "published_at": "2026-11-19T21:00:00+01:00",
-      "fetched_at": "2026-11-19T21:15:49+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Från motstånd till självklarhet – så tog de in mensskydd på arbetsplatserna",
-        "summary": "Ett självupplevt problem blev startskottet för Herbox. Hör grundarna Linn Rosenqvist och Hanna Lauste om resan till en omsättning på över 20 miljoner kronor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "From resistance to taken for granted – how they brought period protection into workplaces",
-        "summary": "A self-experienced problem became the starting point for Herbox. Listen to founders Linn Rosenqvist and Hanna Lauste about the journey to turnover of over SEK 20 million."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T21:15:59+01:00"
-      }
-    },
-    {
-      "id": "07ae9d59fb8a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/ecb-ledamot-maste-undvika-att-inflationen-far-faste",
-      "guid": "83fa5b2f-357d-4cd1-a5c3-46b2e49cfe95",
-      "published_at": "2026-11-19T20:38:46+01:00",
-      "fetched_at": "2026-11-19T20:45:54+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "ECB-ledamot: ”Måste undvika att inflationen får fäste”",
-        "summary": "Det är upp till ECB att förhindra att inflationen blir varaktigt etablerad, men samtidigt måste centralbanken undvika att orsaka onödigt stora skada på den ekonomin. Det sade ECB-rådsledamoten Fabio Panetta, skriver Bloomberg News.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "ECB member: \"Must prevent inflation from taking hold\"",
-        "summary": "It is up to the ECB to prevent inflation from becoming permanently entrenched, but at the same time the central bank must avoid causing unnecessarily large damage to the economy. That is what ECB Governing Council member Fabio Panetta said, according to Bloomberg News."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T20:45:59+01:00"
       }
     }
   ]

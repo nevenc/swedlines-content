@@ -1,7 +1,135 @@
 {
-  "generated_at": "2026-11-20T18:45:56+01:00",
+  "generated_at": "2026-11-20T19:01:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b228db9995d4",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trumps-tullhot-mot-amerikanska-foretag",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-tullhot-mot-amerikanska-foretag/",
+      "published_at": "2026-11-20T18:55:15+01:00",
+      "fetched_at": "2026-11-20T19:01:24+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trumps tullhot – mot amerikanska företag",
+        "summary": "Donald Trump förbjuder amerikanska företag från att bygga datacenter i andra länder än USA. – Den som vinner AI vinner allt, säger Donald Trump på en pressträff på fredagen. Företag som går emot honom hotas med strafftullar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's tariff threat – against American companies",
+        "summary": "Donald Trump bans American companies from building data centres in countries other than the USA. – The one who wins AI wins everything, says Donald Trump at a press conference on Friday. Companies that go against him are threatened with punitive tariffs."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
+    {
+      "id": "8003dccb893e",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80131",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80131&utm_medium=rss",
+      "published_at": "2026-11-20T18:53:41+01:00",
+      "fetched_at": "2026-11-20T19:01:21+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trump: Stopp för amerikanska datacenter utomlands"
+      },
+      "en": {
+        "title": "Trump: Halt to American data centres abroad"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
+    {
+      "id": "50ed23313064",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/lararens-sexuppmaning-till-eleverna-tappa-oskulden",
+      "guid": "https://www.expressen.se/nyheter/sverige/lararens-sexuppmaning-till-eleverna-tappa-oskulden/",
+      "published_at": "2026-11-20T18:50:12+01:00",
+      "fetched_at": "2026-11-20T19:01:24+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Lärarens sexuppmaning till eleverna: ”Tappa oskulden”",
+        "summary": "Eleverna gjorde sig redo för sin klassresa. Även läraren var förberedd. – Det som händer på ön stannar på ön, förklarade han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Teacher's sexual urging to pupils: \"Lose your virginity\"",
+        "summary": "The pupils got ready for their class trip. The teacher was also prepared. – What happens on the island stays on the island, he explained."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
+    {
+      "id": "27f5365cc84e",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/9BvW0p/polisen-ska-utreda-djurplageri-vid-kycklinggarden",
+      "guid": "https://www.aftonbladet.se/nyheter/a/9BvW0p/polisen-ska-utreda-djurplageri-vid-kycklinggarden?utm_medium=rss",
+      "published_at": "2026-11-20T18:48:55+01:00",
+      "fetched_at": "2026-11-20T19:01:23+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/18478d46-d919-34ea-a0a7-00600f85fd23?format=auto&s=70e00a332949c52b58f04a3be66dfd8de715cb41&w=1000",
+      "sv": {
+        "title": "Polisen ska utreda djurplågeri vid kycklinggården",
+        "summary": "Går vidare efter 200 sekunders avslöjande",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police to investigate animal cruelty at chicken farm",
+        "summary": "Follows 200-second exposé"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
+    {
+      "id": "e5e1f8c1cb2b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=66e202b0-8ec0-4034-a3da-92a1d4a1bc0a",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=66e202b0-8ec0-4034-a3da-92a1d4a1bc0a",
+      "published_at": "2026-11-20T18:48:36+01:00",
+      "fetched_at": "2026-11-20T19:01:24+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Trump: Förbjuder byggandet av datacenter i andra länder",
+        "summary": "Riktar sig till amerikanska företag",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump: Bans construction of data centres in other countries",
+        "summary": "Targets American companies"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
     {
       "id": "ed4a2cff7756",
       "schema_version": 1,
@@ -56,6 +184,44 @@
       }
     },
     {
+      "id": "c81453f23d41",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/har-tagar-ungdomar-i-goteborg-for-en-battre-framtid.e6c75794-c1cf-5cb6-875b-50a000df197d",
+      "guid": "e6c75794-c1cf-5cb6-875b-50a000df197d",
+      "published_at": "2026-11-20T18:28:49+01:00",
+      "fetched_at": "2026-11-20T19:01:25+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: breaking-GP",
+        "Tagg: Europa",
+        "Tagg: Studenter",
+        "Tagg: Avenyn",
+        "Tagg: Rebellmammorna",
+        "Tagg: Göteborg",
+        "Tagg: Polisen",
+        "Tagg: Ung Vänster"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/d1e7b23e-e640-3673-ab4b-b245ab3016cc",
+      "sv": {
+        "title": "Här tågar ungdomarna – för en bättre framtid",
+        "summary": "”Förhoppningsvis kan vi visa att vi också har makt” • Studentprotester intog Göteborg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here the youths march – for a better future",
+        "summary": "\"Hopefully we can show that we also have power\" • Student protests took over Göteborg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
+    {
       "id": "531379457860",
       "schema_version": 1,
       "source": "expressen",
@@ -79,6 +245,37 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T18:31:09+01:00"
+      }
+    },
+    {
+      "id": "3cb9d936b486",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/gais/gais-om-nikola-vasics-framtid-da-kan-beskedet-komma.d5ccba14-99ed-52c4-8ee8-d9dd5673b7da",
+      "guid": "d5ccba14-99ed-52c4-8ee8-d9dd5673b7da",
+      "published_at": "2026-11-20T18:24:23+01:00",
+      "fetched_at": "2026-11-20T19:01:25+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Gais",
+        "Tagg: Gais"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/f337bdf9-8bb9-3d90-a28a-f1cff36c6338",
+      "sv": {
+        "title": "Gais-direktörens svar – om Nikola Vasic framtid",
+        "summary": "Kontraktet löper ut – blir anfallaren kvar eller inte?",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gais director's answer – on Nikola Vasic's future",
+        "summary": "The contract is running out – will the striker stay or not?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
       }
     },
     {
@@ -5264,208 +5461,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T13:45:48+01:00"
-      }
-    },
-    {
-      "id": "89aa5c7ec142",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/klimat/a/4EqQBq/urvattnat-utkast-pa-cop-igen-i-dag-ska-nya-dokumentet-vara-klart",
-      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/4EqQBq/urvattnat-utkast-pa-cop-igen-i-dag-ska-nya-dokumentet-vara-klart?utm_medium=rss",
-      "published_at": "2026-11-20T13:30:31+01:00",
-      "fetched_at": "2026-11-20T13:45:43+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/d5727241-abf9-3b82-a6ef-b3ea851d3a18?format=auto&s=a222a349ad1aefa55979ca846c4a41346461ae22&w=1000",
-      "sv": {
-        "title": "Urvattnat utkast på COP igen – i dag ska nya dokumentet vara klart",
-        "summary": "COP31 ”Tävling mellan hycklare”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Watered-down draft at COP again – new document due to be finished today",
-        "summary": "COP31 \"Competition between hypocrites\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:45:48+01:00"
-      }
-    },
-    {
-      "id": "5ff658ca07be",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/aGwe9L/forsvarsmaktens-livsmedelsberedskap-ar-hog-skriver-david-moheim-i-en-replik",
-      "guid": "https://www.svd.se/a/aGwe9L/forsvarsmaktens-livsmedelsberedskap-ar-hog-skriver-david-moheim-i-en-replik?utm_medium=rss",
-      "published_at": "2026-11-20T13:30:00+01:00",
-      "fetched_at": "2026-11-20T13:31:01+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/2e88cd61-0b18-3bda-9248-0b5c0c403eda?format=auto&s=ca3d1541e9c93ebbd5956d93c2fcb7e540d921da&w=1000",
-      "sv": {
-        "title": "”Försvarsmaktens beredskap är hög”",
-        "summary": "Försvarsmakten har under senare år markant ökat sin beredskap och uthållighet inom livsmedels- och…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "“The Armed Forces’ readiness is high”",
-        "summary": "The Armed Forces have markedly increased their readiness and endurance in recent years within food and…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:31:20+01:00"
-      }
-    },
-    {
-      "id": "348d4b0bb991",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/carl-henric-svanberg-om-svara-tiden-efter-operationen",
-      "guid": "https://www.expressen.se/nyheter/sverige/carl-henric-svanberg-om-svara-tiden-efter-operationen/",
-      "published_at": "2026-11-20T13:28:49+01:00",
-      "fetched_at": "2026-11-20T13:31:03+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Carl-Henric Svanberg om svåra tiden efter operationen",
-        "summary": "Näringslivstoppen Carl-Henric Svanberg fick cancer av asbest. Nu berättar han om den svåra tiden efteråt. – Jag var ju i princip förlamad, säger han i en intervju med Di Weekend.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Carl-Henric Svanberg on the difficult time after the operation",
-        "summary": "Business leader Carl-Henric Svanberg developed cancer from asbestos. Now he talks about the difficult time afterwards. – I was basically paralysed, he says in an interview with Di Weekend."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:31:20+01:00"
-      }
-    },
-    {
-      "id": "7339ac7072e4",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/calle-halfvarsson-diskad-tog-fel-skidor.d0819d59-159c-57f4-aa09-5e163bc64e05",
-      "guid": "d0819d59-159c-57f4-aa09-5e163bc64e05",
-      "published_at": "2026-11-20T13:27:51+01:00",
-      "fetched_at": "2026-11-20T14:01:21+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Sport",
-        "Tagg: Calle Halfvarsson",
-        "Tagg: Bruksvallarna"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/d06c23df-b0c3-34ea-96a6-1df3b36ecb7d",
-      "sv": {
-        "title": "Calle Halfvarssons blunder – diskas",
-        "summary": "Var nära final – på fel skidor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Calle Halfvarsson's blunder – disqualified",
-        "summary": "Was close to the final – on the wrong skis."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T14:01:29+01:00"
-      }
-    },
-    {
-      "id": "094f18b89fa9",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/krim/babyface-begars-haktad-for-ny-valdtakt-i-goteborg.aa4a31df-41d0-5347-8a21-533eef4689e0",
-      "guid": "aa4a31df-41d0-5347-8a21-533eef4689e0",
-      "published_at": "2026-11-20T13:26:48+01:00",
-      "fetched_at": "2026-11-20T14:01:21+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Krim",
-        "Tagg: Göteborg",
-        "Tagg: Fängelse",
-        "Tagg: Våldtäkt",
-        "Tagg: Brottet",
-        "Tagg: Domar",
-        "Tagg: Sexualbrott"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/0067bc31-cee1-35ca-b8dd-7aba7167fbfe",
-      "sv": {
-        "title": "”Babyface” begärs häktad för ny våldtäkt i Göteborg",
-        "summary": "Spred skräck i staden för drygt 15 år sedan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Babyface\" requested remanded in custody for new rape in Göteborg",
-        "summary": "Spread fear in the city just over 15 years ago."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T14:01:29+01:00"
-      }
-    },
-    {
-      "id": "84cb60c0f77c",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/lander-struntar-i-forhandlingarna-enas-om-egen-utfasning",
-      "guid": "https://www.dn.se/varlden/lander-struntar-i-forhandlingarna-enas-om-egen-utfasning/",
-      "published_at": "2026-11-20T13:26:40+01:00",
-      "fetched_at": "2026-11-20T13:31:01+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/713b1d2c-ccc4-41a3-863d-9977bed9c371.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Länder struntar i förhandlingarna – enas om egen utfasning",
-        "summary": "Världens länder ser än en gång ut att misslyckas med att enas om en utfasning av fossila bränslen på klimatmötet i Turkiet. Men på mötets sista dag tog en växande grupp länder saken i egna händer och valde att strunta i konsensus.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Countries ignore the negotiations and agree on their own phase-out",
-        "summary": "The world's countries once again appear set to fail to agree on a phase-out of fossil fuels at the climate summit in Turkey. But on the meeting's last day, a growing group of countries took matters into their own hands and chose to disregard consensus."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:31:20+01:00"
-      }
-    },
-    {
-      "id": "7510ed4aa0be",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/mMRxp4/tidigare-s-ministern-rodgrona-har-en-chans-kvar",
-      "guid": "https://www.aftonbladet.se/nyheter/a/mMRxp4/tidigare-s-ministern-rodgrona-har-en-chans-kvar?utm_medium=rss",
-      "published_at": "2026-11-20T13:25:22+01:00",
-      "fetched_at": "2026-11-20T13:31:02+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/c684d070-a10b-38c1-916b-e35c287cb4ef?format=auto&s=18731ee9d4f4d621ef75ffb5a68a62c664c71466&w=1000",
-      "sv": {
-        "title": "Tidigare S-ministern: Rödgröna har en chans kvar",
-        "summary": "Tidigare S-ministern om regeringsknuten",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Former Social Democrat minister: the red-greens still have a chance",
-        "summary": "Former Social Democrat minister on the government deadlock"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T13:31:20+01:00"
       }
     }
   ]

@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-11-20T18:45:56+01:00",
+  "generated_at": "2026-11-20T19:01:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c81453f23d41",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/har-tagar-ungdomar-i-goteborg-for-en-battre-framtid.e6c75794-c1cf-5cb6-875b-50a000df197d",
+      "guid": "e6c75794-c1cf-5cb6-875b-50a000df197d",
+      "published_at": "2026-11-20T18:28:49+01:00",
+      "fetched_at": "2026-11-20T19:01:25+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: breaking-GP",
+        "Tagg: Europa",
+        "Tagg: Studenter",
+        "Tagg: Avenyn",
+        "Tagg: Rebellmammorna",
+        "Tagg: Göteborg",
+        "Tagg: Polisen",
+        "Tagg: Ung Vänster"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/d1e7b23e-e640-3673-ab4b-b245ab3016cc",
+      "sv": {
+        "title": "Här tågar ungdomarna – för en bättre framtid",
+        "summary": "”Förhoppningsvis kan vi visa att vi också har makt” • Studentprotester intog Göteborg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here the youths march – for a better future",
+        "summary": "\"Hopefully we can show that we also have power\" • Student protests took over Göteborg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
     {
       "id": "6c98ed2596ec",
       "schema_version": 1,
@@ -5399,39 +5437,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T17:31:12+01:00"
-      }
-    },
-    {
-      "id": "4af81556e1c5",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/goteborg/trafikverkets-forklaring-efter-dubbla-tagstopp-valdigt-smart-system.c0995a37-f6fb-582a-a7ab-976870a03f77",
-      "guid": "c0995a37-f6fb-582a-a7ab-976870a03f77",
-      "published_at": "2026-11-17T17:26:50+01:00",
-      "fetched_at": "2026-11-17T17:45:51+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Göteborg",
-        "Tagg: breaking-GP",
-        "Tagg: Tågstopp",
-        "Tagg: Trafikverket"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/350d8d02-c245-32c2-bb61-e3b25d0c69a7",
-      "sv": {
-        "title": "Flera tågstopp på kort tid: ”Väldigt smart system”",
-        "summary": "Därför har hundratals tågresenärer fastnat mellan Göteborg och Stockholm senaste dagarna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Several train stoppages in a short time: 'Very smart system'",
-        "summary": "This is why hundreds of train passengers have been stranded between Göteborg and Stockholm in recent days."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T17:45:57+01:00"
       }
     }
   ]
