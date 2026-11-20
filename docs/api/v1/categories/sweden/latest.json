@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T17:01:35+01:00",
+  "generated_at": "2026-11-20T17:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "99f4cb91ade1",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/fast-pa-balkongen-i-brinnande-hus-raddades-av-grannarna-i-pitea",
+      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/fast-pa-balkongen-i-brinnande-hus-raddades-av-grannarna-i-pitea",
+      "published_at": "2026-11-20T17:09:19+01:00",
+      "fetched_at": "2026-11-20T17:15:46+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Fast på balkongen i brinnande hus – räddades av grannarna i Piteå",
+        "summary": "När Sofia Wellborg såg sin granne i 90-årsåldern stå trängd på balkongen till den brinnande villan förstod hon att varje sekund kunde vara avgörande. Tillsammans med två andra grannar lyckades hon få ned honom från huset.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Stuck on the balcony of a burning house – rescued by neighbours in Piteå",
+        "summary": "When Sofia Wellborg saw her neighbour in his 90s standing trapped on the balcony of the burning villa, she understood that every second could be decisive. Together with two other neighbours, she managed to get him down from the house."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T17:15:55+01:00"
+      }
+    },
     {
       "id": "a02c43039979",
       "schema_version": 1,
@@ -27,6 +53,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T17:01:35+01:00"
+      }
+    },
+    {
+      "id": "85c636a1c2af",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/fyllegolf-slutade-med-dikeskorning-i-trosa",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/fyllegolf-slutade-med-dikeskorning-i-trosa",
+      "published_at": "2026-11-20T16:43:59+01:00",
+      "fetched_at": "2026-11-20T17:15:46+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Fyllegolf slutade med dikeskörning i Trosa",
+        "summary": "I somras fick ett grabbgängs årliga fyllegolfsturnering ett snöpligt slut. Vad som skulle blivit en avslutning i klubbhuset blev i stället en voltad golfbil i diket.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Drunk golf tournament ended in a ditch in Trosa",
+        "summary": "Over the summer, a group of lads' annual drunk golf tournament came to an embarrassing end. What was meant to be a finale in the clubhouse instead became an overturned golf cart in the ditch."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T17:15:55+01:00"
       }
     },
     {
@@ -5371,58 +5423,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T17:01:25+01:00"
-      }
-    },
-    {
-      "id": "4771f9e91585",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/stockholm/busschaufforer-i-norrtalje-utan-julbord-kanns-som-en-bestraffning",
-      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/busschaufforer-i-norrtalje-utan-julbord-kanns-som-en-bestraffning",
-      "published_at": "2026-11-17T16:53:59+01:00",
-      "fetched_at": "2026-11-17T16:54:21+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Busschaufförer i Norrtälje utan julbord: ”Känns som en bestraffning”",
-        "summary": "I oktober stannade all busstrafik i Norrtälje kommun efter ett akut skyddsstopp. I förra veckan meddelade bussoperatören Transdev att det inte blir något julbord för de anställda – och refererade till kostnaderna skyddstoppet medfört.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Norrtälje bus driver without Christmas buffet: \"Feels like a punishment\"",
-        "summary": "In October, all bus traffic in Norrtälje municipality stopped after an acute safety stoppage. Last week, bus operator Transdev announced there will be no Christmas buffet for the employees – and referred to the costs caused by the safety stoppage."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:54:30+01:00"
-      }
-    },
-    {
-      "id": "62b75e0c7b68",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/fruktat-hastvirus-i-timra-tva-hastar-doda",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/fruktat-hastvirus-i-timra-tva-hastar-doda",
-      "published_at": "2026-11-17T16:06:23+01:00",
-      "fetched_at": "2026-11-17T16:15:47+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Fruktat hästvirus i Timrå – två hästar döda",
-        "summary": "Två hästar i Västernorrland har dött av misstänkt herpessmitta. Nu uppmanar länsveterinären till försiktighet. – Jag tycker att man alltid ska agera som om det finns smitta, säger Helén Löfblad på Länsstyrelsen i Västernorrland.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Feared horse virus in Timrå – two horses dead",
-        "summary": "Two horses in Västernorrland have died of suspected herpes infection. The county veterinarian now urges caution. – I think one should always act as if there is infection, says Helén Löfblad at the county administrative board of Västernorrland."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:15:57+01:00"
       }
     }
   ]

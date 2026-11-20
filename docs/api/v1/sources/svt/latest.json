@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T17:01:35+01:00",
+  "generated_at": "2026-11-20T17:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "99f4cb91ade1",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/fast-pa-balkongen-i-brinnande-hus-raddades-av-grannarna-i-pitea",
+      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/fast-pa-balkongen-i-brinnande-hus-raddades-av-grannarna-i-pitea",
+      "published_at": "2026-11-20T17:09:19+01:00",
+      "fetched_at": "2026-11-20T17:15:46+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Fast på balkongen i brinnande hus – räddades av grannarna i Piteå",
+        "summary": "När Sofia Wellborg såg sin granne i 90-årsåldern stå trängd på balkongen till den brinnande villan förstod hon att varje sekund kunde vara avgörande. Tillsammans med två andra grannar lyckades hon få ned honom från huset.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Stuck on the balcony of a burning house – rescued by neighbours in Piteå",
+        "summary": "When Sofia Wellborg saw her neighbour in his 90s standing trapped on the balcony of the burning villa, she understood that every second could be decisive. Together with two other neighbours, she managed to get him down from the house."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T17:15:55+01:00"
+      }
+    },
     {
       "id": "6f7b4e9260f1",
       "schema_version": 1,
@@ -26,6 +52,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T17:01:35+01:00"
+      }
+    },
+    {
+      "id": "85c636a1c2af",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/sormland/fyllegolf-slutade-med-dikeskorning-i-trosa",
+      "guid": "https://www.svt.se/nyheter/lokalt/sormland/fyllegolf-slutade-med-dikeskorning-i-trosa",
+      "published_at": "2026-11-20T16:43:59+01:00",
+      "fetched_at": "2026-11-20T17:15:46+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Fyllegolf slutade med dikeskörning i Trosa",
+        "summary": "I somras fick ett grabbgängs årliga fyllegolfsturnering ett snöpligt slut. Vad som skulle blivit en avslutning i klubbhuset blev i stället en voltad golfbil i diket.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Drunk golf tournament ended in a ditch in Trosa",
+        "summary": "Over the summer, a group of lads' annual drunk golf tournament came to an embarrassing end. What was meant to be a finale in the clubhouse instead became an overturned golf cart in the ditch."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T17:15:55+01:00"
       }
     },
     {
@@ -5148,58 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T10:06:15+01:00"
-      }
-    },
-    {
-      "id": "462e8c425b30",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/curling/eva-lund-om-os-skandalen-curlingen-har-gynnats-av-braket",
-      "guid": "https://www.svt.se/sport/curling/eva-lund-om-os-skandalen-curlingen-har-gynnats-av-braket",
-      "published_at": "2026-11-15T07:47:20+01:00",
-      "fetched_at": "2026-11-15T08:29:34+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Eva Lund om OS-skandalen: ”Curlingen har gynnats av bråket”",
-        "summary": "Curlingbråket mellan Sverige och Kanada under OS blev en världsnyhet. I årets OS-krönika minna SVT:s expert Eva Lund tillbaka till de omskakande scenerna och efterspelet. – Jag skulle säga att curlingen har gynnats av det här bråket, säger hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Eva Lund on the Olympic scandal: \"Curling has benefited from the fight\"",
-        "summary": "The curling fight between Sweden and Canada at the Olympics became world news. In this year's Olympic column, SVT expert Eva Lund looks back at the shocking scenes and the aftermath. – I would say curling has benefited from this fight, she says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
-      }
-    },
-    {
-      "id": "d78665be7115",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/misstankt-mordforsok-pa-gotland-man-stickskadades",
-      "guid": "https://www.svt.se/nyheter/lokalt/ost/misstankt-mordforsok-pa-gotland-man-stickskadades",
-      "published_at": "2026-11-15T07:40:03+01:00",
-      "fetched_at": "2026-11-15T08:29:34+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Misstänkt mordförsök på Gotland – man stickskadad",
-        "summary": "Polis och ambulans kallades till ett hus söder om Visby efter att en man stickskadats. Två män i 40-45-årsåldern har anhållits.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Suspected attempted murder on Gotland – man stabbed",
-        "summary": "Police and ambulance were called to a house south of Visby after a man was stabbed. Two men in their 40s have been detained."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:29:46+01:00"
       }
     }
   ]

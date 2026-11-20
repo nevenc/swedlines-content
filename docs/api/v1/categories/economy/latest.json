@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T17:01:35+01:00",
+  "generated_at": "2026-11-20T17:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "10061104a963",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347474",
+      "guid": "rss:sr.se/article/9347474",
+      "published_at": "2026-11-20T17:04:00+01:00",
+      "fetched_at": "2026-11-20T17:15:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Överhyrorna kan vara fler – 250 nya krav",
+        "summary": "De nio fall där Hyresnämnden hittills bedömt att Stockholms stads bostadsstiftelse SHIS tagit ut oskäligt höga hyror av flyktingar och människor i social utsatthet kan vara toppen på ett isberg.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "There may be more overcharging landlords – 250 new complaints",
+        "summary": "The nine cases in which the Rent Tribunal so far has judged that Stockholm city's housing foundation SHIS charged unreasonably high rents to refugees and people in social vulnerability may be the tip of an iceberg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T17:15:55+01:00"
+      }
+    },
     {
       "id": "d866a92fb34d",
       "schema_version": 1,
@@ -5280,33 +5306,6 @@
       "en": {
         "title": "AMD falls after short-seller report",
         "summary": "Chipmaker AMD plunges in the wake of analysis firm Hunterbrook Capital shorting the stock. According to CNBC, Hunterbrook says AMD ”has its own China problem”."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:15:56+01:00"
-      }
-    },
-    {
-      "id": "bbe19db6bb13",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/trump-ringde-in-overraskade-europas-ledare",
-      "guid": "7b403070-a4b9-4878-a943-7077a33bdc17",
-      "published_at": "2026-11-19T19:10:33+01:00",
-      "fetched_at": "2026-11-19T19:15:44+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/a2789428-29ac-40a0-b1a9-00cf1c521be2.jpg?width=600",
-      "sv": {
-        "title": "Trump ringde in – överraskade Europas ledare",
-        "summary": "Europas ledare har åter befäst sitt stöd för Ukraina. Toppmötet i Berlin fick dessutom ett oväntat samtal – från Donald Trump ombord Air Force One. ”Det var ju ingen som visste om det.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Trump calls in – surprises Europe's leaders",
-        "summary": "Europe's leaders have once again reaffirmed their support for Ukraine. The summit in Berlin also received an unexpected call – from Donald Trump aboard Air Force One. ”No one knew about it."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T17:01:35+01:00",
+  "generated_at": "2026-11-20T17:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2c6fd1b4922c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/lokal-c-topp-oppnar-for-v-i-regeringen",
+      "guid": "https://www.expressen.se/nyheter/politik/lokal-c-topp-oppnar-for-v-i-regeringen/",
+      "published_at": "2026-11-20T17:11:46+01:00",
+      "fetched_at": "2026-11-20T17:15:48+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Lokal C-topp öppnar för V i regeringen",
+        "summary": "Centerpartiet kan behöva släppa sin röda linje mot Vänsterpartiet för att få till en regering. Det anser Centerpartiet i Norrköping, som själv styr kommunen tillsammans med V. – Om det är det som behövs får vi nog tugga i oss det, säger Christian Widlund (C), kommunalråd i Norrköping.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Local C leadership opens the door to V in government",
+        "summary": "The Centre Party may have to drop its red line against the Left Party to form a government. That is the view of the Centre Party in Norrköping, which itself governs the municipality together with V. \"If that is what is needed, we will probably have to swallow it,\" says Christian Widlund (C), municipal commissioner in Norrköping."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T17:15:55+01:00"
+      }
+    },
     {
       "id": "bbbe3b374d05",
       "schema_version": 1,
@@ -5384,32 +5410,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T10:01:55+01:00"
-      }
-    },
-    {
-      "id": "7312b1c3fbcb",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/v-toppens-pik-mot-c-beter-sig-som-offer",
-      "guid": "https://www.expressen.se/nyheter/politik/v-toppens-pik-mot-c-beter-sig-som-offer/",
-      "published_at": "2026-11-17T09:22:40+01:00",
-      "fetched_at": "2026-11-17T09:30:59+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "V-toppens pik mot C: Beter sig som offer",
-        "summary": "C-toppen Niels Paarup-Petersen tycker att Vänstern borde ge med sig i regeringsfrågan. Nu slår Ida Gabrielsson (V) tillbaka. ”C beter beter sig som att dom är offer för ett tvångsäktenskap”, skriver Gabrielsson på X.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Peak Hits Back at Left Peak: \"Behaves Like a Victim\"",
-        "summary": "Centre Party top figure Niels Paarup-Petersen believes the Left Party should give in on the government question. Now Ida Gabrielsson (V) hits back. \"C behaves as if they are victims of a forced marriage,\" Gabrielsson writes on X."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T09:31:07+01:00"
       }
     }
   ]

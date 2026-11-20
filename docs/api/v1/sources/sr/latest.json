@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T17:01:35+01:00",
+  "generated_at": "2026-11-20T17:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "10061104a963",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347474",
+      "guid": "rss:sr.se/article/9347474",
+      "published_at": "2026-11-20T17:04:00+01:00",
+      "fetched_at": "2026-11-20T17:15:47+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Överhyrorna kan vara fler – 250 nya krav",
+        "summary": "De nio fall där Hyresnämnden hittills bedömt att Stockholms stads bostadsstiftelse SHIS tagit ut oskäligt höga hyror av flyktingar och människor i social utsatthet kan vara toppen på ett isberg.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "There may be more overcharging landlords – 250 new complaints",
+        "summary": "The nine cases in which the Rent Tribunal so far has judged that Stockholm city's housing foundation SHIS charged unreasonably high rents to refugees and people in social vulnerability may be the tip of an iceberg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T17:15:55+01:00"
+      }
+    },
     {
       "id": "1708ed410cb7",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Zelenskyy: NATO membership back on the agenda",
         "summary": "American negotiators reportedly raised the idea of Ukraine withdrawing its forces from Donbas in the east and giving up territory to Russia in exchange for joining NATO, according to Ukrainian President Zelenskyy."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T21:40:46+01:00"
-      }
-    },
-    {
-      "id": "b4e244c67185",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9332885",
-      "guid": "rss:sr.se/article/9332885",
-      "published_at": "2026-11-14T20:37:00+01:00",
-      "fetched_at": "2026-11-14T21:40:35+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "Kritiskt för torsken i Östersjön – nu testas yngelmetoden",
-        "summary": "Trots fiskeförbud har torsken inte återhämtat sig, och beståndet har minskat med 85 procent på cirka 40 år, enligt Havs- och vattenmyndigheten. Utanför Nyköping testas nu en ny metod för att hjälpa beståndet tillbaka lokalt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Critical for Baltic cod – now the spawning method is being tested",
-        "summary": "Despite a fishing ban, cod have not recovered, and the stock has declined by 85 percent over about 40 years, according to the Swedish Agency for Marine and Water Management. A new method to help the stock recover locally is now being tested off Nyköping."
       },
       "translation": {
         "status": "done",
