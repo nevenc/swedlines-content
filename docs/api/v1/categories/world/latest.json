@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T05:01:11+01:00",
+  "generated_at": "2026-11-20T05:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "277396451212",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ledare/min-van-vladimir-sa-donald-trump",
+      "guid": "https://www.dn.se/ledare/min-van-vladimir-sa-donald-trump/",
+      "published_at": "2026-11-20T05:06:21+01:00",
+      "fetched_at": "2026-11-20T05:15:44+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/8e0293c7-c305-441b-9818-9e69b73d5772.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Ledare: ”Min vän Vladimir”, sa Donald Trump",
+        "summary": "Vladimir Putin vill ha hjälp av Xi Jinping och Donald Trump för att inte förlora i Ukraina. Men det här kommer inte att avgöras i Shenzhen eller av den ryske och amerikanske ledarens vänskap.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Editorial: \"My friend Vladimir\", said Donald Trump",
+        "summary": "Vladimir Putin wants help from Xi Jinping and Donald Trump so as not to lose in Ukraine. But this will not be decided in Shenzhen or by the friendship of the Russian and American leaders."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T05:15:50+01:00"
+      }
+    },
     {
       "id": "9f4500e50729",
       "schema_version": 1,
@@ -5359,33 +5386,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T08:31:09+01:00"
-      }
-    },
-    {
-      "id": "b75446f932b4",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/wdP9OG/ovanlig-kontakt-med-utsatt-urfolk-i-amazonas",
-      "guid": "https://www.aftonbladet.se/nyheter/a/wdP9OG/ovanlig-kontakt-med-utsatt-urfolk-i-amazonas?utm_medium=rss",
-      "published_at": "2026-11-18T08:00:20+01:00",
-      "fetched_at": "2026-11-18T08:01:13+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/7ab0e0aa-936a-3e83-93b0-5845990f4094?format=auto&s=a6f1690f5369c3f3273b7c0c74c44710ee491c33&w=1000",
-      "sv": {
-        "title": "Ovanlig kontakt med utsatt urfolk i Amazonas",
-        "summary": "En isolerad grupp tillhörande urfolket awá i Brasiliens regnskog har för första gången tagit kontakt…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unusual contact with vulnerable indigenous people in the Amazon",
-        "summary": "An isolated group belonging to the awá indigenous people in Brazil's rainforest has for the first time made contact…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T08:01:19+01:00"
       }
     }
   ]
