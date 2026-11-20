@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-20T14:45:51+01:00",
+  "generated_at": "2026-11-20T15:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cbf64bf1af89",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/JuF0Rf5V1LGRc6zOU3lbw/svenska-jas-gripen-plan-i-insats-i-polen",
+      "guid": "JuF0Rf5V1LGRc6zOU3lbw",
+      "published_at": "2026-11-20T14:51:21+01:00",
+      "fetched_at": "2026-11-20T15:01:18+01:00",
+      "category": "world",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Svenska Jas Gripen-plan i insats i Polen",
+        "summary": "Under natten kränktes Polens luftrum. På fredagsförmiddagen uppgav den polska regeringen att två kryssningsrobotar och en drönare slagit ner på polskt territorium. Nu har Försvarsmakten gått ut med att det svenska flygvapnet deltog i en Nato-luftförsvarsinsats med Jas Gripen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Swedish Jas Gripen jets deployed over Poland",
+        "summary": "During the night Polish airspace was violated. On Friday morning the Polish government stated that two cruise missiles and a drone had struck Polish territory. The Swedish Armed Forces have now announced that the Swedish Air Force took part in a NATO air defence operation with Jas Gripen jets."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T15:01:26+01:00"
+      }
+    },
     {
       "id": "3f57b7dce0c3",
       "schema_version": 1,
@@ -5740,35 +5769,6 @@
       "en": {
         "title": "Boy guilty of mass shooting in Gävle – opened fire in the open street",
         "summary": "It was just before 02.00 on Saturday 4 October 2025. The bars along Södra Kungsgatan in Gävle were preparing to close and many people were at the scene. Then a boy who was 13 at the time appeared – and opened fire in the street."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "24c0a0828571",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/6fdHCUFfihxCWFjIA8WY3W/nu-presenteras-oevergangsbudgeten",
-      "guid": "6fdHCUFfihxCWFjIA8WY3W",
-      "published_at": "2026-11-12T08:05:30+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Ekonomi"
-      ],
-      "sv": {
-        "title": "Nya budgeten presenterad: ”Ett speciellt politiskt läge”",
-        "summary": "Eftersom Sverige ännu saknar en ny regering lägger finansministern fram en så kallad övergångsbudget. – Vi befinner oss i ett speciellt politiskt läge. Regeringsbildningen tar tid och vi behöver förhålla oss till det.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "New budget presented: 'A special political situation'",
-        "summary": "Since Sweden still lacks a new government, the finance minister is presenting a so-called transitional budget. – We are in a special political situation. The government formation is taking time and we need to deal with that."
       },
       "translation": {
         "status": "done",
