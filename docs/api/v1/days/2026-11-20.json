@@ -1,7 +1,112 @@
 {
-  "generated_at": "2026-11-20T21:15:54+01:00",
-  "count": 633,
+  "generated_at": "2026-11-20T21:31:05+01:00",
+  "count": 639,
   "items": [
+    {
+      "id": "cea5665331ac",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347555",
+      "guid": "rss:sr.se/article/9347555",
+      "published_at": "2026-11-20T21:23:00+01:00",
+      "fetched_at": "2026-11-20T21:30:59+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "SMHI tonar ner snövarningen för Stockholm",
+        "summary": "SMHI tonar ner sin gula varning för över Stockholm och Upplandskusten. Snöfallet började komma igång vid 20-tiden på fredagskvällen, men ser ut att sluta tidigare än väntat. ”Det kan komma igång igen”, säger Viktor Bergman, meterolog på SMHI.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI downgrades snow warning for Stockholm",
+        "summary": "SMHI downgrades its yellow warning for Stockholm and the Upplands coast. Snowfall began around 8 pm on Friday evening but looks set to end earlier than expected. \"It could start up again\", says Viktor Bergman, meteorologist at SMHI."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:31:05+01:00"
+      }
+    },
+    {
+      "id": "19e09f92ab89",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=97c26eb6-549f-4e5e-8db2-b071820c92f1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=97c26eb6-549f-4e5e-8db2-b071820c92f1",
+      "published_at": "2026-11-20T21:18:01+01:00",
+      "fetched_at": "2026-11-20T21:31:00+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Enorma vinstsumman till svensk på Eurojackpot",
+        "summary": "Svensk jättevinst på Eurojackpot",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Huge Eurojackpot win for Swede",
+        "summary": "Swedish huge win on Eurojackpot"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:31:05+01:00"
+      }
+    },
+    {
+      "id": "226411eccd88",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=3544d39b-e298-40b4-9138-75ed03923854",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3544d39b-e298-40b4-9138-75ed03923854",
+      "published_at": "2026-11-20T21:16:37+01:00",
+      "fetched_at": "2026-11-20T21:31:00+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Malmer Stenegard efter uppkallade ryska ambassadören",
+        "summary": "Malmer Stenergard kallar upp ambassadören",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Malmer Stenergard after summoning Russian ambassador",
+        "summary": "Malmer Stenergard summons the ambassador"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:31:05+01:00"
+      }
+    },
+    {
+      "id": "af191b504e73",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/svenska-gripenplan-i-insats-over-polen",
+      "guid": "3fbb198d-8f24-4ed1-bbd0-1001a4866507",
+      "published_at": "2026-11-20T21:13:52+01:00",
+      "fetched_at": "2026-11-20T21:31:01+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/cab02368-e68b-4ec5-b10c-cdfbd0886b18.jpg?width=600",
+      "sv": {
+        "title": "Svenska Gripenplan i insats över Polen",
+        "summary": "Svenska Gripenplan deltog i en Natoinsats för att skydda det polska luftrummet när flera ”oidentifierade objekt” upptäcktes under natten mot fredagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish Gripen jets deployed over Poland",
+        "summary": "Swedish Gripen jets took part in a NATO operation to protect Polish airspace when several \"unidentified objects\" were detected during the night to Friday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:31:05+01:00"
+      }
+    },
     {
       "id": "16306da975c6",
       "schema_version": 1,
@@ -79,6 +184,41 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T21:15:54+01:00"
+      }
+    },
+    {
+      "id": "53f82f2ebbbb",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/tv/pa-sparet-duon-utklassade-men-mest-underhallande-pa-hela-sasongen.1baf9345-3b15-5cea-ae0e-9f408f201eac",
+      "guid": "1baf9345-3b15-5cea-ae0e-9f408f201eac",
+      "published_at": "2026-11-20T21:00:15+01:00",
+      "fetched_at": "2026-11-20T21:31:01+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "TV",
+        "Tagg: På spåret",
+        "Tagg: SVT",
+        "Tagg: Kristian Luuk",
+        "Tagg: Uje Brandelius",
+        "Tagg: Fricky"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/ac38dc3e-0a41-31d3-984c-1dc9ff4c95a6",
+      "sv": {
+        "title": "De blev utklassade – men underhöll mest i år",
+        "summary": "Kvällens ”På spåret” innehöll även ett frieri och ett gammalt kärlekspar som återförenades på scen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "They were outclassed – but entertained the most this year",
+        "summary": "Tonight's \"På spåret\" also featured a marriage proposal and an old couple who reunited on stage."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:31:05+01:00"
       }
     },
     {
@@ -1661,6 +1801,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T19:01:29+01:00"
+      }
+    },
+    {
+      "id": "857b76f0fa40",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/410958/inifran-gaza-efter-nya-offensiven-obeskrivlig-skraeck",
+      "guid": "https://tv.aftonbladet.se/video/410958/inifran-gaza-efter-nya-offensiven-obeskrivlig-skraeck?utm_medium=rss",
+      "published_at": "2026-11-20T18:38:48+01:00",
+      "fetched_at": "2026-11-20T21:31:00+01:00",
+      "category": "world",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/1ac19e6ba323a170d6c6be5d0b3a7ece.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Inifrån Gaza efter nya offensiven: ”Obeskrivlig skräck”",
+        "summary": "Flydde under Israels offensiv",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "From inside Gaza after new offensive: \"Indescribable terror\"",
+        "summary": "Fled during Israel's offensive"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:31:05+01:00"
       }
     },
     {

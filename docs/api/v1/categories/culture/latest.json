@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-11-20T21:15:54+01:00",
+  "generated_at": "2026-11-20T21:31:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "53f82f2ebbbb",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/tv/pa-sparet-duon-utklassade-men-mest-underhallande-pa-hela-sasongen.1baf9345-3b15-5cea-ae0e-9f408f201eac",
+      "guid": "1baf9345-3b15-5cea-ae0e-9f408f201eac",
+      "published_at": "2026-11-20T21:00:15+01:00",
+      "fetched_at": "2026-11-20T21:31:01+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "TV",
+        "Tagg: På spåret",
+        "Tagg: SVT",
+        "Tagg: Kristian Luuk",
+        "Tagg: Uje Brandelius",
+        "Tagg: Fricky"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/ac38dc3e-0a41-31d3-984c-1dc9ff4c95a6",
+      "sv": {
+        "title": "De blev utklassade – men underhöll mest i år",
+        "summary": "Kvällens ”På spåret” innehöll även ett frieri och ett gammalt kärlekspar som återförenades på scen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "They were outclassed – but entertained the most this year",
+        "summary": "Tonight's \"På spåret\" also featured a marriage proposal and an old couple who reunited on stage."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:31:05+01:00"
+      }
+    },
     {
       "id": "6cbf1b1dcc0e",
       "schema_version": 1,
@@ -5637,33 +5672,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T19:45:52+01:00"
-      }
-    },
-    {
-      "id": "3d9632d9f563",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/hirokazu-kore-eda-ai-kan-aldrig-fylla-tomrummet-efter-vara-doda",
-      "guid": "https://www.dn.se/kultur/hirokazu-kore-eda-ai-kan-aldrig-fylla-tomrummet-efter-vara-doda/",
-      "published_at": "2026-11-18T19:27:48+01:00",
-      "fetched_at": "2026-11-18T19:31:01+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/02a994e6-1cd5-4ee6-90ba-e2bbd181e92e.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Hirokazu Kore-eda: ”AI kan aldrig fylla tomrummet efter våra döda”",
-        "summary": "Kan en robotpojke fylla tomrummet efter ett dött barn? Frågan ställs på sin spets i Hirokazu Kore-edas science fiction-drama ”Sheep in the box”. Nicholas Wennö möter den japanske mästerregissören i ett samtal om förlust, fantasi och varför tekniken varken kan ersätta de döda eller mäta sig med…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Hirokazu Kore-eda: \"AI can never fill the void left by our dead\"",
-        "summary": "Can a robot boy fill the void left by a dead child? The question is pushed to its limit in Hirokazu Kore-eda's science fiction drama \"Sheep in the box\". Nicholas Wennö meets the Japanese master director in a conversation about loss, imagination and why technology can neither replace the dead nor measure up to them…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:31:10+01:00"
       }
     }
   ]

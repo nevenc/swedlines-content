@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T21:15:54+01:00",
+  "generated_at": "2026-11-20T21:31:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "af191b504e73",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/svenska-gripenplan-i-insats-over-polen",
+      "guid": "3fbb198d-8f24-4ed1-bbd0-1001a4866507",
+      "published_at": "2026-11-20T21:13:52+01:00",
+      "fetched_at": "2026-11-20T21:31:01+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/cab02368-e68b-4ec5-b10c-cdfbd0886b18.jpg?width=600",
+      "sv": {
+        "title": "Svenska Gripenplan i insats över Polen",
+        "summary": "Svenska Gripenplan deltog i en Natoinsats för att skydda det polska luftrummet när flera ”oidentifierade objekt” upptäcktes under natten mot fredagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish Gripen jets deployed over Poland",
+        "summary": "Swedish Gripen jets took part in a NATO operation to protect Polish airspace when several \"unidentified objects\" were detected during the night to Friday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:31:05+01:00"
+      }
+    },
     {
       "id": "b587100b7917",
       "schema_version": 1,
@@ -5282,33 +5309,6 @@
       "en": {
         "title": "Struggling giant falls on Wall Street",
         "summary": "The English football club Manchester United, whose shares trade in New York, falls sharply after a substantial deterioration in results in the past quarter."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
-      }
-    },
-    {
-      "id": "ceb4dbc1f3d3",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/muntert-pa-wall-street-anthropicagare-stiger",
-      "guid": "7dfa1db7-4cbc-403e-85b6-a946bb6a8e72",
-      "published_at": "2026-11-19T15:38:17+01:00",
-      "fetched_at": "2026-11-19T15:45:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/c944c0ac-ded9-4e9c-8e79-85a61fdd9bbf.jpeg?width=600",
-      "sv": {
-        "title": "Muntert på Wall Street – Anthropicägare stiger",
-        "summary": "USA-börserna inleder torsdagen med muntra miner när AI-bolaget Anthropics jättenotering lyfte stämningen. På bolagsnivå klättrar AI-jättens storägare Amazon och Alphabet i den inledande handel.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Cheerful on Wall Street – Anthropic owner rises",
-        "summary": "US stock markets open Thursday in good spirits as the huge listing of AI company Anthropic lifted sentiment. At company level, Amazon and Alphabet, major shareholders in the AI giant, climb in early trading."
       },
       "translation": {
         "status": "done",

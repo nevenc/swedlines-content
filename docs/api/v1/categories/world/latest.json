@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T21:15:54+01:00",
+  "generated_at": "2026-11-20T21:31:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "226411eccd88",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=3544d39b-e298-40b4-9138-75ed03923854",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3544d39b-e298-40b4-9138-75ed03923854",
+      "published_at": "2026-11-20T21:16:37+01:00",
+      "fetched_at": "2026-11-20T21:31:00+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Malmer Stenegard efter uppkallade ryska ambassadören",
+        "summary": "Malmer Stenergard kallar upp ambassadören",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Malmer Stenergard after summoning Russian ambassador",
+        "summary": "Malmer Stenergard summons the ambassador"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:31:05+01:00"
+      }
+    },
     {
       "id": "33aabddb15e0",
       "schema_version": 1,
@@ -442,6 +468,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T19:31:14+01:00"
+      }
+    },
+    {
+      "id": "857b76f0fa40",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/410958/inifran-gaza-efter-nya-offensiven-obeskrivlig-skraeck",
+      "guid": "https://tv.aftonbladet.se/video/410958/inifran-gaza-efter-nya-offensiven-obeskrivlig-skraeck?utm_medium=rss",
+      "published_at": "2026-11-20T18:38:48+01:00",
+      "fetched_at": "2026-11-20T21:31:00+01:00",
+      "category": "world",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/1ac19e6ba323a170d6c6be5d0b3a7ece.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Inifrån Gaza efter nya offensiven: ”Obeskrivlig skräck”",
+        "summary": "Flydde under Israels offensiv",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "From inside Gaza after new offensive: \"Indescribable terror\"",
+        "summary": "Fled during Israel's offensive"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:31:05+01:00"
       }
     },
     {
@@ -5353,62 +5406,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T10:31:11+01:00"
-      }
-    },
-    {
-      "id": "4ecbaf43b56c",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/varlden/trump-om-putin-han-ar-min-van.30f30517-3859-5e82-8585-c1c28c083fc0",
-      "guid": "30f30517-3859-5e82-8585-c1c28c083fc0",
-      "published_at": "2026-11-19T10:28:49+01:00",
-      "fetched_at": "2026-11-19T11:01:20+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Världen",
-        "Tagg: Vladimir Putin",
-        "Tagg: Donald Trump"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/a71697e0-4cc5-3a01-a36a-051e5168d00a",
-      "sv": {
-        "title": "Trump skämtade om Putin: ”Han är min vän”",
-        "summary": "Se Trumps skämt med Putin inför historiska toppmötet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump joked about Putin: \"He is my friend\"",
-        "summary": "Watch Trump's joke about Putin ahead of the historic summit."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "4b70be866a96",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/kolumnen/det-ar-extrema-ryska-forluster-hur-man-an-mater",
-      "guid": "c21cc06f-ff43-45d9-9002-fcb8135abcd8",
-      "published_at": "2026-11-19T10:07:13+01:00",
-      "fetched_at": "2026-11-19T10:15:48+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/c3c1d82c-77b7-49ae-80eb-1cc2ed3f4b65.jpeg?width=600",
-      "sv": {
-        "title": "Det är extrema ryska förluster hur man än mäter"
-      },
-      "en": {
-        "title": "The Russian losses are extreme however one measures them"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T10:16:03+01:00"
       }
     }
   ]
