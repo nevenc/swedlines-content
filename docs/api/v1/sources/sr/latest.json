@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T20:31:20+01:00",
+  "generated_at": "2026-11-20T20:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bafd7d5ae7e5",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347171",
+      "guid": "rss:sr.se/article/9347171",
+      "published_at": "2026-11-20T20:39:00+01:00",
+      "fetched_at": "2026-11-20T20:45:46+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Så gör du om du blivit lurad",
+        "summary": "Agera så fort du märker att du blivit lurad, säger Christine Fransholm på Sveriges konsumenter. Om du inte fått beställd vara behöver du klaga skriftligt till företaget. Hör mer om hur du ska gå tillväga om du ångrar ett köp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "What to do if you've been scammed",
+        "summary": "Act as soon as you notice you've been scammed, says Christine Fransholm at Sveriges konsumenter. If you have not received the ordered goods, you need to complain in writing to the company. Read more about how to proceed if you regret a purchase."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T20:45:55+01:00"
+      }
+    },
     {
       "id": "17a064bcdba8",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:30:08+01:00"
-      }
-    },
-    {
-      "id": "45e53cf985b8",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341115",
-      "guid": "rss:sr.se/article/9341115",
-      "published_at": "2026-11-15T05:55:00+01:00",
-      "fetched_at": "2026-11-15T08:29:34+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Franska fertilitetsbrev får nobben i Sverige",
-        "summary": "I Frankrike kommer alla 29-åringar snart att få ett brev om hur fertiliteten påverkas av åldern, i ett försök att möta det låga barnafödandet. Åsa Hansson, som leder utredningen om det minskade barnafödandet i Sverige, vill inte se liknande metoder här.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "French fertility letter gets the cold shoulder in Sweden",
-        "summary": "In France, all 29-year-olds will soon receive a letter about how fertility is affected by age, in an attempt to address low birth rates. Åsa Hansson, who leads the inquiry into declining birth rates in Sweden, does not want to see similar methods here."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:14+01:00"
       }
     }
   ]

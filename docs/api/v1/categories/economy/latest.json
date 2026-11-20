@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-20T20:31:20+01:00",
+  "generated_at": "2026-11-20T20:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bafd7d5ae7e5",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347171",
+      "guid": "rss:sr.se/article/9347171",
+      "published_at": "2026-11-20T20:39:00+01:00",
+      "fetched_at": "2026-11-20T20:45:46+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Så gör du om du blivit lurad",
+        "summary": "Agera så fort du märker att du blivit lurad, säger Christine Fransholm på Sveriges konsumenter. Om du inte fått beställd vara behöver du klaga skriftligt till företaget. Hör mer om hur du ska gå tillväga om du ångrar ett köp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "What to do if you've been scammed",
+        "summary": "Act as soon as you notice you've been scammed, says Christine Fransholm at Sveriges konsumenter. If you have not received the ordered goods, you need to complain in writing to the company. Read more about how to proceed if you regret a purchase."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T20:45:55+01:00"
+      }
+    },
+    {
+      "id": "572b04280044",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/raset-tilltar-pa-wall-street-nasdaq-ned-drygt-4-procent",
+      "guid": "4f72ec5b-3b91-4bcb-8786-383121bfce0b",
+      "published_at": "2026-11-20T20:36:32+01:00",
+      "fetched_at": "2026-11-20T20:45:49+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8168ee8f-bfb0-496f-936a-f53ad934dbd7.jpeg?width=600",
+      "sv": {
+        "title": "Raset tilltar på Wall Street – Nasdaq ned drygt 4 procent",
+        "summary": "Fredagsraset tilltar på USA-börserna där S&P 500 går in i en så kallad korrektion och tekniktunga Nasdaq nu är på minus för året. ”Det här är inte endast en värderingsdriven korrektion. Det börjar bli bredare”, säger Massimo Santicchia, chef för amerikanska aktier på Procyon, till CNBC.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sell-off deepens on Wall Street – Nasdaq down just over 4 percent",
+        "summary": "The Friday sell-off deepens on US exchanges, where the S&P 500 enters a so-called correction and the tech-heavy Nasdaq is now down for the year. \"This is not only a valuation-driven correction. It is becoming broader\", says Massimo Santicchia, head of US equities at Procyon, to CNBC."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T20:45:55+01:00"
+      }
+    },
     {
       "id": "de243b1fd7ec",
       "schema_version": 1,
@@ -5237,60 +5290,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T05:45:48+01:00"
-      }
-    },
-    {
-      "id": "5f2501034f04",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/apple-utvecklar-egen-ai-agent",
-      "guid": "9f3600d6-6fd6-4d92-afeb-5ad6d5b44fa0",
-      "published_at": "2026-11-19T23:18:47+01:00",
-      "fetched_at": "2026-11-19T23:30:58+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6e48fe55-75c1-44ac-85ff-c6ed1de5ed48.jpeg?width=600",
-      "sv": {
-        "title": "Apple utvecklar egen AI-agent",
-        "summary": "Teknikbolaget Apple utvecklar en egen AI-agent som skulle konkurrera med AI-agenter från bolag såsom Open AI och Anthropic.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Apple develops own AI agent",
-        "summary": "Tech company Apple is developing its own AI agent that would compete with AI agents from companies such as Open AI and Anthropic."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T23:31:02+01:00"
-      }
-    },
-    {
-      "id": "c945183f2b9f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/jatten-kapar-antalet-anstallda-med-20-30-procent",
-      "guid": "93bc05e4-7d03-4293-ac5d-df17463441e9",
-      "published_at": "2026-11-19T23:15:41+01:00",
-      "fetched_at": "2026-11-19T23:30:58+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/4b55c329-9fff-4edc-8903-1ac73d6528c9.jpeg?width=600",
-      "sv": {
-        "title": "Jätten kapar antalet anställda med 20-30 procent",
-        "summary": "Den amerikanska konsumentvarugruppen Procter & Gamble planerar att minska antalet anställda inom tillverkning och logistik med mellan 20 och 30 procent fram till slutet av 2030.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Giant cuts workforce by 20-30 percent",
-        "summary": "US consumer goods group Procter & Gamble plans to reduce the number of employees in manufacturing and logistics by between 20 and 30 percent by the end of 2030."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T23:31:02+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T20:31:20+01:00",
+  "generated_at": "2026-11-20T20:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "84fc3c0e8503",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/klimat/a/4EqQaq/tusenarsregn-foll-i-usa-nya-ovader-ar-pa-vag",
+      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/4EqQaq/tusenarsregn-foll-i-usa-nya-ovader-ar-pa-vag?utm_medium=rss",
+      "published_at": "2026-11-20T20:35:34+01:00",
+      "fetched_at": "2026-11-20T20:45:47+01:00",
+      "category": "weather",
+      "image_url": "https://akamai.vgc.no/v2/images/743b828c-13fe-3a1d-81d6-4aee122c4eb0?format=auto&s=7097458c19a1551125ad8cd213b8adcd1f86a8a9&w=1000",
+      "sv": {
+        "title": "Tusenårsregn föll i USA – nya oväder är på väg",
+        "summary": "Förstärks av El Niño",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Millennium-level rain fell in the US – new storms are on the way",
+        "summary": "Intensified by El Niño"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T20:45:55+01:00"
+      }
+    },
     {
       "id": "b586e9964694",
       "schema_version": 1,
@@ -5340,33 +5367,6 @@
       "en": {
         "title": "Another person taken to hospital after fire",
         "summary": "A person has been taken to hospital following a fire in a flat in Trollhättan, police say…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T05:01:17+01:00"
-      }
-    },
-    {
-      "id": "3b8dfb5f17ee",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/r8A56A/orikets-larm-det-som-drabbar-oss-drabbar-alla",
-      "guid": "https://www.aftonbladet.se/nyheter/a/r8A56A/orikets-larm-det-som-drabbar-oss-drabbar-alla?utm_medium=rss",
-      "published_at": "2026-11-18T04:50:14+01:00",
-      "fetched_at": "2026-11-18T05:01:09+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/aea10a71-c761-388e-a82d-da9b8e1012a3?format=auto&s=7cf4b06cadbb9dccd64926a029675ed0a6856634&w=1000",
-      "sv": {
-        "title": "Örikets larm: ”Det som drabbar oss drabbar alla”",
-        "summary": "För öriket Palau är det livsviktigt att överskridandet av 1,5 graders temperaturökning blir…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Island nation's alarm: “What affects us affects everyone”",
-        "summary": "For the island nation of Palau, it is vital that the overshoot of the 1.5-degree temperature rise becomes temporary…"
       },
       "translation": {
         "status": "done",
