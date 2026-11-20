@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T23:18:03+01:00",
+  "generated_at": "2026-11-20T23:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "24064f18a5b6",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/ishockey/experten-hapnar-over-detaljen-vid-rasmus-dahlins-solomal",
+      "guid": "https://www.svt.se/sport/ishockey/experten-hapnar-over-detaljen-vid-rasmus-dahlins-solomal",
+      "published_at": "2026-11-20T23:27:58+01:00",
+      "fetched_at": "2026-11-20T23:30:59+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Experten häpnar över detaljen vid Rasmus Dahlins solomål",
+        "summary": "Rasmus Dahlin, 26, fortsätter att göra uppmärksammade solomål. Experten menar att det finns en detalj i den svenska stjärnans spel som förklarar hur han kan göra det.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expert astonished by the detail in Rasmus Dahlin's solo goals",
+        "summary": "Rasmus Dahlin, 26, keeps scoring remarkable solo goals. The expert says there is a detail in the Swedish star's play that explains how he can do it."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T23:31:08+01:00"
+      }
+    },
     {
       "id": "e9ad79063ce9",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T10:06:12+01:00"
-      }
-    },
-    {
-      "id": "9f9799a0d523",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/stockholm/man-pakord-i-centrala-stockholm-polisen-utreder-mordforsok",
-      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/man-pakord-i-centrala-stockholm-polisen-utreder-mordforsok",
-      "published_at": "2026-11-15T08:46:33+01:00",
-      "fetched_at": "2026-11-15T10:05:46+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Man påkörd i centrala Stockholm – polisen utreder mordförsök",
-        "summary": "En man blev påkörd av en bil på Kungsgatan i centrala Stockholm under söndagsmorgonen. Polisen utreder händelsen som mordförsök.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Man hit by car in central Stockholm – police investigate attempted murder",
-        "summary": "A man was hit by a car on Kungsgatan in central Stockholm on Sunday morning. Police are investigating the incident as attempted murder."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T10:06:15+01:00"
       }
     }
   ]

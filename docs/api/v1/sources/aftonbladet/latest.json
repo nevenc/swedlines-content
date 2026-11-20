@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:18:03+01:00",
+  "generated_at": "2026-11-20T23:31:08+01:00",
   "count": 200,
   "items": [
     {
@@ -54,6 +54,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T22:01:22+01:00"
+      }
+    },
+    {
+      "id": "ecdcb9343c15",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/410996",
+      "guid": "https://tv.aftonbladet.se/video/410996?utm_medium=rss",
+      "published_at": "2026-11-20T21:23:59+01:00",
+      "fetched_at": "2026-11-20T23:31:02+01:00",
+      "category": "culture",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/f5ccbc5b886071178c9ae1d1f5bdfd70.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Vilken tavla! För 1 940 755 874 kronor",
+        "summary": "Uppgörelse: Tvångssåldes under nazisterna",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "What a painting! For SEK 1,940,755,874",
+        "summary": "Settlement: Forced sale under the Nazis"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T23:31:08+01:00"
       }
     },
     {
@@ -5348,33 +5375,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "b982ef52b0ae",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/M5RdMM/starnumret-ar-arets-julklapp",
-      "guid": "https://www.aftonbladet.se/nyheter/a/M5RdMM/starnumret-ar-arets-julklapp?utm_medium=rss",
-      "published_at": "2026-11-18T06:56:36+01:00",
-      "fetched_at": "2026-11-18T07:31:02+01:00",
-      "category": "other",
-      "image_url": "https://akamai.vgc.no/v2/images/d5129884-ed22-388d-a2f0-2198df137fad?format=auto&s=af5ed7843625d14d83a1783b4f13931b0c49c753&w=1000",
-      "sv": {
-        "title": "Startnumret är årets julklapp",
-        "summary": "”Motiverar och enar”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The starting number is this year's Christmas present",
-        "summary": "\"Motivates and unites\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:31:11+01:00"
       }
     }
   ]

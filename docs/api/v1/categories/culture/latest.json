@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:18:03+01:00",
+  "generated_at": "2026-11-20T23:31:08+01:00",
   "count": 200,
   "items": [
     {
@@ -54,6 +54,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T22:01:22+01:00"
+      }
+    },
+    {
+      "id": "ecdcb9343c15",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/410996",
+      "guid": "https://tv.aftonbladet.se/video/410996?utm_medium=rss",
+      "published_at": "2026-11-20T21:23:59+01:00",
+      "fetched_at": "2026-11-20T23:31:02+01:00",
+      "category": "culture",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/f5ccbc5b886071178c9ae1d1f5bdfd70.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Vilken tavla! För 1 940 755 874 kronor",
+        "summary": "Uppgörelse: Tvångssåldes under nazisterna",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "What a painting! For SEK 1,940,755,874",
+        "summary": "Settlement: Forced sale under the Nazis"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T23:31:08+01:00"
       }
     },
     {
@@ -5628,44 +5655,6 @@
       "en": {
         "title": "One of the year's best cinema experiences",
         "summary": "Director Martin McDonagh balances cynicism with the fragile humanity in \"Wild horse nine\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T20:15:50+01:00"
-      }
-    },
-    {
-      "id": "ecbad71a6027",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/litteratur/litteraturrecension/recension-faltstudier-av-goteborgs-konsthall.2da92e1b-e09a-5b3f-93f8-1891642282c1",
-      "guid": "2da92e1b-e09a-5b3f-93f8-1891642282c1",
-      "published_at": "2026-11-18T19:53:31+01:00",
-      "fetched_at": "2026-11-18T20:15:45+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Litteraturrecension",
-        "Tagg: Recension",
-        "Tagg: Göteborgs konsthall",
-        "Tagg: Författare",
-        "Tagg: Götaplatsen",
-        "Tagg: Essäer",
-        "Tagg: Konst",
-        "Tagg: Kultur",
-        "Tagg: Gamlestaden"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/df680c87-6648-37ce-80c7-fa1add450540",
-      "sv": {
-        "title": "Detta har Göteborgs konsthall gjort i väntan på lokal",
-        "summary": "Konstnärer, forskare och antikvarier har strålat samman i projektet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "What Göteborg's art hall has done while waiting for a premises",
-        "summary": "Artists, researchers and antiquarians have come together in the project."
       },
       "translation": {
         "status": "done",
