@@ -1,7 +1,289 @@
 {
-  "generated_at": "2026-11-20T15:45:53+01:00",
+  "generated_at": "2026-11-20T16:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "587548ba7c54",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/4EqQOR/kvinna-dodades-pa-arbetsplatsen-misstankt-man-begars-haktad",
+      "guid": "https://www.aftonbladet.se/nyheter/a/4EqQOR/kvinna-dodades-pa-arbetsplatsen-misstankt-man-begars-haktad?utm_medium=rss",
+      "published_at": "2026-11-20T16:00:59+01:00",
+      "fetched_at": "2026-11-20T16:01:16+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/ed717951-eac2-4f7a-98e3-3abb2b37b472?format=auto&s=0cd4d3acce5724f2b346ac6917b56ba2b90831ea&w=1000",
+      "sv": {
+        "title": "Kvinna dödades på arbetsplatsen – misstänkt man begärs häktad",
+        "summary": "Kvinna dödad på jobbet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Woman killed at workplace – suspect requested to be remanded in custody",
+        "summary": "Woman killed at work"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
+    {
+      "id": "e478161eaf63",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/darfor-pratar-alla-borgare-om-danska-modellen",
+      "guid": "04f214b9-18a0-4ce0-b62b-f4d63f941b21",
+      "published_at": "2026-11-20T16:00:00+01:00",
+      "fetched_at": "2026-11-20T16:01:18+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/9559467a-3646-4a34-8e2a-f85762711515.jpeg?width=600",
+      "sv": {
+        "title": "Därför pratar alla borgare om danska modellen",
+        "summary": "De borgerliga partierna förlorade valet men hoppas ändå knipa makten genom att locka till sig Centerpartiet. Men Sverigedemokraterna då, undrar Centerpartiet, hur ska vi slippa beroende av dem? Genom den danska modellen! svarar Ulf Kristerssons lag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Why all the centre-right are talking about the Danish model",
+        "summary": "The centre-right parties lost the election but hope to gain power by attracting the Centre Party. But what about the Sweden Democrats, the Centre Party asks, how do we avoid depending on them? Through the Danish model! replies Ulf Kristersson's law."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
+    {
+      "id": "91919d17c1af",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/vkQbLL/innertaket-rasade-in-i-forlossningssal-nu-ar-renoveringen-igang-igen",
+      "guid": "https://www.aftonbladet.se/nyheter/a/vkQbLL/innertaket-rasade-in-i-forlossningssal-nu-ar-renoveringen-igang-igen?utm_medium=rss",
+      "published_at": "2026-11-20T15:55:23+01:00",
+      "fetched_at": "2026-11-20T16:01:16+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/1adfde54-8407-3599-87b5-c19ae71e0d87?format=auto&s=58ff143a55da4db48ef40c3d7b4bba0c0762d04a&w=1000",
+      "sv": {
+        "title": "Byggkaos på SÖS innan takraset – oro bland personalen",
+        "summary": "Innertak rasade in i förlossningssal",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Construction chaos at SÖS before ceiling collapse – concern among staff",
+        "summary": "Interior ceiling collapsed into delivery room"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
+    {
+      "id": "50450e99551b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347349",
+      "guid": "rss:sr.se/article/9347349",
+      "published_at": "2026-11-20T15:55:00+01:00",
+      "fetched_at": "2026-11-20T16:01:14+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Tusk om kränkningarna: ”Medveten rysk provokation”",
+        "summary": "Fredagsmorgonens kränkningar av det polska luftrummet var mest troligen en ”medveten rysk provokation”. Det säger landets premiärminister Donald Tusk. Kränkningarna skedde i samband med nattens massiva attack mot Ukraina.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Tusk on violations: \"Deliberate Russian provocation\"",
+        "summary": "Friday morning's violations of Polish airspace were most likely a \"deliberate Russian provocation\". So says the country's prime minister Donald Tusk. The violations occurred in connection with the night's massive attack on Ukraine."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
+    {
+      "id": "c0108eb10660",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/ledamot-i-catena-media-har-salt-aktier-for-3-5-miljoner",
+      "guid": "eed4c3b5-28d1-4028-bb0c-d982d3895f4b",
+      "published_at": "2026-11-20T15:54:52+01:00",
+      "fetched_at": "2026-11-20T16:01:17+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/30406c1d-133c-4453-9569-daad518b150d.jpeg?width=600",
+      "sv": {
+        "title": "Ledamot i Catena Media har sålt aktier för 3,5 miljoner",
+        "summary": "Martin Zetterlund, styrelseledamot i Catena Media sedan december 2024, har sålt knappt 1,2 miljoner aktier i bolaget för 3 kronor styck, eller totalt 3,5 miljoner kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Board member of Catena Media has sold shares worth SEK 3.5 million",
+        "summary": "Martin Zetterlund, board member of Catena Media since December 2024, has sold just under 1.2 million shares in the company at SEK 3 each, or SEK 3.5 million in total."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
+    {
+      "id": "ab28e5c3a5db",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/restaurang/recension-gp-testar-dorsia-pa-tradgardsgatan.638a2823-99a4-5354-aeb1-baa71331dc4c",
+      "guid": "638a2823-99a4-5354-aeb1-baa71331dc4c",
+      "published_at": "2026-11-20T15:51:59+01:00",
+      "fetched_at": "2026-11-20T16:01:17+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Restaurang",
+        "Tagg: Restauranger",
+        "Tagg: Krogar",
+        "Tagg: Hotell",
+        "Tagg: Barer",
+        "Tagg: Uteätarna",
+        "Tagg: Två Dagar",
+        "Tagg: Foodflow"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/8b1a6e7f-ed46-386b-beaa-a90c3e1cc618",
+      "sv": {
+        "title": "Lyxkrogen i Göteborg förtrollar – men något saknas på tallriken",
+        "summary": "På stans mest överdådiga hotellrestaurang är inte alla smaker lika storslagna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Luxury restaurant in Göteborg enchants – but something is missing on the plate",
+        "summary": "At the city's most lavish hotel restaurant, not all flavours are equally magnificent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
+    {
+      "id": "a5ce0665ed5b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/XogOyW/talmannen-moter-partiledarna-pa-tisdag",
+      "guid": "https://www.aftonbladet.se/nyheter/a/XogOyW/talmannen-moter-partiledarna-pa-tisdag?utm_medium=rss",
+      "published_at": "2026-11-20T15:49:54+01:00",
+      "fetched_at": "2026-11-20T16:01:16+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/112a7586-ced4-3c7e-ae0c-805aa3877ca4?format=auto&s=0c1eb52f71bfbfb1a6d53611f733acc4bd867ff6&w=1000",
+      "sv": {
+        "title": "Talmannen möter partiledarna på tisdag",
+        "summary": "Talman Andreas Norlén kommer att träffa partiledare och språkrör för samtliga partier…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Speaker meets party leaders on Tuesday",
+        "summary": "Speaker Andreas Norlén will meet party leaders and spokespersons for all parties…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
+    {
+      "id": "f1bb43525bc3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=efc11072-de1c-4ed6-a953-685ea6d5de48",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=efc11072-de1c-4ed6-a953-685ea6d5de48",
+      "published_at": "2026-11-20T15:49:15+01:00",
+      "fetched_at": "2026-11-20T16:01:17+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Ny talmansrunda på tisdag",
+        "summary": "Nya möten inplanerade: ”Led i processen”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New round of talks with the Speaker on Tuesday",
+        "summary": "New meetings scheduled: \"Led in the process\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
+    {
+      "id": "8e352940ea28",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/stockholm-treasury-minskar-forlusten",
+      "guid": "c3d8bbe4-1d3a-48f4-9b14-2a06ebabe973",
+      "published_at": "2026-11-20T15:49:05+01:00",
+      "fetched_at": "2026-11-20T16:01:17+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Stockholm Treasury minskar förlusten",
+        "summary": "Spotlightnoterade investmentbolaget Stockholm Treasury hade en nettoomsättning på 24.000 kronor i det tredje kvartalet 2026 (5,5 miljoner).",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stockholm Treasury reduces loss",
+        "summary": "Spotlight-listed investment company Stockholm Treasury had net revenue of SEK 24,000 in the third quarter of 2026 (SEK 5.5 million)."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
+    {
+      "id": "48a9bbdea6d3",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/universeum-utsatt-for-hackerattack.509fbf66-7d36-5f97-a089-3e0eded60c6a",
+      "guid": "509fbf66-7d36-5f97-a089-3e0eded60c6a",
+      "published_at": "2026-11-20T15:45:41+01:00",
+      "fetched_at": "2026-11-20T16:01:17+01:00",
+      "category": "science_tech",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: breaking-GP",
+        "Tagg: Universeum"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/c77f1da2-0436-3eab-b641-694d692b868e",
+      "sv": {
+        "title": "Universeum utsatt för hackerattack",
+        "summary": "Museet Universeum har blivit utsatt för en hackerattack.Enligt ett mejl till kunder skriver de att obehöriga kan ha kommit åt kunddata.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Universeum hit by hacker attack",
+        "summary": "The museum Universeum has been hit by a hacker attack. According to an email to customers, they write that unauthorised persons may have accessed customer data."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
     {
       "id": "b7004f6a4e6c",
       "schema_version": 1,
@@ -27,6 +309,60 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T15:45:52+01:00"
+      }
+    },
+    {
+      "id": "22eccc607ab3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/trump-overvager-strypa-chip-export-till-kina",
+      "guid": "f0b0910b-10f3-435d-8d57-38966857bb4b",
+      "published_at": "2026-11-20T15:43:07+01:00",
+      "fetched_at": "2026-11-20T16:01:17+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/51be0d65-082e-46b4-8be4-9fac31fdf05a.jpg?width=600",
+      "sv": {
+        "title": "Trump överväger strypa chip-export till Kina",
+        "summary": "Trumpregeringen överväger nya licenser som begränsar export av datorchip till Kina, uppger USA:s handelsrepresentant Jamieson Greer i en intervju med Bloomberg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump considers curbing chip exports to China",
+        "summary": "The Trump government is considering new licences that restrict exports of computer chips to China, according to US Trade Representative Jamieson Greer in an interview with Bloomberg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
+    {
+      "id": "684ef57dfd7d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/oppning-for-unga-nar-storbritannien-narmar-sig-eu",
+      "guid": "f829eca5-ee13-4d15-87a4-0e6e9685b6ca",
+      "published_at": "2026-11-20T15:42:14+01:00",
+      "fetched_at": "2026-11-20T16:01:17+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/35b133ac-be24-49b0-8dcc-8a14132e1641.jpg?width=600",
+      "sv": {
+        "title": "Öppning för unga när Storbritannien närmar sig EU",
+        "summary": "Billigare universitetsstudier och ökade möjligheter för unga ingår när EU och Storbritannien avtalar om en ny relation. ”Ni är alltid välkomna i EU”, hälsar rådsordförande António Costa på toppmötet i Bryssel.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Opening for young people as the United Kingdom moves closer to the EU",
+        "summary": "Cheaper university studies and greater opportunities for young people are included as the EU and the United Kingdom agree on a new relationship. \"You are always welcome in the EU\", says Council President António Costa at the summit in Brussels."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
       }
     },
     {
@@ -5118,342 +5454,6 @@
       "en": {
         "title": "Man with death list sought murder contract",
         "summary": "The 30-year-old with a death list of his schoolmates wanted to become a contract killer. He picked up a pistol in Göteborg and waited outside an address. But the victim never came, the 30-year-old gave up, took the train home and shot at an old classmate."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "54fdc8df4ace",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/svar-mer-analys-och-kritik-av-gta-behovs",
-      "guid": "https://www.dn.se/insandare/svar-mer-analys-och-kritik-av-gta-behovs/",
-      "published_at": "2026-11-20T10:58:05+01:00",
-      "fetched_at": "2026-11-20T11:01:11+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/4909d958-a807-4122-9aa8-8008a5d7b50e.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Svar: Mer analys och kritik av ”GTA” behövs",
-        "summary": "SVAR PÅ INSÄNDARE. Ansvarstagande och självsanering inom tv-spelsbranschen får man nog titta i stjärnorna efter. Men mediehajpen av tv-spelet ”Grand theft auto” (”GTA”) bör kunna bytas ut mot analys och kritik, skriver Jens Busch.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Letter. Reply: More analysis and criticism of “GTA” is needed",
-        "summary": "REPLY TO LETTER. Responsibility and self-regulation in the video game industry are something we will probably have to wait for in the stars. But the media hype around the video game “Grand theft auto” (“GTA”) should be replaced with analysis and criticism, writes Jens Busch."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "e56d77dc4344",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/debatt/brynolfsson-v-undviker-att-svara-pa-fragan-vem-som-ska-betala.7446ec97-69ec-5afa-9af6-64f2ee8734ba",
-      "guid": "7446ec97-69ec-5afa-9af6-64f2ee8734ba",
-      "published_at": "2026-11-20T10:56:18+01:00",
-      "fetched_at": "2026-11-20T11:31:03+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Debatt",
-        "Tagg: Arbetstid–",
-        "Tagg: Äldreomsorg",
-        "Tagg: Arbetsgivare"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/11b0146f-441c-35c5-b0c2-3f26a63b3d72",
-      "sv": {
-        "title": "Brynolfsson (V) undviker att svara på frågan vem som ska betala",
-        "summary": "Om en generell arbetstidsförkortning är lösningen, varför införs den bara i begränsad skala i Göteborg? skriver företrädare för Almega.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Brynolfsson (V) avoids answering who is to pay",
-        "summary": "If a general reduction in working hours is the solution, why is it only being introduced on a limited scale in Göteborg? writes representatives of Almega."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:31:22+01:00"
-      }
-    },
-    {
-      "id": "451585d7371d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/batteribolaget-polarium-i-konkurs",
-      "guid": "9e653c68-0caa-4d0a-ad98-dc19388c7262",
-      "published_at": "2026-11-20T10:51:29+01:00",
-      "fetched_at": "2026-11-20T11:01:14+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/c31f18bc-de77-4183-b181-3434166fb2e4.jpg?width=600",
-      "sv": {
-        "title": "Batteribolaget Polarium i konkurs",
-        "summary": "Batteribolaget Polarium går i konkurs. Det är ännu ett i raden av misslyckade gröna satsningar av finansmannen Harald Mix.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Battery company Polarium goes bankrupt",
-        "summary": "Battery company Polarium is going bankrupt. It is yet another in a series of failed green ventures by financier Harald Mix."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "0fe19ac5a15f",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/stockholm/taxichauffor-knivhotad-i-huddinge-man-gripen-for-mordforsok",
-      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/taxichauffor-knivhotad-i-huddinge-man-gripen-for-mordforsok",
-      "published_at": "2026-11-20T10:49:33+01:00",
-      "fetched_at": "2026-11-20T11:01:10+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Taxichaufför knivhotad i Huddinge – man gripen för mordförsök",
-        "summary": "En taxichaufför hotades och attackerades med kniv av en passagerare i Huddinge under tidiga fredagsmorgonen. Chauffören lyckades undkomma attacken och klarade sig utan fysiska skador.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Taxi driver threatened with knife in Huddinge – man arrested for attempted murder",
-        "summary": "A taxi driver was threatened and attacked with a knife by a passenger in Huddinge early Friday morning. The driver managed to escape the attack and was unharmed physically."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "619f924d8451",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/mv4e13pwzKvv18V0DfcZo/man-atalas-foer-att-ha-koert-ihjael-lotta-hellstrand-57",
-      "guid": "mv4e13pwzKvv18V0DfcZo",
-      "published_at": "2026-11-20T10:49:18+01:00",
-      "fetched_at": "2026-11-20T11:01:12+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Brott och straff"
-      ],
-      "sv": {
-        "title": "20-årig man åtalas för att ha kört ihjäl Lotta Hellstrand, 57",
-        "summary": "Vittnen har uppgett i polisutredningen att vansinnesfärden natten den 12 september gick i över 200 km/h och delvis i fel körfält. – Jag har aldrig sett någon köra så fort i hela mitt liv, säger ett ögonvittne i förhör. Färden tog slut mellan Karlavägen och Sibyllegatan på Östermalm.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "20-year-old man charged for running over and killing Lotta Hellstrand, 57",
-        "summary": "Witnesses have stated in the police investigation that the reckless drive on the night of 12 September exceeded 200 km/h and partly took place in the wrong lane. – I have never seen anyone drive so fast in my entire life, says an eyewitness in an interview. The drive ended between Karlavägen and Sibyllegatan in Östermalm."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "c74da98f781a",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=65ca0fc2-306b-485c-9e75-0299006d91f1",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=65ca0fc2-306b-485c-9e75-0299006d91f1",
-      "published_at": "2026-11-20T10:49:07+01:00",
-      "fetched_at": "2026-11-20T11:01:12+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Försökte fly genom fönster",
-        "summary": "Man misstänkt för mordförsök på taxichaufför",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tried to escape through window",
-        "summary": "Man suspected of attempted murder of taxi driver"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "62ea228bc8ce",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/1vnraW/hoga-skrin-och-lekfullt-tassande-oppnar-oronen",
-      "guid": "https://www.svd.se/a/1vnraW/hoga-skrin-och-lekfullt-tassande-oppnar-oronen?utm_medium=rss",
-      "published_at": "2026-11-20T10:46:55+01:00",
-      "fetched_at": "2026-11-20T11:01:12+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/d8b72568-2eb0-3529-88f7-33cafcc94d0c?format=auto&s=08d6db3f93efdaad39c86fdb590bbfdf095d61ba&w=1000",
-      "sv": {
-        "title": "Höga skrin och lekfullt tassande öppnar öronen",
-        "summary": "Sound of Stockholm öppnar med polska kvartetten Kwartludium. De spelar pregnant och meningsfull…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "High screeches and playful tapping open the ears",
-        "summary": "Sound of Stockholm opens with the Polish quartet Kwartludium. They play pregnant and meaningful…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "609963d5ab6d",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/mat-dryck/helgens-drink-julmust",
-      "guid": "https://www.dn.se/mat-dryck/helgens-drink-julmust/",
-      "published_at": "2026-11-20T10:46:11+01:00",
-      "fetched_at": "2026-11-20T11:01:11+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/6e70f413-7877-467d-9d93-645f7bea9772.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Helgens drink: Julmust",
-        "summary": "DN:s Elin Peters tipsar om en drink i tiden. Denna helg en klassiker utan sprit.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Weekend's drink: Julmust",
-        "summary": "DN's Elin Peters recommends a drink from another era. This weekend a classic without spirits."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "0d1b6f9ba806",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/svar-aven-kriminella-maste-fa-delta-i-demokratin",
-      "guid": "https://www.dn.se/insandare/svar-aven-kriminella-maste-fa-delta-i-demokratin/",
-      "published_at": "2026-11-20T10:45:01+01:00",
-      "fetched_at": "2026-11-20T10:45:45+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/6991da57-4c1b-441e-9a53-09edcab4d9f3.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Svar: Även kriminella måste få delta i demokratin",
-        "summary": "SVAR PÅ INSÄNDARE. Demokratin är inte till bara för de välutbildade, välanpassade och ostraffade. Att ha ett kriminellt förflutet innebär inte att man för alltid ska förlora möjligheten att företräda andra människor, skriver Jonas Paulsson, partiledare för lokalpartiet Växtbaserat Täby.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Letter: Criminals must also be allowed to take part in democracy",
-        "summary": "REPLY TO LETTER. Democracy is not only for the well-educated, well-adjusted and never-convicted. Having a criminal past does not mean one should forever lose the opportunity to represent other people, writes Jonas Paulsson, party leader of the local party Växtbaserat Täby."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T10:45:54+01:00"
-      }
-    },
-    {
-      "id": "ee88ad52e7fe",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/WmbXjQ/rubio-spekuleras-som-kandidat-i-valet-i-usa-2028-ilska-vaxer-mot-vance",
-      "guid": "https://www.svd.se/a/WmbXjQ/rubio-spekuleras-som-kandidat-i-valet-i-usa-2028-ilska-vaxer-mot-vance?utm_medium=rss",
-      "published_at": "2026-11-20T10:44:33+01:00",
-      "fetched_at": "2026-11-20T11:01:12+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/c196b7ce-701d-3be8-b4a8-25ce17a7815c?format=auto&s=874bbdb5b118fee75eadebb416e9735ed5ad8cc0&w=1000",
-      "sv": {
-        "title": "Pekas ut som toppnamn – bakslag för JD Vance",
-        "summary": "Spekulationer om Marco Rubio som presidentkandidat växer i takt med att Donald Trump uppges störa…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Named as top contender – setback for JD Vance",
-        "summary": "Speculation about Marco Rubio as presidential candidate grows as Donald Trump is reportedly disturbing…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "03456a3b763a",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/gais/gais-basen-stefan-tilk-inom-tre-ar-ska-vi-ha-vunnit-sm-guld.d3d7b3a4-41cc-57f9-82b1-1cf4568d3489",
-      "guid": "d3d7b3a4-41cc-57f9-82b1-1cf4568d3489",
-      "published_at": "2026-11-20T10:43:58+01:00",
-      "fetched_at": "2026-11-20T11:01:13+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Gais",
-        "Tagg: Stefan Tilk",
-        "Tagg: Gais",
-        "Tagg: Magnus Sköldmark",
-        "Tagg: Fredrik Holmberg"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/3b04edac-cd69-375b-902c-bf75ca9ac074",
-      "sv": {
-        "title": "Gais-pampens kaxiga utspel: ”SM-guld inom tre år”",
-        "summary": "Löfter för framtiden: ”Då är vi tillbaka”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Gais boss's cheeky statement: “Swedish championship gold within three years”",
-        "summary": "Promises for the future: “Then we are back.”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T11:01:27+01:00"
-      }
-    },
-    {
-      "id": "b64da0e1fd49",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/uffes-kop-och-salj-koplage-i-pressade-ravarubolaget",
-      "guid": "1ee64bbb-f9b4-52a8-b030-b50fb127924c",
-      "published_at": "2026-11-20T10:38:04+01:00",
-      "fetched_at": "2026-11-20T11:01:13+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Uffes Köp & Sälj: \"Köpläge i pressade råvarubolaget\"",
-        "summary": "Ulf Petersson ger två case",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Uffe's Buy & Sell: \"Buy opportunity in pressured commodity company\"",
-        "summary": "Ulf Petersson gives two cases"
       },
       "translation": {
         "status": "done",

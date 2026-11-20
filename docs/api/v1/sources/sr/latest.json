@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T15:45:53+01:00",
+  "generated_at": "2026-11-20T16:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "50450e99551b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347349",
+      "guid": "rss:sr.se/article/9347349",
+      "published_at": "2026-11-20T15:55:00+01:00",
+      "fetched_at": "2026-11-20T16:01:14+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Tusk om kränkningarna: ”Medveten rysk provokation”",
+        "summary": "Fredagsmorgonens kränkningar av det polska luftrummet var mest troligen en ”medveten rysk provokation”. Det säger landets premiärminister Donald Tusk. Kränkningarna skedde i samband med nattens massiva attack mot Ukraina.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Tusk on violations: \"Deliberate Russian provocation\"",
+        "summary": "Friday morning's violations of Polish airspace were most likely a \"deliberate Russian provocation\". So says the country's prime minister Donald Tusk. The violations occurred in connection with the night's massive attack on Ukraine."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
     {
       "id": "aa4cdbca54a6",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Demonstrations in Turkey as the climate summit reaches halfway",
         "summary": "Demonstrations are being held today at the UN climate conference COP31 in Turkey. Ekot's climate reporter Mona Hambraeus, on site in Antalya, reports on a mixed crowd of demonstrators. “The People's March for the Climate is going ahead now, organised by Greenpeace among others”, she says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "7cb0505cccde",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340985",
-      "guid": "rss:sr.se/article/9340985",
-      "published_at": "2026-11-14T13:00:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Magdalena Andersson: V är redo att delta i förhandlingar",
-        "summary": "Socialdemokraterna vill bilda en regering med Centerpartiet och Miljöpartiet i samarbete med Vänsterpartiet, skriver Magdalena Andersson i en debattartikel i Expressen. Vänsterpartiet har tydliggjort att även de står redo att delta i dessa förhandlingar, enligt Andersson.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Magdalena Andersson: V is ready to take part in negotiations",
-        "summary": "The Social Democrats want to form a government with the Centre Party and the Green Party in cooperation with the Left Party, Magdalena Andersson writes in a debate article in Expressen. According to Andersson, the Left Party has made clear that it too is ready to take part in these negotiations."
       },
       "translation": {
         "status": "done",

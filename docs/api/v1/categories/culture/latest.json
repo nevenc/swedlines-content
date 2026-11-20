@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-11-20T15:45:53+01:00",
+  "generated_at": "2026-11-20T16:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ab28e5c3a5db",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/restaurang/recension-gp-testar-dorsia-pa-tradgardsgatan.638a2823-99a4-5354-aeb1-baa71331dc4c",
+      "guid": "638a2823-99a4-5354-aeb1-baa71331dc4c",
+      "published_at": "2026-11-20T15:51:59+01:00",
+      "fetched_at": "2026-11-20T16:01:17+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Restaurang",
+        "Tagg: Restauranger",
+        "Tagg: Krogar",
+        "Tagg: Hotell",
+        "Tagg: Barer",
+        "Tagg: Uteätarna",
+        "Tagg: Två Dagar",
+        "Tagg: Foodflow"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/8b1a6e7f-ed46-386b-beaa-a90c3e1cc618",
+      "sv": {
+        "title": "Lyxkrogen i Göteborg förtrollar – men något saknas på tallriken",
+        "summary": "På stans mest överdådiga hotellrestaurang är inte alla smaker lika storslagna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Luxury restaurant in Göteborg enchants – but something is missing on the plate",
+        "summary": "At the city's most lavish hotel restaurant, not all flavours are equally magnificent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
     {
       "id": "f61175e4ab11",
       "schema_version": 1,
@@ -5594,32 +5631,6 @@
       "en": {
         "title": "Lisa Röstlund honoured again – wins Årets visselpipa",
         "summary": "Aftonbladet reporter: \"A great honour\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T14:15:54+01:00"
-      }
-    },
-    {
-      "id": "ab2ce942abe3",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/kungligt/har-praoar-prinsessan-estelle-hos-alexander-stubb",
-      "guid": "https://www.expressen.se/nyheter/kungligt/har-praoar-prinsessan-estelle-hos-alexander-stubb/",
-      "published_at": "2026-11-18T14:02:17+01:00",
-      "fetched_at": "2026-11-18T14:15:46+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Här praoar prinsessan Estelle hos Alexander Stubb",
-        "summary": "Förra veckan praoade prinsessan Estelle, 14, hos sin morfar, kungen. Nu fortsätter hon hos Finlands president Alexander Stubb. ”Kul och lärorikt”, sa prinsessan om första praoveckan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Princess Estelle does work experience with Alexander Stubb",
-        "summary": "Last week Princess Estelle, 14, did work experience with her maternal grandfather, the King. Now she continues with Finnish President Alexander Stubb. \"Fun and educational,\" the princess said about her first work-experience week."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T15:45:53+01:00",
+  "generated_at": "2026-11-20T16:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e478161eaf63",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/darfor-pratar-alla-borgare-om-danska-modellen",
+      "guid": "04f214b9-18a0-4ce0-b62b-f4d63f941b21",
+      "published_at": "2026-11-20T16:00:00+01:00",
+      "fetched_at": "2026-11-20T16:01:18+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/9559467a-3646-4a34-8e2a-f85762711515.jpeg?width=600",
+      "sv": {
+        "title": "Därför pratar alla borgare om danska modellen",
+        "summary": "De borgerliga partierna förlorade valet men hoppas ändå knipa makten genom att locka till sig Centerpartiet. Men Sverigedemokraterna då, undrar Centerpartiet, hur ska vi slippa beroende av dem? Genom den danska modellen! svarar Ulf Kristerssons lag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Why all the centre-right are talking about the Danish model",
+        "summary": "The centre-right parties lost the election but hope to gain power by attracting the Centre Party. But what about the Sweden Democrats, the Centre Party asks, how do we avoid depending on them? Through the Danish model! replies Ulf Kristersson's law."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
     {
       "id": "b7004f6a4e6c",
       "schema_version": 1,
@@ -5171,33 +5198,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T12:45:51+01:00"
-      }
-    },
-    {
-      "id": "12bccf24406b",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/domkapitlet-pausar-utredning-av-birgitta-ed",
-      "guid": "9097a466-e77e-4101-a7b0-b67dd09df433",
-      "published_at": "2026-11-18T12:25:49+01:00",
-      "fetched_at": "2026-11-18T12:30:58+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/18f499f6-7b23-4db6-96fc-dac8cf24f24b.jpg?width=600",
-      "sv": {
-        "title": "Domkapitlet pausar utredning av Birgitta Ed",
-        "summary": "Domkapitlet i Strängnäs stift tar en paus i sin utredning av om statsminister Ulf Kristerssons hustru Birgitta Ed är lämplig som präst.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Diocesan chapter pauses investigation of Birgitta Ed",
-        "summary": "The diocesan chapter of the Strängnäs diocese is pausing its investigation into whether Prime Minister Ulf Kristersson's wife Birgitta Ed is suitable as a priest."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T12:31:14+01:00"
       }
     }
   ]

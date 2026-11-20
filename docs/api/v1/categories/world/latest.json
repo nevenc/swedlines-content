@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T15:45:53+01:00",
+  "generated_at": "2026-11-20T16:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "50450e99551b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347349",
+      "guid": "rss:sr.se/article/9347349",
+      "published_at": "2026-11-20T15:55:00+01:00",
+      "fetched_at": "2026-11-20T16:01:14+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Tusk om kränkningarna: ”Medveten rysk provokation”",
+        "summary": "Fredagsmorgonens kränkningar av det polska luftrummet var mest troligen en ”medveten rysk provokation”. Det säger landets premiärminister Donald Tusk. Kränkningarna skedde i samband med nattens massiva attack mot Ukraina.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Tusk on violations: \"Deliberate Russian provocation\"",
+        "summary": "Friday morning's violations of Polish airspace were most likely a \"deliberate Russian provocation\". So says the country's prime minister Donald Tusk. The violations occurred in connection with the night's massive attack on Ukraine."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
     {
       "id": "b7004f6a4e6c",
       "schema_version": 1,
@@ -5354,32 +5380,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T00:01:18+01:00"
-      }
-    },
-    {
-      "id": "88dc8d8a73f7",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/bk5eEl/ryssland-krimbron-attackerad-igen",
-      "guid": "https://www.svd.se/a/bk5eEl/ryssland-krimbron-attackerad-igen?utm_medium=rss",
-      "published_at": "2026-11-18T23:59:49+01:00",
-      "fetched_at": "2026-11-19T00:15:44+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ryssland: Krimbron attackerad igen",
-        "summary": "Den viktiga bron till Krimhalvön har återigen attackerats, hävdar Moskvas Krimguvernör Sergej…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russia: Crimea bridge attacked again",
-        "summary": "The important bridge to the Crimean Peninsula has once again been attacked, claims Moscow's Crimea governor Sergei…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T00:15:51+01:00"
       }
     }
   ]

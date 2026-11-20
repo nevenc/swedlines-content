@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-20T15:45:53+01:00",
+  "generated_at": "2026-11-20T16:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e478161eaf63",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sverige/darfor-pratar-alla-borgare-om-danska-modellen",
+      "guid": "04f214b9-18a0-4ce0-b62b-f4d63f941b21",
+      "published_at": "2026-11-20T16:00:00+01:00",
+      "fetched_at": "2026-11-20T16:01:18+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/9559467a-3646-4a34-8e2a-f85762711515.jpeg?width=600",
+      "sv": {
+        "title": "Därför pratar alla borgare om danska modellen",
+        "summary": "De borgerliga partierna förlorade valet men hoppas ändå knipa makten genom att locka till sig Centerpartiet. Men Sverigedemokraterna då, undrar Centerpartiet, hur ska vi slippa beroende av dem? Genom den danska modellen! svarar Ulf Kristerssons lag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Why all the centre-right are talking about the Danish model",
+        "summary": "The centre-right parties lost the election but hope to gain power by attracting the Centre Party. But what about the Sweden Democrats, the Centre Party asks, how do we avoid depending on them? Through the Danish model! replies Ulf Kristersson's law."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
+    {
+      "id": "a5ce0665ed5b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/XogOyW/talmannen-moter-partiledarna-pa-tisdag",
+      "guid": "https://www.aftonbladet.se/nyheter/a/XogOyW/talmannen-moter-partiledarna-pa-tisdag?utm_medium=rss",
+      "published_at": "2026-11-20T15:49:54+01:00",
+      "fetched_at": "2026-11-20T16:01:16+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/112a7586-ced4-3c7e-ae0c-805aa3877ca4?format=auto&s=0c1eb52f71bfbfb1a6d53611f733acc4bd867ff6&w=1000",
+      "sv": {
+        "title": "Talmannen möter partiledarna på tisdag",
+        "summary": "Talman Andreas Norlén kommer att träffa partiledare och språkrör för samtliga partier…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Speaker meets party leaders on Tuesday",
+        "summary": "Speaker Andreas Norlén will meet party leaders and spokespersons for all parties…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
+    {
+      "id": "f1bb43525bc3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=efc11072-de1c-4ed6-a953-685ea6d5de48",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=efc11072-de1c-4ed6-a953-685ea6d5de48",
+      "published_at": "2026-11-20T15:49:15+01:00",
+      "fetched_at": "2026-11-20T16:01:17+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Ny talmansrunda på tisdag",
+        "summary": "Nya möten inplanerade: ”Led i processen”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New round of talks with the Speaker on Tuesday",
+        "summary": "New meetings scheduled: \"Led in the process\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
     {
       "id": "c46e70e323c2",
       "schema_version": 1,
@@ -5329,87 +5409,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T03:31:05+01:00"
-      }
-    },
-    {
-      "id": "5625af3d262f",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344054",
-      "guid": "rss:sr.se/article/9344054",
-      "published_at": "2026-11-17T01:55:00+01:00",
-      "fetched_at": "2026-11-17T02:01:09+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Giertz (SD) ändrar sig – lämnar inte riksdagen",
-        "summary": "Sverigedemokraternas riksdagsledamot Rasmus Giertz, som i en artikel i Dagens Nyheter anklagas för sexuella övertramp, säger till Samnytt att han stannar i riksdagen. Detta eftersom han citat \"inte vill låta DN vinna\".",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Giertz (SD) changes his mind – will not leave the Riksdag",
-        "summary": "Sweden Democrat Riksdag member Rasmus Giertz, who is accused of sexual misconduct in an article in Dagens Nyheter, tells Samnytt that he is staying in the Riksdag. The reason, he says, is that he \"does not want to let DN win\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T02:01:15+01:00"
-      }
-    },
-    {
-      "id": "880818f163b1",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4P7d7wkFXsAWM73dJ8Y90c/nya-attacken-mot-c-boerjar-naestan-undra-om-det-aer-en-bluff",
-      "guid": "4P7d7wkFXsAWM73dJ8Y90c",
-      "published_at": "2026-11-16T22:54:57+01:00",
-      "fetched_at": "2026-11-16T23:01:07+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Nya attacken mot C: ”Börjar nästan undra om det är en bluff”",
-        "summary": "V-toppen Ida Gabrielsson: ”Lika stabilt som att hålla sig i sitt duschdraperi”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New attack on the Centre Party: \"Starting to wonder if it's a bluff\"",
-        "summary": "Left Party top figure Ida Gabrielsson: \"As stable as holding on to your shower curtain\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T23:01:13+01:00"
-      }
-    },
-    {
-      "id": "40382ee3b5c7",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/rasmus-giertz-sd-svanger-stannar-i-riksdagen",
-      "guid": "https://www.expressen.se/nyheter/politik/rasmus-giertz-sd-svanger-stannar-i-riksdagen/",
-      "published_at": "2026-11-16T22:52:40+01:00",
-      "fetched_at": "2026-11-16T23:01:07+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Rasmus Giertz (SD) svänger – stannar i riksdagen",
-        "summary": "I en DN-artikel anklagas riksdagsledamoten Rasmus Giertz (SD) för sexuella övertramp mot kvinnor i partiets ungdomsförbund. Giertz nekar till anklagelserna, men sa efter publiceringen att han skulle lämna riksdagen. Nu har han ändrat sig. SD har inlett ett personärende mot honom.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Rasmus Giertz (SD) changes course – stays in the Riksdag",
-        "summary": "A DN article accuses Riksdag member Rasmus Giertz (SD) of sexual misconduct towards women in the party's youth league. Giertz denies the allegations, but said after publication that he would leave the Riksdag. Now he has changed his mind. The Sweden Democrats have opened a personnel case against him."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T23:01:13+01:00"
       }
     }
   ]

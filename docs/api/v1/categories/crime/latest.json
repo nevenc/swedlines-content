@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T15:45:53+01:00",
+  "generated_at": "2026-11-20T16:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "587548ba7c54",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/4EqQOR/kvinna-dodades-pa-arbetsplatsen-misstankt-man-begars-haktad",
+      "guid": "https://www.aftonbladet.se/nyheter/a/4EqQOR/kvinna-dodades-pa-arbetsplatsen-misstankt-man-begars-haktad?utm_medium=rss",
+      "published_at": "2026-11-20T16:00:59+01:00",
+      "fetched_at": "2026-11-20T16:01:16+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/ed717951-eac2-4f7a-98e3-3abb2b37b472?format=auto&s=0cd4d3acce5724f2b346ac6917b56ba2b90831ea&w=1000",
+      "sv": {
+        "title": "Kvinna dödades på arbetsplatsen – misstänkt man begärs häktad",
+        "summary": "Kvinna dödad på jobbet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Woman killed at workplace – suspect requested to be remanded in custody",
+        "summary": "Woman killed at work"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T16:01:24+01:00"
+      }
+    },
     {
       "id": "171ac1a62e60",
       "schema_version": 1,
@@ -5360,35 +5387,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T00:45:47+01:00"
-      }
-    },
-    {
-      "id": "6e351d2f7e2c",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1f8dCdjbCeuuNp4JNNodg4/haektade-foer-stoeld-av-krigsmateriel-det-aer-vaert-mycket-pengar",
-      "guid": "1f8dCdjbCeuuNp4JNNodg4",
-      "published_at": "2026-11-16T22:23:24+01:00",
-      "fetched_at": "2026-11-16T22:31:11+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Häktade för stöld av krigsmateriel: ”Det är värt mycket pengar”",
-        "summary": "Det var under förra veckan som uppgifter kom om att en stöld hade inträffat hos ett företag i anslutning till Boforsområdet i Karlskoga. Nu har två män häktats på sannolika skäl misstänkta för grov stöld.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Two remanded in custody for theft of military equipment: \"It's worth a lot of money\"",
-        "summary": "The theft at a company in the Bofors area in Karlskoga came to light last week. Two men have now been remanded in custody on probable cause, suspected of aggravated theft."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T22:31:17+01:00"
       }
     }
   ]
