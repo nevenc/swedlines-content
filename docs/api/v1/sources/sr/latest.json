@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T18:31:09+01:00",
+  "generated_at": "2026-11-20T18:45:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "dcce352e7c39",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347532",
+      "guid": "rss:sr.se/article/9347532",
+      "published_at": "2026-11-20T18:31:00+01:00",
+      "fetched_at": "2026-11-20T18:45:48+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Furtenbach: ”Talmannen har konstruerat en sorts tävling”",
+        "summary": "Regeringsförhandlingarna är inne i ett intensivt skede. På tisdag håller talmannen en ny talmansrunda, samtidigt som både Magdalena Andersson och Ulf Kristersson försöker få Centerpartiet med sig.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Furtenbach: \"The Speaker has constructed a kind of competition\"",
+        "summary": "The government negotiations are in an intense phase. On Tuesday the Speaker holds a new round of talks with the party leaders, while both Magdalena Andersson and Ulf Kristersson try to bring the Centre Party along."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T18:45:55+01:00"
+      }
+    },
     {
       "id": "50c7134abc16",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T03:31:50+01:00"
-      }
-    },
-    {
-      "id": "74b57f5abe0d",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341149",
-      "guid": "rss:sr.se/article/9341149",
-      "published_at": "2026-11-15T01:15:00+01:00",
-      "fetched_at": "2026-11-15T01:26:17+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "SpaceX fångade farkosten i historisk landning",
-        "summary": "Rymdföretaget SpaceX har för första gången lyckats genomföra en kontrollerad landning av inte bara bärraketer, utan även en rymdfarkost. Med hjälp av jättelika mekaniska armar fångades farkosten upp i luften innan den nådde marken.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "SpaceX catches spacecraft in historic landing",
-        "summary": "SpaceX has for the first time succeeded in a controlled landing of not only rocket boosters but also a spacecraft. Using giant mechanical arms, the spacecraft was caught in mid-air before it reached the ground."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T01:26:27+01:00"
       }
     }
   ]
