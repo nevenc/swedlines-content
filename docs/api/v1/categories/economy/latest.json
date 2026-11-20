@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-20T05:31:10+01:00",
+  "generated_at": "2026-11-20T05:45:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5b3483534ff1",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/martin-i-arboga-vann-mot-storforetaget-slipper-solcellspark-bakom-huset",
+      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/martin-i-arboga-vann-mot-storforetaget-slipper-solcellspark-bakom-huset",
+      "published_at": "2026-11-20T05:30:00+01:00",
+      "fetched_at": "2026-11-20T05:45:38+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Martin i Arboga vann mot storföretaget – slipper solcellspark bakom huset",
+        "summary": "Martin Carlbinder och hans grannar i Arboga skulle bli omringade av en jättelik solcellspark. De gick ihop och kämpade emot. Nu har företaget pausat etableringen. – Det känns jätteskönt, säger Martin Carlbinder.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Martin in Arboga won against the company – no solar park behind the house",
+        "summary": "Martin Carlbinder and his neighbours in Arboga were to be surrounded by a huge solar park. They joined forces and fought back. Now the company has paused the development. – It feels really great, says Martin Carlbinder."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T05:45:48+01:00"
+      }
+    },
+    {
+      "id": "6591835ea51e",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/varmland/hoga-elpriser-stalverket-i-bjorneborg-varnar-for-svag-svensk-konkurrenskraft",
+      "guid": "https://www.svt.se/nyheter/lokalt/varmland/hoga-elpriser-stalverket-i-bjorneborg-varnar-for-svag-svensk-konkurrenskraft",
+      "published_at": "2026-11-20T05:30:00+01:00",
+      "fetched_at": "2026-11-20T05:45:38+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Höga elpriser: Stålverket i Björneborg varnar för svag svensk konkurrenskraft",
+        "summary": "Stålverket Björneborg Steel känner en oro över de väntande höga elpriserna i vinter. Inte bara för egen skull utan för hela industrins konkurrenskraft mot andra europeiska företag. – Orättvist, säger företagets vd Håkan Dedorsson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "High electricity prices: Björneborg steelworks warns of weak Swedish competitiveness",
+        "summary": "Björneborg Steel is concerned about the high electricity prices expected this winter. Not only for its own sake but for the competitiveness of the whole industry against other European companies. – Unfair, says the company's CEO Håkan Dedorsson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T05:45:48+01:00"
+      }
+    },
+    {
+      "id": "9b0c7386e563",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/softbank-rasar-tvasiffrigt-pa-roda-asienborser",
+      "guid": "3c3484ce-8d1f-4079-8864-f2e8dffaa5e9",
+      "published_at": "2026-11-20T05:26:49+01:00",
+      "fetched_at": "2026-11-20T05:45:40+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8acea6c4-b318-4eb9-ac69-5c92731dfb86.jpeg?width=600",
+      "sv": {
+        "title": "Softbank rasar tvåsiffrigt på röda Asienbörser",
+        "summary": "Börserna fortsätter att falla i Asien. Flera av de stora indexen ser kraftiga nedgångar under fredagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Softbank plunges double digits on red Asian stock exchanges",
+        "summary": "Stock markets continue to fall in Asia. Several of the major indices show sharp declines on Friday."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T05:45:48+01:00"
+      }
+    },
     {
       "id": "3578fd463639",
       "schema_version": 1,
@@ -139,6 +218,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T23:31:02+01:00"
+      }
+    },
+    {
+      "id": "9d463821ee0b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/ekonomi/fyra-maklare-far-licens-indragen-har-skulder",
+      "guid": "https://www.expressen.se/ekonomi/fyra-maklare-far-licens-indragen-har-skulder/",
+      "published_at": "2026-11-19T23:22:26+01:00",
+      "fetched_at": "2026-11-20T05:45:39+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Fyra mäklare får licens indragen – har skulder",
+        "summary": "Närmare 3,4 miljoner kronor. Så mycket hade en mäklare i skuld – och nu förlorar han sin licens. Ytterligare tre mäklare blir också av med sina licenser på grund av skulder.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Four estate agents lose licences – have debts",
+        "summary": "Almost SEK 3.4 million. That is how much one estate agent owed – and now he loses his licence. Three more estate agents are also losing their licences due to debts."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T05:45:48+01:00"
       }
     },
     {
@@ -5208,104 +5313,6 @@
       "en": {
         "title": "Trump considers new attacks on Iran – oil price rises",
         "summary": "The oil price is rising after reports that US President Donald Trump is considering a new round of extensive military attacks on Iran, following warnings that the country is rebuilding its missile and drone capacity."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T07:15:50+01:00"
-      }
-    },
-    {
-      "id": "aec96f707ab1",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345833",
-      "guid": "rss:sr.se/article/9345833",
-      "published_at": "2026-11-19T07:03:00+01:00",
-      "fetched_at": "2026-11-19T07:15:40+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "AI-jätten till börsen – väntas sätta rekord",
-        "summary": "Den amerikanska AI-jätten Anthropic ska börsintroduceras med sin första handelsdag på Nasdaq i New York på torsdagen. Anthropic står bakom en av de stora AI-tjänsterna, Claude. I ett pressmeddelande skriver bolaget att introduktionskursen sätts till till 83 dollar per aktie.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "AI giant goes public – expected to set record",
-        "summary": "US AI giant Anthropic is to go public with its first trading day on Nasdaq in New York on Thursday. Anthropic is behind one of the major AI services, Claude. In a press release, the company writes that the introductory share price is set at USD 83 per share."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T07:15:50+01:00"
-      }
-    },
-    {
-      "id": "d861d607984a",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-85-kvm-saldes-for-2-6-miljoner",
-      "guid": "4e84739b-d423-403a-87be-d7efd6cea655",
-      "published_at": "2026-11-19T07:02:48+01:00",
-      "fetched_at": "2026-11-19T07:15:43+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Hus på 85 kvm såldes för 2,6 miljoner"
-      },
-      "en": {
-        "title": "85 sq m house sold for SEK 2.6 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T07:15:50+01:00"
-      }
-    },
-    {
-      "id": "e3f173cbc272",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/ny-agare-till-tomt-i-hjarup",
-      "guid": "d1cda23d-985e-4fa1-b016-b4b551756701",
-      "published_at": "2026-11-19T07:02:48+01:00",
-      "fetched_at": "2026-11-19T07:15:43+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Ny ägare till tomt i Hjärup"
-      },
-      "en": {
-        "title": "New owner of plot in Hjärup"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T07:15:50+01:00"
-      }
-    },
-    {
-      "id": "b9ae88644008",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/wallenberg-investerar-i-ai-bolag-fran-umea",
-      "guid": "7f9522a4-a460-4480-b472-8013d075b22f",
-      "published_at": "2026-11-19T07:02:31+01:00",
-      "fetched_at": "2026-11-19T07:15:42+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Wallenberg investerar i AI-bolag från Umeå",
-        "summary": "Finansfamiljen Wallenbergs privata ägarbolag Wallenberg Investments investerar i AI-bolaget Algoryx som har sin verksamhet på företagsinkubatorn Uminova i Umeå.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Wallenberg invests in AI company from Umeå",
-        "summary": "The Wallenberg finance family's private holding company Wallenberg Investments is investing in the AI company Algoryx, which operates from the Uminova business incubator in Umeå."
       },
       "translation": {
         "status": "done",

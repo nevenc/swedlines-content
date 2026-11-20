@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-11-20T05:31:10+01:00",
+  "generated_at": "2026-11-20T05:45:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0f51e103b7c4",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/410921",
+      "guid": "https://tv.aftonbladet.se/video/410921?utm_medium=rss",
+      "published_at": "2026-11-20T05:34:57+01:00",
+      "fetched_at": "2026-11-20T05:45:39+01:00",
+      "category": "world",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/22514586679255a58155983200248886.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Husras i New York — åtta döda",
+        "summary": "Åtta döda ✓ Minst 18 skadade",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Building collapse in New York — eight dead",
+        "summary": "Eight dead ✓ At least 18 injured"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T05:45:48+01:00"
+      }
+    },
+    {
+      "id": "3f6b848c8990",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/yz3yqK/storbritannien-narmar-sig-eu-toppmote-i-bryssel",
+      "guid": "https://www.svd.se/a/yz3yqK/storbritannien-narmar-sig-eu-toppmote-i-bryssel?utm_medium=rss",
+      "published_at": "2026-11-20T05:30:10+01:00",
+      "fetched_at": "2026-11-20T05:45:39+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/6eea3ee1-6838-39e3-85b8-427387e1d907?format=auto&s=b9400f53e6da7d9045c6eb06d60776ea72b3e3a8&w=1000",
+      "sv": {
+        "title": "Storbritannien närmar sig EU – möte i Bryssel",
+        "summary": "Gamla sår rivs upp igen när EU och Storbritannien håller toppmöte i Bryssel.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Britain moves closer to EU – meeting in Brussels",
+        "summary": "Old wounds are reopened as the EU and Britain hold a summit in Brussels."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T05:45:48+01:00"
+      }
+    },
+    {
+      "id": "a16443845785",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/r8A3qe/storbritannien-narmar-sig-eu-toppmote-i-bryssel",
+      "guid": "https://www.aftonbladet.se/nyheter/a/r8A3qe/storbritannien-narmar-sig-eu-toppmote-i-bryssel?utm_medium=rss",
+      "published_at": "2026-11-20T05:30:09+01:00",
+      "fetched_at": "2026-11-20T05:45:39+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/6eea3ee1-6838-39e3-85b8-427387e1d907?format=auto&s=b9400f53e6da7d9045c6eb06d60776ea72b3e3a8&w=1000",
+      "sv": {
+        "title": "Storbritannien närmar sig EU – toppmöte i Bryssel",
+        "summary": "Gamla sår rivs upp igen när EU och Storbritannien håller toppmöte i Bryssel.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Britain moves closer to EU – summit in Brussels",
+        "summary": "Old wounds are reopened as the EU and Britain hold a summit in Brussels."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T05:45:48+01:00"
+      }
+    },
     {
       "id": "277396451212",
       "schema_version": 1,
@@ -5306,86 +5387,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T08:45:50+01:00"
-      }
-    },
-    {
-      "id": "24adb73a58e0",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/2vGoVr/norsk-sakerhetstjanst-okad-risk-for-terrorattacker",
-      "guid": "https://www.aftonbladet.se/nyheter/a/2vGoVr/norsk-sakerhetstjanst-okad-risk-for-terrorattacker?utm_medium=rss",
-      "published_at": "2026-11-18T08:39:43+01:00",
-      "fetched_at": "2026-11-18T08:45:40+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Norsk säkerhetstjänst: ”Ökad risk för terrorattacker”",
-        "summary": "Det finns en förhöjd risk för terrordåd i Norge nästa år, varnar den norska säkerhetstjänsten PST.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Norwegian security service: \"Increased risk of terror attacks\"",
-        "summary": "There is an elevated risk of terror attacks in Norway next year, warns the Norwegian security service PST."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T08:45:50+01:00"
-      }
-    },
-    {
-      "id": "c51e1bc8720a",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/michael-winiarski-ukraina-har-skal-att-oroa-sig-nar-xi-putin-och-trump-traffas",
-      "guid": "https://www.dn.se/varlden/michael-winiarski-ukraina-har-skal-att-oroa-sig-nar-xi-putin-och-trump-traffas/",
-      "published_at": "2026-11-18T08:21:49+01:00",
-      "fetched_at": "2026-11-18T08:30:59+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/9eee7941-5bc9-4ffb-850c-e9d869a7c83b.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Michael Winiarski: Ukraina har skäl att oroa sig när Xi, Putin och Trump träffas",
-        "summary": "Donald Trump älskar att frottera sig med utländska diktatorer. När han nu träffar Xi Jinping och Vladimir Putin kan det se ut som en fullträff. Men utfallet av hans tidigare toppmöten med Kinas och Rysslands ledare har varit skralt. Inget tyder på att trepartsmötet i Shenzhen blir mer givande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Michael Winiarski: Ukraine has reason to worry as Xi, Putin and Trump meet",
-        "summary": "Donald Trump loves to rub shoulders with foreign dictators. When he now meets Xi Jinping and Vladimir Putin, it may look like a perfect hit. But the outcome of his earlier summits with the leaders of China and Russia has been poor. Nothing suggests that the three-way meeting in Shenzhen will be more rewarding."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T08:31:09+01:00"
-      }
-    },
-    {
-      "id": "8d0152c5e8ad",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/historiskt-mote-mellan-xi-trump-och-putin-i-shenzhen",
-      "guid": "https://www.dn.se/varlden/historiskt-mote-mellan-xi-trump-och-putin-i-shenzhen/",
-      "published_at": "2026-11-18T08:21:45+01:00",
-      "fetched_at": "2026-11-18T08:30:59+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/c9c752ba-fb33-4e0f-b687-ba09bd5a4f2e.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Historiskt möte mellan Xi, Trump och Putin i Shenzhen",
-        "summary": "SHENZHEN. Civilklädda säkerhetsmän på helspänn står nära infarten till den flotta rekreationsanläggning där Kinas ledare Xi Jinping ska ta emot Donald Trump och Vladimir Putin på torsdag.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Historic meeting between Xi, Trump and Putin in Shenzhen",
-        "summary": "SHENZHEN. Plainclothes security men on high alert stand near the entrance to the luxurious resort where China's leader Xi Jinping is to receive Donald Trump and Vladimir Putin on Thursday."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T08:31:09+01:00"
       }
     }
   ]
