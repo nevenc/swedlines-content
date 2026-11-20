@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-20T12:45:50+01:00",
+  "generated_at": "2026-11-20T13:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "454daad532b7",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/helstrups-drag-ser-ut-att-fa-chansen-mot-mjallby",
+      "guid": "550ded1f-8001-4c7c-b090-7c834a5c726b",
+      "published_at": "2026-11-20T13:01:05+01:00",
+      "fetched_at": "2026-11-20T13:01:15+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/adefa56c-45a5-4ec0-a7bf-4210c58cc2bf.jpeg?width=600",
+      "sv": {
+        "title": "Helstrups drag – ser ut att få chansen mot Mjällby",
+        "summary": "Mayckel Lahdo har bara startat en match för MFF sedan han anslöt den siste augusti. Men nu talar mycket för att han får chansen på nytt. – Både kroppen och allt annat med honom är på väg uppåt, säger MFF-tränaren Gaute Helstrup.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Helstrup's view – appears set to get chance against Mjällby",
+        "summary": "Mayckel Lahdo has started only one match for MFF since joining at the end of August. But much suggests he will get the chance again. – Both his body and everything else about him are heading upwards, says MFF coach Gaute Helstrup."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:01:21+01:00"
+      }
+    },
+    {
+      "id": "3ba6799c7d8e",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/svahn-starkast-i-premiaren",
+      "guid": "89695d71-f5e3-47aa-8265-037cfd1e771d",
+      "published_at": "2026-11-20T13:00:37+01:00",
+      "fetched_at": "2026-11-20T13:01:15+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Svahn starkast i premiären"
+      },
+      "en": {
+        "title": "Svahn strongest in the season opener"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:01:21+01:00"
+      }
+    },
     {
       "id": "7192f5071008",
       "schema_version": 1,
@@ -5143,60 +5193,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T11:01:17+01:00"
-      }
-    },
-    {
-      "id": "2e5cee0c8a10",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/kvinna-atalas-for-mord-pa-bebis",
-      "guid": "8ddb69eb-c77f-40cd-ad49-798a3e5a050e",
-      "published_at": "2026-11-18T10:33:26+01:00",
-      "fetched_at": "2026-11-18T10:45:52+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/d590e7f7-bc34-452b-964b-91a31e380175.jpg?width=600",
-      "sv": {
-        "title": "Kvinna åtalas för mord på bebis",
-        "summary": "En kvinna i Mora kommun åtalas misstänkt för att ha orsakat sitt barns död i somras, rapporterar P4 Dalarna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Woman charged with murder of baby",
-        "summary": "A woman in Mora Municipality is charged on suspicion of having caused her child's death last summer, reports P4 Dalarna."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T10:45:55+01:00"
-      }
-    },
-    {
-      "id": "556c1865d660",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/danmark/gronland-skar-ner-pa-danskundervisning",
-      "guid": "24459a84-0f4a-4513-acd7-6ad1339f4291",
-      "published_at": "2026-11-18T10:27:16+01:00",
-      "fetched_at": "2026-11-18T10:31:03+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/09af6d4d-0fdf-4ccb-9a70-c44008f05ce5.jpg?width=600",
-      "sv": {
-        "title": "Grönland skär ner på danskundervisning",
-        "summary": "En ny grundskolelag på Grönland som träder i kraft i augusti nästa år innebär mindre danskundervisning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Greenland cuts back Danish-language teaching",
-        "summary": "A new compulsory school act in Greenland, entering into force in August next year, means less Danish-language teaching."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T10:31:10+01:00"
       }
     }
   ]

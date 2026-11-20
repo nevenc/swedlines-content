@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T12:45:50+01:00",
+  "generated_at": "2026-11-20T13:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e88549bf54e2",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/yz3JWa/jattebrak-under-forhandlingar-v-och-c-i-hatskt-ordkrig-rena-logner",
+      "guid": "https://www.aftonbladet.se/nyheter/a/yz3JWa/jattebrak-under-forhandlingar-v-och-c-i-hatskt-ordkrig-rena-logner?utm_medium=rss",
+      "published_at": "2026-11-20T13:00:40+01:00",
+      "fetched_at": "2026-11-20T13:01:14+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/0db0dc9a-1497-3d98-b694-8d601958269a?format=auto&s=8ed5dc8d16ad1319370f383ef9087687f520fa54&w=1000",
+      "sv": {
+        "title": "Jättebråk under förhandlingar – V och C i hätskt ordkrig: ”Rena lögner”",
+        "summary": "”Blockerar samtalen” ✓ Drar mot höger",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Major clash during negotiations – V and C in heated war of words: \"Pure lies\"",
+        "summary": "\"Blocking the talks\" ✓ Heading toward the right"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:01:21+01:00"
+      }
+    },
     {
       "id": "716cea21b6aa",
       "schema_version": 1,
@@ -5377,32 +5404,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T19:15:52+01:00"
-      }
-    },
-    {
-      "id": "0642e7bc0a17",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/m-toppens-nya-toppjobb-exakt-vad-jag-vill-gora",
-      "guid": "https://www.expressen.se/nyheter/politik/m-toppens-nya-toppjobb-exakt-vad-jag-vill-gora/",
-      "published_at": "2026-11-16T18:56:31+01:00",
-      "fetched_at": "2026-11-16T19:01:16+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "M-toppens nya toppjobb: ”Exakt vad jag vill göra”",
-        "summary": "Douglas Thor gör sorti som förbundsordförande för Muf. Nu ska han in på ett toppjobb i Axel Johnson-sfären. – Det har kliat väldigt mycket i fingrarna, säger Thor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Moderates' new top job: \"Exactly what I want to do\"",
-        "summary": "Douglas Thor is stepping down as federal chair of Muf. Now he is moving into a top job in the Axel Johnson sphere. \"I've been itching to do it for a long time,\" says Thor."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T19:01:24+01:00"
       }
     }
   ]

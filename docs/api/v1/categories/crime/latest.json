@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T12:45:50+01:00",
+  "generated_at": "2026-11-20T13:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "609a1110a3c1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=1f8d80bf-b2d0-4008-8d14-e63f57e86544",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1f8d80bf-b2d0-4008-8d14-e63f57e86544",
+      "published_at": "2026-11-20T12:56:30+01:00",
+      "fetched_at": "2026-11-20T13:01:14+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Hotade minister – döms",
+        "summary": "Smset om Malmer Stenergard",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Threatened minister – convicted",
+        "summary": "Text message about Malmer Stenergard"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T13:01:21+01:00"
+      }
+    },
     {
       "id": "728e670df59e",
       "schema_version": 1,
@@ -5348,35 +5374,6 @@
       "en": {
         "title": "\"Started eating himself\"",
         "summary": "Police's new drug warning"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T21:01:13+01:00"
-      }
-    },
-    {
-      "id": "706a9aa0fa44",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/37Bg4GjqH8wodBXiRVSgw8/man-i-90-arsaldern-attackerad-efter-att-ha-koert-pa-tva-barn",
-      "guid": "37Bg4GjqH8wodBXiRVSgw8",
-      "published_at": "2026-11-16T20:47:37+01:00",
-      "fetched_at": "2026-11-16T21:01:09+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Man i 90-årsåldern attackerad – efter att ha kört på två barn",
-        "summary": "På måndagskvällen har två barn blivit påkörda av en skåpbil på Lundavägen i Arlöv. Ett av barnen satt i en barnvagn och det andra kom gående då olyckan inträffade.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Man in his 90s attacked – after running over two children",
-        "summary": "On Monday evening, two children were hit by a van on Lundavägen in Arlöv. One of the children was in a pram and the other was walking when the accident occurred."
       },
       "translation": {
         "status": "done",
