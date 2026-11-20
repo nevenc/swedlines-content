@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-20T10:16:00+01:00",
+  "generated_at": "2026-11-20T10:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b617394414fc",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2YlZvJGmzhr9MFOYPeweap/trafikverkets-uppmaning-infoer-snoeovaedret-hoeg-tid",
+      "guid": "2YlZvJGmzhr9MFOYPeweap",
+      "published_at": "2026-11-20T10:23:41+01:00",
+      "fetched_at": "2026-11-20T10:31:04+01:00",
+      "category": "weather",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Trafikverkets varning: På med vinterdäcken nu",
+        "summary": "SMHI har utfärdat en gul varning för snöfall i kombination med hård vind i delar av östra Svealand. Varningen gäller från fredag kväll till sent på lördagen och lokalt kan upp till 15 centimeter snö falla.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Transport Administration warning: Put on winter tyres now",
+        "summary": "SMHI has issued a yellow warning for snowfall combined with strong winds in parts of eastern Svealand. The warning applies from Friday evening until late Saturday, and locally up to 15 centimetres of snow may fall."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:31:10+01:00"
+      }
+    },
     {
       "id": "3a60df261226",
       "schema_version": 1,
@@ -5740,35 +5769,6 @@
       "en": {
         "title": "She packs her bags and leaves – says goodbye in a text message",
         "summary": "In Wednesday's episode of 'Bonde söker fru', horse and cattle farmer Patrik Bergquist wakes up to a shock. Emelie Kullenberg has packed her bags and left the programme. – I actually think it is incredibly sad that she does not want to spend more time with me."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "9d72e3280f90",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1eF5VvsYRDBKpVHg7OIr51/folkvalda-har-stora-skulder-laemnar-riksdagsuppdrag",
-      "guid": "1eF5VvsYRDBKpVHg7OIr51",
-      "published_at": "2026-11-11T20:19:37+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Folkvalda har stora skulder – lämnar riksdagsuppdrag",
-        "summary": "Under måndagen kunde TV4 Nyheterna och Kalla fakta avslöja att närmare 400 politiker i Sverige är skuldsatta hos Kronofogden. Den fortsatta granskningen visar att det också finns det tre folkvalda i riksdagen, alla ersättare, med skulder hos Kronofogden.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Elected representatives have large debts – leave Riksdag posts",
-        "summary": "On Monday TV4 Nyheterna and Kalla fakta revealed that close to 400 politicians in Sweden have debts registered with the Enforcement Authority. The continued investigation shows that there are also three elected members of the Riksdag, all substitutes, with debts at the Enforcement Authority."
       },
       "translation": {
         "status": "done",

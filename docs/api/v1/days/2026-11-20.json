@@ -1,7 +1,207 @@
 {
-  "generated_at": "2026-11-20T10:16:00+01:00",
-  "count": 229,
+  "generated_at": "2026-11-20T10:31:11+01:00",
+  "count": 236,
   "items": [
+    {
+      "id": "c91670c8dc4f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/anthropic-faller-tungt-i-forhandeln",
+      "guid": "24bc5980-ff9e-4db0-9d2f-4dfe3c1c258c",
+      "published_at": "2026-11-20T10:24:35+01:00",
+      "fetched_at": "2026-11-20T10:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e2d5b67b-43b1-4644-84e7-77cb62cc1817.jpeg?width=600",
+      "sv": {
+        "title": "Anthropic faller tungt i förhandeln",
+        "summary": "Anthropic rusade under sin premiärdag på Wall Street – men i fredagens förhandel vänder kursen ned tydligt. ”Det som såg ut att vara den sista pelaren som höll AI-rallyt uppe verkar nu också ge vika”, säger en investeringschef till Bloomberg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic falls sharply in trading",
+        "summary": "Anthropic surged on Wall Street on its debut day – but in Friday's trading the share price turns clearly downward. \"What appeared to be the last pillar holding up the AI rally now also seems to be giving way,\" an investment chief tells Bloomberg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "d9586b452e63",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/harald-mix-polarium-ansoker-om-konkurs",
+      "guid": "086e7823-5861-4428-bfb8-84b4e1f87de9",
+      "published_at": "2026-11-20T10:24:29+01:00",
+      "fetched_at": "2026-11-20T10:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8c20fce7-ddd1-4039-bb07-41fcf29b91b3.jpeg?width=600",
+      "sv": {
+        "title": "Harald Mix Polarium ansöker om konkurs",
+        "summary": "Harald Mix förlusttyngda batteribolag Polarium har ansökt om konkurs. I konkursansökan hänvisar bolag bland annat till kraftigt fallande batteripriser till följd av kinesisk konkurrens.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Harald Mix's Polarium files for bankruptcy",
+        "summary": "Harald Mix's loss-making battery company Polarium has filed for bankruptcy. In the bankruptcy petition, the company cites, among other things, sharply falling battery prices due to Chinese competition."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "b617394414fc",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2YlZvJGmzhr9MFOYPeweap/trafikverkets-uppmaning-infoer-snoeovaedret-hoeg-tid",
+      "guid": "2YlZvJGmzhr9MFOYPeweap",
+      "published_at": "2026-11-20T10:23:41+01:00",
+      "fetched_at": "2026-11-20T10:31:04+01:00",
+      "category": "weather",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Trafikverkets varning: På med vinterdäcken nu",
+        "summary": "SMHI har utfärdat en gul varning för snöfall i kombination med hård vind i delar av östra Svealand. Varningen gäller från fredag kväll till sent på lördagen och lokalt kan upp till 15 centimeter snö falla.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Transport Administration warning: Put on winter tyres now",
+        "summary": "SMHI has issued a yellow warning for snowfall combined with strong winds in parts of eastern Svealand. The warning applies from Friday evening until late Saturday, and locally up to 15 centimetres of snow may fall."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "2b12438a4a6a",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/okanda-hackare-hotar-lacka-nvidias-hemligheter",
+      "guid": "https://www.dn.se/ekonomi/okanda-hackare-hotar-lacka-nvidias-hemligheter/",
+      "published_at": "2026-11-20T10:17:04+01:00",
+      "fetched_at": "2026-11-20T10:31:02+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/96260cdd-354b-40de-b6b3-1a6155a2e97e.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Ökända hackare hotar läcka Nvidias hemligheter",
+        "summary": "Hackergruppen The Gentlemen säger sig ha stulit hemlig data från AI-jätten Nvidia. Om bolaget inte betalar en lösensumma hotar hackarna att publicera allt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Notorious hackers threaten to leak Nvidia's secrets",
+        "summary": "The hacker group The Gentlemen claims to have stolen confidential data from AI giant Nvidia. If the company does not pay a ransom, the hackers threaten to publish everything."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "e7cb635da59f",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/svar-kolonialt-och-rasistiskt-tankande-formade-staten-israel",
+      "guid": "https://www.dn.se/insandare/svar-kolonialt-och-rasistiskt-tankande-formade-staten-israel/",
+      "published_at": "2026-11-20T10:16:43+01:00",
+      "fetched_at": "2026-11-20T10:31:02+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/608333c9-79f0-49ab-8949-ed52d4eb2043.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Svar: Kolonialt och rasistiskt tänkande formade staten Israel",
+        "summary": "SVAR PÅ INSÄNDARE. Majoriteten av de som befolkade området före Israels bildande har förnekats sina politiska och medborgerliga rättigheter. Etnisk rensning var uppe för diskussion redan från början, och i dag ser vi otvetydiga tecken i bosättarpolitiken, skriver Björn Lindsten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Letter. Reply: Colonial and racist thinking shaped the state of Israel",
+        "summary": "REPLY TO LETTER. The majority of those who inhabited the area before Israel's founding have been denied their political and civil rights. Ethnic cleansing was up for discussion from the start, and today we see unambiguous signs in settlement policy, writes Björn Lindsten."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "832df715ca79",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/krim/comanches-man-atalade-for-mordforsok-i-bollebygd.4f04e375-5664-5e84-b891-5a3af98e99c5",
+      "guid": "4f04e375-5664-5e84-b891-5a3af98e99c5",
+      "published_at": "2026-11-20T10:16:02+01:00",
+      "fetched_at": "2026-11-20T10:31:05+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Krim",
+        "Tagg: Brott och straff",
+        "Tagg: Polisen",
+        "Tagg: Uppdatera mig - BEHOV",
+        "Tagg: Majorna",
+        "Tagg: Bollebygd",
+        "Tagg: VITA FLÄCKAR Bollebygd"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/c6ad088c-b08d-3633-917d-38dabecc3554",
+      "sv": {
+        "title": "Comanches-män anklagas för brutalt mordförsök",
+        "summary": "Tog taxi från Majorna till Bollebygd – blev skjuten och slagen med baseballträ.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Comanches members charged with attempted murder",
+        "summary": "Took a taxi from Majorna to Bollebygd – was shot and beaten with a baseball bat."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "229c57072033",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/investeringarna-fortsatter-minska-i-kina",
+      "guid": "cc9dd65b-23a0-42ec-aa04-765e1fc734f2",
+      "published_at": "2026-11-20T10:15:38+01:00",
+      "fetched_at": "2026-11-20T10:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/85aad062-6505-433d-b3cf-ef66ba970d61.jpeg?width=600",
+      "sv": {
+        "title": "Investeringarna fortsätter minska i Kina",
+        "summary": "Utländska direktinvesteringar i Kina (FDI) minskade med 2,4 procent under januari-oktober, jämfört med samma period föregående år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Investments continue to decline in China",
+        "summary": "Foreign direct investment (FDI) in China decreased by 2.4 percent during January–October, compared with the same period the previous year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:31:10+01:00"
+      }
+    },
     {
       "id": "50eb982ea256",
       "schema_version": 1,

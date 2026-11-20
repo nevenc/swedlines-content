@@ -1,7 +1,207 @@
 {
-  "generated_at": "2026-11-20T10:16:00+01:00",
+  "generated_at": "2026-11-20T10:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c91670c8dc4f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/anthropic-faller-tungt-i-forhandeln",
+      "guid": "24bc5980-ff9e-4db0-9d2f-4dfe3c1c258c",
+      "published_at": "2026-11-20T10:24:35+01:00",
+      "fetched_at": "2026-11-20T10:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e2d5b67b-43b1-4644-84e7-77cb62cc1817.jpeg?width=600",
+      "sv": {
+        "title": "Anthropic faller tungt i förhandeln",
+        "summary": "Anthropic rusade under sin premiärdag på Wall Street – men i fredagens förhandel vänder kursen ned tydligt. ”Det som såg ut att vara den sista pelaren som höll AI-rallyt uppe verkar nu också ge vika”, säger en investeringschef till Bloomberg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic falls sharply in trading",
+        "summary": "Anthropic surged on Wall Street on its debut day – but in Friday's trading the share price turns clearly downward. \"What appeared to be the last pillar holding up the AI rally now also seems to be giving way,\" an investment chief tells Bloomberg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "d9586b452e63",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/harald-mix-polarium-ansoker-om-konkurs",
+      "guid": "086e7823-5861-4428-bfb8-84b4e1f87de9",
+      "published_at": "2026-11-20T10:24:29+01:00",
+      "fetched_at": "2026-11-20T10:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8c20fce7-ddd1-4039-bb07-41fcf29b91b3.jpeg?width=600",
+      "sv": {
+        "title": "Harald Mix Polarium ansöker om konkurs",
+        "summary": "Harald Mix förlusttyngda batteribolag Polarium har ansökt om konkurs. I konkursansökan hänvisar bolag bland annat till kraftigt fallande batteripriser till följd av kinesisk konkurrens.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Harald Mix's Polarium files for bankruptcy",
+        "summary": "Harald Mix's loss-making battery company Polarium has filed for bankruptcy. In the bankruptcy petition, the company cites, among other things, sharply falling battery prices due to Chinese competition."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "b617394414fc",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2YlZvJGmzhr9MFOYPeweap/trafikverkets-uppmaning-infoer-snoeovaedret-hoeg-tid",
+      "guid": "2YlZvJGmzhr9MFOYPeweap",
+      "published_at": "2026-11-20T10:23:41+01:00",
+      "fetched_at": "2026-11-20T10:31:04+01:00",
+      "category": "weather",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Trafikverkets varning: På med vinterdäcken nu",
+        "summary": "SMHI har utfärdat en gul varning för snöfall i kombination med hård vind i delar av östra Svealand. Varningen gäller från fredag kväll till sent på lördagen och lokalt kan upp till 15 centimeter snö falla.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Transport Administration warning: Put on winter tyres now",
+        "summary": "SMHI has issued a yellow warning for snowfall combined with strong winds in parts of eastern Svealand. The warning applies from Friday evening until late Saturday, and locally up to 15 centimetres of snow may fall."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "2b12438a4a6a",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/okanda-hackare-hotar-lacka-nvidias-hemligheter",
+      "guid": "https://www.dn.se/ekonomi/okanda-hackare-hotar-lacka-nvidias-hemligheter/",
+      "published_at": "2026-11-20T10:17:04+01:00",
+      "fetched_at": "2026-11-20T10:31:02+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/96260cdd-354b-40de-b6b3-1a6155a2e97e.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Ökända hackare hotar läcka Nvidias hemligheter",
+        "summary": "Hackergruppen The Gentlemen säger sig ha stulit hemlig data från AI-jätten Nvidia. Om bolaget inte betalar en lösensumma hotar hackarna att publicera allt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Notorious hackers threaten to leak Nvidia's secrets",
+        "summary": "The hacker group The Gentlemen claims to have stolen confidential data from AI giant Nvidia. If the company does not pay a ransom, the hackers threaten to publish everything."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "e7cb635da59f",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/svar-kolonialt-och-rasistiskt-tankande-formade-staten-israel",
+      "guid": "https://www.dn.se/insandare/svar-kolonialt-och-rasistiskt-tankande-formade-staten-israel/",
+      "published_at": "2026-11-20T10:16:43+01:00",
+      "fetched_at": "2026-11-20T10:31:02+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/608333c9-79f0-49ab-8949-ed52d4eb2043.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Svar: Kolonialt och rasistiskt tänkande formade staten Israel",
+        "summary": "SVAR PÅ INSÄNDARE. Majoriteten av de som befolkade området före Israels bildande har förnekats sina politiska och medborgerliga rättigheter. Etnisk rensning var uppe för diskussion redan från början, och i dag ser vi otvetydiga tecken i bosättarpolitiken, skriver Björn Lindsten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Letter. Reply: Colonial and racist thinking shaped the state of Israel",
+        "summary": "REPLY TO LETTER. The majority of those who inhabited the area before Israel's founding have been denied their political and civil rights. Ethnic cleansing was up for discussion from the start, and today we see unambiguous signs in settlement policy, writes Björn Lindsten."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "832df715ca79",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/krim/comanches-man-atalade-for-mordforsok-i-bollebygd.4f04e375-5664-5e84-b891-5a3af98e99c5",
+      "guid": "4f04e375-5664-5e84-b891-5a3af98e99c5",
+      "published_at": "2026-11-20T10:16:02+01:00",
+      "fetched_at": "2026-11-20T10:31:05+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Krim",
+        "Tagg: Brott och straff",
+        "Tagg: Polisen",
+        "Tagg: Uppdatera mig - BEHOV",
+        "Tagg: Majorna",
+        "Tagg: Bollebygd",
+        "Tagg: VITA FLÄCKAR Bollebygd"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/c6ad088c-b08d-3633-917d-38dabecc3554",
+      "sv": {
+        "title": "Comanches-män anklagas för brutalt mordförsök",
+        "summary": "Tog taxi från Majorna till Bollebygd – blev skjuten och slagen med baseballträ.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Comanches members charged with attempted murder",
+        "summary": "Took a taxi from Majorna to Bollebygd – was shot and beaten with a baseball bat."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:31:10+01:00"
+      }
+    },
+    {
+      "id": "229c57072033",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/investeringarna-fortsatter-minska-i-kina",
+      "guid": "cc9dd65b-23a0-42ec-aa04-765e1fc734f2",
+      "published_at": "2026-11-20T10:15:38+01:00",
+      "fetched_at": "2026-11-20T10:31:05+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/85aad062-6505-433d-b3cf-ef66ba970d61.jpeg?width=600",
+      "sv": {
+        "title": "Investeringarna fortsätter minska i Kina",
+        "summary": "Utländska direktinvesteringar i Kina (FDI) minskade med 2,4 procent under januari-oktober, jämfört med samma period föregående år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Investments continue to decline in China",
+        "summary": "Foreign direct investment (FDI) in China decreased by 2.4 percent during January–October, compared with the same period the previous year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:31:10+01:00"
+      }
+    },
     {
       "id": "50eb982ea256",
       "schema_version": 1,
@@ -5185,190 +5385,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T07:31:23+01:00"
-      }
-    },
-    {
-      "id": "5b3483534ff1",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vastmanland/martin-i-arboga-vann-mot-storforetaget-slipper-solcellspark-bakom-huset",
-      "guid": "https://www.svt.se/nyheter/lokalt/vastmanland/martin-i-arboga-vann-mot-storforetaget-slipper-solcellspark-bakom-huset",
-      "published_at": "2026-11-20T05:30:00+01:00",
-      "fetched_at": "2026-11-20T05:45:38+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Martin i Arboga vann mot storföretaget – slipper solcellspark bakom huset",
-        "summary": "Martin Carlbinder och hans grannar i Arboga skulle bli omringade av en jättelik solcellspark. De gick ihop och kämpade emot. Nu har företaget pausat etableringen. – Det känns jätteskönt, säger Martin Carlbinder.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Martin in Arboga won against the company – no solar park behind the house",
-        "summary": "Martin Carlbinder and his neighbours in Arboga were to be surrounded by a huge solar park. They joined forces and fought back. Now the company has paused the development. – It feels really great, says Martin Carlbinder."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T05:45:48+01:00"
-      }
-    },
-    {
-      "id": "6591835ea51e",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/varmland/hoga-elpriser-stalverket-i-bjorneborg-varnar-for-svag-svensk-konkurrenskraft",
-      "guid": "https://www.svt.se/nyheter/lokalt/varmland/hoga-elpriser-stalverket-i-bjorneborg-varnar-for-svag-svensk-konkurrenskraft",
-      "published_at": "2026-11-20T05:30:00+01:00",
-      "fetched_at": "2026-11-20T05:45:38+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Höga elpriser: Stålverket i Björneborg varnar för svag svensk konkurrenskraft",
-        "summary": "Stålverket Björneborg Steel känner en oro över de väntande höga elpriserna i vinter. Inte bara för egen skull utan för hela industrins konkurrenskraft mot andra europeiska företag. – Orättvist, säger företagets vd Håkan Dedorsson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "High electricity prices: Björneborg steelworks warns of weak Swedish competitiveness",
-        "summary": "Björneborg Steel is concerned about the high electricity prices expected this winter. Not only for its own sake but for the competitiveness of the whole industry against other European companies. – Unfair, says the company's CEO Håkan Dedorsson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T05:45:48+01:00"
-      }
-    },
-    {
-      "id": "8b73eaa31823",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/konsensus-dodar-klimatet-har-ar-vagen-framat",
-      "guid": "909280f0-2dc2-402d-b4ef-517688207218",
-      "published_at": "2026-11-20T05:30:00+01:00",
-      "fetched_at": "2026-11-20T05:31:05+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/3172aeb0-9bc4-4813-b89e-4957b754a313.jpeg?width=600",
-      "sv": {
-        "title": "”Konsensus dödar klimatet – här är vägen framåt.”",
-        "summary": "Den som vill minst bestämmer nu mest, skriver Mattias Goldmann, vd för klimatorganisationen 2030-sekretariatet, från FN:s klimattoppmöte i Turkiet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"Consensus kills the climate – here is the way forward\"",
-        "summary": "Those who want the least now decide the most, writes Mattias Goldmann, CEO of the climate organisation 2030-sekretariatet, from the UN climate summit in Turkey."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T05:31:09+01:00"
-      }
-    },
-    {
-      "id": "9a91145d8190",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/utekvallen-i-sundsvall-slutade-i-misstankt-valdtakt-taxichauffor-stalls-infor-ratta",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/utekvallen-i-sundsvall-slutade-i-misstankt-valdtakt-taxichauffor-stalls-infor-ratta",
-      "published_at": "2026-11-20T05:30:00+01:00",
-      "fetched_at": "2026-11-20T05:45:38+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Utekvällen i Sundsvall slutade i misstänkt våldtäkt – taxichaufför ställs inför rätta",
-        "summary": "En kvinna ska ha blivit våldtagen av en taxichaufför efter en utekväll. I polisens förundersökning framgår hur kvinnans kväll såg ut, timme för timme. Från festkvällen ute i Sundsvall – till att hon vaknade mörbultad och utan underkläder i sin bostad.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Night out in Sundsvall ended in suspected rape – taxi driver to stand trial",
-        "summary": "A woman is alleged to have been raped by a taxi driver after a night out. The police preliminary investigation shows how the woman's evening unfolded, hour by hour. From the party night out in Sundsvall to waking up battered and without underwear in her home."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T05:45:48+01:00"
-      }
-    },
-    {
-      "id": "d4bbaeb6944d",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/varmland/svenska-innebandyforbundet-vill-hoja-kravet-pa-skyddsglasogon-till-20-ar",
-      "guid": "https://www.svt.se/nyheter/lokalt/varmland/svenska-innebandyforbundet-vill-hoja-kravet-pa-skyddsglasogon-till-20-ar",
-      "published_at": "2026-11-20T05:30:00+01:00",
-      "fetched_at": "2026-11-20T05:45:38+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Svenska Innebandyförbundet vill höja kravet på skyddsglasögon till 20 år",
-        "summary": "I början av december kommer Svenska Innebandyförbundet att rösta om att höja kravet på glasögon under match från 16 till 20 år. Riksförbundet har själva lagt fram förslaget. – Det skulle förvåna mig om det inte går igenom, säger Johan Carlsson, tävlingsansvarig i Värmland.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish Floorball Federation wants to raise eye protection requirement to age 20",
-        "summary": "At the beginning of December, the Swedish Floorball Federation will vote on raising the requirement for eyewear during matches from 16 to 20 years. The national association itself has put forward the proposal. – It would surprise me if it doesn't pass, says Johan Carlsson, competition manager in Värmland."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T05:45:48+01:00"
-      }
-    },
-    {
-      "id": "f2507696cbd8",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/smaland/nar-ai-sparar-ur-kolla-in-bloopers-fran-serien",
-      "guid": "https://www.svt.se/nyheter/lokalt/smaland/nar-ai-sparar-ur-kolla-in-bloopers-fran-serien",
-      "published_at": "2026-11-20T05:30:00+01:00",
-      "fetched_at": "2026-11-20T05:45:38+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "När AI spårar ur – kolla in bloopers från serien om Eriks släktgård",
-        "summary": "En död höna som rör sig, en piga som tar i en varm ugnslucka och svårigheter med att omvandla skånska till småländska. Ja ibland blir det knasigt när AI skapar videoklipp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "When AI goes off the rails – check out bloopers from the series about Erik's family farm",
-        "summary": "A dead hen that moves, a maid who grabs a hot oven door, and difficulties turning Skåne dialect into Småland dialect. Yes, sometimes it gets silly when AI creates video clips."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T05:45:48+01:00"
-      }
-    },
-    {
-      "id": "9b0c7386e563",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/softbank-rasar-tvasiffrigt-pa-roda-asienborser",
-      "guid": "3c3484ce-8d1f-4079-8864-f2e8dffaa5e9",
-      "published_at": "2026-11-20T05:26:49+01:00",
-      "fetched_at": "2026-11-20T05:45:40+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/8acea6c4-b318-4eb9-ac69-5c92731dfb86.jpeg?width=600",
-      "sv": {
-        "title": "Softbank rasar tvåsiffrigt på röda Asienbörser",
-        "summary": "Börserna fortsätter att falla i Asien. Flera av de stora indexen ser kraftiga nedgångar under fredagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Softbank plunges double digits on red Asian stock exchanges",
-        "summary": "Stock markets continue to fall in Asia. Several of the major indices show sharp declines on Friday."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T05:45:48+01:00"
       }
     }
   ]
