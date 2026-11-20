@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-20T19:31:14+01:00",
+  "generated_at": "2026-11-20T19:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1a3086fd7116",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/7GpZ6oCRIgfMnEQChxUkqL/c-ledaren-haller-doerren-oeppen-foer-kristersson-partiet-uppges-vilja-staenga",
+      "guid": "7GpZ6oCRIgfMnEQChxUkqL",
+      "published_at": "2026-11-20T19:31:39+01:00",
+      "fetched_at": "2026-11-20T19:45:47+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "C-ledaren håller dörren öppen för Kristersson – men partiet vill stänga",
+        "summary": "C-källa: ”Vi rasar sönder som parti om vi skiftar”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Centre Party leader leaves the door open for Kristersson – but the party wants to close it",
+        "summary": "Centre Party source: \"We will fall apart as a party if we switch\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:45:51+01:00"
+      }
+    },
     {
       "id": "85f7744ae7df",
       "schema_version": 1,
@@ -5740,35 +5769,6 @@
       "en": {
         "title": "Burst into tears after the exit: 'Became too much'",
         "summary": "Only four episodes into 'Förrädarna', the mood is tense to say the least between the fellow traitors. Last week Robin 'Mos' Andersson pointed out his allies, Lasse Kronér and Jessica Almenäs, in front of the other faithful."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "de4d0814d674",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3UGLrSPkdj36757azJXISZ/ssu-s-vrede-mot-muf-taevlingen-drar-mot-en-trollfabrik",
-      "guid": "3UGLrSPkdj36757azJXISZ",
-      "published_at": "2026-11-12T20:43:08+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Svensk politik"
-      ],
-      "sv": {
-        "title": "SSU rasar mot Muf-tävlingen: ”Drar mot en trollfabrik”",
-        "summary": "TV4 Nyheterna kunde igår avslöja att Moderata ungdomsförbundet, Muf, hade en intern propagandatävling under valrörelsen. Syftet var att få medlemmarna att publicera filmklipp på sociala medier. Bäst genomslag belönades varje vecka med ett presentkort på tusen kronor.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "SSU rages at the Muf contest: 'Drifting towards a troll factory'",
-        "summary": "TV4 Nyheterna revealed yesterday that the Moderate Youth League, Muf, held an internal propaganda contest during the election campaign. The aim was to get members to publish video clips on social media. The best impact was rewarded each week with a gift card worth SEK 1,000."
       },
       "translation": {
         "status": "done",

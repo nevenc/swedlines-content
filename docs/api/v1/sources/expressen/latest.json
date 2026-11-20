@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T19:31:14+01:00",
+  "generated_at": "2026-11-20T19:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "425c5a9c9476",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/sverige/pontus-25-bodde-for-800-kronor-i-manaden-",
+      "guid": "https://www.expressen.se/tv/nyheter/sverige/pontus-25-bodde-for-800-kronor-i-manaden-",
+      "published_at": "2026-11-20T19:41:37+01:00",
+      "fetched_at": "2026-11-20T19:45:47+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Här bodde Pontus för 800 kr i månaden",
+        "summary": "”Vissa tyckte det var lite konstigt”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here Pontus lived for SEK 800 a month",
+        "summary": "\"Some people thought it was a bit strange\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:45:51+01:00"
+      }
+    },
     {
       "id": "1cbf63217edd",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T15:45:57+01:00"
-      }
-    },
-    {
-      "id": "912d41b3513c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=8a7589e4-22cb-4947-80a0-10ce262a45ff",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=8a7589e4-22cb-4947-80a0-10ce262a45ff",
-      "published_at": "2026-11-17T15:13:39+01:00",
-      "fetched_at": "2026-11-17T15:15:44+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Stora störningar i tunnelbanan",
-        "summary": "20 minuter längre resor",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Major disruptions on the metro",
-        "summary": "20-minute longer journeys"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T15:15:54+01:00"
       }
     }
   ]
