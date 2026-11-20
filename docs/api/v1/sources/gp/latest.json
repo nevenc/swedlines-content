@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-11-20T20:15:59+01:00",
+  "generated_at": "2026-11-20T20:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e53e9179b63d",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/krim/misstanken-grovt-grovt-ran-mot-familj-i-langedrag.58c87b84-143a-5bd4-a75d-2c942ab84158",
+      "guid": "58c87b84-143a-5bd4-a75d-2c942ab84158",
+      "published_at": "2026-11-20T20:06:21+01:00",
+      "fetched_at": "2026-11-20T20:31:15+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Krim",
+        "Tagg: Polisen",
+        "Tagg: Brott och straff",
+        "Tagg: Uppdatera mig - BEHOV",
+        "Tagg: breaking-GP"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/9a477f8e-1d01-3a36-921f-706e5480129f",
+      "sv": {
+        "title": "Misstanken: Grovt grovt rån mot familj i Långedrag",
+        "summary": "Polischefen: ”Ett antal personer har trängt sig in” • Två gripna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspicion: Aggravated robbery against family in Långedrag",
+        "summary": "Police chief: \"A number of people have forced their way in\" • Two arrested."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T20:31:20+01:00"
+      }
+    },
     {
       "id": "3e36b0eed129",
       "schema_version": 1,
@@ -6859,40 +6893,6 @@
       "en": {
         "title": "The news show 16 November: Unclear why the taxi takes over Christmas",
         "summary": "Ruta ett on politics, plane crash in USA and girls' clothes are of poorer quality."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T11:31:23+01:00"
-      }
-    },
-    {
-      "id": "7be4f40bcb1b",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/krim/antonia-dodades-av-hund-flickvannen-doms.1c998781-d71a-55e5-a471-ef71fe2e9447",
-      "guid": "1c998781-d71a-55e5-a471-ef71fe2e9447",
-      "published_at": "2026-11-16T11:16:03+01:00",
-      "fetched_at": "2026-11-16T11:31:10+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Krim",
-        "Tagg: Brott och straff",
-        "Tagg: Göteborg",
-        "Tagg: Hisingen",
-        "Tagg: Polisen"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/67b2d864-7f37-37ee-9d4a-3abd154c40a5",
-      "sv": {
-        "title": "Antonia dödades av hund på Hisingen – flickvännen döms",
-        "summary": "Brodern om sin syster: ”Hon njöt alltid av livet och var väldigt utåtriktad”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Antonia killed by dog in Hisingen – girlfriend convicted",
-        "summary": "Brother on his sister: “She always enjoyed life and was very outgoing”."
       },
       "translation": {
         "status": "done",

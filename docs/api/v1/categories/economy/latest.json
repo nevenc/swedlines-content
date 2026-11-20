@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T20:15:59+01:00",
+  "generated_at": "2026-11-20T20:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "de243b1fd7ec",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/xJPpep/trump-vill-forbjuda-amerikanska-datacenter-i-andra-lander",
+      "guid": "https://www.svd.se/a/xJPpep/trump-vill-forbjuda-amerikanska-datacenter-i-andra-lander?utm_medium=rss",
+      "published_at": "2026-11-20T20:25:24+01:00",
+      "fetched_at": "2026-11-20T20:31:13+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/2ce40f5b-7bf6-3816-912f-96d182e35e0b?format=auto&s=1270600fdd6d294f51f534dbc74f9efd7de59bab&w=1000",
+      "sv": {
+        "title": "Trump: Förbjud datacenter utanför USA",
+        "summary": "USA:s president Donald Trump vill förbjuda amerikanska datacenter i hela världen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump: Ban data centres outside the USA",
+        "summary": "US President Donald Trump wants to ban American data centres throughout the world."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T20:31:20+01:00"
+      }
+    },
     {
       "id": "5d1e4eb0d43d",
       "schema_version": 1,
@@ -5264,33 +5291,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T23:31:02+01:00"
-      }
-    },
-    {
-      "id": "249966215586",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/svenska-forhandlaren-fossillander-bromsar-uppgorelse-pa-cop31",
-      "guid": "0929a1d1-6223-4a2f-8afc-1025690a1945",
-      "published_at": "2026-11-19T22:56:45+01:00",
-      "fetched_at": "2026-11-19T23:15:46+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/39a652fe-94d6-4ca9-b39e-a9714bdb78ff.jpeg?width=600",
-      "sv": {
-        "title": "Svenska förhandlaren: Fossilländer bromsar uppgörelse på COP31",
-        "summary": "När COP31 går in i sitt slutskede ökar pressen på förhandlarna. Panama hotar att blockera en uppgörelse som inte innehåller krav på att begränsa den globala oljeproduktionen, medan Sveriges chefsförhandlare Mattias Frumerie varnar för fortsatt motstånd från fossilproducerande länder.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish negotiator: fossil fuel countries slow deal at COP31",
-        "summary": "As COP31 enters its final stage, pressure on negotiators is mounting. Panama threatens to block an agreement that does not include demands to limit global oil production, while Sweden's chief negotiator Mattias Frumerie warns of continued resistance from fossil-fuel-producing countries."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T23:15:51+01:00"
       }
     }
   ]

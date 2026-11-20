@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-11-20T20:15:59+01:00",
+  "generated_at": "2026-11-20T20:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e53e9179b63d",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/krim/misstanken-grovt-grovt-ran-mot-familj-i-langedrag.58c87b84-143a-5bd4-a75d-2c942ab84158",
+      "guid": "58c87b84-143a-5bd4-a75d-2c942ab84158",
+      "published_at": "2026-11-20T20:06:21+01:00",
+      "fetched_at": "2026-11-20T20:31:15+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Krim",
+        "Tagg: Polisen",
+        "Tagg: Brott och straff",
+        "Tagg: Uppdatera mig - BEHOV",
+        "Tagg: breaking-GP"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/9a477f8e-1d01-3a36-921f-706e5480129f",
+      "sv": {
+        "title": "Misstanken: Grovt grovt rån mot familj i Långedrag",
+        "summary": "Polischefen: ”Ett antal personer har trängt sig in” • Två gripna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspicion: Aggravated robbery against family in Långedrag",
+        "summary": "Police chief: \"A number of people have forced their way in\" • Two arrested."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T20:31:20+01:00"
+      }
+    },
     {
       "id": "393895fb0608",
       "schema_version": 1,
@@ -5353,32 +5387,6 @@
       "en": {
         "title": "Two charged over violence after brawl at Plan B",
         "summary": "He kicked the bouncers, punched and was hit on the head with a baton himself. Now a 38-year-old from Bologna is being held to account for the riot at Plan B, and together with a Belgian man he risks both prison and deportation."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T10:01:55+01:00"
-      }
-    },
-    {
-      "id": "6c4caf3d0715",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/regionanstalld-stangs-av-hade-30-000-sexuella-overgreppsbilder-pa-barn",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/regionanstalld-stangs-av-hade-30-000-sexuella-overgreppsbilder-pa-barn",
-      "published_at": "2026-11-17T09:52:36+01:00",
-      "fetched_at": "2026-11-17T10:01:18+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Regionanställd stängs av – hade 30 000 sexuella övergreppsbilder på barn",
-        "summary": "Region Jönköpings län har stängt av en medarbetare efter att det framkommit att han dömts till ett långt fängelsestraff. Den anställde, en man i 30-årsåldern, hade närmare 30 000 bilder och filmer med barn som utsätts för sexuella övergrepp.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Region employee suspended – had 30,000 sexual abuse images of children",
-        "summary": "Region Jönköping County has suspended an employee after it emerged that he has been sentenced to a long prison term. The employee, a man in his 30s, had nearly 30,000 images and videos of children subjected to sexual abuse."
       },
       "translation": {
         "status": "done",

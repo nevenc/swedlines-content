@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T20:15:59+01:00",
+  "generated_at": "2026-11-20T20:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "93c4b7ad41a3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/kristerssons-tjuvnyp--ett-sallskapsspel",
+      "guid": "https://www.expressen.se/nyheter/politik/kristerssons-tjuvnyp--ett-sallskapsspel/",
+      "published_at": "2026-11-20T20:27:43+01:00",
+      "fetched_at": "2026-11-20T20:31:14+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Kristerssons tjuvnyp: ”Ett sällskapsspel”",
+        "summary": "Ulf Kristersson (M) är inte imponerad av Magdalena Anderssons ledarskap. När statsministern besöker Muf:s stämma sågar han den rödgröna osämjan. – Det är inte respektfullt mot svenska folket, säger han. Samtidigt fortsätter Moderaternas samtal med Centerpartiet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson's sly jab: \"A parlour game\"",
+        "summary": "Ulf Kristersson (M) is not impressed by Magdalena Andersson's leadership. When the prime minister visits the Moderate Youth League's congress, he slams the red-greens' infighting. – It is not respectful to the Swedish people, he says. Meanwhile, the Moderates' talks with the Centre Party continue."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T20:31:20+01:00"
+      }
+    },
     {
       "id": "1a3086fd7116",
       "schema_version": 1,
@@ -5395,33 +5421,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T11:15:55+01:00"
-      }
-    },
-    {
-      "id": "bb73629377a8",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/g37zk1/mp-vacklar-om-v-i-regering-far-se-var-vi-landar",
-      "guid": "https://www.aftonbladet.se/nyheter/a/g37zk1/mp-vacklar-om-v-i-regering-far-se-var-vi-landar?utm_medium=rss",
-      "published_at": "2026-11-17T11:08:54+01:00",
-      "fetched_at": "2026-11-17T12:15:45+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/3b85cdf6-b5c0-3148-96da-a2193f579295?format=auto&s=0d1bfc2588fa84581ed4f5fb5b7b9f1114726494&w=1000",
-      "sv": {
-        "title": "MP vacklar om V i regering: Får se var vi landar",
-        "summary": "”Får se var vi landar”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Green Party wavers on Left Party in government: “We'll see where we land”",
-        "summary": "“We'll see where we land”"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:16:04+01:00"
       }
     }
   ]

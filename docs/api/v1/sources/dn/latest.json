@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T20:15:59+01:00",
+  "generated_at": "2026-11-20T20:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8afaf2901dc9",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/unga-protesterar-saljer-ut-var-framtid",
+      "guid": "https://www.dn.se/sverige/unga-protesterar-saljer-ut-var-framtid/",
+      "published_at": "2026-11-20T20:30:17+01:00",
+      "fetched_at": "2026-11-20T20:31:12+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/e60f800b-8fe4-4742-890d-50ac8c5e1962.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Unga protesterar: ”Säljer ut vår framtid”",
+        "summary": "Krig, upprustning och miljöförstöring hotar ungas framtid. Det menar en bred proteströrelse som demonstrerade i flera städer i Sverige och Europa under fredagen. – Makthavarna är mycket äldre, men det är vår framtid som de fattar beslut om, säger studenten Merijn Carlier som var på plats i Lund.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Young people protest: \"Selling out our future\"",
+        "summary": "War, rearmament and environmental destruction threaten young people's future. That is the view of a broad protest movement that demonstrated in several cities in Sweden and Europe on Friday. – The decision-makers are much older, but it is our future they decide on, says student Merijn Carlier, who was on the scene in Lund."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T20:31:20+01:00"
+      }
+    },
     {
       "id": "d17feef43902",
       "schema_version": 1,
@@ -5368,33 +5395,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T09:45:56+01:00"
-      }
-    },
-    {
-      "id": "313c0fec53ed",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ekonomi/experten-varnar-kriminella-ligor-bakom-brf-konkurser",
-      "guid": "https://www.dn.se/ekonomi/experten-varnar-kriminella-ligor-bakom-brf-konkurser/",
-      "published_at": "2026-11-18T08:56:24+01:00",
-      "fetched_at": "2026-11-18T09:01:12+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/13564b7a-7bf0-4814-beec-8d42684b009b.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Experten varnar: Kriminella ligor bakom BRF-konkurser",
-        "summary": "Drygt 200 bostadsrättsföreningar gick i konkurs under 2024 och 2025. I många fall kan det vara kriminella ligor som ligger bakom. – Det är tyvärr lite för lätt att tömma bostadsrättsföreningar på pengar, säger Sara Persson på Ekobrottsmyndigheten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Expert warns: Criminal gangs behind housing association bankruptcies",
-        "summary": "Just over 200 housing cooperatives went bankrupt in 2024 and 2025. In many cases, criminal gangs may be behind them. – It is unfortunately a little too easy to drain housing cooperatives of money, says Sara Persson at the Economic Crime Authority."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T09:01:20+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T20:15:59+01:00",
+  "generated_at": "2026-11-20T20:31:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "93c4b7ad41a3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/kristerssons-tjuvnyp--ett-sallskapsspel",
+      "guid": "https://www.expressen.se/nyheter/politik/kristerssons-tjuvnyp--ett-sallskapsspel/",
+      "published_at": "2026-11-20T20:27:43+01:00",
+      "fetched_at": "2026-11-20T20:31:14+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Kristerssons tjuvnyp: ”Ett sällskapsspel”",
+        "summary": "Ulf Kristersson (M) är inte imponerad av Magdalena Anderssons ledarskap. När statsministern besöker Muf:s stämma sågar han den rödgröna osämjan. – Det är inte respektfullt mot svenska folket, säger han. Samtidigt fortsätter Moderaternas samtal med Centerpartiet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Kristersson's sly jab: \"A parlour game\"",
+        "summary": "Ulf Kristersson (M) is not impressed by Magdalena Andersson's leadership. When the prime minister visits the Moderate Youth League's congress, he slams the red-greens' infighting. – It is not respectful to the Swedish people, he says. Meanwhile, the Moderates' talks with the Centre Party continue."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T20:31:20+01:00"
+      }
+    },
     {
       "id": "1231f7ae89bb",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T17:15:53+01:00"
-      }
-    },
-    {
-      "id": "f5801143b3bb",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/sjukvardsanstalld-skadad-misstankt-mordforsok",
-      "guid": "https://www.expressen.se/nyheter/sverige/sjukvardsanstalld-skadad-misstankt-mordforsok/",
-      "published_at": "2026-11-17T16:06:54+01:00",
-      "fetched_at": "2026-11-17T16:15:50+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Sjukvårdsanställd skadad – misstänkt mordförsök",
-        "summary": "En anställd på Kalix hälsocentral har skadats i en attack. En man är gripen misstänkt för mordförsök. – Det här är en fruktansvärd händelse, säger regiondirektör Anna Alm Andersson i ett pressmeddelande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Healthcare employee injured – suspected attempted murder",
-        "summary": "An employee at the Kalix health centre has been injured in an attack. A man has been arrested on suspicion of attempted murder. – This is a terrible incident, says regional director Anna Alm Andersson in a press release."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:15:57+01:00"
       }
     }
   ]
