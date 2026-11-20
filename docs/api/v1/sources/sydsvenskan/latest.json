@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T09:01:24+01:00",
+  "generated_at": "2026-11-20T09:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "21094792f7c8",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/the-strokes-klara-for-way-out-west",
+      "guid": "bbcc3337-01b6-4f67-9bea-ee649f269a44",
+      "published_at": "2026-11-20T09:05:31+01:00",
+      "fetched_at": "2026-11-20T09:15:48+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/eda08c27-1851-4444-b853-6c2db6fa2272.jpg?width=600",
+      "sv": {
+        "title": "The Strokes klara för Way Out West",
+        "summary": "New York-bandet The Strokes kommer till Sverige och Way Out West nästa sommar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Strokes confirmed for Way Out West",
+        "summary": "New York band The Strokes is coming to Sweden and Way Out West next summer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T09:15:53+01:00"
+      }
+    },
     {
       "id": "ff7b15d71ef5",
       "schema_version": 1,
@@ -5165,33 +5192,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T08:31:09+01:00"
-      }
-    },
-    {
-      "id": "aa648dbafc1b",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/ted-astrom-har-fatt-amputera-benet",
-      "guid": "df74cf9b-b299-46f4-ab59-161bd6b6a22c",
-      "published_at": "2026-11-18T07:26:19+01:00",
-      "fetched_at": "2026-11-18T07:31:05+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/daaa9fbb-d8d8-4a1c-9336-ec676f6b8b5f.jpg?width=600",
-      "sv": {
-        "title": "Ted Åström har fått amputera benet",
-        "summary": "Ted Åström var nära att få kallbrand och har tvingats amputera sitt ena ben. – Det är för jävligt att det har hänt, säger skådespelaren till Aftonbladet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ted Åström has had to amputate a leg",
-        "summary": "Ted Åström came close to getting frostbite and has been forced to amputate one of his legs. \"It is so damn unfair that it has happened,\" the actor tells Aftonbladet."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:31:11+01:00"
       }
     }
   ]

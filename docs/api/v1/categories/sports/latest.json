@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T09:01:24+01:00",
+  "generated_at": "2026-11-20T09:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f11ecfdf6496",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/langdskidor/johanna-hagstroms-drama-infor-premiaren-nerprejad-av-lastbil",
+      "guid": "https://www.svt.se/sport/langdskidor/johanna-hagstroms-drama-infor-premiaren-nerprejad-av-lastbil",
+      "published_at": "2026-11-20T09:07:59+01:00",
+      "fetched_at": "2026-11-20T09:15:42+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Johanna Hagströms drama inför premiären: ”Nerprejad av lastbil”",
+        "summary": "Johanna Hagström fick en dramatisk uppladdning inför helgens Sverigepremiär. En bilfärd ner i diket, ihop med klubbkamraten Emilia Eriksson. – Vi blev typ nerprejade av en lastbil, säger Hagström.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Johanna Hagström's drama ahead of the premiere: \"Nearly run over by a truck\"",
+        "summary": "Johanna Hagström had a dramatic build-up ahead of the weekend's Swedish season opener. A car ride ending in the ditch, together with club teammate Emilia Eriksson. \"We were basically nearly run over by a truck,\" says Hagström."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T09:15:53+01:00"
+      }
+    },
     {
       "id": "ff7b15d71ef5",
       "schema_version": 1,
@@ -5609,32 +5635,6 @@
       "en": {
         "title": "IFK Göteborg through to the women's Allsvenskan",
         "summary": "IFK Göteborg are through to the women's Allsvenskan. Marika Berman Lundin scored from the penalty spot to take the team to the very top."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:12+01:00"
-      }
-    },
-    {
-      "id": "3c5a01269e66",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/sydsvenskan-sport-direkt-de-senaste-nyheterna",
-      "guid": "10666fad-71c5-48d9-a7cf-cebcfd09a284",
-      "published_at": "2026-11-14T14:07:25+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Sporten Direkt",
-        "summary": "Följ nyhetsflödet i Sporten Direkt. Först med det senaste i sportens värld.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sporten Direkt",
-        "summary": "Follow the news feed in Sporten Direkt. First with the latest in the world of sport."
       },
       "translation": {
         "status": "done",
