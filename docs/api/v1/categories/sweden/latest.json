@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-20T10:01:19+01:00",
+  "generated_at": "2026-11-20T10:16:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5ef3187bb0d6",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/raseri-mot-tunnelbyggen-i-vasastan-lat-odenplan-vara-ifred",
+      "guid": "https://www.dn.se/sverige/raseri-mot-tunnelbyggen-i-vasastan-lat-odenplan-vara-ifred/",
+      "published_at": "2026-11-20T10:09:33+01:00",
+      "fetched_at": "2026-11-20T10:15:51+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/3f80bcc9-e8e4-46a5-a560-a846780cca82.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Raseri mot tunnelbyggen i Vasastan: ”Låt Odenplan vara ifred!”",
+        "summary": "Först var det Citybanan och den nya T-banan. Tunnlar har sprängts fram under Vasastan i åratal – och snart kan Odenplan få ett öppet schakt när Roslagsbanan byggs ut. I sociala medier rasar boende mot planerna: ”Låt Odenplan vara i fred!!”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Outrage over tunnel construction in Vasastan: \"Leave Odenplan alone!\"",
+        "summary": "First there was the Citybanan and the new metro. Tunnels have been blasted beneath Vasastan for years – and Odenplan may soon get an open shaft when the Roslagsbanan is expanded. On social media, residents are raging against the plans: \"Leave Odenplan alone!!\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:16:00+01:00"
+      }
+    },
+    {
+      "id": "1fb07903b73b",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/efter-hastdod-i-timra-fler-stall-stanger-for-besokare",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasternorrland/efter-hastdod-i-timra-fler-stall-stanger-for-besokare",
+      "published_at": "2026-11-20T10:00:07+01:00",
+      "fetched_at": "2026-11-20T10:15:49+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Efter hästdöd i Timrå – fler stall stänger för besökare",
+        "summary": "Oron är påtaglig efter att två hästar dött i den fruktade virusssjukdomen EHV-1. Nu stänger Näsets ridanläggning utanför Sundsvall för både två- och fyrbenta gäster. – Jag upplever att det finns en stor oro, säger Margareta Bäckström på stall Killigrew på Näset.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After horse deaths in Timrå – more stables close to visitors",
+        "summary": "Concern is widespread after two horses died from the feared viral disease EHV-1. Now the Näset riding facility outside Sundsvall is closing to both two- and four-legged guests. – I sense there is great concern, says Margareta Bäckström at Killigrew stable at Näset."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:16:00+01:00"
+      }
+    },
     {
       "id": "3a60df261226",
       "schema_version": 1,
@@ -5347,59 +5400,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T11:01:24+01:00"
-      }
-    },
-    {
-      "id": "7dafd3d1cb77",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/lakare-avstangd-efter-oonskad-kontakt-med-patient",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/lakare-avstangd-efter-oonskad-kontakt-med-patient",
-      "published_at": "2026-11-17T10:23:45+01:00",
-      "fetched_at": "2026-11-17T10:30:56+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Läkare avstängd efter ”oönskad kontakt” med patient",
-        "summary": "En läkare vid en klinik inom Region Jönköpings län har stängts av med lön på grund av en privat relation med en patient. Bland annat ska läkaren ha tagit del av patientjournalen utan att ha haft en vårdrelation till patienten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Doctor suspended after 'unwanted contact' with patient",
-        "summary": "A doctor at a clinic within Region Jönköping county has been suspended on full pay due to a private relationship with a patient. Among other things, the doctor is said to have accessed the patient's medical record without having a care relationship with the patient."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T10:31:17+01:00"
-      }
-    },
-    {
-      "id": "9ba53649a24a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Pv9Pn6/fiona-9-vardas-dygnet-runt-at-mossa",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Pv9Pn6/fiona-9-vardas-dygnet-runt-at-mossa?utm_medium=rss",
-      "published_at": "2026-11-17T10:22:12+01:00",
-      "fetched_at": "2026-11-17T10:30:58+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/6863d8de-32fa-3922-9744-8f26ee311bbc?format=auto&s=f33575166b0d03313534cc96d1426c2a52d9d78b&w=1000",
-      "sv": {
-        "title": "Fiona, 9, vårdas dygnet runt – åt mössa",
-        "summary": "Stickat i halsen ✓ Fastnade i fläkt",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fiona, 9, under round-the-clock care – ate a hat",
-        "summary": "Knitted item stuck in throat ✓ Caught in fan"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T10:31:17+01:00"
       }
     }
   ]

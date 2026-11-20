@@ -1,7 +1,112 @@
 {
-  "generated_at": "2026-11-20T10:01:19+01:00",
+  "generated_at": "2026-11-20T10:16:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "737e99bb0f0d",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/sjukt-att-lkp-cheferna-kops-ut",
+      "guid": "a495813e-f2be-4469-85ff-7a621e703408",
+      "published_at": "2026-11-20T10:10:00+01:00",
+      "fetched_at": "2026-11-20T10:15:54+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Sjukt att LKP-cheferna köps ut",
+        "summary": "Jag vill inte att mina månadsbetalningar ska gå till bibehållna månadslöner för LKP:s chefer. Det skriver en Lundabo, som hyr p-plats av skandalbolaget LKP.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Outrageous that the LKP executives are being bought out",
+        "summary": "I do not want my monthly payments to go to retained salaries for LKP's executives. So writes a Lund resident who rents a parking space from the scandal-hit company LKP."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:16:00+01:00"
+      }
+    },
+    {
+      "id": "25a322c5259e",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/facket-kopte-ut-topp-for-sex-arsloner",
+      "guid": "1cb20f66-5052-40db-8c48-9d93dac1a957",
+      "published_at": "2026-11-20T10:05:17+01:00",
+      "fetched_at": "2026-11-20T10:15:53+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/6e2ed38c-eb50-485a-9804-0029594e835d.jpg?width=600",
+      "sv": {
+        "title": "Facket köpte ut topp – för sex årslöner",
+        "summary": "Fackförbundet Pappers köpte ut en av sina toppar för nära 9 miljoner kronor, rapporterar tidningen Arbetet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Union bought out top executive – for six years' salary",
+        "summary": "The union Pappers bought out one of its top executives for nearly SEK 9 million, reports the newspaper Arbetet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:16:00+01:00"
+      }
+    },
+    {
+      "id": "f778a41995e1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/gurkodlaren-ska-leta-ny-vd",
+      "guid": "4645eb91-4dbe-4a96-9076-4ee5cc2f9c8a",
+      "published_at": "2026-11-20T10:01:13+01:00",
+      "fetched_at": "2026-11-20T10:15:53+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Gurkodlaren ska leta ny vd",
+        "summary": "Agtiras vd Joakim Linneros och styrelsen har på Linneros initiativ kommit överens om att rekrytera en ny vd är nästa fas. Det framgår av ett pressmeddelande.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gurkodlaren to look for new CEO",
+        "summary": "Agtira's CEO Joakim Linneros and the board have, at Linneros' initiative, agreed that recruiting a new CEO is the next phase. This is according to a press release."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:16:00+01:00"
+      }
+    },
+    {
+      "id": "f292fb0879dc",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/sa-har-obligationsmarknaden-utvecklats-ai-oron-spelar-roll",
+      "guid": "4e6957cd-2539-5188-9fe2-9360166d18f8",
+      "published_at": "2026-11-20T09:57:51+01:00",
+      "fetched_at": "2026-11-20T10:15:53+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Så har obligationsmarknaden utvecklats: \"AI-oron spelar roll\"",
+        "summary": "Maria Ljungqvist, förvaltare på Aktie-Ansvar, gästade Börsmorgon",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How the bond market has developed: \"AI worries matter\"",
+        "summary": "Maria Ljungqvist, fund manager at Aktie-Ansvar, was a guest on Börsmorgon"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:16:00+01:00"
+      }
+    },
     {
       "id": "8fd9e5531a7b",
       "schema_version": 1,
@@ -5187,114 +5292,6 @@
       "en": {
         "title": "Higher capital requirements weigh on Nordea shares",
         "summary": "Thursday's gains in Nordea are fading after the European Central Bank, ECB, raised the capital requirements of the banking giant."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T13:16:05+01:00"
-      }
-    },
-    {
-      "id": "77bc3774ae7a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/xis-krigsgliring-till-trump-och-putin-forvantas-mer",
-      "guid": "a60906fd-1373-4914-a5f9-e36622d6c4b7",
-      "published_at": "2026-11-19T13:11:21+01:00",
-      "fetched_at": "2026-11-19T13:15:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/74cba4e2-dc12-49a4-836a-13e9a3ddc6b3.jpeg?width=600",
-      "sv": {
-        "title": "Xis krigsgliring till Trump och Putin: ”Förväntas mer”",
-        "summary": "SHENZHEN/HONGKONG. Under det historiska mötet mellan Donald Trump, Vladimir Putin och Xi Jinping i den sydkinesiska staden Shenzhen talades det ökad oljeproduktion och nedrustning – men utan konkreta besked.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Xi's saber-rattling toward Trump and Putin: “Expected to do more”",
-        "summary": "SHENZHEN/HONGKONG. During the historic meeting between Donald Trump, Vladimir Putin and Xi Jinping in the southern Chinese city of Shenzhen, increased oil production and disarmament were discussed, but without concrete commitments."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T13:16:05+01:00"
-      }
-    },
-    {
-      "id": "2b95a43ce38a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/borsjattar-pressar-smaforetag-stora-enso-forsamrar-villkoren",
-      "guid": "b34e03f5-8ab1-4c7b-a447-685b1348de73",
-      "published_at": "2026-11-19T13:08:28+01:00",
-      "fetched_at": "2026-11-19T13:15:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/77ea5e2f-289c-41dd-87dc-52c382e59c84.jpeg?width=600",
-      "sv": {
-        "title": "Börsjättar pressar småföretag – Stora Enso försämrar villkoren",
-        "summary": "Di-granskade Stora Enso har minskat andelen sena betalningar sedan förra året. Samtidigt har skogsjätten försämrat villkoren för sina minsta leverantörer. Bolaget ligger därmed kvar i bottenskiktet, enligt statistik från Bolagsverket.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stock market giants squeeze small companies – Stora Enso worsens terms",
-        "summary": "Stora Enso, examined by Di, has reduced its share of late payments since last year. At the same time, the forestry giant has worsened terms for its smallest suppliers. The company therefore remains in the bottom tier, according to statistics from Bolagsverket."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T13:16:05+01:00"
-      }
-    },
-    {
-      "id": "10aab24d01ba",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/infor-superavdraget-annars-forlorar-vi-framtidens-jobb",
-      "guid": "14159793-9224-4ba0-8e86-82a02647fc8b",
-      "published_at": "2026-11-19T13:00:06+01:00",
-      "fetched_at": "2026-11-19T13:15:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/381dfe56-7a17-4b6c-ad05-dad0278e1fdd.jpeg?width=600",
-      "sv": {
-        "title": "Inför superavdraget annars förlorar vi framtidens jobb",
-        "summary": "Behovet av att stärka Sveriges konkurrenskraft är större än någonsin. Lägg partipolitiken åt sidan, samla er över blockgränserna, och genomför en av de viktigaste reformerna på flera decennier, skriver bland annat Per Alfredsson, vd för Astra Zeneca AB.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ahead of the super deduction, or we lose future jobs",
-        "summary": "The need to strengthen Sweden's competitiveness is greater than ever. Set party politics aside, unite across bloc lines, and carry out one of the most important reforms in several decades, writes, among others, Per Alfredsson, CEO of Astra Zeneca AB."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T13:16:05+01:00"
-      }
-    },
-    {
-      "id": "64f162d5e10f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/salenbolag-rasar-pa-green-bors-dagens-vinnare-och-forlorare",
-      "guid": "b685f3c5-9277-4c90-8709-61c9c35be48f",
-      "published_at": "2026-11-19T12:59:12+01:00",
-      "fetched_at": "2026-11-19T13:15:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/160d3355-7e9c-474e-91e5-a3c1af6d142c.jpeg?width=600",
-      "sv": {
-        "title": "Salénbolag rasar på Green börs – dagens vinnare och förlorare",
-        "summary": "Stockholmsbörsen ångar på inför den hett emotsedda Anthropicnoteringen senare på torsdagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Salén company plunges on Green exchange – today's winners and losers",
-        "summary": "The Stockholm stock exchange is soaring ahead of the much-anticipated Anthropic listing later on Thursday."
       },
       "translation": {
         "status": "done",

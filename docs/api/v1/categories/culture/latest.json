@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-20T10:01:19+01:00",
+  "generated_at": "2026-11-20T10:16:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "faa40a206914",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/kriget-om-bokklassikerna-star-for-dorren-nar-tankesmedjorna-rustar",
+      "guid": "https://www.dn.se/kultur/kriget-om-bokklassikerna-star-for-dorren-nar-tankesmedjorna-rustar/",
+      "published_at": "2026-11-20T10:09:46+01:00",
+      "fetched_at": "2026-11-20T10:15:51+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/dab1e05e-e3db-4109-83b2-48876bbe4252.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Kriget om bokklassikerna står för dörren när tankesmedjorna rustar",
+        "summary": "Varför satsar politiska tankesmedjor på litteraturpoddar? Genom att lyfta författarna PO Enquist och Eyvind Johnson låter smedjorna Katalys och Timbro litteratur möta ideologi. Frågan är nu vilka svenska författarskap som står på tur att kapas av politiska krafter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The battle over literary classics looms as think tanks gear up",
+        "summary": "Why are political think tanks investing in literature podcasts? By featuring the authors PO Enquist and Eyvind Johnson, the think tanks Katalys and Timbro let literature meet ideology. The question now is which Swedish authors are next in line to be hijacked by political forces."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:16:00+01:00"
+      }
+    },
+    {
+      "id": "1135e921d97c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/dygnet-runt/avgjort-fransk-restaurang-utses-till-lunds-basta",
+      "guid": "dfdb3e01-2d77-431b-a8cf-c26143c08fc3",
+      "published_at": "2026-11-20T10:09:00+01:00",
+      "fetched_at": "2026-11-20T10:15:54+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/8b16deea-2f8a-4c10-9a19-4af5cd80cbcf.jpeg?width=600",
+      "sv": {
+        "title": "Avgjort: Fransk restaurang utses till Lunds bästa",
+        "summary": "Belle Époque och Broder Jakobs var några av vinnarna när Lunds city awards delades ut på Mejeriet under torsdagskvällen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Decided: French restaurant named Lund's best",
+        "summary": "Belle Époque and Broder Jakobs were among the winners when the Lund City Awards were presented at Mejeriet on Thursday evening."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:16:00+01:00"
+      }
+    },
     {
       "id": "27ee1b87d1a7",
       "schema_version": 1,
@@ -5527,59 +5581,6 @@
       "en": {
         "title": "Greeks apparently still believe the Swedish sin is alive",
         "summary": "Maria Bäck's infidelity drama “Brave new love” competed in Thessaloniki – and the audience reaction made the director laugh out loud. The film gets its Swedish premiere in spring."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:01:37+01:00"
-      }
-    },
-    {
-      "id": "ebb0fd225210",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9344875",
-      "guid": "rss:sr.se/article/9344875",
-      "published_at": "2026-11-18T06:59:00+01:00",
-      "fetched_at": "2026-11-18T07:15:45+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Startnummer är årets julklapp",
-        "summary": "Årets julklapp är ett ”startnummer” till ett motionslopp. Det skriver HUI Research i ett pressmeddelande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Race bib is this year's Christmas present",
-        "summary": "This year's Christmas present is a \"race bib\" for a fun run. HUI Research writes this in a press release."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "2685d31504d9",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/trista-beskedet-arets-julklapp-kan-vara-slut",
-      "guid": "78ee4f9e-0d4c-4532-b27e-54ddf1d77aef",
-      "published_at": "2026-11-18T06:58:36+01:00",
-      "fetched_at": "2026-11-18T07:01:21+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/63741d1f-e799-490d-b5f5-60629f62f037.jpg?width=600",
-      "sv": {
-        "title": "Trista beskedet: Årets julklapp kan vara slut",
-        "summary": "Årets julklapp är ett startnummer – det vill säga en plats i ett motionslopp – enligt HUI Research. För den som vill följa rådet kan det dock redan vara för sent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sad news: this year's Christmas gift may be sold out",
-        "summary": "This year's Christmas gift is a start number – that is, a place in a fun run – according to HUI Research. For anyone who wants to follow the advice, however, it may already be too late."
       },
       "translation": {
         "status": "done",

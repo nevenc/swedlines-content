@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T10:01:19+01:00",
+  "generated_at": "2026-11-20T10:16:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "50eb982ea256",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/nathan-shachar-oro-i-saudiarabien-for-att-huthierna-snart-ar-vid-adens-portar",
+      "guid": "https://www.dn.se/varlden/nathan-shachar-oro-i-saudiarabien-for-att-huthierna-snart-ar-vid-adens-portar/",
+      "published_at": "2026-11-20T10:10:49+01:00",
+      "fetched_at": "2026-11-20T10:15:51+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/0cdc623d-0ca6-4998-abae-73159cc7ab50.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Nathan Shachar: Oro i Saudiarabien för att huthierna snart är vid Adens portar",
+        "summary": "Norra Jemens huthier står bara drygt fem mil från Aden, Sydjemens forna huvudstad och säte för den internationellt erkända regeringen. I grannländerna – och många andra länder – bävar regeringar, rederier och exportörer för fortsättningen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Nathan Shachar: Oil in Saudi Arabia as the Houthis are soon at Aden's gates",
+        "summary": "Northern Yemen's Houthis are just over 50 km from Aden, South Yemen's former capital and seat of the internationally recognised government. In neighbouring countries – and many others – governments, shipping companies and exporters are alarmed about what comes next."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:16:00+01:00"
+      }
+    },
     {
       "id": "c3747cf04900",
       "schema_version": 1,
@@ -5376,32 +5403,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T13:45:53+01:00"
-      }
-    },
-    {
-      "id": "954b8b16c6f4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/kronikorer/mats-larsson/odesfragan-trump-vill-tala-med-xi-och-putin-om",
-      "guid": "https://www.expressen.se/kronikorer/mats-larsson/odesfragan-trump-vill-tala-med-xi-och-putin-om/",
-      "published_at": "2026-11-18T13:17:46+01:00",
-      "fetched_at": "2026-11-18T13:31:00+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ödesfrågan Trump vill tala med Xi och Putin om",
-        "summary": "Donald Trump vill diskutera kärnvapen med Kina och Ryssland. Det är ingen dum idé. För världen riskerar få ett trekroppsproblem.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The fateful question Trump wants to discuss with Xi and Putin",
-        "summary": "Donald Trump wants to discuss nuclear weapons with China and Russia. It is no bad idea. For the world risks becoming a three-body problem."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T13:31:06+01:00"
       }
     }
   ]

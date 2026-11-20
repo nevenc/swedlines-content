@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-20T10:01:19+01:00",
+  "generated_at": "2026-11-20T10:16:00+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "737e99bb0f0d",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/sjukt-att-lkp-cheferna-kops-ut",
+      "guid": "a495813e-f2be-4469-85ff-7a621e703408",
+      "published_at": "2026-11-20T10:10:00+01:00",
+      "fetched_at": "2026-11-20T10:15:54+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Sjukt att LKP-cheferna köps ut",
+        "summary": "Jag vill inte att mina månadsbetalningar ska gå till bibehållna månadslöner för LKP:s chefer. Det skriver en Lundabo, som hyr p-plats av skandalbolaget LKP.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Outrageous that the LKP executives are being bought out",
+        "summary": "I do not want my monthly payments to go to retained salaries for LKP's executives. So writes a Lund resident who rents a parking space from the scandal-hit company LKP."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:16:00+01:00"
+      }
+    },
+    {
+      "id": "1135e921d97c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/dygnet-runt/avgjort-fransk-restaurang-utses-till-lunds-basta",
+      "guid": "dfdb3e01-2d77-431b-a8cf-c26143c08fc3",
+      "published_at": "2026-11-20T10:09:00+01:00",
+      "fetched_at": "2026-11-20T10:15:54+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/8b16deea-2f8a-4c10-9a19-4af5cd80cbcf.jpeg?width=600",
+      "sv": {
+        "title": "Avgjort: Fransk restaurang utses till Lunds bästa",
+        "summary": "Belle Époque och Broder Jakobs var några av vinnarna när Lunds city awards delades ut på Mejeriet under torsdagskvällen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Decided: French restaurant named Lund's best",
+        "summary": "Belle Époque and Broder Jakobs were among the winners when the Lund City Awards were presented at Mejeriet on Thursday evening."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:16:00+01:00"
+      }
+    },
     {
       "id": "04b2abcfb336",
       "schema_version": 1,
@@ -5140,58 +5193,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T09:15:50+01:00"
-      }
-    },
-    {
-      "id": "a4bd2f6cc34a",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/lund/skanetrafikens-nya-bussrutter-ar-positiva-for-oss",
-      "guid": "8583ea56-7d8f-4412-8525-e782f24199c2",
-      "published_at": "2026-11-18T09:00:00+01:00",
-      "fetched_at": "2026-11-18T09:01:15+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Skånetrafikens nya bussrutter är positiva för oss",
-        "summary": "Alla är inte negativa till de nya dragningarna av busslinjerna. För oss som pendlar från norra Malmö till universitetssjukhuset i Lund borde detta innebära en stor förbättring, skriver dagens insändarskribent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Skånetrafiken's new bus routes are positive for us",
-        "summary": "Not everyone is negative about the new bus line routings. For us who commute from northern Malmö to the university hospital in Lund, this should mean a major improvement, writes today's letter writer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T09:01:20+01:00"
-      }
-    },
-    {
-      "id": "3f30388d5968",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/norsk-sakerhetstjanst-okad-risk-for-terrorattacker",
-      "guid": "1de2cd44-66e9-4bbe-8346-3d187b730a4f",
-      "published_at": "2026-11-18T08:40:55+01:00",
-      "fetched_at": "2026-11-18T08:45:43+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Norsk säkerhetstjänst: ”Ökad risk för terrorattacker”",
-        "summary": "Det finns en förhöjd risk för terrordåd i Norge nästa år, varnar den norska säkerhetstjänsten PST.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Norwegian security service: \"Increased risk of terror attacks\"",
-        "summary": "There is an elevated risk of terror attacks in Norway next year, warns the Norwegian security service PST."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T08:45:50+01:00"
       }
     }
   ]
