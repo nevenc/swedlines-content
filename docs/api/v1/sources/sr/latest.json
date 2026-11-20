@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-20T09:45:59+01:00",
+  "generated_at": "2026-11-20T10:01:19+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "953d9dda003c",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346828",
+      "guid": "rss:sr.se/article/9346828",
+      "published_at": "2026-11-20T09:57:00+01:00",
+      "fetched_at": "2026-11-20T10:01:09+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "Gul varning för snö i östra Svealand",
+        "summary": "En gul varning om snöfall i kombination med vind har utfärdats i delar av östra Svealand, där fem till 15 centimeter snö väntas falla. Varningen gäller från 18 på fredagskvällen och ligger kvar fram till 23 på lördagen, där störst mängd snö väntas falla i norra Uppland.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Yellow warning for snow in eastern Svealand",
+        "summary": "A yellow warning for snowfall combined with wind has been issued for parts of eastern Svealand, where five to 15 centimetres of snow are expected to fall. The warning applies from 18:00 on Friday evening until 23:00 on Saturday, with the largest amounts of snow expected in northern Uppland."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:01:18+01:00"
+      }
+    },
+    {
+      "id": "8163a3102f5f",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346880",
+      "guid": "rss:sr.se/article/9346880",
+      "published_at": "2026-11-20T09:51:00+01:00",
+      "fetched_at": "2026-11-20T10:01:09+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Börsfall i Asien – AI-investeraren Softbank rasar",
+        "summary": "Börserna i Asien faller på fredagen efter torsdagens nedgångar i USA, där tekniktunga Nasdaq tappade mest. Teknikbolag inom AI-sektorn backar återigen. Bland annat rasade det japanska investeringsbolaget Softbank med 14,5 procent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Asian stocks fall – AI investor Softbank plunges",
+        "summary": "Asian stock markets fall on Friday after Thursday's declines in the US, where tech-heavy Nasdaq lost the most. AI-sector tech companies are again falling back. Japanese investment company Softbank plunged 14.5 percent, among others."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:01:18+01:00"
+      }
+    },
     {
       "id": "824035dc4222",
       "schema_version": 1,
@@ -5141,58 +5193,6 @@
       "en": {
         "title": "Ground stop in the US – SAS awaits word on five planes",
         "summary": "A national ground stop in the US is halting outbound traffic and could cause delays for thousands of flights on Friday evening. SAS has five flights in the air on their way to the US, and according to press officer Alexandra Lindgren Kaokji the airline is now awaiting information on how the flights will be handled."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:56:57+01:00"
-      }
-    },
-    {
-      "id": "df80a07dc458",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340872",
-      "guid": "rss:sr.se/article/9340872",
-      "published_at": "2026-11-13T22:26:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Tankfartyg har krockat med kryssningsbåt i New Orleans",
-        "summary": "Ett 30-tal personer har förts till sjukhus efter att ett lastfartyg körde in i ett kryssningsfartyg i New Orleans under kvällen. Ingen ska vara allvarligt skadad. Kryssningsfartyget med runt 130 personer ombord låg vid kaj i hamnen i New Orleans när det blev påkört och började sjunka.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tanker has collided with cruise boat in New Orleans",
-        "summary": "Around 30 people have been taken to hospital after a cargo ship ran into a cruise ship in New Orleans during the evening. No one is said to be seriously injured. The cruise ship, with around 130 people on board, was at the quay in the port of New Orleans when it was hit and began to sink."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:56:57+01:00"
-      }
-    },
-    {
-      "id": "60b55272ec78",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340866",
-      "guid": "rss:sr.se/article/9340866",
-      "published_at": "2026-11-13T22:06:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "USA:s luftfartsmyndighet stoppar all flygtrafik",
-        "summary": "USA:s luftfartsmyndighet FAA har stoppat alla avgående flyg i hela landet. Orsaken är kommunikationsproblem vid regionala flygledningscentraler, enligt transportminister Sean Duffy. Landsomfattande stopp av denna typ är extremt ovanliga i USA.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "US aviation authority halts all air traffic",
-        "summary": "The US aviation authority FAA has halted all departing flights across the country. The cause is communication problems at regional air traffic control centres, according to Transportation Secretary Sean Duffy. Nationwide stops of this kind are extremely rare in the US."
       },
       "translation": {
         "status": "done",
