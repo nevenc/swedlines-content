@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T08:01:16+01:00",
+  "generated_at": "2026-11-20T08:15:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "21fd19b6f002",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/langdskidor/beskedet-redan-stopp-for-visum-till-ryska-idrottare",
+      "guid": "https://www.svt.se/sport/langdskidor/beskedet-redan-stopp-for-visum-till-ryska-idrottare",
+      "published_at": "2026-11-20T08:08:58+01:00",
+      "fetched_at": "2026-11-20T08:15:39+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Beskedet: Redan stopp för visum till ryska idrottare",
+        "summary": "Ryska idrottare kommer inte att beviljas visum till Sverige. Och de har inte beviljats det tidigare heller, enligt Migrationsverket.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Already a stop to visas for Russian athletes",
+        "summary": "Russian athletes will not be granted visas to Sweden. And they have not been granted them before either, according to the Migration Agency."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:15:49+01:00"
+      }
+    },
     {
       "id": "c7ade2a023a7",
       "schema_version": 1,
@@ -5603,33 +5629,6 @@
       "en": {
         "title": "Staffan Olsson's rule proposal: “Abolish it as soon as possible”",
         "summary": "Handball icon Staffan Olsson weighs in on the debate over the seven-on-six rule as this week's panel gives its views. Together with Sydsvenskan's handball reporter Niklas Wihlborg and TV expert Robin Nilsson, he also takes the temperature of the silly season and the start of the women's league."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:51+01:00"
-      }
-    },
-    {
-      "id": "76f01f5f8a33",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sport/mardromsar-och-totalt-kaos-nu-lyfter-italien-igen",
-      "guid": "https://www.dn.se/sport/mardromsar-och-totalt-kaos-nu-lyfter-italien-igen/",
-      "published_at": "2026-11-14T12:58:28+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/6cb4e3db-4e92-4c9c-9beb-2cb7e3555be0.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Mardrömsår och totalt kaos – nu lyfter Italien igen",
-        "summary": "På fotbollsförbundet är det orkansäsong. I Nations League går herrlandslaget som tåget. Efter tre missade VM syns tecken på att Gli Azzurri är på väg tillbaka. Man har behövt syna en rad italienska fotbollssanningar för att hitta hit.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Years of disaster and total chaos – now Italy is rising again",
-        "summary": "At the football federation it is hurricane season. In the Nations League the men's national team is sailing along. After three missed World Cups there are signs that the Azzurri are on the way back. They have had to confront a series of Italian football truths to get here."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,162 @@
 {
-  "generated_at": "2026-11-20T08:01:16+01:00",
-  "count": 145,
+  "generated_at": "2026-11-20T08:15:49+01:00",
+  "count": 151,
   "items": [
+    {
+      "id": "21fd19b6f002",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/langdskidor/beskedet-redan-stopp-for-visum-till-ryska-idrottare",
+      "guid": "https://www.svt.se/sport/langdskidor/beskedet-redan-stopp-for-visum-till-ryska-idrottare",
+      "published_at": "2026-11-20T08:08:58+01:00",
+      "fetched_at": "2026-11-20T08:15:39+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Beskedet: Redan stopp för visum till ryska idrottare",
+        "summary": "Ryska idrottare kommer inte att beviljas visum till Sverige. Och de har inte beviljats det tidigare heller, enligt Migrationsverket.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Already a stop to visas for Russian athletes",
+        "summary": "Russian athletes will not be granted visas to Sweden. And they have not been granted them before either, according to the Migration Agency."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:15:49+01:00"
+      }
+    },
+    {
+      "id": "7421838a09a2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/andrev-walden-vantar-sig-kritik-spadarna-ar-vassade",
+      "guid": "b059474d-70bb-406f-97f2-cf7407e84620",
+      "published_at": "2026-11-20T08:06:25+01:00",
+      "fetched_at": "2026-11-20T08:15:45+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/b45544ae-24f1-4a41-a3ab-7795f0e2dd2d.jpg?width=600",
+      "sv": {
+        "title": "Andrev Walden väntar sig kritik: Spadarna är vässade",
+        "summary": "Succéromanen ”Jävla karlar” gav Andrev Walden friheten att fortsätta skriva det han ville – på heltid. Men nu räknar han med kritik. – Jag vet att spadarna är vässade för att begrava mig.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Andrev Walden expects criticism: The spades are sharpened",
+        "summary": "The bestselling novel \"Jävla karlar\" gave Andrev Walden the freedom to keep writing what he wanted – full-time. But now he expects criticism. – I know the spades are sharpened to bury me."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:15:49+01:00"
+      }
+    },
+    {
+      "id": "dcc20054623a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/hogre-resultat-for-paxman",
+      "guid": "e1dfa36c-5bad-42f2-bb54-27df5df0254b",
+      "published_at": "2026-11-20T08:03:23+01:00",
+      "fetched_at": "2026-11-20T08:15:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Högre resultat för Paxman",
+        "summary": "Skalpkylningsbolaget Paxman redovisar ett ebitda-resultat på 18,1 miljoner kronor (7,8) för det tredje kvartalet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Higher results for Paxman",
+        "summary": "Cooling-systems company Paxman reports an EBITDA result of SEK 18.1 million (7.8) for the third quarter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:15:49+01:00"
+      }
+    },
+    {
+      "id": "d4b2743f63a2",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/live-borsmorgon-20-november",
+      "guid": "ca042b55-6e65-5563-8703-0553da50f50d",
+      "published_at": "2026-11-20T08:00:00+01:00",
+      "fetched_at": "2026-11-20T08:15:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "LIVE: Börsmorgon 20 november"
+      },
+      "en": {
+        "title": "LIVE: Stock market morning 20 November"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:15:49+01:00"
+      }
+    },
+    {
+      "id": "24cf56941da4",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/ditv/borsmorgon/globala-borsoron-fortsatter-nya-ras-varlden-over",
+      "guid": "a8d778ac-6a10-54f6-b582-f7b7574162f8",
+      "published_at": "2026-11-20T07:58:55+01:00",
+      "fetched_at": "2026-11-20T08:15:43+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Globala börsoron fortsätter – nya ras världen över",
+        "summary": "Morgonens viktigaste nyheter med Sam Bornstein",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Global stock market turmoil continues – new crashes worldwide",
+        "summary": "The morning's most important news with Sam Bornstein"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:15:49+01:00"
+      }
+    },
+    {
+      "id": "ccb3f2dee1e3",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/ung-vanster-lugn-och-fredlig-demonstration",
+      "guid": "b918870f-b003-44bd-94c9-5d8aab9b4386",
+      "published_at": "2026-11-20T07:56:51+01:00",
+      "fetched_at": "2026-11-20T08:15:43+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/4c57cbb0-82d3-4b4a-9c94-42fc99444afc.jpg?width=600",
+      "sv": {
+        "title": "Ung vänster: Lugn och fredlig demonstration",
+        "summary": "Inför dagens ungdomsprotester har Svensk Handel förberett butiker på det värsta. Men både branschorganisationen och arrangörerna manar till lugn. ”Vi har planerat för en lugn och fredlig demonstration”, säger Ebba Axelsson, arrangör och distriktsordförande för Ung vänster Storstockholm.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Young Left: Calm and peaceful demonstration",
+        "summary": "Ahead of today's youth protests, Svensk Handel has prepared shops for the worst. But both the industry organisation and the organisers urge calm. \"We have planned for a calm and peaceful demonstration,\" says Ebba Axelsson, organiser and district chair of Ung vänster Storstockholm."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:15:49+01:00"
+      }
+    },
     {
       "id": "c7ade2a023a7",
       "schema_version": 1,

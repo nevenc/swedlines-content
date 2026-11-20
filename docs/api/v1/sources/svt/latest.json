@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T08:01:16+01:00",
+  "generated_at": "2026-11-20T08:15:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "21fd19b6f002",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/langdskidor/beskedet-redan-stopp-for-visum-till-ryska-idrottare",
+      "guid": "https://www.svt.se/sport/langdskidor/beskedet-redan-stopp-for-visum-till-ryska-idrottare",
+      "published_at": "2026-11-20T08:08:58+01:00",
+      "fetched_at": "2026-11-20T08:15:39+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Beskedet: Redan stopp för visum till ryska idrottare",
+        "summary": "Ryska idrottare kommer inte att beviljas visum till Sverige. Och de har inte beviljats det tidigare heller, enligt Migrationsverket.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Already a stop to visas for Russian athletes",
+        "summary": "Russian athletes will not be granted visas to Sweden. And they have not been granted them before either, according to the Migration Agency."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:15:49+01:00"
+      }
+    },
     {
       "id": "d2fae409ec5f",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Tennis match at Stockholm Open praised: \"Finds the cross-court\"",
         "summary": "Taylor Fritz, 29, won the Stockholm Open. He produced a dream matchup in the final at the Kungliga tennishallen. \"There he finds the cross-court!\" exclaims commentator Petter Pettersson on TV4."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:49+01:00"
-      }
-    },
-    {
-      "id": "d9c057e7f82f",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/fotboll/victor-nilsson-lindelof-njuter-sa-mycket-enklare",
-      "guid": "https://www.svt.se/sport/fotboll/victor-nilsson-lindelof-njuter-sa-mycket-enklare",
-      "published_at": "2026-11-14T15:11:46+01:00",
-      "fetched_at": "2026-11-14T15:17:22+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Victor Nilsson Lindelöf njuter: ”Så mycket enklare”",
-        "summary": "Victor Nilsson Lindelöf förlängde nyligen kontraktet med Aston Villa. Den svenske lagkaptenen trivs. – Jag njuter av fotbollen, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Victor Nilsson Lindelöf enjoys it: \"So much easier\"",
-        "summary": "Victor Nilsson Lindelöf recently extended his contract with Aston Villa. The Swedish team captain is happy. \"I enjoy the football,\" he says."
       },
       "translation": {
         "status": "done",

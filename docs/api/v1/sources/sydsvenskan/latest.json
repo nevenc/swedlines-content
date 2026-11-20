@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T08:01:16+01:00",
+  "generated_at": "2026-11-20T08:15:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7421838a09a2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/noje/andrev-walden-vantar-sig-kritik-spadarna-ar-vassade",
+      "guid": "b059474d-70bb-406f-97f2-cf7407e84620",
+      "published_at": "2026-11-20T08:06:25+01:00",
+      "fetched_at": "2026-11-20T08:15:45+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/b45544ae-24f1-4a41-a3ab-7795f0e2dd2d.jpg?width=600",
+      "sv": {
+        "title": "Andrev Walden väntar sig kritik: Spadarna är vässade",
+        "summary": "Succéromanen ”Jävla karlar” gav Andrev Walden friheten att fortsätta skriva det han ville – på heltid. Men nu räknar han med kritik. – Jag vet att spadarna är vässade för att begrava mig.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Andrev Walden expects criticism: The spades are sharpened",
+        "summary": "The bestselling novel \"Jävla karlar\" gave Andrev Walden the freedom to keep writing what he wanted – full-time. But now he expects criticism. – I know the spades are sharpened to bury me."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:15:49+01:00"
+      }
+    },
     {
       "id": "d009d08a015a",
       "schema_version": 1,
@@ -5148,29 +5175,6 @@
       },
       "en": {
         "title": "House of 106 sq m sold for 5.3 million"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "080f0455fbac",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/60-talshus-i-revingeby-revinge-salt-for-1-9-miljoner",
-      "guid": "ba8daea5-2060-4c5a-a326-9dd0fb283e7b",
-      "published_at": "2026-11-18T07:02:10+01:00",
-      "fetched_at": "2026-11-18T07:15:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "60-talshus i Revingeby, Revinge sålt – för 1,9 miljoner"
-      },
-      "en": {
-        "title": "1960s house in Revingeby, Revinge sold – for 1.9 million"
       },
       "translation": {
         "status": "done",
