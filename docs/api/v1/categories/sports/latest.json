@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T20:45:55+01:00",
+  "generated_at": "2026-11-20T21:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9cd751c4eb78",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/hk-malmos-svit-tog-slut-i-partille-kanner-mig-lite-tom",
+      "guid": "7133f75e-e31b-4ea9-9e19-277bbb1e7331",
+      "published_at": "2026-11-20T20:56:05+01:00",
+      "fetched_at": "2026-11-20T21:01:16+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/e807af5d-81cd-45f1-b459-c6723cd41fe3.jpeg?width=600",
+      "sv": {
+        "title": "HK Malmös svit tog slut i Partille: ”Känner mig lite tom”",
+        "summary": "HK Malmö hade åtta raka seriematcher utan förlust. Men i Partille tog det stopp. Sävehof vann fredagens möte med 30–27. – Jag känner mig lite tom, säger HK Malmös Colin Tönnesen i Sydsvenskans sändning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "HK Malmö's streak ends in Partille: \"I feel a bit empty\"",
+        "summary": "HK Malmö had eight straight league matches without defeat. But in Partille the run came to a halt. Sävehof won Friday's match 30–27. \"I feel a bit empty, says HK Malmö's Colin Tönnesen on Sydsvenskan's broadcast.\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:01:22+01:00"
+      }
+    },
     {
       "id": "084148752d56",
       "schema_version": 1,
@@ -5575,35 +5602,6 @@
       "en": {
         "title": "Dream start for Sweden in the Nations League",
         "summary": "Blågult have everything in their own hands. A home win against Bosnia-Herzegovina means promotion to the Nations League A division, with one match left to play. When the teams met in October it ended 1-1. That match was played in Zenica."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T21:40:46+01:00"
-      }
-    },
-    {
-      "id": "195ebe778222",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2IC0wMBN9z3YWY9UpudrzY/tiotusentals-bosniska-supportrar-pa-nationalarenan",
-      "guid": "2IC0wMBN9z3YWY9UpudrzY",
-      "published_at": "2026-11-14T20:35:45+01:00",
-      "fetched_at": "2026-11-14T21:40:37+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Sport"
-      ],
-      "sv": {
-        "title": "Tiotusentals bosniska supportrar på Nationalarenan",
-        "summary": "Redan under dagen började bilder på stora folksamlingar i bosniska färger spridas och när matchstart i Nations League-mötet Sverige-Bosnien-Hercegovina närmade sig blev den bosniska närvaron ännu mer påtaglig. Bosniska supportrar tågade mot Nationalarenan i enorma folksamlingar.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Tens of thousands of Bosnian supporters at the National Arena",
-        "summary": "Pictures of large crowds in Bosnian colours began spreading during the day, and as kick-off approached in the Nations League match Sweden-Bosnia-Herzegovina, the Bosnian presence became even more visible. Bosnian supporters marched towards the National Arena in huge crowds."
       },
       "translation": {
         "status": "done",

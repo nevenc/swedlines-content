@@ -1,7 +1,72 @@
 {
-  "generated_at": "2026-11-20T20:45:55+01:00",
+  "generated_at": "2026-11-20T21:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6cbf1b1dcc0e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/gorm-koade-i-19-timmar-for--ikeas-mjukglass-sa-javla-god",
+      "guid": "https://www.expressen.se/nyheter/sverige/gorm-koade-i-19-timmar-for--ikeas-mjukglass-sa-javla-god/",
+      "published_at": "2026-11-20T20:57:10+01:00",
+      "fetched_at": "2026-11-20T21:01:13+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Gorm köade i 19 timmar – för Ikeas mjukglass: ”Så jävla god”",
+        "summary": "Gorm Henriksson ville göra något kul. Därför köade han 19 timmar – för att köpa en mjukglass på Ikea. – Den var så jävla god, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Gorm queued for 19 hours – for Ikea's soft-serve ice cream: \"So damn good\"",
+        "summary": "Gorm Henriksson wanted to do something fun. So he queued for 19 hours to buy a soft-serve ice cream at Ikea. \"It was so damn good, he says.\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:01:22+01:00"
+      }
+    },
+    {
+      "id": "eeede86a1abe",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/kulturdebatt/allt-ar-kandiskulturens-fel.d24a63cc-6149-5adb-8a2d-21ad4c0427a1",
+      "guid": "d24a63cc-6149-5adb-8a2d-21ad4c0427a1",
+      "published_at": "2026-11-20T20:26:37+01:00",
+      "fetched_at": "2026-11-20T21:01:15+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kulturdebatt",
+        "Tagg: Författare",
+        "Tagg: Litteratur",
+        "Tagg: Caroline Ringskog Ferrada-Noli",
+        "Tagg: Tone Schunnesson",
+        "Tagg: Café Bambino",
+        "Tagg: Böcker",
+        "Tagg: Recension",
+        "Tagg: Autofiktion",
+        "Tagg: Sandra Beijer"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/ad7fa0cc-2591-37df-8e1b-a33b6ecb0338",
+      "sv": {
+        "title": "Problemet med Beijer, Schunnesson och CRFN stavas kändiskultur",
+        "summary": "När författare blir kändisar står vi inför en ny litterär offentlighet skriver Mikaela Pejković.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The problem with Beijer, Schunnesson and CRFN is called celebrity culture",
+        "summary": "When authors become celebrities, we face a new literary public sphere, writes Mikaela Pejković."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:01:22+01:00"
+      }
+    },
     {
       "id": "8c4981dc57d1",
       "schema_version": 1,
@@ -5599,60 +5664,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T19:31:10+01:00"
-      }
-    },
-    {
-      "id": "dfe947b936dd",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/QroEa4/kandis-flodhasten-fiona-at-mossa-far-akut-vard",
-      "guid": "https://www.aftonbladet.se/nyheter/a/QroEa4/kandis-flodhasten-fiona-at-mossa-far-akut-vard?utm_medium=rss",
-      "published_at": "2026-11-18T19:23:59+01:00",
-      "fetched_at": "2026-11-18T19:31:03+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/4f6dde8a-0dd7-3cf5-a03f-3705f737edb4?format=auto&s=5d1fa6075737dc1dd413ffe37d10455e8c20d545&w=1000",
-      "sv": {
-        "title": "Kändis-flodhästen Fiona åt mössa – får akut vård",
-        "summary": "Flodhästen Fiona, känd som bokfigur och internetfenomen, behöver akut vård efter att ha ätit en…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Celebrity hippo Fiona ate a hat – gets emergency care",
-        "summary": "Fiona the hippo, known as a book character and internet phenomenon, needs emergency care after eating a…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:31:10+01:00"
-      }
-    },
-    {
-      "id": "bfdddfe7a4d3",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/noje/julio-iglesias-utreds-for-overgrepp",
-      "guid": "73d847b7-41fd-4156-808b-c36f54ffa345",
-      "published_at": "2026-11-18T19:00:33+01:00",
-      "fetched_at": "2026-11-18T19:01:13+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/9ffc489e-55d8-4b20-9f2e-009f826a82b6.jpg?width=600",
-      "sv": {
-        "title": "Julio Iglesias utreds för övergrepp",
-        "summary": "Den spanske sångaren Julio Iglesias, 83, anklagas för övergrepp av två tidigare anställda. Nu har en spansk domare inlett en utredning mot sångaren.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Julio Iglesias under investigation for abuse",
-        "summary": "The Spanish singer Julio Iglesias, 83, is accused of abuse by two former employees. A Spanish judge has now opened an investigation into the singer."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:01:17+01:00"
       }
     }
   ]
