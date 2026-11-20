@@ -1,7 +1,65 @@
 {
-  "generated_at": "2026-11-20T19:16:01+01:00",
+  "generated_at": "2026-11-20T19:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "85f7744ae7df",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/17rOVV36OdSVXrCqGkTX3e/hoppet-ute-bland-manga-unga-i-nepal-jag-ser-ingen-ljus-framtid",
+      "guid": "17rOVV36OdSVXrCqGkTX3e",
+      "published_at": "2026-11-20T19:28:57+01:00",
+      "fetched_at": "2026-11-20T19:31:08+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Utrikesnyheter"
+      ],
+      "sv": {
+        "title": "Hoppet ute bland många unga i Nepal: ”Jag ser ingen ljus framtid”",
+        "summary": "Kraven efter ungdomsrevolten i landet: En lösning på klimatkrisen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hope lies out of reach for many young people in Nepal: \"I don't see a bright future\"",
+        "summary": "Demands after the youth uprising in the country: A solution to the climate crisis"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:31:14+01:00"
+      }
+    },
+    {
+      "id": "d4918813ec61",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/cdfZpyfW2vz1OT0ja5rtD/westlife-tillbaka-efter-25-ar-daerfoer-lever-pojkbandsfebern",
+      "guid": "cdfZpyfW2vz1OT0ja5rtD",
+      "published_at": "2026-11-20T19:04:32+01:00",
+      "fetched_at": "2026-11-20T19:31:08+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Westlife tillbaka efter 25 år – därför lever pojkbandsfebern",
+        "summary": "Westlife bildades 1998 och slog igenom året därpå med hits som ”If I Let You Go”. Bandet blev ett av världens mest framgångsrika pojkband och har sålt över 55 miljoner skivor. Nu är de tillbaka med en jubileumsturné, där tre av de ursprungliga fem medlemmarna står på scenen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Westlife back after 25 years – why boy band fever lives on",
+        "summary": "Westlife was formed in 1998 and broke through the following year with hits such as \"If I Let You Go\". The band became one of the world's most successful boy bands and has sold over 55 million records. Now they are back with a anniversary tour, in which three of the original five members are on stage."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:31:14+01:00"
+      }
+    },
     {
       "id": "214ea26c00b7",
       "schema_version": 1,
@@ -5711,64 +5769,6 @@
       "en": {
         "title": "SSU rages at the Muf contest: 'Drifting towards a troll factory'",
         "summary": "TV4 Nyheterna revealed yesterday that the Moderate Youth League, Muf, held an internal propaganda contest during the election campaign. The aim was to get members to publish video clips on social media. The best impact was rewarded each week with a gift card worth SEK 1,000."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "1bd2bbd61627",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3Vb5SRijzyLhZzxO1afNJf/putin-balanserar-mellan-optimism-och-desperation",
-      "guid": "3Vb5SRijzyLhZzxO1afNJf",
-      "published_at": "2026-11-12T19:44:28+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Allt ser inte mörkt ut för Vladimir Putin",
-        "summary": "Idag föll snöflingor över Röda torget. Borta var de ukrainska drönarna som annars susar över Moskvahimmeln. För en gång skull kunde alla fyra flygplatser i den ryska huvudstaden operera utan störningar. Detta var ingen tillfällighet. Donald Trumps förhandlingsteam var på besök.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Not everything looks dark for Vladimir Putin",
-        "summary": "Today snowflakes fell over Red Square. Gone were the Ukrainian drones that otherwise whizz across the Moscow sky. For once all four airports in the Russian capital could operate without disruption. This was no coincidence. Donald Trump's negotiating team was visiting."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "dc3df61405dd",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4iIors9B26ocneRiyctxgr/privatleasning-av-bil-oekar-men-faellor-finns",
-      "guid": "4iIors9B26ocneRiyctxgr",
-      "published_at": "2026-11-12T19:28:45+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Privatleasning av bil ökar – fällorna att se upp med",
-        "summary": "Samboparet Helena Benedicks och Andreas Jansson i Östersund är inne på sin tredje bil som de leasar privat. De berättar att de är väldigt nöjda med den här lösningen jämfört med att köpa en bil.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Private car leasing on the rise – the traps to watch out for",
-        "summary": "Cohabiting couple Helena Benedicks and Andreas Jansson in Östersund are on their third privately leased car. They say they are very happy with this solution compared with buying a car."
       },
       "translation": {
         "status": "done",

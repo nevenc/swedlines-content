@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-20T19:16:01+01:00",
+  "generated_at": "2026-11-20T19:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1cbf63217edd",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/kungligt/estelles-skola-hanades-i--pa-sparet-i-svt-svaret",
+      "guid": "https://www.expressen.se/nyheter/kungligt/estelles-skola-hanades-i--pa-sparet-i-svt-svaret/",
+      "published_at": "2026-11-20T19:21:08+01:00",
+      "fetched_at": "2026-11-20T19:31:07+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Estelles skola hånades i ”På spåret” i SVT – svaret",
+        "summary": "”Snobbskola” var ledtråden när ”På spåret” skulle till Filippinernas huvudstad. Nu slår Campus Manillas skolchef tillbaka. – Jag tycker att det är orättvist mot våra elever, säger Martin Malmberg.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Estelle's school mocked on \"På spåret\" on SVT – the response",
+        "summary": "\"Snobbskola\" was the clue when \"På spåret\" was about the capital of the Philippines. Now the head of Campus Manila hits back. – I think it is unfair to our pupils, says Martin Malmberg."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:31:14+01:00"
+      }
+    },
+    {
+      "id": "d4918813ec61",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/cdfZpyfW2vz1OT0ja5rtD/westlife-tillbaka-efter-25-ar-daerfoer-lever-pojkbandsfebern",
+      "guid": "cdfZpyfW2vz1OT0ja5rtD",
+      "published_at": "2026-11-20T19:04:32+01:00",
+      "fetched_at": "2026-11-20T19:31:08+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Westlife tillbaka efter 25 år – därför lever pojkbandsfebern",
+        "summary": "Westlife bildades 1998 och slog igenom året därpå med hits som ”If I Let You Go”. Bandet blev ett av världens mest framgångsrika pojkband och har sålt över 55 miljoner skivor. Nu är de tillbaka med en jubileumsturné, där tre av de ursprungliga fem medlemmarna står på scenen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Westlife back after 25 years – why boy band fever lives on",
+        "summary": "Westlife was formed in 1998 and broke through the following year with hits such as \"If I Let You Go\". The band became one of the world's most successful boy bands and has sold over 55 million records. Now they are back with a anniversary tour, in which three of the original five members are on stage."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:31:14+01:00"
+      }
+    },
     {
       "id": "c5089a935811",
       "schema_version": 1,
@@ -5598,60 +5653,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T19:01:17+01:00"
-      }
-    },
-    {
-      "id": "5b0fbdc77328",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/LoAmWQ/stort-sug-efter-forsta-vinet-fran-arets-skord",
-      "guid": "https://www.svd.se/a/LoAmWQ/stort-sug-efter-forsta-vinet-fran-arets-skord?utm_medium=rss",
-      "published_at": "2026-11-18T18:43:35+01:00",
-      "fetched_at": "2026-11-18T18:45:41+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/474128e4-6b99-3661-8c67-64016978898f?format=auto&s=01df47dad95026c247efd0de4941d93754e7f98d&w=1000",
-      "sv": {
-        "title": "Stort sug efter första vinet från årets skörd",
-        "summary": "Tredje torsdagen i november är det trängsel i barer och butiker världen över.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Big demand for the first wine from this year's harvest",
-        "summary": "On the third Thursday in November there is crowding in bars and shops around the world."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T18:45:55+01:00"
-      }
-    },
-    {
-      "id": "fbead3c50504",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/sandra-stiskalo-russell-brand-ar-fortfarande-alskad",
-      "guid": "https://www.dn.se/kultur/sandra-stiskalo-russell-brand-ar-fortfarande-alskad/",
-      "published_at": "2026-11-18T18:43:06+01:00",
-      "fetched_at": "2026-11-18T18:45:41+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/ed8dab0f-e8aa-4ba5-8819-e3dd0aa8b619.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Sandra Stiskalo: Russell Brand är fortfarande älskad",
-        "summary": "LONDON. På 00-talet kunde publiken inte sluta skratta åt Russell Brand. Nu avtjänar han ett tio och ett halvt år långt fängelsestraff – men långt ifrån alla har övergett honom.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sandra Stiskalo: Russell Brand is still loved",
-        "summary": "LONDON. In the 2000s the audience could not stop laughing at Russell Brand. Now he is serving a ten-and-a-half-year prison sentence – but far from everyone has abandoned him."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T18:45:55+01:00"
       }
     }
   ]

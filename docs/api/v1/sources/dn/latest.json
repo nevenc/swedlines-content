@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T19:16:01+01:00",
+  "generated_at": "2026-11-20T19:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "fc75ab9c4c9c",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ledare/lisa-magnusson-ska-barn-fa-folja-med-ut-pa-krogen",
+      "guid": "https://www.dn.se/ledare/lisa-magnusson-ska-barn-fa-folja-med-ut-pa-krogen/",
+      "published_at": "2026-11-20T19:24:17+01:00",
+      "fetched_at": "2026-11-20T19:31:06+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/1ea5ff5a-8c0e-4507-a9dd-5de1c8c3e64c.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Lisa Magnusson: Ska barn få följa med ut på krogen?",
+        "summary": "Skärp er nu.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lisa Magnusson: Should children be allowed to join you at the restaurant?",
+        "summary": "Get your act together now."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:31:14+01:00"
+      }
+    },
     {
       "id": "95cf035ec292",
       "schema_version": 1,
@@ -5361,33 +5388,6 @@
       "en": {
         "title": "Linus Larsson: Anthropic wants to eat the stock market cake and keep it",
         "summary": "A listed giant – and a good force that thinks about things other than shareholders. Anthropic's stock market listing is anything but ordinary. Life as a listed company becomes a trial by fire for idealism."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T08:45:50+01:00"
-      }
-    },
-    {
-      "id": "1f2feb12bf34",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/sanna-jag-sag-elizabeth-holmes-filmen-i-washington-och-blir-inte-kvitt-henne",
-      "guid": "https://www.dn.se/kultur/sanna-jag-sag-elizabeth-holmes-filmen-i-washington-och-blir-inte-kvitt-henne/",
-      "published_at": "2026-11-18T08:39:12+01:00",
-      "fetched_at": "2026-11-18T08:45:39+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/d97a18c1-74e2-41ed-a5a2-e784609ac356.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Sanna: Jag såg Elizabeth Holmes-filmen i Washington – och blir inte kvitt henne",
-        "summary": "Slughet byggs i många lager. Sanna och hennes kompis i Los Angeles försöker bearbeta filmen om Elizabeth Holmes.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sanna: I saw the Elizabeth Holmes film in Washington – and can't get rid of her",
-        "summary": "Cunning is built in many layers. Sanna and her friend in Los Angeles try to process the film about Elizabeth Holmes."
       },
       "translation": {
         "status": "done",
