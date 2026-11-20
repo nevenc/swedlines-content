@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-20T05:15:51+01:00",
+  "generated_at": "2026-11-20T05:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8b73eaa31823",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/konsensus-dodar-klimatet-har-ar-vagen-framat",
+      "guid": "909280f0-2dc2-402d-b4ef-517688207218",
+      "published_at": "2026-11-20T05:30:00+01:00",
+      "fetched_at": "2026-11-20T05:31:05+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/3172aeb0-9bc4-4813-b89e-4957b754a313.jpeg?width=600",
+      "sv": {
+        "title": "”Konsensus dödar klimatet – här är vägen framåt.”",
+        "summary": "Den som vill minst bestämmer nu mest, skriver Mattias Goldmann, vd för klimatorganisationen 2030-sekretariatet, från FN:s klimattoppmöte i Turkiet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Consensus kills the climate – here is the way forward\"",
+        "summary": "Those who want the least now decide the most, writes Mattias Goldmann, CEO of the climate organisation 2030-sekretariatet, from the UN climate summit in Turkey."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T05:31:09+01:00"
+      }
+    },
+    {
+      "id": "3578fd463639",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346719",
+      "guid": "rss:sr.se/article/9346719",
+      "published_at": "2026-11-20T05:17:00+01:00",
+      "fetched_at": "2026-11-20T05:31:00+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "AI-jätten Anthropic rusade efter historisk börsintroduktion",
+        "summary": "Noteringen på Nasdaq har kallats för tidernas största och Anthropic, som ligger bakom AI-verktyget Claude, räknas nu som ett av världens högst värderade bolag. När handeln kom igång hade aktien rusat en bra bit över 30 procent jämfört med teckningskursen på 83 dollar.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "AI giant Anthropic surges after historic stock market debut",
+        "summary": "The listing on Nasdaq has been called the biggest ever, and Anthropic, which is behind the AI tool Claude, is now counted among the world's most highly valued companies. When trading began, the share had surged well over 30 percent compared with the subscription price of 83 dollars."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T05:31:09+01:00"
+      }
+    },
     {
       "id": "4424480e453b",
       "schema_version": 1,
@@ -106,6 +159,142 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T05:15:50+01:00"
+      }
+    },
+    {
+      "id": "ad41eaab24ed",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/asikt-och-debatt/ledare/c-och-v-ar-varandras-motpoler.b78069a5-e1a3-5c96-addc-be91b3a12198",
+      "guid": "b78069a5-e1a3-5c96-addc-be91b3a12198",
+      "published_at": "2026-11-20T05:00:00+01:00",
+      "fetched_at": "2026-11-20T05:31:04+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Ledare",
+        "Tagg: Vänsterpartiet",
+        "Tagg: Centerpartiet",
+        "Tagg: Karl Marx"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/d5080da9-1ead-3431-937f-b1e91427df66",
+      "sv": {
+        "title": "Håkan Boström: C och V är varandras motpoler",
+        "summary": "Den klassiska konflikten mellan arbete och kapital, stat och marknad, kollektiv och individ genomsyrar i stort sett alla tunga politikområden.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Håkan Boström: C and V are each other's opposites",
+        "summary": "The classic conflict between labour and capital, state and market, collective and individual permeates almost all major policy areas."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T05:31:09+01:00"
+      }
+    },
+    {
+      "id": "be2a2fd968cc",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/asikt-och-debatt/fria-ord/vad-betalar-vi-for-den-tillsnyggade-fuskstatistiken-vasttrafik.80d2278d-8d8f-5438-8138-bc6afead586a",
+      "guid": "80d2278d-8d8f-5438-8138-bc6afead586a",
+      "published_at": "2026-11-20T05:00:00+01:00",
+      "fetched_at": "2026-11-20T05:31:04+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Fria ord",
+        "Tagg: Kollektivtrafik",
+        "Tagg: Västtrafik",
+        "Tagg: Resor"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/d04cbd48-0f00-312e-a3a5-ab73f6dc4531",
+      "sv": {
+        "title": "Vad betalar vi för den tillsnyggade fuskstatistiken, Västtrafik?",
+        "summary": "Västtrafik funkar långtifrån perfekt och man kan tycka att Västtrafik kunde ligga lågt med kontroller de dagar då vagnarna är inställda, skriver insändarskribenten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "What are we paying for the polished fraud statistics, Västtrafik?",
+        "summary": "Västtrafik is far from working perfectly, and one may think Västtrafik could keep a low profile on inspections on days when the carriages are cancelled, writes the letter writer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T05:31:09+01:00"
+      }
+    },
+    {
+      "id": "d556d8c0d920",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/asikt-och-debatt/debatt/att-arbeta-ska-lona-sig-aven-for-kvinnor.3384676b-81a9-5946-babc-95dcef308b8b",
+      "guid": "3384676b-81a9-5946-babc-95dcef308b8b",
+      "published_at": "2026-11-20T05:00:00+01:00",
+      "fetched_at": "2026-11-20T05:31:04+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Debatt",
+        "Tagg: Lön",
+        "Tagg: Jämställdhet",
+        "Tagg: Arbete",
+        "Tagg: Välfärd"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/ecc6b1c2-e666-3d95-8805-4e0af3865ca3",
+      "sv": {
+        "title": "Att arbeta ska löna sig – även för kvinnor",
+        "summary": "Lönegapet mellan kvinnor och män är särskilt stort i ålder 45–54 år, efter småbarnsåren, och följer sedan med in i pensionen, skriver tre debattörer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Work should pay – for women too",
+        "summary": "The gender pay gap between women and men is especially large at ages 45–54, after the early childhood years, and then carries on into retirement, write three debaters."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T05:31:09+01:00"
+      }
+    },
+    {
+      "id": "68edb3761d07",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/asikt-och-debatt/debatt/varfor-talar-ni-inte-med-oss-fiskare-innan-ni-beslutar-om-fiskebacks-hamn.a2427e39-d223-5857-8ae5-b12431f69e48",
+      "guid": "a2427e39-d223-5857-8ae5-b12431f69e48",
+      "published_at": "2026-11-20T04:55:00+01:00",
+      "fetched_at": "2026-11-20T05:31:04+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Debatt",
+        "Tagg: Fiske",
+        "Tagg: Danmark",
+        "Tagg: Fiskeindustri",
+        "Tagg: Göteborg",
+        "Tagg: Socialdemokraterna",
+        "Tagg: Miljöpartiet"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/933ea910-b4b0-3fe9-9c06-37c4c807f73b",
+      "sv": {
+        "title": "Varför talar ni inte med oss fiskare innan ni beslutar om Fiskebäcks hamn?",
+        "summary": "Vi vet att MP inte vill se fiske eller och fiskeindustri. Det hade varit mer klädsamt att skriva det i stället, skriver Johannes Claeson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Why don't you talk to us fishermen before you decide on Fiskebäck harbour?",
+        "summary": "We know that the Green Party does not want to see fishing or the fishing industry. It would have been more fitting to write that instead, writes Johannes Claeson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T05:31:09+01:00"
       }
     },
     {
@@ -5278,161 +5467,6 @@
       "en": {
         "title": "Nordic bourses in red – Subsea 7 rises",
         "summary": "The Nordic stock markets closed Thursday in the red, after irregular trading that gradually turned sourer after US markets opened. The regional composite index Vinx 30 fell 0.5 percent to 1,502."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:01:29+01:00"
-      }
-    },
-    {
-      "id": "f7e96737f1ff",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80097",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80097&utm_medium=rss",
-      "published_at": "2026-11-19T17:54:11+01:00",
-      "fetched_at": "2026-11-19T18:01:17+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Anthropic rusar över 30 procent i börsdebuten"
-      },
-      "en": {
-        "title": "Anthropic soars over 30 percent in stock market debut"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:01:29+01:00"
-      }
-    },
-    {
-      "id": "67fea9364500",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/R1R8gr/anthropic-rusar-i-borsdebuten-storsta-nagonsin",
-      "guid": "https://www.svd.se/a/R1R8gr/anthropic-rusar-i-borsdebuten-storsta-nagonsin?utm_medium=rss",
-      "published_at": "2026-11-19T17:53:07+01:00",
-      "fetched_at": "2026-11-19T18:01:17+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/7bb38f27-4fa4-315d-bce9-6e5d3decbc10?format=auto&s=5322928911ac3460217a8cee5860ecde91548822&w=1000",
-      "sv": {
-        "title": "Anthropic rusar i börsdebuten – största någonsin",
-        "summary": "Anthropic-aktien stiger kraftigt i börspremiären på Nasdaq i New York.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anthropic soars in stock market debut – biggest ever",
-        "summary": "The Anthropic share rises sharply in its market debut on Nasdaq in New York."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:01:29+01:00"
-      }
-    },
-    {
-      "id": "8514101c5f4d",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346435",
-      "guid": "rss:sr.se/article/9346435",
-      "published_at": "2026-11-19T17:53:00+01:00",
-      "fetched_at": "2026-11-19T18:01:16+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "AI-jätten Anthropic rusar över 30 procent",
-        "summary": "Anthropic-aktien stiger kraftigt i börspremiären på Nasdaq. Anthropicaktien öppnade på 111:50 dollar när handeln inleddes. Det är mer än 30 procent över teckningskursen i bolagets börsintroduktion. Handeln med Anthropics aktier inleddes på torsdagen under kortnamnet ANT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "AI giant Anthropic soars over 30 percent",
-        "summary": "The Anthropic share rises sharply in its market debut on Nasdaq. The Anthropic share opened at 111:50 dollars when trading began. That is more than 30 percent above the subscription price in the company's initial public offering. Trading in Anthropic's shares began on Thursday under the ticker ANT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:01:29+01:00"
-      }
-    },
-    {
-      "id": "9ec3254698b2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=76b5aede-2907-4db8-bcfd-fd1415129adf",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=76b5aede-2907-4db8-bcfd-fd1415129adf",
-      "published_at": "2026-11-19T17:52:53+01:00",
-      "fetched_at": "2026-11-19T18:01:20+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "En död i radhusbrand i Gnosjö",
-        "summary": "Svart rök från bostaden",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "One dead in townhouse fire in Gnosjö",
-        "summary": "Black smoke from the home"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:01:29+01:00"
-      }
-    },
-    {
-      "id": "213fa52d55f7",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=0f44474d-0783-402a-b7e6-b096593c0ea9",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=0f44474d-0783-402a-b7e6-b096593c0ea9",
-      "published_at": "2026-11-19T17:51:24+01:00",
-      "fetched_at": "2026-11-19T18:01:20+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Brandbil i diket under utryckning: \"Otroligt halt\"",
-        "summary": "”Vi har otroligt halt väglag”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fire engine in ditch during callout: \"Incredibly slippery\"",
-        "summary": "\"We have incredibly slippery road conditions\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:01:29+01:00"
-      }
-    },
-    {
-      "id": "cf069b8bafa1",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/xJPXBB/skanska-skyddsvallen-testad-ska-sta-emot-vagor",
-      "guid": "https://www.svd.se/a/xJPXBB/skanska-skyddsvallen-testad-ska-sta-emot-vagor?utm_medium=rss",
-      "published_at": "2026-11-19T17:47:49+01:00",
-      "fetched_at": "2026-11-19T18:01:17+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/59a597b2-216c-37d6-b2aa-d6c512c1b013?format=auto&s=f2bee032932449446ed02667dafbf0e50636c28e&w=1000",
-      "sv": {
-        "title": "Skånska skyddsvallen testad – ska stå emot vågor",
-        "summary": "En lång vall ska skydda Skanör och Falsterbo från översvämningar. Nu har kommunen testat hur bra den…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Skåne flood barrier tested – to withstand waves",
-        "summary": "A long embankment is to protect Skanör and Falsterbo from flooding. Now the municipality has tested how well it…"
       },
       "translation": {
         "status": "done",
