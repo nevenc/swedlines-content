@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T08:15:49+01:00",
+  "generated_at": "2026-11-20T08:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d43584c9897c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/sjuk-myhlback-missar-premiaren",
+      "guid": "083e8bbf-82a8-4cea-8471-8cdfbf0b5e94",
+      "published_at": "2026-11-20T08:24:18+01:00",
+      "fetched_at": "2026-11-20T08:31:04+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/9167f788-1ca4-4677-9137-fc0b244be0d8.jpg?width=600",
+      "sv": {
+        "title": "Sjuk Myhlback missar premiären",
+        "summary": "Alvar Myhlback missar fredagens skidpremiär i Bruksvallarna. 20-åringen är sjuk, skriver han på sociala medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sick Myhlback misses opener",
+        "summary": "Alvar Myhlback misses Friday's ski season opener in Bruksvallarna. The 20-year-old is sick, he writes on social media."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:31:10+01:00"
+      }
+    },
     {
       "id": "21fd19b6f002",
       "schema_version": 1,
@@ -5609,33 +5636,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:59:36+01:00"
-      }
-    },
-    {
-      "id": "be1ea4d765d8",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/staffan-olssons-regelutspel-avskaffa-sa-fort-som-mojligt",
-      "guid": "76d27019-f28e-40df-9ad2-0be47724c737",
-      "published_at": "2026-11-14T13:18:06+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/c2678e6c-ebd3-4f47-8025-e7f076641b5f.jpeg?width=600",
-      "sv": {
-        "title": "Staffan Olssons regelutspel: ”Avskaffa så fort som möjligt”",
-        "summary": "Handbollsikonen Staffan Olsson sätter ner foten i diskussionen om sju mot sex-regeln när veckans panel tycker till. Tillsammans med Sydsvenskans handbollsreporter Niklas Wihlborg och tv-experten Robin Nilsson tar han även tempen på silly season och inledningen av damernas liga.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Staffan Olsson's rule proposal: “Abolish it as soon as possible”",
-        "summary": "Handball icon Staffan Olsson weighs in on the debate over the seven-on-six rule as this week's panel gives its views. Together with Sydsvenskan's handball reporter Niklas Wihlborg and TV expert Robin Nilsson, he also takes the temperature of the silly season and the start of the women's league."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:51+01:00"
       }
     }
   ]

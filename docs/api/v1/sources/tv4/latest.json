@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-20T08:15:49+01:00",
+  "generated_at": "2026-11-20T08:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3a60df261226",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/33CbyMohUCSebxbxr2P2Wo/influensasaesongen-redan-i-gang-sa-ska-du-taenka",
+      "guid": "33CbyMohUCSebxbxr2P2Wo",
+      "published_at": "2026-11-20T08:22:19+01:00",
+      "fetched_at": "2026-11-20T08:31:03+01:00",
+      "category": "sweden",
+      "feed_categories": [
+        "Nyhetsmorgon"
+      ],
+      "sv": {
+        "title": "Influensasäsongen redan i gång – så ska du tänka",
+        "summary": "Influensasäsongen har startat tidigare än vanligt i år samtidigt som covid-19 ökar runt om i landet. – Den här tidiga starten innebär att vi kommer se att fler och fler insjuknar de kommande veckorna. Sen får vi se om den liknar en typisk influensasäsong eller om något annat händer.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Influenza season already under way – here's what to think about",
+        "summary": "The influenza season has started earlier than usual this year, at the same time as covid-19 is rising across the country. \"This early start means we will see more and more people falling ill in the coming weeks. Then we'll see whether it resembles a typical influenza season or whether something else happens.\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:31:10+01:00"
+      }
+    },
     {
       "id": "650eb52ff4b9",
       "schema_version": 1,
@@ -5747,27 +5776,6 @@
         "model": "claude-fable-5-1",
         "prompt_version": "2026-11-14",
         "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "70e28a5626b3",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1XuNYRTNMOgmBiQMmuwX67/muf-hade-propagandataevling-betalade-32-000-kronor-i-priser",
-      "guid": "1XuNYRTNMOgmBiQMmuwX67",
-      "published_at": "2026-11-11T19:17:05+01:00",
-      "fetched_at": "2026-11-15T16:01:12+01:00",
-      "category": "general",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Muf hade propagandatävling – betalade 32 000 kronor i priser",
-        "summary": "Korruptionsexperten: ”Kan urholka förtroendet”",
-        "summary_origin": "feed"
-      },
-      "translation": {
-        "status": "pending"
       }
     }
   ]

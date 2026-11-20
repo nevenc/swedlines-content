@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T08:15:49+01:00",
+  "generated_at": "2026-11-20T08:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7bf97429d736",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/ud-bekraftar-svensk-kvinna-dod-i-filippinerna",
+      "guid": "https://www.expressen.se/nyheter/varlden/ud-bekraftar-svensk-kvinna-dod-i-filippinerna/",
+      "published_at": "2026-11-20T08:20:20+01:00",
+      "fetched_at": "2026-11-20T08:31:02+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ud bekräftar: Svensk kvinna död i Filippinerna",
+        "summary": "En svensk kvinna i 70-årsåldern har dött i Filippinerna. Enligt filippinska medier ska kvinnan ha skjutits ihjäl. Två personer ska ha gripits misstänkta för mordet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Foreign Ministry confirms: Swedish woman dead in the Philippines",
+        "summary": "A Swedish woman in her 70s has died in the Philippines. According to Philippine media, the woman was reportedly shot dead. Two people are reportedly detained on suspicion of the murder."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:31:10+01:00"
+      }
+    },
     {
       "id": "650eb52ff4b9",
       "schema_version": 1,
@@ -5370,32 +5396,6 @@
       "en": {
         "title": "Military expert: Attack on the Crimean Bridge may be of great significance",
         "summary": "Ukraine's attack destroyed large parts of the Crimean Bridge and is a loss of prestige for Vladimir Putin. The annexed peninsula has now become even more isolated – which could open the way for new Ukrainian advances. “The Russian supply line is very weakened now,” says military expert Johan Huovinen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T12:31:14+01:00"
-      }
-    },
-    {
-      "id": "29ca48dd5e63",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/kinesisk-trump-fest-pompoms-och-stat",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/kinesisk-trump-fest-pompoms-och-stat/",
-      "published_at": "2026-11-18T12:20:54+01:00",
-      "fetched_at": "2026-11-18T12:30:56+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Kinesisk Trump-fest – pompoms och ståt",
-        "summary": "Håret gungade med • Kramen med Xi",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Chinese Trump fest – pompoms and pageantry",
-        "summary": "Hair swaying with • The hug with Xi"
       },
       "translation": {
         "status": "done",

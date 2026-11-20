@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T08:15:49+01:00",
+  "generated_at": "2026-11-20T08:31:11+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d43584c9897c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/sjuk-myhlback-missar-premiaren",
+      "guid": "083e8bbf-82a8-4cea-8471-8cdfbf0b5e94",
+      "published_at": "2026-11-20T08:24:18+01:00",
+      "fetched_at": "2026-11-20T08:31:04+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/9167f788-1ca4-4677-9137-fc0b244be0d8.jpg?width=600",
+      "sv": {
+        "title": "Sjuk Myhlback missar premiären",
+        "summary": "Alvar Myhlback missar fredagens skidpremiär i Bruksvallarna. 20-åringen är sjuk, skriver han på sociala medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sick Myhlback misses opener",
+        "summary": "Alvar Myhlback misses Friday's ski season opener in Bruksvallarna. The 20-year-old is sick, he writes on social media."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T08:31:10+01:00"
+      }
+    },
     {
       "id": "7421838a09a2",
       "schema_version": 1,
@@ -5152,29 +5179,6 @@
       },
       "en": {
         "title": "New owners of villa"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
-      }
-    },
-    {
-      "id": "8dfbfe5f0ad6",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-106-kvm-saldes-for-5-3-miljoner",
-      "guid": "fc5f57ed-73d5-4435-bff2-64584b582f58",
-      "published_at": "2026-11-18T07:02:26+01:00",
-      "fetched_at": "2026-11-18T07:15:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Hus på 106 kvm såldes för 5,3 miljoner"
-      },
-      "en": {
-        "title": "House of 106 sq m sold for 5.3 million"
       },
       "translation": {
         "status": "done",
