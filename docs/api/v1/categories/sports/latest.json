@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T10:31:11+01:00",
+  "generated_at": "2026-11-20T10:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f0d8b382454c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/hanade-paven-och-ira-nu-straffas-england",
+      "guid": "e6881230-302d-4cf9-b946-69df41dcbb8b",
+      "published_at": "2026-11-20T10:37:09+01:00",
+      "fetched_at": "2026-11-20T10:45:49+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/acd96a08-2ee6-475e-91c1-8a4c5b6f86ea.jpg?width=600",
+      "sv": {
+        "title": "Hånade påven och IRA – nu straffas England",
+        "summary": "England straffas efter en diskriminerande supportersång under Nations League-matchen mot Spanien. Uefa har utfärdat ett villkorligt biljettförbud och bötfäller det engelska fotbollsförbundet med 170 000 kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mocked the Pope and the IRA – now England is punished",
+        "summary": "England is punished for a discriminatory fan chant during the Nations League match against Spain. Uefa has issued a conditional ticket ban and fines the English Football Association SEK 170,000."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:45:54+01:00"
+      }
+    },
     {
       "id": "04b2abcfb336",
       "schema_version": 1,
@@ -5589,42 +5616,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:58:49+01:00"
-      }
-    },
-    {
-      "id": "3046f4bb8e1f",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/jurgen-klopp-ska-lyfta-tyskland-och-aterta-flaggan.9dee2bf1-b9d1-5192-9d79-0e74be41a76d",
-      "guid": "9dee2bf1-b9d1-5192-9d79-0e74be41a76d",
-      "published_at": "2026-11-14T14:55:48+01:00",
-      "fetched_at": "2026-11-14T15:27:43+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Fotboll",
-        "Tagg: Jürgen Klopp",
-        "Tagg: Thomas Tuchel",
-        "Tagg: Liverpool",
-        "Tagg: Tyskland",
-        "Tagg: Fotboll",
-        "Tagg: Uefa Nations League"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/0a19a23f-c74b-3635-b1ee-c1e26398a177",
-      "sv": {
-        "title": "Klopps ultimatum: ”Om ni ger er på min familj så lämnar jag”",
-        "summary": "Den förre Liverpooltränaren sätter en tydlig gräns i sitt nya jobb.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Klopp's ultimatum: “If you give in on my family, I'm leaving”",
-        "summary": "The former Liverpool manager sets a clear limit in his new job."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:12+01:00"
       }
     }
   ]

@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-20T10:31:11+01:00",
+  "generated_at": "2026-11-20T10:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f0d8b382454c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/hanade-paven-och-ira-nu-straffas-england",
+      "guid": "e6881230-302d-4cf9-b946-69df41dcbb8b",
+      "published_at": "2026-11-20T10:37:09+01:00",
+      "fetched_at": "2026-11-20T10:45:49+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/acd96a08-2ee6-475e-91c1-8a4c5b6f86ea.jpg?width=600",
+      "sv": {
+        "title": "Hånade påven och IRA – nu straffas England",
+        "summary": "England straffas efter en diskriminerande supportersång under Nations League-matchen mot Spanien. Uefa har utfärdat ett villkorligt biljettförbud och bötfäller det engelska fotbollsförbundet med 170 000 kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mocked the Pope and the IRA – now England is punished",
+        "summary": "England is punished for a discriminatory fan chant during the Nations League match against Spain. Uefa has issued a conditional ticket ban and fines the English Football Association SEK 170,000."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:45:54+01:00"
+      }
+    },
+    {
+      "id": "7238af3e3403",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/handlade-pa-annans-kort-gripen-pa-grund-av-sina-byxor",
+      "guid": "7290372d-ded3-4359-b4f6-591f22bc9401",
+      "published_at": "2026-11-20T10:36:00+01:00",
+      "fetched_at": "2026-11-20T10:45:49+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/58bccca9-9569-4809-b0c9-938b678fe17d.jpeg?width=600",
+      "sv": {
+        "title": "Handlade på annans kort – gripen på grund av sina byxor",
+        "summary": "På en halvtimme använde kvinnan det stulna kortet i sju Malmöbutiker. Fyra köp gick igenom. Polisens kameror filmade henne hela vägen. Och hon åkte fast på grund av sina byxor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Used someone else's card – arrested because of her trousers",
+        "summary": "In half an hour the woman used the stolen card in seven Malmö shops. Four purchases went through. Police cameras filmed her the whole way. And she was arrested because of her trousers."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:45:54+01:00"
+      }
+    },
     {
       "id": "737e99bb0f0d",
       "schema_version": 1,
@@ -5136,56 +5190,6 @@
       "en": {
         "title": "Pedestrian hit in Klågerup",
         "summary": "A driver struck a female pedestrian on Lundavägen in Klågerup around 8 a.m. on Wednesday morning. According to the alarm, the collision happened at a pedestrian crossing. Police, the rescue service and two ambulances are on site. The extent of injuries is unclear."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T09:15:50+01:00"
-      }
-    },
-    {
-      "id": "694a78d51202",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/44-aring-ny-agare-tar-over-villa",
-      "guid": "860b04d9-0387-471a-b77c-8df2120baeda",
-      "published_at": "2026-11-18T09:13:47+01:00",
-      "fetched_at": "2026-11-18T09:15:44+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "44-åring ny ägare tar över villa"
-      },
-      "en": {
-        "title": "44-year-old new owner takes over villa"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T09:15:50+01:00"
-      }
-    },
-    {
-      "id": "f8dff3a52cff",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/kristersson-lockar-c-med-hjartefraga",
-      "guid": "6a963299-b707-485b-a4b3-bdcb2e9a635e",
-      "published_at": "2026-11-18T09:07:54+01:00",
-      "fetched_at": "2026-11-18T09:15:44+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/b5a4db19-e936-4240-be8e-bcbf9c3c9655.jpg?width=600",
-      "sv": {
-        "title": "Kristersson lockar C med hjärtefråga",
-        "summary": "M-ledaren Ulf Kristersson försöker locka Centerpartiet med nya regler för strandskydd, enligt uppgifter till TT. Både han och S-ledaren Magdalena Andersson har fått en vecka till på sig för att ro en ny regering i hamn.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kristersson tries to lure C with core issue",
-        "summary": "Moderates leader Ulf Kristersson (M) is trying to lure the Centre Party with new rules on shoreline protection, according to information to TT. Both he and Social Democrats leader Magdalena Andersson (S) have been given one more week to steer a new government into harbour."
       },
       "translation": {
         "status": "done",

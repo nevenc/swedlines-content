@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T10:31:11+01:00",
+  "generated_at": "2026-11-20T10:45:55+01:00",
   "count": 200,
   "items": [
     {
@@ -529,6 +529,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T06:01:34+01:00"
+      }
+    },
+    {
+      "id": "3cf9c0d697b6",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/QroK1q/ukraina-broar-i-kiev-skadade-i-ryska-attacker",
+      "guid": "https://www.svd.se/a/QroK1q/ukraina-broar-i-kiev-skadade-i-ryska-attacker?utm_medium=rss",
+      "published_at": "2026-11-20T05:57:11+01:00",
+      "fetched_at": "2026-11-20T10:45:46+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/a3ef06df-2fe7-315f-9d35-4e7c7d4ddb5f?format=auto&s=b1398dacaf563e4c47f0531b4a239320b63a5da2&w=1000",
+      "sv": {
+        "title": "Flera döda – grannländer larmar om intrång",
+        "summary": "Flera döda i Ukraina – grannländer larmar om intrång",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Several dead – neighbouring countries raise alarm over incursions",
+        "summary": "Several dead in Ukraine – neighbouring countries raise alarm over incursions"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:45:54+01:00"
       }
     },
     {
@@ -5213,33 +5240,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T12:16:04+01:00"
-      }
-    },
-    {
-      "id": "452ff2dcc6c6",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/z0G8xv/attacken-pa-krimbron-otroligt-genant-for-putin",
-      "guid": "https://www.svd.se/a/z0G8xv/attacken-pa-krimbron-otroligt-genant-for-putin?utm_medium=rss",
-      "published_at": "2026-11-17T11:51:13+01:00",
-      "fetched_at": "2026-11-17T12:01:14+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/88b4e80c-dce7-31f1-a67a-89bf52f582ea?format=auto&s=ca2e8e21e0d238240e2593aac7658cf6a198944b&w=1000",
-      "sv": {
-        "title": "Attacken på Krimbron ”otroligt genant” för Putin",
-        "summary": "Att Ukraina har anfallit Krimbron, och vad det verkar lyckats slå ut den, är ”otroligt genant” för…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Attack on Crimean Bridge \"incredibly embarrassing\" for Putin",
-        "summary": "That Ukraine has attacked the Crimean Bridge, and what it appears to have knocked out, is \"incredibly embarrassing\" for…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:01:24+01:00"
       }
     }
   ]

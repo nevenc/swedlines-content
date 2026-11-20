@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-20T10:31:11+01:00",
+  "generated_at": "2026-11-20T10:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c5d91bc34d98",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/hanna-48-nara-olyckan-pa-e6--blixthalka-pa-flera-vagar",
+      "guid": "https://www.expressen.se/nyheter/sverige/hanna-48-nara-olyckan-pa-e6--blixthalka-pa-flera-vagar/",
+      "published_at": "2026-11-20T10:34:18+01:00",
+      "fetched_at": "2026-11-20T10:45:47+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "Hanna, 48, nära olyckan på E6 – blixthalka på flera vägar",
+        "summary": "Det är snorhalt på flera håll i morgontrafiken. Hanna Sjöberg Svensson var mitt i trafikkaoset på E6. – Jag försökte bromsa, men det gick inte, säger hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Hanna, 48, nearly in accident on E6 – black ice on several roads",
+        "summary": "It is treacherously slippery in several places in the morning traffic. Hanna Sjöberg Svensson was in the middle of the traffic chaos on the E6. – I tried to brake, but it didn't work, she says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:45:54+01:00"
+      }
+    },
+    {
+      "id": "2c8b31d2207b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/man-atalas-for-dodskorning-mot-lotta-57",
+      "guid": "https://www.expressen.se/nyheter/sverige/man-atalas-for-dodskorning-mot-lotta-57/",
+      "published_at": "2026-11-20T10:32:08+01:00",
+      "fetched_at": "2026-11-20T10:45:47+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Man åtalas för dödskörning mot Lotta, 57",
+        "summary": "En 20-årig man åtalas för att ha dödat Lotta Hellstrand, som blev 57 år, under vansinneskörningen på Östermalm i september. 20-åringen försökte dansa som Michael Jackson när han körde i minst 160 på 30-sträckan, enligt Expressens uppgifter.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Man charged over death-drive that killed Lotta, 57",
+        "summary": "A 20-year-old man is charged with killing Lotta Hellstrand, who was 57, during the reckless driving in Östermalm in September. The 20-year-old tried to dance like Michael Jackson while driving at least 160 on the 30 km/h stretch, according to Expressen's reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:45:54+01:00"
+      }
+    },
     {
       "id": "e7e616e6cbab",
       "schema_version": 1,
@@ -5139,58 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T05:45:51+01:00"
-      }
-    },
-    {
-      "id": "cc5a585399a3",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/estland-putin-har-misslyckats",
-      "guid": "https://www.expressen.se/nyheter/varlden/estland-putin-har-misslyckats/",
-      "published_at": "2026-11-17T04:22:34+01:00",
-      "fetched_at": "2026-11-17T04:30:56+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Estland: Putin har misslyckats",
-        "summary": "Ryssland ”trappar upp sin sabotagekampanj över hela Europa”, enligt Estlands utrikesminister Margus Tsahkna. ”Putin har misslyckats med att uppnå sina mål på slagfältet”, skriver Tsahkna. Svaret från ryskt håll är att man ”inte kan acceptera sådana anklagelser”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Estonia: Putin has failed",
-        "summary": "Russia is \"escalating its sabotage campaign across Europe,\" according to Estonian Foreign Minister Margus Tsahkna. \"Putin has failed to achieve his goals on the battlefield,\" Tsahkna writes. The response from Russia is that it \"cannot accept such accusations.\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T04:31:00+01:00"
-      }
-    },
-    {
-      "id": "419d524df4cd",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/mordade-karen-snider-med-125-hugg-domd-efter-60-ar",
-      "guid": "https://www.expressen.se/nyheter/varlden/mordade-karen-snider-med-125-hugg-domd-efter-60-ar/",
-      "published_at": "2026-11-17T02:21:30+01:00",
-      "fetched_at": "2026-11-17T02:30:57+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Mördade Karen Snider med 125 hugg – dömd efter 60 år",
-        "summary": "18-åriga Karen Snider mördades med 125 hugg. Vännen James Barbier var med och bar hennes kista vid begravningen. 60 år senare har han dömts för att ha mördat henne, skriver People.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Murdered Karen Snider With 125 Stab Wounds – Convicted After 60 Years",
-        "summary": "18-year-old Karen Snider was murdered with 125 stab wounds. Her friend James Barbier helped carry her coffin at the funeral. 60 years later, he has been convicted of murdering her, writes People."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T02:31:02+01:00"
       }
     }
   ]

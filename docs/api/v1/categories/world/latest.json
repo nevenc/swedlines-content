@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T10:31:11+01:00",
+  "generated_at": "2026-11-20T10:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8c328834b5fa",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/JnoMm4/ukrainas-han-mot-ryssland-efter-attack-mot-krimbron",
+      "guid": "https://www.aftonbladet.se/nyheter/a/JnoMm4/ukrainas-han-mot-ryssland-efter-attack-mot-krimbron?utm_medium=rss",
+      "published_at": "2026-11-20T10:34:11+01:00",
+      "fetched_at": "2026-11-20T10:45:46+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/b9f551af-ae72-3cdd-8c4d-f1e3495254ce?format=auto&s=bee9537079bd163cd96e11d55a4240df6ddab15f&w=1000",
+      "sv": {
+        "title": "Ukrainas hån mot Putin: Grattis Portugal",
+        "summary": "”Gratulerar” ✓ Röd linje för Ryssland",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ukraine's mockery of Putin: Congratulations Portugal",
+        "summary": "\"Congratulations\" ✓ Red line for Russia"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:45:54+01:00"
+      }
+    },
     {
       "id": "e7cb635da59f",
       "schema_version": 1,
@@ -603,6 +630,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T06:31:13+01:00"
+      }
+    },
+    {
+      "id": "3cf9c0d697b6",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/QroK1q/ukraina-broar-i-kiev-skadade-i-ryska-attacker",
+      "guid": "https://www.svd.se/a/QroK1q/ukraina-broar-i-kiev-skadade-i-ryska-attacker?utm_medium=rss",
+      "published_at": "2026-11-20T05:57:11+01:00",
+      "fetched_at": "2026-11-20T10:45:46+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/a3ef06df-2fe7-315f-9d35-4e7c7d4ddb5f?format=auto&s=b1398dacaf563e4c47f0531b4a239320b63a5da2&w=1000",
+      "sv": {
+        "title": "Flera döda – grannländer larmar om intrång",
+        "summary": "Flera döda i Ukraina – grannländer larmar om intrång",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Several dead – neighbouring countries raise alarm over incursions",
+        "summary": "Several dead in Ukraine – neighbouring countries raise alarm over incursions"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T10:45:54+01:00"
       }
     },
     {
@@ -5344,58 +5398,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T14:15:54+01:00"
-      }
-    },
-    {
-      "id": "aaac3a8b908a",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/har-mots-putin-och-trump-i-kina-deltar-i-toppmote",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/har-mots-putin-och-trump-i-kina-deltar-i-toppmote/",
-      "published_at": "2026-11-18T13:45:48+01:00",
-      "fetched_at": "2026-11-18T14:01:13+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trump tar Putin i hand",
-        "summary": "Här möts världsledarna • Se klippet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump shakes hands with Putin",
-        "summary": "Here the world leaders meet • Watch the clip"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T14:01:21+01:00"
-      }
-    },
-    {
-      "id": "bbf180468346",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/apattack-kvinna-allvarligt-skadad",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/apattack-kvinna-allvarligt-skadad/",
-      "published_at": "2026-11-18T13:38:36+01:00",
-      "fetched_at": "2026-11-18T13:45:45+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Apattack – kvinna allvarligt skadad",
-        "summary": "Mitt i bostadsområden • Blir allt vanligare",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ape attack – woman seriously injured",
-        "summary": "In the middle of residential areas • Becoming increasingly common"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T13:45:53+01:00"
       }
     }
   ]
