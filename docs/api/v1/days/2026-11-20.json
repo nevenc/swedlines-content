@@ -1,7 +1,113 @@
 {
-  "generated_at": "2026-11-20T21:01:22+01:00",
-  "count": 629,
+  "generated_at": "2026-11-20T21:15:54+01:00",
+  "count": 633,
   "items": [
+    {
+      "id": "16306da975c6",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/20-november-har-ar-dagens-nyheter",
+      "guid": "https://www.dn.se/varlden/20-november-har-ar-dagens-nyheter/",
+      "published_at": "2026-11-20T21:08:33+01:00",
+      "fetched_at": "2026-11-20T21:15:47+01:00",
+      "category": "other",
+      "sv": {
+        "title": "20 november: Här är dagens nyheter",
+        "summary": "Låst mellan de rödgröna, Danmark utvisar rysk försvarsattaché och turistort hotas av hettan – här är nyheterna du inte får missa från dagen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "20 November: Here Are Today's News",
+        "summary": "Stuck between the red-greens, Denmark expels a Russian defence attaché and a tourist resort is threatened by the heat – here are the news stories you can't miss from today."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:15:54+01:00"
+      }
+    },
+    {
+      "id": "b587100b7917",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/uppgifter-nvidias-redovisning-granskas-av-sec",
+      "guid": "66f0229c-0e0a-4d7f-b8ae-5c9508ce1950",
+      "published_at": "2026-11-20T21:03:10+01:00",
+      "fetched_at": "2026-11-20T21:15:49+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Uppgifter: Nvidias redovisning granskas av SEC",
+        "summary": "Den amerikanska finansinspektionen SEC granskar chipjätten Nvidias redovisning. Det rapporterar Reuters med hänvisning till källor med insyn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: SEC Reviewing Nvidia's Accounts",
+        "summary": "The US financial regulator SEC is reviewing the accounts of chip giant Nvidia. Reuters reports this, citing sources with insight into the matter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:15:54+01:00"
+      }
+    },
+    {
+      "id": "33aabddb15e0",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/JnowB8/ryssland-har-genomfort-over-100-attentat-mot-europa",
+      "guid": "https://www.aftonbladet.se/nyheter/a/JnowB8/ryssland-har-genomfort-over-100-attentat-mot-europa?utm_medium=rss",
+      "published_at": "2026-11-20T21:02:32+01:00",
+      "fetched_at": "2026-11-20T21:15:48+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/430255ca-f052-3d5f-9190-edc18e2caa57?format=auto&s=70f2ea36e2681f6b40dcfe7d08e687e1baa03255&w=1000",
+      "sv": {
+        "title": "Experten om Ryssland: ”Strategin är att skrämma”",
+        "summary": "”Strategin är att skrämma”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expert on Russia: \"The Strategy Is to Intimidate\"",
+        "summary": "\"The Strategy Is to Intimidate\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:15:54+01:00"
+      }
+    },
+    {
+      "id": "9a5c9bef3ac5",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/polarium-om-dyra-lyxkontoret-vi-har-ordnat-ny-hyresgast",
+      "guid": "409e6834-5185-4b90-ac43-d459d18ea4b9",
+      "published_at": "2026-11-20T20:58:27+01:00",
+      "fetched_at": "2026-11-20T21:15:49+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/5cafcbcd-f797-40e8-b524-9495009549cc.jpeg?width=600",
+      "sv": {
+        "title": "Polarium om dyra lyxkontoret: ”Vi har ordnat ny hyresgäst”",
+        "summary": "En av många berörda av Polariums konkurs är hyresvärden Atrium Ljungberg, som hyr ut ett stort prestigekontor i Stockholm till Harald Mix-bolaget med runt 1 miljon kronor i månadshyra. Men en ny hemlig hyresgäst är på plats, enligt vad Polariums vd säger till Di.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Polarium on Expensive Luxury Office: \"We Have Arranged a New Tenant\"",
+        "summary": "One of many affected by Polarium's bankruptcy is landlord Atrium Ljungberg, which rents out a large prestige office in Stockholm to the Harald Mix company for around SEK 1 million in monthly rent. But a new secret tenant is in place, according to what Polarium's CEO tells Di."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:15:54+01:00"
+      }
+    },
     {
       "id": "6cbf1b1dcc0e",
       "schema_version": 1,

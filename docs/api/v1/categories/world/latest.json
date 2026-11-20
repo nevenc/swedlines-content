@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T21:01:22+01:00",
+  "generated_at": "2026-11-20T21:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "33aabddb15e0",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/JnowB8/ryssland-har-genomfort-over-100-attentat-mot-europa",
+      "guid": "https://www.aftonbladet.se/nyheter/a/JnowB8/ryssland-har-genomfort-over-100-attentat-mot-europa?utm_medium=rss",
+      "published_at": "2026-11-20T21:02:32+01:00",
+      "fetched_at": "2026-11-20T21:15:48+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/430255ca-f052-3d5f-9190-edc18e2caa57?format=auto&s=70f2ea36e2681f6b40dcfe7d08e687e1baa03255&w=1000",
+      "sv": {
+        "title": "Experten om Ryssland: ”Strategin är att skrämma”",
+        "summary": "”Strategin är att skrämma”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expert on Russia: \"The Strategy Is to Intimidate\"",
+        "summary": "\"The Strategy Is to Intimidate\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:15:54+01:00"
+      }
+    },
     {
       "id": "1fe484ae63a3",
       "schema_version": 1,
@@ -5375,32 +5402,6 @@
       },
       "en": {
         "title": "The Russian losses are extreme however one measures them"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T10:16:03+01:00"
-      }
-    },
-    {
-      "id": "406b7ec0fba4",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/1vnXQq/cyberattack-mot-eu-kommissionen",
-      "guid": "https://www.aftonbladet.se/nyheter/a/1vnXQq/cyberattack-mot-eu-kommissionen?utm_medium=rss",
-      "published_at": "2026-11-19T09:34:03+01:00",
-      "fetched_at": "2026-11-19T10:15:45+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Cyberattack mot EU-kommissionen",
-        "summary": "Mot EU-kommissionen",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Cyberattack against the EU Commission",
-        "summary": "Against the EU Commission"
       },
       "translation": {
         "status": "done",

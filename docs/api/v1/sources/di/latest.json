@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-20T21:01:22+01:00",
+  "generated_at": "2026-11-20T21:15:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b587100b7917",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/uppgifter-nvidias-redovisning-granskas-av-sec",
+      "guid": "66f0229c-0e0a-4d7f-b8ae-5c9508ce1950",
+      "published_at": "2026-11-20T21:03:10+01:00",
+      "fetched_at": "2026-11-20T21:15:49+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Uppgifter: Nvidias redovisning granskas av SEC",
+        "summary": "Den amerikanska finansinspektionen SEC granskar chipjätten Nvidias redovisning. Det rapporterar Reuters med hänvisning till källor med insyn.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: SEC Reviewing Nvidia's Accounts",
+        "summary": "The US financial regulator SEC is reviewing the accounts of chip giant Nvidia. Reuters reports this, citing sources with insight into the matter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:15:54+01:00"
+      }
+    },
+    {
+      "id": "9a5c9bef3ac5",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/polarium-om-dyra-lyxkontoret-vi-har-ordnat-ny-hyresgast",
+      "guid": "409e6834-5185-4b90-ac43-d459d18ea4b9",
+      "published_at": "2026-11-20T20:58:27+01:00",
+      "fetched_at": "2026-11-20T21:15:49+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/5cafcbcd-f797-40e8-b524-9495009549cc.jpeg?width=600",
+      "sv": {
+        "title": "Polarium om dyra lyxkontoret: ”Vi har ordnat ny hyresgäst”",
+        "summary": "En av många berörda av Polariums konkurs är hyresvärden Atrium Ljungberg, som hyr ut ett stort prestigekontor i Stockholm till Harald Mix-bolaget med runt 1 miljon kronor i månadshyra. Men en ny hemlig hyresgäst är på plats, enligt vad Polariums vd säger till Di.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Polarium on Expensive Luxury Office: \"We Have Arranged a New Tenant\"",
+        "summary": "One of many affected by Polarium's bankruptcy is landlord Atrium Ljungberg, which rents out a large prestige office in Stockholm to the Harald Mix company for around SEK 1 million in monthly rent. But a new secret tenant is in place, according to what Polarium's CEO tells Di."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T21:15:54+01:00"
+      }
+    },
     {
       "id": "572b04280044",
       "schema_version": 1,
@@ -5256,59 +5309,6 @@
       "en": {
         "title": "Cheerful on Wall Street – Anthropic owner rises",
         "summary": "US stock markets open Thursday in good spirits as the huge listing of AI company Anthropic lifted sentiment. At company level, Amazon and Alphabet, major shareholders in the AI giant, climb in early trading."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
-      }
-    },
-    {
-      "id": "80a1f7e4f368",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/fartkamerabolaget-rasar-helarsprognosen-kan-spricka",
-      "guid": "424b4a02-3f44-4aa9-ac83-fa6fe1bc095e",
-      "published_at": "2026-11-19T15:34:12+01:00",
-      "fetched_at": "2026-11-19T15:45:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/d470e5b3-abde-4f42-b0a1-0f1957448b19.jpeg?width=600",
-      "sv": {
-        "title": "Fartkamerabolaget rasar – helårsprognosen kan spricka",
-        "summary": "Sensys Gatso rasar på börsen efter att trafiksäkerhetsbolaget redovisat fallande omsättning och resultat. Nu flaggar vd Lewis Miller för att leveransförseningar riskerar att spräcka bolagets intäktsprognos för helåret.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Speed camera company plunges – full-year forecast may crack",
-        "summary": "Sensys Gatso falls on the stock market after the road safety company reported falling turnover and earnings. CEO Lewis Miller now flags that delivery delays risk breaking the company's full-year revenue forecast."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:45:59+01:00"
-      }
-    },
-    {
-      "id": "5cf48fa28a69",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/rasar-till-rekordlagsta-efter-emissionsbesked",
-      "guid": "7d5dc210-b929-4a95-8d5a-9c3eb7c0edbe",
-      "published_at": "2026-11-19T15:27:53+01:00",
-      "fetched_at": "2026-11-19T15:45:50+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Rasar till rekordlägsta efter emissionsbesked",
-        "summary": "Green Landscaping rasar till rekordlägsta efter beskedet att markskötselbolaget vill ta in nästan en halv miljard kronor i en nyemission.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Plunges to record low after share issue announcement",
-        "summary": "Green Landscaping plunges to a record low after the groundskeeping company announced it wants to raise almost half a billion kronor in a new share issue."
       },
       "translation": {
         "status": "done",
