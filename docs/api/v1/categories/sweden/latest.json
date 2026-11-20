@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-20T06:01:39+01:00",
+  "generated_at": "2026-11-20T06:15:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7fe6ab688d0f",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/borgerliga-kravet-sank-farten-pa-e22-genom-lund-annu-mer",
+      "guid": "f16045c8-f994-477c-896a-4cda111c7960",
+      "published_at": "2026-11-20T06:06:00+01:00",
+      "fetched_at": "2026-11-20T06:15:42+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/d84f7860-1cfa-4144-9670-4f2af80d3aff.jpeg?width=600",
+      "sv": {
+        "title": "Borgerliga kravet: Sänk farten på E22 genom Lund ännu mer",
+        "summary": "Trafiken på E22 genom Lund bullrar och bidrar till stora utsläpp av växthusgaser. Nu vill två av Lunds borgerliga partier att Trafikverket sänker hastigheten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bourgeois demand: Cut speed on E22 through Lund even further",
+        "summary": "Traffic on the E22 through Lund is noisy and contributes to large emissions of greenhouse gases. Now two of Lund's bourgeois parties want the Transport Administration to lower the speed limit."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:15:47+01:00"
+      }
+    },
+    {
+      "id": "63eb764311eb",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/granskning/ug/larmen-inifran-socialtjansten-krig-mot-foraldrar",
+      "guid": "https://www.svt.se/nyheter/granskning/ug/larmen-inifran-socialtjansten-krig-mot-foraldrar",
+      "published_at": "2026-11-20T06:04:02+01:00",
+      "fetched_at": "2026-11-20T06:15:38+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Larmen inifrån socialtjänsten: ”Krig mot föräldrar”",
+        "summary": "Två barn har omhändertagits av Örebros socialtjänst på felaktiga grunder. Ett av barnen är Malins son ”Leo”. Nu utreds samtliga 244 tvångsplacerade barn i kommunen, visar dokument som SVT tagit del av.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alarm from inside social services: \"War on parents\"",
+        "summary": "Two children have been taken into care by Örebro's social services on incorrect grounds. One of the children is Malin's son \"Leo\". All 244 children compulsorily placed in the municipality are now being investigated, documents obtained by SVT show."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:15:47+01:00"
+      }
+    },
     {
       "id": "4bd25ec7a1fa",
       "schema_version": 1,
@@ -5343,58 +5396,6 @@
       "en": {
         "title": "Kitchen chaos in Karlskrona",
         "summary": "Huge mess in Karlskrona"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:15:46+01:00"
-      }
-    },
-    {
-      "id": "aa41758fe04c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=42bb812d-2495-4f0d-bdcd-123452ae35f3",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=42bb812d-2495-4f0d-bdcd-123452ae35f3",
-      "published_at": "2026-11-17T08:11:20+01:00",
-      "fetched_at": "2026-11-17T08:30:58+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Kökaos i Karlskrona",
-        "summary": "Jättestrul i Karlskrona",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kitchen chaos in Karlskrona",
-        "summary": "Huge mess in Karlskrona"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T08:31:03+01:00"
-      }
-    },
-    {
-      "id": "9d0e2e9da646",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/domstolen-skanska-far-bygga-norrkopings-nya-storfangelse",
-      "guid": "https://www.svt.se/nyheter/lokalt/ost/domstolen-skanska-far-bygga-norrkopings-nya-storfangelse",
-      "published_at": "2026-11-17T08:04:41+01:00",
-      "fetched_at": "2026-11-17T08:15:37+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Domstolen: Skanska får bygga Norrköpings nya storfängelse",
-        "summary": "Kriminalvårdens upphandling av den nya anstalten i Norrköping överklagades och hamnade för prövning i förvaltningsrätten. Nu har domstolen avgjort ärendet och godkänt upphandlingen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Court: Skanska may build Norrköping's new high-security prison",
-        "summary": "The Prison and Probation Service's procurement of the new facility in Norrköping was appealed and went to the administrative court for review. Now the court has decided the case and approved the procurement."
       },
       "translation": {
         "status": "done",

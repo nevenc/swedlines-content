@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-20T06:01:39+01:00",
+  "generated_at": "2026-11-20T06:15:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "607439fdf53e",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/staffanstorp/tidningshog-brann-vid-lekplats",
+      "guid": "e98a45fd-35a0-45d0-b9ed-d07bc0582ad1",
+      "published_at": "2026-11-20T06:15:02+01:00",
+      "fetched_at": "2026-11-20T06:15:42+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Tidningshög brann vid lekplats",
+        "summary": "En mindre brand bröt ut utomhus i Staffanstorp tidigt på fredagsmorgonen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Newspaper-filled fire at playground",
+        "summary": "A minor outdoor fire broke out in Staffanstorp early Friday morning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:15:47+01:00"
+      }
+    },
+    {
+      "id": "7fe6ab688d0f",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/borgerliga-kravet-sank-farten-pa-e22-genom-lund-annu-mer",
+      "guid": "f16045c8-f994-477c-896a-4cda111c7960",
+      "published_at": "2026-11-20T06:06:00+01:00",
+      "fetched_at": "2026-11-20T06:15:42+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/d84f7860-1cfa-4144-9670-4f2af80d3aff.jpeg?width=600",
+      "sv": {
+        "title": "Borgerliga kravet: Sänk farten på E22 genom Lund ännu mer",
+        "summary": "Trafiken på E22 genom Lund bullrar och bidrar till stora utsläpp av växthusgaser. Nu vill två av Lunds borgerliga partier att Trafikverket sänker hastigheten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bourgeois demand: Cut speed on E22 through Lund even further",
+        "summary": "Traffic on the E22 through Lund is noisy and contributes to large emissions of greenhouse gases. Now two of Lund's bourgeois parties want the Transport Administration to lower the speed limit."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:15:47+01:00"
+      }
+    },
     {
       "id": "bddc95e82989",
       "schema_version": 1,
@@ -5135,60 +5188,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T06:01:29+01:00"
-      }
-    },
-    {
-      "id": "0fa38d6f2178",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/nar-staten-vill-begransa-manniskors-frihet-racker-det-inte-att-hanvisa-till-osakra-berakningar",
-      "guid": "ba3641cf-e4b3-4e66-aac5-515a0a1beb20",
-      "published_at": "2026-11-18T05:30:00+01:00",
-      "fetched_at": "2026-11-18T05:31:03+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/c3473aee-50f1-4d53-9fdd-b764e0edaf76.jpeg?width=600",
-      "sv": {
-        "title": "”När människors frihet begränsas räcker det inte att hänvisa till osäkra beräkningar.”",
-        "summary": "Med personlig assistans gick vi från att vara föremål för omsorg till att få makt över våra egna liv, skriver Jonas Franksson och Jessica Smaaland, företrädare för den ideella föreningen och assistanskooperativet STIL.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "“When people's freedom is restricted, it is not enough to refer to uncertain calculations.”",
-        "summary": "With personal assistance, we went from being objects of care to gaining power over our own lives, write Jonas Franksson and Jessica Smaaland, representatives of the non-profit association and assistance cooperative STIL."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T05:31:12+01:00"
-      }
-    },
-    {
-      "id": "00290a7c666e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/orikets-larm-det-som-drabbar-oss-drabbar-alla",
-      "guid": "41d96519-247c-4b6b-ade0-24623728448a",
-      "published_at": "2026-11-18T04:50:29+01:00",
-      "fetched_at": "2026-11-18T05:01:10+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/7b150ea1-958a-4c42-82cc-c193fcd257e7.jpg?width=600",
-      "sv": {
-        "title": "Örikets larm: ”Det som drabbar oss drabbar alla”",
-        "summary": "För öriket Palau är det livsviktigt att överskridandet av 1,5 graders temperaturökning blir tillfälligt. Nu hoppas landets FN-ambassadör Ilana Seid att klimattoppmötet COP31 levererar. – Vi är väldigt utlämnade åt vädrets makter, säger hon till TT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Island nation's alarm: “What affects us affects everyone”",
-        "summary": "For the island nation of Palau, it is vital that the overshoot of the 1.5-degree temperature rise is temporary. Now the country's UN ambassador Ilana Seid hopes the COP31 climate summit delivers. – We are very exposed to the forces of the weather, she tells TT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T05:01:17+01:00"
       }
     }
   ]

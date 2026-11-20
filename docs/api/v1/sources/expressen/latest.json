@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T06:01:39+01:00",
+  "generated_at": "2026-11-20T06:15:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9d115be75183",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/vader/smhi-varnar-for-sno-i-stockholm-och-uppsala-15-centimeter-vantas",
+      "guid": "https://www.expressen.se/nyheter/vader/smhi-varnar-for-sno-i-stockholm-och-uppsala-15-centimeter-vantas/",
+      "published_at": "2026-11-20T06:00:16+01:00",
+      "fetched_at": "2026-11-20T06:15:40+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "SMHI varnar för snö i Stockholm och Uppsala – 15 centimeter väntas",
+        "summary": "Stockholm och Uppsala kommer få sin första snösmocka för säsongen. SMHI har utfärdat en gul snö- och vindvarning. – Det väntas bli fem till femton centimeter snö, säger meteorologen Toni Fuentes.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI warns of snow in Stockholm and Uppsala – 15 centimetres expected",
+        "summary": "Stockholm and Uppsala will get their first snowfall of the season. SMHI has issued a yellow snow and wind warning. \"Five to fifteen centimetres of snow is expected,\" says meteorologist Toni Fuentes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:15:47+01:00"
+      }
+    },
     {
       "id": "779e67bb272b",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T19:01:24+01:00"
-      }
-    },
-    {
-      "id": "af171dc77ff2",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=df818b0c-2af9-4af4-818d-2cd7c54fe302",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=df818b0c-2af9-4af4-818d-2cd7c54fe302",
-      "published_at": "2026-11-16T18:24:36+01:00",
-      "fetched_at": "2026-11-16T18:30:59+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Kolmården avlivar delfinerna",
-        "summary": "Kolmårdens besked",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kolmården to put down the dolphins",
-        "summary": "Kolmården's announcement"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:31:05+01:00"
       }
     }
   ]

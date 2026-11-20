@@ -1,7 +1,135 @@
 {
-  "generated_at": "2026-11-20T06:01:39+01:00",
+  "generated_at": "2026-11-20T06:15:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "607439fdf53e",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/staffanstorp/tidningshog-brann-vid-lekplats",
+      "guid": "e98a45fd-35a0-45d0-b9ed-d07bc0582ad1",
+      "published_at": "2026-11-20T06:15:02+01:00",
+      "fetched_at": "2026-11-20T06:15:42+01:00",
+      "category": "other",
+      "sv": {
+        "title": "Tidningshög brann vid lekplats",
+        "summary": "En mindre brand bröt ut utomhus i Staffanstorp tidigt på fredagsmorgonen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Newspaper-filled fire at playground",
+        "summary": "A minor outdoor fire broke out in Staffanstorp early Friday morning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:15:47+01:00"
+      }
+    },
+    {
+      "id": "efd97d3043ef",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80106",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80106&utm_medium=rss",
+      "published_at": "2026-11-20T06:08:09+01:00",
+      "fetched_at": "2026-11-20T06:15:39+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "Gul vädervarning för Stockholm"
+      },
+      "en": {
+        "title": "Yellow weather warning for Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:15:47+01:00"
+      }
+    },
+    {
+      "id": "7fe6ab688d0f",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/lund/borgerliga-kravet-sank-farten-pa-e22-genom-lund-annu-mer",
+      "guid": "f16045c8-f994-477c-896a-4cda111c7960",
+      "published_at": "2026-11-20T06:06:00+01:00",
+      "fetched_at": "2026-11-20T06:15:42+01:00",
+      "category": "sweden",
+      "image_url": "https://static.bonniernews.se/ba/d84f7860-1cfa-4144-9670-4f2af80d3aff.jpeg?width=600",
+      "sv": {
+        "title": "Borgerliga kravet: Sänk farten på E22 genom Lund ännu mer",
+        "summary": "Trafiken på E22 genom Lund bullrar och bidrar till stora utsläpp av växthusgaser. Nu vill två av Lunds borgerliga partier att Trafikverket sänker hastigheten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bourgeois demand: Cut speed on E22 through Lund even further",
+        "summary": "Traffic on the E22 through Lund is noisy and contributes to large emissions of greenhouse gases. Now two of Lund's bourgeois parties want the Transport Administration to lower the speed limit."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:15:47+01:00"
+      }
+    },
+    {
+      "id": "52c91dca94b7",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346658",
+      "guid": "rss:sr.se/article/9346658",
+      "published_at": "2026-11-20T06:05:00+01:00",
+      "fetched_at": "2026-11-20T06:15:38+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Klimatvetenskapen ifrågasätts av flera länder",
+        "summary": "Klimatvetenskapen ifrågasätts även i förhandlingsrummen på klimatmötet i Turkiet. Vissa länder anser att FN-rapporten som kom i höstas, om att 1,5-gradersmålet inte kan nås, inte håller måttet som underlag, och det pågår försök att fördröja nästa rapport från FN:s klimatpanel IPCC.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Climate science questioned by several countries",
+        "summary": "Climate science is being questioned even in the negotiating rooms at the climate summit in Turkey. Some countries consider the UN report released last autumn, which stated that the 1.5-degree target cannot be reached, not to be a sound basis, and efforts are under way to delay the next report from the UN climate panel IPCC."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:15:47+01:00"
+      }
+    },
+    {
+      "id": "63eb764311eb",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/granskning/ug/larmen-inifran-socialtjansten-krig-mot-foraldrar",
+      "guid": "https://www.svt.se/nyheter/granskning/ug/larmen-inifran-socialtjansten-krig-mot-foraldrar",
+      "published_at": "2026-11-20T06:04:02+01:00",
+      "fetched_at": "2026-11-20T06:15:38+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Larmen inifrån socialtjänsten: ”Krig mot föräldrar”",
+        "summary": "Två barn har omhändertagits av Örebros socialtjänst på felaktiga grunder. Ett av barnen är Malins son ”Leo”. Nu utreds samtliga 244 tvångsplacerade barn i kommunen, visar dokument som SVT tagit del av.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alarm from inside social services: \"War on parents\"",
+        "summary": "Two children have been taken into care by Örebro's social services on incorrect grounds. One of the children is Malin's son \"Leo\". All 244 children compulsorily placed in the municipality are now being investigated, documents obtained by SVT show."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:15:47+01:00"
+      }
+    },
     {
       "id": "bddc95e82989",
       "schema_version": 1,
@@ -27,6 +155,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T06:01:34+01:00"
+      }
+    },
+    {
+      "id": "9d115be75183",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/vader/smhi-varnar-for-sno-i-stockholm-och-uppsala-15-centimeter-vantas",
+      "guid": "https://www.expressen.se/nyheter/vader/smhi-varnar-for-sno-i-stockholm-och-uppsala-15-centimeter-vantas/",
+      "published_at": "2026-11-20T06:00:16+01:00",
+      "fetched_at": "2026-11-20T06:15:40+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "SMHI varnar för snö i Stockholm och Uppsala – 15 centimeter väntas",
+        "summary": "Stockholm och Uppsala kommer få sin första snösmocka för säsongen. SMHI har utfärdat en gul snö- och vindvarning. – Det väntas bli fem till femton centimeter snö, säger meteorologen Toni Fuentes.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI warns of snow in Stockholm and Uppsala – 15 centimetres expected",
+        "summary": "Stockholm and Uppsala will get their first snowfall of the season. SMHI has issued a yellow snow and wind warning. \"Five to fifteen centimetres of snow is expected,\" says meteorologist Toni Fuentes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:15:47+01:00"
       }
     },
     {
@@ -5325,168 +5479,6 @@
       "en": {
         "title": "Sean Banan: ”Significantly harder than the old GTA”",
         "summary": "Gamer or not, SvD's guests are having fun playing GTA VI. Here are the celebrities' reactions to it…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:15:56+01:00"
-      }
-    },
-    {
-      "id": "1f6a0df16048",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/trions-mote-kan-skapa-oro-i-europa-stormaktspolitik",
-      "guid": "a1b5e0ab-8c33-4af9-a280-a941ff4b474f",
-      "published_at": "2026-11-19T19:05:02+01:00",
-      "fetched_at": "2026-11-19T19:15:44+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/d5101a8a-0750-4993-acf4-309ac5a36856.jpg?width=600",
-      "sv": {
-        "title": "Trions möte kan skapa oro i Europa: ”Stormaktspolitik”",
-        "summary": "Ett Europa som kämpar för att hävda sin röst på den internationella arenan ser sannolikt med oro på trepartsmötet mellan USA, Kina och Ryssland. Det anser Europaexperten Göran von Sydow.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trilateral meeting may cause concern in Europe: ”Great power politics”",
-        "summary": "A Europe struggling to assert its voice on the international stage is likely watching with concern the trilateral meeting between the USA, China and Russia. That is the view of Europe expert Göran von Sydow."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:15:56+01:00"
-      }
-    },
-    {
-      "id": "2f76a9661fbf",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/efter-usa-valet-techprofilerna-tar-sin-hand-fran-trump",
-      "guid": "https://www.dn.se/varlden/efter-usa-valet-techprofilerna-tar-sin-hand-fran-trump/",
-      "published_at": "2026-11-19T19:04:39+01:00",
-      "fetched_at": "2026-11-19T19:15:42+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/744688be-eafc-410f-b4d3-a3dec70466b4.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Efter USA-valet: Techprofilerna tar sin hand från Trump",
-        "summary": "NEW YORK. Under två år har techeliten i USA öst pengar och beröm över Donald Trump. Men efter Republikanernas katastrofval är vd:arna plötsligt angelägna att markera distans till presidenten. Elon Musk ”vet inte vad Maga betyder” och Jeff Bezos framhåller sin vänskap med Barack Obama.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the US election: tech profiles withdraw support from Trump",
-        "summary": "NEW YORK. For two years, the tech elite in the US has poured money and praise on Donald Trump. But after the Republicans' disastrous election, the CEOs are suddenly keen to signal distance from the president. Elon Musk ”doesn't know what Maga means” and Jeff Bezos highlights his friendship with Barack Obama."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:15:56+01:00"
-      }
-    },
-    {
-      "id": "592c544e610c",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/722ZDhIzk1qU4atrwHtJkK/ai-jaettens-aktie-rusar-efter-boersdebuten",
-      "guid": "722ZDhIzk1qU4atrwHtJkK",
-      "published_at": "2026-11-19T19:04:32+01:00",
-      "fetched_at": "2026-11-19T19:15:43+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Ekonomi"
-      ],
-      "sv": {
-        "title": "AI-jättens aktie rusar efter börsdebuten",
-        "summary": "När Anthropic introducerades på Nasdaq-börsen i USA på torsdagen fastställdes priset till 83 dollar per aktie. Strax före klockan sex svensk tid handlades aktien till omkring 110 dollar – en uppgång på drygt 30 procent från teckningskursen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "AI giant's shares surge after stock market debut",
-        "summary": "When Anthropic was listed on the Nasdaq in the US on Thursday, the price was set at $83 per share. Shortly before six o'clock Swedish time, the shares traded at around $110 – a rise of just over 30 percent from the subscription price."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:15:56+01:00"
-      }
-    },
-    {
-      "id": "44f5aa4ca988",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ledare/lisa-magnusson-glom-arets-julklapp-det-har-ar-vad-du-verkligen-behover-kopa",
-      "guid": "https://www.dn.se/ledare/lisa-magnusson-glom-arets-julklapp-det-har-ar-vad-du-verkligen-behover-kopa/",
-      "published_at": "2026-11-19T19:03:49+01:00",
-      "fetched_at": "2026-11-19T19:15:42+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/57b5d7de-3208-49bf-b24e-8fc8bfebf636.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Lisa Magnusson: Glöm årets julklapp – det här är vad du verkligen behöver köpa!",
-        "summary": "Jag vet hur du ska rädda julen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lisa Magnusson: Forget this year's Christmas gift – this is what you really need to buy!",
-        "summary": "I know how to save Christmas."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:15:56+01:00"
-      }
-    },
-    {
-      "id": "b2abb0566e4e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/putin-efter-attacken-lovar-att--svara-betydligt-mer-kannbart",
-      "guid": "https://www.expressen.se/nyheter/varlden/putin-efter-attacken-lovar-att--svara-betydligt-mer-kannbart/",
-      "published_at": "2026-11-19T19:01:51+01:00",
-      "fetched_at": "2026-11-19T19:15:43+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Putin efter attacken – lovar att svara: ”Betydligt mer kännbart”",
-        "summary": "Krimbron mellan det ockuperade Krim och Ryssland sprängdes av Ukraina under tisdagen. Nu lovar Rysslands president Vladimir Putin att svara. – Jag tror att vårt svar kommer att bli betydligt mer kännbart än det Kiev har gjort, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the attack – Putin vows to respond: ”Significantly more painful”",
-        "summary": "The Crimean bridge between occupied Crimea and Russia was blown up by Ukraine on Tuesday. Now Russian President Vladimir Putin vows to respond. – I think our response will be significantly more painful than what Kiev has done, he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:15:56+01:00"
-      }
-    },
-    {
-      "id": "550ec2f95a22",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/kalle-far-inte-bygga-badrum-maste-tvatta-hos-barnen-i-kiruna",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/kalle-far-inte-bygga-badrum-maste-tvatta-hos-barnen-i-kiruna",
-      "published_at": "2026-11-19T19:00:08+01:00",
-      "fetched_at": "2026-11-19T19:15:41+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Kalle får inte bygga badrum – måste tvätta hos barnen i Kiruna",
-        "summary": "Kalle Modin vill bygga badrum och tvättstuga vid sitt hus på ett statligt arrende i Kalixforsbron utanför Kiruna. Men länsstyrelsen säger nej – och han får varken en motivering eller kan överklaga. – Jag måste åka in till mina barn och tvätta och duscha, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kalle not allowed to build bathroom – has to wash at his children's in Kiruna",
-        "summary": "Kalle Modin wants to build a bathroom and laundry room by his house on state-owned leasehold land in Kalixforsbron outside Kiruna. But the county administrative board says no – and he receives neither a reason nor can he appeal. – I have to go to my children to wash and shower, he says."
       },
       "translation": {
         "status": "done",

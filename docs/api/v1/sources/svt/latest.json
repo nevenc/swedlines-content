@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T06:01:39+01:00",
+  "generated_at": "2026-11-20T06:15:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "63eb764311eb",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/granskning/ug/larmen-inifran-socialtjansten-krig-mot-foraldrar",
+      "guid": "https://www.svt.se/nyheter/granskning/ug/larmen-inifran-socialtjansten-krig-mot-foraldrar",
+      "published_at": "2026-11-20T06:04:02+01:00",
+      "fetched_at": "2026-11-20T06:15:38+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Larmen inifrån socialtjänsten: ”Krig mot föräldrar”",
+        "summary": "Två barn har omhändertagits av Örebros socialtjänst på felaktiga grunder. Ett av barnen är Malins son ”Leo”. Nu utreds samtliga 244 tvångsplacerade barn i kommunen, visar dokument som SVT tagit del av.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alarm from inside social services: \"War on parents\"",
+        "summary": "Two children have been taken into care by Örebro's social services on incorrect grounds. One of the children is Malin's son \"Leo\". All 244 children compulsorily placed in the municipality are now being investigated, documents obtained by SVT show."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:15:47+01:00"
+      }
+    },
     {
       "id": "00038d31df26",
       "schema_version": 1,
@@ -5167,32 +5193,6 @@
       "en": {
         "title": "Ukraine's defence on Russia's new tactic: Silent and invisible drones",
         "summary": "Russia's air attacks on Kyiv are longer, more numerous and more intense than before. Now the jet-powered drones fly lower so as not to be seen on radar, and fall silent as they approach the target. – They keep changing tactics all the time, says “Gadget”, a machine gunner in a mobile air defence group, whom SVT visits."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:36+01:00"
-      }
-    },
-    {
-      "id": "6abd2eee40de",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/ekonomi/sa-kan-datacenter-paverka-din-elrakning",
-      "guid": "https://www.svt.se/nyheter/ekonomi/sa-kan-datacenter-paverka-din-elrakning",
-      "published_at": "2026-11-14T13:45:32+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Så kan datacenter påverka din elräkning",
-        "summary": "Ett datacenter i storlek med Googles planerade anläggning utanför Sundsvall kan höja hushållens elräkning med mellan 100 och 1 000 kronor om året – om ingen ny elproduktion tillkommer. Det visar en beräkning av elmarknadsanalytikern Christian Holtz.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "How data centres can affect your electricity bill",
-        "summary": "A data centre the size of Google's planned facility outside Sundsvall could raise household electricity bills by between SEK 100 and SEK 1,000 a year, if no new electricity production is added. That is according to a calculation by electricity market analyst Christian Holtz."
       },
       "translation": {
         "status": "done",
