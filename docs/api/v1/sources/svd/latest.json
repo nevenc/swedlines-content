@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T12:15:53+01:00",
+  "generated_at": "2026-11-20T12:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8d53e3e0a4e0",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/XogObn/viktlakemedel-kan-minska-effekt-av-p-piller",
+      "guid": "https://www.svd.se/a/XogObn/viktlakemedel-kan-minska-effekt-av-p-piller?utm_medium=rss",
+      "published_at": "2026-11-20T12:21:17+01:00",
+      "fetched_at": "2026-11-20T12:31:00+01:00",
+      "category": "science_tech",
+      "image_url": "https://akamai.vgc.no/v2/images/79db5b76-c8c8-3939-bd87-1cad6aa4aa94?format=auto&s=db826a2e352cfbd858123d831b5bd54e18dc6cc7&w=1000",
+      "sv": {
+        "title": "Viktläkemedel kan minska effekt av p-piller",
+        "summary": "Det finns risk att diabetes- och viktläkemedlet Mounjaro påverkar effekten av p-piller, enligt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Weight-loss drugs may reduce effect of contraceptive pills",
+        "summary": "There is a risk that the diabetes and weight-loss drug Mounjaro affects the effectiveness of contraceptive pills, according to…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:31:07+01:00"
+      }
+    },
     {
       "id": "403e67329631",
       "schema_version": 1,
@@ -5213,33 +5240,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T15:31:09+01:00"
-      }
-    },
-    {
-      "id": "6edd9b4e7084",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/9Bvozd/kristersson-vill-vanta-med-statsministeromrostning",
-      "guid": "https://www.svd.se/a/9Bvozd/kristersson-vill-vanta-med-statsministeromrostning?utm_medium=rss",
-      "published_at": "2026-11-17T15:00:36+01:00",
-      "fetched_at": "2026-11-17T15:15:43+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/6174c2c8-5fa0-3d83-b5ce-5a42b8eda780?format=auto&s=5d240fba0db0bcd06708688936ba0be44d8df209&w=1000",
-      "sv": {
-        "title": "Kristersson vill vänta med statsministeromröstning",
-        "summary": "M-ledaren Ulf Kristersson anser att det behövs ytterligare några dagar innan en…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kristersson wants to wait with the prime minister vote",
-        "summary": "Moderates leader Ulf Kristersson (M) believes a few more days are needed before a…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T15:15:54+01:00"
       }
     }
   ]

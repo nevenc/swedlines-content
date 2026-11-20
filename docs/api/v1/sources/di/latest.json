@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-20T12:15:53+01:00",
+  "generated_at": "2026-11-20T12:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e6d5a29a807f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/rodgrona-forhandlar-under-hard-tidspress",
+      "guid": "199c9378-42d3-4834-b68b-ae32bbe235d4",
+      "published_at": "2026-11-20T12:19:53+01:00",
+      "fetched_at": "2026-11-20T12:31:01+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/67fdfdd0-d034-42dc-91b8-74bfa4064902.jpeg?width=600",
+      "sv": {
+        "title": "Rödgröna förhandlar under hård tidspress",
+        "summary": "De rödgröna partiledarna förhandlar nu under tidspress för att lösa regeringsfrågan. Nästa vecka kan en tredje statsministeromröstning vänta.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Red-greens negotiate under heavy time pressure",
+        "summary": "The red-green party leaders are now negotiating under time pressure to resolve the government question. A third prime minister vote could come next week."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:31:07+01:00"
+      }
+    },
+    {
+      "id": "ef9db4270d8c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/smhi-forlanger-gul-snovarning",
+      "guid": "36ab7c4a-e6e1-4b1f-a87b-d72e8fcaa2d5",
+      "published_at": "2026-11-20T12:13:47+01:00",
+      "fetched_at": "2026-11-20T12:31:01+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/12605a3c-1d19-49c4-9ca0-06f7ab4732b6.jpeg?width=600",
+      "sv": {
+        "title": "SMHI förlänger gul snövarning",
+        "summary": "SMHI förlänger den gula varningen för snöfall i östra Svealand.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI extends yellow snow warning",
+        "summary": "SMHI extends the yellow warning for snowfall in eastern Svealand."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:31:07+01:00"
+      }
+    },
     {
       "id": "61c191b66f9e",
       "schema_version": 1,
@@ -5254,60 +5308,6 @@
       "en": {
         "title": "SHB: Buy the engineering company – AI peak not reached",
         "summary": "Alfa Laval's tailwind from AI has not yet peaked, writes Handelsbanken, which repeats yesterday's message from the engineering company's capital markets day. \"Data centres are driving the next growth phase\", the analysis says, in which the buy recommendation is repeated."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T09:45:49+01:00"
-      }
-    },
-    {
-      "id": "18ffe37c3c29",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/thedeen-vi-lattar-pa-gasen",
-      "guid": "445b3f0d-8b92-4e78-baf1-102bdbedbaaf",
-      "published_at": "2026-11-19T09:40:59+01:00",
-      "fetched_at": "2026-11-19T09:45:44+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/1a66c812-d6e3-4f46-a4e3-699f521172fb.jpeg?width=600",
-      "sv": {
-        "title": "Thedéen: ”Vi lättar på gasen”",
-        "summary": "Riksbanken ser framför sig en gradvis normalisering av styrräntan framöver. Det sade riksbankschef Erik Thedéen inför finansutskottet på torsdagen, enligt en sammanfattning från Riksbanken.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Thedéen: \"We are easing off the gas\"",
-        "summary": "The Riksbank expects a gradual normalisation of the policy rate going forward. Riksbank Governor Erik Thedéen said this to the Riksdag Finance Committee on Thursday, according to a summary from the Riksbank."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T09:45:49+01:00"
-      }
-    },
-    {
-      "id": "7399f3bb1982",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/debatt/vi-undervarderar-foretagens-viktigaste-tillgangar",
-      "guid": "61cbc9b4-811a-4c0a-90c0-0d5fbfa4d084",
-      "published_at": "2026-11-19T09:40:33+01:00",
-      "fetched_at": "2026-11-19T09:45:44+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/07a81a97-77ff-400e-a33d-541ad35ed8f5.jpeg?width=600",
-      "sv": {
-        "title": "Vi undervärderar företagens viktigaste tillgångar",
-        "summary": "De företag som fortsätter att behandla varumärket som en fråga för marknadsavdelningen riskerar att missa något fundamentalt. Och kanske är det viktigt att börja fokusera på dessa frågor redan idag för att bygga ett företag som människor kommer att fortsätta tro på imorgon, skriver Mathias Brandt…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "We are undervaluing companies' most important assets",
-        "summary": "Companies that continue to treat the brand as a marketing department matter risk missing something fundamental. And it may be important to start focusing on these issues already today in order to build a company that people will continue to trust tomorrow, writes Mathias Brandt…"
       },
       "translation": {
         "status": "done",

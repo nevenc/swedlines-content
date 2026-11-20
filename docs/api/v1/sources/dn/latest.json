@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T12:15:53+01:00",
+  "generated_at": "2026-11-20T12:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "887c729d50f4",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/ryska-broattacker-med-precisionsvapen-nytt-inslag-i-kriget",
+      "guid": "https://www.dn.se/varlden/ryska-broattacker-med-precisionsvapen-nytt-inslag-i-kriget/",
+      "published_at": "2026-11-20T12:17:23+01:00",
+      "fetched_at": "2026-11-20T12:30:59+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/0c927fd0-acc9-4fcd-b76b-d2d9469debf3.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Ryska broattacker med precisionsvapen: ”Nytt inslag i kriget”",
+        "summary": "Ryssland har använt precisionsvapen för att bomba broar i Kiev. Minst tre personer har dödats i nattens attacker, som kommer samma vecka som Ukraina anfallit Krimbron. – De ryska attackerna på broar i Kiev och andra städer är ett nytt inslag i kriget, säger militärexperten Jörgen Elfving.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russian bridge attacks with precision weapons: \"New element in the war\"",
+        "summary": "Russia has used precision weapons to bomb bridges in Kyiv. At least three people have been killed in the night's attacks, which come the same week that Ukraine attacked the Crimea bridge. \"The Russian attacks on bridges in Kyiv and other cities are a new element in the war,\" says military expert Jörgen Elfving."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:31:07+01:00"
+      }
+    },
     {
       "id": "229de69758f3",
       "schema_version": 1,
@@ -5367,33 +5394,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T17:15:53+01:00"
-      }
-    },
-    {
-      "id": "e770ae4b6b3e",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/insandare/slapp-pa-ministerkraven-innan-det-ar-for-sent",
-      "guid": "https://www.dn.se/insandare/slapp-pa-ministerkraven-innan-det-ar-for-sent/",
-      "published_at": "2026-11-17T16:45:15+01:00",
-      "fetched_at": "2026-11-17T16:45:44+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/cf5b5dbf-0430-4f0c-9dc3-6351690e3c98.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Insändare. Släpp på ministerkraven innan det är för sent",
-        "summary": "INSÄNDARE. V-ledningen riskerar att med sitt agerande cementera en högerpolitik som man själv säger sig vilja bekämpa. Det är dags för Vänsterpartiet att släppa prestigen, kavla upp ärmarna och börja förhandla om den faktiska politiken, skriver Pererik Holmbom.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Opinion: Drop the ministerial demands before it is too late",
-        "summary": "LETTER. The Left Party leadership risks, through its actions, cementing right-wing policy that it says it wants to fight. It is time for the Left Party to drop its prestige, roll up its sleeves and start negotiating actual policy, writes Pererik Holmbom."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:45:54+01:00"
       }
     }
   ]

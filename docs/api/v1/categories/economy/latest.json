@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-20T12:15:53+01:00",
+  "generated_at": "2026-11-20T12:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e6d5a29a807f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/rodgrona-forhandlar-under-hard-tidspress",
+      "guid": "199c9378-42d3-4834-b68b-ae32bbe235d4",
+      "published_at": "2026-11-20T12:19:53+01:00",
+      "fetched_at": "2026-11-20T12:31:01+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/67fdfdd0-d034-42dc-91b8-74bfa4064902.jpeg?width=600",
+      "sv": {
+        "title": "Rödgröna förhandlar under hård tidspress",
+        "summary": "De rödgröna partiledarna förhandlar nu under tidspress för att lösa regeringsfrågan. Nästa vecka kan en tredje statsministeromröstning vänta.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Red-greens negotiate under heavy time pressure",
+        "summary": "The red-green party leaders are now negotiating under time pressure to resolve the government question. A third prime minister vote could come next week."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:31:07+01:00"
+      }
+    },
+    {
+      "id": "ef9db4270d8c",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/smhi-forlanger-gul-snovarning",
+      "guid": "36ab7c4a-e6e1-4b1f-a87b-d72e8fcaa2d5",
+      "published_at": "2026-11-20T12:13:47+01:00",
+      "fetched_at": "2026-11-20T12:31:01+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/12605a3c-1d19-49c4-9ca0-06f7ab4732b6.jpeg?width=600",
+      "sv": {
+        "title": "SMHI förlänger gul snövarning",
+        "summary": "SMHI förlänger den gula varningen för snöfall i östra Svealand.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI extends yellow snow warning",
+        "summary": "SMHI extends the yellow warning for snowfall in eastern Svealand."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T12:31:07+01:00"
+      }
+    },
     {
       "id": "61c191b66f9e",
       "schema_version": 1,
@@ -5239,58 +5293,6 @@
       "en": {
         "title": "Putin: European representatives welcome in Moscow",
         "summary": "Vladimir Putin is open to inviting European representatives to Moscow – but only to discuss whether they should take part in further talks about the war in Ukraine."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:01:28+01:00"
-      }
-    },
-    {
-      "id": "7ccd9841127f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/fler-nya-arbetslosa-i-usa-an-vantat",
-      "guid": "98fb6405-1d2b-4d18-91d3-5855d43dc666",
-      "published_at": "2026-11-19T14:49:00+01:00",
-      "fetched_at": "2026-11-19T15:01:18+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Fler nya arbetslösa i USA än väntat",
-        "summary": "Antalet nyanmälda sökande av arbetslöshetsunderstöd i USA steg med 1.000 personer förra veckan och uppgick till 203.000 personer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "More new jobless claims in the USA than expected",
-        "summary": "The number of new initial jobless benefit claims in the USA rose by 1,000 last week and came to 203,000."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:01:28+01:00"
-      }
-    },
-    {
-      "id": "13c9cb1450bc",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/ras-for-usa-industrin",
-      "guid": "4e28c5ca-2a8c-4994-98f9-b59e704635e8",
-      "published_at": "2026-11-19T14:47:56+01:00",
-      "fetched_at": "2026-11-19T15:01:18+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Ras för USA-industrin",
-        "summary": "Philadelphia Federal Reserves index över aktiviteten i tillverkningsindustrin i regionen sjönk till 6,3 i november jämfört med 20,9 i oktober.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Slump for US industry",
-        "summary": "The Philadelphia Federal Reserve's index of manufacturing activity in the region fell to 6.3 in November from 20.9 in October."
       },
       "translation": {
         "status": "done",
