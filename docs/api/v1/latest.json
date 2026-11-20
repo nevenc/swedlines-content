@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T04:15:43+01:00",
+  "generated_at": "2026-11-20T04:31:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ffbc10499404",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/xJPy0G/avrattning-i-usa-tog-over-en-timme",
+      "guid": "https://www.aftonbladet.se/nyheter/a/xJPy0G/avrattning-i-usa-tog-over-en-timme?utm_medium=rss",
+      "published_at": "2026-11-20T04:24:18+01:00",
+      "fetched_at": "2026-11-20T04:31:00+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Avrättning i USA tog över en timme",
+        "summary": "En avrättning i Texas i USA tog över en timme sedan fängelseanställda flera gånger misslyckades att…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Execution in USA took over an hour",
+        "summary": "An execution in Texas, USA took over an hour after prison staff repeatedly failed to…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T04:31:05+01:00"
+      }
+    },
     {
       "id": "b71f2fe32935",
       "schema_version": 1,
@@ -5407,32 +5433,6 @@
       "en": {
         "title": "Stockholm stock exchange falls back – Truecaller surges",
         "summary": "The Stockholm stock exchange fell back during the afternoon following Wall Street's decline. At company level, Truecaller surged after a buy rating from ABG."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:45:54+01:00"
-      }
-    },
-    {
-      "id": "e7030fe04892",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/fick-hjarnskadorefter-buskorning--foll-ut-ur-takluckan",
-      "guid": "https://www.expressen.se/nyheter/varlden/fick-hjarnskadorefter-buskorning--foll-ut-ur-takluckan/",
-      "published_at": "2026-11-19T17:37:04+01:00",
-      "fetched_at": "2026-11-19T17:45:47+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Fick hjärnskador efter buskörning – föll ut ur takluckan",
-        "summary": "Platsen är känd som ett ställe där ungdomar samlas med sina bilar. Men 17-åriga Elexis familj trodde inte att hon deltog i buskörningen. – Vi håller desperat fast vid varje hopp att hon ska återhämta sig, säger mamman till lokala medier.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Suffered brain injuries after reckless driving – fell out through sunroof",
-        "summary": "The location is known as a place where young people gather with their cars. But 17-year-old Elexis's family did not believe she took part in the reckless driving. – We are desperately holding on to every hope that she will recover, says her mother to local media."
       },
       "translation": {
         "status": "done",
