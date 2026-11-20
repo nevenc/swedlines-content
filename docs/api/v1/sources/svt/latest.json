@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T07:01:13+01:00",
+  "generated_at": "2026-11-20T07:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4ee96079ca89",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/ishockey/rasmus-dahlin-med-drommal-mot-washington",
+      "guid": "https://www.svt.se/sport/ishockey/rasmus-dahlin-med-drommal-mot-washington",
+      "published_at": "2026-11-20T07:02:07+01:00",
+      "fetched_at": "2026-11-20T07:15:40+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Rasmus Dahlin med drömmål mot Washington",
+        "summary": "Han har gjort det igen. I natt stod Rasmus Dahlin för ett drömmål – efter soloåkning över hela isen. – Ett magiskt mål, säger kommentatorn Dan Dunleavy.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Rasmus Dahlin scores dream goal against Washington",
+        "summary": "He has done it again. Last night Rasmus Dahlin scored a dream goal – after a solo rush across the entire ice. – A magical goal, says commentator Dan Dunleavy."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T07:15:49+01:00"
+      }
+    },
     {
       "id": "63eb764311eb",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:59:12+01:00"
-      }
-    },
-    {
-      "id": "b1b1de6320ed",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/ukrainas-forsvar-om-rysslands-nya-taktik-tysta-och-osynliga-dronare",
-      "guid": "https://www.svt.se/nyheter/utrikes/ukrainas-forsvar-om-rysslands-nya-taktik-tysta-och-osynliga-dronare",
-      "published_at": "2026-11-14T13:55:49+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ukrainas försvar om Rysslands nya taktik: Tysta och osynliga drönare",
-        "summary": "Rysslands luftattacker mot Kyjiv är längre, fler och mer intensiva än tidigare. Nu flyger de jetdrivna drönarna lägre, för att inte synas på radarn, och tystnar när de närmar sig målet. – De ändrar hela tiden taktik, säger ”Gadget”, kulspruteskytt i en rörlig luftvärnsgrupp, som SVT besöker.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ukraine's defence on Russia's new tactic: Silent and invisible drones",
-        "summary": "Russia's air attacks on Kyiv are longer, more numerous and more intense than before. Now the jet-powered drones fly lower so as not to be seen on radar, and fall silent as they approach the target. – They keep changing tactics all the time, says “Gadget”, a machine gunner in a mobile air defence group, whom SVT visits."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:59:36+01:00"
       }
     }
   ]
