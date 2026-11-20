@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T10:45:55+01:00",
+  "generated_at": "2026-11-20T11:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0fe19ac5a15f",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/taxichauffor-knivhotad-i-huddinge-man-gripen-for-mordforsok",
+      "guid": "https://www.svt.se/nyheter/lokalt/stockholm/taxichauffor-knivhotad-i-huddinge-man-gripen-for-mordforsok",
+      "published_at": "2026-11-20T10:49:33+01:00",
+      "fetched_at": "2026-11-20T11:01:10+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Taxichaufför knivhotad i Huddinge – man gripen för mordförsök",
+        "summary": "En taxichaufför hotades och attackerades med kniv av en passagerare i Huddinge under tidiga fredagsmorgonen. Chauffören lyckades undkomma attacken och klarade sig utan fysiska skador.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Taxi driver threatened with knife in Huddinge – man arrested for attempted murder",
+        "summary": "A taxi driver was threatened and attacked with a knife by a passenger in Huddinge early Friday morning. The driver managed to escape the attack and was unharmed physically."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T11:01:27+01:00"
+      }
+    },
     {
       "id": "1fb07903b73b",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T18:58:32+01:00"
-      }
-    },
-    {
-      "id": "826275e97b77",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/italienska-miljardboter-for-meta",
-      "guid": "https://www.svt.se/nyheter/utrikes/italienska-miljardboter-for-meta",
-      "published_at": "2026-11-14T15:46:00+01:00",
-      "fetched_at": "2026-11-14T17:07:29+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Italienska miljardböter för Meta",
-        "summary": "Italien bötfäller Facebookägaren Meta med motsvarande nästan nio miljarder kronor för bolagets hantering av användares bilder.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Italian billion-kronor fine for Meta",
-        "summary": "Italy fines Facebook owner Meta the equivalent of almost nine billion kronor for the company's handling of users' images."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-14T18:58:49+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T10:45:55+01:00",
+  "generated_at": "2026-11-20T11:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c74da98f781a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=65ca0fc2-306b-485c-9e75-0299006d91f1",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=65ca0fc2-306b-485c-9e75-0299006d91f1",
+      "published_at": "2026-11-20T10:49:07+01:00",
+      "fetched_at": "2026-11-20T11:01:12+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Försökte fly genom fönster",
+        "summary": "Man misstänkt för mordförsök på taxichaufför",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tried to escape through window",
+        "summary": "Man suspected of attempted murder of taxi driver"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T11:01:27+01:00"
+      }
+    },
     {
       "id": "c5d91bc34d98",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T06:01:18+01:00"
-      }
-    },
-    {
-      "id": "f92bb90e123b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/trump-tappar-det-lyssna-pa-mig",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/trump-tappar-det-lyssna-pa-mig",
-      "published_at": "2026-11-17T05:36:41+01:00",
-      "fetched_at": "2026-11-17T05:45:45+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Tappar det totalt: ”Du är så patetisk”",
-        "summary": "Trumps raseri – frågas ut om skrytbygget",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Loses it completely: \"You are so pathetic\"",
-        "summary": "Trump's rage – questioned about the vanity project"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T05:45:51+01:00"
       }
     }
   ]

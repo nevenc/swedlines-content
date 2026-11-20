@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-20T10:45:55+01:00",
+  "generated_at": "2026-11-20T11:01:27+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "619f924d8451",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/mv4e13pwzKvv18V0DfcZo/man-atalas-foer-att-ha-koert-ihjael-lotta-hellstrand-57",
+      "guid": "mv4e13pwzKvv18V0DfcZo",
+      "published_at": "2026-11-20T10:49:18+01:00",
+      "fetched_at": "2026-11-20T11:01:12+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Brott och straff"
+      ],
+      "sv": {
+        "title": "20-årig man åtalas för att ha kört ihjäl Lotta Hellstrand, 57",
+        "summary": "Vittnen har uppgett i polisutredningen att vansinnesfärden natten den 12 september gick i över 200 km/h och delvis i fel körfält. – Jag har aldrig sett någon köra så fort i hela mitt liv, säger ett ögonvittne i förhör. Färden tog slut mellan Karlavägen och Sibyllegatan på Östermalm.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "20-year-old man charged for running over and killing Lotta Hellstrand, 57",
+        "summary": "Witnesses have stated in the police investigation that the reckless drive on the night of 12 September exceeded 200 km/h and partly took place in the wrong lane. – I have never seen anyone drive so fast in my entire life, says an eyewitness in an interview. The drive ended between Karlavägen and Sibyllegatan in Östermalm."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T11:01:27+01:00"
+      }
+    },
     {
       "id": "b617394414fc",
       "schema_version": 1,
@@ -5740,35 +5769,6 @@
       "en": {
         "title": "Former party member harassed SD leader for years",
         "summary": "The man who has now been placed under a restraining order was previously a member of the Sweden Democrats. When he was expelled by the party board in 2022, Tobias Andersson and other party members had tried to reach him, Andersson says in a police interview."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:02:05+01:00"
-      }
-    },
-    {
-      "id": "5ba213af31fd",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/6GM8LjIVDrpRt1EjSl8goa/hon-packar-vaeskorna-och-drar-saeger-hejda-i-ett-sms",
-      "guid": "6GM8LjIVDrpRt1EjSl8goa",
-      "published_at": "2026-11-11T21:00:05+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "Hon packar väskorna och drar – säger hejdå i ett sms",
-        "summary": "I onsdagens avsnitt av ”Bonde söker fru” vaknar häst- och köttbonden Patrik Bergquist till en chock. Emelie Kullenberg har packat sina väskor och lämnat programmet. – Jag tycker att det är otroligt tråkigt faktiskt att hon inte vill tillbringa mer tid med mig.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "She packs her bags and leaves – says goodbye in a text message",
-        "summary": "In Wednesday's episode of 'Bonde söker fru', horse and cattle farmer Patrik Bergquist wakes up to a shock. Emelie Kullenberg has packed her bags and left the programme. – I actually think it is incredibly sad that she does not want to spend more time with me."
       },
       "translation": {
         "status": "done",
