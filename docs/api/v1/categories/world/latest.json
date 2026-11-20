@@ -1,7 +1,101 @@
 {
-  "generated_at": "2026-11-20T06:15:47+01:00",
+  "generated_at": "2026-11-20T06:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c1f2b69a572e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/svarsonen-om--putin-bekvam-med-garantier",
+      "guid": "https://www.expressen.se/nyheter/varlden/svarsonen-om--putin-bekvam-med-garantier/",
+      "published_at": "2026-11-20T06:24:55+01:00",
+      "fetched_at": "2026-11-20T06:30:58+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Svärsonen om Putin: ”Bekväm med garantier”",
+        "summary": "Putins Ryssland är ”bekvämt” med tanken på Natoliknande säkerhetsgarantier för Ukraina, enligt Trumps svärson tillika sändebud Jared Kushner. Men oron stiger bland europeiska ledare när Trump kallar Putin ”min vän” och beskriver Zelenskyjs Ukraina som ”den andra sidan”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Son-in-law on Putin: “Comfortable with guarantees”",
+        "summary": "Putin's Russia is “comfortable” with the idea of NATO-like security guarantees for Ukraine, according to Trump's son-in-law and envoy Jared Kushner. But concern is rising among European leaders as Trump calls Putin “my friend” and describes Zelenskyy's Ukraine as “the other side”."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:31:13+01:00"
+      }
+    },
+    {
+      "id": "109f6f3e34a3",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2iJYLGJMvimFUaJm8p5tuU/tilltron-till-fn-s-foermaga-att-agera-foer-klimatet-rasar",
+      "guid": "2iJYLGJMvimFUaJm8p5tuU",
+      "published_at": "2026-11-20T06:20:41+01:00",
+      "fetched_at": "2026-11-20T06:30:58+01:00",
+      "category": "world",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Tilltron till FN:s förmåga att agera för klimatet rasar",
+        "summary": "I början av 20-talet tyckte 29 procent av svenskarna att det var viktigast att individen agerade för att påverka klimatförändringarna. Den siffran har nu minskat till 18 procent. De senaste tre åren har också svenska folket önskan om att FN:s ska axla klimatansvaret dalat från 39 till 24 procent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Trust in the UN's ability to act on climate is collapsing",
+        "summary": "In the early 2020s, 29 percent of Swedes thought it most important that the individual act to influence climate change. That figure has now fallen to 18 percent. Over the past three years, the Swedish people's wish for the UN to take on climate responsibility has also declined from 39 to 24 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:31:13+01:00"
+      }
+    },
+    {
+      "id": "9a2132e45c95",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/trump-valkomnas-med-ymca-hemma-vaxer-problemen.f3f58cf0-f32b-52e0-8569-348080c8cfaa",
+      "guid": "f3f58cf0-f32b-52e0-8569-348080c8cfaa",
+      "published_at": "2026-11-20T06:01:48+01:00",
+      "fetched_at": "2026-11-20T06:30:58+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Kort sagt",
+        "Tagg: Ted Turner",
+        "Tagg: Manila",
+        "Tagg: Nvidia",
+        "Tagg: Donald Trump",
+        "Tagg: CNN",
+        "Tagg: Robert F Kennedy Jr",
+        "Tagg: Mässling",
+        "Tagg: USA"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/43b5ce97-2eeb-35ae-b614-e0471368b211",
+      "sv": {
+        "title": "Välkomnas med ”YMCA” – hemma växer problemen",
+        "summary": "Donald Trump välkomnas med ”YMCA” i Manila medan hans Nvidiaaffärer väcker frågor hemma. Läs mer i veckans Kort sagt av GP:s Britt-Marie Mattsson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Welcomed with “YMCA” – problems grow at home",
+        "summary": "Donald Trump is welcomed with “YMCA” in Manila while his Nvidia deals raise questions at home. Read more in the week's Kort sagt by GP's Britt-Marie Mattsson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:31:13+01:00"
+      }
+    },
     {
       "id": "8d62308ed65a",
       "schema_version": 1,
@@ -5310,86 +5404,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T10:15:58+01:00"
-      }
-    },
-    {
-      "id": "8b529299134d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/klimat/a/OyplBw/ilska-pa-toppmotet-skitsnack-och-luft",
-      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/OyplBw/ilska-pa-toppmotet-skitsnack-och-luft?utm_medium=rss",
-      "published_at": "2026-11-18T10:07:43+01:00",
-      "fetched_at": "2026-11-18T20:31:01+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/efd1a032-cf89-369a-a2ad-6ab6baa18ecb?format=auto&s=b282eae1f65c49fa24b024cfa7bf9aebae46be89&w=1000",
-      "sv": {
-        "title": "Ilska på toppmötet: ”Skitsnack och luft”",
-        "summary": "COP31 Frustration bland förhandlare",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anger at the summit: “Bunk talk and hot air”",
-        "summary": "COP31 Frustration among negotiators"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T20:31:09+01:00"
-      }
-    },
-    {
-      "id": "ce118ddf15cd",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/OyplBw/ilska-pa-toppmotet-skitsnack-och-luft",
-      "guid": "https://www.aftonbladet.se/nyheter/a/OyplBw/ilska-pa-toppmotet-skitsnack-och-luft?utm_medium=rss",
-      "published_at": "2026-11-18T10:07:43+01:00",
-      "fetched_at": "2026-11-18T10:15:51+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/938d9c8c-d424-3fb7-bd68-9da4d719e862?format=auto&s=125b9b0f35bf3a79c88782c0b29392c3fa582470&w=1000",
-      "sv": {
-        "title": "Ilska på toppmötet: ”Skitsnack och luft”",
-        "summary": "Frustrationen växer bland vissa förhandlare på klimattoppmötet. – Det är bara vackra tal som inte är…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anger at the summit: \"Empty talk and hot air\"",
-        "summary": "Frustration is growing among some negotiators at the climate summit. – It's just beautiful words that are not…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T10:15:58+01:00"
-      }
-    },
-    {
-      "id": "0d90e1293987",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345018",
-      "guid": "rss:sr.se/article/9345018",
-      "published_at": "2026-11-18T09:50:00+01:00",
-      "fetched_at": "2026-11-18T10:01:16+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Norsk säkerhetstjänst höjer terrorvarning",
-        "summary": "Det finns en förhöjd risk för terrordåd i Norge nästa år, varnar den norska säkerhetstjänsten PST. Risken att det sker en terrorattack i Norge under 2027 är ”trolig” snarare än ”möjlig”, bedömer PST i en ny hotvärdering som lades fram idag.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Norwegian security service raises terror warning",
-        "summary": "There is an elevated risk of terrorist attacks in Norway next year, warns the Norwegian security service PST. The risk of a terrorist attack in Norway during 2027 is \"likely\" rather than \"possible\", PST assesses in a new threat assessment presented today."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T10:01:25+01:00"
       }
     }
   ]

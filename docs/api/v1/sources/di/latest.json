@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T06:15:47+01:00",
+  "generated_at": "2026-11-20T06:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0f4c230e60fd",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/energifonden-salde-fartyg-till-ryska-skuggflottan",
+      "guid": "c5a5c8c4-6f31-48a5-b1bc-ff6c4003bac7",
+      "published_at": "2026-11-20T06:12:19+01:00",
+      "fetched_at": "2026-11-20T06:30:58+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/55f8c5ec-e9b0-4393-a3c8-a0f14c7faaee.jpeg?width=600",
+      "sv": {
+        "title": "Energifonden sålde fartyg till ryska skuggflottan",
+        "summary": "Hög ränta är ledordet när Energifonden säljer in sina produkter till småspararna. Tidigare har bolaget sålt fartyg till den ryska skuggflottan. Samtidigt har vd Fredrik Johansson en historia av kraschade börsbolag bakom sig.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Energifonden sold ships to Russia's shadow fleet",
+        "summary": "High interest rates are the buzzword when Energifonden sells its products to small savers. The company has previously sold ships to Russia's shadow fleet. At the same time, CEO Fredrik Johansson has a history of crashed listed companies behind him."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:31:13+01:00"
+      }
+    },
     {
       "id": "291e9bd1ab24",
       "schema_version": 1,
@@ -5295,33 +5322,6 @@
       "en": {
         "title": "Jordan to desalinate water for SEK 67 billion",
         "summary": "A huge desalination project is to supply drinking water to five million people."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T18:15:50+01:00"
-      }
-    },
-    {
-      "id": "974c66b19e48",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/alfa-lavals-vd-ai-ar-inte-en-bubbla",
-      "guid": "46e6188e-9371-4ce9-a757-1b84fed00061",
-      "published_at": "2026-11-18T18:03:30+01:00",
-      "fetched_at": "2026-11-18T18:15:44+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/6b5ff25b-9260-4762-a973-fd17601a9d97.jpeg?width=600",
-      "sv": {
-        "title": "Alfa Lavals vd: AI är inte en bubbla",
-        "summary": "Alfa Lavals orderingång växer kraftigt med hjälp av en stark cykel inom fartygsdivisionen Ocean och AI-boomen. Medan fartygsbyggandet väntas vända ned uppger vd Tom Erixon att AI-trenden bara har börjat.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Alfa Laval CEO: AI is not a bubble",
-        "summary": "Alfa Laval's order intake is growing strongly, driven by a strong cycle in the Ocean ship division and the AI boom. While shipbuilding is expected to turn down, CEO Tom Erixon says the AI trend has only just begun."
       },
       "translation": {
         "status": "done",

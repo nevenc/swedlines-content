@@ -1,7 +1,168 @@
 {
-  "generated_at": "2026-11-20T06:15:47+01:00",
-  "count": 81,
+  "generated_at": "2026-11-20T06:31:14+01:00",
+  "count": 90,
   "items": [
+    {
+      "id": "5edf0d8bd194",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/mordet-pa-emporia-skracken-i-fredagsrusningen",
+      "guid": "2b304911-f2f9-4432-9b8b-ee293084392e",
+      "published_at": "2026-11-20T06:30:00+01:00",
+      "fetched_at": "2026-11-20T06:30:59+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Mordet på Emporia – skräcken i fredagsrusningen",
+        "summary": "Mitt i vimlet på köpcentret Emporia skjuts presidenten för det kriminella gänget Satudarah Assassins ihjäl. Två veckor tidigare har han fått en anonym varning: ”Akta dig för dina vänner, de planerar att döda dig.” Uppdragsgivarna använder en helt ny metod: En inhyrd tonåring – helt utan koppling…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The murder at Emporia – dread in the Friday rush",
+        "summary": "In the middle of the crowd at the Emporia shopping centre, the president of the criminal gang Satudarah Assassins is shot dead. Two weeks earlier he received an anonymous warning: “Watch out for your friends, they plan to kill you.” The clients use a completely new method: a hired teenager – with no connection…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:31:13+01:00"
+      }
+    },
+    {
+      "id": "c1f2b69a572e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/svarsonen-om--putin-bekvam-med-garantier",
+      "guid": "https://www.expressen.se/nyheter/varlden/svarsonen-om--putin-bekvam-med-garantier/",
+      "published_at": "2026-11-20T06:24:55+01:00",
+      "fetched_at": "2026-11-20T06:30:58+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Svärsonen om Putin: ”Bekväm med garantier”",
+        "summary": "Putins Ryssland är ”bekvämt” med tanken på Natoliknande säkerhetsgarantier för Ukraina, enligt Trumps svärson tillika sändebud Jared Kushner. Men oron stiger bland europeiska ledare när Trump kallar Putin ”min vän” och beskriver Zelenskyjs Ukraina som ”den andra sidan”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Son-in-law on Putin: “Comfortable with guarantees”",
+        "summary": "Putin's Russia is “comfortable” with the idea of NATO-like security guarantees for Ukraine, according to Trump's son-in-law and envoy Jared Kushner. But concern is rising among European leaders as Trump calls Putin “my friend” and describes Zelenskyy's Ukraine as “the other side”."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:31:13+01:00"
+      }
+    },
+    {
+      "id": "109f6f3e34a3",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/2iJYLGJMvimFUaJm8p5tuU/tilltron-till-fn-s-foermaga-att-agera-foer-klimatet-rasar",
+      "guid": "2iJYLGJMvimFUaJm8p5tuU",
+      "published_at": "2026-11-20T06:20:41+01:00",
+      "fetched_at": "2026-11-20T06:30:58+01:00",
+      "category": "world",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Tilltron till FN:s förmåga att agera för klimatet rasar",
+        "summary": "I början av 20-talet tyckte 29 procent av svenskarna att det var viktigast att individen agerade för att påverka klimatförändringarna. Den siffran har nu minskat till 18 procent. De senaste tre åren har också svenska folket önskan om att FN:s ska axla klimatansvaret dalat från 39 till 24 procent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Trust in the UN's ability to act on climate is collapsing",
+        "summary": "In the early 2020s, 29 percent of Swedes thought it most important that the individual act to influence climate change. That figure has now fallen to 18 percent. Over the past three years, the Swedish people's wish for the UN to take on climate responsibility has also declined from 39 to 24 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:31:13+01:00"
+      }
+    },
+    {
+      "id": "b2b41da0ae78",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/noje/expressen-dejtar-urban-nyman--haram-alla-dagar-i-veckan",
+      "guid": "https://www.expressen.se/noje/expressen-dejtar-urban-nyman--haram-alla-dagar-i-veckan/",
+      "published_at": "2026-11-20T06:17:20+01:00",
+      "fetched_at": "2026-11-20T06:30:58+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Expressen dejtar Urban Nyman: ”Haram alla dagar i veckan”",
+        "summary": "Den här veckan dejtar Expressen Urban Nyman, känd från SVT:s ”Gift vid första ögonkastet XL”. Han berättar om sitt kärleksspråk, syn på otrohet och senaste gången han ringde 112. Ålder: 36 • Längd: 185 • Röker: Cigarr och pipa ibland • Snusar: Nej • Dricker: Väldigt sällan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expressen dates Urban Nyman: “Haram all days of the week”",
+        "summary": "This week Expressen dates Urban Nyman, known from SVT's “Gift vid första ögonkastet XL”. He talks about his love language, views on infidelity and the last time he called 112. Age: 36 • Height: 185 • Smokes: Cigars and pipe sometimes • Snus: No • Drinks: Very rarely."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:31:13+01:00"
+      }
+    },
+    {
+      "id": "aca94610bb2a",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/mMRWOO/lomskt-virus-minskar-bland-barn-slar-mot-aldre",
+      "guid": "https://www.svd.se/a/mMRWOO/lomskt-virus-minskar-bland-barn-slar-mot-aldre?utm_medium=rss",
+      "published_at": "2026-11-20T06:15:12+01:00",
+      "fetched_at": "2026-11-20T06:30:57+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/2ef09406-995c-3da1-81fc-15b46e0faeab?format=auto&s=a4c0b180b1415fd8fe5e83507bfb45a79a49191d&w=1000",
+      "sv": {
+        "title": "Lömskt virus minskar bland barn – slår mot äldre",
+        "summary": "Högsäsongen för luftvägsvirus står för dörren. Ett av de mest lömska är RS-virus som kan slå hårt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sneaky virus declines among children – hits the elderly",
+        "summary": "The high season for respiratory viruses is at the door. One of the most insidious is RS virus, which can hit hard…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:31:13+01:00"
+      }
+    },
+    {
+      "id": "84bb96b31f31",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/Pv9wK7/lomskt-virus-minskar-bland-barn-slar-mot-aldre",
+      "guid": "https://www.aftonbladet.se/nyheter/a/Pv9wK7/lomskt-virus-minskar-bland-barn-slar-mot-aldre?utm_medium=rss",
+      "published_at": "2026-11-20T06:15:11+01:00",
+      "fetched_at": "2026-11-20T06:30:57+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/2ef09406-995c-3da1-81fc-15b46e0faeab?format=auto&s=a4c0b180b1415fd8fe5e83507bfb45a79a49191d&w=1000",
+      "sv": {
+        "title": "Lömskt virus minskar bland barn – slår mot äldre",
+        "summary": "Högsäsongen för luftvägsvirus står för dörren. Ett av de mest lömska är RS-virus som kan slå hårt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sneaky virus declines among children – hits the elderly",
+        "summary": "The high season for respiratory viruses is at the door. One of the most insidious is RS virus, which can hit hard…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:31:13+01:00"
+      }
+    },
     {
       "id": "607439fdf53e",
       "schema_version": 1,
@@ -26,6 +187,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T06:15:47+01:00"
+      }
+    },
+    {
+      "id": "0f4c230e60fd",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/energifonden-salde-fartyg-till-ryska-skuggflottan",
+      "guid": "c5a5c8c4-6f31-48a5-b1bc-ff6c4003bac7",
+      "published_at": "2026-11-20T06:12:19+01:00",
+      "fetched_at": "2026-11-20T06:30:58+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/55f8c5ec-e9b0-4393-a3c8-a0f14c7faaee.jpeg?width=600",
+      "sv": {
+        "title": "Energifonden sålde fartyg till ryska skuggflottan",
+        "summary": "Hög ränta är ledordet när Energifonden säljer in sina produkter till småspararna. Tidigare har bolaget sålt fartyg till den ryska skuggflottan. Samtidigt har vd Fredrik Johansson en historia av kraschade börsbolag bakom sig.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Energifonden sold ships to Russia's shadow fleet",
+        "summary": "High interest rates are the buzzword when Energifonden sells its products to small savers. The company has previously sold ships to Russia's shadow fleet. At the same time, CEO Fredrik Johansson has a history of crashed listed companies behind him."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:31:13+01:00"
       }
     },
     {
@@ -128,6 +316,45 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T06:15:47+01:00"
+      }
+    },
+    {
+      "id": "9a2132e45c95",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/trump-valkomnas-med-ymca-hemma-vaxer-problemen.f3f58cf0-f32b-52e0-8569-348080c8cfaa",
+      "guid": "f3f58cf0-f32b-52e0-8569-348080c8cfaa",
+      "published_at": "2026-11-20T06:01:48+01:00",
+      "fetched_at": "2026-11-20T06:30:58+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Kort sagt",
+        "Tagg: Ted Turner",
+        "Tagg: Manila",
+        "Tagg: Nvidia",
+        "Tagg: Donald Trump",
+        "Tagg: CNN",
+        "Tagg: Robert F Kennedy Jr",
+        "Tagg: Mässling",
+        "Tagg: USA"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/43b5ce97-2eeb-35ae-b614-e0471368b211",
+      "sv": {
+        "title": "Välkomnas med ”YMCA” – hemma växer problemen",
+        "summary": "Donald Trump välkomnas med ”YMCA” i Manila medan hans Nvidiaaffärer väcker frågor hemma. Läs mer i veckans Kort sagt av GP:s Britt-Marie Mattsson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Welcomed with “YMCA” – problems grow at home",
+        "summary": "Donald Trump is welcomed with “YMCA” in Manila while his Nvidia deals raise questions at home. Read more in the week's Kort sagt by GP's Britt-Marie Mattsson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:31:13+01:00"
       }
     },
     {
@@ -714,6 +941,44 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T06:01:34+01:00"
+      }
+    },
+    {
+      "id": "1d37b3bbfd6b",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/darfor-ar-det-sa-viktigt-for-v-att-sitta-i-regeringen.71c9d703-3706-5bd4-a17a-48264e72be32",
+      "guid": "71c9d703-3706-5bd4-a17a-48264e72be32",
+      "published_at": "2026-11-20T05:51:12+01:00",
+      "fetched_at": "2026-11-20T06:30:58+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Politik",
+        "Tagg: Stefan Löfven",
+        "Tagg: Magdalena Andersson",
+        "Tagg: Jonas Sjöstedt",
+        "Tagg: Fredrik Reinfeldt",
+        "Tagg: Vänsterpartiet",
+        "Tagg: Socialdemokraterna",
+        "Tagg: Jimmie Åkesson",
+        "Tagg: Sverigedemokraterna"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/e90fffb7-cfa8-35b3-aa57-282f6ff4b0c5",
+      "sv": {
+        "title": "Därför är det så viktigt för V att sitta i regeringen",
+        "summary": "Att partier alltid kan vinna på att stå utanför är inte sant.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is why it is so important for the Left Party to sit in government",
+        "summary": "The claim that parties can always gain by staying outside is not true."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:31:13+01:00"
       }
     },
     {

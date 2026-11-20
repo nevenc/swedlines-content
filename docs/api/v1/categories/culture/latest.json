@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T06:15:47+01:00",
+  "generated_at": "2026-11-20T06:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b2b41da0ae78",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/noje/expressen-dejtar-urban-nyman--haram-alla-dagar-i-veckan",
+      "guid": "https://www.expressen.se/noje/expressen-dejtar-urban-nyman--haram-alla-dagar-i-veckan/",
+      "published_at": "2026-11-20T06:17:20+01:00",
+      "fetched_at": "2026-11-20T06:30:58+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Expressen dejtar Urban Nyman: ”Haram alla dagar i veckan”",
+        "summary": "Den här veckan dejtar Expressen Urban Nyman, känd från SVT:s ”Gift vid första ögonkastet XL”. Han berättar om sitt kärleksspråk, syn på otrohet och senaste gången han ringde 112. Ålder: 36 • Längd: 185 • Röker: Cigarr och pipa ibland • Snusar: Nej • Dricker: Väldigt sällan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expressen dates Urban Nyman: “Haram all days of the week”",
+        "summary": "This week Expressen dates Urban Nyman, known from SVT's “Gift vid första ögonkastet XL”. He talks about his love language, views on infidelity and the last time he called 112. Age: 36 • Height: 185 • Smokes: Cigars and pipe sometimes • Snus: No • Drinks: Very rarely."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:31:13+01:00"
+      }
+    },
     {
       "id": "167975bdb250",
       "schema_version": 1,
@@ -5567,35 +5593,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T20:16:02+01:00"
-      }
-    },
-    {
-      "id": "0984d5ccd546",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/6bWh9MZ32ZPkPgYO0OFfFW/farmen-wincent-aktuell-med-egen-lat-alder-spelar-ingen-roll",
-      "guid": "6bWh9MZ32ZPkPgYO0OFfFW",
-      "published_at": "2026-11-17T19:55:09+01:00",
-      "fetched_at": "2026-11-17T23:01:10+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Efter fem"
-      ],
-      "sv": {
-        "title": "Farmen-Wincent aktuell med egen låt: ”Ålder spelar ingen roll”",
-        "summary": "Hans Wincent är mest känd som den kunnige mentorn i TV4:s Farmen. Men vid sidan av livet på gården har han även ägnat sig åt musik. Tidigare har han spelat in låtar tillsammans med bland andra 250 kilo kärlek och Sveriges cultband.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Farmen's Wincent releases own song: \"Age doesn't matter\"",
-        "summary": "Hans Wincent is best known as the knowledgeable mentor on TV4's Farmen. But besides life on the farm, he has also devoted himself to music. He has previously recorded songs together with, among others, 250 kilo kärlek and Sveriges cultband."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T23:01:15+01:00"
       }
     }
   ]

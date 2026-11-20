@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T06:15:47+01:00",
+  "generated_at": "2026-11-20T06:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5edf0d8bd194",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/mordet-pa-emporia-skracken-i-fredagsrusningen",
+      "guid": "2b304911-f2f9-4432-9b8b-ee293084392e",
+      "published_at": "2026-11-20T06:30:00+01:00",
+      "fetched_at": "2026-11-20T06:30:59+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Mordet på Emporia – skräcken i fredagsrusningen",
+        "summary": "Mitt i vimlet på köpcentret Emporia skjuts presidenten för det kriminella gänget Satudarah Assassins ihjäl. Två veckor tidigare har han fått en anonym varning: ”Akta dig för dina vänner, de planerar att döda dig.” Uppdragsgivarna använder en helt ny metod: En inhyrd tonåring – helt utan koppling…",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "The murder at Emporia – dread in the Friday rush",
+        "summary": "In the middle of the crowd at the Emporia shopping centre, the president of the criminal gang Satudarah Assassins is shot dead. Two weeks earlier he received an anonymous warning: “Watch out for your friends, they plan to kill you.” The clients use a completely new method: a hired teenager – with no connection…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:31:13+01:00"
+      }
+    },
     {
       "id": "607439fdf53e",
       "schema_version": 1,
@@ -5157,30 +5183,6 @@
       "en": {
         "title": "How Redhawks Became a Crowd-Pulling Team: \"When You Win, People Want to Come Back\"",
         "summary": "The dog years are over. Malmö Redhawks are a top SHL team and on their way to a new attendance record. But how did the club actually get there? – The simple answer is that if you win your home games, people want to come back, says Patrik Sylvegård, the club's CEO."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T06:01:29+01:00"
-      }
-    },
-    {
-      "id": "7a2bd0029e6e",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/bussarna-ar-till-for-att-ga-skanetrafiken",
-      "guid": "d33cfaa0-59a7-4914-9451-b1aaf02df4ed",
-      "published_at": "2026-11-18T05:58:00+01:00",
-      "fetched_at": "2026-11-18T06:01:18+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/2a77769e-a5c7-4ee3-9227-f4db762a93fa.jpeg?width=600",
-      "sv": {
-        "title": "Bussarna är till för att gå, Skånetrafiken"
-      },
-      "en": {
-        "title": "The Buses Are There to Be Ridden, Skånetrafiken"
       },
       "translation": {
         "status": "done",

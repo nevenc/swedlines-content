@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T06:15:47+01:00",
+  "generated_at": "2026-11-20T06:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0f4c230e60fd",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/energifonden-salde-fartyg-till-ryska-skuggflottan",
+      "guid": "c5a5c8c4-6f31-48a5-b1bc-ff6c4003bac7",
+      "published_at": "2026-11-20T06:12:19+01:00",
+      "fetched_at": "2026-11-20T06:30:58+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/55f8c5ec-e9b0-4393-a3c8-a0f14c7faaee.jpeg?width=600",
+      "sv": {
+        "title": "Energifonden sålde fartyg till ryska skuggflottan",
+        "summary": "Hög ränta är ledordet när Energifonden säljer in sina produkter till småspararna. Tidigare har bolaget sålt fartyg till den ryska skuggflottan. Samtidigt har vd Fredrik Johansson en historia av kraschade börsbolag bakom sig.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Energifonden sold ships to Russia's shadow fleet",
+        "summary": "High interest rates are the buzzword when Energifonden sells its products to small savers. The company has previously sold ships to Russia's shadow fleet. At the same time, CEO Fredrik Johansson has a history of crashed listed companies behind him."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T06:31:13+01:00"
+      }
+    },
     {
       "id": "a75ddba92db0",
       "schema_version": 1,
@@ -5293,33 +5320,6 @@
       "en": {
         "title": "Petrol stations may run dry – risk of queues ahead of price rise",
         "summary": "There may be queues at Swedish petrol stations ahead of the month-end, when the tax on petrol and diesel is raised. The industry body Drivkraft Sverige is now urging motorists to fill up in good time to avoid arriving at an empty petrol station during the last days of the month."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T08:01:26+01:00"
-      }
-    },
-    {
-      "id": "cb4b3d4c7059",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/xi-etablerat-stabil-relation-med-usa",
-      "guid": "b0e4659b-cfaa-46d2-9f05-f8f4e15f8bae",
-      "published_at": "2026-11-19T07:47:40+01:00",
-      "fetched_at": "2026-11-19T08:01:19+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/2b40d519-a8e2-4484-9eab-e0d35f4eebb9.jpeg?width=600",
-      "sv": {
-        "title": "Xi: Etablerat stabil relation med USA",
-        "summary": "USA och Kina har ett gemensamt intresse av att hålla Hormuzsundet öppet för energitransporter och förhindra att Iran skaffar kärnvapen, sa USA:s president Donald Trump i samband med mötet med Kinas president Xi Jinping på torsdagen, enligt Reuters.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Xi: Established stable relationship with USA",
-        "summary": "The USA and China have a shared interest in keeping the Strait of Hormuz open for energy transports and preventing Iran from acquiring nuclear weapons, said US President Donald Trump in connection with the meeting with Chinese President Xi Jinping on Thursday, according to Reuters."
       },
       "translation": {
         "status": "done",
