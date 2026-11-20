@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-20T19:01:30+01:00",
+  "generated_at": "2026-11-20T19:16:01+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "34493f08aee1",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/strommers-bete-till-centern-trots-kritik",
+      "guid": "21128367-b989-4836-bafc-2ba3ac119dba",
+      "published_at": "2026-11-20T19:06:38+01:00",
+      "fetched_at": "2026-11-20T19:15:56+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/073232b8-cf7a-4a43-9689-fa3ffbbddb5c.jpeg?width=600",
+      "sv": {
+        "title": "Strömmers bete till Centern – trots kritik",
+        "summary": "S-ledaren Magdalena Anderssons skogslöfte är verklighetsfrånvänt nonsens, enligt justitieminister Gunnar Strömmer (M). Nu lovar han Centern att gå vidare med att grundlagsskydda en stärkt äganderätt – om M får bilda en blågrön regering.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Strömmer's bait to the Centre Party – despite criticism",
+        "summary": "The Social Democrats' leader Magdalena Andersson's forestry pledge is unrealistic nonsense, according to Justice Minister Gunnar Strömmer (M). Now he promises the Centre Party to proceed with constitutionally protecting a strengthened property right – if the Moderates get to form a blue-green government."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:16:01+01:00"
+      }
+    },
+    {
+      "id": "8704aff7bbdb",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/utredaren-underkanner-tidoforslag-i-hetluften",
+      "guid": "d6ab70dc-b41b-479f-8da0-15e81d5a1f5a",
+      "published_at": "2026-11-20T19:06:32+01:00",
+      "fetched_at": "2026-11-20T19:15:56+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/2c92a9e0-b377-4096-a2c0-916bc9ae7349.jpeg?width=600",
+      "sv": {
+        "title": "Utredaren underkänner Tidöförslag i hetluften",
+        "summary": "Förslaget som skogsnäringen väntat på, och som har hamnat mitt i S och M:s budgivning om Centern, håller inte måttet, enligt utredaren. “Det har inte grundlagskaraktär”, säger juridiknestorn Stefan Lindskog.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Inquiry rejects Tidö proposal in the heat of the moment",
+        "summary": "The proposal that the forestry industry has been waiting for, and which has ended up in the middle of the Social Democrats' and Moderates' bidding for the Centre Party, does not meet the mark, according to the inquiry. \"It does not have constitutional character\", says legal chief Stefan Lindskog."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T19:16:01+01:00"
+      }
+    },
     {
       "id": "d6cbb634a0d4",
       "schema_version": 1,
@@ -5255,58 +5309,6 @@
       "en": {
         "title": "More new jobless claims in the USA than expected",
         "summary": "The number of new initial jobless benefit claims in the USA rose by 1,000 last week and came to 203,000."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:01:28+01:00"
-      }
-    },
-    {
-      "id": "13c9cb1450bc",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/ras-for-usa-industrin",
-      "guid": "4e28c5ca-2a8c-4994-98f9-b59e704635e8",
-      "published_at": "2026-11-19T14:47:56+01:00",
-      "fetched_at": "2026-11-19T15:01:18+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Ras för USA-industrin",
-        "summary": "Philadelphia Federal Reserves index över aktiviteten i tillverkningsindustrin i regionen sjönk till 6,3 i november jämfört med 20,9 i oktober.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Slump for US industry",
-        "summary": "The Philadelphia Federal Reserve's index of manufacturing activity in the region fell to 6.3 in November from 20.9 in October."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T15:01:28+01:00"
-      }
-    },
-    {
-      "id": "97417e021255",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/alpcot-rapportlyfter-pa-first-north",
-      "guid": "53ba56be-6203-495c-a8c6-74c682562fd8",
-      "published_at": "2026-11-19T14:47:44+01:00",
-      "fetched_at": "2026-11-19T15:01:18+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Alpcot rapportlyfter på First North",
-        "summary": "Finansplattformen Alpcots aktie var upp 15 procent på First North på torsdagseftermiddagen efter att företaget på morgonen redovisat ett rörelseresultat på för det tredje kvartalet 2026 på 6,8 miljoner kronor (-4,7).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Alpcot report lifts shares on First North",
-        "summary": "Financial platform Alpcot's share was up 15 percent on First North on Thursday afternoon after the company reported in the morning an operating profit for the third quarter of 2026 of SEK 6.8 million (-4.7)."
       },
       "translation": {
         "status": "done",
