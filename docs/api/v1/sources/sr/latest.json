@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T11:01:27+01:00",
+  "generated_at": "2026-11-20T11:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "38709e67f7a9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346952",
+      "guid": "rss:sr.se/article/9346952",
+      "published_at": "2026-11-20T11:04:00+01:00",
+      "fetched_at": "2026-11-20T11:15:44+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "AI-frossa på börsen: ”Kinesisk dropptortyr”",
+        "summary": "Börsnedgångarna runt om i världen ser ut att fortsätta, med tapp på såväl de amerikanska som de asiatiska börserna. Under Stockholmsbörsens första timme blev det en nedgång på 1.66 procent. Bakgrunden är oro för AI-sektorn, enligt Esbjörn Lundevall, aktiestrateg på SEB.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "AI jitters on the stock market: \"Chinese death by a thousand cuts\"",
+        "summary": "Stock market declines around the world look set to continue, with losses on both American and Asian exchanges. During the first hour of the Stockholm Stock Exchange, there was a decline of 1.66 percent. The background is concern over the AI sector, according to Esbjörn Lundevall, equity strategist at SEB."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T11:15:54+01:00"
+      }
+    },
     {
       "id": "953d9dda003c",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-14T19:01:02+01:00"
-      }
-    },
-    {
-      "id": "0e8a49f7670c",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9340885",
-      "guid": "rss:sr.se/article/9340885",
-      "published_at": "2026-11-13T23:13:00+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Flygstopp i USA – SAS inväntar besked för fem plan",
-        "summary": "Ett nationellt flygstopp i USA stoppar utgående trafik och kan ge förseningar för tusentals flyg på fredagskvällen. SAS har fem flyg i luften på väg till USA, och enligt presschef Alexandra Lindgren Kaokji inväntar bolaget nu information om hur flighterna kommer att hanteras.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Ground stop in the US – SAS awaits word on five planes",
-        "summary": "A national ground stop in the US is halting outbound traffic and could cause delays for thousands of flights on Friday evening. SAS has five flights in the air on their way to the US, and according to press officer Alexandra Lindgren Kaokji the airline is now awaiting information on how the flights will be handled."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:56:57+01:00"
       }
     }
   ]

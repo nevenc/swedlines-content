@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-20T11:01:27+01:00",
+  "generated_at": "2026-11-20T11:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3c5cce29f504",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/live/efter-ukrainas-attacker-rysslands-produktion-av-bransle-rasar",
+      "guid": "88c607b4-40f1-469f-a334-7882ad0798ae",
+      "published_at": "2026-11-20T11:04:31+01:00",
+      "fetched_at": "2026-11-20T11:15:48+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/75742613-513c-4bc8-84df-6d84e35d067f.jpg?width=600",
+      "sv": {
+        "title": "Efter Ukrainas attacker: Rysslands produktion av bränsle rasar",
+        "summary": "Produktionen i ryska raffinaderier har till följd av skador från ukrainska drönarattacker i november rasat till omkring 3,5 miljoner fat bränsle per dag, enligt den Oslobaserade branschkonsulten Rystad Energy.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After Ukraine's attacks: Russia's fuel production plummets",
+        "summary": "Production at Russian refineries has plunged to around 3.5 million barrels of fuel per day due to damage from Ukrainian drone attacks in November, according to the Oslo-based industry consultant Rystad Energy."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T11:15:54+01:00"
+      }
+    },
+    {
+      "id": "38709e67f7a9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9346952",
+      "guid": "rss:sr.se/article/9346952",
+      "published_at": "2026-11-20T11:04:00+01:00",
+      "fetched_at": "2026-11-20T11:15:44+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "AI-frossa på börsen: ”Kinesisk dropptortyr”",
+        "summary": "Börsnedgångarna runt om i världen ser ut att fortsätta, med tapp på såväl de amerikanska som de asiatiska börserna. Under Stockholmsbörsens första timme blev det en nedgång på 1.66 procent. Bakgrunden är oro för AI-sektorn, enligt Esbjörn Lundevall, aktiestrateg på SEB.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "AI jitters on the stock market: \"Chinese death by a thousand cuts\"",
+        "summary": "Stock market declines around the world look set to continue, with losses on both American and Asian exchanges. During the first hour of the Stockholm Stock Exchange, there was a decline of 1.66 percent. The background is concern over the AI sector, according to Esbjörn Lundevall, equity strategist at SEB."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T11:15:54+01:00"
+      }
+    },
     {
       "id": "451585d7371d",
       "schema_version": 1,
@@ -5236,60 +5289,6 @@
       "en": {
         "title": "Swan chief's turkey purchase: The people's stock that doesn't fly",
         "summary": "Martina Flemström is new CEO of Miljömärkning Sverige, which stands behind the Svanen label. “Getting to work with this strong brand feels fantastic.” In Di Weekend's 21 quick questions she talks about French property dreams – and her worst stock purchase."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T14:16:07+01:00"
-      }
-    },
-    {
-      "id": "7a9ec279f25b",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/di-weekend/hon-ska-gora-miljardarens-halsobolag-langlivat",
-      "guid": "9cf32922-1a59-4b5a-a76b-7fbdb8da1892",
-      "published_at": "2026-11-19T14:00:00+01:00",
-      "fetched_at": "2026-11-19T14:15:47+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/14ac72d5-3b18-45ca-aa86-d7ed81b242d4.jpeg?width=600",
-      "sv": {
-        "title": "Hon ska göra miljardärens hälsobolag långlivat",
-        "summary": "Estelle Nordenfalk lämnade en tv-karriär för yoga och syrgasbehandlingar. Nu driver hon en longevityklinik med Spotify-miljardären Martin Lorentzon. ”Jag är bra på att snappa upp trender och strömningar i tiden”, säger hon till Di Weekend.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "She will make the billionaire's health company long-lived",
-        "summary": "Estelle Nordenfalk left a TV career for yoga and oxygen treatments. Now she runs a longevity clinic with Spotify billionaire Martin Lorentzon. “I'm good at picking up trends and currents of the times”, she tells Di Weekend."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T14:16:07+01:00"
-      }
-    },
-    {
-      "id": "c13659c92880",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/di-weekend/succegloggen-till-julminglet",
-      "guid": "b61da634-0688-4e32-ba4e-fe4db7b5f8a8",
-      "published_at": "2026-11-19T14:00:00+01:00",
-      "fetched_at": "2026-11-19T14:15:47+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/aa07d8ba-04d6-422b-81e4-e5632f6b2c7b.jpeg?width=600",
-      "sv": {
-        "title": "Succéglöggen till julminglet",
-        "summary": "En dryg månad återstår till jul och det är dags att börja planera årets glöggmingel. Di Weekends dryckesexpert Per Styregård tipsar om dryckerna som gör succé – och slår ett slag för fottrampat dessertvin.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The successful mulled wine for the Christmas mingle",
-        "summary": "A good month remains until Christmas and it is time to start planning this year's mulled wine mingle. Di Weekend's drinks expert Per Styregård recommends the drinks that are a hit – and puts in a good word for foot-trodden dessert wine."
       },
       "translation": {
         "status": "done",

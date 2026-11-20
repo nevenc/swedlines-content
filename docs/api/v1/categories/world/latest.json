@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-20T11:01:27+01:00",
+  "generated_at": "2026-11-20T11:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f9aba1846019",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f109c6b3-8a68-4ced-93d1-839cb1c3060c",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f109c6b3-8a68-4ced-93d1-839cb1c3060c",
+      "published_at": "2026-11-20T11:12:18+01:00",
+      "fetched_at": "2026-11-20T11:15:47+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Rysk robot i polskt luftrum",
+        "summary": "Uppger landets militär",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russian drone in Polish airspace",
+        "summary": "Says the country's military"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T11:15:54+01:00"
+      }
+    },
+    {
+      "id": "47916cdb6ac4",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/insandare/svar-decenniers-fortryck-av-palestinierna-ar-ingen-oviktig-detalj",
+      "guid": "https://www.dn.se/insandare/svar-decenniers-fortryck-av-palestinierna-ar-ingen-oviktig-detalj/",
+      "published_at": "2026-11-20T11:10:00+01:00",
+      "fetched_at": "2026-11-20T11:15:45+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/9b26e0fd-234a-446e-8baa-89ecf09911a1.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Insändare. Svar: Decenniers förtryck av palestinierna är ingen oviktig detalj",
+        "summary": "SVAR PÅ INSÄNDARE. Att de flesta försvarare av Israel inte ens nämner decennier av ockupation och förtryck av palestinierna säger det mesta. Kanske ser de det som en oviktig detalj enbart? undrar Börje Ståhl.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Letter. Reply: Decades of oppression of Palestinians is not an unimportant detail",
+        "summary": "REPLY TO LETTER. That most defenders of Israel do not even mention decades of occupation and oppression of the Palestinians says most of it. Perhaps they see it as merely an unimportant detail? wonders Börje Ståhl."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T11:15:54+01:00"
+      }
+    },
     {
       "id": "ee88ad52e7fe",
       "schema_version": 1,
@@ -5345,59 +5398,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T14:31:07+01:00"
-      }
-    },
-    {
-      "id": "eeef82189000",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9345315",
-      "guid": "rss:sr.se/article/9345315",
-      "published_at": "2026-11-18T14:10:00+01:00",
-      "fetched_at": "2026-11-18T14:15:44+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Xi vill stärka banden med Ryssland",
-        "summary": "Kinas och Rysslands ledare, Xi Jinping och Vladimir Putin, har hållit ett möte på tu man hand innan det stora toppmötet i Shenzen med USAs president Trump. Xi sade efter dagens möte att Kina och Ryssland borde samarbeta ännu tätare - och stärka banden.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Xi wants to strengthen ties with Russia",
-        "summary": "China's and Russia's leaders, Xi Jinping and Vladimir Putin, have held a one-on-one meeting ahead of the major summit in Shenzen with US President Trump. After today's meeting, Xi said that China and Russia should cooperate even more closely - and strengthen ties."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T14:15:54+01:00"
-      }
-    },
-    {
-      "id": "8d5b40ab27d3",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/pMLVmE/trots-oenighet-kan-bli-usa-s-forsta-svarta-talman",
-      "guid": "https://www.svd.se/a/pMLVmE/trots-oenighet-kan-bli-usa-s-forsta-svarta-talman?utm_medium=rss",
-      "published_at": "2026-11-18T14:04:42+01:00",
-      "fetched_at": "2026-11-18T14:15:45+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/d698eb9a-b804-3ca0-a6f1-340e3a6b1848?format=auto&s=c5a8507b56d98e386fa4527e80e5bb3b3865c0a2&w=1000",
-      "sv": {
-        "title": "Trots oenighet: Kan bli USA:s första svarta talman",
-        "summary": "Demokraterna i USA:s representanthus samlas nu bakom stängda dörrar för att rösta fram sin…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Despite disagreement: could become the first Black speaker of the US House",
-        "summary": "Democrats in the US House of Representatives are gathering behind closed doors to vote for their…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T14:15:54+01:00"
       }
     }
   ]

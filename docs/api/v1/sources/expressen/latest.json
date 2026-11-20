@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T11:01:27+01:00",
+  "generated_at": "2026-11-20T11:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f9aba1846019",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=f109c6b3-8a68-4ced-93d1-839cb1c3060c",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=f109c6b3-8a68-4ced-93d1-839cb1c3060c",
+      "published_at": "2026-11-20T11:12:18+01:00",
+      "fetched_at": "2026-11-20T11:15:47+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Rysk robot i polskt luftrum",
+        "summary": "Uppger landets militär",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russian drone in Polish airspace",
+        "summary": "Says the country's military"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T11:15:54+01:00"
+      }
+    },
     {
       "id": "c74da98f781a",
       "schema_version": 1,
@@ -5158,32 +5184,6 @@
       "en": {
         "title": "Major bridges hit in Kyiv",
         "summary": "Attack on the capital"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T06:01:18+01:00"
-      }
-    },
-    {
-      "id": "9b38718ac488",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/krimbron-attackerad-",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/krimbron-attackerad-",
-      "published_at": "2026-11-17T05:53:30+01:00",
-      "fetched_at": "2026-11-17T06:01:11+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Putins bro sprängd",
-        "summary": "Hämnden timmar efter attacken mot Kiev • Stopp på Krim",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Putin's bridge blown up",
-        "summary": "Revenge hours after the attack on Kyiv • Halt in Crimea"
       },
       "translation": {
         "status": "done",

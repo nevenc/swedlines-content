@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-20T11:01:27+01:00",
+  "generated_at": "2026-11-20T11:15:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9174721072a9",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/KL3XVG/man-misstanks-for-knivhugg-mot-taxichauffor",
+      "guid": "https://www.aftonbladet.se/nyheter/a/KL3XVG/man-misstanks-for-knivhugg-mot-taxichauffor?utm_medium=rss",
+      "published_at": "2026-11-20T11:05:11+01:00",
+      "fetched_at": "2026-11-20T11:15:46+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/95d80ef5-2d5e-3919-9f4b-82c835d46bf6?format=auto&s=4f9cf9032d2586f3ab4d7b8774d35f459666dd8c&w=1000",
+      "sv": {
+        "title": "Man misstänks för knivhugg mot taxichaufför",
+        "summary": "En man misstänks ha hotat och huggit mot en taxichaufför med kniv när resan skulle betalas, skriver…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man suspected of stabbing taxi driver",
+        "summary": "A man is suspected of having threatened and stabbed a taxi driver with a knife when the fare was to be paid, writes…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T11:15:54+01:00"
+      }
+    },
     {
       "id": "8c328834b5fa",
       "schema_version": 1,
@@ -670,6 +697,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T22:15:56+01:00"
+      }
+    },
+    {
+      "id": "8d75466c5a98",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/klimat/a/0vnOWg/vill-se-stopp-for-okand-klimatvarsting",
+      "guid": "https://www.aftonbladet.se/nyheter/klimat/a/0vnOWg/vill-se-stopp-for-okand-klimatvarsting?utm_medium=rss",
+      "published_at": "2026-11-19T21:45:20+01:00",
+      "fetched_at": "2026-11-20T11:15:46+01:00",
+      "category": "science_tech",
+      "image_url": "https://akamai.vgc.no/v2/images/987eac52-a377-3c75-a81e-566e63b5a294?format=auto&s=ddcd8082566f1eba47f58dc81365bed5999b561d&w=1000",
+      "sv": {
+        "title": "Vill se stopp för okänd klimatvärsting",
+        "summary": "COP31 ”Hade inte hört talas om den”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Wants to stop unknown climate villain",
+        "summary": "COP31 \"Had not heard of it\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-20T11:15:54+01:00"
       }
     },
     {
@@ -5318,60 +5372,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T13:31:17+01:00"
-      }
-    },
-    {
-      "id": "f0d0450c6484",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/r8Ad1w/beslut-ny-lag-ska-tas-fram-mot-utvisningar",
-      "guid": "https://www.aftonbladet.se/nyheter/a/r8Ad1w/beslut-ny-lag-ska-tas-fram-mot-utvisningar?utm_medium=rss",
-      "published_at": "2026-11-17T12:46:49+01:00",
-      "fetched_at": "2026-11-17T13:01:11+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/d2636be3-a727-308c-bcdd-eb45872718a3?format=auto&s=e3bac2a321daec8c8613d2e8dda4039e2fab038a&w=1000",
-      "sv": {
-        "title": "Beslut: Ny lag ska tas fram mot utvisningar",
-        "summary": "Ett nytt beslut har fattats i riksdagen om inriktningen för en stopplag mot utvisningar av unga…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Decision: New law to be drawn up against deportations",
-        "summary": "A new decision has been made in the Riksdag on the direction of a stop law against deportations of young people…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:01:18+01:00"
-      }
-    },
-    {
-      "id": "afa9403d9a39",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/mMR8dE/praster-far-fortsatta-neka-samkonade-vigslar",
-      "guid": "https://www.aftonbladet.se/nyheter/a/mMR8dE/praster-far-fortsatta-neka-samkonade-vigslar?utm_medium=rss",
-      "published_at": "2026-11-17T12:40:41+01:00",
-      "fetched_at": "2026-11-17T14:45:42+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/a3fb41ad-0f56-3fb3-90fc-e96bfc810649?format=auto&s=92ed3930b34c642e434e4cf388639de6768d594b&w=1000",
-      "sv": {
-        "title": "Präster får fortsätta neka samkönade vigslar",
-        "summary": "Stor präst-debatt i Svenska kyrkan",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Priests may continue to refuse same-sex weddings",
-        "summary": "Major priest debate in the Church of Sweden"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T14:45:49+01:00"
       }
     }
   ]
