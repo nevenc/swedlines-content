@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-11-21T00:15:55+01:00",
+  "generated_at": "2026-11-21T00:31:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "df71af958d91",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/bayern-harry-kane-borta-i-manader",
+      "guid": "76ef7eb7-13c1-49f1-b252-3dcd21307b4e",
+      "published_at": "2026-11-21T00:18:06+01:00",
+      "fetched_at": "2026-11-21T00:31:01+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/f08f6c2b-476e-4553-a97c-9548e05a8fd2.jpg?width=600",
+      "sv": {
+        "title": "Bayern: Harry Kane borta i månader"
+      },
+      "en": {
+        "title": "Bayern: Harry Kane out for months"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T00:31:03+01:00"
+      }
+    },
+    {
+      "id": "6d015e1de76b",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/2vGwAq/aliette-opheim-om-javla-karlar-recensioner-och-seriemordare",
+      "guid": "https://www.svd.se/a/2vGwAq/aliette-opheim-om-javla-karlar-recensioner-och-seriemordare?utm_medium=rss",
+      "published_at": "2026-11-21T00:15:00+01:00",
+      "fetched_at": "2026-11-21T00:30:57+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/8c844c84-9d51-365f-9a2f-9684e8772d69?format=auto&s=1317d3651c4a3f71e5dd1c01ec114c417cdca0d2&w=1000",
+      "sv": {
+        "title": "”Mysigt till en början – nu redo för psyket”",
+        "summary": "Aliette Opheim får psykbryt, går på kinesisk afton och tror sig se en seriemördare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Cozy at first – now ready for the psyche\"",
+        "summary": "Aliette Opheim has a psychotic break, goes to a Chinese evening and thinks she sees a serial killer."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T00:31:03+01:00"
+      }
+    },
+    {
+      "id": "7330f993b6a0",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/6PjMKz/geilo-norges-basta-skidort-med-naturupplevelser",
+      "guid": "https://www.svd.se/a/6PjMKz/geilo-norges-basta-skidort-med-naturupplevelser?utm_medium=rss",
+      "published_at": "2026-11-21T00:15:00+01:00",
+      "fetched_at": "2026-11-21T00:30:57+01:00",
+      "category": "sweden",
+      "image_url": "https://akamai.vgc.no/v2/images/e1bd25c7-762f-3ca6-9a36-48d6b6b7f7cd?format=auto&s=872d719b4824b24b61ddaf2c43ad2330ecf9c426&w=1000",
+      "sv": {
+        "title": "Mer än skidåkning som lockar",
+        "summary": "Norges bästa skidort åtta år i rad – men i Geilo handlar inte allt om skidåkning.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "More than skiing draws people",
+        "summary": "Norway's best ski resort eight years in a row – but in Geilo, not everything is about skiing."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T00:31:03+01:00"
+      }
+    },
     {
       "id": "eec3a4d5d248",
       "schema_version": 1,
@@ -5367,84 +5445,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "f3c474fc791a",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/ost/nu-sitter-varmekyrkans-adventsljus-pa-plats",
-      "guid": "https://www.svt.se/nyheter/lokalt/ost/nu-sitter-varmekyrkans-adventsljus-pa-plats",
-      "published_at": "2026-11-20T16:06:20+01:00",
-      "fetched_at": "2026-11-20T16:15:51+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Nu sitter Värmekyrkans adventsljus på plats",
-        "summary": "Under fredagsförmiddagen monterades adventsljusen på Värmekyrkans tak i Norrköping. Ett populärt landmärke som lyst upp staden i juletid sedan millennieskiftet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Värmekyrkan's Advent lights are now in place",
-        "summary": "On Friday morning the Advent lights were mounted on the roof of Värmekyrkan in Norrköping. A popular landmark that has lit up the city at Christmas since the turn of the millennium."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:16:03+01:00"
-      }
-    },
-    {
-      "id": "a64facf26e63",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/unibet-ligger-nere-efter-cyberattack",
-      "guid": "7a1a9600-992d-430c-b297-9b99939518c1",
-      "published_at": "2026-11-20T16:06:01+01:00",
-      "fetched_at": "2026-11-20T16:15:56+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Unibet ligger nere efter cyberattack",
-        "summary": "Spelbolaget Unibets sajt ligger nere efter en cyberattack.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unibet site down after cyberattack",
-        "summary": "The betting company Unibet's website is down after a cyberattack."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:16:03+01:00"
-      }
-    },
-    {
-      "id": "abf6a09b6276",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/jonkoping/skracksiffran-tre-aldre-har-dott-i-brander-i-jonkopings-lan-pa-nio-dagar",
-      "guid": "https://www.svt.se/nyheter/lokalt/jonkoping/skracksiffran-tre-aldre-har-dott-i-brander-i-jonkopings-lan-pa-nio-dagar",
-      "published_at": "2026-11-20T16:05:42+01:00",
-      "fetched_at": "2026-11-20T16:15:51+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Skräcksiffran – tre äldre har dött i bränder i Jönköpings län på nio dagar",
-        "summary": "December brukar vara den månad då det sker flest brandtillbud i bostäder, men i år har november stuckit ut, hittills har tre äldre män dött i bränder i bostäder i Jönköpings län.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Alarming figure – three elderly people have died in fires in Jönköping County in nine days",
-        "summary": "December is usually the month with the most residential fire incidents, but this year November has stood out; so far three elderly men have died in residential fires in Jönköping County."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:16:03+01:00"
       }
     }
   ]

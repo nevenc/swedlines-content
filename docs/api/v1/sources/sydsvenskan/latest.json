@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-21T00:15:55+01:00",
+  "generated_at": "2026-11-21T00:31:03+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "df71af958d91",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/bayern-harry-kane-borta-i-manader",
+      "guid": "76ef7eb7-13c1-49f1-b252-3dcd21307b4e",
+      "published_at": "2026-11-21T00:18:06+01:00",
+      "fetched_at": "2026-11-21T00:31:01+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/f08f6c2b-476e-4553-a97c-9548e05a8fd2.jpg?width=600",
+      "sv": {
+        "title": "Bayern: Harry Kane borta i månader"
+      },
+      "en": {
+        "title": "Bayern: Harry Kane out for months"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T00:31:03+01:00"
+      }
+    },
     {
       "id": "3f76393849e6",
       "schema_version": 1,
@@ -5185,29 +5209,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T15:45:51+01:00"
-      }
-    },
-    {
-      "id": "03ef64b930bd",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/122-kvadratmeter-stort-hus-i-oxie-salt-e97Ym",
-      "guid": "5ce1e7dd-f8fd-427b-b182-daec3823030a",
-      "published_at": "2026-11-18T15:16:47+01:00",
-      "fetched_at": "2026-11-18T15:31:04+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "122 kvadratmeter stort hus i Oxie sålt"
-      },
-      "en": {
-        "title": "122 square metre house in Oxie sold"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T15:31:08+01:00"
       }
     }
   ]
