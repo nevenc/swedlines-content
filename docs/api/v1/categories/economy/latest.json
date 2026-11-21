@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T15:15:47+01:00",
+  "generated_at": "2026-11-21T15:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "31dbe736ee5a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/tv4-laser-in-shl-i-langt-avtal",
+      "guid": "913e6ef7-8e5f-41fa-9a53-46a29f5be4bf",
+      "published_at": "2026-11-21T15:17:11+01:00",
+      "fetched_at": "2026-11-21T15:31:03+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/af0f79d3-1dec-4532-a5b9-c583344b393a.jpeg?width=600",
+      "sv": {
+        "title": "TV4 låser in SHL i långt avtal",
+        "summary": "TV4 tecknar ett nytt flerårsavtal med Svenska Hockeyligan, SHL. Nu ska sport i tv-sofforna göra tv-bolaget till landets största streamingstjänst, enligt TV4-chefen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "TV4 locks in the SHL with a long contract",
+        "summary": "TV4 signs a new multi-year agreement with the Swedish Hockey League, SHL. Now sport in the TV sofas is to make the broadcaster the country's largest streaming service, according to the TV4 chief."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T15:31:08+01:00"
+      }
+    },
     {
       "id": "963d51301969",
       "schema_version": 1,
@@ -5310,33 +5337,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T09:45:59+01:00"
-      }
-    },
-    {
-      "id": "2b93103c8845",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/ez8zOR/kommer-hemnet-att-kopas-ut-fran-borsen",
-      "guid": "https://www.svd.se/a/ez8zOR/kommer-hemnet-att-kopas-ut-fran-borsen?utm_medium=rss",
-      "published_at": "2026-11-20T09:29:53+01:00",
-      "fetched_at": "2026-11-20T09:30:59+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/958fe0a0-4e1c-3915-b385-f0a84c7cc2ef?format=auto&s=516df930aa01cd206fd91b0b6977ce6cb4f1024f&w=1000",
-      "sv": {
-        "title": "Kommer Hemnet bli kvar på börsen?",
-        "summary": "Från folkligt helgnöje till börsraket – och därefter till stadigt fallande aktiekurs.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Will Hemnet stay on the stock exchange?",
-        "summary": "From popular Sunday pastime to stock market surge – and then to a steadily falling share price."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T09:31:07+01:00"
       }
     }
   ]

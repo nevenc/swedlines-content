@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-21T15:15:47+01:00",
+  "generated_at": "2026-11-21T15:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5a8b372c93c3",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80160",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80160&utm_medium=rss",
+      "published_at": "2026-11-21T15:14:58+01:00",
+      "fetched_at": "2026-11-21T15:31:01+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Journalisten Disa Håstad död"
+      },
+      "en": {
+        "title": "Journalist Disa Håstad dead"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T15:31:08+01:00"
+      }
+    },
     {
       "id": "883622266ffc",
       "schema_version": 1,
@@ -5209,33 +5232,6 @@
       "en": {
         "title": "Nuclear power is being built faster than GTA",
         "summary": "Some get decades to develop the next product. Others see their life's work shelved, despite…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T20:15:50+01:00"
-      }
-    },
-    {
-      "id": "2353b130f2d2",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wdPE4M/anthropics-borsnotering-sa-mycket-varderas-bolaget-till-och-sa-mycket-behover-det-vaxa",
-      "guid": "https://www.svd.se/a/wdPE4M/anthropics-borsnotering-sa-mycket-varderas-bolaget-till-och-sa-mycket-behover-det-vaxa?utm_medium=rss",
-      "published_at": "2026-11-18T20:02:18+01:00",
-      "fetched_at": "2026-11-18T20:15:43+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/b2d05249-fd81-36aa-a536-bccea8b4aaf5?format=auto&s=775638061f4b4559fb86bd5a9045f31bced10a0c&w=1000",
-      "sv": {
-        "title": "Anthropics värdering är galen – men inte ologisk",
-        "summary": "Anthropic hoppas på en värdering på minst 1 260 miljarder dollar när bolaget går till börsen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anthropic's valuation is crazy – but not illogical",
-        "summary": "Anthropic hopes for a valuation of at least USD 1,260 billion when the company goes public."
       },
       "translation": {
         "status": "done",
