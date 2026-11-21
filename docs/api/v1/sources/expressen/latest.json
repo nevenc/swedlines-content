@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T17:45:55+01:00",
+  "generated_at": "2026-11-21T18:01:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1c6e317c054b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trumps-iranlofte-om-vi-har-en-inkompetent-president",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-iranlofte-om-vi-har-en-inkompetent-president/",
+      "published_at": "2026-11-21T17:57:58+01:00",
+      "fetched_at": "2026-11-21T18:01:13+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trumps Iranlöfte: ”Om vi har en inkompetent president”",
+        "summary": "Donald Trump vill få till ett ”permanent” avtal med Iran. Det säger han till Fox News. – Ifall vi har en inkompetent president om 4 år eller 15 år eller 20 år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's Iran pledge: \"If we have an incompetent president\"",
+        "summary": "Donald Trump wants to reach a \"permanent\" agreement with Iran. He says so to Fox News. – If we have an incompetent president in 4 years or 15 years or 20 years."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T18:01:17+01:00"
+      }
+    },
     {
       "id": "9c3504b7f361",
       "schema_version": 1,
@@ -5164,32 +5190,6 @@
       "en": {
         "title": "SMHI warns: Severe slippery roads",
         "summary": "SMHI warns of sudden ice on the roads around Umeå and Luleå."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T14:31:07+01:00"
-      }
-    },
-    {
-      "id": "777a27c7227e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=34b7cc65-bf9a-4bc0-b685-35a2abd9c765",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=34b7cc65-bf9a-4bc0-b685-35a2abd9c765",
-      "published_at": "2026-11-18T14:16:40+01:00",
-      "fetched_at": "2026-11-18T14:31:00+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Åhléns varslar: ”Är nödvändigt”",
-        "summary": "80 anställda tvingas lämna",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Åhléns issues redundancy notice: \"Is necessary\"",
-        "summary": "80 employees forced to leave"
       },
       "translation": {
         "status": "done",

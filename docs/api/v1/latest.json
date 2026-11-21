@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T17:45:55+01:00",
+  "generated_at": "2026-11-21T18:01:17+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1c6e317c054b",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trumps-iranlofte-om-vi-har-en-inkompetent-president",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-iranlofte-om-vi-har-en-inkompetent-president/",
+      "published_at": "2026-11-21T17:57:58+01:00",
+      "fetched_at": "2026-11-21T18:01:13+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trumps Iranlöfte: ”Om vi har en inkompetent president”",
+        "summary": "Donald Trump vill få till ett ”permanent” avtal med Iran. Det säger han till Fox News. – Ifall vi har en inkompetent president om 4 år eller 15 år eller 20 år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's Iran pledge: \"If we have an incompetent president\"",
+        "summary": "Donald Trump wants to reach a \"permanent\" agreement with Iran. He says so to Fox News. – If we have an incompetent president in 4 years or 15 years or 20 years."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T18:01:17+01:00"
+      }
+    },
     {
       "id": "c4887de24dbc",
       "schema_version": 1,
@@ -5410,32 +5436,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T10:01:26+01:00"
-      }
-    },
-    {
-      "id": "40ed76710e5c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/fada-72-dodades-av-bosattare-de-skot-farmor",
-      "guid": "https://www.expressen.se/nyheter/varlden/fada-72-dodades-av-bosattare-de-skot-farmor/",
-      "published_at": "2026-11-21T09:40:56+01:00",
-      "fetched_at": "2026-11-21T09:45:44+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Fada, 72, dödades av bosättare: ”De sköt farmor”",
-        "summary": "Palestinska Fada Fheidat dödades utanför sitt hus. En israelisk bosättare sköt den 72-åriga kvinnan i huvudet i hennes hemby intill Jeriko på Västbanken. – Hennes bakhuvud var krossat, jag blev helt nedblodad, säger Achmed Fheidat som försökte bära bort sin släkting.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fada, 72, killed by settlers: \"They shot grandma\"",
-        "summary": "Palestinian Fada Fheidat was killed outside her house. An Israeli settler shot the 72-year-old woman in the head in her home village near Jericho in the West Bank. \"Her back of the head was crushed, I was completely covered in blood,\" says Achmed Fheidat, who tried to carry his relative away."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:45:49+01:00"
       }
     }
   ]
