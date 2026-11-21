@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T17:01:20+01:00",
+  "generated_at": "2026-11-21T17:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "78b14f92f996",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/ez8vvR/hilma-af-klint-sa-blev-hon-en-konstikon",
+      "guid": "https://www.svd.se/a/ez8vvR/hilma-af-klint-sa-blev-hon-en-konstikon?utm_medium=rss",
+      "published_at": "2026-11-21T17:11:17+01:00",
+      "fetched_at": "2026-11-21T17:15:43+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/40a71d21-401d-3aa3-b31b-8050ee475b2f?format=auto&s=e8c6df755a993c825ef34c1d083bf4e7418b63fc&w=1000",
+      "sv": {
+        "title": "Så blev Hilma af Klint en internationell ikon",
+        "summary": "Hennes affischer pryder svenska vardagsrum. Nu säljs målningarna för över 100 miljoner kronor.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How Hilma af Klint became an international icon",
+        "summary": "Her posters adorn Swedish living rooms. Now the paintings are being sold for over SEK 100 million."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:15:50+01:00"
+      }
+    },
     {
       "id": "1fb46db9c80d",
       "schema_version": 1,
@@ -5212,33 +5239,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T22:01:19+01:00"
-      }
-    },
-    {
-      "id": "1aab40b68cbe",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wdP44G/missen-skyltade-med-ryska-stridsvagnar",
-      "guid": "https://www.svd.se/a/wdP44G/missen-skyltade-med-ryska-stridsvagnar?utm_medium=rss",
-      "published_at": "2026-11-18T21:04:24+01:00",
-      "fetched_at": "2026-11-18T21:15:45+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/c803aaa3-24b0-3271-8d5f-4bd72b10626e?format=auto&s=9c3628593c5298c0203ffb4577b7feb6af727d89&w=480",
-      "sv": {
-        "title": "Missen: Skyltade med ryska stridsvagnar",
-        "summary": "Nya vägskyltar sattes upp i Norrbotten som en anpassning till Nato – men tas nu ner.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Missen: Signposted with Russian tanks",
-        "summary": "New road signs were put up in Norrbotten as an adaptation to NATO – but are now being taken down."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T21:15:54+01:00"
       }
     }
   ]

@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-21T17:01:20+01:00",
+  "generated_at": "2026-11-21T17:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1390767f609d",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347676",
+      "guid": "rss:sr.se/article/9347676",
+      "published_at": "2026-11-21T17:12:00+01:00",
+      "fetched_at": "2026-11-21T17:15:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Nytt miljardbud kan dubbla Sveriges EU-avgift: ”Den måste ner”",
+        "summary": "EU:s ordförande António Costa har kommit med nytt förslag i den svåra frågan om EU:s nästa långtidsbudget som avgör vad EU ska satsa på de kommande åren. Sveriges regering är fortsatt kritisk då det, enligt initiala beräkningar, kan öka Sveriges bidrag till budgeten med 50 procent.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "New billion-euro-scale bid could double Sweden's EU fee: \"It must come down\"",
+        "summary": "EU Council President António Costa has put forward a new proposal in the difficult question of the EU's next long-term budget, which determines what the EU will invest in in the coming years. The Swedish government remains critical, as according to initial calculations it could increase Sweden's contribution to the budget by 50 percent."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:15:50+01:00"
+      }
+    },
+    {
+      "id": "13124dead017",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/minst-fyra-doda-i-israeliskt-angrepp-i-gaza",
+      "guid": "16f6ea12-76f7-47ef-9628-339553fa6876",
+      "published_at": "2026-11-21T17:04:34+01:00",
+      "fetched_at": "2026-11-21T17:15:47+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/e809a711-d6a4-486b-a867-e8cbdbd1ccc2.jpg?width=600",
+      "sv": {
+        "title": "Minst fyra döda i israeliskt angrepp i Gaza",
+        "summary": "Tre personer som fraktade förnödenheter i ett fordon till behövande på Gazaremsan dödades i ett angrepp på lördagen, uppger den av terrorstämplade Hamas kontrollerade civilförsvarsmyndigheten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "At least four dead in Israeli strike in Gaza",
+        "summary": "Three people who were transporting supplies by vehicle to those in need in the Gaza Strip were killed in a strike on Saturday, according to the civil defence authority controlled by Hamas, which is designated as a terrorist organisation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:15:50+01:00"
+      }
+    },
     {
       "id": "947fbc0e3274",
       "schema_version": 1,
@@ -262,6 +315,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T15:01:15+01:00"
+      }
+    },
+    {
+      "id": "49d228cfe4cb",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/7P0gA3/rysk-helikopter-i-finskt-luftrum",
+      "guid": "https://www.aftonbladet.se/nyheter/a/7P0gA3/rysk-helikopter-i-finskt-luftrum?utm_medium=rss",
+      "published_at": "2026-11-21T14:56:25+01:00",
+      "fetched_at": "2026-11-21T17:15:44+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/bd9cf4fc-6563-39ae-b3cf-1909d44731b2?format=auto&s=bab1dda43c26b6b748a20b7ea85a3394fcc65336&w=1000",
+      "sv": {
+        "title": "Rysk helikopter i finskt luftrum",
+        "summary": "Helikopter i finskt luftrum ✓ Fartyg på drift",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russian helicopter in Finnish airspace",
+        "summary": "Helicopter in Finnish airspace ✓ Ships on standby"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:15:50+01:00"
       }
     },
     {
@@ -5296,86 +5376,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T07:01:13+01:00"
-      }
-    },
-    {
-      "id": "9e4bd00bb19e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/trump-missade-kim",
-      "guid": "https://www.expressen.se/nyheter/varlden/trump-missade-kim/",
-      "published_at": "2026-11-20T00:44:24+01:00",
-      "fetched_at": "2026-11-20T01:01:13+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trump missade Kim",
-        "summary": "Förklaringen: Därför blev det inget möte",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump misses Kim",
-        "summary": "The explanation: why no meeting took place"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T01:01:17+01:00"
-      }
-    },
-    {
-      "id": "4c7b8508c9a1",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/4EqGQg/trump-for-upptagen-for-att-mota-kim",
-      "guid": "https://www.svd.se/a/4EqGQg/trump-for-upptagen-for-att-mota-kim?utm_medium=rss",
-      "published_at": "2026-11-20T00:38:26+01:00",
-      "fetched_at": "2026-11-20T00:45:46+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/bf818185-c98b-3aa2-8a53-d9ec877369d8?format=auto&s=85fba5eca6afe846ec735c5d0294df7bb2ba7f79&w=1000",
-      "sv": {
-        "title": "Trump: För upptagen för att möta Kim",
-        "summary": "USA:s president Donald Trump säger att han var för upptagen för att träffa Nordkoreas ledare Kim…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump: Too busy to meet Kim",
-        "summary": "US President Donald Trump says he was too busy to meet North Korean leader Kim…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T00:45:51+01:00"
-      }
-    },
-    {
-      "id": "67c4ae54ddb1",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/8PmzL1/trump-for-upptagen-for-att-mota-kim",
-      "guid": "https://www.aftonbladet.se/nyheter/a/8PmzL1/trump-for-upptagen-for-att-mota-kim?utm_medium=rss",
-      "published_at": "2026-11-20T00:38:26+01:00",
-      "fetched_at": "2026-11-20T00:45:47+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/bf818185-c98b-3aa2-8a53-d9ec877369d8?format=auto&s=85fba5eca6afe846ec735c5d0294df7bb2ba7f79&w=1000",
-      "sv": {
-        "title": "Trump: För upptagen för att möta Kim",
-        "summary": "USA:s president Donald Trump säger att han var för upptagen för att träffa Nordkoreas ledare Kim…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump: Too busy to meet Kim",
-        "summary": "US President Donald Trump says he was too busy to meet North Korean leader Kim…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T00:45:51+01:00"
       }
     }
   ]

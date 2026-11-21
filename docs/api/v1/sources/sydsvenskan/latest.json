@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T17:01:20+01:00",
+  "generated_at": "2026-11-21T17:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "13124dead017",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/minst-fyra-doda-i-israeliskt-angrepp-i-gaza",
+      "guid": "16f6ea12-76f7-47ef-9628-339553fa6876",
+      "published_at": "2026-11-21T17:04:34+01:00",
+      "fetched_at": "2026-11-21T17:15:47+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/e809a711-d6a4-486b-a867-e8cbdbd1ccc2.jpg?width=600",
+      "sv": {
+        "title": "Minst fyra döda i israeliskt angrepp i Gaza",
+        "summary": "Tre personer som fraktade förnödenheter i ett fordon till behövande på Gazaremsan dödades i ett angrepp på lördagen, uppger den av terrorstämplade Hamas kontrollerade civilförsvarsmyndigheten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "At least four dead in Israeli strike in Gaza",
+        "summary": "Three people who were transporting supplies by vehicle to those in need in the Gaza Strip were killed in a strike on Saturday, according to the civil defence authority controlled by Hamas, which is designated as a terrorist organisation."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:15:50+01:00"
+      }
+    },
     {
       "id": "59373d49be76",
       "schema_version": 1,
@@ -5202,33 +5229,6 @@
       "en": {
         "title": "Beaujolais nouveau – the wine fever taking over Malmö",
         "summary": "Some call it \"the worst wine of the year\". Others think \"Bojo\" day is more important than Christmas Eve. On the third Thursday in November, queues stretch long to Systembolaget when the first wine from this year's harvest is released."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:31:03+01:00"
-      }
-    },
-    {
-      "id": "7fd433fcb8ee",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/anthropic-bekraftar-aktiepris-satter-rekord",
-      "guid": "9779a78c-225b-4a67-8253-7ef044567a2a",
-      "published_at": "2026-11-19T06:20:45+01:00",
-      "fetched_at": "2026-11-19T06:30:57+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/14faca66-dba1-4f62-a9b0-238e14b851d5.jpg?width=600",
-      "sv": {
-        "title": "Anthropic bekräftar aktiepris – sätter rekord",
-        "summary": "AI-jätten Anthropic sätter sin introduktionskurs till 83 dollar per aktie inför noteringen på Nasdaq i New York, bekräftar bolaget.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anthropic confirms share price – sets record",
-        "summary": "AI giant Anthropic is setting its introductory price at 83 dollars per share ahead of the listing on Nasdaq in New York, the company confirms."
       },
       "translation": {
         "status": "done",
