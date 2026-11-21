@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T05:15:56+01:00",
+  "generated_at": "2026-11-21T05:31:07+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f3a2892bc92d",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/andy-burnhams-plan-ta-in-storbritannien-i-eu-igen",
+      "guid": "https://www.expressen.se/nyheter/varlden/andy-burnhams-plan-ta-in-storbritannien-i-eu-igen/",
+      "published_at": "2026-11-21T05:14:22+01:00",
+      "fetched_at": "2026-11-21T05:31:01+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Andy Burnhams plan: Ta in Storbritannien i EU igen",
+        "summary": "Andy Burnham planerar att ta tillbaka Storbritannien till EU. Det säger en högt uppsatt allierad till den brittiska premiärministern. Uppgifterna kommer samtidigt som landet tecknat ett nytt avtal med unionen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Andy Burnham's plan: Take the UK back into the EU",
+        "summary": "Andy Burnham plans to take the UK back into the EU. A senior ally of the British prime minister says so. The information comes as the country has signed a new agreement with the union."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T05:31:06+01:00"
+      }
+    },
     {
       "id": "d5488c22f834",
       "schema_version": 1,
@@ -5371,33 +5397,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T12:45:56+01:00"
-      }
-    },
-    {
-      "id": "25ab8220fb40",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/torbjorn-petersson-en-iscensatt-show-med-detaljerat-kinesiskt-manus",
-      "guid": "https://www.dn.se/varlden/torbjorn-petersson-en-iscensatt-show-med-detaljerat-kinesiskt-manus/",
-      "published_at": "2026-11-19T12:19:34+01:00",
-      "fetched_at": "2026-11-19T12:31:05+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/cae2af4d-5c10-48b1-af06-83860a196ebb.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Torbjörn Petersson: En iscensatt show med detaljerat kinesiskt manus",
-        "summary": "Peking. För den kinesiske ledaren Xi Jinping blev det en prestigevinst, för Vladimir Putin ett bevis för att omvärlden misslyckats med att isolera honom. Frågan är vad Donald Trump fick ut av det historiska mötet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Torbjörn Petersson: A staged show with a detailed Chinese script",
-        "summary": "Beijing. For Chinese leader Xi Jinping it was a prestige win; for Vladimir Putin, proof that the outside world has failed to isolate him. The question is what Donald Trump got out of the historic meeting."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T12:31:18+01:00"
       }
     }
   ]
