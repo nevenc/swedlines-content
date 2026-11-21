@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T09:01:22+01:00",
+  "generated_at": "2026-11-21T09:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bf505bc16171",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/ekonomi/aktier-och-bors/borsexpert-om-blodiga-fredagen-perfekt-cocktail",
+      "guid": "https://www.expressen.se/ekonomi/aktier-och-bors/borsexpert-om-blodiga-fredagen-perfekt-cocktail/",
+      "published_at": "2026-11-21T09:02:13+01:00",
+      "fetched_at": "2026-11-21T09:15:44+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Börsexpert om blodiga fredagen: ”Perfekt cocktail”",
+        "summary": "Wall Street bjöd på en blodig fredag med massiva ras för AI- och chipbolag. ”Just nu känns det som en perfekt cocktail av saker marknaden inte gillar”, skriver Elin Benjaminsson, börsstrateg på nätbanken Avanza, till TT.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stock market expert on bloody Friday: \"Perfect cocktail\"",
+        "summary": "Wall Street had a bloody Friday with massive falls for AI and chip companies. \"Right now it feels like a perfect cocktail of things the market doesn't like,\" writes Elin Benjaminsson, head of market strategy at online bank Avanza, to TT."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T09:15:50+01:00"
+      }
+    },
     {
       "id": "3196a815185f",
       "schema_version": 1,
@@ -5286,33 +5312,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T08:01:15+01:00"
-      }
-    },
-    {
-      "id": "475260ce5bdb",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/stora-nedgangar-stockholmsborsen-vantas-sjunka",
-      "guid": "9d8feae1-abac-4614-a282-28ebe25be68e",
-      "published_at": "2026-11-20T07:52:27+01:00",
-      "fetched_at": "2026-11-20T07:56:06+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/de7f9fe6-79d9-473f-bf12-be2f863f213d.jpg?width=600",
-      "sv": {
-        "title": "Stora nedgångar – Stockholmsbörsen väntas sjunka",
-        "summary": "Stockholmsbörsen väntas inleda tydligt nedåt, enligt IG Markets.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Major declines – Stockholm stock exchange expected to fall",
-        "summary": "The Stockholm stock exchange is expected to open clearly lower, according to IG Markets."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:56:15+01:00"
       }
     }
   ]
