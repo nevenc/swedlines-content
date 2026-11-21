@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-21T03:01:14+01:00",
-  "count": 14,
+  "generated_at": "2026-11-21T03:15:50+01:00",
+  "count": 16,
   "items": [
+    {
+      "id": "6caefcda2c4d",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347232",
+      "guid": "rss:sr.se/article/9347232",
+      "published_at": "2026-11-21T03:00:00+01:00",
+      "fetched_at": "2026-11-21T03:15:41+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Staten vinnare på högre elpriser: ”Välkomna inkomster”",
+        "summary": "Både elpriset och elnätsavgifterna kan komma att höjas de kommande veckorna. ”Det är åt helvete”, säger Göran i Borgholm. Vinnaren är staten. För högre priser och avgifter betyder högre momsintäkter.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "State a winner as electricity prices rise: \"Welcome income\"",
+        "summary": "Both the electricity price and grid fees may rise in the coming weeks. \"It's bloody awful,\" says Göran in Borgholm. The winner is the state. Higher prices and fees mean higher VAT revenue."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T03:15:50+01:00"
+      }
+    },
+    {
+      "id": "a83cbbd1fb62",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trumps-ovantade-val-nar-han-far-fragan-om-valet",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-ovantade-val-nar-han-far-fragan-om-valet/",
+      "published_at": "2026-11-21T02:59:46+01:00",
+      "fetched_at": "2026-11-21T03:15:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trumps oväntade val – när han får frågan om valet",
+        "summary": "JD Vance eller Marco Rubio som Trumps efterträdare? För presidenten tycks svaret vara någon helt annan. – Han var bättre än de här två killarna, säger han vid en pressträff.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's unexpected choice – when asked about the election",
+        "summary": "JD Vance or Marco Rubio as Trump's successor? For the president, the answer appears to be someone else entirely. – He was better than these two guys, he says at a press conference."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T03:15:50+01:00"
+      }
+    },
     {
       "id": "860c0be3e7cc",
       "schema_version": 1,

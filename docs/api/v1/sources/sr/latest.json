@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T03:01:14+01:00",
+  "generated_at": "2026-11-21T03:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6caefcda2c4d",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347232",
+      "guid": "rss:sr.se/article/9347232",
+      "published_at": "2026-11-21T03:00:00+01:00",
+      "fetched_at": "2026-11-21T03:15:41+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Staten vinnare på högre elpriser: ”Välkomna inkomster”",
+        "summary": "Både elpriset och elnätsavgifterna kan komma att höjas de kommande veckorna. ”Det är åt helvete”, säger Göran i Borgholm. Vinnaren är staten. För högre priser och avgifter betyder högre momsintäkter.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "State a winner as electricity prices rise: \"Welcome income\"",
+        "summary": "Both the electricity price and grid fees may rise in the coming weeks. \"It's bloody awful,\" says Göran in Borgholm. The winner is the state. Higher prices and fees mean higher VAT revenue."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T03:15:50+01:00"
+      }
+    },
     {
       "id": "860c0be3e7cc",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T16:45:49+01:00"
-      }
-    },
-    {
-      "id": "dcc82e1c3570",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341263",
-      "guid": "rss:sr.se/article/9341263",
-      "published_at": "2026-11-15T15:52:00+01:00",
-      "fetched_at": "2026-11-15T16:01:10+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Tiotusentals på gatorna i Prag – demonstrerar för public service",
-        "summary": "Tiotusentals demonstrerar i Prag mot regeringens förslag att ändra finansieringen av public service, av oro för bolagens oberoende. Regeringen vill slopa licensavgiften och i stället finansiera via statsbudgeten, samtidigt som anslagen kan minska med 15–20 procent.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Tens of thousands on the streets of Prague – demonstrating for public service",
-        "summary": "Tens of thousands are demonstrating in Prague against the government's proposal to change the funding of public service, out of concern for the broadcasters' independence. The government wants to abolish the licence fee and instead finance public service through the state budget, while appropriations could fall by 15–20 percent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T16:01:23+01:00"
       }
     }
   ]

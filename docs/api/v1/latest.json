@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-21T03:01:14+01:00",
+  "generated_at": "2026-11-21T03:15:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6caefcda2c4d",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347232",
+      "guid": "rss:sr.se/article/9347232",
+      "published_at": "2026-11-21T03:00:00+01:00",
+      "fetched_at": "2026-11-21T03:15:41+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Staten vinnare på högre elpriser: ”Välkomna inkomster”",
+        "summary": "Både elpriset och elnätsavgifterna kan komma att höjas de kommande veckorna. ”Det är åt helvete”, säger Göran i Borgholm. Vinnaren är staten. För högre priser och avgifter betyder högre momsintäkter.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "State a winner as electricity prices rise: \"Welcome income\"",
+        "summary": "Both the electricity price and grid fees may rise in the coming weeks. \"It's bloody awful,\" says Göran in Borgholm. The winner is the state. Higher prices and fees mean higher VAT revenue."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T03:15:50+01:00"
+      }
+    },
+    {
+      "id": "a83cbbd1fb62",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/trumps-ovantade-val-nar-han-far-fragan-om-valet",
+      "guid": "https://www.expressen.se/nyheter/varlden/trumps-ovantade-val-nar-han-far-fragan-om-valet/",
+      "published_at": "2026-11-21T02:59:46+01:00",
+      "fetched_at": "2026-11-21T03:15:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trumps oväntade val – när han får frågan om valet",
+        "summary": "JD Vance eller Marco Rubio som Trumps efterträdare? För presidenten tycks svaret vara någon helt annan. – Han var bättre än de här två killarna, säger han vid en pressträff.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Trump's unexpected choice – when asked about the election",
+        "summary": "JD Vance or Marco Rubio as Trump's successor? For the president, the answer appears to be someone else entirely. – He was better than these two guys, he says at a press conference."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T03:15:50+01:00"
+      }
+    },
     {
       "id": "860c0be3e7cc",
       "schema_version": 1,
@@ -5373,60 +5425,6 @@
       "en": {
         "title": "Johan Esk: Of course I want to see clumsy Calle at the World Championships",
         "summary": "BRUKSVALLARNA. You know the ski season has started when Calle makes a blunder. Despite disqualification and a sore throat, I hope to see these 'neighbours' from Dalarna at the Falun World Championships: Calle Halfvarsson and Alvar Myhlback."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:20:57+01:00"
-      }
-    },
-    {
-      "id": "401284c02aea",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/viktlakemedel-kan-minska-effekt-av-p-piller",
-      "guid": "https://www.dn.se/sverige/viktlakemedel-kan-minska-effekt-av-p-piller/",
-      "published_at": "2026-11-20T16:15:32+01:00",
-      "fetched_at": "2026-11-20T16:15:52+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/af1efe38-bb6a-480d-8004-be662099b90d.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Viktläkemedel kan minska effekt av p-piller",
-        "summary": "Det finns risk att diabetes- och viktläkemedlet Mounjaro påverkar effekten av p-piller, enligt Läkemedelsverket. Den som använder läkemedlet uppmanas att också använda kondom eller andra skydd.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Weight-loss drugs may reduce the effect of the pill",
-        "summary": "There is a risk that the diabetes and weight-loss drug Mounjaro affects the effectiveness of contraceptive pills, according to the Medical Products Agency. Users of the drug are advised to also use condoms or other protection."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:16:03+01:00"
-      }
-    },
-    {
-      "id": "2d59e01153b1",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/aq-groups-vd-tankar-aktier-89bRq",
-      "guid": "a99763b4-b9de-4e14-bdbe-a0d2356dde03",
-      "published_at": "2026-11-20T16:14:34+01:00",
-      "fetched_at": "2026-11-20T16:20:53+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/1b5f29cb-8f2a-4e77-9925-2a7c6570bd15.jpeg?width=600",
-      "sv": {
-        "title": "AQ Groups vd tankar aktier",
-        "summary": "Verkstadsbolaget AQ Groups vd James Ahrgren har på fredagen köpt 3.200 AQ Group-aktier för 217,45 kronor styck, eller totalt 0,7 miljoner kronor. Det framgår av inrapportering till Finansinspektionens insynsregister.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "AQ Group CEO buys shares",
-        "summary": "AQ Group CEO James Ahrgren, of the engineering company, bought 3,200 AQ Group shares at SEK 217.45 each, or SEK 0.7 million in total on Friday. This is according to a report to the Financial Supervisory Authority's insider register."
       },
       "translation": {
         "status": "done",
