@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-21T10:15:54+01:00",
+  "generated_at": "2026-11-21T10:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4db225e079f6",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/orgryte-is/sa-slutar-bottenstriden-det-har-talar-for-och-emot-ois.6c5252c4-ae17-5f00-a1aa-e65a23941364",
+      "guid": "6c5252c4-ae17-5f00-a1aa-e65a23941364",
+      "published_at": "2026-11-21T10:08:46+01:00",
+      "fetched_at": "2026-11-21T10:31:08+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Örgryte IS",
+        "Tagg: Öis",
+        "Tagg: Örgryte IS"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/3017223f-7366-3c6d-a2d7-ae63d9709484",
+      "sv": {
+        "title": "Så slutar galna bottendramat för Öis: ”Deras största hopp”",
+        "summary": "Det här talar för och emot Öis i kampen om nytt kontrakt.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This is how the crazy relegation drama for Öis ends: ”Their biggest hope”",
+        "summary": "This is what speaks for and against Öis in the fight for a new contract."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:31:13+01:00"
+      }
+    },
     {
       "id": "7fb59d5f99a2",
       "schema_version": 1,
@@ -6887,40 +6919,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T17:45:55+01:00"
-      }
-    },
-    {
-      "id": "c6e5aeba31b0",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/klart-robert-pattinson-blir-nya-james-bond.b7eea6a8-c4d2-5117-80b4-e1113819b045",
-      "guid": "b7eea6a8-c4d2-5117-80b4-e1113819b045",
-      "published_at": "2026-11-16T16:49:15+01:00",
-      "fetched_at": "2026-11-16T17:15:44+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Kultur",
-        "Tagg: breaking-GP",
-        "Tagg: James Bond",
-        "Tagg: Robert Pattinson",
-        "Tagg: Daniel Craig"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/655e48ce-4dee-3a74-a18b-338c844dfda4",
-      "sv": {
-        "title": "Han blir nya James Bond",
-        "summary": "Det blir Robert Pattinson som tar över rollen som agent 007 efter Daniel Craig.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "He becomes the new James Bond",
-        "summary": "Robert Pattinson will take over the role of agent 007 from Daniel Craig."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T17:15:50+01:00"
       }
     }
   ]

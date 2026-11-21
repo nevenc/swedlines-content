@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T10:15:54+01:00",
+  "generated_at": "2026-11-21T10:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "abb81e325524",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/krim/misstanken-52-aring-drev-bordeller-med-sin-mamma-",
+      "guid": "https://www.expressen.se/nyheter/krim/misstanken-52-aring-drev-bordeller-med-sin-mamma-/",
+      "published_at": "2026-11-21T10:27:59+01:00",
+      "fetched_at": "2026-11-21T10:31:07+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Misstanken: 52-åring drev bordeller med sin ”mamma”",
+        "summary": "Tips från grannar avslöjade 16 lägenhetsbordeller i Stockholm, Göteborg och Malmö. Kvinnorna kom från hela världen, men i bakgrunden fanns en kinesisk man som samlade in stora mängder kontanter. Nu riskerar den 52-årige mannen och hans 60-åriga ”mamma” fängelse för bland annat grovt koppleri.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspicion: 52-year-old ran brothels with his ”mother”",
+        "summary": "Tips from neighbours exposed 16 apartment brothels in Stockholm, Göteborg and Malmö. The women came from all over the world, but behind them was a Chinese man who collected large amounts of cash. Now the 52-year-old man and his 60-year-old ”mother” risk prison, including for aggravated pimping."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:31:13+01:00"
+      }
+    },
     {
       "id": "fc7f71e128a2",
       "schema_version": 1,
@@ -5345,32 +5371,6 @@
       },
       "en": {
         "title": "Suspected attempted murder in Kalix"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T15:31:09+01:00"
-      }
-    },
-    {
-      "id": "9139e7a46792",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/norrbotten/mordforsok-i-kalix-man-gripen",
-      "guid": "https://www.svt.se/nyheter/lokalt/norrbotten/mordforsok-i-kalix-man-gripen",
-      "published_at": "2026-11-17T15:21:57+01:00",
-      "fetched_at": "2026-11-17T15:30:59+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Mordförsök i Kalix – man gripen",
-        "summary": "En man i 50-årsåldern har gripits misstänkt för mordförsök i centrala Kalix. Enligt polisen ska mannen ha betett sig hotfullt mot andra – och en person ska ha skadats.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Attempted murder in Kalix – man arrested",
-        "summary": "A man in his 50s has been arrested on suspicion of attempted murder in central Kalix. According to police, the man is said to have behaved threateningly towards others – and one person is said to have been injured."
       },
       "translation": {
         "status": "done",

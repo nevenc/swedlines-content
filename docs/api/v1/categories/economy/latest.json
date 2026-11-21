@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-21T10:15:54+01:00",
+  "generated_at": "2026-11-21T10:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bf55bef28234",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/oro-pa-toppmote-pa-overtid-alarmerande",
+      "guid": "5273b7d9-0b50-4dc4-b1bd-00ce84750468",
+      "published_at": "2026-11-21T10:24:59+01:00",
+      "fetched_at": "2026-11-21T10:31:07+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/830cd12c-4841-4083-8d88-876cbcd0acd4.jpg?width=600",
+      "sv": {
+        "title": "Oro på toppmöte på övertid: ”Alarmerande”",
+        "summary": "FN:s klimattoppmöte skulle ha avslutats på fredagskvällen, men förhandlingarna fortsätter. Rachel Cleetus vid organisationen Union of Concerned Scientists ser en stor risk att mötet slutar i besvikelse. ”Tyvärr verkar det nästan 100 procent garanterat”, säger hon till TT.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Concern at summit in overtime: ”Alarming”",
+        "summary": "The UN climate summit was due to end on Friday evening, but negotiations continue. Rachel Cleetus of the Union of Concerned Scientists sees a major risk that the meeting ends in disappointment. ”Unfortunately it seems almost 100 percent guaranteed”, she tells TT."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:31:13+01:00"
+      }
+    },
+    {
+      "id": "b9bc79152a03",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/tva-fartyg-attackerade-i-hormuz",
+      "guid": "f4e065fa-d63f-4d7d-8a94-7db2de85c047",
+      "published_at": "2026-11-21T10:12:56+01:00",
+      "fetched_at": "2026-11-21T10:31:07+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c3d9d57b-28ab-4945-b9ba-7f48db13d238.jpg?width=600",
+      "sv": {
+        "title": "Två fartyg attackerade i Hormuz",
+        "summary": "Två tankerfartyg har angripits i Hormuzsundet, uppger den brittiska marinens sjötrafikbevakare UKMTO.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two ships attacked in Hormuz",
+        "summary": "Two tankers have been attacked in the Strait of Hormuz, according to the British Royal Navy's maritime traffic monitor UKMTO."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:31:13+01:00"
+      }
+    },
     {
       "id": "14ea0e72c927",
       "schema_version": 1,
@@ -5258,58 +5312,6 @@
       "en": {
         "title": "Closing rebuttal: Time to pull the emergency brake",
         "summary": "The whole purpose of joint-stock companies is to make money, nothing else. And that is exactly why it is time to pull the emergency brake and stop selling our shared public transport to the lowest bidder. Preferably yesterday, write representatives of the Left Party."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T08:31:10+01:00"
-      }
-    },
-    {
-      "id": "551e3375bec8",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/ovantad-nedgang-i-arbetslosheten",
-      "guid": "e0c7133b-d07b-4258-9c54-31c3b6241ddc",
-      "published_at": "2026-11-20T08:19:24+01:00",
-      "fetched_at": "2026-11-20T08:31:03+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Oväntad nedgång i arbetslösheten",
-        "summary": "Den säsongsjusterade arbetslösheten uppgick till 8,2 procent i oktober, jämfört med 8,5 procent månaden före. Det visar statistik från SCB:s arbetskraftsundersökningar (AKU).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Unexpected fall in unemployment",
-        "summary": "Seasonally adjusted unemployment came to 8.2 percent in October, compared with 8.5 percent the month before. This is according to statistics from Statistics Sweden's Labour Force Surveys (AKU)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T08:31:10+01:00"
-      }
-    },
-    {
-      "id": "46cfbe8e12fb",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/episurf-lyfter-rorelseresultat-och-omsattning",
-      "guid": "fe5eb799-6c31-4293-b414-bf93646c3821",
-      "published_at": "2026-11-20T08:17:44+01:00",
-      "fetched_at": "2026-11-20T08:31:03+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Episurf lyfter rörelseresultat och omsättning",
-        "summary": "Fastighetsbolaget Episurf redovisar ett rörelseresultat på 32,7 miljoner kronor för det tredje kvartalet 2026 (1,8).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Episurf lifts operating profit and turnover",
-        "summary": "Property company Episurf reports an operating profit of SEK 32.7 million for the third quarter of 2026 (1.8)."
       },
       "translation": {
         "status": "done",

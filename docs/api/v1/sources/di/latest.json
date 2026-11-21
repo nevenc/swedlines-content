@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-21T10:15:54+01:00",
+  "generated_at": "2026-11-21T10:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bf55bef28234",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/oro-pa-toppmote-pa-overtid-alarmerande",
+      "guid": "5273b7d9-0b50-4dc4-b1bd-00ce84750468",
+      "published_at": "2026-11-21T10:24:59+01:00",
+      "fetched_at": "2026-11-21T10:31:07+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/830cd12c-4841-4083-8d88-876cbcd0acd4.jpg?width=600",
+      "sv": {
+        "title": "Oro på toppmöte på övertid: ”Alarmerande”",
+        "summary": "FN:s klimattoppmöte skulle ha avslutats på fredagskvällen, men förhandlingarna fortsätter. Rachel Cleetus vid organisationen Union of Concerned Scientists ser en stor risk att mötet slutar i besvikelse. ”Tyvärr verkar det nästan 100 procent garanterat”, säger hon till TT.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Concern at summit in overtime: ”Alarming”",
+        "summary": "The UN climate summit was due to end on Friday evening, but negotiations continue. Rachel Cleetus of the Union of Concerned Scientists sees a major risk that the meeting ends in disappointment. ”Unfortunately it seems almost 100 percent guaranteed”, she tells TT."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:31:13+01:00"
+      }
+    },
+    {
+      "id": "b9bc79152a03",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/tva-fartyg-attackerade-i-hormuz",
+      "guid": "f4e065fa-d63f-4d7d-8a94-7db2de85c047",
+      "published_at": "2026-11-21T10:12:56+01:00",
+      "fetched_at": "2026-11-21T10:31:07+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c3d9d57b-28ab-4945-b9ba-7f48db13d238.jpg?width=600",
+      "sv": {
+        "title": "Två fartyg attackerade i Hormuz",
+        "summary": "Två tankerfartyg har angripits i Hormuzsundet, uppger den brittiska marinens sjötrafikbevakare UKMTO.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Two ships attacked in Hormuz",
+        "summary": "Two tankers have been attacked in the Strait of Hormuz, according to the British Royal Navy's maritime traffic monitor UKMTO."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:31:13+01:00"
+      }
+    },
     {
       "id": "14ea0e72c927",
       "schema_version": 1,
@@ -5275,58 +5329,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T17:45:54+01:00"
-      }
-    },
-    {
-      "id": "e044d9d76834",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/nordenborserna-stangde-i-rott-fI6e4",
-      "guid": "0cb3b2b3-bb04-4f52-9308-061ea6354347",
-      "published_at": "2026-11-19T17:36:56+01:00",
-      "fetched_at": "2026-11-19T17:45:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nordenbörserna stängde i rött",
-        "summary": "De nordiska börserna avslutar torsdagen på röda siffror, efter en oregelbunden handel som blev successivt surare efter att USA-börserna hade öppnat. Det regionala samlingsindexet Vinx 30 backade 0,5 procent till 1.502.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nordic stock exchanges close in the red",
-        "summary": "The Nordic stock exchanges ended Thursday in negative territory, after irregular trading that gradually turned more sour after US exchanges had opened. The regional composite index Vinx 30 fell 0.5 percent to 1,502."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:45:54+01:00"
-      }
-    },
-    {
-      "id": "2e721545be2f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/specialsandning-anthropic-noteras-pa-nasdaq",
-      "guid": "459d2fc0-94d9-5b5d-998c-f13e177b1812",
-      "published_at": "2026-11-19T17:19:39+01:00",
-      "fetched_at": "2026-11-19T17:31:09+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Specialsändning: Anthropic noteras på Nasdaq",
-        "summary": "Se hela programmet",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Special broadcast: Anthropic listed on Nasdaq",
-        "summary": "Watch the full programme"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:31:18+01:00"
       }
     }
   ]
