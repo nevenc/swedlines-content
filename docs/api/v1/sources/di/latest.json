@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T11:45:53+01:00",
+  "generated_at": "2026-11-21T12:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b607cb33726d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/skatt-pa-natjattar-i-bantad-budget-i-eu",
+      "guid": "6c6723ca-0dc4-45dd-861e-28653bfe1396",
+      "published_at": "2026-11-21T11:47:08+01:00",
+      "fetched_at": "2026-11-21T12:01:17+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e36b3616-f72a-408b-849c-c2a2fc47f58a.jpg?width=600",
+      "sv": {
+        "title": "Skatt på nätjättar i bantad budget i EU",
+        "summary": "EU:s rådsordförande António Costa skär bort ytterligare 40 miljarder euro i ett nytt kompromissförslag om EU:s nästa långtidsbudget. Samtidigt föreslår han en digitalskatt på världens stora nätjättar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tax on tech giants in slimmed-down EU budget",
+        "summary": "EU Council President António Costa cuts a further 40 billion euros in a new compromise proposal on the EU's next long-term budget. At the same time, he proposes a digital tax on the world's large tech giants."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:01:23+01:00"
+      }
+    },
     {
       "id": "0990d2b97603",
       "schema_version": 1,
@@ -5305,32 +5332,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T18:15:54+01:00"
-      }
-    },
-    {
-      "id": "aefa9804fcdf",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/europaborser-vande-ned-ai-sektorn-steg",
-      "guid": "d7944b4e-1882-4011-8edf-9102901b1a01",
-      "published_at": "2026-11-19T17:55:15+01:00",
-      "fetched_at": "2026-11-19T18:01:21+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Europabörser vände ned – AI-sektorn steg",
-        "summary": "Europabörserna hade backat på bred front när handeln summerades, efter en eftermiddagsdipp för flera av världsbörserna. Det regionala samlingsindexet var ned 0,8 procent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "European stocks turn down – AI sector rises",
-        "summary": "European stock markets had fallen across the board as trading closed, after an afternoon dip in several of the world's stock markets. The regional composite index was down 0.8 percent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:01:29+01:00"
       }
     }
   ]

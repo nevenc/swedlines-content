@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-21T11:45:53+01:00",
+  "generated_at": "2026-11-21T12:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c386b61b6db4",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/tv4-fortsatter-sanda-shl",
+      "guid": "f598adb3-bc03-418a-a23a-cfa95d2545ab",
+      "published_at": "2026-11-21T11:58:15+01:00",
+      "fetched_at": "2026-11-21T12:01:19+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/9527ecd0-2c20-4dcc-a2f8-623d4a0f692c.jpg?width=600",
+      "sv": {
+        "title": "TV4 fortsätter sända SHL till 2036",
+        "summary": "TV4 är överens om ett nytt miljardavtal med SHL. Kanalen fortsätter att sända den högsta svenska hockeyligan till och med våren 2036, rapporterar Aftonbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "TV4 to keep broadcasting SHL until 2036",
+        "summary": "TV4 has agreed a new billion-kronor deal with the SHL. The channel will continue to broadcast Sweden's top ice hockey league until the spring of 2036, Aftonbladet reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:01:23+01:00"
+      }
+    },
+    {
+      "id": "912177d9e227",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/langdskidor/efter-sjukdomen-alvar-myhlback-vann-i-bruksvallarna",
+      "guid": "https://www.svt.se/sport/langdskidor/efter-sjukdomen-alvar-myhlback-vann-i-bruksvallarna",
+      "published_at": "2026-11-21T11:47:29+01:00",
+      "fetched_at": "2026-11-21T12:01:12+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Efter sjukdomen – Alvar Myhlback vann i Bruksvallarna",
+        "summary": "Alvar Myhlback låter sig inte hindras av lite klassisk vinterförkylning. Svensken var tillbaka efter sjukdomsbekymmer och vann direkt 10 kilometer klassiskt i Bruksvallarna. – Jag andas väl på 80 procent där ute, säger han till SVT Sport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After illness – Alvar Myhlback won in Bruksvallarna",
+        "summary": "Alvar Myhlback is not held back by a bout of classic winter cold. The Swede was back after illness troubles and immediately won the 10 kilometre classic race in Bruksvallarna. – I'm breathing about 80 percent out there, he tells SVT Sport."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:01:23+01:00"
+      }
+    },
     {
       "id": "82ae04d4c18d",
       "schema_version": 1,
@@ -5545,57 +5598,6 @@
       "en": {
         "title": "The flop – thanked in front of empty stands",
         "summary": "Five former national team players were thanked in front of a small crowd at Strawberry Arena."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:08+01:00"
-      }
-    },
-    {
-      "id": "c7c2637f26f4",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sport/jubel-nar-kulusevski-byttes-in-det-ar-drommen",
-      "guid": "https://www.dn.se/sport/jubel-nar-kulusevski-byttes-in-det-ar-drommen/",
-      "published_at": "2026-11-15T06:11:58+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/548376b5-558f-4b89-bca4-00a62ebf5599.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Jubel när Kulusevski byttes in: ”Det är drömmen”",
-        "summary": "Det hade gått 725 dagar sedan Dejan Kulusevski senast spelade en landskamp. Mot Bosnien fick han äntligen springa ut på planen i blågul dress igen. – Jag kommer kanske inte komma ihåg den här matchen fotbollsmässigt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Cheers when Kulusevski came on: “It's the dream”",
-        "summary": "It had been 725 days since Dejan Kulusevski last played a national team match. Against Bosnia he finally got to run out onto the pitch in the blue-and-yellow kit again. – I may not remember this match football-wise."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:08+01:00"
-      }
-    },
-    {
-      "id": "d896a04414a1",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/BrR0Rw/gyokeres-efter-ny-malshow-jag-var-sugen",
-      "guid": "https://www.svd.se/a/BrR0Rw/gyokeres-efter-ny-malshow-jag-var-sugen?utm_medium=rss",
-      "published_at": "2026-11-15T06:10:40+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "sports",
-      "image_url": "https://akamai.vgc.no/v2/images/80393b95-ab0e-3cc4-862c-c107092c99fb?format=auto&s=2607e7fa339572248cfee618e006d754fc4a6c31&w=1000",
-      "sv": {
-        "title": "Gyökeres efter ny målshow: ”Var sugen”"
-      },
-      "en": {
-        "title": "Gyökeres after new goal show: “Was keen”"
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T11:45:53+01:00",
+  "generated_at": "2026-11-21T12:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b607cb33726d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/skatt-pa-natjattar-i-bantad-budget-i-eu",
+      "guid": "6c6723ca-0dc4-45dd-861e-28653bfe1396",
+      "published_at": "2026-11-21T11:47:08+01:00",
+      "fetched_at": "2026-11-21T12:01:17+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e36b3616-f72a-408b-849c-c2a2fc47f58a.jpg?width=600",
+      "sv": {
+        "title": "Skatt på nätjättar i bantad budget i EU",
+        "summary": "EU:s rådsordförande António Costa skär bort ytterligare 40 miljarder euro i ett nytt kompromissförslag om EU:s nästa långtidsbudget. Samtidigt föreslår han en digitalskatt på världens stora nätjättar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tax on tech giants in slimmed-down EU budget",
+        "summary": "EU Council President António Costa cuts a further 40 billion euros in a new compromise proposal on the EU's next long-term budget. At the same time, he proposes a digital tax on the world's large tech giants."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:01:23+01:00"
+      }
+    },
     {
       "id": "0990d2b97603",
       "schema_version": 1,
@@ -5289,32 +5316,6 @@
       "en": {
         "title": "\"More measures needed against over-indebtedness\"",
         "summary": "It is welcome that the rules for lending are being tightened. But measures are still needed to…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T08:45:49+01:00"
-      }
-    },
-    {
-      "id": "73a9479acb70",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/hogre-intakter-men-lagre-marginal-for-veteranpoolen",
-      "guid": "32932e4d-6ad2-41c4-b864-8b302f6e0512",
-      "published_at": "2026-11-20T08:36:01+01:00",
-      "fetched_at": "2026-11-20T08:45:44+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Högre intäkter men lägre marginal för Veteranpoolen",
-        "summary": "Veteranpoolens omsättning uppgick till 214,3 miljoner kronor i tredje kvartalet 2026 (194,4).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Higher revenue but lower margin for Veteranpoolen",
-        "summary": "Veteranpoolen's revenue amounted to SEK 214.3 million in the third quarter of 2026 (194.4)."
       },
       "translation": {
         "status": "done",

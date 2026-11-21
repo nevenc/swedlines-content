@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T11:45:53+01:00",
+  "generated_at": "2026-11-21T12:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d633932fadff",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/530loK/medier-dataintrang-mot-viktig-fbi-databas",
+      "guid": "https://www.aftonbladet.se/nyheter/a/530loK/medier-dataintrang-mot-viktig-fbi-databas?utm_medium=rss",
+      "published_at": "2026-11-21T11:51:01+01:00",
+      "fetched_at": "2026-11-21T12:01:15+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/d4dfcfab-8e03-3c13-a8af-b7f741b31ae2?format=auto&s=81eb15ae95ba814877412e8184a0dd5d553e54cb&w=1000",
+      "sv": {
+        "title": "Medier: Dataintrång mot viktig FBI-databas",
+        "summary": "USA:s federala polis FBI utreder ett misstänkt dataintrång mot polismyndighetens brottsdatabas…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Media: Data breach against important FBI database",
+        "summary": "The US federal police, the FBI, is investigating a suspected data breach against the police authority's crime database…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:01:23+01:00"
+      }
+    },
     {
       "id": "9a3899bdb8e2",
       "schema_version": 1,
@@ -5340,33 +5367,6 @@
       "en": {
         "title": "Textile workers clash with police",
         "summary": "Protests in Bangladesh have broken out again and turned violent. Police have cracked down hard on the…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T14:31:07+01:00"
-      }
-    },
-    {
-      "id": "d5bc20faada0",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/4EqxdV/skumtomtebrak",
-      "guid": "https://www.aftonbladet.se/nyheter/a/4EqxdV/skumtomtebrak?utm_medium=rss",
-      "published_at": "2026-11-18T14:25:48+01:00",
-      "fetched_at": "2026-11-18T14:31:00+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/30bfee33-616a-3537-94b8-505a18b16ac3?format=auto&s=e8935e355226ca020d29dbf33c6e79cde24a86c2&w=596",
-      "sv": {
-        "title": "Skumtomtebråk – Cloetta stämmer Haribo",
-        "summary": "Jul & Skum. Låter det misstänkt likt Juleskum? Det tycker Cloetta – som stämmer Haribo.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Snow-ball fight – Cloetta sues Haribo",
-        "summary": "Jul & Skum. Does it sound suspiciously like Juleskum? Cloetta thinks so – and is suing Haribo."
       },
       "translation": {
         "status": "done",

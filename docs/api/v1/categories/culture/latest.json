@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T11:45:53+01:00",
+  "generated_at": "2026-11-21T12:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2ef36c87145a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/dygnet-runt/det-ska-bli-en-minisaluhall-ny-satsning-pa-grand-deli-i-lund",
+      "guid": "bbca0e2a-68cf-419d-9b98-a608ac1069bb",
+      "published_at": "2026-11-21T12:00:00+01:00",
+      "fetched_at": "2026-11-21T12:01:19+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/27df7a4e-b331-488c-85a5-d7ef0c5da737.jpeg?width=600",
+      "sv": {
+        "title": "”Det ska bli en minisaluhall” – ny satsning på Grand Deli i Lund",
+        "summary": "Efter femton år på stjärnkrogar i Stockholm tar Carolina Molin över Grand Deli i Lund – men det ska inte bli snofsigt för det. – Jag har jättemycket planer, säger hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”It's going to be a mini food hall” – new venture at Grand Deli in Lund",
+        "summary": "After fifteen years at star restaurants in Stockholm, Carolina Molin takes over Grand Deli in Lund – but it's not going to be fancy about it. – I have a lot of plans, she says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:01:23+01:00"
+      }
+    },
     {
       "id": "66789a4f8bf0",
       "schema_version": 1,
@@ -5640,44 +5667,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T08:04:35+01:00"
-      }
-    },
-    {
-      "id": "6d52ba7a2094",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/flera-goteborgare-nominerade-till-p3-guld-2027.c7f9fd26-20f2-5ed2-b199-6f6dac8ead8f",
-      "guid": "c7f9fd26-20f2-5ed2-b199-6f6dac8ead8f",
-      "published_at": "2026-11-19T08:00:41+01:00",
-      "fetched_at": "2026-11-19T08:30:57+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Kultur",
-        "Tagg: P3 Guld",
-        "Tagg: Lykke Li",
-        "Tagg: Valter Nilsson",
-        "Tagg: Artister",
-        "Tagg: Christopher Garplind",
-        "Tagg: Swedish House Mafia",
-        "Tagg: Radio",
-        "Tagg: Musik"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/f966dbc0-f320-3151-900c-bec59c3e200e",
-      "sv": {
-        "title": "Flera göteborgare nominerade till P3 Guld",
-        "summary": "Valter Nilsson, Terra och Nektar har chans på två priser var.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Several Göteborg residents nominated for P3 Guld",
-        "summary": "Valter Nilsson, Terra and Nektar have a chance at two awards each."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T08:31:03+01:00"
       }
     }
   ]

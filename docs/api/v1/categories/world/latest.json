@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T11:45:53+01:00",
+  "generated_at": "2026-11-21T12:01:24+01:00",
   "count": 200,
   "items": [
     {
@@ -174,6 +174,35 @@
       }
     },
     {
+      "id": "e1c9ea64f526",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3NqzYlF18kmrxR1AJKdFxq/marcus-infoer-regeringsbeskedet-50-procent-risk-att-det-slutar-med-pannkaka",
+      "guid": "3NqzYlF18kmrxR1AJKdFxq",
+      "published_at": "2026-11-21T10:45:30+01:00",
+      "fetched_at": "2026-11-21T12:01:17+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Valet 2026"
+      ],
+      "sv": {
+        "title": "”50 procent sannolikhet att det kraschar helt och hållet”",
+        "summary": "Alternativen om samtalen brakar • Röda linjerna ligger kvar",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”50 percent chance it crashes completely”",
+        "summary": "The alternatives if the talks collapse • The red lines remain"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:01:23+01:00"
+      }
+    },
+    {
       "id": "f73207dd4c3e",
       "schema_version": 1,
       "source": "svd",
@@ -291,6 +320,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T10:15:53+01:00"
+      }
+    },
+    {
+      "id": "2eb2b0aa196c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wdPLRA/kapten-ynkrygg-pa-fri-fot",
+      "guid": "https://www.svd.se/a/wdPLRA/kapten-ynkrygg-pa-fri-fot?utm_medium=rss",
+      "published_at": "2026-11-21T10:04:41+01:00",
+      "fetched_at": "2026-11-21T12:01:14+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/d7bee764-b54f-3d1f-a823-bdeebfc2c6e4?format=auto&s=99240de4dc27085478ceacbdc4aa621cb491266a&w=1000",
+      "sv": {
+        "title": "”Kapten ynkrygg” har släppts ur fängelset",
+        "summary": "Costa Concordias befälhavare Francesco Schettino – internationellt känd som ”Kapten ynkrygg” – har…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”Captain Coward” has been released from prison",
+        "summary": "Costa Concordia captain Francesco Schettino – internationally known as ”Captain Coward” – has…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:01:23+01:00"
       }
     },
     {
@@ -5345,71 +5401,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T18:45:57+01:00"
-      }
-    },
-    {
-      "id": "1f8ce2345bba",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/varlden/langsam-jarnvag-till-goteborg-kan-fixas-till-med-eu-pengar.7e0e1a7e-4125-54a5-9b39-49d58f59e220",
-      "guid": "7e0e1a7e-4125-54a5-9b39-49d58f59e220",
-      "published_at": "2026-11-19T18:28:04+01:00",
-      "fetched_at": "2026-11-19T19:01:12+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Världen",
-        "Tagg: Uppdatera mig - BEHOV",
-        "Tagg: EU",
-        "Tagg: Johan Danielsson",
-        "Tagg: Europaparlamentet",
-        "Tagg: Oslo",
-        "Tagg: Göteborg",
-        "Tagg: Andreas Carlson",
-        "Tagg: Infrastruktur"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/31963e98-2e2c-37e9-9ad3-a3fa2e00d9bd",
-      "sv": {
-        "title": "Järnvägen Göteborg-Oslo kan fixas till med EU-pengar",
-        "summary": "Göteborg kan gynnas när EU ska få bort flaskhalsar i tågtrafiken.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Göteborg–Oslo railway could be fixed with EU money",
-        "summary": "Göteborg could benefit when the EU moves to remove bottlenecks in rail traffic."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:01:19+01:00"
-      }
-    },
-    {
-      "id": "0d0310596c82",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/dJOrVB/xi-jinping-moter-trump-och-putin-i-kina-darfor-ar-toppmotet-viktigt",
-      "guid": "https://www.svd.se/a/dJOrVB/xi-jinping-moter-trump-och-putin-i-kina-darfor-ar-toppmotet-viktigt?utm_medium=rss",
-      "published_at": "2026-11-19T18:25:14+01:00",
-      "fetched_at": "2026-11-19T18:31:01+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/55b72b3a-6d5b-3d06-b5a2-79bd0720f33d?format=auto&s=f2dd2ce0e39bfb9b269105d46cafcbe7abd25b86&w=1000",
-      "sv": {
-        "title": "Xi vill få världen att ”Kinamaxxa”",
-        "summary": "Xi, Trump och Putin hyllar sitt möte. ”Vad var fel med Jalta?”, frågar Putin.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Xi wants to make the world 'Chinamaxx'",
-        "summary": "Xi, Trump and Putin praise their meeting. \"What was wrong with Yalta?\" asks Putin."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:31:15+01:00"
       }
     }
   ]

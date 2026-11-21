@@ -1,7 +1,141 @@
 {
-  "generated_at": "2026-11-21T11:45:53+01:00",
+  "generated_at": "2026-11-21T12:01:24+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2ef36c87145a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/dygnet-runt/det-ska-bli-en-minisaluhall-ny-satsning-pa-grand-deli-i-lund",
+      "guid": "bbca0e2a-68cf-419d-9b98-a608ac1069bb",
+      "published_at": "2026-11-21T12:00:00+01:00",
+      "fetched_at": "2026-11-21T12:01:19+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/27df7a4e-b331-488c-85a5-d7ef0c5da737.jpeg?width=600",
+      "sv": {
+        "title": "”Det ska bli en minisaluhall” – ny satsning på Grand Deli i Lund",
+        "summary": "Efter femton år på stjärnkrogar i Stockholm tar Carolina Molin över Grand Deli i Lund – men det ska inte bli snofsigt för det. – Jag har jättemycket planer, säger hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”It's going to be a mini food hall” – new venture at Grand Deli in Lund",
+        "summary": "After fifteen years at star restaurants in Stockholm, Carolina Molin takes over Grand Deli in Lund – but it's not going to be fancy about it. – I have a lot of plans, she says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:01:23+01:00"
+      }
+    },
+    {
+      "id": "c386b61b6db4",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/tv4-fortsatter-sanda-shl",
+      "guid": "f598adb3-bc03-418a-a23a-cfa95d2545ab",
+      "published_at": "2026-11-21T11:58:15+01:00",
+      "fetched_at": "2026-11-21T12:01:19+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/9527ecd0-2c20-4dcc-a2f8-623d4a0f692c.jpg?width=600",
+      "sv": {
+        "title": "TV4 fortsätter sända SHL till 2036",
+        "summary": "TV4 är överens om ett nytt miljardavtal med SHL. Kanalen fortsätter att sända den högsta svenska hockeyligan till och med våren 2036, rapporterar Aftonbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "TV4 to keep broadcasting SHL until 2036",
+        "summary": "TV4 has agreed a new billion-kronor deal with the SHL. The channel will continue to broadcast Sweden's top ice hockey league until the spring of 2036, Aftonbladet reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:01:23+01:00"
+      }
+    },
+    {
+      "id": "d633932fadff",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/530loK/medier-dataintrang-mot-viktig-fbi-databas",
+      "guid": "https://www.aftonbladet.se/nyheter/a/530loK/medier-dataintrang-mot-viktig-fbi-databas?utm_medium=rss",
+      "published_at": "2026-11-21T11:51:01+01:00",
+      "fetched_at": "2026-11-21T12:01:15+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/d4dfcfab-8e03-3c13-a8af-b7f741b31ae2?format=auto&s=81eb15ae95ba814877412e8184a0dd5d553e54cb&w=1000",
+      "sv": {
+        "title": "Medier: Dataintrång mot viktig FBI-databas",
+        "summary": "USA:s federala polis FBI utreder ett misstänkt dataintrång mot polismyndighetens brottsdatabas…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Media: Data breach against important FBI database",
+        "summary": "The US federal police, the FBI, is investigating a suspected data breach against the police authority's crime database…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:01:23+01:00"
+      }
+    },
+    {
+      "id": "912177d9e227",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/langdskidor/efter-sjukdomen-alvar-myhlback-vann-i-bruksvallarna",
+      "guid": "https://www.svt.se/sport/langdskidor/efter-sjukdomen-alvar-myhlback-vann-i-bruksvallarna",
+      "published_at": "2026-11-21T11:47:29+01:00",
+      "fetched_at": "2026-11-21T12:01:12+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Efter sjukdomen – Alvar Myhlback vann i Bruksvallarna",
+        "summary": "Alvar Myhlback låter sig inte hindras av lite klassisk vinterförkylning. Svensken var tillbaka efter sjukdomsbekymmer och vann direkt 10 kilometer klassiskt i Bruksvallarna. – Jag andas väl på 80 procent där ute, säger han till SVT Sport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "After illness – Alvar Myhlback won in Bruksvallarna",
+        "summary": "Alvar Myhlback is not held back by a bout of classic winter cold. The Swede was back after illness troubles and immediately won the 10 kilometre classic race in Bruksvallarna. – I'm breathing about 80 percent out there, he tells SVT Sport."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:01:23+01:00"
+      }
+    },
+    {
+      "id": "b607cb33726d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/skatt-pa-natjattar-i-bantad-budget-i-eu",
+      "guid": "6c6723ca-0dc4-45dd-861e-28653bfe1396",
+      "published_at": "2026-11-21T11:47:08+01:00",
+      "fetched_at": "2026-11-21T12:01:17+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/e36b3616-f72a-408b-849c-c2a2fc47f58a.jpg?width=600",
+      "sv": {
+        "title": "Skatt på nätjättar i bantad budget i EU",
+        "summary": "EU:s rådsordförande António Costa skär bort ytterligare 40 miljarder euro i ett nytt kompromissförslag om EU:s nästa långtidsbudget. Samtidigt föreslår han en digitalskatt på världens stora nätjättar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tax on tech giants in slimmed-down EU budget",
+        "summary": "EU Council President António Costa cuts a further 40 billion euros in a new compromise proposal on the EU's next long-term budget. At the same time, he proposes a digital tax on the world's large tech giants."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:01:23+01:00"
+      }
+    },
     {
       "id": "66789a4f8bf0",
       "schema_version": 1,
@@ -632,6 +766,35 @@
       }
     },
     {
+      "id": "e1c9ea64f526",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3NqzYlF18kmrxR1AJKdFxq/marcus-infoer-regeringsbeskedet-50-procent-risk-att-det-slutar-med-pannkaka",
+      "guid": "3NqzYlF18kmrxR1AJKdFxq",
+      "published_at": "2026-11-21T10:45:30+01:00",
+      "fetched_at": "2026-11-21T12:01:17+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Valet 2026"
+      ],
+      "sv": {
+        "title": "”50 procent sannolikhet att det kraschar helt och hållet”",
+        "summary": "Alternativen om samtalen brakar • Röda linjerna ligger kvar",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”50 percent chance it crashes completely”",
+        "summary": "The alternatives if the talks collapse • The red lines remain"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:01:23+01:00"
+      }
+    },
+    {
       "id": "d8d1d5e25cb9",
       "schema_version": 1,
       "source": "svd",
@@ -1180,6 +1343,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T10:15:53+01:00"
+      }
+    },
+    {
+      "id": "2eb2b0aa196c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wdPLRA/kapten-ynkrygg-pa-fri-fot",
+      "guid": "https://www.svd.se/a/wdPLRA/kapten-ynkrygg-pa-fri-fot?utm_medium=rss",
+      "published_at": "2026-11-21T10:04:41+01:00",
+      "fetched_at": "2026-11-21T12:01:14+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/d7bee764-b54f-3d1f-a823-bdeebfc2c6e4?format=auto&s=99240de4dc27085478ceacbdc4aa621cb491266a&w=1000",
+      "sv": {
+        "title": "”Kapten ynkrygg” har släppts ur fängelset",
+        "summary": "Costa Concordias befälhavare Francesco Schettino – internationellt känd som ”Kapten ynkrygg” – har…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "”Captain Coward” has been released from prison",
+        "summary": "Costa Concordia captain Francesco Schettino – internationally known as ”Captain Coward” – has…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:01:23+01:00"
       }
     },
     {
@@ -5262,190 +5452,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T00:01:21+01:00"
-      }
-    },
-    {
-      "id": "ccd6199481f3",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/jensen-huangs-skrackvalde-hanen-mot-nvidias-anstallda",
-      "guid": "https://www.expressen.se/nyheter/varlden/jensen-huangs-skrackvalde-hanen-mot-nvidias-anstallda/",
-      "published_at": "2026-11-20T23:57:28+01:00",
-      "fetched_at": "2026-11-21T00:01:16+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Jensen Huangs skräckvälde – hånen mot Nvidias anställda",
-        "summary": "Jensen Huang ska ha hotat slita huvudet av en anställd – och sagt till en annan att hans mamma borde ha gjort abort. Nvidias förra vd anklagas nu för ett riktigt skräckvälde. Enligt New York Times pågick det i decennier.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Jensen Huang's reign of terror – the mockery of Nvidia's employees",
-        "summary": "Jensen Huang reportedly threatened to tear the head off an employee and told another that his mother should have had an abortion. Nvidia's former CEO is now accused of a real reign of terror. According to The New York Times, it went on for decades."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T00:01:21+01:00"
-      }
-    },
-    {
-      "id": "be07c8f68d16",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/kommuntoppens-distansjobb-fran-spanska-solkusten",
-      "guid": "https://www.expressen.se/nyheter/sverige/kommuntoppens-distansjobb-fran-spanska-solkusten/",
-      "published_at": "2026-11-20T23:37:13+01:00",
-      "fetched_at": "2026-11-20T23:45:46+01:00",
-      "category": "other",
-      "sv": {
-        "title": "Kommuntoppens distansjobb – från spanska solkusten",
-        "summary": "Österåkers HR-chef väljer spanska solkusten före Åkersberga. Genom ”en särskild överenskommelse” tillåts hon jobba på distans från Costa del Sol. – När jag är inne och rör mig får jag samma känsla som om jag hade varit här exakt varje dag, säger hon till Nu Österåker",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Municipal top official's remote work – from the Spanish sunny coast",
-        "summary": "Österåker's HR chief chooses the Spanish sunny coast over Åkersberga. Through \"a special agreement\" she is allowed to work remotely from the Costa del Sol. \"When I'm in and moving around, I get the same feeling as if I had been here exactly every day,\" she tells Nu Österåker"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T23:45:51+01:00"
-      }
-    },
-    {
-      "id": "266ad2356f7b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/pourmokhtari-starkt-kritisk-till-avtalsforslaget",
-      "guid": "https://www.expressen.se/nyheter/varlden/pourmokhtari-starkt-kritisk-till-avtalsforslaget/",
-      "published_at": "2026-11-20T23:35:18+01:00",
-      "fetched_at": "2026-11-20T23:45:46+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Pourmokhtari starkt kritisk till avtalsförslaget",
-        "summary": "Klimattoppmötet COP 31 drar ut på tiden. Man kommer inte överens. I det senaste avtalsförslaget utelämnas ordet ”fossil”. – Det är ett katastrofalt förslag som kommer från det turkiska och australienska ordförandeskapet, säger klimat- och miljöminister Romina Pourmokhtari (L).",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Pourmokhtari strongly critical of draft agreement",
-        "summary": "The COP 31 climate summit is dragging on. No agreement is being reached. In the latest draft agreement the word \"fossil\" is left out. \"It is a catastrophic proposal coming from the Turkish and Australian presidency,\" says Climate and Environment Minister Romina Pourmokhtari (L)."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T23:45:51+01:00"
-      }
-    },
-    {
-      "id": "24064f18a5b6",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/ishockey/experten-hapnar-over-detaljen-vid-rasmus-dahlins-solomal",
-      "guid": "https://www.svt.se/sport/ishockey/experten-hapnar-over-detaljen-vid-rasmus-dahlins-solomal",
-      "published_at": "2026-11-20T23:27:58+01:00",
-      "fetched_at": "2026-11-20T23:30:59+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Experten häpnar över detaljen vid Rasmus Dahlins solomål",
-        "summary": "Rasmus Dahlin, 26, fortsätter att göra uppmärksammade solomål. Experten menar att det finns en detalj i den svenska stjärnans spel som förklarar hur han kan göra det.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Expert astonished by the detail in Rasmus Dahlin's solo goals",
-        "summary": "Rasmus Dahlin, 26, keeps scoring remarkable solo goals. The expert says there is a detail in the Swedish star's play that explains how he can do it."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T23:31:08+01:00"
-      }
-    },
-    {
-      "id": "48be174b2c89",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/tvivel-pa-ai-sankte-wall-street-arets-uppgang-raderad",
-      "guid": "https://www.dn.se/varlden/tvivel-pa-ai-sankte-wall-street-arets-uppgang-raderad/",
-      "published_at": "2026-11-20T23:26:39+01:00",
-      "fetched_at": "2026-11-20T23:31:01+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/8ef019a2-b45e-443a-9927-a8e85aae0a50.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Tvivel på AI sänkte Wall Street – årets uppgång raderad",
-        "summary": "Börserna i USA rasade på fredagen när flera teknikjättar stängde på minus. Det innebär att hela årets uppgång på tekniktunga Nasdaq nu har försvunnit när allt fler känner tveksamhet inför om AI-bolagen kan leverera snabba vinster.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Doubts over AI sink Wall Street – this year's gains wiped out",
-        "summary": "US stocks plunged on Friday as several tech giants closed in negative territory. This means the entire year's gain on the tech-heavy Nasdaq has now disappeared as more and more people doubt whether AI companies can deliver quick profits."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T23:31:08+01:00"
-      }
-    },
-    {
-      "id": "b84891ead0f3",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://tv.aftonbladet.se/video/410997",
-      "guid": "https://tv.aftonbladet.se/video/410997?utm_medium=rss",
-      "published_at": "2026-11-20T23:19:59+01:00",
-      "fetched_at": "2026-11-21T09:45:44+01:00",
-      "category": "other",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/fbcbd79a7d88ebf71a36bb8e855cf020.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "Zigi skulle tända grillen – ingen bra idé",
-        "summary": "”Skit”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Zigi was going to light the grill – not a good idea",
-        "summary": "\"Shit\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:45:49+01:00"
-      }
-    },
-    {
-      "id": "e9ad79063ce9",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/langdskidor/splittringen-i-norska-damlandslaget-en-dok-upp-pa-lagret-extremt-daligt",
-      "guid": "https://www.svt.se/sport/langdskidor/splittringen-i-norska-damlandslaget-en-dok-upp-pa-lagret-extremt-daligt",
-      "published_at": "2026-11-20T23:04:48+01:00",
-      "fetched_at": "2026-11-20T23:15:44+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Splittringen i norska damlandslaget – en dök upp på lägret: ”Extremt dåligt”",
-        "summary": "Milla Grosberghaugen Andreassen, 21, är debutant i norska längdlandslaget. På ett försäsongsläger i Idre var hon den enda åkaren som dök upp. – Jag tycker det är extremt dåligt, säger hon till NRK.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Split in the Norwegian women's national team – one shows up at the camp: \"Extremely bad\"",
-        "summary": "Milla Grosberghaugen Andreassen, 21, is a debutante in the Norwegian cross-country team. At a pre-season camp in Idre, she was the only skier who showed up. \"I think it's extremely bad,\" she tells NRK."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T23:15:53+01:00"
       }
     }
   ]
