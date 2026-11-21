@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T09:45:49+01:00",
+  "generated_at": "2026-11-21T10:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4610c6f9bd68",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/ekonomi/cloetta-rasar-mot-haribo-vill-stoppa-skumtomten-",
+      "guid": "https://www.expressen.se/ekonomi/cloetta-rasar-mot-haribo-vill-stoppa-skumtomten-/",
+      "published_at": "2026-11-21T09:55:15+01:00",
+      "fetched_at": "2026-11-21T10:01:13+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Cloetta rasar mot Haribo – vill stoppa skumtomten",
+        "summary": "Det råder skum stämning i tomtefabriken. Cloetta vill stoppa Haribos ”Jul&Skum” – och stämmer nu godisjätten. – Det är en lite större fråga än en skumtomte hit eller dit, säger Cloettas kommunikationsdirektör Laura Lindholm till SVT.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Cloetta lashes out at Haribo – wants to stop the marshmallow Santa",
+        "summary": "The mood is frosty at the Santa factory. Cloetta wants to stop Haribo's “Jul&Skum” – and is now suing the candy giant. – It is a bit bigger issue than a marshmallow Santa here or there, says Cloetta's communications director Laura Lindholm to SVT."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:01:26+01:00"
+      }
+    },
     {
       "id": "40ed76710e5c",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T07:01:37+01:00"
-      }
-    },
-    {
-      "id": "53e09f31d5f9",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=1e631959-ed9d-4787-a4fe-0c6445dbffec",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=1e631959-ed9d-4787-a4fe-0c6445dbffec",
-      "published_at": "2026-11-18T06:43:34+01:00",
-      "fetched_at": "2026-11-18T06:45:38+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Kaos på E4",
-        "summary": "Flera bilar har krockat: ”Stor påverkan”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Chaos on the E4",
-        "summary": "Several cars have crashed: \"Major impact\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T06:45:43+01:00"
       }
     }
   ]

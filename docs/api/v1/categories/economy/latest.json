@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T09:45:49+01:00",
+  "generated_at": "2026-11-21T10:01:26+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4610c6f9bd68",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/ekonomi/cloetta-rasar-mot-haribo-vill-stoppa-skumtomten-",
+      "guid": "https://www.expressen.se/ekonomi/cloetta-rasar-mot-haribo-vill-stoppa-skumtomten-/",
+      "published_at": "2026-11-21T09:55:15+01:00",
+      "fetched_at": "2026-11-21T10:01:13+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Cloetta rasar mot Haribo – vill stoppa skumtomten",
+        "summary": "Det råder skum stämning i tomtefabriken. Cloetta vill stoppa Haribos ”Jul&Skum” – och stämmer nu godisjätten. – Det är en lite större fråga än en skumtomte hit eller dit, säger Cloettas kommunikationsdirektör Laura Lindholm till SVT.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Cloetta lashes out at Haribo – wants to stop the marshmallow Santa",
+        "summary": "The mood is frosty at the Santa factory. Cloetta wants to stop Haribo's “Jul&Skum” – and is now suing the candy giant. – It is a bit bigger issue than a marshmallow Santa here or there, says Cloetta's communications director Laura Lindholm to SVT."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:01:26+01:00"
+      }
+    },
     {
       "id": "2b23d306407b",
       "schema_version": 1,
@@ -5291,32 +5317,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T08:31:10+01:00"
-      }
-    },
-    {
-      "id": "dcc20054623a",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/hogre-resultat-for-paxman",
-      "guid": "e1dfa36c-5bad-42f2-bb54-27df5df0254b",
-      "published_at": "2026-11-20T08:03:23+01:00",
-      "fetched_at": "2026-11-20T08:15:43+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Högre resultat för Paxman",
-        "summary": "Skalpkylningsbolaget Paxman redovisar ett ebitda-resultat på 18,1 miljoner kronor (7,8) för det tredje kvartalet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Higher results for Paxman",
-        "summary": "Cooling-systems company Paxman reports an EBITDA result of SEK 18.1 million (7.8) for the third quarter."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T08:15:49+01:00"
       }
     }
   ]
