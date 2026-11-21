@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T11:15:51+01:00",
+  "generated_at": "2026-11-21T11:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e888f256a519",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/z0GP0r/flera-olyckor-i-snoovadret-voltat",
+      "guid": "https://www.aftonbladet.se/nyheter/a/z0GP0r/flera-olyckor-i-snoovadret-voltat?utm_medium=rss",
+      "published_at": "2026-11-21T11:28:04+01:00",
+      "fetched_at": "2026-11-21T11:31:00+01:00",
+      "category": "weather",
+      "image_url": "https://akamai.vgc.no/v2/images/1c6f5e1c-b670-36ab-8a9d-08a4a6b03918?format=auto&s=77edb6d2814bb21664eb2222c6a4682408441f79&w=1000",
+      "sv": {
+        "title": "Flera olyckor i snöovädret: ”Voltat”",
+        "summary": "Flera olyckor ✓ Varning tillbaka",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Several accidents in the snowstorm: \"Voltat\"",
+        "summary": "Several accidents ✓ Warning back"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T11:31:08+01:00"
+      }
+    },
     {
       "id": "e4448de73aae",
       "schema_version": 1,
@@ -5340,33 +5367,6 @@
       "en": {
         "title": "Despite disagreement: could become the first Black speaker of the US House",
         "summary": "Democrats in the US House of Representatives are gathering behind closed doors to vote for their…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T14:15:54+01:00"
-      }
-    },
-    {
-      "id": "b05c38db0f5b",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Jnopj8/aftonbladets-lisa-rostlund-prisas-far-arets-visselpipa",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Jnopj8/aftonbladets-lisa-rostlund-prisas-far-arets-visselpipa?utm_medium=rss",
-      "published_at": "2026-11-18T14:04:06+01:00",
-      "fetched_at": "2026-11-18T14:15:46+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/56876269-f7a4-39a7-bb35-7f2ede6445ba?format=auto&s=403d2d9e9a7ce51258d1356bd1dd65d64208f7b2&w=1000",
-      "sv": {
-        "title": "Lisa Röstlund prisad igen – får Årets visselpipa",
-        "summary": "Aftonbladets reporter: ”En stor ära”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lisa Röstlund honoured again – wins Årets visselpipa",
-        "summary": "Aftonbladet reporter: \"A great honour\""
       },
       "translation": {
         "status": "done",

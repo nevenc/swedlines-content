@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-21T11:15:51+01:00",
+  "generated_at": "2026-11-21T11:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "9055d0bfe402",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/ekonomi/skatt-pa-natjattar-i-bantad-budget-i-eu",
+      "guid": "5bf89990-6791-47be-91ae-1a675577326e",
+      "published_at": "2026-11-21T11:30:27+01:00",
+      "fetched_at": "2026-11-21T11:31:03+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/587c0bbf-ebe2-41fc-8fb8-9e0a5bf2301c.jpg?width=600",
+      "sv": {
+        "title": "Skatt på nätjättar i bantad budget i EU",
+        "summary": "EU:s rådsordförande António Costa skär bort ytterligare 40 miljarder euro i ett nytt kompromissförslag om EU:s nästa långtidsbudget. Samtidigt föreslår han en digitalskatt på världens stora nätjättar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tech giants tax in slimmed-down EU budget",
+        "summary": "EU Council President António Costa cuts a further EUR 40 billion in a new compromise proposal for the EU's next long-term budget. At the same time, he proposes a digital tax on the world's large tech giants."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T11:31:08+01:00"
+      }
+    },
+    {
+      "id": "95d3437e79fd",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/familj/minnesord-om-christer-schildt",
+      "guid": "8aa2b004-3d17-4983-8568-b1a740c5c0fa",
+      "published_at": "2026-11-21T11:30:00+01:00",
+      "fetched_at": "2026-11-21T11:31:03+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/57741a2e-6c54-49a3-88c6-fd5cfef0678b.jpeg?width=600",
+      "sv": {
+        "title": "Minnesord om Christer Schildt",
+        "summary": "Christer Schildt, Löberöd, har avlidit i en ålder av 81 år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Obituary for Christer Schildt",
+        "summary": "Christer Schildt, Löberöd, has died at the age of 81."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T11:31:08+01:00"
+      }
+    },
     {
       "id": "48bf0e5e5064",
       "schema_version": 1,
@@ -5185,57 +5239,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T21:01:20+01:00"
-      }
-    },
-    {
-      "id": "ba222c3fb80b",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/ingen-ny-skrall-av-hacken-foll-hemma-mot-city",
-      "guid": "e0482670-4020-4e4f-a153-311366516d8e",
-      "published_at": "2026-11-18T20:42:18+01:00",
-      "fetched_at": "2026-11-18T20:45:48+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/0f339a0a-1ad3-42c1-983d-3429999df22e.jpg?width=600",
-      "sv": {
-        "title": "Ingen ny skräll av Häcken – föll hemma mot City"
-      },
-      "en": {
-        "title": "No new upset from Häcken, lost at home to City"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T20:46:01+01:00"
-      }
-    },
-    {
-      "id": "d290512059c1",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/svenskar-bast-pa-att-forsta-engelska",
-      "guid": "48279558-cd53-4be7-afb2-14596d8ac768",
-      "published_at": "2026-11-18T19:43:17+01:00",
-      "fetched_at": "2026-11-18T19:45:47+01:00",
-      "category": "other",
-      "image_url": "https://static.bonniernews.se/ba/ceebbcda-6dac-4527-aca8-900085f4aa97.jpg?width=600",
-      "sv": {
-        "title": "Svenskar bäst på att förstå engelska",
-        "summary": "Svenskarna kommer på första plats i ett globalt test av engelskkunskaper. Fast det tycks ändå finnas en del att slipa på.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedes best at understanding English",
-        "summary": "Sweden ranks first in a global test of English skills. Still, there appears to be some room for improvement."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:45:52+01:00"
       }
     }
   ]
