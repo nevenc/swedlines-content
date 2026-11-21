@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T10:45:54+01:00",
+  "generated_at": "2026-11-21T11:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "88d5ca07e013",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/dataintrang-mot-gothia-towers",
+      "guid": "103dc6af-4990-4b85-a60d-12803cb72677",
+      "published_at": "2026-11-21T10:49:49+01:00",
+      "fetched_at": "2026-11-21T11:01:15+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/2b57a10d-3406-4abd-baf5-5a167779ce76.jpg?width=600",
+      "sv": {
+        "title": "Dataintrång mot Gothia Towers",
+        "summary": "Ett dataintrång har skett mot Svenska Mässan Gothia Towers i Göteborg, skriver Expressen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Data breach at Gothia Towers",
+        "summary": "A data breach has occurred at Svenska Mässan Gothia Towers in Göteborg, Expressen reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T11:01:21+01:00"
+      }
+    },
     {
       "id": "1edaa5c7633d",
       "schema_version": 1,
@@ -5303,32 +5330,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T18:01:29+01:00"
-      }
-    },
-    {
-      "id": "4c0ccf601749",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/europaborserna-vande-till-rott",
-      "guid": "d7944b4e-1882-4011-8edf-9102901b1a01",
-      "published_at": "2026-11-19T17:39:02+01:00",
-      "fetched_at": "2026-11-19T17:45:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Europabörserna vände till rött",
-        "summary": "Europabörserna hade backat på bred front när handeln summerades, efter en eftermiddagsdipp för flera av världsbörserna. Det regionala samlingsindexet var ned 0,8 procent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "European stock exchanges turn red",
-        "summary": "European stock exchanges had fallen across the board when trading was summed up, after an afternoon dip for several of the world's stock exchanges. The regional composite index was down 0.8 percent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:45:54+01:00"
       }
     }
   ]

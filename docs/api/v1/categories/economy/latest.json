@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-21T10:45:54+01:00",
+  "generated_at": "2026-11-21T11:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "62b4a34875e8",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/skane/nar-ferrari-och-hugo-boss-gick-pa-smaforetagarna-slog-opinionen-tillbaka",
+      "guid": "a49f2464-1a24-49f1-a828-59f4850a611d",
+      "published_at": "2026-11-21T11:00:00+01:00",
+      "fetched_at": "2026-11-21T11:01:16+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/839f4f36-6c44-4dd9-bfda-0a82e02f34f8.jpeg?width=600",
+      "sv": {
+        "title": "När Ferrari och Hugo Boss gick på småföretagarna slog opinionen tillbaka",
+        "summary": "Ferrari vs Ferrari. Hugo boss mot Flavor-boss. De globala jättarnas jakt på lokala småföretagare gav oväntad backlash. Matinnovatören från Malmö och pizzabagaren på Orust möttes av omvärldens goodwill. – Det har blivit bättre för oss. Vi fick så mycket reklam, säger krögaren Kerim Al.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "When Ferrari and Hugo Boss went after small businesses, public opinion pushed back",
+        "summary": "Ferrari vs Ferrari. Hugo Boss vs Flavor-Boss. The global giants' pursuit of local small businesses drew unexpected backlash. The food innovator from Malmö and the pizza baker on Orust were met with goodwill from the wider world. \"It has become better for us. We got so much advertising,\" says restaurateur Kerim Al."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T11:01:21+01:00"
+      }
+    },
+    {
+      "id": "88d5ca07e013",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/dataintrang-mot-gothia-towers",
+      "guid": "103dc6af-4990-4b85-a60d-12803cb72677",
+      "published_at": "2026-11-21T10:49:49+01:00",
+      "fetched_at": "2026-11-21T11:01:15+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/2b57a10d-3406-4abd-baf5-5a167779ce76.jpg?width=600",
+      "sv": {
+        "title": "Dataintrång mot Gothia Towers",
+        "summary": "Ett dataintrång har skett mot Svenska Mässan Gothia Towers i Göteborg, skriver Expressen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Data breach at Gothia Towers",
+        "summary": "A data breach has occurred at Svenska Mässan Gothia Towers in Göteborg, Expressen reports."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T11:01:21+01:00"
+      }
+    },
     {
       "id": "1edaa5c7633d",
       "schema_version": 1,
@@ -5266,59 +5320,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T08:45:49+01:00"
-      }
-    },
-    {
-      "id": "f2c2f2d95149",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/lkab-vill-bryta-djupare-kan-sakra-var-framtid",
-      "guid": "0bc4b591-334a-475c-a27f-b341cf0e8c01",
-      "published_at": "2026-11-20T08:25:08+01:00",
-      "fetched_at": "2026-11-20T08:31:03+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/15fe80ac-9065-4317-aa29-0f2f9d690dd7.jpeg?width=600",
-      "sv": {
-        "title": "LKAB vill bryta djupare: ”Kan säkra vår framtid”",
-        "summary": "Det statliga gruvbolaget LKAB har inlett förstudier för att undersöka möjligheterna till djupare brytning av järnmalm i underjordsgruvorna i Kiruna och Malmberget. Förhoppningen är att de nya huvudnivåer ska vara i drift i mitten av 2030-talet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "LKAB wants to mine deeper: \"Can secure our future\"",
-        "summary": "State-owned mining company LKAB has started preliminary studies to examine the possibilities of deeper extraction of iron ore in the underground mines in Kiruna and Malmberget. The hope is that the new main levels will be in operation by the mid-2030s."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T08:31:10+01:00"
-      }
-    },
-    {
-      "id": "e993187a69cd",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/osakerhet-kring-godseltillgang-en-utmaning-for-lantbruket",
-      "guid": "cb1daa73-8579-402c-ae26-3968c0b1b360",
-      "published_at": "2026-11-20T08:23:33+01:00",
-      "fetched_at": "2026-11-20T08:31:03+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Osäkerhet kring gödseltillgång en utmaning för lantbruket",
-        "summary": "En utmanande gödselmarknad och pressad lönsamhet skapar osäkerhet inför vårbruket, larmar Lantmännen i ett pressmeddelande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Uncertainty over fertiliser supply a challenge for farming",
-        "summary": "A challenging fertiliser market and squeezed profitability are creating uncertainty ahead of the spring sowing, Lantmännen warns in a press release."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T08:31:10+01:00"
       }
     }
   ]
