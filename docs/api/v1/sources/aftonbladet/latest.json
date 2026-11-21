@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T15:01:15+01:00",
+  "generated_at": "2026-11-21T15:15:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8099d54abb1b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/BrRBX7/man-haktad-for-mord-pa-kollega",
+      "guid": "https://www.aftonbladet.se/nyheter/a/BrRBX7/man-haktad-for-mord-pa-kollega?utm_medium=rss",
+      "published_at": "2026-11-21T15:06:37+01:00",
+      "fetched_at": "2026-11-21T15:15:42+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/aa01c2b3-59d1-37d2-82fa-75fab19d9380?format=auto&s=3b10a803165d53bf7ef45294f4eb0ee905830502&w=1000",
+      "sv": {
+        "title": "Man häktad för mord på kollega",
+        "summary": "En man har häktats misstänkt för mordet på en kvinna i Enköping, rapporterar lokala medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man remanded in custody for murder of colleague",
+        "summary": "A man has been remanded in custody on suspicion of the murder of a woman in Enköping, local media report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T15:15:47+01:00"
+      }
+    },
     {
       "id": "9d70c0010289",
       "schema_version": 1,
@@ -5346,33 +5373,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T17:45:57+01:00"
-      }
-    },
-    {
-      "id": "1b0b17512274",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/BrRmj7/c-ledaren-fokus-pa-att-fa-andersson-vald",
-      "guid": "https://www.aftonbladet.se/nyheter/a/BrRmj7/c-ledaren-fokus-pa-att-fa-andersson-vald?utm_medium=rss",
-      "published_at": "2026-11-18T17:03:36+01:00",
-      "fetched_at": "2026-11-18T17:15:45+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/a2a729d8-8da2-3c3d-870f-ebb888c3f9eb?format=auto&s=972785943b2c2af1a7f89008b70dbfbf88e647bc&w=1000",
-      "sv": {
-        "title": "C-ledaren: Fokus på att få Andersson vald",
-        "summary": "Centerledaren Elisabeth Thand Ringqvist säger att förhandlingarna mellan de rödgröna ”går framåt”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Party leader: Focus on getting Andersson elected",
-        "summary": "Centre Party leader Elisabeth Thand Ringqvist says negotiations between the red-greens are \"moving forward\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:15:53+01:00"
       }
     }
   ]

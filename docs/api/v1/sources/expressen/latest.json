@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T15:01:15+01:00",
+  "generated_at": "2026-11-21T15:15:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0f294a1b8b6a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bae9cf29-4c91-436e-b621-a3f35e7af7bd",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bae9cf29-4c91-436e-b621-a3f35e7af7bd",
+      "published_at": "2026-11-21T15:10:30+01:00",
+      "fetched_at": "2026-11-21T15:15:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Rysk helikopter har kränkt finskt luftrum",
+        "summary": "Kränkt luftrummet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russian helicopter has violated Finnish airspace",
+        "summary": "Violated airspace"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T15:15:47+01:00"
+      }
+    },
     {
       "id": "1d5324008395",
       "schema_version": 1,
@@ -5164,32 +5190,6 @@
       "en": {
         "title": "Fight over the beloved Christmas candy",
         "summary": "Rival's anger – wants to ban"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T12:31:14+01:00"
-      }
-    },
-    {
-      "id": "29ca48dd5e63",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/tv/nyheter/varlden/kinesisk-trump-fest-pompoms-och-stat",
-      "guid": "https://www.expressen.se/tv/nyheter/varlden/kinesisk-trump-fest-pompoms-och-stat/",
-      "published_at": "2026-11-18T12:20:54+01:00",
-      "fetched_at": "2026-11-18T12:30:56+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Kinesisk Trump-fest – pompoms och ståt",
-        "summary": "Håret gungade med • Kramen med Xi",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Chinese Trump fest – pompoms and pageantry",
-        "summary": "Hair swaying with • The hug with Xi"
       },
       "translation": {
         "status": "done",

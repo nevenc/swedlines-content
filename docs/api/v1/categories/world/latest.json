@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T15:01:15+01:00",
+  "generated_at": "2026-11-21T15:15:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0f294a1b8b6a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bae9cf29-4c91-436e-b621-a3f35e7af7bd",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bae9cf29-4c91-436e-b621-a3f35e7af7bd",
+      "published_at": "2026-11-21T15:10:30+01:00",
+      "fetched_at": "2026-11-21T15:15:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Rysk helikopter har kränkt finskt luftrum",
+        "summary": "Kränkt luftrummet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russian helicopter has violated Finnish airspace",
+        "summary": "Violated airspace"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T15:15:47+01:00"
+      }
+    },
     {
       "id": "883622266ffc",
       "schema_version": 1,
@@ -5363,32 +5389,6 @@
       "en": {
         "title": "Many slogans in Berlin – the three powers in China stayed silent",
         "summary": "BERLIN While 35 Western leaders met in Berlin to discuss Ukraine, the USA, China and Russia met in Shenzhen. Officially, they did not even mention Ukraine."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T21:01:17+01:00"
-      }
-    },
-    {
-      "id": "d09867980f5c",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/striden-om-norden-sa-ritas-kartan-om",
-      "guid": "https://www.expressen.se/nyheter/sverige/striden-om-norden-sa-ritas-kartan-om/",
-      "published_at": "2026-11-19T20:42:42+01:00",
-      "fetched_at": "2026-11-19T21:01:11+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Striden om Norden: Så ritas kartan om",
-        "summary": "Från en defensiv försvarslinje vid Lule älv till offensiv strid i Finland. Med ett enkelt karttrick visar överste Magnus Ståhl hur Sveriges försvar i norr har förändrats i grunden med Nato-medlemskapet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "The battle for the North: this is how the map is being redrawn",
-        "summary": "From a defensive line at the Lule River to offensive combat in Finland. Using a simple map trick, Colonel Magnus Ståhl shows how Sweden's defence in the north has fundamentally changed with NATO membership."
       },
       "translation": {
         "status": "done",

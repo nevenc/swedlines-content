@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-21T15:01:15+01:00",
+  "generated_at": "2026-11-21T15:15:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0f294a1b8b6a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bae9cf29-4c91-436e-b621-a3f35e7af7bd",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bae9cf29-4c91-436e-b621-a3f35e7af7bd",
+      "published_at": "2026-11-21T15:10:30+01:00",
+      "fetched_at": "2026-11-21T15:15:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Rysk helikopter har kränkt finskt luftrum",
+        "summary": "Kränkt luftrummet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russian helicopter has violated Finnish airspace",
+        "summary": "Violated airspace"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T15:15:47+01:00"
+      }
+    },
+    {
+      "id": "8099d54abb1b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/BrRBX7/man-haktad-for-mord-pa-kollega",
+      "guid": "https://www.aftonbladet.se/nyheter/a/BrRBX7/man-haktad-for-mord-pa-kollega?utm_medium=rss",
+      "published_at": "2026-11-21T15:06:37+01:00",
+      "fetched_at": "2026-11-21T15:15:42+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/aa01c2b3-59d1-37d2-82fa-75fab19d9380?format=auto&s=3b10a803165d53bf7ef45294f4eb0ee905830502&w=1000",
+      "sv": {
+        "title": "Man häktad för mord på kollega",
+        "summary": "En man har häktats misstänkt för mordet på en kvinna i Enköping, rapporterar lokala medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man remanded in custody for murder of colleague",
+        "summary": "A man has been remanded in custody on suspicion of the murder of a woman in Enköping, local media report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T15:15:47+01:00"
+      }
+    },
     {
       "id": "883622266ffc",
       "schema_version": 1,
@@ -5344,62 +5397,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T07:01:16+01:00"
-      }
-    },
-    {
-      "id": "27f905c3500a",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/14fOcJ8u189UfyCtep4F2p/ai-slakt-pa-wall-street-det-aer-en-haerdsmaelta-just-nu",
-      "guid": "14fOcJ8u189UfyCtep4F2p",
-      "published_at": "2026-11-21T06:59:17+01:00",
-      "fetched_at": "2026-11-21T07:01:10+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Ekonomi"
-      ],
-      "sv": {
-        "title": "AI-slakt på Wall Street: ”Det är en härdsmälta just nu”",
-        "summary": "Vid stängning hade tekniktunga Nasdaqs kompositindex fallit hela 5,3 procent, breda S&P 500-index 3,7 och Dow Jones industriindex 1,9 procent. Fallet, som redan hade börjat, tilltog sedan Trump sagt att de bolag som bygger stora datacenter utomlands ska straffas hårt med en ”enorm skatt”.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "AI sell-off on Wall Street: \"It's a meltdown right now\"",
-        "summary": "At close, the tech-heavy Nasdaq Composite had fallen as much as 5.3 percent, the broad S&P 500 index 3.7 percent and the Dow Jones Industrial Average 1.9 percent. The decline, which had already begun, intensified after Trump said that companies building large data centres abroad should be punished severely with a \"huge tax\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T07:01:16+01:00"
-      }
-    },
-    {
-      "id": "bedf5e64089a",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/4Eqgjg/svensk-polis-oppnar-polistation-i-irak",
-      "guid": "https://www.aftonbladet.se/nyheter/a/4Eqgjg/svensk-polis-oppnar-polistation-i-irak?utm_medium=rss",
-      "published_at": "2026-11-21T06:56:27+01:00",
-      "fetched_at": "2026-11-21T08:15:41+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/2b51f484-ea80-3d5e-a632-c033f632526b?format=auto&s=7ded49bc2cf9bf02f07b0c850e0aa7bc91e65306&w=1000",
-      "sv": {
-        "title": "Svensk polis öppnar station i Irak",
-        "summary": "Öppnar station i Irak",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish police open station in Iraq",
-        "summary": "Opens station in Iraq"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T08:15:48+01:00"
       }
     }
   ]

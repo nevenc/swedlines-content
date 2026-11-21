@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-21T15:01:15+01:00",
-  "count": 271,
+  "generated_at": "2026-11-21T15:15:47+01:00",
+  "count": 273,
   "items": [
+    {
+      "id": "0f294a1b8b6a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bae9cf29-4c91-436e-b621-a3f35e7af7bd",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bae9cf29-4c91-436e-b621-a3f35e7af7bd",
+      "published_at": "2026-11-21T15:10:30+01:00",
+      "fetched_at": "2026-11-21T15:15:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Rysk helikopter har kränkt finskt luftrum",
+        "summary": "Kränkt luftrummet",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russian helicopter has violated Finnish airspace",
+        "summary": "Violated airspace"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T15:15:47+01:00"
+      }
+    },
+    {
+      "id": "8099d54abb1b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/BrRBX7/man-haktad-for-mord-pa-kollega",
+      "guid": "https://www.aftonbladet.se/nyheter/a/BrRBX7/man-haktad-for-mord-pa-kollega?utm_medium=rss",
+      "published_at": "2026-11-21T15:06:37+01:00",
+      "fetched_at": "2026-11-21T15:15:42+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/aa01c2b3-59d1-37d2-82fa-75fab19d9380?format=auto&s=3b10a803165d53bf7ef45294f4eb0ee905830502&w=1000",
+      "sv": {
+        "title": "Man häktad för mord på kollega",
+        "summary": "En man har häktats misstänkt för mordet på en kvinna i Enköping, rapporterar lokala medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man remanded in custody for murder of colleague",
+        "summary": "A man has been remanded in custody on suspicion of the murder of a woman in Enköping, local media report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T15:15:47+01:00"
+      }
+    },
     {
       "id": "883622266ffc",
       "schema_version": 1,
