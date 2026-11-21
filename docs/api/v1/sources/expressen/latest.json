@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T06:31:08+01:00",
+  "generated_at": "2026-11-21T06:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5ecbe9990124",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=d8229590-d3ea-499e-a609-78853a080bf6",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d8229590-d3ea-499e-a609-78853a080bf6",
+      "published_at": "2026-11-21T06:44:03+01:00",
+      "fetched_at": "2026-11-21T06:45:45+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Landet får svensk polis",
+        "summary": "Öppnar station för att gripa fler",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Country gets Swedish police",
+        "summary": "Opens station to arrest more people"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T06:45:50+01:00"
+      }
+    },
     {
       "id": "7cb5c7127b16",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T02:15:46+01:00"
-      }
-    },
-    {
-      "id": "c60e46f55e39",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/27-ars-fangelse-for-trump-mordplan",
-      "guid": "https://www.expressen.se/nyheter/varlden/27-ars-fangelse-for-trump-mordplan/",
-      "published_at": "2026-11-18T00:52:00+01:00",
-      "fetched_at": "2026-11-18T01:01:19+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "27 års fängelse för Trump-mordplan",
-        "summary": "En pakistansk man döms till drygt 27 års fängelse av en amerikansk domstol för att ha planerat att mörda bland andra Donald Trump.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "27 years in prison for Trump murder plot",
-        "summary": "A Pakistani man is sentenced to just over 27 years in prison by a US court for planning to murder, among others, Donald Trump."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T01:01:24+01:00"
       }
     }
   ]

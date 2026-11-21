@@ -1,7 +1,166 @@
 {
-  "generated_at": "2026-11-21T06:31:08+01:00",
+  "generated_at": "2026-11-21T06:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5ecbe9990124",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=d8229590-d3ea-499e-a609-78853a080bf6",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d8229590-d3ea-499e-a609-78853a080bf6",
+      "published_at": "2026-11-21T06:44:03+01:00",
+      "fetched_at": "2026-11-21T06:45:45+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Landet får svensk polis",
+        "summary": "Öppnar station för att gripa fler",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Country gets Swedish police",
+        "summary": "Opens station to arrest more people"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T06:45:50+01:00"
+      }
+    },
+    {
+      "id": "a4a1af705ae2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/aldre-kvinna-utsattes-for-bedrageri",
+      "guid": "ce557dd1-96f8-4afc-83d0-d8296e8637a3",
+      "published_at": "2026-11-21T06:40:39+01:00",
+      "fetched_at": "2026-11-21T06:45:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Äldre kvinna utsattes för bedrägeri",
+        "summary": "En kvinna i 90-årsåldern blev bestulen efter att först ha blivit uppringd av en falsk bankmedarbetare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elderly woman subjected to fraud",
+        "summary": "A woman in her 90s was robbed after first being called by a fake bank employee."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T06:45:50+01:00"
+      }
+    },
+    {
+      "id": "f42ea702c5e9",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347344",
+      "guid": "rss:sr.se/article/9347344",
+      "published_at": "2026-11-21T06:35:00+01:00",
+      "fetched_at": "2026-11-21T06:45:44+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Svensk polisstation i Irak ska komma åt gängkriminella",
+        "summary": "Svenska poliser ska placeras på stationer i utlandet för att komma åt gängkriminella som flytt Sverige, säger rikspolischef Petra Lundh i Ekots Lördagsintervju.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Swedish police station in Iraq to target gang criminals",
+        "summary": "Swedish police officers are to be posted at stations abroad to target gang criminals who have fled Sweden, says National Police Commissioner Petra Lundh in Ekot's Saturday interview."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T06:45:50+01:00"
+      }
+    },
+    {
+      "id": "49847e518131",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/EbWKPA/ryssarna-sopade-igen-alla-spar-efter-sig",
+      "guid": "https://www.svd.se/a/EbWKPA/ryssarna-sopade-igen-alla-spar-efter-sig?utm_medium=rss",
+      "published_at": "2026-11-21T06:34:14+01:00",
+      "fetched_at": "2026-11-21T06:45:44+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/e1c8c89a-b025-3642-8e21-f5baf2e5fdb3?format=auto&s=e9da618c62d0315f7b7a2788033cd3fa28363ccf&w=1000",
+      "sv": {
+        "title": "”Ryssarna sopade igen alla spår efter sig”",
+        "summary": "Fastigheten pekades ut som rysk spioncentral och Säpo bevakade den från andra sidan gatan.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"The Russians wiped out all traces of themselves\"",
+        "summary": "The property was singled out as a Russian spy centre and Säpo kept it under surveillance from across the street."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T06:45:50+01:00"
+      }
+    },
+    {
+      "id": "ef0dcbcd7e55",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Qro8dx/sa-att-socker-inte-ar-ett-gift-i-tv4-fick-hatmejl",
+      "guid": "https://www.svd.se/a/Qro8dx/sa-att-socker-inte-ar-ett-gift-i-tv4-fick-hatmejl?utm_medium=rss",
+      "published_at": "2026-11-21T06:34:04+01:00",
+      "fetched_at": "2026-11-21T06:45:44+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/955ba50c-697b-3716-9a24-a9bb9f80c00d?format=auto&s=f85799a3617847297c3872f906ddd279692e9f0b&w=1000",
+      "sv": {
+        "title": "”Sa att socker inte är ett gift i TV4 – fick hatmejl”",
+        "summary": "Kroppen är inte så lättmanipulerad, menar SvD Livets nya skribent, fysio­logen Jessica Norrbom, som…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Said sugar is not a poison on TV4 – got hate mail\"",
+        "summary": "The body is not so easily manipulated, argues SvD Livet's new columnist, physiologist Jessica Norrbom, who..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T06:45:50+01:00"
+      }
+    },
+    {
+      "id": "7d08e5efe1ff",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/KrVdB7/vem-ar-ecco2k-artisten-om-nya-albumet-echo",
+      "guid": "https://www.svd.se/a/KrVdB7/vem-ar-ecco2k-artisten-om-nya-albumet-echo?utm_medium=rss",
+      "published_at": "2026-11-21T06:33:40+01:00",
+      "fetched_at": "2026-11-21T06:45:44+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/603005a3-2f60-3885-91fc-2cc676269b21?format=auto&s=167fd3880bfee1cc80379c28270bbf675bf2166c&w=1000",
+      "sv": {
+        "title": "Gåtfulle artisten: ”Det känns hjärtskärande”",
+        "summary": "Sju år har gått sedan Ecco2K:s debut. Under tiden har kulten kring honom vuxit sig allt starkare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Enigmatic artist: \"It feels heartbreaking\"",
+        "summary": "Seven years have passed since Ecco2K's debut. In the meantime, the cult surrounding him has grown ever stronger."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T06:45:50+01:00"
+      }
+    },
     {
       "id": "c37788b90966",
       "schema_version": 1,
@@ -5303,179 +5462,6 @@
       "en": {
         "title": "Universeum hacked: 280,000 guests affected",
         "summary": "Universeum's booking system has been hacked and an unauthorised party has gained access to the data of approximately 280,000 guests…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T17:45:55+01:00"
-      }
-    },
-    {
-      "id": "e47208031caa",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/musik/skivrecension/recension-twice-a-man-reveries-before-silence.cff92850-1dcf-53aa-ba4d-d399b9768cd2",
-      "guid": "cff92850-1dcf-53aa-ba4d-d399b9768cd2",
-      "published_at": "2026-11-20T17:42:35+01:00",
-      "fetched_at": "2026-11-20T18:01:17+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Skivrecension",
-        "Tagg: Recension",
-        "Tagg: Skivrecension",
-        "Tagg: Fröken Snusk",
-        "Tagg: Jennifer Lopez",
-        "Tagg: Liseberg",
-        "Tagg: Ane Brun",
-        "Tagg: Röyksopp",
-        "Tagg: Mark Knopfler"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/af039794-7e7d-3ee9-87d4-d47f658d875f",
-      "sv": {
-        "title": "Synthveteranerna Twice A Man är bättre än på över 30 år",
-        "summary": "”Ett soundtrack från en trädkoja i Amazonas” skriver GP:s Daniel Claeson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Synth veterans Twice A Man are better than in over 30 years",
-        "summary": "\"A soundtrack from a treehouse in the Amazon\" writes GP's Daniel Claeson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:01:24+01:00"
-      }
-    },
-    {
-      "id": "b1c613f4c211",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/rott-i-europa-teknikbolag-rasade",
-      "guid": "ac4fb3b6-22d1-4f28-8698-13d0d9ba2368",
-      "published_at": "2026-11-20T17:41:01+01:00",
-      "fetched_at": "2026-11-20T18:01:17+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Rött i Europa – teknikbolag rasade",
-        "summary": "Europabörserna stängde lägre på fredagen efter att Wall Street fallit på torsdagen. Det breda samlingsindexet Stoxx 600 sjönk 1,9 procent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Red in Europe – tech companies sank",
-        "summary": "European stock exchanges closed lower on Friday after Wall Street fell on Thursday. The broad composite index Stoxx 600 dropped 1.9 percent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:01:24+01:00"
-      }
-    },
-    {
-      "id": "bed13f5194bf",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/nedat-i-norden-nokia-foll-tungt",
-      "guid": "93bbc077-578c-4a88-a562-00cc7fc1f025",
-      "published_at": "2026-11-20T17:38:45+01:00",
-      "fetched_at": "2026-11-20T18:01:17+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nedåt i Norden – Nokia föll tungt",
-        "summary": "De nordiska börserna avslutade fredagen på röda siffror, i likhet med börstendensen i omvärlden, när teknikaktier såldes av. Det regionala samlingsindexet Vinx 30 backade 2,6 procent till 1.463.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Down in the Nordics – Nokia fell sharply",
-        "summary": "Nordic stock exchanges ended Friday in the red, in line with the market trend abroad, as technology shares were sold. The regional composite index Vinx 30 fell 2.6 percent to 1,463."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:01:24+01:00"
-      }
-    },
-    {
-      "id": "8b2750ca8ee8",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/7dS55XtIi9T3ZsiQG3cD5u/valdslarmet-gav-resultat-facket-far-igenom-kraven",
-      "guid": "7dS55XtIi9T3ZsiQG3cD5u",
-      "published_at": "2026-11-20T17:38:28+01:00",
-      "fetched_at": "2026-11-20T17:45:49+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Våldslarmet gav resultat – facket får igenom kraven",
-        "summary": "I höstas rapporterade TV4 Nyheterna om att fackförbundet Sveriges Lärare i Stockholm lämnat in en så kallad 6:6 a-begäran till Stockholm stads utbildningsförvaltning. Det efter att det under september registrerades 338 händelser av hot och våld inom Stockholm stads grundskolor.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Violence alarm leads to results – union gets its demands through",
-        "summary": "Last autumn, TV4 Nyheterna reported that the union Sveriges Lärare in Stockholm had submitted a so-called 6:6 a request to the Stockholm city education administration. This came after 338 incidents of threats and violence were registered in Stockholm city's compulsory schools during September."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T17:45:55+01:00"
-      }
-    },
-    {
-      "id": "aa02c328564e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/illrott-pa-borsen-hemnet-foll-for-attonde-dagen-i-rad",
-      "guid": "f72f5030-c996-4cf0-adb8-61c2d2ca3caf",
-      "published_at": "2026-11-20T17:35:10+01:00",
-      "fetched_at": "2026-11-20T17:45:50+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/933ace1d-87db-40ec-a4d9-f141b9386e66.jpeg?width=600",
-      "sv": {
-        "title": "Illrött på börsen – Hemnet föll för åttonde dagen i rad",
-        "summary": "Stockholmsbörsen avslutade veckan i moll och föll rejält på fredagen. På bolagsnivå föll bostadssajten Hemnet för åttonde dagen i rad efter en reksänkning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Red on the stock market – Hemnet falls for eighth day in a row",
-        "summary": "The Stockholm stock exchange ended the week on a downbeat note and fell sharply on Friday. At company level, property website Hemnet fell for the eighth day in a row after a rights issue."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T17:45:55+01:00"
-      }
-    },
-    {
-      "id": "977337f774e2",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/eu-stryper-stod-till-idrott-med-ryssar",
-      "guid": "44655512-52d7-4456-a3f8-9426733ba3e4",
-      "published_at": "2026-11-20T17:35:09+01:00",
-      "fetched_at": "2026-11-20T17:45:51+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/85058308-95fb-461f-8461-d0b7f8c7b7a6.jpg?width=600",
-      "sv": {
-        "title": "EU stryper stöd till idrott med ryssar",
-        "summary": "EU-kommissionen stryper stödpengar till idrottsförbund och arrangörer som tillåter ryssar att tävla under rysk flagg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "EU cuts support to sport with Russians",
-        "summary": "The European Commission is cutting funding to sports federations and organisers that allow Russians to compete under the Russian flag."
       },
       "translation": {
         "status": "done",

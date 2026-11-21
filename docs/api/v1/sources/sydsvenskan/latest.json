@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T06:31:08+01:00",
+  "generated_at": "2026-11-21T06:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a4a1af705ae2",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/aldre-kvinna-utsattes-for-bedrageri",
+      "guid": "ce557dd1-96f8-4afc-83d0-d8296e8637a3",
+      "published_at": "2026-11-21T06:40:39+01:00",
+      "fetched_at": "2026-11-21T06:45:46+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Äldre kvinna utsattes för bedrägeri",
+        "summary": "En kvinna i 90-årsåldern blev bestulen efter att först ha blivit uppringd av en falsk bankmedarbetare.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Elderly woman subjected to fraud",
+        "summary": "A woman in her 90s was robbed after first being called by a fake bank employee."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T06:45:50+01:00"
+      }
+    },
     {
       "id": "c37788b90966",
       "schema_version": 1,
@@ -5187,32 +5213,6 @@
       "en": {
         "title": "Software fell short – state-of-the-art sterile processing centre at Sus delayed by several years",
         "summary": "The hospital in Malmö was to get the world's most modern robotised sterile processing centre. But supplier Gibotech failed to get its software right, despite a year of persistent attempts. Region Skåne has now terminated the contract and plans to develop its own software. Cost: 40 million kronor."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:01:26+01:00"
-      }
-    },
-    {
-      "id": "a07c56321787",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/quiz/vad-vet-du-om-den-klassiska-skolmaten",
-      "guid": "6710c951-4d7f-4c5c-bb04-9aef3c6eb159",
-      "published_at": "2026-11-18T17:00:00+01:00",
-      "fetched_at": "2026-11-18T17:01:19+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Vad vet du om den klassiska skolmaten?",
-        "summary": "I år fyller den svenska skolmaten 80 år. För att fira det har elever runt om i landet fått testa tidlösa klassiker som köttfärslåda med curry och Flygande Jakob. Men vad kan du om forna tiders favoriter från skolbespisningen?",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "What do you know about classic school food?",
-        "summary": "This year Swedish school food turns 80. To mark the occasion, pupils across the country have been able to try timeless classics such as minced meat casserole with curry and Flying Jacob. But what do you know about the past's favourites from school catering?"
       },
       "translation": {
         "status": "done",
