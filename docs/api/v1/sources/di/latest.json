@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-21T13:15:57+01:00",
+  "generated_at": "2026-11-21T13:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e1961f0ede31",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/fartyg-attackerat-drivit-till-finlandskt-vatten",
+      "guid": "d6eca980-790f-4086-ab1c-fddb5314f94e",
+      "published_at": "2026-11-21T13:23:55+01:00",
+      "fetched_at": "2026-11-21T13:31:03+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a19d3d3a-cbbe-4e7b-b630-4c1cd2ea9411.jpg?width=600",
+      "sv": {
+        "title": "Fartyg attackerat – drivit till finländskt vatten",
+        "summary": "Ett fraktfartyg har attackerats i Finska viken och drivit in i finländskt vatten. Fartyget ifråga står under sanktioner för vapentransporter till den ryska militären.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ship attacked – drifted into Finnish waters",
+        "summary": "A cargo ship was attacked in the Gulf of Finland and drifted into Finnish waters. The vessel in question is under sanctions for transporting weapons to the Russian military."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T13:31:08+01:00"
+      }
+    },
+    {
+      "id": "3e2cd05f7846",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/stugmarknaden-tinar-langt-kvar-till-toppen",
+      "guid": "681762dd-bb9f-4b38-a939-61c5cf9e9974",
+      "published_at": "2026-11-21T13:20:24+01:00",
+      "fetched_at": "2026-11-21T13:31:03+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/8b69c97e-90ef-4e9d-834c-8cafc5f72df4.jpeg?width=600",
+      "sv": {
+        "title": "Stugmarknaden tinar – långt kvar till toppen",
+        "summary": "Marknaden för hus och lägenheter i svenska skidorter börjar långsamt tina efter nedgången direkt efter pandemin. Men högre räntor kyler fortfarande marknaden.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The cabin market thaws – still a long way to the top",
+        "summary": "The market for houses and apartments in Swedish ski resorts is slowly beginning to thaw after the downturn directly following the pandemic. But higher interest rates are still cooling the market."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T13:31:08+01:00"
+      }
+    },
     {
       "id": "6bb217559fc9",
       "schema_version": 1,
@@ -5280,59 +5334,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T19:15:56+01:00"
-      }
-    },
-    {
-      "id": "93c786f492bd",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/ett-styrkebesked-fran-anthropic-men-nu-maste-bolaget-leverera",
-      "guid": "35fe5a73-691f-4747-9891-b6f70bc62713",
-      "published_at": "2026-11-19T18:47:22+01:00",
-      "fetched_at": "2026-11-19T19:01:11+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/e39b4ec2-c9f5-4c25-a644-7c5e0783cc15.jpeg?width=600",
-      "sv": {
-        "title": "Ett styrkebesked från Anthropic – men nu måste bolaget leverera",
-        "summary": "NEW YORK. När handeln i Anthropic-aktien drog i gång rusade kursen med 34 procent. En enormt stark debut för AI-bolaget, vars notering övertecknades kraftigt. Värderingen steg till omkring 1.900 miljarder dollar, vilket placerar bolaget bland världens största börsbolag.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "A show of strength from Anthropic – but now the company must deliver",
-        "summary": "NEW YORK. When trading in Anthropic shares got under way, the price surged 34 percent. A very strong debut for the AI company, whose listing was heavily oversubscribed. The valuation rose to around USD 1,900 billion, placing the company among the world's largest listed companies."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:01:19+01:00"
-      }
-    },
-    {
-      "id": "4aecb263a5e9",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/seb-marknaden-vantar-pa-konkreta-resultat-av-toppmotet",
-      "guid": "978e31ac-6f57-4ba4-9965-c09a4991514e",
-      "published_at": "2026-11-19T18:33:43+01:00",
-      "fetched_at": "2026-11-19T18:45:44+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "SEB: Marknaden väntar på konkreta resultat av toppmötet",
-        "summary": "Den vänliga tonen mellan presidenterna Donald Trump och Xi Jinping var överraskande, men marknaden väntar fortfarande på konkreta resultat. Det säger Eugenia Victorino, Asienstrateg på SEB, till Nyhetsbyrån Direkt.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "SEB: Market awaits concrete results from the summit",
-        "summary": "The friendly tone between presidents Donald Trump and Xi Jinping was surprising, but the market is still waiting for concrete results. That is what Eugenia Victorino, Asia strategist at SEB, tells Nyhetsbyrån Direkt."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:45:57+01:00"
       }
     }
   ]

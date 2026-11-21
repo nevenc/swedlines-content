@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-11-21T13:15:57+01:00",
+  "generated_at": "2026-11-21T13:31:09+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0862beef5d88",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/goteborg/svenska-massans-system-hackat-tusentals-uppgifter-kan-ha-lackt.ba14172f-8232-5752-b056-8ee9a623df08",
+      "guid": "ba14172f-8232-5752-b056-8ee9a623df08",
+      "published_at": "2026-11-21T13:25:55+01:00",
+      "fetched_at": "2026-11-21T13:31:04+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Göteborg",
+        "Tagg: Svenska Mässan",
+        "Tagg: IT-brott",
+        "Tagg: Göteborg"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/5e1aa09a-26a1-3f26-8ec7-5323152d5db5",
+      "sv": {
+        "title": "Svenska mässan Gothia Towers system hackat – tusentals uppgifter kan ha läckt"
+      },
+      "en": {
+        "title": "Gothia Towers trade fair system hacked – thousands of records may have leaked"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T13:31:08+01:00"
+      }
+    },
     {
       "id": "72035c6aaf4b",
       "schema_version": 1,
@@ -6880,37 +6910,6 @@
       "en": {
         "title": "Police's new speed camera has arrived in Västsverige",
         "summary": "Can measure speed from inside the police car."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T19:15:52+01:00"
-      }
-    },
-    {
-      "id": "1fbe17cb8f90",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/ekonomi/gekas-slog-nytt-miljonrekord.bc46a1c9-d990-5c42-9bfb-26584abba4f0",
-      "guid": "bc46a1c9-d990-5c42-9bfb-26584abba4f0",
-      "published_at": "2026-11-16T18:39:53+01:00",
-      "fetched_at": "2026-11-16T19:15:46+01:00",
-      "category": "economy",
-      "feed_categories": [
-        "Ekonomi",
-        "Tagg: Gekås",
-        "Tagg: Julhandeln",
-        "Tagg: Patrik Levin",
-        "Tagg: Ullared"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/94a34c4f-0c2f-3cae-90df-fbe4cf89d3ad",
-      "sv": {
-        "title": "Gekås nya sjuka rekord"
-      },
-      "en": {
-        "title": "Gekås' new record-breaking sales"
       },
       "translation": {
         "status": "done",
