@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-21T12:45:59+01:00",
+  "generated_at": "2026-11-21T13:01:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "65de14e2468b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347647",
+      "guid": "rss:sr.se/article/9347647",
+      "published_at": "2026-11-21T12:58:00+01:00",
+      "fetched_at": "2026-11-21T13:01:11+01:00",
+      "category": "world",
+      "sv": {
+        "title": "600 kvinnor har mördats på tre månader i Sydafrika",
+        "summary": "Det pågår landsomfattande protester i Sydafrika mot den senaste tidens våg av kvinnomord. De senaste siffrorna visar att minst 600 kvinnor mördats i landet mellan juli och september i år.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "600 women have been murdered in three months in South Africa",
+        "summary": "Nationwide protests are under way in South Africa against the recent wave of femicides. The latest figures show that at least 600 women were murdered in the country between July and September this year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T13:01:30+01:00"
+      }
+    },
+    {
+      "id": "74f5cad81ebb",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9344943",
+      "guid": "rss:sr.se/article/9344943",
+      "published_at": "2026-11-21T12:57:00+01:00",
+      "fetched_at": "2026-11-21T13:01:11+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Iranier reser till Irak och fyller resväskor med varor",
+        "summary": "Kriget och USA:s sanktioner har förvärrat den ekonomiska krisen i Iran. Vid gränsen mot Irak reser många iranier över för att köpa varor som de säljer vidare hemma. Zahra från Ahvaz fyller resväskor med gelégodis och andra varor hoppas hon kunna få ihop pengar till familjens utgifter.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Iranians travel to Iraq and fill suitcases with goods",
+        "summary": "The war and US sanctions have worsened Iran's economic crisis. At the border with Iraq, many Iranians cross over to buy goods that they resell at home. Zahra from Ahvaz fills suitcases with gelatin candy and other goods, hoping to raise money for the family's expenses."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T13:01:30+01:00"
+      }
+    },
+    {
+      "id": "50ea36ee9ce1",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/jorn-spolander-snart-kan-kontrollerna-av-fluazinam-forsvinna",
+      "guid": "https://www.dn.se/varlden/jorn-spolander-snart-kan-kontrollerna-av-fluazinam-forsvinna/",
+      "published_at": "2026-11-21T12:47:42+01:00",
+      "fetched_at": "2026-11-21T13:01:11+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/940e349f-9935-40b7-a915-60754dc46c47.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Jörn Spolander: Snart kan kontrollerna av fluazinam försvinna",
+        "summary": "Snart kan kontrollerna av bekämpningsmedel lättas och ämnen som fluazinam godkännas på obestämd tid. Hundratals forskare, läkare och experter varnar för EU:s nya lagförslag. Hur orolig ska man vara? DN:s vetenskapsreporter Jörn Spolander reder ut turerna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Jörn Spolander: Controls on fluazinam may soon disappear",
+        "summary": "Controls on pesticides may soon be eased and substances such as fluazinam approved indefinitely. Hundreds of researchers, doctors and experts warn against the EU's new legislative proposal. How worried should one be? DN's science reporter Jörn Spolander explains the twists and turns."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T13:01:30+01:00"
+      }
+    },
     {
       "id": "046bfc8906fa",
       "schema_version": 1,
@@ -5316,86 +5395,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T19:15:56+01:00"
-      }
-    },
-    {
-      "id": "b2abb0566e4e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/putin-efter-attacken-lovar-att--svara-betydligt-mer-kannbart",
-      "guid": "https://www.expressen.se/nyheter/varlden/putin-efter-attacken-lovar-att--svara-betydligt-mer-kannbart/",
-      "published_at": "2026-11-19T19:01:51+01:00",
-      "fetched_at": "2026-11-19T19:15:43+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Putin efter attacken – lovar att svara: ”Betydligt mer kännbart”",
-        "summary": "Krimbron mellan det ockuperade Krim och Ryssland sprängdes av Ukraina under tisdagen. Nu lovar Rysslands president Vladimir Putin att svara. – Jag tror att vårt svar kommer att bli betydligt mer kännbart än det Kiev har gjort, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the attack – Putin vows to respond: ”Significantly more painful”",
-        "summary": "The Crimean bridge between occupied Crimea and Russia was blown up by Ukraine on Tuesday. Now Russian President Vladimir Putin vows to respond. – I think our response will be significantly more painful than what Kiev has done, he says."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:15:56+01:00"
-      }
-    },
-    {
-      "id": "476369ef1380",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/yz39Lx/tvingades-betala-125-procent-i-skatt-brott-mot-manskliga-rattigheter",
-      "guid": "https://www.aftonbladet.se/nyheter/a/yz39Lx/tvingades-betala-125-procent-i-skatt-brott-mot-manskliga-rattigheter?utm_medium=rss",
-      "published_at": "2026-11-19T18:46:04+01:00",
-      "fetched_at": "2026-11-19T19:01:10+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/af3d9800-3336-3c42-9360-40688130ad05?format=auto&s=ba3c64f59c76f8dd3e4abd3775488448f5b56a08&w=1000",
-      "sv": {
-        "title": "Tvingades betala 125 procent i skatt: ”Brott mot mänskliga rättigheter”",
-        "summary": "Tvingades betala 125 procent i skatt",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Forced to pay 125 percent in tax: \"Violation of human rights\"",
-        "summary": "Forced to pay 125 percent in tax"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:01:19+01:00"
-      }
-    },
-    {
-      "id": "0dc429c05708",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/Wmbdna/kristersson-om-kinamotet-langt-ifran-var-uppfattning",
-      "guid": "https://www.aftonbladet.se/nyheter/a/Wmbdna/kristersson-om-kinamotet-langt-ifran-var-uppfattning?utm_medium=rss",
-      "published_at": "2026-11-19T18:44:17+01:00",
-      "fetched_at": "2026-11-19T18:45:43+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/4aa81eaa-3bb0-3ef0-82e9-152f2033216d?format=auto&s=a5d9fd4792e77d1184750a21881e8d9e8014f816&w=1000",
-      "sv": {
-        "title": "Kristersson om Kinamötet: Långt ifrån vår uppfattning",
-        "summary": "Statsminister Ulf Kristersson (M) är inte imponerad av trepartsmötets ”fredsdeklaration”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kristersson on the China meeting: Far from our view",
-        "summary": "Prime Minister Ulf Kristersson (M) is not impressed by the trilateral meeting’s “peace declaration”."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:45:57+01:00"
       }
     }
   ]

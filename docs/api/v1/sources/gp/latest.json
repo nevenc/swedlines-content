@@ -1,7 +1,38 @@
 {
-  "generated_at": "2026-11-21T12:45:59+01:00",
+  "generated_at": "2026-11-21T13:01:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "72035c6aaf4b",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/vastsverige/boras-ar-med-i-nya-gta-6.86d2c778-5a47-52a2-80c0-e350c5d6740c",
+      "guid": "86d2c778-5a47-52a2-80c0-e350c5d6740c",
+      "published_at": "2026-11-21T12:47:41+01:00",
+      "fetched_at": "2026-11-21T13:01:14+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Västsverige",
+        "Tagg: breaking-GP"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/cdaff970-9d82-33ec-82e4-9be04751013f",
+      "sv": {
+        "title": "Mysteriet: Borås är med i GTA 6",
+        "summary": "Syns på ankomsttavla – detaljen hyllas på Reddit.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Mystery: Borås is in GTA 6",
+        "summary": "Visible on an arrivals board – the detail is praised on Reddit."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T13:01:30+01:00"
+      }
+    },
     {
       "id": "094f1591e1c0",
       "schema_version": 1,
@@ -6887,44 +6918,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T19:15:52+01:00"
-      }
-    },
-    {
-      "id": "9c622a0d498f",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/vastsverige/signalfel-pa-vastra-stambanan-kraftiga-tagforseningar.c1bfaec4-7d79-52bf-ab0b-fcc5580d2884",
-      "guid": "c1bfaec4-7d79-52bf-ab0b-fcc5580d2884",
-      "published_at": "2026-11-16T18:32:25+01:00",
-      "fetched_at": "2026-11-16T18:45:43+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Västsverige",
-        "Tagg: breaking-GP",
-        "Tagg: SJ",
-        "Tagg: Västtrafik",
-        "Tagg: Borås",
-        "Tagg: Stockholm",
-        "Tagg: Trafikverket",
-        "Tagg: Göteborg",
-        "Tagg: Tågtrafik"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/f75245a3-b06c-3c82-9976-06637a3badd0",
-      "sv": {
-        "title": "Kraftiga förseningar i tågtrafiken",
-        "summary": "Signalfel – prognos saknas.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Heavy delays in train traffic",
-        "summary": "Signal fault – no forecast available."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:45:48+01:00"
       }
     }
   ]

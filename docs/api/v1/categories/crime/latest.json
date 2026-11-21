@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T12:45:59+01:00",
+  "generated_at": "2026-11-21T13:01:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "37b7b6c0bfbf",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/byggarbetare-korde-full-i-skelleftea-krockade-med-elskap",
+      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/byggarbetare-korde-full-i-skelleftea-krockade-med-elskap",
+      "published_at": "2026-11-21T12:57:09+01:00",
+      "fetched_at": "2026-11-21T13:01:09+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Byggarbetare körde full i Skellefteå – krockade med elskåp",
+        "summary": "Mannen var nära att köra av vägen med skåpbilen två gånger – tillslut körde han in i ett elskåp i Skellefteå. När han stoppades hade han 2,42 promille i blodet. Nu döms han för grovt rattfylleri.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Construction worker drove drunk in Skellefteå – crashed into electricity cabinet",
+        "summary": "The man nearly drove the van off the road twice before finally driving into an electricity cabinet in Skellefteå. When he was stopped he had 2.42 per mille alcohol in his blood. He is now convicted of aggravated drink-driving."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T13:01:30+01:00"
+      }
+    },
     {
       "id": "c44de27730ad",
       "schema_version": 1,
@@ -5356,32 +5382,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T16:31:15+01:00"
-      }
-    },
-    {
-      "id": "f5801143b3bb",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/sjukvardsanstalld-skadad-misstankt-mordforsok",
-      "guid": "https://www.expressen.se/nyheter/sverige/sjukvardsanstalld-skadad-misstankt-mordforsok/",
-      "published_at": "2026-11-17T16:06:54+01:00",
-      "fetched_at": "2026-11-17T16:15:50+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Sjukvårdsanställd skadad – misstänkt mordförsök",
-        "summary": "En anställd på Kalix hälsocentral har skadats i en attack. En man är gripen misstänkt för mordförsök. – Det här är en fruktansvärd händelse, säger regiondirektör Anna Alm Andersson i ett pressmeddelande.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Healthcare employee injured – suspected attempted murder",
-        "summary": "An employee at the Kalix health centre has been injured in an attack. A man has been arrested on suspicion of attempted murder. – This is a terrible incident, says regional director Anna Alm Andersson in a press release."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:15:57+01:00"
       }
     }
   ]

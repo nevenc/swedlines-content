@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-21T12:45:59+01:00",
+  "generated_at": "2026-11-21T13:01:30+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "b0c643ec00cc",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/bors-eller-bantat-bolan-ett-logiskt-val",
+      "guid": "af791715-259e-4cfb-aff7-a4d2fd280b55",
+      "published_at": "2026-11-21T12:39:07+01:00",
+      "fetched_at": "2026-11-21T13:01:14+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/9771d30c-7125-4862-b083-c5c7fe49895f.jpeg?width=600",
+      "sv": {
+        "title": "Börs eller bantat bolån – ett logiskt val",
+        "summary": "Bolåneräntorna är på väg upp och börsen har vänt ned från rekordnivåerna. Är det läge att amortera eller investera nu? Så här vet du vad som lönar sig bäst.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Stock market or paying down the mortgage – a logical choice",
+        "summary": "Mortgage rates are on the way up and the stock market has turned down from record levels. Is it time to amortise or invest now? Here is what pays off best."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T13:01:30+01:00"
+      }
+    },
+    {
+      "id": "54025d92104f",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/c-topp-v-inte-beredda-att-kompromissa",
+      "guid": "4049a519-9fde-4666-8b29-6f545d8da7c1",
+      "published_at": "2026-11-21T12:32:23+01:00",
+      "fetched_at": "2026-11-21T13:01:14+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/0e26b51d-13a6-4bc3-8caa-6d6b8f11fb63.jpeg?width=600",
+      "sv": {
+        "title": "C-topp: V inte beredda att kompromissa",
+        "summary": "Centerpartiets EU-parlamentariker Emma Wiesner kommenterar nu regeringsförhandlingarna och säger att det egna partiet måste fundera över sina alternativ.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre Party top: Left Party not prepared to compromise",
+        "summary": "Centre Party EU parliamentarian Emma Wiesner comments on the government negotiations and says the party itself must consider its alternatives."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T13:01:30+01:00"
+      }
+    },
     {
       "id": "a36a6cd5a2a8",
       "schema_version": 1,
@@ -5279,60 +5333,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T18:45:57+01:00"
-      }
-    },
-    {
-      "id": "5072a6f3e3c5",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/storbankerna-haller-igen-sparrantan-havar-in-mangmiljoner",
-      "guid": "5eea4304-ea41-41ae-9562-fb65cf875db1",
-      "published_at": "2026-11-19T18:21:30+01:00",
-      "fetched_at": "2026-11-19T18:31:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/b3b92e4b-d751-416f-b8fe-695be0678fa4.jpeg?width=600",
-      "sv": {
-        "title": "Storbankerna håller igen sparräntan – håvar in mångmiljoner",
-        "summary": "Samtliga storbanker har höjt de rörliga boräntorna efter Riksbankens räntehöjning – men flera låter bli att röra sparräntan. Varje räntepunkt ger bankerna mångmiljonintäkter, konstaterar Zmartas hushållsekonom Ola Söderlind, som råder spararna att se över alternativen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Big banks hold back savings rate – rake in millions",
-        "summary": "All major banks have raised variable mortgage rates after the Riksbank's rate hike – but several are not passing on the change to the savings rate. Every rate point brings the banks multi-million income, notes Zmartas household economist Ola Söderlind, who advises savers to review their alternatives."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:31:15+01:00"
-      }
-    },
-    {
-      "id": "bd01bb157985",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/wall-street-vander-ned-drog-med-sig-stockholmsborsen",
-      "guid": "f0f48ef2-c203-41d6-9f56-caf58dbb51e0",
-      "published_at": "2026-11-19T18:02:28+01:00",
-      "fetched_at": "2026-11-19T18:15:48+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/8f978a31-0c29-4390-8c62-10453528264a.jpeg?width=600",
-      "sv": {
-        "title": "Wall Street vänder ned – drog med sig Stockholmsbörsen",
-        "summary": "Torsdagens börsoptimism blev kortvarig. Efter drygt en timmas handel har Wall Street vänt till rött och även Stockholmsbörsen dras med i nedgången.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Wall Street turns down – drags Stockholm stock exchange with it",
-        "summary": "Thursday's stock market optimism was short-lived. After just over an hour of trading, Wall Street has turned red and the Stockholm stock exchange is also being dragged into the decline."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:15:54+01:00"
       }
     }
   ]
