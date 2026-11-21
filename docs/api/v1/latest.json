@@ -1,7 +1,140 @@
 {
-  "generated_at": "2026-11-21T10:31:14+01:00",
+  "generated_at": "2026-11-21T10:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d8d1d5e25cb9",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/LoALOp/s-ledningen-ar-lagt-hangande-frukt",
+      "guid": "https://www.svd.se/a/LoALOp/s-ledningen-ar-lagt-hangande-frukt?utm_medium=rss",
+      "published_at": "2026-11-21T10:38:32+01:00",
+      "fetched_at": "2026-11-21T10:45:46+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/f3b794e4-0dc0-3c45-8386-47320427fe24?format=auto&s=b675e28fb7a2159bb2c75cb792419148e2860cb5&w=1000",
+      "sv": {
+        "title": "S-ledningen är lågt hängande frukt",
+        "summary": "Från högerhåll spås nu att Magdalena Anderssons dagar som partiledare är räknade – och Elisabeth…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Social Democrat leadership is low-hanging fruit",
+        "summary": "Right-wing voices now predict that Magdalena Andersson's days as party leader are numbered – and Elisabeth…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:45:53+01:00"
+      }
+    },
+    {
+      "id": "e67b5390473c",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/smhi-utokar-snovarningen-igen",
+      "guid": "https://www.dn.se/sverige/smhi-utokar-snovarningen-igen/",
+      "published_at": "2026-11-21T10:37:48+01:00",
+      "fetched_at": "2026-11-21T10:45:45+01:00",
+      "category": "weather",
+      "image_url": "https://static.bonniernews.se/ba/c00e7d73-cd43-48d7-a989-ce83c229b40e.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "SMHI utökar snövarningen – igen",
+        "summary": "SMHI har återinfört snövarningen fram till måndagen – som drogs tillbaka under fredagskvällen. Mer snö är med andra ord att vänta. – Vi tittar löpande på nytt prognosmaterial, säger meteorologen Therese Fougman.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI expands snow warning – again",
+        "summary": "SMHI has reinstated the snow warning until Monday – which was withdrawn on Friday evening. In other words, more snow is to be expected. – We are continuously looking at new forecast data, says meteorologist Therese Fougman."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:45:53+01:00"
+      }
+    },
+    {
+      "id": "bdb1fbac5d17",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7e5a37b8-5e02-4846-b09d-0b4a65a5fb1c",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7e5a37b8-5e02-4846-b09d-0b4a65a5fb1c",
+      "published_at": "2026-11-21T10:37:24+01:00",
+      "fetched_at": "2026-11-21T10:45:46+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "SMHI utökar snövarning",
+        "summary": "Gul varning över östra Svealand",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI expands snow warning",
+        "summary": "Yellow warning over eastern Svealand"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:45:53+01:00"
+      }
+    },
+    {
+      "id": "e4448de73aae",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/qOLwk1/dataintrang-mot-gothia-towers",
+      "guid": "https://www.aftonbladet.se/nyheter/a/qOLwk1/dataintrang-mot-gothia-towers?utm_medium=rss",
+      "published_at": "2026-11-21T10:34:37+01:00",
+      "fetched_at": "2026-11-21T10:45:46+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Dataintrång mot Gothia Towers",
+        "summary": "Ett dataintrång har skett mot Svenska Mässan Gothia Towers, skriver Expressen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Data breach at Gothia Towers",
+        "summary": "A data breach has occurred at Svenska Mässan Gothia Towers, writes Expressen."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:45:53+01:00"
+      }
+    },
+    {
+      "id": "f73207dd4c3e",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/qOLOlL/norge-stoppar-statligt-stod-till-bocker-skrivna-med-ai",
+      "guid": "https://www.svd.se/a/qOLOlL/norge-stoppar-statligt-stod-till-bocker-skrivna-med-ai?utm_medium=rss",
+      "published_at": "2026-11-21T10:30:00+01:00",
+      "fetched_at": "2026-11-21T10:45:46+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/0580bf4d-2343-355d-b42f-7abc7d5cc36a?format=auto&s=124eb7acb451cc365855f050c881e4073bbcf193&w=1000",
+      "sv": {
+        "title": "Norge stoppar statligt stöd till AI-litteratur",
+        "summary": "Vill värna ”mänskligt skapad konst” • Inga skärpta regler i Sverige.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Norway stops state support for AI literature",
+        "summary": "Wants to protect \"human-made art\" • No tougher rules in Sweden."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:45:53+01:00"
+      }
+    },
     {
       "id": "a9817cfe098a",
       "schema_version": 1,
@@ -27,6 +160,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T10:31:13+01:00"
+      }
+    },
+    {
+      "id": "1edaa5c7633d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/oro-pa-utdraget-klimattoppmote-alarmerande",
+      "guid": "5273b7d9-0b50-4dc4-b1bd-00ce84750468",
+      "published_at": "2026-11-21T10:29:18+01:00",
+      "fetched_at": "2026-11-21T10:45:48+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/830cd12c-4841-4083-8d88-876cbcd0acd4.jpg?width=600",
+      "sv": {
+        "title": "Oro på utdraget klimattoppmöte: ”Alarmerande”",
+        "summary": "FN:s klimattoppmöte skulle ha avslutats på fredagskvällen, men förhandlingarna fortsätter. Rachel Cleetus vid organisationen Union of Concerned Scientists ser en stor risk att mötet slutar i besvikelse. ”Tyvärr verkar det nästan 100 procent garanterat”, säger hon till TT.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Concern at prolonged climate summit: \"Alarming\"",
+        "summary": "The UN climate summit was due to end on Friday evening, but negotiations continue. Rachel Cleetus of the Union of Concerned Scientists sees a major risk that the meeting ends in disappointment. \"Unfortunately it seems almost 100 percent guaranteed,\" she tells TT."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:45:53+01:00"
       }
     },
     {
@@ -107,6 +267,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T10:31:13+01:00"
+      }
+    },
+    {
+      "id": "72eaf9fef5df",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/langdskidor/alvar-myhlbacks-gladjebesked-kor-10-kilometer-klassiskt",
+      "guid": "https://www.svt.se/sport/langdskidor/alvar-myhlbacks-gladjebesked-kor-10-kilometer-klassiskt",
+      "published_at": "2026-11-21T10:23:50+01:00",
+      "fetched_at": "2026-11-21T10:45:44+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Alvar Myhlbacks glädjebesked: Kör 10 kilometer klassiskt",
+        "summary": "Under fredagen kastade Alvar Myhlback in handduken till sprinten, på grund av sjukdom. Men nu får det vara färdigvilat – 20-åringen kommer till start under 10 kilometer klassiskt i Bruksvallarna. – Han mår bättre idag och kommer att testa, säger hans pappa Petter Myhlback till SVT Sport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alvar Myhlback's good news: Skiing 10 kilometres classic",
+        "summary": "On Friday Alvar Myhlback withdrew from the sprint due to illness. But now it's back on – the 20-year-old will start in the 10 kilometres classic in Bruksvallarna. \"He feels better today and will try, says his father Petter Myhlback to SVT Sport."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:45:53+01:00"
       }
     },
     {
@@ -5229,200 +5415,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T21:31:05+01:00"
-      }
-    },
-    {
-      "id": "16306da975c6",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/20-november-har-ar-dagens-nyheter",
-      "guid": "https://www.dn.se/varlden/20-november-har-ar-dagens-nyheter/",
-      "published_at": "2026-11-20T21:08:33+01:00",
-      "fetched_at": "2026-11-20T21:15:47+01:00",
-      "category": "other",
-      "sv": {
-        "title": "20 november: Här är dagens nyheter",
-        "summary": "Låst mellan de rödgröna, Danmark utvisar rysk försvarsattaché och turistort hotas av hettan – här är nyheterna du inte får missa från dagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "20 November: Here Are Today's News",
-        "summary": "Stuck between the red-greens, Denmark expels a Russian defence attaché and a tourist resort is threatened by the heat – here are the news stories you can't miss from today."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T21:15:54+01:00"
-      }
-    },
-    {
-      "id": "b587100b7917",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/uppgifter-nvidias-redovisning-granskas-av-sec",
-      "guid": "66f0229c-0e0a-4d7f-b8ae-5c9508ce1950",
-      "published_at": "2026-11-20T21:03:10+01:00",
-      "fetched_at": "2026-11-20T21:15:49+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Uppgifter: Nvidias redovisning granskas av SEC",
-        "summary": "Den amerikanska finansinspektionen SEC granskar chipjätten Nvidias redovisning. Det rapporterar Reuters med hänvisning till källor med insyn.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: SEC Reviewing Nvidia's Accounts",
-        "summary": "The US financial regulator SEC is reviewing the accounts of chip giant Nvidia. Reuters reports this, citing sources with insight into the matter."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T21:15:54+01:00"
-      }
-    },
-    {
-      "id": "33aabddb15e0",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/JnowB8/ryssland-har-genomfort-over-100-attentat-mot-europa",
-      "guid": "https://www.aftonbladet.se/nyheter/a/JnowB8/ryssland-har-genomfort-over-100-attentat-mot-europa?utm_medium=rss",
-      "published_at": "2026-11-20T21:02:32+01:00",
-      "fetched_at": "2026-11-20T21:15:48+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/430255ca-f052-3d5f-9190-edc18e2caa57?format=auto&s=70f2ea36e2681f6b40dcfe7d08e687e1baa03255&w=1000",
-      "sv": {
-        "title": "Experten om Ryssland: ”Strategin är att skrämma”",
-        "summary": "”Strategin är att skrämma”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Expert on Russia: \"The Strategy Is to Intimidate\"",
-        "summary": "\"The Strategy Is to Intimidate\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T21:15:54+01:00"
-      }
-    },
-    {
-      "id": "53f82f2ebbbb",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/tv/pa-sparet-duon-utklassade-men-mest-underhallande-pa-hela-sasongen.1baf9345-3b15-5cea-ae0e-9f408f201eac",
-      "guid": "1baf9345-3b15-5cea-ae0e-9f408f201eac",
-      "published_at": "2026-11-20T21:00:15+01:00",
-      "fetched_at": "2026-11-20T21:31:01+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "TV",
-        "Tagg: På spåret",
-        "Tagg: SVT",
-        "Tagg: Kristian Luuk",
-        "Tagg: Uje Brandelius",
-        "Tagg: Fricky"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/ac38dc3e-0a41-31d3-984c-1dc9ff4c95a6",
-      "sv": {
-        "title": "De blev utklassade – men underhöll mest i år",
-        "summary": "Kvällens ”På spåret” innehöll även ett frieri och ett gammalt kärlekspar som återförenades på scen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "They were outclassed – but entertained the most this year",
-        "summary": "Tonight's \"På spåret\" also featured a marriage proposal and an old couple who reunited on stage."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T21:31:05+01:00"
-      }
-    },
-    {
-      "id": "9a5c9bef3ac5",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/polarium-om-dyra-lyxkontoret-vi-har-ordnat-ny-hyresgast",
-      "guid": "409e6834-5185-4b90-ac43-d459d18ea4b9",
-      "published_at": "2026-11-20T20:58:27+01:00",
-      "fetched_at": "2026-11-20T21:15:49+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/5cafcbcd-f797-40e8-b524-9495009549cc.jpeg?width=600",
-      "sv": {
-        "title": "Polarium om dyra lyxkontoret: ”Vi har ordnat ny hyresgäst”",
-        "summary": "En av många berörda av Polariums konkurs är hyresvärden Atrium Ljungberg, som hyr ut ett stort prestigekontor i Stockholm till Harald Mix-bolaget med runt 1 miljon kronor i månadshyra. Men en ny hemlig hyresgäst är på plats, enligt vad Polariums vd säger till Di.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Polarium on Expensive Luxury Office: \"We Have Arranged a New Tenant\"",
-        "summary": "One of many affected by Polarium's bankruptcy is landlord Atrium Ljungberg, which rents out a large prestige office in Stockholm to the Harald Mix company for around SEK 1 million in monthly rent. But a new secret tenant is in place, according to what Polarium's CEO tells Di."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T21:15:54+01:00"
-      }
-    },
-    {
-      "id": "6cbf1b1dcc0e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/gorm-koade-i-19-timmar-for--ikeas-mjukglass-sa-javla-god",
-      "guid": "https://www.expressen.se/nyheter/sverige/gorm-koade-i-19-timmar-for--ikeas-mjukglass-sa-javla-god/",
-      "published_at": "2026-11-20T20:57:10+01:00",
-      "fetched_at": "2026-11-20T21:01:13+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Gorm köade i 19 timmar – för Ikeas mjukglass: ”Så jävla god”",
-        "summary": "Gorm Henriksson ville göra något kul. Därför köade han 19 timmar – för att köpa en mjukglass på Ikea. – Den var så jävla god, säger han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Gorm queued for 19 hours – for Ikea's soft-serve ice cream: \"So damn good\"",
-        "summary": "Gorm Henriksson wanted to do something fun. So he queued for 19 hours to buy a soft-serve ice cream at Ikea. \"It was so damn good, he says.\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T21:01:22+01:00"
-      }
-    },
-    {
-      "id": "9cd751c4eb78",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/hk-malmos-svit-tog-slut-i-partille-kanner-mig-lite-tom",
-      "guid": "7133f75e-e31b-4ea9-9e19-277bbb1e7331",
-      "published_at": "2026-11-20T20:56:05+01:00",
-      "fetched_at": "2026-11-20T21:01:16+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/e807af5d-81cd-45f1-b459-c6723cd41fe3.jpeg?width=600",
-      "sv": {
-        "title": "HK Malmös svit tog slut i Partille: ”Känner mig lite tom”",
-        "summary": "HK Malmö hade åtta raka seriematcher utan förlust. Men i Partille tog det stopp. Sävehof vann fredagens möte med 30–27. – Jag känner mig lite tom, säger HK Malmös Colin Tönnesen i Sydsvenskans sändning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "HK Malmö's streak ends in Partille: \"I feel a bit empty\"",
-        "summary": "HK Malmö had eight straight league matches without defeat. But in Partille the run came to a halt. Sävehof won Friday's match 30–27. \"I feel a bit empty, says HK Malmö's Colin Tönnesen on Sydsvenskan's broadcast.\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T21:01:22+01:00"
       }
     }
   ]

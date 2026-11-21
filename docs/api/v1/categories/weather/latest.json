@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-21T10:31:14+01:00",
-  "count": 56,
+  "generated_at": "2026-11-21T10:45:54+01:00",
+  "count": 58,
   "items": [
+    {
+      "id": "e67b5390473c",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sverige/smhi-utokar-snovarningen-igen",
+      "guid": "https://www.dn.se/sverige/smhi-utokar-snovarningen-igen/",
+      "published_at": "2026-11-21T10:37:48+01:00",
+      "fetched_at": "2026-11-21T10:45:45+01:00",
+      "category": "weather",
+      "image_url": "https://static.bonniernews.se/ba/c00e7d73-cd43-48d7-a989-ce83c229b40e.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "SMHI utökar snövarningen – igen",
+        "summary": "SMHI har återinfört snövarningen fram till måndagen – som drogs tillbaka under fredagskvällen. Mer snö är med andra ord att vänta. – Vi tittar löpande på nytt prognosmaterial, säger meteorologen Therese Fougman.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI expands snow warning – again",
+        "summary": "SMHI has reinstated the snow warning until Monday – which was withdrawn on Friday evening. In other words, more snow is to be expected. – We are continuously looking at new forecast data, says meteorologist Therese Fougman."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:45:53+01:00"
+      }
+    },
+    {
+      "id": "bdb1fbac5d17",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7e5a37b8-5e02-4846-b09d-0b4a65a5fb1c",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7e5a37b8-5e02-4846-b09d-0b4a65a5fb1c",
+      "published_at": "2026-11-21T10:37:24+01:00",
+      "fetched_at": "2026-11-21T10:45:46+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "SMHI utökar snövarning",
+        "summary": "Gul varning över östra Svealand",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI expands snow warning",
+        "summary": "Yellow warning over eastern Svealand"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:45:53+01:00"
+      }
+    },
     {
       "id": "4c4b76a0cfad",
       "schema_version": 1,

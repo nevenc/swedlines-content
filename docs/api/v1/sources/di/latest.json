@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T10:31:14+01:00",
+  "generated_at": "2026-11-21T10:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1edaa5c7633d",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/oro-pa-utdraget-klimattoppmote-alarmerande",
+      "guid": "5273b7d9-0b50-4dc4-b1bd-00ce84750468",
+      "published_at": "2026-11-21T10:29:18+01:00",
+      "fetched_at": "2026-11-21T10:45:48+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/830cd12c-4841-4083-8d88-876cbcd0acd4.jpg?width=600",
+      "sv": {
+        "title": "Oro på utdraget klimattoppmöte: ”Alarmerande”",
+        "summary": "FN:s klimattoppmöte skulle ha avslutats på fredagskvällen, men förhandlingarna fortsätter. Rachel Cleetus vid organisationen Union of Concerned Scientists ser en stor risk att mötet slutar i besvikelse. ”Tyvärr verkar det nästan 100 procent garanterat”, säger hon till TT.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Concern at prolonged climate summit: \"Alarming\"",
+        "summary": "The UN climate summit was due to end on Friday evening, but negotiations continue. Rachel Cleetus of the Union of Concerned Scientists sees a major risk that the meeting ends in disappointment. \"Unfortunately it seems almost 100 percent guaranteed,\" she tells TT."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:45:53+01:00"
+      }
+    },
     {
       "id": "bf55bef28234",
       "schema_version": 1,
@@ -5295,33 +5322,6 @@
       "en": {
         "title": "European stock exchanges turn red",
         "summary": "European stock exchanges had fallen across the board when trading was summed up, after an afternoon dip for several of the world's stock exchanges. The regional composite index was down 0.8 percent."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:45:54+01:00"
-      }
-    },
-    {
-      "id": "217bd31871ac",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/stockholmsborsen-foll-tillbaka-truecaller-rusade",
-      "guid": "de6ca307-b1f4-4671-a795-a4bb705c45e1",
-      "published_at": "2026-11-19T17:38:02+01:00",
-      "fetched_at": "2026-11-19T17:45:48+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/625933ae-232b-4fad-8e9c-385848934da8.jpeg?width=600",
-      "sv": {
-        "title": "Stockholmsbörsen föll tillbaka – Truecaller rusade",
-        "summary": "Stockholmsbörsen föll tillbaka under eftermiddagen i spåren av att Wall Street föll tillbaka. På bolagsnivå rusade Truecaller efter en köpstämpel från ABG.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Stockholm stock exchange falls back – Truecaller surges",
-        "summary": "The Stockholm stock exchange fell back during the afternoon following Wall Street's decline. At company level, Truecaller surged after a buy rating from ABG."
       },
       "translation": {
         "status": "done",

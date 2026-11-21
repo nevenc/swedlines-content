@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T10:31:14+01:00",
+  "generated_at": "2026-11-21T10:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bdb1fbac5d17",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7e5a37b8-5e02-4846-b09d-0b4a65a5fb1c",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7e5a37b8-5e02-4846-b09d-0b4a65a5fb1c",
+      "published_at": "2026-11-21T10:37:24+01:00",
+      "fetched_at": "2026-11-21T10:45:46+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "SMHI utökar snövarning",
+        "summary": "Gul varning över östra Svealand",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI expands snow warning",
+        "summary": "Yellow warning over eastern Svealand"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:45:53+01:00"
+      }
+    },
     {
       "id": "abb81e325524",
       "schema_version": 1,
@@ -5171,29 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T07:31:11+01:00"
-      }
-    },
-    {
-      "id": "ffa02809b535",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=6d907af1-eb0c-4f39-b772-e2688dd1ab89",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=6d907af1-eb0c-4f39-b772-e2688dd1ab89",
-      "published_at": "2026-11-18T07:09:38+01:00",
-      "fetched_at": "2026-11-18T07:15:46+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Xi och Putin träffas – i morgon kommer Trump"
-      },
-      "en": {
-        "title": "Xi and Putin meet – Trump comes tomorrow"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T07:15:54+01:00"
       }
     }
   ]

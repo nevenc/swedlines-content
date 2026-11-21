@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T10:31:14+01:00",
+  "generated_at": "2026-11-21T10:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "72eaf9fef5df",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/langdskidor/alvar-myhlbacks-gladjebesked-kor-10-kilometer-klassiskt",
+      "guid": "https://www.svt.se/sport/langdskidor/alvar-myhlbacks-gladjebesked-kor-10-kilometer-klassiskt",
+      "published_at": "2026-11-21T10:23:50+01:00",
+      "fetched_at": "2026-11-21T10:45:44+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Alvar Myhlbacks glädjebesked: Kör 10 kilometer klassiskt",
+        "summary": "Under fredagen kastade Alvar Myhlback in handduken till sprinten, på grund av sjukdom. Men nu får det vara färdigvilat – 20-åringen kommer till start under 10 kilometer klassiskt i Bruksvallarna. – Han mår bättre idag och kommer att testa, säger hans pappa Petter Myhlback till SVT Sport.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alvar Myhlback's good news: Skiing 10 kilometres classic",
+        "summary": "On Friday Alvar Myhlback withdrew from the sprint due to illness. But now it's back on – the 20-year-old will start in the 10 kilometres classic in Bruksvallarna. \"He feels better today and will try, says his father Petter Myhlback to SVT Sport."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:45:53+01:00"
+      }
+    },
     {
       "id": "0b86454b378e",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "99ab61753994",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/utrikes/ran-av-pokemon-kort-varda-over-en-miljon-i-danmark",
-      "guid": "https://www.svt.se/nyheter/utrikes/ran-av-pokemon-kort-varda-over-en-miljon-i-danmark",
-      "published_at": "2026-11-15T15:32:02+01:00",
-      "fetched_at": "2026-11-15T15:45:37+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Rån av Pokémon-kort värda över en miljon i Danmark",
-        "summary": "En stor polisinsats pågår vid köpcentret i danska Lyngby, efter att rånare kommit över Pokémon-kort värda mer än en miljon danska kronor, rapporterar danska medier.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Robbery of Pokémon cards worth over a million in Denmark",
-        "summary": "A major police operation is under way at the shopping centre in Lyngby, Denmark, after robbers got hold of Pokémon cards worth more than one million Danish kroner, Danish media report."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T15:45:47+01:00"
       }
     }
   ]

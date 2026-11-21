@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T10:31:14+01:00",
+  "generated_at": "2026-11-21T10:45:54+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d8d1d5e25cb9",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/LoALOp/s-ledningen-ar-lagt-hangande-frukt",
+      "guid": "https://www.svd.se/a/LoALOp/s-ledningen-ar-lagt-hangande-frukt?utm_medium=rss",
+      "published_at": "2026-11-21T10:38:32+01:00",
+      "fetched_at": "2026-11-21T10:45:46+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/f3b794e4-0dc0-3c45-8386-47320427fe24?format=auto&s=b675e28fb7a2159bb2c75cb792419148e2860cb5&w=1000",
+      "sv": {
+        "title": "S-ledningen är lågt hängande frukt",
+        "summary": "Från högerhåll spås nu att Magdalena Anderssons dagar som partiledare är räknade – och Elisabeth…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Social Democrat leadership is low-hanging fruit",
+        "summary": "Right-wing voices now predict that Magdalena Andersson's days as party leader are numbered – and Elisabeth…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T10:45:53+01:00"
+      }
+    },
     {
       "id": "741262c1a0ff",
       "schema_version": 1,
@@ -5404,33 +5431,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T12:31:09+01:00"
-      }
-    },
-    {
-      "id": "addf8c7d8e12",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/M5RjER/c-toppen-vi-ar-knappast-krasmagade",
-      "guid": "https://www.aftonbladet.se/nyheter/a/M5RjER/c-toppen-vi-ar-knappast-krasmagade?utm_medium=rss",
-      "published_at": "2026-11-17T12:06:17+01:00",
-      "fetched_at": "2026-11-17T12:15:45+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/943a9947-5945-3b5c-ae36-b282b44d6c24?format=auto&s=8041d7b65fd0dd4120a7821ee7745c4e92a8bff7&w=1000",
-      "sv": {
-        "title": "C-toppen: Vi är knappast kräsmagade",
-        "summary": "Socialdemokraternas totalpaket är långt ifrån färdigförhandlat, menar Centerpartiet. Den ekonomisk-politiska talespersonen Martin Ådahl (C) är också kritisk till V-toppens anklagelse om att partiet är ”kräsmagade”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Party leadership: We are hardly picky",
-        "summary": "The Social Democrats' overall package is far from fully negotiated, the Centre Party says. Economic policy spokesperson Martin Ådahl (C) is also critical of the Left Party leadership's accusation that the party is “picky”."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:16:04+01:00"
       }
     }
   ]
