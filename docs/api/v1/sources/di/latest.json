@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-21T07:15:53+01:00",
+  "generated_at": "2026-11-21T07:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c8e037aecd9a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/suntrade-forhandlar-om-datacenter-kan-behova-nya-pengar",
+      "guid": "f5926839-b787-4dcf-a7cd-958334e9c3fd",
+      "published_at": "2026-11-21T07:26:51+01:00",
+      "fetched_at": "2026-11-21T07:31:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/592ce4d9-6e08-47d2-a154-9f81ce0fd061.jpeg?width=600",
+      "sv": {
+        "title": "Suntrade förhandlar om datacenter – kan behöva nya pengar",
+        "summary": "Spotlightlistade energibolaget Suntrade för samtal med bland annat amerikanska och tyska aktörer om att etablera mindre datacenter i Sverige. Samtidigt flaggar vd Daniel Hedström för att nya pengar behövs om ett halvår om förhandlingarna går i lås.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Suntrade in talks on data centres – may need new money",
+        "summary": "Spotlight-listed energy company Suntrade is in talks with, among others, American and German players about establishing smaller data centres in Sweden. Meanwhile, CEO Daniel Hedström flags that new money will be needed in half a year if the negotiations reach a deadlock."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:31:10+01:00"
+      }
+    },
+    {
+      "id": "d583ca3095ba",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/anthropic-anstalld-pastar-sig-ha-lost-historiskt-matteproblem",
+      "guid": "8ec71ded-83fc-4ff8-ae51-63b56aa36566",
+      "published_at": "2026-11-21T07:25:52+01:00",
+      "fetched_at": "2026-11-21T07:31:04+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c028541a-5e87-47e0-a253-bf9455070f8c.jpeg?width=600",
+      "sv": {
+        "title": "Anthropic-anställd påstår sig ha löst historiskt matteproblem",
+        "summary": "Riemannhypotesen har varit en gåta sedan 1800-talet. Nu hävdar en Anthropic-anställd matematiker att han hittat en lösning med hjälp av bolagets AI.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic employee claims to have solved historic maths problem",
+        "summary": "The Riemann hypothesis has been a puzzle since the 1800s. Now an Anthropic-employed mathematician claims he has found a solution with the help of the company's AI."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:31:10+01:00"
+      }
+    },
     {
       "id": "59fdbeb868e9",
       "schema_version": 1,
@@ -5265,58 +5319,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T17:01:27+01:00"
-      }
-    },
-    {
-      "id": "08b63875f163",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/borsmorgon/techforvaltaren-vi-ansokte-om-anthropic-aktier",
-      "guid": "86e44339-8962-5f52-a7f4-e5d9422e471b",
-      "published_at": "2026-11-19T16:50:25+01:00",
-      "fetched_at": "2026-11-19T17:01:18+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Techförvaltaren: Vi ansökte om Anthropic-aktier",
-        "summary": "Kristofer Barrett, förvaltare Carmignac, om Anthropics notering.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tech manager: We applied for Anthropic shares",
-        "summary": "Kristofer Barrett, fund manager at Carmignac, on Anthropic's listing."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:01:27+01:00"
-      }
-    },
-    {
-      "id": "beea4b09a02e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/wall-street-vander-ned-drar-med-sig-stockholmsborsen-o_xyQ",
-      "guid": "f0f48ef2-c203-41d6-9f56-caf58dbb51e0",
-      "published_at": "2026-11-19T16:44:10+01:00",
-      "fetched_at": "2026-11-19T16:45:45+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Wall Street vänder ned – drar med sig Stockholmsbörsen",
-        "summary": "Torsdagens börsoptimism blev kortvarig. Efter drygt en timmas handel har Wall Street vänt till rött och även Stockholmsbörsen dras med i nedgången.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Wall Street turns down – drags the Stockholm Stock Exchange with it",
-        "summary": "Thursday's stock market optimism was short-lived. After just over an hour of trading, Wall Street has turned red and the Stockholm Stock Exchange is also being dragged into the decline."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T16:45:52+01:00"
       }
     }
   ]

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T07:15:53+01:00",
+  "generated_at": "2026-11-21T07:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "4c8ba0d73289",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/heidi-avellan/den-har-rubriken-namner-ju-knappt-bryssel",
+      "guid": "730ec47e-deef-4189-97a8-85c97f147469",
+      "published_at": "2026-11-21T07:17:00+01:00",
+      "fetched_at": "2026-11-21T07:31:06+01:00",
+      "category": "other",
+      "image_url": "https://static.bonniernews.se/ba/9007338a-cc43-413e-8669-68e90267c209.jpeg?width=600",
+      "sv": {
+        "title": "Den här rubriken nämner ju knappt Bryssel",
+        "summary": "Det är bäst att tassa försiktigt för att bli läst. Kanske bara lägga skulden för något riktigt dumt på unionen. För vad EU gör bra ger inga klick.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This headline barely mentions Brussels",
+        "summary": "It is best to tread carefully to be read. Perhaps just blame the union for something really stupid. Because what the EU does well gets no clicks."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:31:10+01:00"
+      }
+    },
     {
       "id": "047054426900",
       "schema_version": 1,
@@ -5193,33 +5220,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T17:45:57+01:00"
-      }
-    },
-    {
-      "id": "bd8ae52f1506",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/nvidias-aktie-faller-efter-stark-rapport",
-      "guid": "f9c75710-6a85-43fd-bf2d-835b6dbb9bc6",
-      "published_at": "2026-11-18T17:19:58+01:00",
-      "fetched_at": "2026-11-18T17:31:07+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/593ed22f-b24b-4311-a575-a3979674cbce.jpg?width=600",
-      "sv": {
-        "title": "Nvidias aktie faller efter stark rapport",
-        "summary": "Nvidias aktie faller i onsdagshandeln, trots att AI-jättens delårsrapport klådde förväntningarna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nvidia shares fall after strong report",
-        "summary": "Nvidia shares are falling in Wednesday trading, even though the AI giant's interim report beat expectations."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:31:12+01:00"
       }
     }
   ]
