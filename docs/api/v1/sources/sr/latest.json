@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T17:15:51+01:00",
+  "generated_at": "2026-11-21T17:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "04f480cdf44a",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347673",
+      "guid": "rss:sr.se/article/9347673",
+      "published_at": "2026-11-21T17:15:00+01:00",
+      "fetched_at": "2026-11-21T17:30:59+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Risk för dyrare el – partier vill pressa elnätsavgifterna",
+        "summary": "Mycket talar för högre elkostnader för hushållen framöver. Elskatten väntas höjas, högkostnadsskyddet löper snart ut och besked väntas om nästa års elnätsavgifter. Partier vill se hårdare reglering av elnätsavgiften för att hålla tillbaka kostnaderna.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Risk of higher electricity prices – parties want to press down grid fees",
+        "summary": "Much suggests higher electricity costs for households ahead. The electricity tax is expected to rise, the high-cost protection will soon expire and a decision is expected on next year's grid fees. Parties want stricter regulation of the grid fee to hold back costs."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:31:09+01:00"
+      }
+    },
     {
       "id": "1390767f609d",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T08:45:53+01:00"
-      }
-    },
-    {
-      "id": "45dd4fe8f5db",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341332",
-      "guid": "rss:sr.se/article/9341332",
-      "published_at": "2026-11-16T07:46:00+01:00",
-      "fetched_at": "2026-11-16T08:01:11+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Vädjan till svenska företag: Satsa i utvecklingsländer",
-        "summary": "Demonstrationerna i världen bland unga i både fattiga och rika länder som har krav på framtidsmöjligheter. Förhoppningen är att få med svenska företag på satsningar i utvecklingsländer för att skapa jobb för unga.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Appeal to Swedish companies: Invest in developing countries",
-        "summary": "Demonstrations around the world by young people in both poor and rich countries demanding future opportunities. The hope is to get Swedish companies on board with investments in developing countries to create jobs for young people."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T08:01:18+01:00"
       }
     }
   ]

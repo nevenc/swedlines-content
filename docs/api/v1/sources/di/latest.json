@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T17:15:51+01:00",
+  "generated_at": "2026-11-21T17:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "90ddb28e3985",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/swedish-fintech-rasar-mot-ny-eu-skatt-pa-natjattar",
+      "guid": "420109b8-feed-431e-912b-149b14a82dc7",
+      "published_at": "2026-11-21T17:28:00+01:00",
+      "fetched_at": "2026-11-21T17:31:03+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/38cb1708-0262-48cb-9c4b-e71c2c2f8281.jpeg?width=600",
+      "sv": {
+        "title": "Swedish Fintech rasar mot ny EU-skatt på nätjättar",
+        "summary": "EU-förslaget om att införa en ny EU-skatt på globala nätjättar för att rädda EU:s långtidsbudget kan utlösa ett nytt tullkrig, varnar branschorganisationen Swedish Fintech.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish Fintech slams new EU tax on tech giants",
+        "summary": "The EU proposal to introduce a new EU tax on global tech giants to rescue the EU's long-term budget could trigger a new trade war, warns the industry body Swedish Fintech."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:31:09+01:00"
+      }
+    },
     {
       "id": "d4aa18599635",
       "schema_version": 1,
@@ -5310,33 +5337,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T20:01:24+01:00"
-      }
-    },
-    {
-      "id": "be06996e9ec4",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/108-miljoner-for-sallsynt-klint",
-      "guid": "e34e19a3-9148-4d82-904d-7cf205f8640c",
-      "published_at": "2026-11-19T19:42:54+01:00",
-      "fetched_at": "2026-11-19T19:45:54+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/bb4ad516-5341-4c53-8098-5c9d68bbbb9c.jpeg?width=600",
-      "sv": {
-        "title": "108 miljoner för sällsynt Klint",
-        "summary": "Hilma af Klints sällsynta abstrakta målning ”Ser III No. 5” klubbades för rekordpriset 108 miljoner kronor på Bukowskis. Samtidigt laddar konkurrenten Stockholms Auktionsverk för att sälja två verk med miljonvärderingar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "108 million for rare Klint",
-        "summary": "Hilma af Klint's rare abstract painting “Ser III No. 5” was knocked down for a record price of 108 million kronor at Bukowskis. Meanwhile, rival Stockholms Auktionsverk is gearing up to sell two works valued in the millions."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:46:07+01:00"
       }
     }
   ]

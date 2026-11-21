@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T17:15:51+01:00",
+  "generated_at": "2026-11-21T17:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ef1485db1278",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/krigsexpert-finns-risk-for-varre-konsekvenser",
+      "guid": "https://www.expressen.se/nyheter/varlden/krigsexpert-finns-risk-for-varre-konsekvenser/",
+      "published_at": "2026-11-21T17:19:09+01:00",
+      "fetched_at": "2026-11-21T17:31:02+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Krigsexpert: Finns risk för värre konsekvenser",
+        "summary": "Ett ryskkopplat fraktfartyg attackerades i Finska viken. Finland, baltländerna och Sverige har kopplats in. Krigsexperten Hans Liwång ser framför sig att konflikten kommer att eskalera. – Det finns risk att detta leder till värre konsekvenser, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Military expert: Risk of worse consequences",
+        "summary": "A Russia-linked cargo ship was attacked in the Gulf of Finland. Finland, the Baltic states and Sweden have been brought in. Military expert Hans Liwång expects the conflict to escalate. – There is a risk that this leads to worse consequences, he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:31:09+01:00"
+      }
+    },
     {
       "id": "3278bf813be2",
       "schema_version": 1,
@@ -5164,32 +5190,6 @@
       "en": {
         "title": "Trump shakes hands with Putin",
         "summary": "Here the world leaders meet • Watch the clip"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T14:01:21+01:00"
-      }
-    },
-    {
-      "id": "d55675254a01",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/fallet-malin-pappa-pressades-av-socialtjansten",
-      "guid": "https://www.expressen.se/nyheter/sverige/fallet-malin-pappa-pressades-av-socialtjansten/",
-      "published_at": "2026-11-18T13:43:59+01:00",
-      "fetched_at": "2026-11-18T14:01:13+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Fallet Malin: Pappa pressades av socialtjänsten",
-        "summary": "Malins son omhändertogs när han var tre dagar – på felaktiga grunder. Nu berättar pappan om hur han pressades av socialtjänsten att peka ut Malin för att inte förlora sonen. – Jag fick kasta henne under bussen. Annars hade Leo inte haft någon pappa heller, säger han till SVT:s Uppdrag granskning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The Malin case: Father was pressured by social services",
-        "summary": "Malin's son was taken into care when he was three days old – on wrong grounds. Now the father describes how social services pressured him to point out Malin in order not to lose his son. \"I had to throw her under the bus. Otherwise Leo wouldn't have had a father either,\" he tells SVT's Uppdrag granskning."
       },
       "translation": {
         "status": "done",
