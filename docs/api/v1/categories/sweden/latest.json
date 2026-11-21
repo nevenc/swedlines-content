@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T05:01:15+01:00",
+  "generated_at": "2026-11-21T05:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8592eaa14a53",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/skonhetsoperationen-inifran-det-ar-inte-ofarligt",
+      "guid": "https://www.expressen.se/nyheter/sverige/skonhetsoperationen-inifran-det-ar-inte-ofarligt/",
+      "published_at": "2026-11-21T05:00:00+01:00",
+      "fetched_at": "2026-11-21T05:15:48+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Skönhetsoperationen inifrån: ”Det är inte ofarligt”",
+        "summary": "Plastikkirurgen Tyge Tindholdt skrubbar händerna rena utanför operationssalen i Malmö. Om några minuter ska han operera en kvinna som gått ner mycket i vikt. Han säger att han aldrig haft så mycket att göra som nu. – Många tycker att det ”bara” är plastikkirurgi, men patienten sövs.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Cosmetic surgery from the inside: \"It is not harmless\"",
+        "summary": "Plastic surgeon Tyge Tindholdt scrubs his hands clean outside the operating theatre in Malmö. In a few minutes he is to operate on a woman who has lost a lot of weight. He says he has never had so much to do as now. – Many think it is \"just\" plastic surgery, but the patient is put under anaesthesia."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T05:15:55+01:00"
+      }
+    },
     {
       "id": "15b3fb59e646",
       "schema_version": 1,
@@ -5408,33 +5434,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T19:01:19+01:00"
-      }
-    },
-    {
-      "id": "6bd9ccded491",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/vesna-prekopic-larare-blir-hotade-och-spottade-pa-det-kravs-kulturforandring",
-      "guid": "https://www.dn.se/kultur/vesna-prekopic-larare-blir-hotade-och-spottade-pa-det-kravs-kulturforandring/",
-      "published_at": "2026-11-17T18:34:33+01:00",
-      "fetched_at": "2026-11-17T18:45:40+01:00",
-      "category": "sweden",
-      "image_url": "https://static.bonniernews.se/ba/04acb480-38a9-48c5-b5be-bb74b4a1db10.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Vesna Prekopic: Lärare blir hotade och spottade på – det krävs kulturförändring",
-        "summary": "Våld mot lärare fortsätter att öka. Skolan är numera en arbetsplats där man som anställd får räkna med våld, konstaterar Vesna Prekopic, som efterlyser förändrade attityder.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Vesna Prekopic: Teachers are threatened and spat on – a cultural change is needed",
-        "summary": "Violence against teachers continues to rise. The school is now a workplace where employees must expect violence, says Vesna Prekopic, who calls for changed attitudes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T18:45:46+01:00"
       }
     }
   ]
