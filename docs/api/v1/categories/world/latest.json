@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-21T11:01:22+01:00",
+  "generated_at": "2026-11-21T11:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d104041cbe2b",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347614",
+      "guid": "rss:sr.se/article/9347614",
+      "published_at": "2026-11-21T11:01:00+01:00",
+      "fetched_at": "2026-11-21T11:15:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ilska mot COP31: ”Sämsta klimatmötet hittills”",
+        "summary": "Klimattoppmötet COP31 drar ut på tiden utan ett godkänt slutdokument, samtidigt som klimatdemonstranter uttrycker sitt missnöje. Saudiarabien och andra olje- och gasproducerande länder motsätter sig utfasning av fossila bränslen, medan Panama kräver åtgärder för minskad användning.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Anger at COP31: ”Worst climate summit so far”",
+        "summary": "The COP31 climate summit is dragging on without an approved final document, while climate demonstrators voice their dissatisfaction. Saudi Arabia and other oil- and gas-producing countries oppose phasing out fossil fuels, while Panama demands measures to reduce their use."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T11:15:50+01:00"
+      }
+    },
+    {
+      "id": "c186e4322ffe",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Oyp1gE/fn-lamnar-sodra-libanon-hizbollah-ar-annu-inte-besegrat",
+      "guid": "https://www.svd.se/a/Oyp1gE/fn-lamnar-sodra-libanon-hizbollah-ar-annu-inte-besegrat?utm_medium=rss",
+      "published_at": "2026-11-21T11:00:00+01:00",
+      "fetched_at": "2026-11-21T11:15:43+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/3a3cf5f3-7f60-3934-9ee8-6d8c9a9b9194?format=auto&s=ab2125a904a8a46b3f4aed6ccb62c638cc8116a2&w=1000",
+      "sv": {
+        "title": "Vem ska hindra Hizbollah?",
+        "summary": "Efter ett halvt sekel lämnar FN Libanon utan fred.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Who will stop Hizbollah?",
+        "summary": "After half a century, the UN leaves Lebanon without peace."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T11:15:50+01:00"
+      }
+    },
     {
       "id": "b94fabb10eba",
       "schema_version": 1,
@@ -5360,59 +5413,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T17:45:54+01:00"
-      }
-    },
-    {
-      "id": "e721049049c4",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346545",
-      "guid": "rss:sr.se/article/9346545",
-      "published_at": "2026-11-19T17:22:00+01:00",
-      "fetched_at": "2026-11-19T17:31:05+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Skyskrapa attackerad i Saudiarabien",
-        "summary": "Saudiarabiens civilförsvarsmyndighet uppger att en skyskrapa i huvudstaden Riyadhs finanscentrum har träffats i en attack från Huthirebellerna, rapporterar Al Jazeera. Attacken ska ha orsakat materiella skador, men inga personskador.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Skyscraper attacked in Saudi Arabia",
-        "summary": "Saudi Arabia's civil defence authority says a skyscraper in the financial district of the capital Riyadh has been hit in an attack from the Houthi rebels, reports Al Jazeera. The attack is said to have caused material damage but no injuries."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:31:18+01:00"
-      }
-    },
-    {
-      "id": "9207fdc3ee9d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/ARdqEz/sa-reser-trump-xi-och-putin",
-      "guid": "https://www.aftonbladet.se/nyheter/a/ARdqEz/sa-reser-trump-xi-och-putin?utm_medium=rss",
-      "published_at": "2026-11-19T16:53:15+01:00",
-      "fetched_at": "2026-11-19T17:01:16+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/bf61e10d-6282-39ca-baac-64b621dc14fd?format=auto&s=ea96d971b80c90900d96d5ef42fa74c978f51555&w=1000",
-      "sv": {
-        "title": "Pansarbilar, massförstörelseväskor och hemliga toalettsystem – så reser Trump, Xi och Putin",
-        "summary": "Pansarbil, domedagsväska och hemlig toalett",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Armoured cars, mass-destruction bags and secret toilet systems – how Trump, Xi and Putin travel",
-        "summary": "Armoured car, doomsday bag and secret toilet"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T17:01:27+01:00"
       }
     }
   ]

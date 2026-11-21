@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T11:01:22+01:00",
+  "generated_at": "2026-11-21T11:15:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "421e8b73a2e2",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/debatt/svenska-kyrkan-far-inte-drivas-som-fastighetsbolag",
+      "guid": "01fff44c-64a6-4845-bdb7-325f68769207",
+      "published_at": "2026-11-21T11:00:00+01:00",
+      "fetched_at": "2026-11-21T11:15:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/a56f53b7-240f-4bc1-8a1d-2a1beaadac5d.jpeg?width=600",
+      "sv": {
+        "title": "Svenska kyrkan får inte drivas som fastighetsbolag",
+        "summary": "Kyrkan ska inte drivas som ett fastighetsbolag. Den ska vara kyrka. Just därför räcker det inte att lämna en budget i balans om kyrktaken samtidigt förfaller. Vår uppgift är att lämna vidare både kulturarvet och de ekonomiska förutsättningarna för att hålla det öppet, skriver Dag Detter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Church of Sweden must not be run like a property company",
+        "summary": "The church should not be run as a property company. It should be a church. That is precisely why it is not enough to leave a budget in balance if the church roofs are falling into disrepair at the same time. Our task is to pass on both the cultural heritage and the financial conditions needed to keep it open, writes Dag Detter."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T11:15:50+01:00"
+      }
+    },
     {
       "id": "88d5ca07e013",
       "schema_version": 1,
@@ -5297,32 +5324,6 @@
       "en": {
         "title": "Anthropic soars in stock market debut",
         "summary": "After a long wait, trading in AI giant Anthropic is now under way. The share opened at 111.5 dollars, or about 34 percent above the subscription price of 83 dollars."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:01:29+01:00"
-      }
-    },
-    {
-      "id": "19bbfe40aa9d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/nordenborser-pa-rott-subsea-7-steg",
-      "guid": "0cb3b2b3-bb04-4f52-9308-061ea6354347",
-      "published_at": "2026-11-19T17:54:56+01:00",
-      "fetched_at": "2026-11-19T18:01:21+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nordenbörser på rött – Subsea 7 steg",
-        "summary": "De nordiska börserna avslutar torsdagen på röda siffror, efter en oregelbunden handel som blev successivt surare efter att USA-börserna hade öppnat. Det regionala samlingsindexet Vinx 30 backade 0,5 procent till 1.502.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Nordic bourses in red – Subsea 7 rises",
-        "summary": "The Nordic stock markets closed Thursday in the red, after irregular trading that gradually turned sourer after US markets opened. The regional composite index Vinx 30 fell 0.5 percent to 1,502."
       },
       "translation": {
         "status": "done",
