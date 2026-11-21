@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T08:01:15+01:00",
+  "generated_at": "2026-11-21T08:15:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e43c80487782",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/analys/fyndlage-nar-storagarna-lattar",
+      "guid": "bd469d36-407a-49ba-829b-11730320bee9",
+      "published_at": "2026-11-21T07:59:46+01:00",
+      "fetched_at": "2026-11-21T08:15:42+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/b0ca0b04-2b97-4a61-846e-d66f2225fc5d.jpeg?width=600",
+      "sv": {
+        "title": "Fyndläge när storägarna lättar",
+        "summary": "Aktien ser ut som ett fynd efter storägarnas massiva försäljningar. Kanske är bolaget en potentiell investeringskandidat för Investor. Di rekommenderar köp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Bargain opportunity as major owners sell down",
+        "summary": "The share looks like a bargain after the major owners' massive sales. Perhaps the company is a potential investment candidate for Investor. They recommend buying."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T08:15:48+01:00"
+      }
+    },
     {
       "id": "c8e037aecd9a",
       "schema_version": 1,
@@ -5283,33 +5310,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T07:45:51+01:00"
-      }
-    },
-    {
-      "id": "9a069c01de4f",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/har-ar-fredagens-aktierekar-Bthcv",
-      "guid": "3519d473-c723-4fd0-aefa-db01c6b80644",
-      "published_at": "2026-11-20T07:21:36+01:00",
-      "fetched_at": "2026-11-20T07:31:07+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/16e9a585-10d0-4e94-8040-83f85976533a.jpeg?width=600",
-      "sv": {
-        "title": "Här är fredagens aktierekar",
-        "summary": "Kursplågade Hemnet får sänkt råd och samma gäller för ett av börsen största, tillika Lundbergägda verkstadsbolag. Här är fredagens nya aktierekommendationer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here are Friday's stock picks",
-        "summary": "Hemnet, whose share price has been battered, has its rating lowered, and the same goes for one of the exchange's largest engineering companies, which is owned by Lundbergs. Here are Friday's new stock recommendations."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:31:23+01:00"
       }
     }
   ]
