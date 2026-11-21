@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T12:01:24+01:00",
-  "count": 199,
+  "generated_at": "2026-11-21T12:15:52+01:00",
+  "count": 202,
   "items": [
+    {
+      "id": "0c1dc2c31062",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/vintersport/edvin-anger-besviken-efter-ny-missrakning-klart-jag-blir-orolig",
+      "guid": "https://www.svt.se/sport/vintersport/edvin-anger-besviken-efter-ny-missrakning-klart-jag-blir-orolig",
+      "published_at": "2026-11-21T12:03:35+01:00",
+      "fetched_at": "2026-11-21T12:15:45+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Edvin Anger besviken efter ny missräkning: ”Klart jag blir orolig”",
+        "summary": "Ny dag, ny missräkning för Edvin Anger. Nu överväger svensken att lämna Bruksvallarna i förtid, och fortsätta ladda för världscuppremiären. – Det är klart att jag blir orolig, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Edvin Anger disappointed after new miss: \"Of course I'm getting worried\"",
+        "summary": "New day, new miss for Edvin Anger. Now the Swede is considering leaving Bruksvallarna early, and continuing to prepare for the World Cup season opener. – Of course I'm getting worried, he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:15:52+01:00"
+      }
+    },
     {
       "id": "2ef36c87145a",
       "schema_version": 1,
@@ -54,6 +80,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T12:01:23+01:00"
+      }
+    },
+    {
+      "id": "c44de27730ad",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/dJOBrX/man-anhallen-misstanks-for-inblandning-i-mordet-i-bagarmossen",
+      "guid": "https://www.aftonbladet.se/nyheter/a/dJOBrX/man-anhallen-misstanks-for-inblandning-i-mordet-i-bagarmossen?utm_medium=rss",
+      "published_at": "2026-11-21T11:53:37+01:00",
+      "fetched_at": "2026-11-21T12:15:47+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Man anhållen – misstänks för inblandning i mordet i Bagarmossen",
+        "summary": "Misstänks för inblandning i mord",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man detained – suspected of involvement in the murder in Bagarmossen",
+        "summary": "Suspected of involvement in murder"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:15:52+01:00"
       }
     },
     {
@@ -161,6 +213,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T11:45:53+01:00"
+      }
+    },
+    {
+      "id": "f6f50a20c4a1",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/0vnlrM/carina-bergfeldt-borde-ha-hallits-isar",
+      "guid": "https://www.aftonbladet.se/nyheter/a/0vnlrM/carina-bergfeldt-borde-ha-hallits-isar?utm_medium=rss",
+      "published_at": "2026-11-21T11:41:05+01:00",
+      "fetched_at": "2026-11-21T12:15:47+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/d6830670-d6ef-3d39-9d3d-151ab3297c59?format=auto&s=f01260706e08fc657901f3152b48928ccdf231be&w=1000",
+      "sv": {
+        "title": "Carina Bergfeldt efter kritiken: ”Borde ha hållits isär”",
+        "summary": "Bergfeldt uppringd av sin chef",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Carina Bergfeldt after criticism: \"Should have been kept apart\"",
+        "summary": "Bergfeldt called by her boss"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:15:52+01:00"
       }
     },
     {

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T12:01:24+01:00",
+  "generated_at": "2026-11-21T12:15:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0c1dc2c31062",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/vintersport/edvin-anger-besviken-efter-ny-missrakning-klart-jag-blir-orolig",
+      "guid": "https://www.svt.se/sport/vintersport/edvin-anger-besviken-efter-ny-missrakning-klart-jag-blir-orolig",
+      "published_at": "2026-11-21T12:03:35+01:00",
+      "fetched_at": "2026-11-21T12:15:45+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Edvin Anger besviken efter ny missräkning: ”Klart jag blir orolig”",
+        "summary": "Ny dag, ny missräkning för Edvin Anger. Nu överväger svensken att lämna Bruksvallarna i förtid, och fortsätta ladda för världscuppremiären. – Det är klart att jag blir orolig, säger han.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Edvin Anger disappointed after new miss: \"Of course I'm getting worried\"",
+        "summary": "New day, new miss for Edvin Anger. Now the Swede is considering leaving Bruksvallarna early, and continuing to prepare for the World Cup season opener. – Of course I'm getting worried, he says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:15:52+01:00"
+      }
+    },
     {
       "id": "2ef36c87145a",
       "schema_version": 1,
@@ -54,6 +80,32 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T12:01:23+01:00"
+      }
+    },
+    {
+      "id": "c44de27730ad",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/dJOBrX/man-anhallen-misstanks-for-inblandning-i-mordet-i-bagarmossen",
+      "guid": "https://www.aftonbladet.se/nyheter/a/dJOBrX/man-anhallen-misstanks-for-inblandning-i-mordet-i-bagarmossen?utm_medium=rss",
+      "published_at": "2026-11-21T11:53:37+01:00",
+      "fetched_at": "2026-11-21T12:15:47+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Man anhållen – misstänks för inblandning i mordet i Bagarmossen",
+        "summary": "Misstänks för inblandning i mord",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man detained – suspected of involvement in the murder in Bagarmossen",
+        "summary": "Suspected of involvement in murder"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:15:52+01:00"
       }
     },
     {
@@ -161,6 +213,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T11:45:53+01:00"
+      }
+    },
+    {
+      "id": "f6f50a20c4a1",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/0vnlrM/carina-bergfeldt-borde-ha-hallits-isar",
+      "guid": "https://www.aftonbladet.se/nyheter/a/0vnlrM/carina-bergfeldt-borde-ha-hallits-isar?utm_medium=rss",
+      "published_at": "2026-11-21T11:41:05+01:00",
+      "fetched_at": "2026-11-21T12:15:47+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/d6830670-d6ef-3d39-9d3d-151ab3297c59?format=auto&s=f01260706e08fc657901f3152b48928ccdf231be&w=1000",
+      "sv": {
+        "title": "Carina Bergfeldt efter kritiken: ”Borde ha hållits isär”",
+        "summary": "Bergfeldt uppringd av sin chef",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Carina Bergfeldt after criticism: \"Should have been kept apart\"",
+        "summary": "Bergfeldt called by her boss"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:15:52+01:00"
       }
     },
     {
@@ -5373,85 +5452,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T00:31:03+01:00"
-      }
-    },
-    {
-      "id": "eec3a4d5d248",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/glomde-foremal-i-patientens-huvud",
-      "guid": "https://www.expressen.se/nyheter/sverige/glomde-foremal-i-patientens-huvud/",
-      "published_at": "2026-11-21T00:02:58+01:00",
-      "fetched_at": "2026-11-21T00:15:50+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Glömde föremål i patientens huvud",
-        "summary": "Under en hjärnoperation i Umeå glömdes två föremål kvar i patientens huvud. De upptäcktes först efter han opererats igen. – Det här var en beklaglig och olycklig händelse, säger chefläkaren Bengt Andersson till SVT Nyheter Västerbotten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Two items left in patient's head",
-        "summary": "During brain surgery in Umeå, two items were left in the patient's head. They were only discovered after he had been operated on again. \"This was a regrettable and unfortunate incident,\" says chief physician Bengt Andersson to SVT Nyheter Västerbotten."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T00:15:55+01:00"
-      }
-    },
-    {
-      "id": "a1099049a76e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/ditv/lejlands-motor/porsches-nya-elektriska-monster-enorm-kraft-och-fart",
-      "guid": "34c20923-15fd-5f6e-9289-d04c50d8de99",
-      "published_at": "2026-11-21T00:00:00+01:00",
-      "fetched_at": "2026-11-21T00:15:51+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Porsches nya elektriska monster – enorm kraft och fart",
-        "summary": "Test av tre sportiga bilar från Volkswagen-koncernen: Den 50-årsjubilerande Golf GTI:n, den spanskbyggda el-suven Cupra Formentor VZ5 och slutligen den extremt kraftfulla eldrivna Porsche Cayenne Turbo.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Porsche's new electric monster – enormous power and speed",
-        "summary": "Test of three sporty cars from the Volkswagen Group: the 50th-anniversary Golf GTI, the Spanish-built electric SUV Cupra Formentor VZ5 and finally the extremely powerful electric Porsche Cayenne Turbo."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T00:15:55+01:00"
-      }
-    },
-    {
-      "id": "6e780ea12d4d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/8Pm1x1/ai-kan-ha-lost-167-ar-gammalt-mattemysterium",
-      "guid": "https://www.aftonbladet.se/nyheter/a/8Pm1x1/ai-kan-ha-lost-167-ar-gammalt-mattemysterium?utm_medium=rss",
-      "published_at": "2026-11-20T23:57:50+01:00",
-      "fetched_at": "2026-11-21T00:01:16+01:00",
-      "category": "science_tech",
-      "image_url": "https://akamai.vgc.no/v2/images/380635ad-a5d3-3cc6-b3b4-c1b7d0543dd7?format=auto&s=7779c073427be6c5c7c5c555885ee27415ca8593&w=1000",
-      "sv": {
-        "title": "Efter 167 år – AI kan ha hittat svaret: ”Galet”",
-        "summary": "Minnesmästarnen: ”Total science fiction”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After 167 years – AI may have found the answer: \"Crazy\"",
-        "summary": "Memory champion: \"Total science fiction\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T00:01:21+01:00"
       }
     }
   ]
