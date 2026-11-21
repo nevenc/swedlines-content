@@ -1,7 +1,56 @@
 {
-  "generated_at": "2026-11-21T14:45:53+01:00",
+  "generated_at": "2026-11-21T15:01:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "883622266ffc",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80157",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80157&utm_medium=rss",
+      "published_at": "2026-11-21T14:57:46+01:00",
+      "fetched_at": "2026-11-21T15:01:09+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Rysk helikopter har kränkt finländskt luftrum"
+      },
+      "en": {
+        "title": "Russian helicopter violated Finnish airspace"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T15:01:15+01:00"
+      }
+    },
+    {
+      "id": "9d70c0010289",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/9BvVdd/knarkboss-gripen-i-mexiko-efterlyst-i-usa",
+      "guid": "https://www.aftonbladet.se/nyheter/a/9BvVdd/knarkboss-gripen-i-mexiko-efterlyst-i-usa?utm_medium=rss",
+      "published_at": "2026-11-21T14:52:17+01:00",
+      "fetched_at": "2026-11-21T15:01:10+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Knarkboss gripen i Mexiko – efterlyst i USA",
+        "summary": "Mexikos militär uppger att en knarkledare känd som ”Chapo Isidro” frihetsberövats i en nattlig räd i…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Drug boss arrested in Mexico – wanted in the US",
+        "summary": "The Mexican military says a drug leader known as \"Chapo Isidro\" was detained in a nighttime raid in…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T15:01:15+01:00"
+      }
+    },
     {
       "id": "1d5324008395",
       "schema_version": 1,
@@ -5351,62 +5400,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T08:15:48+01:00"
-      }
-    },
-    {
-      "id": "7fb59d5f99a2",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/fotboll/gais/enorma-hyllningen-till-jonas-lindberg-infor-avskedet-pa-gamla-ullevi.adebba8f-eecc-5ddf-a99a-2a198d4b351b",
-      "guid": "adebba8f-eecc-5ddf-a99a-2a198d4b351b",
-      "published_at": "2026-11-21T06:46:22+01:00",
-      "fetched_at": "2026-11-21T07:01:11+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Gais",
-        "Tagg: Jonas Lindberg",
-        "Tagg: Fredrik Holmberg",
-        "Tagg: Gais"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/19e38610-bd97-3103-b9da-243c98888964",
-      "sv": {
-        "title": "Enorma hyllningen inför Gais-ikonen Jonas Lindbergs avsked",
-        "summary": "Emotionellt i Gais-lägret: ”Mycket känslor”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Huge tribute ahead of Gais icon Jonas Lindberg's farewell",
-        "summary": "Emotional scenes in the Gais camp: \"Very many feelings\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T07:01:16+01:00"
-      }
-    },
-    {
-      "id": "5b8a2b427f37",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80140",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80140&utm_medium=rss",
-      "published_at": "2026-11-21T06:46:16+01:00",
-      "fetched_at": "2026-11-21T07:01:09+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Svenska poliser ska placeras i Irak"
-      },
-      "en": {
-        "title": "Swedish police officers to be deployed to Iraq"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T07:01:16+01:00"
       }
     }
   ]
