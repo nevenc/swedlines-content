@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-21T07:45:52+01:00",
+  "generated_at": "2026-11-21T07:51:37+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0102fb12430f",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347592",
+      "guid": "rss:sr.se/article/9347592",
+      "published_at": "2026-11-21T07:47:00+01:00",
+      "fetched_at": "2026-11-21T07:51:30+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Attacker mot Kyjiv – bostadshus i lågor",
+        "summary": "I Ukrainas huvudstad Kyjiv har flera explosioner hörts under natten och ett ryskt robotnedslag har satt två bostadshus i lågor. Det rapporterar ukrainska medier. Ryska anfall rapporteras även från regionerna Zaporizjzja, Charkiv och Vinnytsia.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Attacks on Kyiv – residential buildings in flames",
+        "summary": "Several explosions were heard in Ukraine's capital Kyiv overnight, and a Russian missile strike has set two residential buildings on fire. Ukrainian media report this. Russian attacks are also reported from the regions of Zaporizhzhia, Kharkiv and Vinnytsia."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:51:37+01:00"
+      }
+    },
+    {
+      "id": "a124ff7052a2",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/krim/sverige-oppnar-polisstation-i-irak",
+      "guid": "https://www.expressen.se/nyheter/krim/sverige-oppnar-polisstation-i-irak/",
+      "published_at": "2026-11-21T07:46:51+01:00",
+      "fetched_at": "2026-11-21T07:51:32+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Sverige öppnar polisstation i Irak",
+        "summary": "Svensk polis ska öppna en station i Irak. Syftet är att komma åt gängtoppar som beställer mord och andra dåd på svensk mark. – Ett antal svenska poliser ska jobba där, säger rikspolischef Petra Lundh i Ekots lördagsintervju.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Sweden opens police station in Iraq",
+        "summary": "Swedish police are to open a station in Iraq. The aim is to reach gang leaders who order murders and other acts on Swedish soil. \"A number of Swedish police officers will work there,\" says National Police Commissioner Petra Lundh in Ekot's Saturday interview."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:51:37+01:00"
+      }
+    },
     {
       "id": "bdff52066cb3",
       "schema_version": 1,
@@ -24,6 +76,60 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T07:45:51+01:00"
+      }
+    },
+    {
+      "id": "866fda6edaef",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/9BvVOd/statsvetare-darfor-vill-s-inte-regera-med-v",
+      "guid": "https://www.svd.se/a/9BvVOd/statsvetare-darfor-vill-s-inte-regera-med-v?utm_medium=rss",
+      "published_at": "2026-11-21T07:45:12+01:00",
+      "fetched_at": "2026-11-21T07:51:31+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/54d471e1-c0fb-3115-8560-8ab5d0526102?format=auto&s=895b327919c2151f500d775b1f02ceba85a8794a&w=1000",
+      "sv": {
+        "title": "Statsvetare: Därför vill S inte regera med V",
+        "summary": "Socialdemokraterna vill inte ge Vänsterpartiet några ministerposter. Det finns en oro för vad V kan…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Political scientist: Why the Social Democrats don't want to govern with the Left Party",
+        "summary": "The Social Democrats do not want to give the Left Party any ministerial posts. There is concern about what the Left Party may..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:51:37+01:00"
+      }
+    },
+    {
+      "id": "8d3264bcc7ca",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/yz3nRr/statsvetare-darfor-vill-s-inte-regera-med-v",
+      "guid": "https://www.aftonbladet.se/nyheter/a/yz3nRr/statsvetare-darfor-vill-s-inte-regera-med-v?utm_medium=rss",
+      "published_at": "2026-11-21T07:45:11+01:00",
+      "fetched_at": "2026-11-21T07:51:31+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/54d471e1-c0fb-3115-8560-8ab5d0526102?format=auto&s=895b327919c2151f500d775b1f02ceba85a8794a&w=1000",
+      "sv": {
+        "title": "Statsvetare: Därför vill S inte regera med V",
+        "summary": "Socialdemokraterna vill inte ge Vänsterpartiet några ministerposter. Det finns en oro för vad V kan…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Political scientist: Why the Social Democrats don't want to govern with the Left Party",
+        "summary": "The Social Democrats do not want to give the Left Party any ministerial posts. There is concern about what the Left Party may..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:51:37+01:00"
       }
     },
     {
@@ -5347,121 +5453,6 @@
       "en": {
         "title": "Tech revolt against EU: \"Withdraw EU Inc\"",
         "summary": "From a warning to a demand. A broad front of tech figures and investors now calls on the European Commission to withdraw the entire proposal for the new company form \"EU Inc\", which they consider has been watered down beyond recognition."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:31:09+01:00"
-      }
-    },
-    {
-      "id": "6c98ed2596ec",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/nyheter/storgoteborg/har-falls-julgranen-till-gustaf-adolfs-torg-i-landvetter.7af20404-6c93-59c5-a65c-16fb17fcac6a",
-      "guid": "7af20404-6c93-59c5-a65c-16fb17fcac6a",
-      "published_at": "2026-11-20T18:18:17+01:00",
-      "fetched_at": "2026-11-20T18:31:02+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Storgöteborg",
-        "Tagg: Landvetter",
-        "Tagg: Härryda",
-        "Tagg: VITA FLÄCKAR Härryda",
-        "Tagg: Göteborg",
-        "Tagg: Jul"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/c29329bb-6516-3435-bed3-6888ce2b8871",
-      "sv": {
-        "title": "Här fälls julgranen till Gustaf Adolfs torg",
-        "summary": "Julgranen som ska pryda Gustaf Adolfs torg i Göteborg hittades i år i Landvetter.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here is the Christmas tree being felled for Gustaf Adolfs torg",
-        "summary": "The Christmas tree that will decorate Gustaf Adolfs torg in Göteborg was found this year in Landvetter."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:31:09+01:00"
-      }
-    },
-    {
-      "id": "097c055221c5",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/kungligt/prinsessans-prao-i-finland",
-      "guid": "https://www.expressen.se/nyheter/kungligt/prinsessans-prao-i-finland/",
-      "published_at": "2026-11-20T18:18:15+01:00",
-      "fetched_at": "2026-11-20T18:31:01+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Prinsessans prao i Finland",
-        "summary": "Prinsessan Estelle har praoat i Finland. Hon tillbringade veckan på den svenska ambassaden och med president Alexander Stubb. ”Det har varit en intensiv men fantastisk vecka”, skriver hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The princess's work placement in Finland",
-        "summary": "Princess Estelle has done a work placement in Finland. She spent the week at the Swedish embassy and with President Alexander Stubb. \"It has been an intensive but fantastic week,\" she writes."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:31:09+01:00"
-      }
-    },
-    {
-      "id": "e70d807e99d6",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/sara-kristoffersson-rack-upp-handen-den-som-vill-forsvara-woke-i-dag",
-      "guid": "https://www.dn.se/kultur/sara-kristoffersson-rack-upp-handen-den-som-vill-forsvara-woke-i-dag/",
-      "published_at": "2026-11-20T18:16:51+01:00",
-      "fetched_at": "2026-11-20T18:31:00+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/7ef16527-c7ad-4f38-8081-09b5d5cbfbe4.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Sara Kristoffersson: Räck upp handen den som vill försvara ”woke” i dag",
-        "summary": "Få kulturella fält tog till sig ”woke” lika friktionsfritt som konstvärlden. När vi blickar framåt är det viktigt att inte försköna eller dölja vad det faktiskt handlade om, skriver Sara Kristoffersson.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sara Kristoffersson: Raise your hand if you want to defend \"woke\" today",
-        "summary": "Few cultural fields embraced \"woke\" as frictionlessly as the art world. Looking ahead, it is important not to sugarcoat or conceal what it actually was about, writes Sara Kristoffersson."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:31:09+01:00"
-      }
-    },
-    {
-      "id": "7ee1942c34ba",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/dn-valjer-har-ar-veckans-basta-musik-vecka-47",
-      "guid": "https://www.dn.se/kultur/dn-valjer-har-ar-veckans-basta-musik-vecka-47/",
-      "published_at": "2026-11-20T18:15:40+01:00",
-      "fetched_at": "2026-11-20T18:31:00+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/3f1f4391-3a16-42cf-8166-f732a7159b8f.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "DN väljer: Här är veckans bästa musik, vecka 47",
-        "summary": "Hyperpop på finska, vemodig folkpop och musik till tv-spelet ”GTA VI” av Lana Del Rey finns med när DN:s musikkritiker utser veckans bästa låtar. Dessutom har nya singlar av bland andra Markus Krunegård och Grimes letat sig in på spellistan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "DN picks: This week's best music, week 47",
-        "summary": "Finnish hyperpop, wistful folk pop and music for the video game \"GTA VI\" by Lana Del Rey feature as DN's music critics pick the week's best songs. In addition, new singles by, among others, Markus Krunegård and Grimes have made it onto the playlist."
       },
       "translation": {
         "status": "done",
