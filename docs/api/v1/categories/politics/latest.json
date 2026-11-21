@@ -1,7 +1,86 @@
 {
-  "generated_at": "2026-11-21T06:01:23+01:00",
+  "generated_at": "2026-11-21T06:16:05+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0b86454b378e",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/darfor-backar-inte-v",
+      "guid": "https://www.svt.se/nyheter/inrikes/darfor-backar-inte-v",
+      "published_at": "2026-11-21T06:13:07+01:00",
+      "fetched_at": "2026-11-21T06:15:46+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Därför backar inte V",
+        "summary": "Vänsterpartiet kräver att få sitta i en rödgrön regering – men pressen att de ska backa ökar. Varför är det så viktigt för V med ministerposter? Och finns det något som talar för att de kommer vika ner sig?",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Why V Won't Back Down",
+        "summary": "The Left Party demands to sit in a red-green government, but pressure on them to back down is growing. Why is it so important for V to have ministerial posts? And is there anything suggesting they will give in?"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T06:16:04+01:00"
+      }
+    },
+    {
+      "id": "7cb5c7127b16",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/oron-i-samtalen-svart-att-fa-grepp-om-thand-ringqvist",
+      "guid": "https://www.expressen.se/nyheter/politik/oron-i-samtalen-svart-att-fa-grepp-om-thand-ringqvist/",
+      "published_at": "2026-11-21T06:07:31+01:00",
+      "fetched_at": "2026-11-21T06:15:49+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Oron i samtalen: Svårt att få grepp om Thand Ringqvist",
+        "summary": "De rödgröna regeringsförhandlingarna fortsätter. Men enligt rödgröna källor finns det tvivel om vad C-ledaren Elisabeth Thand Ringqvist faktiskt vill, erfar Expressen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Concern in the Talks: Hard to Get a Grip on Thand Ringqvist",
+        "summary": "Red-green government negotiations continue. But according to red-green sources there is doubt about what C leader Elisabeth Thand Ringqvist actually wants, Expressen has learned."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T06:16:04+01:00"
+      }
+    },
+    {
+      "id": "ec9cbdb2c9f0",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/opinion/malmo-blottlagger-en-antisemitism-i-anderssons-regeringsunderlag",
+      "guid": "a95bee3c-8d02-4ff1-bf9c-340ce8189f9e",
+      "published_at": "2026-11-21T06:05:00+01:00",
+      "fetched_at": "2026-11-21T06:15:51+01:00",
+      "category": "politics",
+      "image_url": "https://static.bonniernews.se/ba/f82722de-877f-425e-a4ed-bf6b104dc7c9.jpeg?width=600",
+      "sv": {
+        "title": "”Malmö blottlägger en antisemitism i Anderssons regeringsunderlag.”",
+        "summary": "Problemen med hur Socialdemokraterna hanterar antisemitism sträcker sig ända in i den nuvarande partiledningen, skriver Gunnar Hökmark, ordförande för tankesmedjan Frivärld och tidigare ledamot i Europaparlamentet för Moderaterna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Malmö Exposes Antisemitism in Andersson's Government Platform\"",
+        "summary": "Problems with how the Social Democrats handle antisemitism extend all the way into the current party leadership, writes Gunnar Hökmark, chairman of the think tank Frivärld and former member of the European Parliament for the Moderates."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T06:16:04+01:00"
+      }
+    },
     {
       "id": "425fc35b04b2",
       "schema_version": 1,
@@ -5350,86 +5429,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T11:31:11+01:00"
-      }
-    },
-    {
-      "id": "122facbd2767",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=d0134dae-56f3-4119-b06a-9858f846c7aa",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d0134dae-56f3-4119-b06a-9858f846c7aa",
-      "published_at": "2026-11-17T11:16:04+01:00",
-      "fetched_at": "2026-11-17T11:31:02+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Miljöpartiet om V i regering: \"Vi ska se\"",
-        "summary": "Miljöpartiet om V i regering",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Green Party on V in government: \"We'll see\"",
-        "summary": "Green Party on V in government"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T11:31:11+01:00"
-      }
-    },
-    {
-      "id": "2f80a5114467",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/mp-koper-inte-hela-totalpaketet",
-      "guid": "b413934b-5801-4a7f-9e78-6bfdbaee64e9",
-      "published_at": "2026-11-17T11:12:42+01:00",
-      "fetched_at": "2026-11-17T11:15:49+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/0c01f97e-0a23-420f-8f44-33d7b1e204c2.jpg?width=600",
-      "sv": {
-        "title": "MP: Köper inte hela totalpaketet",
-        "summary": "Miljöpartiet köper inte det så kallade totalpaket som Socialdemokraterna tagit fram.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "MP: Not Buying the Whole Package",
-        "summary": "The Green Party is not buying the so-called total package that the Social Democrats have put together."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T11:15:55+01:00"
-      }
-    },
-    {
-      "id": "f6187e14b538",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Oypjgk/mp-koper-inte-hela-totalpaketet",
-      "guid": "https://www.svd.se/a/Oypjgk/mp-koper-inte-hela-totalpaketet?utm_medium=rss",
-      "published_at": "2026-11-17T11:11:42+01:00",
-      "fetched_at": "2026-11-17T11:15:45+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/255ee091-7c24-35cb-807c-e0bc95d6f0cc?format=auto&s=551760a3377eeee5e07c8bf8ee0da366e15e810b&w=1000",
-      "sv": {
-        "title": "MP: Köper inte hela totalpaketet",
-        "summary": "Miljöpartiet köper inte det så kallade totalpaket som Socialdemokraterna tagit fram.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "MP: Not Buying the Whole Package",
-        "summary": "The Green Party is not buying the so-called total package that the Social Democrats have put together."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T11:15:55+01:00"
       }
     }
   ]
