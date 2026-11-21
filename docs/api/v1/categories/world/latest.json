@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T09:31:16+01:00",
+  "generated_at": "2026-11-21T09:45:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "40ed76710e5c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/fada-72-dodades-av-bosattare-de-skot-farmor",
+      "guid": "https://www.expressen.se/nyheter/varlden/fada-72-dodades-av-bosattare-de-skot-farmor/",
+      "published_at": "2026-11-21T09:40:56+01:00",
+      "fetched_at": "2026-11-21T09:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fada, 72, dödades av bosättare: ”De sköt farmor”",
+        "summary": "Palestinska Fada Fheidat dödades utanför sitt hus. En israelisk bosättare sköt den 72-åriga kvinnan i huvudet i hennes hemby intill Jeriko på Västbanken. – Hennes bakhuvud var krossat, jag blev helt nedblodad, säger Achmed Fheidat som försökte bära bort sin släkting.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fada, 72, killed by settlers: \"They shot grandma\"",
+        "summary": "Palestinian Fada Fheidat was killed outside her house. An Israeli settler shot the 72-year-old woman in the head in her home village near Jericho in the West Bank. \"Her back of the head was crushed, I was completely covered in blood,\" says Achmed Fheidat, who tried to carry his relative away."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T09:45:49+01:00"
+      }
+    },
     {
       "id": "a491986c1b56",
       "schema_version": 1,
@@ -5359,33 +5385,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T14:31:07+01:00"
-      }
-    },
-    {
-      "id": "3c788d6d10ac",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/marianne-bjorklund-militaren-hade-avsikten-att-forgora-rohingyerna",
-      "guid": "https://www.dn.se/varlden/marianne-bjorklund-militaren-hade-avsikten-att-forgora-rohingyerna/",
-      "published_at": "2026-11-19T14:14:19+01:00",
-      "fetched_at": "2026-11-19T14:15:44+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/58f25a74-defa-4b9b-8ba3-18c9d87a13b5.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Marianne Björklund: Militären hade avsikten att förgöra rohingyerna",
-        "summary": "Myanmar begick folkmord på den muslimska minoriteten rohingyer 2017, fastslår internationella domstolen i Haag. Myanmar hade ”avsikt” att förgöra en betydande del av folkgruppen, enligt den ovanliga domen. DN:s Marianne Björklund svarar på fyra frågor om domslutet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Marianne Björklund: Military had intent to destroy the Rohingya",
-        "summary": "Myanmar committed genocide against the Muslim minority Rohingya in 2017, the International Court of Justice in The Hague rules. Myanmar had “intent” to destroy a substantial part of the group, according to the unusual ruling. DN's Marianne Björklund answers four questions about the verdict."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T14:16:07+01:00"
       }
     }
   ]

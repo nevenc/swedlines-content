@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T09:31:16+01:00",
+  "generated_at": "2026-11-21T09:45:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "40ed76710e5c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/fada-72-dodades-av-bosattare-de-skot-farmor",
+      "guid": "https://www.expressen.se/nyheter/varlden/fada-72-dodades-av-bosattare-de-skot-farmor/",
+      "published_at": "2026-11-21T09:40:56+01:00",
+      "fetched_at": "2026-11-21T09:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fada, 72, dödades av bosättare: ”De sköt farmor”",
+        "summary": "Palestinska Fada Fheidat dödades utanför sitt hus. En israelisk bosättare sköt den 72-åriga kvinnan i huvudet i hennes hemby intill Jeriko på Västbanken. – Hennes bakhuvud var krossat, jag blev helt nedblodad, säger Achmed Fheidat som försökte bära bort sin släkting.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fada, 72, killed by settlers: \"They shot grandma\"",
+        "summary": "Palestinian Fada Fheidat was killed outside her house. An Israeli settler shot the 72-year-old woman in the head in her home village near Jericho in the West Bank. \"Her back of the head was crushed, I was completely covered in blood,\" says Achmed Fheidat, who tried to carry his relative away."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T09:45:49+01:00"
+      }
+    },
     {
       "id": "2b23d306407b",
       "schema_version": 1,
@@ -27,6 +53,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T09:31:15+01:00"
+      }
+    },
+    {
+      "id": "76bc16b6f364",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/qOLw6w/sa-agerar-kunderna-pa-elprischocken",
+      "guid": "https://www.svd.se/a/qOLw6w/sa-agerar-kunderna-pa-elprischocken?utm_medium=rss",
+      "published_at": "2026-11-21T09:30:11+01:00",
+      "fetched_at": "2026-11-21T09:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/f255525f-5361-3f2b-803e-c561da55485d?format=auto&s=58092c27e864c7822dce6caf31292a36abfb369e&w=1000",
+      "sv": {
+        "title": "Så agerar kunderna på elprischocken",
+        "summary": "En stigande oro för höga elpriser i vinter får hushållen att agera. Många väljer i större…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How customers are reacting to the electricity price shock",
+        "summary": "Growing concern over high electricity prices this winter is prompting households to act. Many are choosing to..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T09:45:49+01:00"
       }
     },
     {
@@ -3733,6 +3786,33 @@
       }
     },
     {
+      "id": "b84891ead0f3",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/410997",
+      "guid": "https://tv.aftonbladet.se/video/410997?utm_medium=rss",
+      "published_at": "2026-11-20T23:19:59+01:00",
+      "fetched_at": "2026-11-21T09:45:44+01:00",
+      "category": "other",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/fbcbd79a7d88ebf71a36bb8e855cf020.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Zigi skulle tända grillen – ingen bra idé",
+        "summary": "”Skit”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Zigi was going to light the grill – not a good idea",
+        "summary": "\"Shit\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T09:45:49+01:00"
+      }
+    },
+    {
       "id": "e9ad79063ce9",
       "schema_version": 1,
       "source": "svt",
@@ -5347,85 +5427,6 @@
       "en": {
         "title": "After food fight in Tartu: Sweden sends experts",
         "summary": "Small portions and monotonous diet. The Swedish inmates at the Tartu prison in Estonia are still…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T20:01:22+01:00"
-      }
-    },
-    {
-      "id": "f23dead4cb86",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/dansk-investerare-flaggar-upp-i-catena-media",
-      "guid": "86a65026-8372-46f6-8e64-02ed74079a52",
-      "published_at": "2026-11-20T19:52:01+01:00",
-      "fetched_at": "2026-11-20T20:01:14+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Dansk investerare flaggar upp i Catena Media",
-        "summary": "Det danska investeringsbolaget Vorup Invest äger omkring 6,3 procent av aktierna i Catena Media. Det meddelade kundanskaffningsbolaget i ett pressmeddelande på fredagskvällen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Danish investor flags up stake in Catena Media",
-        "summary": "The Danish investment company Vorup Invest owns around 6.3 percent of the shares in Catena Media. The customer acquisition company announced this in a press release on Friday evening."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T20:01:22+01:00"
-      }
-    },
-    {
-      "id": "82f9964eaf2f",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347326",
-      "guid": "rss:sr.se/article/9347326",
-      "published_at": "2026-11-20T19:52:00+01:00",
-      "fetched_at": "2026-11-20T20:01:12+01:00",
-      "category": "science_tech",
-      "sv": {
-        "title": "FHM:s prognos: Två virus kan toppa under jul",
-        "summary": "Influensasäsongen har kommit igång tidigare än vanligt i år, samtidigt som fallen av covid-19 ökar och smittspridningen för båda virusvarianterna tros bli som störst under julhelgen.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Public Health Agency forecast: Two viruses may peak over Christmas",
-        "summary": "The influenza season has started earlier than usual this year, while covid-19 cases are rising and transmission of both virus variants is expected to be at its highest over the Christmas holiday."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T20:01:22+01:00"
-      }
-    },
-    {
-      "id": "d19b4875fd9d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/fed-topp-styrrantan-ar-inte-tillrackligt-hog",
-      "guid": "57ab0e4d-b989-47d9-a2b9-cfd92c44b797",
-      "published_at": "2026-11-20T19:50:53+01:00",
-      "fetched_at": "2026-11-20T20:01:14+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/8d7690ad-afd4-4bae-9324-0d67ce9a06b8.jpeg?width=600",
-      "sv": {
-        "title": "Fed-topp: Styrräntan är inte tillräckligt hög",
-        "summary": "Fed-guvernören Lisa Cook argumenterar för fler räntehöjningar och anser att den amerikanska centralbankens nuvarande styrränta inte är tillräckligt hög för att få bukt med inflationen. Det rapporterar Reuters.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Fed top: Policy rate is not high enough",
-        "summary": "Fed Governor Lisa Cook argues for further rate hikes and considers the US central bank's current policy rate not high enough to bring inflation under control. Reuters reports this."
       },
       "translation": {
         "status": "done",

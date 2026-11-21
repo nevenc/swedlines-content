@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T09:31:16+01:00",
-  "count": 131,
+  "generated_at": "2026-11-21T09:45:49+01:00",
+  "count": 133,
   "items": [
+    {
+      "id": "40ed76710e5c",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/fada-72-dodades-av-bosattare-de-skot-farmor",
+      "guid": "https://www.expressen.se/nyheter/varlden/fada-72-dodades-av-bosattare-de-skot-farmor/",
+      "published_at": "2026-11-21T09:40:56+01:00",
+      "fetched_at": "2026-11-21T09:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fada, 72, dödades av bosättare: ”De sköt farmor”",
+        "summary": "Palestinska Fada Fheidat dödades utanför sitt hus. En israelisk bosättare sköt den 72-åriga kvinnan i huvudet i hennes hemby intill Jeriko på Västbanken. – Hennes bakhuvud var krossat, jag blev helt nedblodad, säger Achmed Fheidat som försökte bära bort sin släkting.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Fada, 72, killed by settlers: \"They shot grandma\"",
+        "summary": "Palestinian Fada Fheidat was killed outside her house. An Israeli settler shot the 72-year-old woman in the head in her home village near Jericho in the West Bank. \"Her back of the head was crushed, I was completely covered in blood,\" says Achmed Fheidat, who tried to carry his relative away."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T09:45:49+01:00"
+      }
+    },
     {
       "id": "2b23d306407b",
       "schema_version": 1,
@@ -27,6 +53,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T09:31:15+01:00"
+      }
+    },
+    {
+      "id": "76bc16b6f364",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/qOLw6w/sa-agerar-kunderna-pa-elprischocken",
+      "guid": "https://www.svd.se/a/qOLw6w/sa-agerar-kunderna-pa-elprischocken?utm_medium=rss",
+      "published_at": "2026-11-21T09:30:11+01:00",
+      "fetched_at": "2026-11-21T09:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/f255525f-5361-3f2b-803e-c561da55485d?format=auto&s=58092c27e864c7822dce6caf31292a36abfb369e&w=1000",
+      "sv": {
+        "title": "Så agerar kunderna på elprischocken",
+        "summary": "En stigande oro för höga elpriser i vinter får hushållen att agera. Många väljer i större…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "How customers are reacting to the electricity price shock",
+        "summary": "Growing concern over high electricity prices this winter is prompting households to act. Many are choosing to..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T09:45:49+01:00"
       }
     },
     {
