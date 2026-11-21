@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T04:45:47+01:00",
+  "generated_at": "2026-11-21T04:54:32+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "159279cb298a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/eslov/grov-misshandel-i-lagenhet",
+      "guid": "acc7082b-4161-4a16-b5b3-fda8d4943e89",
+      "published_at": "2026-11-21T04:46:21+01:00",
+      "fetched_at": "2026-11-21T04:54:30+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Grov misshandel i lägenhet",
+        "summary": "Två personer greps i Eslöv under natten, misstänkta för att ha misshandlat en tredje person i en lägenhet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Aggravated assault in apartment",
+        "summary": "Two people were arrested in Eslöv during the night, suspected of having assaulted a third person in an apartment."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T04:54:31+01:00"
+      }
+    },
     {
       "id": "1b606fd3d2ff",
       "schema_version": 1,
@@ -5353,33 +5379,6 @@
       "en": {
         "title": "Murder of Ghaith & Foxtrot's violence coordinator",
         "summary": "Family's grief: \"Was the funniest person in the room\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T11:01:24+01:00"
-      }
-    },
-    {
-      "id": "ba1c8e0bdda8",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/ekonomi/hon-bygger-fangelser-for-61-miljarder-och-det-ar-bara-borjan",
-      "guid": "https://www.dn.se/ekonomi/hon-bygger-fangelser-for-61-miljarder-och-det-ar-bara-borjan/",
-      "published_at": "2026-11-17T10:50:15+01:00",
-      "fetched_at": "2026-11-17T11:01:13+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/07efb7dd-114b-472b-8894-e43de0d4d25d.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Hon bygger fängelser för 61 miljarder och det är bara början",
-        "summary": "Med dubblerat antal anstaltsplatser, modulbyggda fängelser och intensiv jakt på ny mark står Kriminalvården inför en historisk byggboom. Fastighetsdirektören Malin Lövström varnar samtidigt för att dagens expansiva planer kan visa sig otillräckliga.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "She is building prisons worth SEK 61 billion and this is only the beginning",
-        "summary": "With the number of prison places doubled, modular prisons and an intensive search for new land, the Prison and Probation Service faces a historic construction boom. Property director Malin Lövström warns at the same time that today's expansive plans may prove insufficient."
       },
       "translation": {
         "status": "done",

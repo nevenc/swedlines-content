@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T04:45:47+01:00",
+  "generated_at": "2026-11-21T04:54:32+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "159279cb298a",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/eslov/grov-misshandel-i-lagenhet",
+      "guid": "acc7082b-4161-4a16-b5b3-fda8d4943e89",
+      "published_at": "2026-11-21T04:46:21+01:00",
+      "fetched_at": "2026-11-21T04:54:30+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Grov misshandel i lägenhet",
+        "summary": "Två personer greps i Eslöv under natten, misstänkta för att ha misshandlat en tredje person i en lägenhet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Aggravated assault in apartment",
+        "summary": "Two people were arrested in Eslöv during the night, suspected of having assaulted a third person in an apartment."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T04:54:31+01:00"
+      }
+    },
     {
       "id": "15b3fb59e646",
       "schema_version": 1,
@@ -5178,29 +5204,6 @@
       "en": {
         "title": "Win tickets to MFF–Brommapojkarna!",
         "summary": "You surely don't want to miss the season's last match? Take part in the competition to win two tickets to MFF–Brommapojkarna on 29 November."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:01:35+01:00"
-      }
-    },
-    {
-      "id": "9aabf77a6a23",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/villa-i-vellinge-sald-for-9-2-miljoner",
-      "guid": "833d42ab-77bf-4c8d-8b23-65ab001b4dc3",
-      "published_at": "2026-11-18T15:49:45+01:00",
-      "fetched_at": "2026-11-18T16:01:22+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Villa i Vellinge såld – för 9,2 miljoner"
-      },
-      "en": {
-        "title": "Villa in Vellinge sold – for 9.2 million"
       },
       "translation": {
         "status": "done",
