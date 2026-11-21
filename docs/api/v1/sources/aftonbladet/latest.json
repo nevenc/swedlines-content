@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-21T13:01:30+01:00",
+  "generated_at": "2026-11-21T13:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ae25cb440e6d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/XogB3g/riksdagsledamoter-kan-ha-drabbats-i-taxiintranget",
+      "guid": "https://www.aftonbladet.se/nyheter/a/XogB3g/riksdagsledamoter-kan-ha-drabbats-i-taxiintranget?utm_medium=rss",
+      "published_at": "2026-11-21T13:12:08+01:00",
+      "fetched_at": "2026-11-21T13:15:49+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/d6647e3a-dfae-3273-9d37-04ddfbb45c07?format=auto&s=017e61e45acd5034a9eb1669771c4245b30b530a&w=1000",
+      "sv": {
+        "title": "Riksdagsledamöter kan ha drabbats i taxiintrånget",
+        "summary": "Bland de drabbade i dataintrånget mot taxibolaget Cabonline kan det finnas…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Members of the Riksdag may have been affected by taxi data breach",
+        "summary": "Among those affected by the data breach at the taxi company Cabonline there may be..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T13:15:56+01:00"
+      }
+    },
+    {
+      "id": "7a35ce235fc8",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/R1RBQJ/dodsfall-skakar-italien-kopplas-till-maffiadad",
+      "guid": "https://www.aftonbladet.se/nyheter/a/R1RBQJ/dodsfall-skakar-italien-kopplas-till-maffiadad?utm_medium=rss",
+      "published_at": "2026-11-21T13:11:52+01:00",
+      "fetched_at": "2026-11-21T13:15:49+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/2a23eb8e-8bf8-37dd-b2d6-b83d9af0ac6d?format=auto&s=cf3fbb6e5e0d727b2dda8f85a2d22190e2da5d2c&w=1000",
+      "sv": {
+        "title": "Dödsfall skakar Italien – kopplas till maffiadåd",
+        "summary": "Italiens tidigare rikspolischef Gianni De Gennaro är död – en vecka efter att en brottsutredning mot…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Death shocks Italy – linked to Mafia attack",
+        "summary": "Italy's former national police chief Gianni De Gennaro has died – one week after a criminal investigation against..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T13:15:56+01:00"
+      }
+    },
     {
       "id": "ceceda851502",
       "schema_version": 1,
@@ -5320,59 +5374,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "0f65ffb7b496",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/BrRzAg/ny-israelisk-insats-i-gaza",
-      "guid": "https://www.aftonbladet.se/nyheter/a/BrRzAg/ny-israelisk-insats-i-gaza?utm_medium=rss",
-      "published_at": "2026-11-18T15:55:36+01:00",
-      "fetched_at": "2026-11-18T16:01:20+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ny israelisk insats i Gaza",
-        "summary": "Den israeliska militären har på onsdagen inlett en insats i Gaza.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "New Israeli operation in Gaza",
-        "summary": "The Israeli military on Wednesday launched an operation in Gaza."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:01:35+01:00"
-      }
-    },
-    {
-      "id": "243d0ba9c5e3",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/lMArpy/mexikos-president-hyllas-for-billiga-biljetten",
-      "guid": "https://www.aftonbladet.se/nyheter/a/lMArpy/mexikos-president-hyllas-for-billiga-biljetten?utm_medium=rss",
-      "published_at": "2026-11-18T15:53:44+01:00",
-      "fetched_at": "2026-11-18T16:01:20+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/f712f53f-21df-3e8e-b337-3b9fd7c009fc?format=auto&s=ec360e2e828805f87c79fab833f3b7ae4588c28f&w=1000",
-      "sv": {
-        "title": "Mexikos president hyllas för billiga biljetten",
-        "summary": "Donald Trump kommer i Air Force One. Andra världsledare har också egna plan, eller flyger första…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Mexico's president praised for cheap ticket",
-        "summary": "Donald Trump arrives on Air Force One. Other world leaders also have their own planes, or fly first…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:01:35+01:00"
       }
     }
   ]

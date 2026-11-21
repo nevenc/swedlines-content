@@ -1,7 +1,90 @@
 {
-  "generated_at": "2026-11-21T13:01:30+01:00",
+  "generated_at": "2026-11-21T13:15:57+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c204f91ffd47",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/5yPzUHhx77X4s4kxoYO5QY/vaerldsbilderna-krockar-och-ingen-vill-vika-ner-sig",
+      "guid": "5yPzUHhx77X4s4kxoYO5QY",
+      "published_at": "2026-11-21T13:14:25+01:00",
+      "fetched_at": "2026-11-21T13:15:50+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Utrikesnyheter"
+      ],
+      "sv": {
+        "title": "Världsbilderna krockar och ingen vill vika ner sig",
+        "summary": "I dag lördag, syns hålögda mötesdelegater diskutera avtalstexter i korridorerna, annars ekar de stora konferenslokalerna med sina ihop-packade utställningsmontrar ganska tomma. Hela natten har ministrarna förhandlat intensivt, men något avtal verkar ändå inte vara i sikte i närtid.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Worldviews Clash and No One Wants to Back Down",
+        "summary": "Today, Saturday, sleep-deprived conference delegates can be seen discussing agreement texts in the corridors, while the large conference halls, with their packed-up exhibition stands, echo rather emptily. Ministers have negotiated intensively all night, but no agreement appears to be in sight in the near future."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T13:15:56+01:00"
+      }
+    },
+    {
+      "id": "e74fc21946f7",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/lMAkL7/dodsfall-skakar-italien-kopplas-till-maffiadad",
+      "guid": "https://www.svd.se/a/lMAkL7/dodsfall-skakar-italien-kopplas-till-maffiadad?utm_medium=rss",
+      "published_at": "2026-11-21T13:11:53+01:00",
+      "fetched_at": "2026-11-21T13:15:48+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/2a23eb8e-8bf8-37dd-b2d6-b83d9af0ac6d?format=auto&s=cf3fbb6e5e0d727b2dda8f85a2d22190e2da5d2c&w=1000",
+      "sv": {
+        "title": "Dödsfall skakar Italien – kopplas till maffiadåd",
+        "summary": "Italiens tidigare rikspolischef Gianni De Gennaro är död – en vecka efter att en brottsutredning mot…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Death shocks Italy – linked to Mafia attack",
+        "summary": "Italy's former national police chief Gianni De Gennaro has died – one week after a criminal investigation against..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T13:15:56+01:00"
+      }
+    },
+    {
+      "id": "7a35ce235fc8",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/R1RBQJ/dodsfall-skakar-italien-kopplas-till-maffiadad",
+      "guid": "https://www.aftonbladet.se/nyheter/a/R1RBQJ/dodsfall-skakar-italien-kopplas-till-maffiadad?utm_medium=rss",
+      "published_at": "2026-11-21T13:11:52+01:00",
+      "fetched_at": "2026-11-21T13:15:49+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/2a23eb8e-8bf8-37dd-b2d6-b83d9af0ac6d?format=auto&s=cf3fbb6e5e0d727b2dda8f85a2d22190e2da5d2c&w=1000",
+      "sv": {
+        "title": "Dödsfall skakar Italien – kopplas till maffiadåd",
+        "summary": "Italiens tidigare rikspolischef Gianni De Gennaro är död – en vecka efter att en brottsutredning mot…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Death shocks Italy – linked to Mafia attack",
+        "summary": "Italy's former national police chief Gianni De Gennaro has died – one week after a criminal investigation against..."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T13:15:56+01:00"
+      }
+    },
     {
       "id": "65de14e2468b",
       "schema_version": 1,
@@ -5316,85 +5399,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T19:46:07+01:00"
-      }
-    },
-    {
-      "id": "203f1c010491",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/uppgifter-trump-kritiserar-stod-till-ukraina",
-      "guid": "https://www.expressen.se/nyheter/varlden/uppgifter-trump-kritiserar-stod-till-ukraina/",
-      "published_at": "2026-11-19T19:31:34+01:00",
-      "fetched_at": "2026-11-19T19:45:54+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Uppgifter: Trump kritiserar stöd till Ukraina",
-        "summary": "Donald Trump uppges ha rasat mot Europas stöd till Ukraina. Bara timmar efter att ha träffat Vladimir Putin ringde presidenten överraskande upp europeiska ledare från Air force one. – Ingen visste om det, säger Ulf Kristersson till TT.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Reports: Trump criticises support for Ukraine",
-        "summary": "Donald Trump reportedly raged against Europe's support for Ukraine. Just hours after meeting Vladimir Putin, the president unexpectedly called European leaders from Air Force One. – Nobody knew about it, says Ulf Kristersson to TT."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:46:07+01:00"
-      }
-    },
-    {
-      "id": "53e9b12bb346",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/0vnOj6/explosion-nara-sveriges-ambassad-i-kiev",
-      "guid": "https://www.aftonbladet.se/nyheter/a/0vnOj6/explosion-nara-sveriges-ambassad-i-kiev?utm_medium=rss",
-      "published_at": "2026-11-19T19:29:08+01:00",
-      "fetched_at": "2026-11-19T19:30:59+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Explosion nära Sveriges ambassad i Kiev",
-        "summary": "En explosion inträffade nära Sveriges ambassad i Ukrainas huvudstad Kiev på torsdagen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Explosion near Sweden's embassy in Kyiv",
-        "summary": "An explosion occurred near Sweden's embassy in the Ukrainian capital Kyiv on Thursday."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:31:05+01:00"
-      }
-    },
-    {
-      "id": "2f76a9661fbf",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/varlden/efter-usa-valet-techprofilerna-tar-sin-hand-fran-trump",
-      "guid": "https://www.dn.se/varlden/efter-usa-valet-techprofilerna-tar-sin-hand-fran-trump/",
-      "published_at": "2026-11-19T19:04:39+01:00",
-      "fetched_at": "2026-11-19T19:15:42+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/744688be-eafc-410f-b4d3-a3dec70466b4.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Efter USA-valet: Techprofilerna tar sin hand från Trump",
-        "summary": "NEW YORK. Under två år har techeliten i USA öst pengar och beröm över Donald Trump. Men efter Republikanernas katastrofval är vd:arna plötsligt angelägna att markera distans till presidenten. Elon Musk ”vet inte vad Maga betyder” och Jeff Bezos framhåller sin vänskap med Barack Obama.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After the US election: tech profiles withdraw support from Trump",
-        "summary": "NEW YORK. For two years, the tech elite in the US has poured money and praise on Donald Trump. But after the Republicans' disastrous election, the CEOs are suddenly keen to signal distance from the president. Elon Musk ”doesn't know what Maga means” and Jeff Bezos highlights his friendship with Barack Obama."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:15:56+01:00"
       }
     }
   ]
