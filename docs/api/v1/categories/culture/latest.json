@@ -1,7 +1,115 @@
 {
-  "generated_at": "2026-11-21T05:45:50+01:00",
+  "generated_at": "2026-11-21T06:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6ccee4b4304f",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/ny-pa-boktoppen-ingrid-carlberg-skriver-om-en-riktigt-giftig-penna",
+      "guid": "8e30b46d-dcba-4095-9f23-36139ededf9a",
+      "published_at": "2026-11-21T06:00:00+01:00",
+      "fetched_at": "2026-11-21T06:01:12+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/145b1e6e-ed7c-4371-95db-4972f2416a32.jpeg?width=600",
+      "sv": {
+        "title": "Ny på boktoppen: Ingrid Carlberg skriver om en riktigt giftig penna",
+        "summary": "Ständiga sekreterarens ”Den osynliga ledamoten” är en av böckerna du inte ska missa vecka 47.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New on the book chart: Ingrid Carlberg writes about a truly toxic pen",
+        "summary": "“The Invisible Member” by the Permanent Secretary is one of the books you should not miss in week 47."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T06:01:22+01:00"
+      }
+    },
+    {
+      "id": "cfdd70dd1800",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/mat-dryck/jakten-pa-det-perfekta-krispet",
+      "guid": "https://www.dn.se/mat-dryck/jakten-pa-det-perfekta-krispet/",
+      "published_at": "2026-11-21T06:00:00+01:00",
+      "fetched_at": "2026-11-21T06:01:10+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/d6411f0b-fe28-468f-92f4-4864b1003c43.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Jakten på det perfekta krispet",
+        "summary": "Frasigt, krispigt och krunchigt är egenskaperna alla matlagare strävar efter just nu. Den riktigt nördiga kan diskutera tips och tekniker i speciella forum – eller så tar man bara del av Tove Nilssons råd.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The quest for the perfect crisp",
+        "summary": "Crispy, crunchy and crackly are the qualities every cook is striving for right now. The truly geeky can discuss tips and techniques in special forums, or simply follow Tove Nilsson’s advice."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T06:01:22+01:00"
+      }
+    },
+    {
+      "id": "59154c1e6269",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/mat-dryck/tove-nilsson-darfor-ar-texturen-den-nya-smaken",
+      "guid": "https://www.dn.se/mat-dryck/tove-nilsson-darfor-ar-texturen-den-nya-smaken/",
+      "published_at": "2026-11-21T05:59:00+01:00",
+      "fetched_at": "2026-11-21T06:01:10+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/4c1a1f00-3068-4aed-9bba-8d4e603479a2.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Tove Nilsson: Därför är texturen den nya smaken",
+        "summary": "Krönika. Knaprigt kycklingskinn, frasiga pommes frites och friterade hasselbackspotatisar – nu ska krispet vara hjälten i rätten, konstaterar DN:s matskribent Tove Nilsson.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Tove Nilsson: This is why texture is the new flavour",
+        "summary": "Column. Crispy chicken skin, crunchy French fries and fried hasselback potatoes. Now crispiness is the hero of the dish, notes DN food writer Tove Nilsson."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T06:01:22+01:00"
+      }
+    },
+    {
+      "id": "797abea3011a",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/mat-dryck/smashburgare",
+      "guid": "https://www.dn.se/mat-dryck/smashburgare/",
+      "published_at": "2026-11-21T05:58:00+01:00",
+      "fetched_at": "2026-11-21T06:01:10+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/52fe1854-d474-4931-abe2-a6b88fa53a1a.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Smashburgare",
+        "summary": "Rätt förhållande mellan fett och kött i burgaren är viktigt, man vill ha mycket fett för att få till den krispiga maillardytan. Orkar man inte stå och blanda färsen själv kan man köpa högrevsfärs som innehåller mer fett och har lite mer smak än den vanliga färsen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Smash burgers",
+        "summary": "The right ratio of fat to meat in the burger is important; you want plenty of fat to achieve the crispy Maillard crust. If you can’t be bothered to stand and mix the mince yourself, you can buy high-rib mince, which contains more fat and has a bit more flavour than regular mince."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T06:01:22+01:00"
+      }
+    },
     {
       "id": "27c5fc8f35c8",
       "schema_version": 1,
@@ -5549,123 +5657,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T01:01:15+01:00"
-      }
-    },
-    {
-      "id": "680517b8c913",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/3BJxOM/knausgard-vagrar-knyta-ihop-sacken",
-      "guid": "https://www.svd.se/a/3BJxOM/knausgard-vagrar-knyta-ihop-sacken?utm_medium=rss",
-      "published_at": "2026-11-18T22:00:00+01:00",
-      "fetched_at": "2026-11-18T22:01:14+01:00",
-      "category": "culture",
-      "image_url": "https://akamai.vgc.no/v2/images/fc729c10-b3ff-381c-b999-1da79afefb44?format=auto&s=c0fee2697ec1c8e601e5619e96bf25de8b99b336&w=1000",
-      "sv": {
-        "title": "Knausgård vägrar knyta ihop säcken",
-        "summary": "Böckerna om Morgonstjärnan var nog aldrig tänkta att bli en helhet, konstaterar John Sjögren efter…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Knausgård refuses to tie up the loose ends",
-        "summary": "The Morningstar books were probably never meant to form a whole, John Sjögren notes after…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T22:01:19+01:00"
-      }
-    },
-    {
-      "id": "f495957ffc47",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/nu-slapps-gta-6-spelkritikerna-lyriska.adb31dde-fce1-536f-a8b7-89152383f1d6",
-      "guid": "adb31dde-fce1-536f-a8b7-89152383f1d6",
-      "published_at": "2026-11-18T21:36:46+01:00",
-      "fetched_at": "2026-11-18T21:45:48+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Kultur",
-        "Tagg: breaking-GP",
-        "Tagg: GTA 6",
-        "Tagg: Zelda",
-        "Tagg: Skanstull",
-        "Tagg: Rockstar"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/0cb48e80-6292-35f2-960a-dec8ac10aef4",
-      "sv": {
-        "title": "Nu släpps GTA 6 – spelkritikerna lyriska",
-        "summary": "”Svårt att inte häpnas” • Rankas redan som tidernas bästa spel, enligt Metacritic.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "GTA 6 is out now – game critics are rapturous",
-        "summary": "\"Hard not to be amazed\" • Already ranked as the best game of all time, according to Metacritic."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T21:45:53+01:00"
-      }
-    },
-    {
-      "id": "3d725fef0547",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/logitech-ger-alla-anstallda-ledigt-for-att-spela-gta-6",
-      "guid": "https://www.expressen.se/nyheter/varlden/logitech-ger-alla-anstallda-ledigt-for-att-spela-gta-6/",
-      "published_at": "2026-11-18T21:08:07+01:00",
-      "fetched_at": "2026-11-18T21:15:46+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Logitech ger alla anställda ledigt – för att spela ”GTA 6”",
-        "summary": "Det är årets stora spelnyhet. Vid midnatt släpps ”Grand theft auto 6” och på företaget Logitech får alla anställda ledigt – för att spela. – Det blir en win-win, säger svensken Robin Piispanen, global chef för Logitech G.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Logitech gives all employees time off – to play \"GTA 6\"",
-        "summary": "It is this year's big gaming news. At midnight \"Grand Theft Auto 6\" is released, and at Logitech all employees get time off – to play. \"It's a win-win,\" says Swede Robin Piispanen, global head of Logitech G."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T21:15:54+01:00"
-      }
-    },
-    {
-      "id": "1b4a95ab179b",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2Zwy43RR5ZTyCyJkgXuR78/kraever-en-foerklaring-efter-oevernattningsdejten",
-      "guid": "2Zwy43RR5ZTyCyJkgXuR78",
-      "published_at": "2026-11-18T21:00:10+01:00",
-      "fetched_at": "2026-11-18T21:31:01+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Nöje"
-      ],
-      "sv": {
-        "title": "Kräver en förklaring efter övernattningsdejten",
-        "summary": "Bonden Oliver Åkerbäcks kärleksresa i ”Bonde söker fru” ställdes på sin spets förra veckan när han fick möjlighet att tillbringa en natt med någon av brevskrivarna. Till en början tackade han nej till programledaren Linda Lindorffs erbjudande av respekt för tjejerna.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Demands an explanation after the overnight date",
-        "summary": "Farmer Oliver Åkerbäck's romantic journey in \"Bonde söker fru\" was put to the test last week when he got the chance to spend a night with one of the letter writers. At first he declined host Linda Lindorff's offer out of respect for the women."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T21:31:05+01:00"
       }
     }
   ]

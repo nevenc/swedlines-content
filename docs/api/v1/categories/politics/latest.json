@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-21T05:45:50+01:00",
+  "generated_at": "2026-11-21T06:01:23+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "425fc35b04b2",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/politik/m-forbjud-kamphundar-i-allmannyttan-i-goteborg.953900d5-52f6-5cab-83d7-208fca0583ed",
+      "guid": "953900d5-52f6-5cab-83d7-208fca0583ed",
+      "published_at": "2026-11-21T05:51:59+01:00",
+      "fetched_at": "2026-11-21T06:01:12+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Politik",
+        "Tagg: Politik",
+        "Tagg: Hundar",
+        "Tagg: Allmännyttan",
+        "Tagg: Moderaterna",
+        "Tagg: Politik Göteborg",
+        "Tagg: Husdjur"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/edfdcd53-909b-3c9f-ae86-7097117fb16f",
+      "sv": {
+        "title": "Här vill Moderaterna förbjuda kamphundar i Göteborg",
+        "summary": "Magnusson: ”Ska inte behöva träffa påtänd med pitbull i trapphuset”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here the Moderates want to ban fighting dogs in Göteborg",
+        "summary": "Magnusson: “Shouldn’t have to meet someone high on drugs with a pit bull in the stairwell.”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T06:01:22+01:00"
+      }
+    },
     {
       "id": "93c4b7ad41a3",
       "schema_version": 1,
@@ -5377,33 +5413,6 @@
       "guid": "https://www.svd.se/a/Oypjgk/mp-koper-inte-hela-totalpaketet?utm_medium=rss",
       "published_at": "2026-11-17T11:11:42+01:00",
       "fetched_at": "2026-11-17T11:15:45+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/255ee091-7c24-35cb-807c-e0bc95d6f0cc?format=auto&s=551760a3377eeee5e07c8bf8ee0da366e15e810b&w=1000",
-      "sv": {
-        "title": "MP: Köper inte hela totalpaketet",
-        "summary": "Miljöpartiet köper inte det så kallade totalpaket som Socialdemokraterna tagit fram.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "MP: Not Buying the Whole Package",
-        "summary": "The Green Party is not buying the so-called total package that the Social Democrats have put together."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T11:15:55+01:00"
-      }
-    },
-    {
-      "id": "8d8156d0304d",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/KL3jrM/mp-koper-inte-hela-totalpaketet",
-      "guid": "https://www.aftonbladet.se/nyheter/a/KL3jrM/mp-koper-inte-hela-totalpaketet?utm_medium=rss",
-      "published_at": "2026-11-17T11:11:40+01:00",
-      "fetched_at": "2026-11-17T11:15:46+01:00",
       "category": "politics",
       "image_url": "https://akamai.vgc.no/v2/images/255ee091-7c24-35cb-807c-e0bc95d6f0cc?format=auto&s=551760a3377eeee5e07c8bf8ee0da366e15e810b&w=1000",
       "sv": {
