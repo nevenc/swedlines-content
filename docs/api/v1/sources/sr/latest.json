@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T02:45:44+01:00",
+  "generated_at": "2026-11-21T03:01:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "860c0be3e7cc",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347579",
+      "guid": "rss:sr.se/article/9347579",
+      "published_at": "2026-11-21T02:49:00+01:00",
+      "fetched_at": "2026-11-21T03:01:08+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Man skyldig till dödlig skogsbrand i Los Angeles",
+        "summary": "I USA har en jury dömt en 30-årig man som skyldig till att ha startat en av de kraftiga bränder som härjade i Los Angeles i januari förra året. Det handlar om branden i Palisades där 12 personer omkom. Mannen är skyldig till två fall av mordbrand och straffet kommer meddelas i mars nästa år.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Man guilty of deadly wildfire in Los Angeles",
+        "summary": "In the US, a jury has convicted a 30-year-old man of having started one of the major fires that raged in Los Angeles last January. It concerns the Palisades fire, in which 12 people died. The man is guilty of two counts of arson, and the sentence will be announced in March next year."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T03:01:14+01:00"
+      }
+    },
     {
       "id": "b01dd9cc488b",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T16:01:23+01:00"
-      }
-    },
-    {
-      "id": "9b243b45e77a",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341249",
-      "guid": "rss:sr.se/article/9341249",
-      "published_at": "2026-11-15T14:19:00+01:00",
-      "fetched_at": "2026-11-15T14:30:54+01:00",
-      "category": "culture",
-      "sv": {
-        "title": "Tuva kämpar mot sin svåra kräksfobi",
-        "summary": "I över tio år har Tuva Claesson kämpat med sin emetofobi. Det som många känner igen som spyfobi påverkar vad hon gör, hur hon reser och vad hon äter – varje dag. Nu gör hon allt för att övervinna rädslan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tuva fights her severe fear of vomiting",
-        "summary": "For over ten years Tuva Claesson has struggled with her emetophobia. What many recognise as fear of vomiting affects what she does, how she travels and what she eats – every day. Now she is doing everything to overcome the fear."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T14:31:04+01:00"
       }
     }
   ]
