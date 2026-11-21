@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-21T15:45:50+01:00",
+  "generated_at": "2026-11-21T16:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "12d64090d77e",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/23mgg3SDxihcevL1DKdDm0/haektas-foer-mord-pa-kvinnlig-kollega",
+      "guid": "23mgg3SDxihcevL1DKdDm0",
+      "published_at": "2026-11-21T15:46:49+01:00",
+      "fetched_at": "2026-11-21T16:01:17+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Häktas för mord på kvinnlig kollega",
+        "summary": "Det var strax efter klockan nio på onsdagskvällen som polisen larmades till företaget i Enköping. Enligt uppgifter till TV4 Nyheterna ska polisen dessförinnan ha haft ett ärende utan brottsmisstankar där de sökt den nu häktade mannen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Remanded in custody for murder of female colleague",
+        "summary": "It was shortly after nine o'clock on Wednesday evening that police were alerted to the company in Enköping. According to information given to TV4 Nyheterna, police had earlier had a case without criminal suspicions in which they sought the now remanded man."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T16:01:25+01:00"
+      }
+    },
     {
       "id": "cb300f337208",
       "schema_version": 1,
@@ -5740,35 +5769,6 @@
       "en": {
         "title": "He is ill the day before the final: 'It is not great timing'",
         "summary": "Ahead of the fifth Saturday final of 'Idol', Laban Berglin has caught a cold at the worst possible moment. The symptoms began earlier in the week, and now there are only hours left until the next live performance."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "a0cd2ba5e6fc",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2qzSDs8cgT9qeuJP8WHdIZ/haer-aer-moderaternas-lockbeten-i-totalpaketet-till-centerpartiet",
-      "guid": "2qzSDs8cgT9qeuJP8WHdIZ",
-      "published_at": "2026-11-13T16:28:04+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Här är M:s lockbeten i totalpaketet till C",
-        "summary": "Enligt uppgifter till TV4 Nyheterna • M-källa: ”Mycket bra för C”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Here are M's sweeteners in the total package for C",
-        "summary": "According to information given to TV4 Nyheterna • M source: 'Very good for C'"
       },
       "translation": {
         "status": "done",

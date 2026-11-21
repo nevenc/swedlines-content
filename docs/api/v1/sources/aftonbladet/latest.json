@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T15:45:50+01:00",
+  "generated_at": "2026-11-21T16:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "70ac94bff47b",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/z0GPBq/sura-pa-trump-de-kan-vanda-presidentvalet",
+      "guid": "https://www.aftonbladet.se/nyheter/a/z0GPBq/sura-pa-trump-de-kan-vanda-presidentvalet?utm_medium=rss",
+      "published_at": "2026-11-21T15:52:25+01:00",
+      "fetched_at": "2026-11-21T16:01:16+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/b477e58a-eed7-3b58-b969-22ece06eb8bf?format=auto&s=bac6ec3291e548900edc4d298f195b60bf3ab519&w=1000",
+      "sv": {
+        "title": "Sura på Trump – de kan vända presidentvalet",
+        "summary": "För två år sedan vände de Demokraterna och Kamala Harris ryggen. Nu, när valrörelsen inför…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Sore at Trump – they could swing the presidential election",
+        "summary": "Two years ago they turned their backs on the Democrats and Kamala Harris. Now, as the election campaign ahead of…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T16:01:25+01:00"
+      }
+    },
     {
       "id": "cde75922b7c4",
       "schema_version": 1,
@@ -5346,33 +5373,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T23:01:13+01:00"
-      }
-    },
-    {
-      "id": "c8ef9fb7f9c3",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/GPGer9/sis-hem-stangs-ner-ungdomarna-tog-over",
-      "guid": "https://www.aftonbladet.se/nyheter/a/GPGer9/sis-hem-stangs-ner-ungdomarna-tog-over?utm_medium=rss",
-      "published_at": "2026-11-18T17:43:34+01:00",
-      "fetched_at": "2026-11-18T17:45:49+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/921d19b3-6e64-38be-ac3f-ac6a6ab65fee?format=auto&s=d1ae8707e5d3a2705b9d03e6f6d66507a19e754b&w=1000",
-      "sv": {
-        "title": "Sis-hem stängs ner – ungdomarna tog över",
-        "summary": "Statens institutionsstyrelse, Sis, har beslutat att stänga Vemyra ungdomshem i Sollefteå.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Youth home closed – the young people took over",
-        "summary": "The Swedish National Board of Institutional Care, Sis, has decided to close Vemyra youth home in Sollefteå."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T17:45:57+01:00"
       }
     }
   ]

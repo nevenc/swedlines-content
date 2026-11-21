@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T15:45:50+01:00",
+  "generated_at": "2026-11-21T16:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8884c9b2e659",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/alice-23-tar-over-muf",
+      "guid": "https://www.expressen.se/nyheter/politik/alice-23-tar-over-muf/",
+      "published_at": "2026-11-21T15:49:34+01:00",
+      "fetched_at": "2026-11-21T16:01:17+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Alice Landerholm, 23 tar över Muf",
+        "summary": "Douglas Thor är ute. Förhandstippade vinnaren Alice Landerholm är inne. Nu tar den nepotismanklagade kampanjgeneralen över det mäktiga ungdomsförbundet. – Det känns fantastiskt, säger hon.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Alice Landerholm, 23, takes over Muf",
+        "summary": "Douglas Thor is out. Pre-tipped winner Alice Landerholm is in. Now the campaign general accused of nepotism takes over the powerful youth league. – It feels fantastic, she says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T16:01:25+01:00"
+      }
+    },
     {
       "id": "61d85e07a9c8",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T13:31:06+01:00"
-      }
-    },
-    {
-      "id": "3ddc85aabb57",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/krim/pappans-misstankta-dubbelliv-chefade-over-knarknatverk-5gnhs",
-      "guid": "https://www.expressen.se/nyheter/krim/pappans-misstankta-dubbelliv-chefade-over-knarknatverk-5gnhs/",
-      "published_at": "2026-11-18T13:02:45+01:00",
-      "fetched_at": "2026-11-18T13:15:52+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Pappans misstänkta dubbelliv – chefade över knarknätverk",
-        "summary": "På spaningsbilder mötte den 30-årige småbarnspappan sina misstänkta narkotikasäljare – med barnvagnen framför sig. Polis pekade ut honom som chef för ett välorganiserat narkotikanätverk i Eskilstuna. Nu döms 14 personer – och pappan till sex års fängelse.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Father's suspected double life – led drug network",
-        "summary": "In surveillance images, the 30-year-old father of young children met his suspected drug dealers – with the pram in front of him. Police identified him as the head of a well-organised drug network in Eskilstuna. Now 14 people are convicted – and the father to six years in prison."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T13:15:59+01:00"
       }
     }
   ]

@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-21T15:45:50+01:00",
+  "generated_at": "2026-11-21T16:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "f77a9e40e619",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/knarkboss-gripen-i-mexiko-efterlyst-i-usa",
+      "guid": "a8600fa0-93e4-4ce6-82d4-ab1fcc448995",
+      "published_at": "2026-11-21T15:50:04+01:00",
+      "fetched_at": "2026-11-21T16:01:19+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Knarkboss gripen i Mexiko – efterlyst i USA",
+        "summary": "Mexikos militär uppger att en knarkledare känd som ”Chapo Isidro” frihetsberövats i en nattlig räd i Sinaloa. Kartelltoppen var efterlyst i USA och fanns med på FBI:s lista över de tio mest eftersökta brottslingar.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Drug boss arrested in Mexico – wanted in the US",
+        "summary": "Mexico's military says a drug leader known as \"Chapo Isidro\" has been detained in a nighttime raid in Sinaloa. The cartel leader was wanted in the US and was on the FBI's list of the ten most wanted fugitives."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T16:01:25+01:00"
+      }
+    },
+    {
+      "id": "12d64090d77e",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/23mgg3SDxihcevL1DKdDm0/haektas-foer-mord-pa-kvinnlig-kollega",
+      "guid": "23mgg3SDxihcevL1DKdDm0",
+      "published_at": "2026-11-21T15:46:49+01:00",
+      "fetched_at": "2026-11-21T16:01:17+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Inrikes"
+      ],
+      "sv": {
+        "title": "Häktas för mord på kvinnlig kollega",
+        "summary": "Det var strax efter klockan nio på onsdagskvällen som polisen larmades till företaget i Enköping. Enligt uppgifter till TV4 Nyheterna ska polisen dessförinnan ha haft ett ärende utan brottsmisstankar där de sökt den nu häktade mannen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Remanded in custody for murder of female colleague",
+        "summary": "It was shortly after nine o'clock on Wednesday evening that police were alerted to the company in Enköping. According to information given to TV4 Nyheterna, police had earlier had a case without criminal suspicions in which they sought the now remanded man."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T16:01:25+01:00"
+      }
+    },
     {
       "id": "61d85e07a9c8",
       "schema_version": 1,
@@ -5335,58 +5390,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T20:45:54+01:00"
-      }
-    },
-    {
-      "id": "d75c8f71426f",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/ranare-kom-over-pokemonkort-varda-miljonbelopp",
-      "guid": "https://www.expressen.se/nyheter/varlden/ranare-kom-over-pokemonkort-varda-miljonbelopp/",
-      "published_at": "2026-11-17T20:02:26+01:00",
-      "fetched_at": "2026-11-17T20:15:54+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Rånare kom över Pokémonkort värda miljonbelopp",
-        "summary": "I Danmark rånades i helgen två butiker på Pokémonkort – värda miljonbelopp. Och ett av tillslagen bedöms som särskilt välplanerat. – Självklart tar vi det här på riktigt stor allvar, säger polisen Thomas Ratzlaf till DR.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Robbers got hold of Pokémon cards worth millions",
-        "summary": "In Denmark, two shops were robbed of Pokémon cards over the weekend – worth millions. And one of the raids is judged to have been especially well planned. – Of course we are taking this very seriously, police officer Thomas Ratzlaf tells DR."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T20:16:02+01:00"
-      }
-    },
-    {
-      "id": "5d35f1e22e10",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/grevens-miss-blandade-ihop-von-blixen-med-frun",
-      "guid": "https://www.expressen.se/nyheter/sverige/grevens-miss-blandade-ihop-von-blixen-med-frun/",
-      "published_at": "2026-11-17T19:38:43+01:00",
-      "fetched_at": "2026-11-17T19:45:48+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Grevens miss: Blandade ihop von Blixen med frun",
-        "summary": "Greven blandade ihop hovdamen Kirstine von Blixen-Finecke – med sin döda hustru. Det säger Axel Calissendorff, grevens sista advokat, i rätten. – Några gånger sa han ”Alice” när han talade med Kinne, berättar han.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Count's slip: Confused von Blixen with his wife",
-        "summary": "The count confused lady-in-waiting Kirstine von Blixen-Finecke with his late wife. This is what Axel Calissendorff, the count's last lawyer, says in court. \"A few times he said 'Alice' when he spoke with Kinne, he recounts.\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T19:45:54+01:00"
       }
     }
   ]
