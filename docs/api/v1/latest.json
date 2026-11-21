@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-11-21T07:31:10+01:00",
+  "generated_at": "2026-11-21T07:45:52+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bdff52066cb3",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/doms-for-start-av-palisadesbrand",
+      "guid": "ca8f020b-e9aa-480f-930f-2382d930879d",
+      "published_at": "2026-11-21T07:45:17+01:00",
+      "fetched_at": "2026-11-21T07:45:49+01:00",
+      "category": "crime",
+      "image_url": "https://static.bonniernews.se/ba/7839210b-d9df-44a4-84d7-adfd12f9792a.jpg?width=600",
+      "sv": {
+        "title": "Döms för start av Palisadesbrand"
+      },
+      "en": {
+        "title": "Convicted for starting the Palisades fire"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:45:51+01:00"
+      }
+    },
+    {
+      "id": "cb475b34551c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/varlden/historiskt-matematiskt-problem-pastas-lost-med-ai",
+      "guid": "99e1181d-2e79-4afe-9437-cdca67138b27",
+      "published_at": "2026-11-21T07:41:26+01:00",
+      "fetched_at": "2026-11-21T07:45:49+01:00",
+      "category": "science_tech",
+      "image_url": "https://static.bonniernews.se/ba/876fb066-70da-4bd1-908a-39b68d109685.jpg?width=600",
+      "sv": {
+        "title": "Historiskt matematiskt problem påstås löst med AI",
+        "summary": "Riemannhypotesen har varit en gåta sedan 1800-talet. Nu hävdar en Anthropic-anställd matematiker att han hittat en lösning med hjälp av bolagets AI.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Historic mathematical problem reportedly solved with AI",
+        "summary": "The Riemann hypothesis has been a puzzle since the 1800s. Now an Anthropic-employed mathematician claims he has found a solution using the company's AI."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:45:51+01:00"
+      }
+    },
+    {
+      "id": "9dce76899ec5",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/GPG5PB/minnesprofilens-ai-larm-skrammande",
+      "guid": "https://www.aftonbladet.se/nyheter/a/GPG5PB/minnesprofilens-ai-larm-skrammande?utm_medium=rss",
+      "published_at": "2026-11-21T07:32:53+01:00",
+      "fetched_at": "2026-11-21T07:45:47+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/4ec187c3-b2af-3431-8d43-3d4121f8f8ca?format=auto&s=18a74c6e68e06d0153187de5500fe0c122f73dae&w=1000",
+      "sv": {
+        "title": "Minnesprofilens larm: ”Svårt att tänka sig något mer skrämmande”",
+        "summary": "Varnar för trenden ✓ ”Hoppa av nu”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Memory profile alarm: \"Hard to imagine anything more frightening\"",
+        "summary": "Warns about the trend ✓ \"Quit now\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:45:51+01:00"
+      }
+    },
     {
       "id": "2286c326f0df",
       "schema_version": 1,
@@ -5391,88 +5469,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T18:31:09+01:00"
-      }
-    },
-    {
-      "id": "954d8ae103b7",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sport/omtaget-gav-hammarby-ett-trumfkort-i-guldkampen-bara-upp-till-oss-nu",
-      "guid": "https://www.dn.se/sport/omtaget-gav-hammarby-ett-trumfkort-i-guldkampen-bara-upp-till-oss-nu/",
-      "published_at": "2026-11-20T18:11:47+01:00",
-      "fetched_at": "2026-11-20T18:15:44+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/f3ac3d13-0268-4215-8818-eef846bbc362.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Omtaget gav Hammarby ett trumfkort i guldkampen: ”Bara upp till oss nu”",
-        "summary": "Sedan Henrik Rydström tog över som tränare i somras har Hammarby släppt in hälften så många mål per match som tidigare under säsongen. Den täta defensiven har gett ”Bajen” trumf på hand i kampen om SM-guldet i fotboll.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Overhaul gives Hammarby a trump card in the gold race: \"Just up to us now\"",
-        "summary": "Since Henrik Rydström took over as coach last summer, Hammarby have conceded half as many goals per match as earlier in the season. The tight defence has given \"Bajen\" a trump card in the race for the Swedish football championship."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:16:00+01:00"
-      }
-    },
-    {
-      "id": "da55d80e2383",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1SGz8btW3MNBd4PFzWvecS/klimatmoete-pa-oevertid-oenigt-om-fossila-braenslen",
-      "guid": "1SGz8btW3MNBd4PFzWvecS",
-      "published_at": "2026-11-20T18:10:56+01:00",
-      "fetched_at": "2026-11-20T18:15:46+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "Klimatmöte på övertid – oenigt om fossila bränslen",
-        "summary": "Klimatmötet COP31 har nu pågått i två veckor. Samtidigt som montrar och utställningshallar monteras ned pågår intensiva förhandlingar i turkiska Antalya.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Climate talks in overtime – disagreement over fossil fuels",
-        "summary": "The COP31 climate summit has now run for two weeks. As exhibition stands and halls are being dismantled, intense negotiations continue in Antalya, Turkey."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:16:00+01:00"
-      }
-    },
-    {
-      "id": "fa505248a61e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=d5b54ba7-4681-42b0-91f2-286b53723e40",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=d5b54ba7-4681-42b0-91f2-286b53723e40",
-      "published_at": "2026-11-20T18:09:49+01:00",
-      "fetched_at": "2026-11-20T18:15:46+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "C-topp öppnar för Kristersson",
-        "summary": "Anders Dahlberg (C) redo att gå högerut",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Centre Party leadership opens to Kristersson",
-        "summary": "Anders Dahlberg (C) ready to move to the right"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:16:00+01:00"
       }
     }
   ]
