@@ -1,7 +1,109 @@
 {
-  "generated_at": "2026-11-21T14:01:25+01:00",
-  "count": 254,
+  "generated_at": "2026-11-21T14:15:56+01:00",
+  "count": 258,
   "items": [
+    {
+      "id": "36d8aea60e06",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/mff-direkt-fa-det-senaste-om-malmo-ff-har",
+      "guid": "3cefe19c-874e-40e9-a181-3e03cd774c8b",
+      "published_at": "2026-11-21T14:13:46+01:00",
+      "fetched_at": "2026-11-21T14:15:52+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "MFF Direkt: Få det senaste om Malmö FF här",
+        "summary": "Här sker all direktrapportering om Malmö FF. Matcher, träningar och snabba nyheter.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "MFF Direkt: Get the latest on Malmö FF here",
+        "summary": "All live reporting on Malmö FF takes place here. Matches, training sessions and quick news."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T14:15:55+01:00"
+      }
+    },
+    {
+      "id": "dee4e2995a4c",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80155",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80155&utm_medium=rss",
+      "published_at": "2026-11-21T14:08:05+01:00",
+      "fetched_at": "2026-11-21T14:15:48+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Bilbrand på E18 stoppar trafik mot Stockholm"
+      },
+      "en": {
+        "title": "Car fire on E18 halts traffic towards Stockholm"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T14:15:55+01:00"
+      }
+    },
+    {
+      "id": "1e093b4f180f",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/lina-lund-eu-kvarteren-far-sergels-torg-att-framsta-som-en-idyll",
+      "guid": "https://www.dn.se/varlden/lina-lund-eu-kvarteren-far-sergels-torg-att-framsta-som-en-idyll/",
+      "published_at": "2026-11-21T14:03:48+01:00",
+      "fetched_at": "2026-11-21T14:15:47+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/623c6d5d-6182-4c54-9e76-2f394bd33f90.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Lina Lund: EU-kvarteren får Sergels torg att framstå som en idyll",
+        "summary": "Fråga äldre stockholmare om de gamla Klarakvarteren och de får något vått i blicken. Det är sorg och saknad efter de pittoreska – och mycket nedgångna – kvarteren, med sina tidningsredaktioner, krogar och bohemer, som jämnades med marken när tunnelbanan och det moderna Sverige skulle fram.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Lina Lund: The EU quarter makes Sergels torg look like an idyll",
+        "summary": "Ask older Stockholmers about the old Klara quarters and they get something wet in their eyes. It is grief and longing for the picturesque, and very run-down, quarters with their newspaper offices, pubs and bohemians, which were levelled when the metro and modern Sweden were built."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T14:15:55+01:00"
+      }
+    },
+    {
+      "id": "c89e45fe1492",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/fartyg-attackerat-drivit-till-finlandskt-vatten",
+      "guid": "https://www.expressen.se/nyheter/varlden/fartyg-attackerat-drivit-till-finlandskt-vatten/",
+      "published_at": "2026-11-21T14:00:49+01:00",
+      "fetched_at": "2026-11-21T14:15:49+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Fartyg attackerat – drivit till finländskt vatten",
+        "summary": "Ett fraktfartyg har attackerats i Finska viken och drivit in i finländskt vatten. Fartyget ifråga står under sanktioner för vapentransporter till den ryska militären.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ship attacked – drifted into Finnish waters",
+        "summary": "A cargo ship has been attacked in the Gulf of Finland and drifted into Finnish waters. The vessel in question is under sanctions for transporting weapons to the Russian military."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T14:15:55+01:00"
+      }
+    },
     {
       "id": "9e2186637af8",
       "schema_version": 1,
