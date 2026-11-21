@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T18:31:06+01:00",
+  "generated_at": "2026-11-21T18:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6a1dc626bc27",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/sverige/ikeas-arliga-ord-sanker-priserna",
+      "guid": "https://www.expressen.se/nyheter/sverige/ikeas-arliga-ord-sanker-priserna/",
+      "published_at": "2026-11-21T18:41:46+01:00",
+      "fetched_at": "2026-11-21T18:45:44+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Ikeas ärliga ord – sänker priserna",
+        "summary": "Ikeas varor har blivit för dyra, menar möbeljättens egen vd. Ärliga ord. Nu tar Ikea tre nya grepp för att locka kunder till köp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Ikea's candid words – lowers prices",
+        "summary": "Ikea's goods have become too expensive, according to the furniture giant's own CEO. Candid words. Now Ikea is taking three new steps to attract customers to buy."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T18:45:51+01:00"
+      }
+    },
     {
       "id": "fa81c770a759",
       "schema_version": 1,
@@ -5164,32 +5190,6 @@
       "en": {
         "title": "This is how Andersson can solve the impossible",
         "summary": "Viktor Barth-Kron goes through the possibilities and impossibilities of the red-green alternatives."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T15:31:08+01:00"
-      }
-    },
-    {
-      "id": "908a3a2883a6",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/emma-30-har-hemtjanst-blir-ifragasatt",
-      "guid": "https://www.expressen.se/nyheter/sverige/emma-30-har-hemtjanst-blir-ifragasatt/",
-      "published_at": "2026-11-18T15:18:48+01:00",
-      "fetched_at": "2026-11-18T15:31:01+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Emma, 30, har hemtjänst – blir ifrågasatt",
-        "summary": "Emma Sandberg, 30, är beroende av hemtjänst för att vardagen ska fungera. Trots det möts hon ofta av misstro. – Vissa tror att jag bara är lat, säger hon.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Emma, 30, has home care – is questioned",
-        "summary": "Emma Sandberg, 30, depends on home care for daily life to work. Despite this, she often meets distrust. – Some think I'm just lazy, she says."
       },
       "translation": {
         "status": "done",
