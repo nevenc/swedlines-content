@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T11:31:08+01:00",
+  "generated_at": "2026-11-21T11:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "bae52bbcbd74",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347629",
+      "guid": "rss:sr.se/article/9347629",
+      "published_at": "2026-11-21T11:37:00+01:00",
+      "fetched_at": "2026-11-21T11:45:44+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Trafiken i Finska viken begränsas efter drönarlarm",
+        "summary": "I Estland har invånare varnats för drönare under natten, rapporterar estnisk public service. Samtidigt har flyg- och sjötrafik begränsats i östra Finska viken, enligt Finlands försvarsmakt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Traffic in the Gulf of Finland restricted after drone alarm",
+        "summary": "In Estonia, residents were warned of drones during the night, reports Estonian public service. At the same time, air and sea traffic has been restricted in the eastern Gulf of Finland, according to the Finnish Defence Forces."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T11:45:53+01:00"
+      }
+    },
     {
       "id": "9055d0bfe402",
       "schema_version": 1,
@@ -395,6 +421,33 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T09:31:15+01:00"
+      }
+    },
+    {
+      "id": "d07aa90e8dff",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://tv.aftonbladet.se/video/411002",
+      "guid": "https://tv.aftonbladet.se/video/411002?utm_medium=rss",
+      "published_at": "2026-11-21T09:27:04+01:00",
+      "fetched_at": "2026-11-21T11:45:45+01:00",
+      "category": "world",
+      "image_url": "https://images.stream.schibsted.media/users/ab_/images/3e13ec279617231f9d6e2de0fddcf253.jpg?t%5B%5D=1000x563q80",
+      "sv": {
+        "title": "Flyr undan rysk dubbelattack",
+        "summary": "Attackerar räddningspersonalen",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Flees Russian double attack",
+        "summary": "Attacks rescue personnel"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T11:45:53+01:00"
       }
     },
     {
@@ -5350,60 +5403,6 @@
       "en": {
         "title": "Xi wants to make the world 'Chinamaxx'",
         "summary": "Xi, Trump and Putin praise their meeting. \"What was wrong with Yalta?\" asks Putin."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:31:15+01:00"
-      }
-    },
-    {
-      "id": "03ded940180b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/xJPXLQ/trions-mote-kan-skapa-oro-i-europa-stormaktspolitik",
-      "guid": "https://www.svd.se/a/xJPXLQ/trions-mote-kan-skapa-oro-i-europa-stormaktspolitik?utm_medium=rss",
-      "published_at": "2026-11-19T18:23:22+01:00",
-      "fetched_at": "2026-11-19T18:31:01+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/dd5dcea4-4496-380d-a4b0-0944eea070f4?format=auto&s=8687cd4e7fa5593e368f063602126ac2b1f09a1c&w=1000",
-      "sv": {
-        "title": "Trions möte kan skapa oro i Europa: ”Stormaktspolitik”",
-        "summary": "Ett Europa som kämpar för att hävda sin röst på den internationella arenan ser sannolikt med oro…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trio meeting may cause concern in Europe: \"Great power politics\"",
-        "summary": "A Europe struggling to assert its voice on the international stage likely views this with concern…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:31:15+01:00"
-      }
-    },
-    {
-      "id": "096f5381b6dc",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/9BvnRq/trions-mote-kan-skapa-oro-i-europa-stormaktspolitik",
-      "guid": "https://www.aftonbladet.se/nyheter/a/9BvnRq/trions-mote-kan-skapa-oro-i-europa-stormaktspolitik?utm_medium=rss",
-      "published_at": "2026-11-19T18:23:22+01:00",
-      "fetched_at": "2026-11-19T18:31:01+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/dd5dcea4-4496-380d-a4b0-0944eea070f4?format=auto&s=8687cd4e7fa5593e368f063602126ac2b1f09a1c&w=1000",
-      "sv": {
-        "title": "Trions möte kan skapa oro i Europa: ”Stormaktspolitik”",
-        "summary": "Ett Europa som kämpar för att hävda sin röst på den internationella arenan ser sannolikt med oro…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trio meeting may cause concern in Europe: \"Great power politics\"",
-        "summary": "A Europe struggling to assert its voice on the international stage likely views this with concern…"
       },
       "translation": {
         "status": "done",

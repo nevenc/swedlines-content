@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T11:31:08+01:00",
+  "generated_at": "2026-11-21T11:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "82ae04d4c18d",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/sport/johanna-franden-som-utvandrad-fotbollsmorsa-forstar-jag-buropen-mot-sverige",
+      "guid": "https://www.dn.se/sport/johanna-franden-som-utvandrad-fotbollsmorsa-forstar-jag-buropen-mot-sverige/",
+      "published_at": "2026-11-21T11:36:37+01:00",
+      "fetched_at": "2026-11-21T11:45:44+01:00",
+      "category": "sports",
+      "image_url": "https://static.bonniernews.se/ba/53cfe81b-50bb-4d02-890e-35177724ab63.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Johanna Frändén: Som utvandrad fotbollsmorsa förstår jag buropen mot Sverige",
+        "summary": "När den bosniska orkanen drog förbi Solna började den nya tidens olyckskorpar flaxa: Varför håller inte våra invandrare på svenska landslaget? Det ska den här utvandrade fotbollsmorsan berätta för alla som orkar lyssna.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Johanna Frändén: As an emigrant football mother, I understand the booing against Sweden",
+        "summary": "When the Bosnian hurricane swept past Solna, the new age's birds of ill omen began to flutter: Why don't our immigrants play for the Swedish national team? This emigrant football mother is here to tell everyone who cares to listen."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T11:45:53+01:00"
+      }
+    },
     {
       "id": "72eaf9fef5df",
       "schema_version": 1,
@@ -5576,33 +5603,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T08:30:08+01:00"
-      }
-    },
-    {
-      "id": "3bc63bfb28fd",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sport/johan-esk-smallarna-gav-lika-mycket-som-den-svenska-segern",
-      "guid": "https://www.dn.se/sport/johan-esk-smallarna-gav-lika-mycket-som-den-svenska-segern/",
-      "published_at": "2026-11-15T06:00:40+01:00",
-      "fetched_at": "2026-11-15T08:29:35+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/f859613f-49c4-4319-b90b-a54aaa4b4e91.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Johan Esk: Smällarna gav lika mycket som den svenska segern",
-        "summary": "När matchen var slut hade svenskarna fått smällar som gjorde spelarna både gula och blå. Men de var ändå vinnande gruppsegrare. Därför var den här extra-allt-kvällen perfekt för Potters landslag.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Johan Esk: The blasts gave as much as the Swedish victory",
-        "summary": "When the match was over, the Swedes had taken blows that left the players both yellow and blue. But they were still winning group winners. That is why this extra-everything evening was perfect for Potter's national team."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T08:30:14+01:00"
       }
     }
   ]
