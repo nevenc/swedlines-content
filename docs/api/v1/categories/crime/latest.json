@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-11-21T14:15:56+01:00",
+  "generated_at": "2026-11-21T14:31:14+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "910e23f13dfe",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/krim/misstanken-gangman-till-attack-mitt-pa-avenyn.b1da8fa3-4818-5bf3-8275-7ea357524242",
+      "guid": "b1da8fa3-4818-5bf3-8275-7ea357524242",
+      "published_at": "2026-11-21T14:02:32+01:00",
+      "fetched_at": "2026-11-21T14:31:05+01:00",
+      "category": "crime",
+      "feed_categories": [
+        "Krim",
+        "Tagg: Brott och straff",
+        "Tagg: Polisen",
+        "Tagg: Göteborg",
+        "Tagg: Biskopsgården",
+        "Tagg: Avenyn"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/102ac728-6ba8-3fa6-9916-5908b2e5a7f4",
+      "sv": {
+        "title": "Misstanken: Gängmän till attack på Avenyn i Göteborg",
+        "summary": "Två åtalade för grov misshandel.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspected: gang member behind attack on Avenyn in Göteborg",
+        "summary": "Two charged with aggravated assault."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T14:31:14+01:00"
+      }
+    },
     {
       "id": "6ed7744936c1",
       "schema_version": 1,
@@ -5357,33 +5392,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "4b8428c023f2",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/staffanstorp/staffanstorpsbo-knyts-till-nya-sexofredanden-av-kvinnliga-vansterpolitiker",
-      "guid": "0e7c0352-fdcb-41f7-ba95-fd90dd8f6b3e",
-      "published_at": "2026-11-17T18:01:05+01:00",
-      "fetched_at": "2026-11-17T18:01:20+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/802fa85a-f377-43e6-b7aa-08d6ccebfc6c.jpeg?width=600",
-      "sv": {
-        "title": "47-åring knyts till nya sexofredanden av kvinnliga vänsterpolitiker",
-        "summary": "Den 47-årige mannen från Staffanstorp är tidigare dömd för att ha skickat mängder med sms med grova sexanspelningar till kvinnliga vänsterpolitiker. Nu misstänks han ha återfallit. 47-åringen åtalas för att ha skickat dickpicks och en tecknad nazipenis till fyra nya kvinnor.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "47-year-old linked to new sexual harassment cases against female left-wing politicians",
-        "summary": "The 47-year-old man from Staffanstorp was previously convicted for sending masses of text messages containing aggravated sexual solicitation to female Left Party politicians. Now he is suspected of having reoffended. The 47-year-old is charged with sending dick pics and a drawn Nazi penis to four new women."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T18:01:27+01:00"
       }
     }
   ]
