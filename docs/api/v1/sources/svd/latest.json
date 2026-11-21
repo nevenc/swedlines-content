@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T08:45:50+01:00",
+  "generated_at": "2026-11-21T09:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "3196a815185f",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/r8AKEw/borsexpert-om-blodiga-fredagen-perfekt-cocktail",
+      "guid": "https://www.svd.se/a/r8AKEw/borsexpert-om-blodiga-fredagen-perfekt-cocktail?utm_medium=rss",
+      "published_at": "2026-11-21T08:52:16+01:00",
+      "fetched_at": "2026-11-21T09:01:14+01:00",
+      "category": "economy",
+      "image_url": "https://akamai.vgc.no/v2/images/a85fe3d1-7b70-372a-bed7-79c4c49218e3?format=auto&s=407c1e073dc6ff8559b951288dbae5c602e10066&w=1000",
+      "sv": {
+        "title": "Börsexpert om blodiga fredagen: ”Perfekt cocktail”",
+        "summary": "Wall Street bjöd på en blodig fredag med massiva ras för AI- och chipbolag.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Market expert on the bloody Friday: \"Perfect cocktail\"",
+        "summary": "Wall Street had a bloody Friday with massive falls for AI and chip companies."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T09:01:22+01:00"
+      }
+    },
     {
       "id": "866fda6edaef",
       "schema_version": 1,
@@ -5236,32 +5263,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T11:31:06+01:00"
-      }
-    },
-    {
-      "id": "d101815e85f5",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/M5R9QB/eu-s-nya-ukrainalan-ska-radda-2027",
-      "guid": "https://www.svd.se/a/M5R9QB/eu-s-nya-ukrainalan-ska-radda-2027?utm_medium=rss",
-      "published_at": "2026-11-18T11:07:31+01:00",
-      "fetched_at": "2026-11-18T11:15:44+01:00",
-      "category": "world",
-      "sv": {
-        "title": "EU:s nya Ukrainalån ska rädda 2027",
-        "summary": "EU-kommissionen föreslår ett lån till Ukraina på 45 miljarder euro för att hjälpa landet genom år…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "EU’s new Ukraine loan is to rescue 2027",
-        "summary": "The European Commission proposes a loan to Ukraine of 45 billion euros to help the country through year…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T11:16:04+01:00"
       }
     }
   ]

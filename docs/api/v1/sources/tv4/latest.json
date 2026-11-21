@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-21T08:45:50+01:00",
+  "generated_at": "2026-11-21T09:01:22+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5a28ea2ac944",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/42QcByYZdkHhPx0TZYW5IH/flera-olyckor-i-ovaedret-polisen-uppmanar-var-ansvarsfulla",
+      "guid": "42QcByYZdkHhPx0TZYW5IH",
+      "published_at": "2026-11-21T08:56:52+01:00",
+      "fetched_at": "2026-11-21T09:01:16+01:00",
+      "category": "weather",
+      "feed_categories": [
+        "/"
+      ],
+      "sv": {
+        "title": "Flera olyckor i ovädret – polisen uppmanar: ”Var ansvarsfulla”",
+        "summary": "SMHI har utfärdat en gul varning för snöfall i kombination med vind i delar av östra Svealand. Varningen gäller från fredag kväll fram till lunchtid på måndagen. Fram till lördag kväll kan det komma upp till 15 cm snö. Det har under natten skett flera olyckor i området kring Uppsala och Stockholm.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Several accidents in the storm – police urge: \"Be responsible\"",
+        "summary": "The SMHI has issued a yellow warning for snowfall combined with wind in parts of eastern Svealand. The warning applies from Friday evening until lunchtime on Monday. Up to 15 cm of snow may fall until Saturday evening. Several accidents have occurred overnight in the area around Uppsala and Stockholm."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T09:01:22+01:00"
+      }
+    },
     {
       "id": "741262c1a0ff",
       "schema_version": 1,
@@ -5740,35 +5769,6 @@
       "en": {
         "title": "C commentator: Let V into the government",
         "summary": "'Less dangerous to give them a few ministerial posts'"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "d3c45a7bef76",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/2XCOc8TanNPqElhkJfGoZm/mobbades-foer-sin-diabetes-nu-hjaelper-hon-andra-unga",
-      "guid": "2XCOc8TanNPqElhkJfGoZm",
-      "published_at": "2026-11-13T10:53:13+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "sweden",
-      "feed_categories": [
-        "Nyhetsmorgon"
-      ],
-      "sv": {
-        "title": "Wilma slutade ta insulin – när hon mobbades för sin diabetes",
-        "summary": "Wilma Berngarn, 20, fick diagnosen diabetes typ 1 redan som sexåring. Då fanns inga pumpar eller sensorer utan hon var tvungen att ta sprutor med insulin. De andra barnen ville först inte sitta bredvid henne i klassrummet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Wilma stopped taking insulin – when she was bullied for her diabetes",
-        "summary": "Wilma Berngarn, 20, was diagnosed with type 1 diabetes as early as age six. Back then there were no pumps or sensors; she had to take insulin injections. At first the other children did not want to sit next to her in the classroom."
       },
       "translation": {
         "status": "done",
