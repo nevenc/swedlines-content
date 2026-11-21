@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T01:31:08+01:00",
+  "generated_at": "2026-11-21T01:45:49+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "501746d05b98",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/utrikes/jordbavning-i-perus-huvudstad-lima",
+      "guid": "https://www.svt.se/nyheter/utrikes/jordbavning-i-perus-huvudstad-lima",
+      "published_at": "2026-11-21T01:29:15+01:00",
+      "fetched_at": "2026-11-21T01:45:41+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Jordbävning i Perus huvudstad Lima",
+        "summary": "En kraftig jordbävning med magnituden 6,7 skakade Peru på fredagskvällen lokal tid. Skalvet kändes även i huvudstaden Lima, uppger ett vittne från nyhetsbyrån Reuters.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Earthquake in Peru's capital Lima",
+        "summary": "A strong earthquake with a magnitude of 6.7 shook Peru on Friday evening local time. The tremor was also felt in the capital Lima, a witness told the news agency Reuters."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T01:45:49+01:00"
+      }
+    },
     {
       "id": "22bfbed5cc6f",
       "schema_version": 1,
@@ -5412,32 +5438,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T16:16:03+01:00"
-      }
-    },
-    {
-      "id": "fa163b21d267",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/inflationsforvantningarna-sjunker-hos-usa-hushall",
-      "guid": "c22b42a3-7de2-4cdd-a938-60ad5624d719",
-      "published_at": "2026-11-20T16:11:26+01:00",
-      "fetched_at": "2026-11-20T16:20:53+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Inflationsförväntningarna sjunker hos USA-hushåll",
-        "summary": "University of Michigans index över det amerikanska konsumentförtroendet steg till 51,5 i november jämfört med 48,0 i oktober.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Inflation expectations fall among US households",
-        "summary": "The University of Michigan index of American consumer confidence rose to 51.5 in November from 48.0 in October."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:20:57+01:00"
       }
     }
   ]
