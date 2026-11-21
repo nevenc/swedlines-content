@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T16:31:08+01:00",
+  "generated_at": "2026-11-21T16:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0630a0307e37",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/familj/journalisten-disa-hastad-ar-dod",
+      "guid": "2e32e33e-27d0-462b-8232-211960127141",
+      "published_at": "2026-11-21T16:41:22+01:00",
+      "fetched_at": "2026-11-21T16:45:45+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Journalisten Disa Håstad är död",
+        "summary": "Journalisten och författaren Disa Håstad har avlidit, rapporterar Svenska Dagbladet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Journalist Disa Håstad has died",
+        "summary": "Journalist and author Disa Håstad has died, reports Svenska Dagbladet."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T16:45:50+01:00"
+      }
+    },
     {
       "id": "f77a9e40e619",
       "schema_version": 1,
@@ -5203,30 +5229,6 @@
       "en": {
         "title": "Van Gogh painting hammered down for billions",
         "summary": "A painting by the artist Vincent van Gogh has been sold at auction at Sotheby's in New York for USD 190.4 million - over SEK 1.9 billion."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T06:01:24+01:00"
-      }
-    },
-    {
-      "id": "a965510bba93",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/opinion/slapp-sargen-och-kom-in-i-matchen-grona-blocket",
-      "guid": "91caca97-21e1-45b0-8107-5963f549d05d",
-      "published_at": "2026-11-19T05:57:00+01:00",
-      "fetched_at": "2026-11-19T06:01:16+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/32ab916f-72d8-4209-b02e-2d7832f7923d.jpeg?width=600",
-      "sv": {
-        "title": "Släpp sargen och kom in i matchen, gröna blocket"
-      },
-      "en": {
-        "title": "Drop the boards and get into the game, green bloc"
       },
       "translation": {
         "status": "done",

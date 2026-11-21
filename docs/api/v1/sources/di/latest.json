@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-21T16:31:08+01:00",
+  "generated_at": "2026-11-21T16:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "d4aa18599635",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/nu-drar-svarta-miljardyran-igang-ordentlig-okning",
+      "guid": "5d3cecc3-7615-41a5-8bac-31f0bfd08007",
+      "published_at": "2026-11-21T16:37:17+01:00",
+      "fetched_at": "2026-11-21T16:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/69192d09-fa2d-4682-a243-8498d6e5daa5.jpeg?width=600",
+      "sv": {
+        "title": "Nu drar svarta miljardyran igång: ”Ordentlig ökning”",
+        "summary": "Med Black Week tjuvstartar julhandeln som spås bli rekordstark i år. Under reaveckan som startar på måndag handlar svenskarna för 12 miljarder kronor mer än under en vanlig vecka. Planerade julklappsköp till lägre pris lockar, men privatekonomer varnar för onödiga spontanköp.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Black Friday shopping kicks off: “Significant increase”",
+        "summary": "With Black Week, the Christmas shopping season starts early and is forecast to be record-strong this year. During the sale week starting on Monday, Swedes will spend SEK 12 billion more than during an ordinary week. Planned Christmas purchases at lower prices are attracting shoppers, but private economists warn against unnecessary impulse buying."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T16:45:50+01:00"
+      }
+    },
+    {
+      "id": "b5d71d14b393",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/landerholm-vald-till-ny-ordforande-for-muf",
+      "guid": "ea0bde29-81ea-45b6-b3f0-b294718e5208",
+      "published_at": "2026-11-21T16:30:03+01:00",
+      "fetched_at": "2026-11-21T16:45:44+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/5bbaf87c-f014-42c3-bf62-0a850073efc9.jpg?width=600",
+      "sv": {
+        "title": "Landerholm vald till ny ordförande för Muf",
+        "summary": "Moderata ungdomsförbundet (Muf) har fått en ny ordförande. Alice Landerholm, 23 år, tar över posten.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Landerholm elected new chair of Muf",
+        "summary": "The Moderate Youth League (Muf) has a new chair. Alice Landerholm, 23, takes over the post."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T16:45:50+01:00"
+      }
+    },
     {
       "id": "31dbe736ee5a",
       "schema_version": 1,
@@ -5283,59 +5337,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T19:46:07+01:00"
-      }
-    },
-    {
-      "id": "b5e6e7e037b7",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/nedgangen-tilltar-pa-wall-street-jOG9I",
-      "guid": "53e78f88-c547-494b-9b00-6cc3b109aa7b",
-      "published_at": "2026-11-19T19:24:14+01:00",
-      "fetched_at": "2026-11-19T19:31:00+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nedgången tilltar på Wall Street",
-        "summary": "USA-börserna lyser allt rödare under torsdagskvällen trots en lyckad börsdebut för AI-jätten Anthropic. Chiptillverkaren AMD rasar efter att analysfirman Hunterbrook tagit en kort position i aktien.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Wall Street slides further",
-        "summary": "US stock exchanges are turning increasingly red on Thursday evening despite a successful stock market debut for AI giant Anthropic. Chipmaker AMD is plunging after the analysis firm Hunterbrook took a short position in the stock."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:31:05+01:00"
-      }
-    },
-    {
-      "id": "784ff7df02f2",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/tillbaka-i-fondtoppen-forvaltaren-tror-pa-nya-kurslyft",
-      "guid": "66c4157c-376a-4ce3-9cc3-f08ad379dc57",
-      "published_at": "2026-11-19T19:21:23+01:00",
-      "fetched_at": "2026-11-19T19:31:00+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/f74272d5-1143-48ff-a886-d861e93ae692.jpeg?width=600",
-      "sv": {
-        "title": "Tillbaka i fondtoppen – förvaltaren tror på nya kurslyft",
-        "summary": "Med en snittavkastning på 17 procent under de tre senaste åren är tillväxtmarknader tillbaka i fondmatchen. Fondproffset Marie-Anne Meldahl tror på en fortsatt stark utveckling men varnar för att det kan svänga kring de stora asiatiska teknikjättarna.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Back at the top of funds – manager believes in new price gains",
-        "summary": "With an average return of 17 percent over the past three years, emerging markets are back in the fund race. Fund professional Marie-Anne Meldahl believes in continued strong development but warns that it could swing around the big Asian tech giants."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T19:31:05+01:00"
       }
     }
   ]

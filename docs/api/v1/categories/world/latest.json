@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-21T16:31:08+01:00",
+  "generated_at": "2026-11-21T16:45:51+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a76df3d00273",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347702",
+      "guid": "rss:sr.se/article/9347702",
+      "published_at": "2026-11-21T16:43:00+01:00",
+      "fetched_at": "2026-11-21T16:45:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Svenska försvaret om ryska kränkningen: ”En pågående insats”",
+        "summary": "En rysk helikopter misstänks under lördagen ha kränkt det finska luftrummet, enligt Finlands försvarsdepartement. Detta efter att ett ryskt lastfartyg attackerats i Finska viken under natten till lördagen, vilket SVT Nyheter var först med att rapportera om.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Swedish military on Russian violation: “An ongoing operation”",
+        "summary": "A Russian helicopter is suspected of having violated Finnish airspace on Saturday, according to the Finnish Ministry of Defence. This follows an attack on a Russian cargo ship in the Gulf of Finland during the night to Saturday, which SVT Nyheter was first to report."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T16:45:50+01:00"
+      }
+    },
+    {
+      "id": "a50ab8ad9d2a",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/fortsatt-vantan-pa-toppmote-vi-forhandlar",
+      "guid": "https://www.dn.se/varlden/fortsatt-vantan-pa-toppmote-vi-forhandlar/",
+      "published_at": "2026-11-21T16:42:25+01:00",
+      "fetched_at": "2026-11-21T16:45:42+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/c0d05300-8341-4829-bd62-75ea956519d5.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Fortsatt väntan på toppmöte: ”Vi förhandlar”",
+        "summary": "FN:s klimattoppmöte skulle ha avslutats på fredagskvällen. Ett dygn senare finns fortfarande ingen lösning i sikte. – Vi förhandlar fortfarande, säger Norges klimatminister Sigrun Aasland till TT.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Still waiting for summit: “We are negotiating”",
+        "summary": "The UN climate summit was due to end on Friday evening. A day later there is still no solution in sight. – We are still negotiating, says Norwegian Climate Minister Sigrun Aasland to TT."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T16:45:50+01:00"
+      }
+    },
     {
       "id": "780a39a4c8e1",
       "schema_version": 1,
@@ -5323,62 +5376,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T23:01:22+01:00"
-      }
-    },
-    {
-      "id": "f864773147f8",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/lMAXVk/urvattnat-resultat-av-toppmotet-i-kina-europa-andas-ut",
-      "guid": "https://www.svd.se/a/lMAXVk/urvattnat-resultat-av-toppmotet-i-kina-europa-andas-ut?utm_medium=rss",
-      "published_at": "2026-11-19T22:01:51+01:00",
-      "fetched_at": "2026-11-19T22:15:45+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/07d7e37c-3695-343f-890b-8e05e178b2e8?format=auto&s=25d9e9122e63cc2111cb62544f43b60812664a38&w=1000",
-      "sv": {
-        "title": "Stormaktsväldet som kom av sig",
-        "summary": "Resultatet av det historiska mötet mellan USA, Kina och Ryssland blev urvattnat: punkter som pekar…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Superpower summit that fizzled out",
-        "summary": "The outcome of the historic meeting between the USA, China and Russia was watered down: points that point…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T22:15:56+01:00"
-      }
-    },
-    {
-      "id": "312a22716cdd",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/4iqhEqvuQTez0dYEpcOZJo/kvinna-doed-efter-rumplyft-hade-fillers-i-hjaernan",
-      "guid": "4iqhEqvuQTez0dYEpcOZJo",
-      "published_at": "2026-11-19T21:54:19+01:00",
-      "fetched_at": "2026-11-19T22:01:12+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Hälsa"
-      ],
-      "sv": {
-        "title": "Kvinna död efter rumplyft – hade fillers i hjärnan",
-        "summary": "Alice Webb, 33, dog efter ett så kallat Brazilian Butt Lift (BBL) i Storbritannien. Nu visar en utredning vilka komplikationer som följde efter ingreppet och riskerna med plastikkirurgiska behandlingar som går fel. – Rumpan innehåller en av kroppens största muskler.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Woman dies after bum lift – had fillers in brain",
-        "summary": "Alice Webb, 33, died after a so-called Brazilian Butt Lift (BBL) in the UK. An investigation now shows which complications followed the procedure and the risks of plastic surgery treatments that go wrong. – The buttocks contain one of the body's largest muscles."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T22:01:17+01:00"
       }
     }
   ]
