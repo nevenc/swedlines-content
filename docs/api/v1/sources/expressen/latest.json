@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T15:34:08+01:00",
+  "generated_at": "2026-11-21T15:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "61d85e07a9c8",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=4c94b8a8-17a8-4ddd-a06a-35871ec49377",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4c94b8a8-17a8-4ddd-a06a-35871ec49377",
+      "published_at": "2026-11-21T15:37:27+01:00",
+      "fetched_at": "2026-11-21T15:45:45+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisen söker försvunnen pojke",
+        "summary": "Är i åttaårsåldern • Polisens signalement",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police search for missing boy",
+        "summary": "Is around eight years old • Police description"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T15:45:49+01:00"
+      }
+    },
     {
       "id": "6adc3f725aeb",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T13:15:59+01:00"
-      }
-    },
-    {
-      "id": "f2d5c1fe7b92",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/sverige/tva-man-atalas-for-dodsmisshandeln-av-mattias-48-i-karlstad",
-      "guid": "https://www.expressen.se/nyheter/sverige/tva-man-atalas-for-dodsmisshandeln-av-mattias-48-i-karlstad/",
-      "published_at": "2026-11-18T12:50:27+01:00",
-      "fetched_at": "2026-11-18T13:01:16+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Två män åtalas för dödsmisshandeln av Mattias, 48, i Karlstad",
-        "summary": "Två män i 20-årsåldern har åtalats för dödsmisshandeln av Mattias, 48, i Karlstad i somras, rapporterar Nya Wermlands-Tidningen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Two men charged over fatal assault of Mattias, 48, in Karlstad",
-        "summary": "Two men in their 20s have been charged over the fatal assault of Mattias, 48, in Karlstad last summer, reports Nya Wermlands-Tidningen."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T13:01:24+01:00"
       }
     }
   ]

@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-21T15:34:08+01:00",
+  "generated_at": "2026-11-21T15:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cde75922b7c4",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/d796jj/ny-lag-ska-skydda-kvinnor-far-stark-kritik-ingen-skillnad",
+      "guid": "https://www.aftonbladet.se/nyheter/a/d796jj/ny-lag-ska-skydda-kvinnor-far-stark-kritik-ingen-skillnad?utm_medium=rss",
+      "published_at": "2026-11-21T15:43:46+01:00",
+      "fetched_at": "2026-11-21T15:45:44+01:00",
+      "category": "other",
+      "image_url": "https://akamai.vgc.no/v2/images/219bb26a-af33-35c2-b646-c1fe6084cc41?format=auto&s=0c7548556b5597c9340b0f104463e95b4f57fb02&w=1000",
+      "sv": {
+        "title": "Det osynliga våldet – och kampen för att stoppa det",
+        "summary": "Ska skydda kvinnor ✓ Experter skeptiska",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Invisible Violence – and the Fight to Stop It",
+        "summary": "Meant to protect women ✓ Experts skeptical"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T15:45:49+01:00"
+      }
+    },
+    {
+      "id": "443fa1a4b66f",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Jnog4P/ryska-fartyget-sparta-ii-i-brand-i-finskt-territorialvatten",
+      "guid": "https://www.svd.se/a/Jnog4P/ryska-fartyget-sparta-ii-i-brand-i-finskt-territorialvatten?utm_medium=rss",
+      "published_at": "2026-11-21T15:39:01+01:00",
+      "fetched_at": "2026-11-21T15:45:44+01:00",
+      "category": "world",
+      "image_url": "https://akamai.vgc.no/v2/images/abb59f90-86e2-3aec-893d-7db123b8501f?format=auto&s=6e148901b1c74cbfa2ec86e1c429c3fee557c13c&w=923",
+      "sv": {
+        "title": "Dramat – fartyg i lågor kopplas till rysk militär",
+        "summary": "Ett ryskt containerfartyg attackerades av drönare på lördagsmorgonen och har nu drivit in på finskt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Drama – ship in flames linked to Russian military",
+        "summary": "A Russian container ship was attacked by drones on Saturday morning and has now drifted ashore in Finnish…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T15:45:49+01:00"
+      }
+    },
+    {
+      "id": "61d85e07a9c8",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=4c94b8a8-17a8-4ddd-a06a-35871ec49377",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=4c94b8a8-17a8-4ddd-a06a-35871ec49377",
+      "published_at": "2026-11-21T15:37:27+01:00",
+      "fetched_at": "2026-11-21T15:45:45+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisen söker försvunnen pojke",
+        "summary": "Är i åttaårsåldern • Polisens signalement",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Police search for missing boy",
+        "summary": "Is around eight years old • Police description"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T15:45:49+01:00"
+      }
+    },
     {
       "id": "6adc3f725aeb",
       "schema_version": 1,
@@ -5318,85 +5398,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T07:31:10+01:00"
-      }
-    },
-    {
-      "id": "ce559bd0fc26",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/pML56E/explosioner-och-brander-i-kiev",
-      "guid": "https://www.aftonbladet.se/nyheter/a/pML56E/explosioner-och-brander-i-kiev?utm_medium=rss",
-      "published_at": "2026-11-21T07:12:25+01:00",
-      "fetched_at": "2026-11-21T07:15:46+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Explosioner och bränder i Kiev",
-        "summary": "En rysk robot har satt bostadshus i lågor i Kiev, rapporterar ukrainska medier.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Explosions and fires in Kyiv",
-        "summary": "A Russian missile has set residential buildings ablaze in Kyiv, according to Ukrainian media."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T07:15:53+01:00"
-      }
-    },
-    {
-      "id": "07f735f45e25",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/j3d79w/svensk-polis-ska-placeras-i-irak",
-      "guid": "https://www.svd.se/a/j3d79w/svensk-polis-ska-placeras-i-irak?utm_medium=rss",
-      "published_at": "2026-11-21T07:10:33+01:00",
-      "fetched_at": "2026-11-21T07:15:46+01:00",
-      "category": "crime",
-      "image_url": "https://akamai.vgc.no/v2/images/bbac61e1-80a5-337c-b53b-6e0fa46ab7ec?format=auto&s=564887a46255fe651b02b263ea6ecd4c96bffce1&w=1000",
-      "sv": {
-        "title": "Svensk polis ska placeras i Irak",
-        "summary": "Svenska poliser ska placeras på utländska stationer för komma åt gängkriminella som har flytt…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish police to be posted to Iraq",
-        "summary": "Swedish police are to be placed at foreign stations to reach gang criminals who have fled…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T07:15:53+01:00"
-      }
-    },
-    {
-      "id": "be49a629881e",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7c631e4e-829a-4de8-a879-a0f73d89c4fb",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7c631e4e-829a-4de8-a879-a0f73d89c4fb",
-      "published_at": "2026-11-21T07:10:30+01:00",
-      "fetched_at": "2026-11-21T07:15:47+01:00",
-      "category": "world",
-      "sv": {
-        "title": "FBI hackade",
-        "summary": "Källor till CNN: Databas utsatt",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "FBI hacked",
-        "summary": "Sources to CNN: Database breached"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T07:15:53+01:00"
       }
     }
   ]
