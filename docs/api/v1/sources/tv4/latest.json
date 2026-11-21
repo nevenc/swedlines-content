@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-21T08:15:49+01:00",
+  "generated_at": "2026-11-21T08:31:10+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "741262c1a0ff",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/tt-261121-regeringstatsvetare1-67640582/statsvetare-darfor-vill-s-inte-regera-med-v",
+      "guid": "tt-261121-regeringstatsvetare1-67640582",
+      "published_at": "2026-11-21T08:20:45+01:00",
+      "fetched_at": "2026-11-21T08:31:04+01:00",
+      "category": "politics",
+      "feed_categories": [
+        "Socialdemokraterna"
+      ],
+      "sv": {
+        "title": "Statsvetaren slår fast: Därför vill S inte regera med V",
+        "summary": "Oron kring ministerposterna • Läget låst",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Political scientist concludes: This is why the Social Democrats do not want to govern with the Left Party",
+        "summary": "Concern over ministerial posts • Situation deadlocked"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T08:31:09+01:00"
+      }
+    },
     {
       "id": "d83a6fe483e5",
       "schema_version": 1,
@@ -5740,35 +5769,6 @@
       "en": {
         "title": "Wilma stopped taking insulin – when she was bullied for her diabetes",
         "summary": "Wilma Berngarn, 20, was diagnosed with type 1 diabetes as early as age six. Back then there were no pumps or sensors; she had to take insulin injections. At first the other children did not want to sit next to her in the classroom."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "c47a5fbb122e",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/3ryvewnTyEVgWIbF0eDY1c/100-fordon-fast-i-snoen-plogbilar-kommer-inte-fram",
-      "guid": "3ryvewnTyEVgWIbF0eDY1c",
-      "published_at": "2026-11-13T06:57:01+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "weather",
-      "feed_categories": [
-        "Vädret"
-      ],
-      "sv": {
-        "title": "100 fordon fast i snön – plogbilar kommer inte fram",
-        "summary": "”Kommer att vara besvärligt under dagen”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "100 vehicles stuck in the snow – snowploughs cannot get through",
-        "summary": "'Will be difficult during the day'"
       },
       "translation": {
         "status": "done",
