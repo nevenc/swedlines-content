@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T04:31:02+01:00",
+  "generated_at": "2026-11-21T04:45:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2e0a141ad377",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/kungligt/experten-saker-andrew-kommer-fly-till-mellanostern",
+      "guid": "https://www.expressen.se/nyheter/kungligt/experten-saker-andrew-kommer-fly-till-mellanostern/",
+      "published_at": "2026-11-21T04:34:37+01:00",
+      "fetched_at": "2026-11-21T04:45:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Experten säker – Andrew kommer fly till Mellanöstern",
+        "summary": "Den före detta prins Andrew riskerar åtal nästa år. Då kommer han sannolikt fly till Mellanöstern. Det tror kungliga experten Andrew Lownie.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expert certain – Andrew will flee to the Middle East",
+        "summary": "The former prince Andrew risks being charged next year. He will then likely flee to the Middle East. That is what royal expert Andrew Lownie believes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T04:45:47+01:00"
+      }
+    },
     {
       "id": "eca187df4aaa",
       "schema_version": 1,
@@ -5353,32 +5379,6 @@
       "source": "aftonbladet",
       "url": "https://www.aftonbladet.se/nyheter/a/GPGqgl/fn-domstol-myanmar-hade-avsikt-att-forgora-minoritet",
       "guid": "https://www.aftonbladet.se/nyheter/a/GPGqgl/fn-domstol-myanmar-hade-avsikt-att-forgora-minoritet?utm_medium=rss",
-      "published_at": "2026-11-19T12:02:31+01:00",
-      "fetched_at": "2026-11-19T12:15:40+01:00",
-      "category": "world",
-      "sv": {
-        "title": "FN-domstol: Myanmar hade avsikt att förgöra minoritet",
-        "summary": "Myanmar hade för avsikt att förgöra en ”betydande del” av landets muslimska minoritet…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "UN court: Myanmar intended to destroy minority",
-        "summary": "Myanmar intended to destroy a \"significant part\" of the country's Muslim minority…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T12:15:48+01:00"
-      }
-    },
-    {
-      "id": "1e10cd615798",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/kMJbGa/fn-domstol-myanmar-hade-avsikt-att-forgora-minoritet",
-      "guid": "https://www.svd.se/a/kMJbGa/fn-domstol-myanmar-hade-avsikt-att-forgora-minoritet?utm_medium=rss",
       "published_at": "2026-11-19T12:02:31+01:00",
       "fetched_at": "2026-11-19T12:15:40+01:00",
       "category": "world",

@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-21T04:31:02+01:00",
+  "generated_at": "2026-11-21T04:45:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "15b3fb59e646",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/bilar-i-brand-i-oxie-omYsE",
+      "guid": "8ed327d8-736a-4f65-9b6b-fed713f0b9be",
+      "published_at": "2026-11-21T04:37:59+01:00",
+      "fetched_at": "2026-11-21T04:45:44+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Bilar i brand i Oxie",
+        "summary": "Två parkerade bilar fattade eld i Oxie i Malmö tidigt på lördagsmorgonen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Cars on fire in Oxie",
+        "summary": "Two parked cars caught fire in Oxie in Malmö early on Saturday morning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T04:45:47+01:00"
+      }
+    },
+    {
+      "id": "2e0a141ad377",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/kungligt/experten-saker-andrew-kommer-fly-till-mellanostern",
+      "guid": "https://www.expressen.se/nyheter/kungligt/experten-saker-andrew-kommer-fly-till-mellanostern/",
+      "published_at": "2026-11-21T04:34:37+01:00",
+      "fetched_at": "2026-11-21T04:45:42+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Experten säker – Andrew kommer fly till Mellanöstern",
+        "summary": "Den före detta prins Andrew riskerar åtal nästa år. Då kommer han sannolikt fly till Mellanöstern. Det tror kungliga experten Andrew Lownie.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expert certain – Andrew will flee to the Middle East",
+        "summary": "The former prince Andrew risks being charged next year. He will then likely flee to the Middle East. That is what royal expert Andrew Lownie believes."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T04:45:47+01:00"
+      }
+    },
     {
       "id": "1b606fd3d2ff",
       "schema_version": 1,
@@ -5372,59 +5424,6 @@
       "en": {
         "title": "Protests as acclaimed support for birthing women is scrapped: \"Unacceptable and unworthy\"",
         "summary": "Despite good results, Region Skåne wants to shut down the acclaimed childbirth project \"Min barnmorska\" in Malmö. On Saturday, former patients, midwives and opposition politicians will demonstrate against the decision – among them Tove Jansson, who describes the support she received as invaluable."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "e6788c6b68fd",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9347422",
-      "guid": "rss:sr.se/article/9347422",
-      "published_at": "2026-11-20T16:25:00+01:00",
-      "fetched_at": "2026-11-20T16:31:03+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Storbritannien närmar sig EU – öppning för unga",
-        "summary": "Storbritannien och EU har enats om utökat samarbete kring handel, säkerhet och utbyten för unga vid ett toppmöte i Bryssel. Det var parternas första toppmöte sedan Brexit.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Britain moves closer to the EU – opening for young people",
-        "summary": "Britain and the EU have agreed on expanded cooperation on trade, security and exchanges for young people at a summit in Brussels. It was the parties' first summit since Brexit."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T16:31:12+01:00"
-      }
-    },
-    {
-      "id": "16d55d53d7ab",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/anthropic-faller-i-ai-frossan",
-      "guid": "49b91e8e-40a2-4c05-b5f6-b593c64d90f5",
-      "published_at": "2026-11-20T16:22:10+01:00",
-      "fetched_at": "2026-11-20T16:31:06+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/0c6de097-df97-439c-9867-f6e39753955b.jpeg?width=600",
-      "sv": {
-        "title": "Anthropic faller i AI-frossan",
-        "summary": "USA-börserna var på ett fortsatt uselt humör i fredagens inledande handel. AI-jätten Anthropic fick en smakstart på karriären som noterat bolag, men på fredagen var det andra bullar och aktien rasar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Anthropic falls in AI chill",
-        "summary": "US stock exchanges were in a continued dismal mood in Friday's opening trade. AI giant Anthropic got a rocky start to its career as a listed company, but on Friday it was a different story and the share is plunging."
       },
       "translation": {
         "status": "done",

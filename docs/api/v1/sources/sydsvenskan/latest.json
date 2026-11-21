@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T04:31:02+01:00",
+  "generated_at": "2026-11-21T04:45:47+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "15b3fb59e646",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/malmo/bilar-i-brand-i-oxie-omYsE",
+      "guid": "8ed327d8-736a-4f65-9b6b-fed713f0b9be",
+      "published_at": "2026-11-21T04:37:59+01:00",
+      "fetched_at": "2026-11-21T04:45:44+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Bilar i brand i Oxie",
+        "summary": "Två parkerade bilar fattade eld i Oxie i Malmö tidigt på lördagsmorgonen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Cars on fire in Oxie",
+        "summary": "Two parked cars caught fire in Oxie in Malmö early on Saturday morning."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T04:45:47+01:00"
+      }
+    },
     {
       "id": "df71af958d91",
       "schema_version": 1,
@@ -5182,33 +5208,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T16:01:35+01:00"
-      }
-    },
-    {
-      "id": "be30aeb164f6",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/lyko-hackat-kunduppgifter-lackta",
-      "guid": "d0cd7931-df0b-4475-8d28-d9ee07bbdc8b",
-      "published_at": "2026-11-18T15:39:36+01:00",
-      "fetched_at": "2026-11-18T15:45:45+01:00",
-      "category": "science_tech",
-      "image_url": "https://static.bonniernews.se/ba/c86d59d9-aab3-42f2-9383-495917aec4aa.jpg?width=600",
-      "sv": {
-        "title": "Lyko hackat – kunduppgifter läckta",
-        "summary": "E-handlaren Lyko har utsatt för ett dataintrång där hackare har stulit information om kunderna, rapporterar Svenska Dagbladet.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Lyko hacked – customer data leaked",
-        "summary": "The e-retailer Lyko has been subjected to a data breach in which hackers stole information about customers, reports Svenska Dagbladet."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T15:45:51+01:00"
       }
     }
   ]
