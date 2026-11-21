@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T05:31:07+01:00",
+  "generated_at": "2026-11-21T05:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e256ae23e8f1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/historiska-problemet-pastas-lost-med-ai",
+      "guid": "https://www.expressen.se/nyheter/varlden/historiska-problemet-pastas-lost-med-ai/",
+      "published_at": "2026-11-21T05:42:19+01:00",
+      "fetched_at": "2026-11-21T05:45:43+01:00",
+      "category": "science_tech",
+      "sv": {
+        "title": "Historiska problemet påstås löst med AI",
+        "summary": "Riemannhypotesen har varit en gåta sedan 1800-talet. Nu hävdar en Anthropic-anställd matematiker att han hittat en lösning med hjälp av bolagets AI.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Historic problem reportedly solved with AI",
+        "summary": "The Riemann hypothesis has been a mystery since the 1800s. Now an Anthropic employee, a mathematician, claims he has found a solution with the help of the company's AI."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T05:45:50+01:00"
+      }
+    },
     {
       "id": "f3a2892bc92d",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T00:15:51+01:00"
-      }
-    },
-    {
-      "id": "4b34733c3ea9",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/varlden/trump-rasar-mot-banken-efter-lackan",
-      "guid": "https://www.expressen.se/nyheter/varlden/trump-rasar-mot-banken-efter-lackan/",
-      "published_at": "2026-11-17T22:59:02+01:00",
-      "fetched_at": "2026-11-17T23:15:55+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Trump rasar mot banken efter läckan",
-        "summary": "Deutsche Bank råkade lämna ut skatteuppgifter om tusentals kundkonton. Ett av dem tillhörde Donald Trump. – De borde inte ha gjort det, säger den amerikanske presidenten.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump lashes out at bank after leak",
-        "summary": "Deutsche Bank accidentally disclosed tax information on thousands of customer accounts. One of them belonged to Donald Trump. – They shouldn't have done that, says the American president."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T23:16:00+01:00"
       }
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T05:31:07+01:00",
+  "generated_at": "2026-11-21T05:45:50+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "27c5fc8f35c8",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/smaland/traditionsexperten-rasar-mot-tidigt-julfirande-hoppas-pa-en-motstandsrorelse",
+      "guid": "https://www.svt.se/nyheter/lokalt/smaland/traditionsexperten-rasar-mot-tidigt-julfirande-hoppas-pa-en-motstandsrorelse",
+      "published_at": "2026-11-21T05:30:04+01:00",
+      "fetched_at": "2026-11-21T05:45:40+01:00",
+      "category": "culture",
+      "sv": {
+        "title": "Experten slår tillbaka mot tidigt julfirande: ”Hoppas på en motståndsrörelse”",
+        "summary": "Julen är här...eller? Om man ska tro butikerna så är det bara en tidsfråga innan jultomten knackar på dörren. Mattias Axelsson, föreläsare och traditionsexpert, tycker dock att julen tappar sin magiska lyster om julmusten kommer fram redan i september – och han hoppas på en revolution.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Expert hits back at early Christmas celebrations: \"Hoping for a resistance movement\"",
+        "summary": "Christmas is here...or is it? If you believe the shops, it's only a matter of time before Father Christmas knocks on the door. Mattias Axelsson, lecturer and tradition expert, however, thinks Christmas loses its magical lustre if Christmas must (glögg) appears as early as September – and he hopes for a revolution."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T05:45:50+01:00"
+      }
+    },
     {
       "id": "db81aea09ac0",
       "schema_version": 1,
@@ -5640,33 +5666,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T21:31:05+01:00"
-      }
-    },
-    {
-      "id": "9c37766f0551",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/kandis-flodhasten-fiona-at-mossa-far-akut-vard",
-      "guid": "f55e1853-adff-4e09-a229-8cf79bdabf02",
-      "published_at": "2026-11-18T21:00:00+01:00",
-      "fetched_at": "2026-11-18T21:01:16+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/c42d6f75-5dd6-4a28-bb1a-ce0929a187f4.jpg?width=600",
-      "sv": {
-        "title": "Kändis-flodhästen Fiona åt mössa – får akut vård",
-        "summary": "Flodhästen Fiona, känd som bokfigur och internetfenomen, behöver akut vård efter att ha ätit en mössa. Hennes öde följs nu av hundratusentals fans.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Celebrity hippo Fiona eats hat – gets emergency care",
-        "summary": "Hippo Fiona, known as a book character and internet phenomenon, needs emergency care after eating a hat. Hundreds of thousands of fans are now following her fate."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T21:01:20+01:00"
       }
     }
   ]
