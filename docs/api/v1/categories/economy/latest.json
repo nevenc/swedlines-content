@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-21T12:15:52+01:00",
+  "generated_at": "2026-11-21T12:31:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a36a6cd5a2a8",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/uppgifter-dataintrang-mot-viktig-fbi-databas",
+      "guid": "070babd6-b9ac-4d1b-b254-10c12572ef0e",
+      "published_at": "2026-11-21T12:12:30+01:00",
+      "fetched_at": "2026-11-21T12:31:07+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d80bdf19-ac57-49a5-8cbf-98a4161c73b8.jpg?width=600",
+      "sv": {
+        "title": "Uppgifter: Dataintrång mot viktig FBI-databas",
+        "summary": "USA:s federala polis FBI utreder ett misstänkt dataintrång mot polismyndighetens brottsdatabas ”National Crime Information Center”, uppger källor med insyn för flera amerikanska medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: Data breach at key FBI database",
+        "summary": "The US Federal Bureau of Investigation (FBI) is investigating a suspected data breach of the police authority's crime database \"National Crime Information Center\", sources with insight into the matter tell several American media outlets."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:31:12+01:00"
+      }
+    },
+    {
+      "id": "fe1005062276",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/vaga-vagra-hemlarm",
+      "guid": "10c1b95a-6ce7-4a3f-b20f-38fa838efa40",
+      "published_at": "2026-11-21T12:10:32+01:00",
+      "fetched_at": "2026-11-21T12:31:07+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/966884b9-a7d1-44d2-aa4d-c5b47186de33.jpeg?width=600",
+      "sv": {
+        "title": "Våga vägra hemlarm",
+        "summary": "Efter tre stölder, en biljakt och en språngmarsch i min dotters flipflops borde jag vara larmbolagens drömkund. Men när inbrotten blir allt färre är det svårt att förstå varför jag ska betala dyrt för att vara rädd.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Dare to refuse home alarms",
+        "summary": "After three burglaries, a car chase and a sprint in my daughter's flip-flops, I should be the alarm companies' dream customer. But as break-ins become ever fewer, it is hard to understand why I should pay a lot to be afraid."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:31:12+01:00"
+      }
+    },
     {
       "id": "b607cb33726d",
       "schema_version": 1,
@@ -5269,60 +5323,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T09:01:24+01:00"
-      }
-    },
-    {
-      "id": "cafb076b9ada",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/qOLxvL/ai-frossan-sanker-globalt-index-sju-dagar-i-rad",
-      "guid": "https://www.svd.se/a/qOLxvL/ai-frossan-sanker-globalt-index-sju-dagar-i-rad?utm_medium=rss",
-      "published_at": "2026-11-20T08:51:02+01:00",
-      "fetched_at": "2026-11-20T09:01:10+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/53f127b1-5f06-37b6-9864-e3099d05c6e5?format=auto&s=a812835f27f85b31d4c0e044688ac5fe0dee45a0&w=1000",
-      "sv": {
-        "title": "AI-frossan sänker globalt index sju dagar i rad",
-        "summary": "Börsnedgångarna runt om i världen – med tunga AI-aktier som sänken – ser ut att fortsätta för sjunde…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "AI chill pulls global index down seven days in a row",
-        "summary": "Stock market declines around the world – with heavy AI stocks among those falling – look set to continue for the seventh…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T09:01:24+01:00"
-      }
-    },
-    {
-      "id": "6f93db664ceb",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/0vnkjG/fler-atgarder-kravs-mot-overskuldsattningen-skriver-debattorer",
-      "guid": "https://www.svd.se/a/0vnkjG/fler-atgarder-kravs-mot-overskuldsattningen-skriver-debattorer?utm_medium=rss",
-      "published_at": "2026-11-20T08:38:45+01:00",
-      "fetched_at": "2026-11-20T08:45:42+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/8c2873c3-a681-32db-af21-deba86ce86a7?format=auto&s=364dd91388bd8c08282a3c5623a7571546c760a3&w=1000",
-      "sv": {
-        "title": "”Fler åtgärder krävs mot överskuldsättning”",
-        "summary": "Det är välkommet att reglerna skärps för långivning. Men det krävs fortfarande åtgärder för att…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "\"More measures needed against over-indebtedness\"",
-        "summary": "It is welcome that the rules for lending are being tightened. But measures are still needed to…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T08:45:49+01:00"
       }
     }
   ]

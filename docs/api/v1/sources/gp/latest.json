@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-11-21T12:15:52+01:00",
+  "generated_at": "2026-11-21T12:31:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "094f1591e1c0",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/kultur/boras-stadsteater-kampar-med-tuffa-sparkrav.2664de4d-f623-533c-939d-6b70431b0617",
+      "guid": "2664de4d-f623-533c-939d-6b70431b0617",
+      "published_at": "2026-11-21T12:07:23+01:00",
+      "fetched_at": "2026-11-21T12:31:07+01:00",
+      "category": "culture",
+      "feed_categories": [
+        "Kultur",
+        "Tagg: Borås",
+        "Tagg: Sverigedemokraterna",
+        "Tagg: Moderaterna",
+        "Tagg: Liberalerna",
+        "Tagg: Kristdemokraterna",
+        "Tagg: Teater",
+        "Tagg: Sjuhärad"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/08f5e77f-4b1c-3193-a813-841b483b39aa",
+      "sv": {
+        "title": "Sparkrav på stadsteatern i Borås",
+        "summary": "Teatern måste spara en miljon kronor nästa år. Ökade biljettpriser lär bli följden.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Savings demand on the city theatre in Borås",
+        "summary": "The theatre must save SEK 1 million next year. Higher ticket prices are likely to follow."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:31:12+01:00"
+      }
+    },
     {
       "id": "b94fabb10eba",
       "schema_version": 1,
@@ -6881,44 +6918,6 @@
       "en": {
         "title": "Heavy delays in train traffic",
         "summary": "Signal fault – no forecast available."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T18:45:48+01:00"
-      }
-    },
-    {
-      "id": "75806e9eefd3",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/kultur/litteratur/litteraturrecension/recension-undergangsfascismen-av-naomi-klein-och-astra-taylor.1e84f2bb-4baf-590c-a509-520c4321adf6",
-      "guid": "1e84f2bb-4baf-590c-a509-520c4321adf6",
-      "published_at": "2026-11-16T18:11:40+01:00",
-      "fetched_at": "2026-11-16T18:45:43+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Litteraturrecension",
-        "Tagg: Recension",
-        "Tagg: Naomi Klein",
-        "Tagg: Astra Taylor",
-        "Tagg: Översättning",
-        "Tagg: Peter Thiel",
-        "Tagg: Sam Altman",
-        "Tagg: Kapitalism",
-        "Tagg: Fackböcker"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/1767be9c-307f-335a-ae0b-4fe7c655fa55",
-      "sv": {
-        "title": "Naomi Klein varnar för tech-entreprenörernas fascism",
-        "summary": "Nya boken om den dystopiska fascismens framfart är förvisso mörk, men hittar också politiskt hopp, skriver Ann Ighe.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Naomi Klein warns of tech entrepreneurs' fascism",
-        "summary": "The new book on the advance of dystopian fascism is admittedly dark, but also finds political hope, writes Ann Ighe."
       },
       "translation": {
         "status": "done",

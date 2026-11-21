@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-21T12:15:52+01:00",
+  "generated_at": "2026-11-21T12:31:13+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a36a6cd5a2a8",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/uppgifter-dataintrang-mot-viktig-fbi-databas",
+      "guid": "070babd6-b9ac-4d1b-b254-10c12572ef0e",
+      "published_at": "2026-11-21T12:12:30+01:00",
+      "fetched_at": "2026-11-21T12:31:07+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/d80bdf19-ac57-49a5-8cbf-98a4161c73b8.jpg?width=600",
+      "sv": {
+        "title": "Uppgifter: Dataintrång mot viktig FBI-databas",
+        "summary": "USA:s federala polis FBI utreder ett misstänkt dataintrång mot polismyndighetens brottsdatabas ”National Crime Information Center”, uppger källor med insyn för flera amerikanska medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Reports: Data breach at key FBI database",
+        "summary": "The US Federal Bureau of Investigation (FBI) is investigating a suspected data breach of the police authority's crime database \"National Crime Information Center\", sources with insight into the matter tell several American media outlets."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:31:12+01:00"
+      }
+    },
+    {
+      "id": "fe1005062276",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/vaga-vagra-hemlarm",
+      "guid": "10c1b95a-6ce7-4a3f-b20f-38fa838efa40",
+      "published_at": "2026-11-21T12:10:32+01:00",
+      "fetched_at": "2026-11-21T12:31:07+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/966884b9-a7d1-44d2-aa4d-c5b47186de33.jpeg?width=600",
+      "sv": {
+        "title": "Våga vägra hemlarm",
+        "summary": "Efter tre stölder, en biljakt och en språngmarsch i min dotters flipflops borde jag vara larmbolagens drömkund. Men när inbrotten blir allt färre är det svårt att förstå varför jag ska betala dyrt för att vara rädd.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Dare to refuse home alarms",
+        "summary": "After three burglaries, a car chase and a sprint in my daughter's flip-flops, I should be the alarm companies' dream customer. But as break-ins become ever fewer, it is hard to understand why I should pay a lot to be afraid."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:31:12+01:00"
+      }
+    },
     {
       "id": "b607cb33726d",
       "schema_version": 1,
@@ -5272,59 +5326,6 @@
       "en": {
         "title": "Wall Street turns down – drags Stockholm stock exchange with it",
         "summary": "Thursday's stock market optimism was short-lived. After just over an hour of trading, Wall Street has turned red and the Stockholm stock exchange is also being dragged into the decline."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:15:54+01:00"
-      }
-    },
-    {
-      "id": "dd45ce8ab210",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/syskonen-ringde-i-klockan-anthropic-rusade-34-procent",
-      "guid": "c49717f4-42a5-41e6-ace7-4104c68fcb44",
-      "published_at": "2026-11-19T17:57:50+01:00",
-      "fetched_at": "2026-11-19T18:15:48+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/ad146b09-3b87-4dd2-89d2-b64a1ad0221c.jpeg?width=600",
-      "sv": {
-        "title": "Syskonen ringde i klockan – Anthropic rusade 34 procent",
-        "summary": "Fem år efter att de grundade Anthropic ringde syskonen Dario och Daniela Amodei på torsdagen in det som väntas bli historiens största börsnotering. Aktien öppnade på 111,50 dollar, 34 procent över teckningskursen på 83 dollar.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Siblings ring the bell – Anthropic soars 34 percent",
-        "summary": "Five years after they founded Anthropic, siblings Dario and Daniela Amodei on Thursday rang in what is expected to become the largest stock market listing in history. The share opened at 111.50 dollars, 34 percent above the offer price of 83 dollars."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:15:54+01:00"
-      }
-    },
-    {
-      "id": "2be915d26adc",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/live/europaborser-vande-ned-ai-relaterat-steg",
-      "guid": "d7944b4e-1882-4011-8edf-9102901b1a01",
-      "published_at": "2026-11-19T17:55:36+01:00",
-      "fetched_at": "2026-11-19T18:15:48+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Europabörser vände ned – AI-relaterat steg",
-        "summary": "Europabörserna hade backat på bred front när handeln summerades, efter en eftermiddagsdipp för flera av världsbörserna. Det regionala samlingsindexet var ned 0,8 procent.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "European stocks turn down – AI-related rise",
-        "summary": "European stock exchanges had fallen across the board by the close of trading, after an afternoon dip for several of the world's stock markets. The regional composite index was down 0.8 percent."
       },
       "translation": {
         "status": "done",
