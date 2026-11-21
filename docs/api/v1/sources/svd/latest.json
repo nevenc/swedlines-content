@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-21T12:31:13+01:00",
+  "generated_at": "2026-11-21T12:45:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "046bfc8906fa",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80152",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80152&utm_medium=rss",
+      "published_at": "2026-11-21T12:43:02+01:00",
+      "fetched_at": "2026-11-21T12:45:51+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Drönarattack i Finska viken – ryskt fartyg brinner"
+      },
+      "en": {
+        "title": "Drone attack in the Gulf of Finland – Russian vessel on fire"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:45:59+01:00"
+      }
+    },
     {
       "id": "70f0d6afd280",
       "schema_version": 1,
@@ -5232,29 +5255,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T17:01:26+01:00"
-      }
-    },
-    {
-      "id": "ae0ddd4925a0",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80066",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80066&utm_medium=rss",
-      "published_at": "2026-11-18T16:26:55+01:00",
-      "fetched_at": "2026-11-18T16:31:01+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Stora tågförseningar i hela landet"
-      },
-      "en": {
-        "title": "Major train delays across the country"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T16:31:12+01:00"
       }
     }
   ]

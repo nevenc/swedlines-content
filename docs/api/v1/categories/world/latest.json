@@ -1,7 +1,83 @@
 {
-  "generated_at": "2026-11-21T12:31:13+01:00",
+  "generated_at": "2026-11-21T12:45:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "046bfc8906fa",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80152",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80152&utm_medium=rss",
+      "published_at": "2026-11-21T12:43:02+01:00",
+      "fetched_at": "2026-11-21T12:45:51+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Drönarattack i Finska viken – ryskt fartyg brinner"
+      },
+      "en": {
+        "title": "Drone attack in the Gulf of Finland – Russian vessel on fire"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:45:59+01:00"
+      }
+    },
+    {
+      "id": "b042c1cfdbad",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=bc2211e4-7d42-4716-86dc-89cb4a393906",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=bc2211e4-7d42-4716-86dc-89cb4a393906",
+      "published_at": "2026-11-21T12:39:21+01:00",
+      "fetched_at": "2026-11-21T12:45:53+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Ryskt fartyg brinner",
+        "summary": "Driver in på finskt vatten",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russian vessel on fire",
+        "summary": "Drifting into Finnish waters"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:45:59+01:00"
+      }
+    },
+    {
+      "id": "76fbf7c2b255",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/varlden/starka-reaktioner-pa-ryska-intrang-i-polen-sjalvklart-ar-jag-orolig",
+      "guid": "https://www.dn.se/varlden/starka-reaktioner-pa-ryska-intrang-i-polen-sjalvklart-ar-jag-orolig/",
+      "published_at": "2026-11-21T12:33:16+01:00",
+      "fetched_at": "2026-11-21T12:45:50+01:00",
+      "category": "world",
+      "image_url": "https://static.bonniernews.se/ba/fb2474c6-ae95-4f45-93e4-d0e1680f1c2e.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Starka reaktioner på ryska intrång i Polen: ”Självklart är jag orolig”",
+        "summary": "WARSZAWA/NOWA DEBA. De ryska intrången med kryssningsrobotar på polskt territorium inträffade samtidigt som en internationell militärövning i landet. I Polen är reaktionerna starka – och få tror att det var en slump. – Jag tror absolut att intrången skedde med flit, säger Matylda Glasek.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Strong reactions to Russian incursions into Poland: \"Of course I am worried\"",
+        "summary": "WARSZAWA/NOWA DEBA. The Russian incursions with cruise missiles into Polish territory occurred at the same time as an international military exercise in the country. Reactions in Poland are strong – and few believe it was a coincidence. \"I absolutely believe the incursions happened deliberately,\" says Matylda Glasek."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:45:59+01:00"
+      }
+    },
     {
       "id": "bae52bbcbd74",
       "schema_version": 1,
@@ -5313,87 +5389,6 @@
       "en": {
         "title": "Kristersson on the China meeting: Far from our view",
         "summary": "Prime Minister Ulf Kristersson (M) is not impressed by the trilateral meeting’s “peace declaration”."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:45:57+01:00"
-      }
-    },
-    {
-      "id": "27f57712e1f5",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/trump-ringde-in-overraskade-europas-ledare",
-      "guid": "5f285148-33c0-4b42-a95b-ae6e91d1a557",
-      "published_at": "2026-11-19T18:37:04+01:00",
-      "fetched_at": "2026-11-19T18:45:45+01:00",
-      "category": "world",
-      "image_url": "https://static.bonniernews.se/ba/0ba2bf54-4d7e-454a-aab6-cbfeeb6589e0.jpg?width=600",
-      "sv": {
-        "title": "Trump ringde in – överraskade Europas ledare",
-        "summary": "Europas ledare har åter befäst sitt stöd för Ukraina. Toppmötet i Berlin fick dessutom ett oväntat samtal – från Donald Trump ombord Air Force One. – Det var ju ingen som visste om det.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Trump called in – surprised Europe’s leaders",
-        "summary": "Europe’s leaders have once again reaffirmed their support for Ukraine. The summit in Berlin also received an unexpected call – from Donald Trump aboard Air Force One. – No one knew about it."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:45:57+01:00"
-      }
-    },
-    {
-      "id": "ab7966d5f729",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/R1R8kd/trump-ringde-in-overraskade-europas-ledare",
-      "guid": "https://www.svd.se/a/R1R8kd/trump-ringde-in-overraskade-europas-ledare?utm_medium=rss",
-      "published_at": "2026-11-19T18:36:52+01:00",
-      "fetched_at": "2026-11-19T18:45:43+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/f5e637c8-3f7d-3264-939e-a9790d4e57d0?format=auto&s=e6d3442e8032a3bbb861986a5cd2126a741b2578&w=1000",
-      "sv": {
-        "title": "Trump ringde in – överraskade Europas ledare",
-        "summary": "Europas ledare har åter befäst sitt stöd för Ukraina. Toppmötet i Berlin fick dessutom ett oväntat…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump called in – surprised Europe’s leaders",
-        "summary": "Europe’s leaders have once again reaffirmed their support for Ukraine. The summit in Berlin also received an unexpected…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T18:45:57+01:00"
-      }
-    },
-    {
-      "id": "897ef15caabe",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/g37jbA/trump-ringde-in-overraskade-europas-ledare",
-      "guid": "https://www.aftonbladet.se/nyheter/a/g37jbA/trump-ringde-in-overraskade-europas-ledare?utm_medium=rss",
-      "published_at": "2026-11-19T18:36:51+01:00",
-      "fetched_at": "2026-11-19T18:45:43+01:00",
-      "category": "world",
-      "image_url": "https://akamai.vgc.no/v2/images/f5e637c8-3f7d-3264-939e-a9790d4e57d0?format=auto&s=e6d3442e8032a3bbb861986a5cd2126a741b2578&w=1000",
-      "sv": {
-        "title": "Trump ringde in – överraskade Europas ledare",
-        "summary": "Europas ledare har åter befäst sitt stöd för Ukraina. Toppmötet i Berlin fick dessutom ett oväntat…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Trump called in – surprised Europe’s leaders",
-        "summary": "Europe’s leaders have once again reaffirmed their support for Ukraine. The summit in Berlin also received an unexpected…"
       },
       "translation": {
         "status": "done",

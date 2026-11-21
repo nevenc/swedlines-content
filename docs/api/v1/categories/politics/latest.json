@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-21T12:31:13+01:00",
+  "generated_at": "2026-11-21T12:45:59+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "873187b9fba3",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/politik/ny-infostatmatning-flest-tror-pa-extra-val",
+      "guid": "https://www.expressen.se/nyheter/politik/ny-infostatmatning-flest-tror-pa-extra-val/",
+      "published_at": "2026-11-21T12:32:31+01:00",
+      "fetched_at": "2026-11-21T12:45:53+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Ny Infostatmätning: Flest tror på extra val",
+        "summary": "Politikerna lyckas inte få ihop en regering – och väljarna börjar tröttna, enligt en ny mätning. Nu är extraval det alternativ flest tror väntar. – Tålamodet börjar sina hos väljarna, säger opinionsanalytikern Peter Santesson på Infostat.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "New Infostat poll: Most think there will be a snap election",
+        "summary": "Politicians are failing to form a government – and voters are growing weary, according to a new poll. Now a snap election is the option most people think lies ahead. \"Voters' patience is running out,\" says opinion analyst Peter Santesson at Infostat."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:45:59+01:00"
+      }
+    },
+    {
+      "id": "4d7583ed85a4",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/mMRdyp/tung-c-topp-stottar-kristersson",
+      "guid": "https://www.aftonbladet.se/nyheter/a/mMRdyp/tung-c-topp-stottar-kristersson?utm_medium=rss",
+      "published_at": "2026-11-21T12:16:58+01:00",
+      "fetched_at": "2026-11-21T12:45:52+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/a6aa8541-3a42-32cc-b7b4-abd4c19d7488?format=auto&s=c5638e993c007dcedba318b198ee6690eb40e5bc&w=1000",
+      "sv": {
+        "title": "C-topp stöttar Kristersson – efter infekterade bråket",
+        "summary": "C-toppen uttalar sig om förhandlingarna",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Centre Party leadership backs Kristersson – after the bitter infighting",
+        "summary": "The Centre Party leadership comments on the negotiations"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T12:45:59+01:00"
+      }
+    },
     {
       "id": "6f0095c34cea",
       "schema_version": 1,
@@ -5380,58 +5433,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T13:15:51+01:00"
-      }
-    },
-    {
-      "id": "142cb49435f4",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/ebba-busch-tanker-prata-omkull-centern",
-      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/ebba-busch-tanker-prata-omkull-centern/",
-      "published_at": "2026-11-17T12:59:32+01:00",
-      "fetched_at": "2026-11-17T13:15:45+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Ebba Busch tänker prata omkull Centern",
-        "summary": "Det är alldeles tydligt att Moderaterna och KD har en plan.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ebba Busch intends to talk the Centre Party into collapse",
-        "summary": "It is quite clear that the Moderates and KD have a plan."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:15:51+01:00"
-      }
-    },
-    {
-      "id": "97efb2141aa4",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/tt-261117-valregering1-355fcf95/mp-koper-inte-hela-totalpaketet",
-      "guid": "tt-261117-valregering1-355fcf95",
-      "published_at": "2026-11-17T12:51:43+01:00",
-      "fetched_at": "2026-11-17T14:15:49+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "Socialdemokraterna"
-      ],
-      "sv": {
-        "title": "MP: Köper inte hela totalpaketet"
-      },
-      "en": {
-        "title": "MP: Not buying the whole package"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T14:15:55+01:00"
       }
     }
   ]
