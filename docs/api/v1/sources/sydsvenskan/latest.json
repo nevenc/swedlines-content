@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T07:51:37+01:00",
+  "generated_at": "2026-11-21T08:01:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8b8f65a37d4c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/svenska-artisterna-briljerar-pa-nya-gta-albumet-sa-bra-ar-latarna",
+      "guid": "c51d6e4f-3e1a-4d28-9913-a1f92ced3049",
+      "published_at": "2026-11-21T08:00:56+01:00",
+      "fetched_at": "2026-11-21T08:01:12+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/de17aac8-9ba7-4a15-a27b-27f3ee9a73ca.jpeg?width=600",
+      "sv": {
+        "title": "Svenska artisterna briljerar på nya GTA-albumet – så bra är låtarna",
+        "summary": "Världens just nu största spel har självklart anlitat världens just nu största musiker. Den största besvikelsen står tyvärr popprinsessorna för. Men vi behöver inte skämmas för de blågula inslagen. Tvärtom!",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish artists shine on new GTA album – this is how good the songs are",
+        "summary": "The world's current biggest game has of course hired the world's current biggest musicians. The biggest disappointment, unfortunately, comes from the pop princesses. But we don't need to be ashamed of the blue-and-yellow contributions. On the contrary!"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T08:01:15+01:00"
+      }
+    },
     {
       "id": "bdff52066cb3",
       "schema_version": 1,
@@ -5190,33 +5217,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T18:15:50+01:00"
-      }
-    },
-    {
-      "id": "3fd5c02be468",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sport/seger-om-att-mota-ett-lag-som-lever-med-konkurshot-en-speciell-situation",
-      "guid": "4f547f20-2154-4c0b-8c3e-a18879044487",
-      "published_at": "2026-11-18T18:00:00+01:00",
-      "fetched_at": "2026-11-18T18:01:20+01:00",
-      "category": "sports",
-      "image_url": "https://static.bonniernews.se/ba/e927560a-9e42-480e-beb2-ab73793a59d0.jpeg?width=600",
-      "sv": {
-        "title": "Seger om kvalet mot konkurshotat lag: ”Speciell situation”",
-        "summary": "FC Rosengård laddar för ett allsvenskt kval mot ett lag som kanske inte finns kvar om en vecka. – Klart att det är en speciell situation, det är ju ingen här som vill spela den här matchen, säger Caroline Seger, fotbollschef i FC Rosengård.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Win over relegation-threatened club: \"Special situation\"",
-        "summary": "FC Rosengård prepares for an Allsvenskan play-off against a club that may not exist a week from now. – Of course it's a special situation, no one here wants to play this match, says Caroline Seger, football director at FC Rosengård."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T18:01:26+01:00"
       }
     }
   ]

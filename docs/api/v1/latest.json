@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-21T07:51:37+01:00",
+  "generated_at": "2026-11-21T08:01:15+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "8b8f65a37d4c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/kultur/svenska-artisterna-briljerar-pa-nya-gta-albumet-sa-bra-ar-latarna",
+      "guid": "c51d6e4f-3e1a-4d28-9913-a1f92ced3049",
+      "published_at": "2026-11-21T08:00:56+01:00",
+      "fetched_at": "2026-11-21T08:01:12+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/de17aac8-9ba7-4a15-a27b-27f3ee9a73ca.jpeg?width=600",
+      "sv": {
+        "title": "Svenska artisterna briljerar på nya GTA-albumet – så bra är låtarna",
+        "summary": "Världens just nu största spel har självklart anlitat världens just nu största musiker. Den största besvikelsen står tyvärr popprinsessorna för. Men vi behöver inte skämmas för de blågula inslagen. Tvärtom!",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish artists shine on new GTA album – this is how good the songs are",
+        "summary": "The world's current biggest game has of course hired the world's current biggest musicians. The biggest disappointment, unfortunately, comes from the pop princesses. But we don't need to be ashamed of the blue-and-yellow contributions. On the contrary!"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T08:01:15+01:00"
+      }
+    },
+    {
+      "id": "9c3d1be656c6",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7bb0fed7-bb46-4c1b-84dc-243a1c7d539e",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7bb0fed7-bb46-4c1b-84dc-243a1c7d539e",
+      "published_at": "2026-11-21T07:58:16+01:00",
+      "fetched_at": "2026-11-21T08:01:10+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Sladdade med pickup",
+        "summary": "Pojke misstänks",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Skidded with pickup truck",
+        "summary": "Boy suspected"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T08:01:15+01:00"
+      }
+    },
     {
       "id": "0102fb12430f",
       "schema_version": 1,
@@ -5397,62 +5450,6 @@
       "en": {
         "title": "Carina Bergfeldt helped expert report SVT",
         "summary": "An article by SVT's Kulturnyheterna has been reported to the Broadcasting Complaints Commission by both the journalist and…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:31:09+01:00"
-      }
-    },
-    {
-      "id": "214ea26c00b7",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/5wSs4EIjyUZl8912vu3lsF/bergfeldt-hjaelpte-adhd-expert-att-anmaela-egna-arbetsgivaren",
-      "guid": "5wSs4EIjyUZl8912vu3lsF",
-      "published_at": "2026-11-20T18:18:50+01:00",
-      "fetched_at": "2026-11-20T18:31:02+01:00",
-      "category": "culture",
-      "feed_categories": [
-        "Inrikes"
-      ],
-      "sv": {
-        "title": "Bergfeldt hjälpte adhd-expert att anmäla egna arbetsgivaren",
-        "summary": "I programmet ”Alla mina bokstäver” får tittaren följa SVT-profilen Carina Bergfeldt när hon utreds för adhd. Programmet har kritiserats för att ge en skev bild av adhd och för att forskaren Lotta Borg Skoglunds kopplingar till läkemedelsindustrin samt att hon driver en egen adhd-klinik inte…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Bergfeldt helped ADHD expert report her own employer",
-        "summary": "In the programme \"Alla mina bokstäver\", viewers follow SVT profile Carina Bergfeldt as she is assessed for ADHD. The programme has been criticised for giving a skewed picture of ADHD and for researcher Lotta Borg Skoglund's ties to the pharmaceutical industry and for running her own ADHD clinic, not…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T18:31:09+01:00"
-      }
-    },
-    {
-      "id": "f1db882d970e",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/techuppror-mot-eu-dra-tillbaka-eu-inc",
-      "guid": "b4a1aa9d-781e-480f-a5fe-e8a8d72fb3d4",
-      "published_at": "2026-11-20T18:18:20+01:00",
-      "fetched_at": "2026-11-20T18:31:02+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/2e970071-a7b5-449c-b8e2-6e83862bcdc7.jpeg?width=600",
-      "sv": {
-        "title": "Techuppror mot EU: ”Dra tillbaka EU Inc”",
-        "summary": "Från en varning till ett krav. En bred front av techprofiler och investerare uppmanar nu EU-kommissionen att dra tillbaka hela förslaget om den nya bolagsformen ”EU Inc”, som de anser har urvattnats till oigenkännlighet.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Tech revolt against EU: \"Withdraw EU Inc\"",
-        "summary": "From a warning to a demand. A broad front of tech figures and investors now calls on the European Commission to withdraw the entire proposal for the new company form \"EU Inc\", which they consider has been watered down beyond recognition."
       },
       "translation": {
         "status": "done",
