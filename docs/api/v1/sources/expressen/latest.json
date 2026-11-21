@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T02:15:47+01:00",
+  "generated_at": "2026-11-21T02:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e183efeaf163",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/livstids-fangelse-for-sadistmordet-pa-sonia-exelby",
+      "guid": "https://www.expressen.se/nyheter/varlden/livstids-fangelse-for-sadistmordet-pa-sonia-exelby/",
+      "published_at": "2026-11-21T02:18:03+01:00",
+      "fetched_at": "2026-11-21T02:31:03+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Livstids fängelse för sadistmordet på Sonia Exelby",
+        "summary": "Sonia Exelby kom till USA för att bli mördad av en man hon träffade på en fetischsajt. Hon ångrade sig – men mördades ändå. Nu döms Dwain Hall, 54, till livstids fängelse för mordet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Life imprisonment for sadistic murder of Sonia Exelby",
+        "summary": "Sonia Exelby came to the USA to be murdered by a man she met on a fetish site. She regretted it – but was murdered anyway. Now Dwain Hall, 54, is sentenced to life imprisonment for the murder."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T02:31:07+01:00"
+      }
+    },
     {
       "id": "eec3a4d5d248",
       "schema_version": 1,
@@ -5165,32 +5191,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T20:01:26+01:00"
-      }
-    },
-    {
-      "id": "65a2647849e9",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/statsvetaren-de-gynnas-mest-av-talmannens-drag",
-      "guid": "https://www.expressen.se/nyheter/politik/statsvetaren-de-gynnas-mest-av-talmannens-drag/",
-      "published_at": "2026-11-17T19:41:27+01:00",
-      "fetched_at": "2026-11-17T19:45:48+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Statsvetaren: De gynnas mest av talmannens drag",
-        "summary": "Det blir ingen tredje statsministeromröstning i närtid. I stället ger talmannen partierna ”en veckas anstånd” för fortsatta förhandlingar. Beskedet gynnar de rödgröna mest, menar statsvetaren Andreas Johansson Heinö. – Det är uppenbart att mycket återstår där. Jag tror att de behöver mest tid.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Political scientist: The speaker's move benefits them most",
-        "summary": "There will be no third prime minister vote in the near future. Instead, the speaker gives the parties \"one week's respite\" for continued negotiations. The news benefits the red-greens most, says political scientist Andreas Johansson Heinö. \"It is clear that much remains there. I think they need the most time.\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T19:45:54+01:00"
       }
     }
   ]

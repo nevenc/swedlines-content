@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T02:15:47+01:00",
+  "generated_at": "2026-11-21T02:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "e183efeaf163",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/varlden/livstids-fangelse-for-sadistmordet-pa-sonia-exelby",
+      "guid": "https://www.expressen.se/nyheter/varlden/livstids-fangelse-for-sadistmordet-pa-sonia-exelby/",
+      "published_at": "2026-11-21T02:18:03+01:00",
+      "fetched_at": "2026-11-21T02:31:03+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Livstids fängelse för sadistmordet på Sonia Exelby",
+        "summary": "Sonia Exelby kom till USA för att bli mördad av en man hon träffade på en fetischsajt. Hon ångrade sig – men mördades ändå. Nu döms Dwain Hall, 54, till livstids fängelse för mordet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Life imprisonment for sadistic murder of Sonia Exelby",
+        "summary": "Sonia Exelby came to the USA to be murdered by a man she met on a fetish site. She regretted it – but was murdered anyway. Now Dwain Hall, 54, is sentenced to life imprisonment for the murder."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T02:31:07+01:00"
+      }
+    },
     {
       "id": "ae7de88829d0",
       "schema_version": 1,
@@ -5371,32 +5397,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T11:15:55+01:00"
-      }
-    },
-    {
-      "id": "54927bb75be3",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/drapmisstankt-i-skelleftea-slapps-pa-fri-fot",
-      "guid": "https://www.svt.se/nyheter/lokalt/vasterbotten/drapmisstankt-i-skelleftea-slapps-pa-fri-fot",
-      "published_at": "2026-11-17T10:39:39+01:00",
-      "fetched_at": "2026-11-17T10:45:43+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Dråpmisstänkt i Skellefteå släpps på fri fot",
-        "summary": "Den man som suttit häktad efter ett knivdrama då en man i 50-årsåldern omkom på Erikslid i Skellefteå har försatts på fri fot. – Det som framkommit från de tekniska uppgifterna är att han mycket väl kan ha agerat i en nödvärnssituation, säger åklagaren Anders Norberg.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Suspect in Skellefteå manslaughter released",
-        "summary": "The man who was remanded in custody after a knife incident in which a man in his 50s died at Erikslid in Skellefteå has been released. – What has emerged from the technical data is that he may well have acted in a situation of self-defence, says prosecutor Anders Norberg."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T10:45:55+01:00"
       }
     }
   ]
