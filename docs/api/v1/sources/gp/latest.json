@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-21T18:15:56+01:00",
+  "generated_at": "2026-11-21T18:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a9ec5079df2e",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/nyheter/varlden/ryskt-fartyg-evakueras-efter-attack-i-finska-viken.9419302e-962c-5fcb-8b6d-8c713ecb8a0e",
+      "guid": "9419302e-962c-5fcb-8b6d-8c713ecb8a0e",
+      "published_at": "2026-11-21T18:05:05+01:00",
+      "fetched_at": "2026-11-21T18:31:02+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Världen",
+        "Tagg: Fartyg",
+        "Tagg: Brand",
+        "Tagg: Ryssland",
+        "Tagg: Ukraina",
+        "Tagg: Finland",
+        "Tagg: Maria Malmer Stenergard"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/854de5e6-971c-30d7-af9f-0ccf6209abde",
+      "sv": {
+        "title": "Ryskt fartyg evakueras efter attack i Finska viken",
+        "summary": "Planen: Ska bogseras till Ryssland.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Russian vessel evacuated after attack in Gulf of Finland",
+        "summary": "Plan: To be towed to Russia."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T18:31:06+01:00"
+      }
+    },
     {
       "id": "2a02cac814a8",
       "schema_version": 1,
@@ -6878,44 +6914,6 @@
       "en": {
         "title": "Seeing someone's crooked penis made us feel safer in our bodies",
         "summary": "The relaxed attitude to nudity that existed when I grew up helped us children and young people accept our bodies, writes \"Gamlingen\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T05:15:51+01:00"
-      }
-    },
-    {
-      "id": "fe17f2dc683b",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/asikt-och-debatt/debatt/omfattningen-av-israels-brott-i-gaza-har-klarnat-utkrav-ansvar-nu.9415dcbc-2432-5d94-81b4-530b2b1a005e",
-      "guid": "9415dcbc-2432-5d94-81b4-530b2b1a005e",
-      "published_at": "2026-11-17T05:00:00+01:00",
-      "fetched_at": "2026-11-17T05:15:44+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Debatt",
-        "Tagg: Israel-Palestina",
-        "Tagg: Folkmord",
-        "Tagg: Krigsbrott",
-        "Tagg: Navi Pillay",
-        "Tagg: Barn",
-        "Tagg: Gaza",
-        "Tagg: Israel",
-        "Tagg: Palestina"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/cc19d12f-0538-34b4-9041-1b692a5d506e",
-      "sv": {
-        "title": "Nu måste ansvar för Israels krigsbrott i Gaza utkrävas",
-        "summary": "Att Nobels fredspris tilldelades juristen Navi Pillay var ett viktigt erkännande av att offer för grova internationella brott förtjänar rättvisa, skriver två socialdemokrater.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Israel's war crimes in Gaza must now be held accountable",
-        "summary": "That the Nobel Peace Prize was awarded to jurist Navi Pillay was an important recognition that victims of grave international crimes deserve justice, write two Social Democrats."
       },
       "translation": {
         "status": "done",

@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T18:15:56+01:00",
+  "generated_at": "2026-11-21T18:31:06+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2387fb34b4a4",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/aGwx25/prinsessan-kate-i-doku-om-cancern",
+      "guid": "https://www.svd.se/a/aGwx25/prinsessan-kate-i-doku-om-cancern?utm_medium=rss",
+      "published_at": "2026-11-21T18:16:42+01:00",
+      "fetched_at": "2026-11-21T18:30:59+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/f709a766-9738-3579-bf5a-080b411ca232?format=auto&s=61dd661c7f62823f714596fbf51a61825ac123ff&w=1000",
+      "sv": {
+        "title": "Prinsessan Kate i doku om cancern",
+        "summary": "Prinsessan Kates upplevelser efter att ha fått en cancerdiagnos för två år sedan skildras i en ny…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Princess Kate in documentary about cancer",
+        "summary": "Princess Kate's experiences after being diagnosed with cancer two years ago are portrayed in a new…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T18:31:06+01:00"
+      }
+    },
     {
       "id": "c4887de24dbc",
       "schema_version": 1,
@@ -5205,32 +5232,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T01:01:15+01:00"
-      }
-    },
-    {
-      "id": "88dc8d8a73f7",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/bk5eEl/ryssland-krimbron-attackerad-igen",
-      "guid": "https://www.svd.se/a/bk5eEl/ryssland-krimbron-attackerad-igen?utm_medium=rss",
-      "published_at": "2026-11-18T23:59:49+01:00",
-      "fetched_at": "2026-11-19T00:15:44+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Ryssland: Krimbron attackerad igen",
-        "summary": "Den viktiga bron till Krimhalvön har återigen attackerats, hävdar Moskvas Krimguvernör Sergej…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Russia: Crimea bridge attacked again",
-        "summary": "The important bridge to the Crimean Peninsula has once again been attacked, claims Moscow's Crimea governor Sergei…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T00:15:51+01:00"
       }
     }
   ]
