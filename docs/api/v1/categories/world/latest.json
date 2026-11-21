@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-21T07:01:16+01:00",
+  "generated_at": "2026-11-21T07:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "ce559bd0fc26",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/pML56E/explosioner-och-brander-i-kiev",
+      "guid": "https://www.aftonbladet.se/nyheter/a/pML56E/explosioner-och-brander-i-kiev?utm_medium=rss",
+      "published_at": "2026-11-21T07:12:25+01:00",
+      "fetched_at": "2026-11-21T07:15:46+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Explosioner och bränder i Kiev",
+        "summary": "En rysk robot har satt bostadshus i lågor i Kiev, rapporterar ukrainska medier.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Explosions and fires in Kyiv",
+        "summary": "A Russian missile has set residential buildings ablaze in Kyiv, according to Ukrainian media."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:15:53+01:00"
+      }
+    },
+    {
+      "id": "be49a629881e",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=7c631e4e-829a-4de8-a879-a0f73d89c4fb",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=7c631e4e-829a-4de8-a879-a0f73d89c4fb",
+      "published_at": "2026-11-21T07:10:30+01:00",
+      "fetched_at": "2026-11-21T07:15:47+01:00",
+      "category": "world",
+      "sv": {
+        "title": "FBI hackade",
+        "summary": "Källor till CNN: Databas utsatt",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "FBI hacked",
+        "summary": "Sources to CNN: Database breached"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:15:53+01:00"
+      }
+    },
     {
       "id": "5b8a2b427f37",
       "schema_version": 1,
@@ -5336,61 +5388,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-19T13:16:05+01:00"
-      }
-    },
-    {
-      "id": "f667ffc4e655",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346081",
-      "guid": "rss:sr.se/article/9346081",
-      "published_at": "2026-11-19T12:54:00+01:00",
-      "fetched_at": "2026-11-19T13:01:10+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Kärnstrand: Får Xi Jinping att framstå som en stor ledare",
-        "summary": "Mötet mellan Donald Trump, Vladimir Putin och Xi Jinping har avslutats. Moa Kärnstrand, vår Kinakorrespondent är på plats i Shenzhen där mötet genomförts.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kärnstrand: Makes Xi Jinping look like a great leader",
-        "summary": "The meeting between Donald Trump, Vladimir Putin and Xi Jinping has ended. Moa Kärnstrand, our China correspondent, is on site in Shenzhen where the meeting took place."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T13:01:19+01:00"
-      }
-    },
-    {
-      "id": "9a571c61d21e",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/5cvNw30X2RzF2ne7wnmjMM/rekordmanga-barn-lever-i-konfliktomraden",
-      "guid": "5cvNw30X2RzF2ne7wnmjMM",
-      "published_at": "2026-11-19T12:49:23+01:00",
-      "fetched_at": "2026-11-19T13:01:12+01:00",
-      "category": "world",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Rekordmånga barn lever i konfliktområden",
-        "summary": "Antalet barn som lever i konfliktdrabbade områden i världen fortsätter att öka. Totalt handlar det om 589 miljoner barn - den högsta siffran sedan mätningarna började 1990. Anledningen är bland annat att antalet krig och konflikter har ökat, och att de har blivit mer utdragna.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Record number of children living in conflict zones",
-        "summary": "The number of children living in conflict-affected areas around the world continues to rise. In total, 589 million children – the highest figure since measurements began in 1990. The reasons include that the number of wars and conflicts has increased, and that they have become more protracted."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-19T13:01:19+01:00"
       }
     }
   ]

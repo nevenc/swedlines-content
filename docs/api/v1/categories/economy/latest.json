@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-11-21T07:01:16+01:00",
+  "generated_at": "2026-11-21T07:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "59fdbeb868e9",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/svenska-poliser-ska-placeras-i-irak",
+      "guid": "73549edb-b515-4d1e-8f6c-90cab007af7c",
+      "published_at": "2026-11-21T07:06:54+01:00",
+      "fetched_at": "2026-11-21T07:15:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/23f0c623-6652-4fec-ac7b-7619815e87ae.jpg?width=600",
+      "sv": {
+        "title": "Svenska poliser ska placeras i Irak",
+        "summary": "Svenska poliser ska placeras på stationer utomlands för att komma åt gängkriminella som flytt Sverige. Det säger rikspolischef Petra Lundh i Ekots Lördagsintervju.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish police to be posted to Iraq",
+        "summary": "Swedish police are to be placed at stations abroad to reach gang criminals who have fled Sweden. This is according to National Police Commissioner Petra Lundh in Ekot's Saturday interview."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:15:53+01:00"
+      }
+    },
+    {
+      "id": "1724b8436d14",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/veckans-viktigaste-fran-di-s-nyhetstjanster-16anc",
+      "guid": "01adc50f-ee70-4248-8e00-61f9f8cd04b0",
+      "published_at": "2026-11-21T07:05:43+01:00",
+      "fetched_at": "2026-11-21T07:15:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/01a44534-deb0-43b7-bcdf-d64d3d631f5e.jpeg?width=600",
+      "sv": {
+        "title": "Veckans viktigaste från Di:s nyhetstjänster",
+        "summary": "En affärsjuridisk byrå har ökat utdelningen till sina delägare med över 1.300 procent under det senaste decenniet. Det är en av veckans viktigaste artiklar från Di:s nyhetstjänster, som också rapporterat om att EU enats om kortare tillståndstider för utbyggnaden av elnätet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "This week's most important from Di's news services",
+        "summary": "A business law firm has increased its dividend to its partners by over 1,300 percent over the past decade. It is one of this week's most important articles from Di's news services, which also reported that the EU has agreed on shorter permit times for expanding the electricity grid."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:15:53+01:00"
+      }
+    },
+    {
+      "id": "685f6fbf844a",
+      "schema_version": 1,
+      "source": "di",
+      "url": "https://www.di.se/nyheter/anthropic-anstalld-pastar-sig-ha-lost-istoriskt-matteproblem",
+      "guid": "8ec71ded-83fc-4ff8-ae51-63b56aa36566",
+      "published_at": "2026-11-21T07:04:16+01:00",
+      "fetched_at": "2026-11-21T07:15:47+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/c028541a-5e87-47e0-a253-bf9455070f8c.jpeg?width=600",
+      "sv": {
+        "title": "Anthropic-anställd påstår sig ha löst istoriskt matteproblem",
+        "summary": "Riemannhypotesen har varit en gåta sedan 1800-talet. Nu hävdar en Anthropic-anställd matematiker att han hittat en lösning med hjälp av bolagets AI.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Anthropic employee claims to have solved historic maths problem",
+        "summary": "The Riemann hypothesis has been a puzzle since the 1800s. Now a mathematician employed by Anthropic claims he has found a solution with the help of the company's AI."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:15:53+01:00"
+      }
+    },
     {
       "id": "27f905c3500a",
       "schema_version": 1,
@@ -5229,79 +5310,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T07:31:23+01:00"
-      }
-    },
-    {
-      "id": "27c1a316cb6c",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/efter-hamndhotet-ryssland-attackerar-broar-i-kiev",
-      "guid": "66cf6c69-64b2-42b7-ae0e-eabb92fd9644",
-      "published_at": "2026-11-20T07:08:49+01:00",
-      "fetched_at": "2026-11-20T07:31:07+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/499ba0f1-548f-4820-8cf3-05337040b41b.jpg?width=600",
-      "sv": {
-        "title": "Efter hämndhotet: Ryssland attackerar broar i Kiev",
-        "summary": "Två broar i Ukrainas huvudstad Kiev har skadats i dödliga ryska attacker, enligt stadens borgmästare Vitalij Klytjko.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "After revenge threat: Russia attacks bridges in Kyiv",
-        "summary": "Two bridges in Ukraine's capital Kyiv have been damaged in deadly Russian attacks, according to the city's mayor Vitalij Klytjko."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:31:23+01:00"
-      }
-    },
-    {
-      "id": "8a7885db1b6d",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/117-kvadratmeter-stort-hus-i-lomma-salt",
-      "guid": "9608f1ea-8cc0-4a40-abaa-38749415f713",
-      "published_at": "2026-11-20T07:02:47+01:00",
-      "fetched_at": "2026-11-20T07:15:44+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "117 kvadratmeter stort hus i Lomma sålt"
-      },
-      "en": {
-        "title": "117 square metre house in Lomma sold"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:15:49+01:00"
-      }
-    },
-    {
-      "id": "88d7cb2d4959",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-tar-over-villa-ZMOVt",
-      "guid": "fd013178-e62f-4469-acb8-a90c54b8c914",
-      "published_at": "2026-11-20T07:02:26+01:00",
-      "fetched_at": "2026-11-20T07:15:44+01:00",
-      "category": "economy",
-      "sv": {
-        "title": "Nya ägare tar över villa"
-      },
-      "en": {
-        "title": "New owners take over villa"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T07:15:49+01:00"
       }
     }
   ]

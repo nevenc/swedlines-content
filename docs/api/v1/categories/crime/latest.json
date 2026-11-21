@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-11-21T07:01:16+01:00",
+  "generated_at": "2026-11-21T07:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "07f735f45e25",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/j3d79w/svensk-polis-ska-placeras-i-irak",
+      "guid": "https://www.svd.se/a/j3d79w/svensk-polis-ska-placeras-i-irak?utm_medium=rss",
+      "published_at": "2026-11-21T07:10:33+01:00",
+      "fetched_at": "2026-11-21T07:15:46+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/bbac61e1-80a5-337c-b53b-6e0fa46ab7ec?format=auto&s=564887a46255fe651b02b263ea6ecd4c96bffce1&w=1000",
+      "sv": {
+        "title": "Svensk polis ska placeras i Irak",
+        "summary": "Svenska poliser ska placeras på utländska stationer för komma åt gängkriminella som har flytt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish police to be posted to Iraq",
+        "summary": "Swedish police are to be placed at foreign stations to reach gang criminals who have fled…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:15:53+01:00"
+      }
+    },
+    {
+      "id": "5c3a38055c7d",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/WmbBLg/svenska-poliser-ska-placeras-i-irak",
+      "guid": "https://www.aftonbladet.se/nyheter/a/WmbBLg/svenska-poliser-ska-placeras-i-irak?utm_medium=rss",
+      "published_at": "2026-11-21T07:05:34+01:00",
+      "fetched_at": "2026-11-21T07:15:46+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/f314d1fb-7cbb-320e-97cf-5485b10439e2?format=auto&s=5657e0a7a2e93f27aeb67c41f798db5138f9953a&w=1000",
+      "sv": {
+        "title": "Svenska poliser ska placeras i Irak",
+        "summary": "Svenska poliser ska placeras på stationer utomlands för att komma åt gängkriminella som flytt…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Swedish police to be posted to Iraq",
+        "summary": "Swedish police are to be placed at stations abroad to reach gang criminals who have fled…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:15:53+01:00"
+      }
+    },
     {
       "id": "5ecbe9990124",
       "schema_version": 1,
@@ -5326,59 +5380,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T14:01:28+01:00"
-      }
-    },
-    {
-      "id": "1550cd8b4578",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=50be973c-d2b0-47b0-8173-d1a9fb89acca",
-      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=50be973c-d2b0-47b0-8173-d1a9fb89acca",
-      "published_at": "2026-11-17T13:19:59+01:00",
-      "fetched_at": "2026-11-17T13:31:05+01:00",
-      "category": "crime",
-      "sv": {
-        "title": "Tonårspojke sköt mot vakt på Laroy",
-        "summary": "Tonårspojke döms efter skott på Stureplan",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Teenage boy shot at guard at Laroy",
-        "summary": "Teenage boy convicted after shots fired at Stureplan"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T13:31:17+01:00"
-      }
-    },
-    {
-      "id": "626f5e166378",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/malmo/nyanspolitiker-oskyldig",
-      "guid": "0d28a8d4-d35b-40ae-a3ff-7d5eb928800c",
-      "published_at": "2026-11-17T12:15:43+01:00",
-      "fetched_at": "2026-11-17T12:15:49+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/caff460c-a379-4a35-80c9-06556ba887c9.jpeg?width=600",
-      "sv": {
-        "title": "Nyanspolitiker oskyldig",
-        "summary": "Alla misstankar mot Nyanspolitikern Mehrab Shangezi läggs ner. Han anhölls veckorna före valet, misstänkt för tre olika brott. Nu står det också klart att ingen av de tre assistenter som greps var narkotikapåverkad.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Newcomer politician found innocent",
-        "summary": "All suspicions against newcomer politician Mehrab Shangezi are being dropped. He was detained weeks before the election, suspected of three different crimes. It has now also become clear that none of the three assistants who were arrested was under the influence of narcotics."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T12:16:04+01:00"
       }
     }
   ]
