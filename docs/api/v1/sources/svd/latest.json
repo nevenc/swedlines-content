@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T16:45:51+01:00",
+  "generated_at": "2026-11-21T17:01:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1fb46db9c80d",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/7P00b9/han-blev-kommunist-som-elvaaring",
+      "guid": "https://www.svd.se/a/7P00b9/han-blev-kommunist-som-elvaaring?utm_medium=rss",
+      "published_at": "2026-11-21T17:00:00+01:00",
+      "fetched_at": "2026-11-21T17:01:11+01:00",
+      "category": "culture",
+      "image_url": "https://akamai.vgc.no/v2/images/3b53c307-8ee0-322f-bfc8-6fa9af2b4585?format=auto&s=bdd6e173213013b32a362b3bebf5bc509d9394ba&w=1000",
+      "sv": {
+        "title": "Han blev kommunist som elvaåring",
+        "summary": "Dag Solstads sista bok är en självbiografisk roman om uppväxten och omvändelsen till kommunismen…",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "He Became a Communist at Eleven",
+        "summary": "Dag Solstad's last book is an autobiographical novel about his upbringing and conversion to communism…"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:01:20+01:00"
+      }
+    },
     {
       "id": "a34ba0566b02",
       "schema_version": 1,
@@ -5205,33 +5232,6 @@
       "en": {
         "title": "Missen: Signposted with Russian tanks",
         "summary": "New road signs were put up in Norrbotten as an adaptation to NATO – but are now being taken down."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T21:15:54+01:00"
-      }
-    },
-    {
-      "id": "ad2723600e82",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/Jno3g8/delar-av-innetak-har-rasat-in-pa-sos",
-      "guid": "https://www.svd.se/a/Jno3g8/delar-av-innetak-har-rasat-in-pa-sos?utm_medium=rss",
-      "published_at": "2026-11-18T21:01:16+01:00",
-      "fetched_at": "2026-11-18T21:15:45+01:00",
-      "category": "sweden",
-      "image_url": "https://akamai.vgc.no/v2/images/e574e2e1-4495-3b5c-963e-68fae17295ee?format=auto&s=e6571f4d0764615009076c452d606e3391c22b85&w=1000",
-      "sv": {
-        "title": "Delar av innertak har rasat in på Sös",
-        "summary": "Södersjukhusets förlossning i Stockholm har tillfälligt stoppat mottagandet av nya patienter efter…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Parts of ceiling collapsed at Sös",
-        "summary": "The delivery ward of Södersjukhuset in Stockholm has temporarily stopped admitting new patients after…"
       },
       "translation": {
         "status": "done",

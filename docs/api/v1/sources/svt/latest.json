@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-21T16:45:51+01:00",
+  "generated_at": "2026-11-21T17:01:20+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cc61d0b1c478",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/inrikes/darfor-kan-kvinnor-fa-mindre-for-pengarna-i-kladbutiken",
+      "guid": "https://www.svt.se/nyheter/inrikes/darfor-kan-kvinnor-fa-mindre-for-pengarna-i-kladbutiken",
+      "published_at": "2026-11-21T16:58:22+01:00",
+      "fetched_at": "2026-11-21T17:01:08+01:00",
+      "category": "economy",
+      "sv": {
+        "title": "Därför kan kvinnor få mindre för pengarna i klädbutiken",
+        "summary": "En undersökning visar att damtröjor oftare innehåller blandningar med polyester och akryl, medan herrtröjor oftare består av 100 procent naturliga fibrer. Ändå kan plaggen kosta lika mycket.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "This Is Why Women Can Get Less for Their Money in Clothing Shops",
+        "summary": "A survey shows that women's sweaters more often contain blends of polyester and acrylic, while men's sweaters more often consist of 100 percent natural fibres. Yet the garments can cost the same amount."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:01:20+01:00"
+      }
+    },
+    {
+      "id": "48d931a60cb8",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/sport/fotboll/degerfors-med-jattemiss-i-odesmatchen-mot-aik",
+      "guid": "https://www.svt.se/sport/fotboll/degerfors-med-jattemiss-i-odesmatchen-mot-aik",
+      "published_at": "2026-11-21T16:50:56+01:00",
+      "fetched_at": "2026-11-21T17:01:08+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Degerfors med jättemiss i ödesmatchen mot AIK",
+        "summary": "Noel Milleskog kunde inte fått ett bättre läge att göra sitt första mål. Men 24-åringen brände från nära håll och Degerfors fick nöja sig med en poäng mot AIK. – Han måste få den på mål. Det kommer han gräma sig rejält över, säger Vicki Blommé i TV.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Degerfors Miss Huge Chance in Decisive Match Against AIK",
+        "summary": "Noel Milleskog could not have had a better chance to score his first goal. But the 24-year-old fired wide from close range and Degerfors had to settle for a point against AIK. – He has to get that on target. He'll be really upset about that, says Vicki Blommé on TV."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:01:20+01:00"
+      }
+    },
     {
       "id": "d8a2d033f0ef",
       "schema_version": 1,
@@ -5148,58 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T22:15:59+01:00"
-      }
-    },
-    {
-      "id": "56e282e96453",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/sport/ishockey/sverige-nollat-av-kanada-i-vm-semifinalen",
-      "guid": "https://www.svt.se/sport/ishockey/sverige-nollat-av-kanada-i-vm-semifinalen",
-      "published_at": "2026-11-15T21:29:00+01:00",
-      "fetched_at": "2026-11-15T21:42:14+01:00",
-      "category": "sports",
-      "sv": {
-        "title": "Sverige nollat av Kanada i VM-semifinalen",
-        "summary": "Kanada nollade Sverige i VM-semifinalen. För Damkronorna väntar nu bronsmatch mot Finland.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Sweden shut out by Canada in World Championship semi-final",
-        "summary": "Canada shut out Sweden in the World Championship semi-final. Damkronorna now face Finland in the bronze medal match."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T21:42:21+01:00"
-      }
-    },
-    {
-      "id": "bb9602627d82",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/klart-centern-valjer-socialdemokraterna",
-      "guid": "https://www.svt.se/nyheter/inrikes/klart-centern-valjer-socialdemokraterna",
-      "published_at": "2026-11-15T19:48:11+01:00",
-      "fetched_at": "2026-11-15T20:01:08+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Klart: Centern väljer Socialdemokraterna",
-        "summary": "Centerpartiet väljer S totalpaket, säger partiledare till Elisabeth Thand Ringqvist i en kommentar till SVT. – Efter att ha granskat Anderssons totalpaket är vårt besked att Socialdemokraternas alternativ är det vi väljer att förhandla vidare om, säger Thand Ringqvist.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Confirmed: The Centre chooses the Social Democrats",
-        "summary": "The Centre Party chooses S package deal, party leader Elisabeth Thand Ringqvist tells SVT in a comment. – After reviewing Andersson's package deal, our decision is that the Social Democrats' alternative is the one we choose to negotiate further, says Thand Ringqvist."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T20:01:22+01:00"
       }
     }
   ]
