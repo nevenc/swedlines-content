@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T13:45:49+01:00",
+  "generated_at": "2026-11-21T14:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6ed7744936c1",
+      "schema_version": 1,
+      "source": "sr",
+      "url": "https://www.sverigesradio.se/artikel/9347664",
+      "guid": "rss:sr.se/article/9347664",
+      "published_at": "2026-11-21T13:47:00+01:00",
+      "fetched_at": "2026-11-21T14:01:14+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "Polisen rekryterar chef till nya stationen i Bagdad",
+        "summary": "Svensk polis ska öppna en egen polisstation i Iraks huvudstad Bagdad för att komma åt svenska gängkriminella som styr brottslighet från utlandet, enligt rikspolischef Petra Lundh. Färska siffror visar att det hittills i år gripits 280 efterlysta svenskar utomlands, säger rikspolischefen.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Police recruit head for new station in Baghdad",
+        "summary": "Swedish police are to open their own police station in the Iraqi capital Baghdad to target Swedish gang criminals who run criminal activity from abroad, according to National Police Commissioner Petra Lundh. Recent figures show that 280 wanted Swedes have so far this year been arrested abroad, the commissioner says."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T14:01:24+01:00"
+      }
+    },
     {
       "id": "65de14e2468b",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T06:01:32+01:00"
-      }
-    },
-    {
-      "id": "e3654b636411",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9341369",
-      "guid": "rss:sr.se/article/9341369",
-      "published_at": "2026-11-16T05:27:00+01:00",
-      "fetched_at": "2026-11-16T05:30:56+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Minst 11 döda efter brand i Phuket",
-        "summary": "I thailändska Phuket har minst 11 personer dött efter en brand i en affärslokal, rapporterar Reuters. Branden spred sig till intilliggande byggnader och 16 personer vårdas för skador. Inga turister finns bland de döda eller skadade, uppger polisen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "At least 11 dead after fire in Phuket",
-        "summary": "In the Thai city of Phuket, at least 11 people have died after a fire in a commercial premises, Reuters reports. The fire spread to neighbouring buildings and 16 people are being treated for injuries. No tourists are among the dead or injured, police say."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T05:31:03+01:00"
       }
     }
   ]

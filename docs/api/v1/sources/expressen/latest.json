@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T13:45:49+01:00",
+  "generated_at": "2026-11-21T14:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c7b4d44b751a",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/tv/nyheter/varlden/massivt-eldmoln-i-irak-minst-4-doda",
+      "guid": "https://www.expressen.se/tv/nyheter/varlden/massivt-eldmoln-i-irak-minst-4-doda",
+      "published_at": "2026-11-21T13:56:41+01:00",
+      "fetched_at": "2026-11-21T14:01:18+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Smäller i svampmoln av eld",
+        "summary": "Flera döda i gasexplosion i Irak – branden har spridit sig",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Blasts in mushroom clouds of fire",
+        "summary": "Several dead in gas explosion in Iraq – the fire has spread"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T14:01:24+01:00"
+      }
+    },
     {
       "id": "2ac05b39734e",
       "schema_version": 1,
@@ -5171,32 +5197,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T09:45:56+01:00"
-      }
-    },
-    {
-      "id": "73e86e4c0b9b",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/kronikorer/viktor-barth-kron/hackkycklingen-har-blivit-folkkar",
-      "guid": "https://www.expressen.se/kronikorer/viktor-barth-kron/hackkycklingen-har-blivit-folkkar/",
-      "published_at": "2026-11-18T08:59:40+01:00",
-      "fetched_at": "2026-11-18T09:15:42+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Hackkycklingen har blivit folkkär",
-        "summary": "Trenden har pekat ditåt ett tag, men nu har det till slut hänt: Moderaterna är Sveriges största parti i en opinionsmätning.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Hack chicken has become popular",
-        "summary": "The trend has been pointing that way for a while, but now it has finally happened: the Moderates are Sweden's largest party in an opinion poll."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T09:15:50+01:00"
       }
     }
   ]

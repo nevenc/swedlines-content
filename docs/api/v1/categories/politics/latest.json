@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T13:45:49+01:00",
+  "generated_at": "2026-11-21T14:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2ed9fb00bc45",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/aGw0AL/susanna-popova-identitetsrostande-ar-tillbaka",
+      "guid": "https://www.svd.se/a/aGw0AL/susanna-popova-identitetsrostande-ar-tillbaka?utm_medium=rss",
+      "published_at": "2026-11-21T14:00:00+01:00",
+      "fetched_at": "2026-11-21T14:01:16+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/086b746f-0daa-3196-867a-88c2c19acff6?format=auto&s=803afe599b6536af17c7bc712191b5d0fb1f039d&w=1000",
+      "sv": {
+        "title": "Identitetspolitik 2.0 är här",
+        "summary": "Nu är gruppröstandet tillbaka.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Identity politics 2.0 is here",
+        "summary": "Group voting is back."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T14:01:24+01:00"
+      }
+    },
     {
       "id": "151fb58b33b4",
       "schema_version": 1,
@@ -5409,32 +5436,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T14:31:11+01:00"
-      }
-    },
-    {
-      "id": "4c46789419be",
-      "schema_version": 1,
-      "source": "expressen",
-      "url": "https://www.expressen.se/nyheter/politik/ulf-kristersson-traffar-talmannen-om-regeringsbildningen",
-      "guid": "https://www.expressen.se/nyheter/politik/ulf-kristersson-traffar-talmannen-om-regeringsbildningen/",
-      "published_at": "2026-11-17T14:09:39+01:00",
-      "fetched_at": "2026-11-17T14:15:48+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "Ulf Kristersson träffar talmannen om regeringsbildningen",
-        "summary": "Ulf Kristersson (M) träffar talmannen på tisdagseftermiddagen. Därefter håller både han och talmannen pressträff.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Ulf Kristersson meets the Speaker about the government formation",
-        "summary": "Ulf Kristersson (M) meets the Speaker on Tuesday afternoon. Afterwards, both he and the Speaker will hold a press conference."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T14:15:55+01:00"
       }
     }
   ]

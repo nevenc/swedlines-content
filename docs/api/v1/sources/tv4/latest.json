@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-21T13:45:49+01:00",
+  "generated_at": "2026-11-21T14:01:25+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "cb300f337208",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/6v4IgKOvVKRmOg9BESuZWd/svensk-pilot-fick-tillstand-att-skjuta-ned-misstaenkt-rysk-robot",
+      "guid": "6v4IgKOvVKRmOg9BESuZWd",
+      "published_at": "2026-11-21T13:45:57+01:00",
+      "fetched_at": "2026-11-21T14:01:18+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Utrikesnyheter"
+      ],
+      "sv": {
+        "title": "Svensk pilot fick tillstånd att skjuta ned misstänkt rysk robot",
+        "summary": "Det var under natten till fredagen som två svenska Jas Gripen-plan skickades upp för att försvara det polska luftrummet i samband med en omfattande rysk attack mot Ukraina.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Swedish pilot was authorised to shoot down suspected Russian missile",
+        "summary": "It was during the night to Friday that two Swedish JAS Gripen jets were sent up to defend Polish airspace in connection with a large-scale Russian attack on Ukraine."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T14:01:24+01:00"
+      }
+    },
     {
       "id": "c204f91ffd47",
       "schema_version": 1,
@@ -5740,35 +5769,6 @@
       "en": {
         "title": "Here are M's sweeteners in the total package for C",
         "summary": "According to information given to TV4 Nyheterna • M source: 'Very good for C'"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "b825fd2d4a69",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/NEeyL3Fqh28PkxEMjGhJI/stefan-holms-egna-ord-i-foerhoer-beraettar-om-valdsamma-attacken",
-      "guid": "NEeyL3Fqh28PkxEMjGhJI",
-      "published_at": "2026-11-13T15:40:26+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Brott och straff"
-      ],
-      "sv": {
-        "title": "Här ”brister” det för Holm – berättar i förhör om attacken",
-        "summary": "I dag väcktes åtal mot OS-guldmedaljören och expertkommentatorn Stefan Holm. Han misstänks för misshandel efter att ha attackerat poddprofilen Emil Persson i samband med Bokmässan i september.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Here it 'snaps' for Holm – tells police interview about the attack",
-        "summary": "Today charges were brought against Olympic gold medallist and pundit Stefan Holm. He is suspected of assault after attacking podcast profile Emil Persson in connection with the Göteborg Book Fair in September."
       },
       "translation": {
         "status": "done",
