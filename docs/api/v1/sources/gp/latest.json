@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-21T06:45:50+01:00",
+  "generated_at": "2026-11-21T07:01:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "7fb59d5f99a2",
+      "schema_version": 1,
+      "source": "gp",
+      "url": "https://www.gp.se/sport/fotboll/gais/enorma-hyllningen-till-jonas-lindberg-infor-avskedet-pa-gamla-ullevi.adebba8f-eecc-5ddf-a99a-2a198d4b351b",
+      "guid": "adebba8f-eecc-5ddf-a99a-2a198d4b351b",
+      "published_at": "2026-11-21T06:46:22+01:00",
+      "fetched_at": "2026-11-21T07:01:11+01:00",
+      "category": "sports",
+      "feed_categories": [
+        "Gais",
+        "Tagg: Jonas Lindberg",
+        "Tagg: Fredrik Holmberg",
+        "Tagg: Gais"
+      ],
+      "image_url": "https://vcdn.polarismedia.no/19e38610-bd97-3103-b9da-243c98888964",
+      "sv": {
+        "title": "Enorma hyllningen inför Gais-ikonen Jonas Lindbergs avsked",
+        "summary": "Emotionellt i Gais-lägret: ”Mycket känslor”.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Huge tribute ahead of Gais icon Jonas Lindberg's farewell",
+        "summary": "Emotional scenes in the Gais camp: \"Very many feelings\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:01:16+01:00"
+      }
+    },
     {
       "id": "7b7ed9c552c4",
       "schema_version": 1,
@@ -6888,39 +6921,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-16T17:15:50+01:00"
-      }
-    },
-    {
-      "id": "f3c458ae9fc8",
-      "schema_version": 1,
-      "source": "gp",
-      "url": "https://www.gp.se/sport/ishockey/frolunda/cedric-pare-pa-plats-i-frolunda-har-ar-planen-for-debuten.8150dfe8-ee38-5d26-9d35-d4eabd8207f1",
-      "guid": "8150dfe8-ee38-5d26-9d35-d4eabd8207f1",
-      "published_at": "2026-11-16T16:09:22+01:00",
-      "fetched_at": "2026-11-16T16:35:33+01:00",
-      "category": "sports",
-      "feed_categories": [
-        "Frölunda",
-        "Tagg: Frölunda HC",
-        "Tagg: CHL",
-        "Tagg: SHL Svenska hockeyligan"
-      ],
-      "image_url": "https://vcdn.polarismedia.no/b1a1c15f-80b5-3bcf-a6a6-975552c92096",
-      "sv": {
-        "title": "Frölundas nyförvärv Cédric Paré ger besked om debuten",
-        "summary": "Har tränat med juniorer • Tränaren: ”Då kan det gå åt pipsvängen”.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Frölunda's new signing Cédric Paré reveals when he will make his debut",
-        "summary": "Has trained with the juniors • Coach: \"Then it could go pear-shaped\"."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-16T16:35:37+01:00"
       }
     }
   ]

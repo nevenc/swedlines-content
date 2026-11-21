@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-21T06:45:50+01:00",
+  "generated_at": "2026-11-21T07:01:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "5b8a2b427f37",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80140",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80140&utm_medium=rss",
+      "published_at": "2026-11-21T06:46:16+01:00",
+      "fetched_at": "2026-11-21T07:01:09+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Svenska poliser ska placeras i Irak"
+      },
+      "en": {
+        "title": "Swedish police officers to be deployed to Iraq"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:01:16+01:00"
+      }
+    },
     {
       "id": "49847e518131",
       "schema_version": 1,
@@ -5235,33 +5258,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T10:31:10+01:00"
-      }
-    },
-    {
-      "id": "c0467f14d806",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/R1R4Qx/voyager-1-blir-historisk-ett-ljusdygn-fran-jorden",
-      "guid": "https://www.svd.se/a/R1R4Qx/voyager-1-blir-historisk-ett-ljusdygn-fran-jorden?utm_medium=rss",
-      "published_at": "2026-11-18T09:41:53+01:00",
-      "fetched_at": "2026-11-18T09:45:43+01:00",
-      "category": "science_tech",
-      "image_url": "https://akamai.vgc.no/v2/images/fa3f0cd0-12eb-3110-9436-ed5e043529e9?format=auto&s=5d99492fcffa1f1f216539fd2f55fd571607ef9e&w=1000",
-      "sv": {
-        "title": "Voyager 1 blir historisk – ett ljusdygn från jorden",
-        "summary": "Den har varit på väg i snart 50 år och har färdats över 25 miljarder kilometer.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Voyager 1 becomes historic – one light-day from Earth",
-        "summary": "It has been on its way for almost 50 years and has travelled over 25 billion kilometres."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T09:45:56+01:00"
       }
     }
   ]

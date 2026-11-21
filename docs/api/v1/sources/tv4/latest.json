@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-21T06:45:50+01:00",
+  "generated_at": "2026-11-21T07:01:16+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "27f905c3500a",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/14fOcJ8u189UfyCtep4F2p/ai-slakt-pa-wall-street-det-aer-en-haerdsmaelta-just-nu",
+      "guid": "14fOcJ8u189UfyCtep4F2p",
+      "published_at": "2026-11-21T06:59:17+01:00",
+      "fetched_at": "2026-11-21T07:01:10+01:00",
+      "category": "economy",
+      "feed_categories": [
+        "Ekonomi"
+      ],
+      "sv": {
+        "title": "AI-slakt på Wall Street: ”Det är en härdsmälta just nu”",
+        "summary": "Vid stängning hade tekniktunga Nasdaqs kompositindex fallit hela 5,3 procent, breda S&P 500-index 3,7 och Dow Jones industriindex 1,9 procent. Fallet, som redan hade börjat, tilltog sedan Trump sagt att de bolag som bygger stora datacenter utomlands ska straffas hårt med en ”enorm skatt”.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "AI sell-off on Wall Street: \"It's a meltdown right now\"",
+        "summary": "At close, the tech-heavy Nasdaq Composite had fallen as much as 5.3 percent, the broad S&P 500 index 3.7 percent and the Dow Jones Industrial Average 1.9 percent. The decline, which had already begun, intensified after Trump said that companies building large data centres abroad should be punished severely with a \"huge tax\"."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T07:01:16+01:00"
+      }
+    },
     {
       "id": "ae7de88829d0",
       "schema_version": 1,
@@ -5740,35 +5769,6 @@
       "en": {
         "title": "A metre of snow expected here: 'Hope the forecast is wrong'",
         "summary": "Red warning • Plane had to turn back in the air"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T15:00:40+01:00"
-      }
-    },
-    {
-      "id": "cccf5b1d1d78",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/1NlB9jxLpudSMd7XhC4P1B/haer-raeddas-autistiske-william-17-efter-sex-dygn-i-vildmarken",
-      "guid": "1NlB9jxLpudSMd7XhC4P1B",
-      "published_at": "2026-11-12T21:30:55+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "world",
-      "feed_categories": [
-        "Utrikesnyheter"
-      ],
-      "sv": {
-        "title": "Här räddas autistiske William, 17, efter sex dygn i vildmarken",
-        "summary": "Det var under fredagen, förra veckan, som den 17-årige pojken försvann i skogarna i östra Australien, drygt 185 kilometer öster om Melbourne, där han skulle campa tillsammans med en vän.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Here autistic William, 17, is rescued after six days in the wilderness",
-        "summary": "It was on Friday last week that the 17-year-old boy disappeared in the forests of eastern Australia, just over 185 kilometres east of Melbourne, where he was going camping with a friend."
       },
       "translation": {
         "status": "done",
