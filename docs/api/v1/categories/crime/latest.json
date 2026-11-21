@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T16:15:53+01:00",
+  "generated_at": "2026-11-21T16:31:08+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "541107fa8ee4",
+      "schema_version": 1,
+      "source": "aftonbladet",
+      "url": "https://www.aftonbladet.se/nyheter/a/KL3RpG/misstanks-ha-kort-ihjal-lotta-hellstrand-smet-efter-dodskorningen",
+      "guid": "https://www.aftonbladet.se/nyheter/a/KL3RpG/misstanks-ha-kort-ihjal-lotta-hellstrand-smet-efter-dodskorningen?utm_medium=rss",
+      "published_at": "2026-11-21T16:20:38+01:00",
+      "fetched_at": "2026-11-21T16:31:02+01:00",
+      "category": "crime",
+      "image_url": "https://akamai.vgc.no/v2/images/5d55b935-2bd5-3fc0-addf-4c0bfa86562a?format=auto&s=854a18a4f34b6e6fd90d2e6af98deb2e6b5740cc&w=1000",
+      "sv": {
+        "title": "Misstänks ha kört ihjäl Lotta Hellstrand – lämnade platsen efter dödskörningen",
+        "summary": "Körde i 160 ✓ ”Okontaktbar”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Suspected of having run over Lotta Hellstrand – left the scene after the fatal crash",
+        "summary": "Drove at 160 ✓ \"Unreachable\""
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T16:31:08+01:00"
+      }
+    },
     {
       "id": "f77a9e40e619",
       "schema_version": 1,
@@ -5363,33 +5390,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T21:01:25+01:00"
-      }
-    },
-    {
-      "id": "e8c27b2cc8fa",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/varlden/svensk-professor-om-epstein-kan-ha-mordats",
-      "guid": "499b2322-fb22-4350-9673-05a4c85b3f72",
-      "published_at": "2026-11-17T20:35:09+01:00",
-      "fetched_at": "2026-11-17T20:45:48+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/5d43e00c-762c-42df-8d7e-2df5090158a0.jpg?width=600",
-      "sv": {
-        "title": "Svensk professor om Epstein: Kan ha mördats",
-        "summary": "Hur gick det egentligen till när Jeffrey Epstein dog? Anders Eriksson, professor emeritus i rättsmedicin, har tillsammans med två andra forskare granskat den sexdömde miljardärens obduktionsprotokoll och ifrågasätter nu den officiella dödsorsaken, suicid.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Swedish professor on Epstein: May have been murdered",
-        "summary": "How did it actually happen when Jeffrey Epstein died? Anders Eriksson, professor emeritus of forensic medicine, together with two other researchers, has examined the autopsy report of the convicted sex offender billionaire and now questions the official cause of death, suicide."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T20:45:54+01:00"
       }
     }
   ]
