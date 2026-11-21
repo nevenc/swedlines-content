@@ -1,7 +1,56 @@
 {
-  "generated_at": "2026-11-21T16:01:25+01:00",
+  "generated_at": "2026-11-21T16:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "72b1e68f2a95",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=3fba8d73-2742-4740-addf-c8ac26d32864",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=3fba8d73-2742-4740-addf-c8ac26d32864",
+      "published_at": "2026-11-21T16:10:52+01:00",
+      "fetched_at": "2026-11-21T16:15:48+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "C-toppen om mötet",
+        "summary": "”Vi har konstruktiva samtal”",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "The Centre Party on the meeting",
+        "summary": "“We are having constructive talks”"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T16:15:53+01:00"
+      }
+    },
+    {
+      "id": "a34ba0566b02",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80161",
+      "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80161&utm_medium=rss",
+      "published_at": "2026-11-21T16:04:10+01:00",
+      "fetched_at": "2026-11-21T16:15:45+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Alice Landerholm väljs till Muf-ordförande"
+      },
+      "en": {
+        "title": "Alice Landerholm elected chair of Muf"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T16:15:53+01:00"
+      }
+    },
     {
       "id": "8884c9b2e659",
       "schema_version": 1,
@@ -5372,60 +5421,6 @@
       "en": {
         "title": "Kristersson asks the Speaker for more time",
         "summary": "Kristersson wants more time"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T15:15:54+01:00"
-      }
-    },
-    {
-      "id": "029b74ec3af1",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/kristersson-vill-vanta-med-statsministeromrostning",
-      "guid": "0e0f5363-e128-4992-bd15-ce6324e4e903",
-      "published_at": "2026-11-17T15:00:42+01:00",
-      "fetched_at": "2026-11-17T15:01:23+01:00",
-      "category": "politics",
-      "image_url": "https://static.bonniernews.se/ba/abe716a3-a7df-47db-946c-0eaf6944758d.jpg?width=600",
-      "sv": {
-        "title": "Kristersson vill vänta med statsministeromröstning",
-        "summary": "M-ledaren Ulf Kristersson anser att det behövs ytterligare några dagar innan en statsministeromröstning kan äga rum.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kristersson wants to wait with prime minister vote",
-        "summary": "Moderates leader Ulf Kristersson (M) believes a few more days are needed before a prime minister vote can take place."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T15:01:28+01:00"
-      }
-    },
-    {
-      "id": "6edd9b4e7084",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/9Bvozd/kristersson-vill-vanta-med-statsministeromrostning",
-      "guid": "https://www.svd.se/a/9Bvozd/kristersson-vill-vanta-med-statsministeromrostning?utm_medium=rss",
-      "published_at": "2026-11-17T15:00:36+01:00",
-      "fetched_at": "2026-11-17T15:15:43+01:00",
-      "category": "politics",
-      "image_url": "https://akamai.vgc.no/v2/images/6174c2c8-5fa0-3d83-b5ce-5a42b8eda780?format=auto&s=5d240fba0db0bcd06708688936ba0be44d8df209&w=1000",
-      "sv": {
-        "title": "Kristersson vill vänta med statsministeromröstning",
-        "summary": "M-ledaren Ulf Kristersson anser att det behövs ytterligare några dagar innan en…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Kristersson wants to wait with the prime minister vote",
-        "summary": "Moderates leader Ulf Kristersson (M) believes a few more days are needed before a…"
       },
       "translation": {
         "status": "done",

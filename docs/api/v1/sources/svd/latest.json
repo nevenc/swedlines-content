@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-11-21T16:01:25+01:00",
+  "generated_at": "2026-11-21T16:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "a34ba0566b02",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/0p33lG?pinnedEntry=80161",
+      "guid": "https://www.svd.se/a/0p33lG?pinnedEntry=80161&utm_medium=rss",
+      "published_at": "2026-11-21T16:04:10+01:00",
+      "fetched_at": "2026-11-21T16:15:45+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Alice Landerholm väljs till Muf-ordförande"
+      },
+      "en": {
+        "title": "Alice Landerholm elected chair of Muf"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T16:15:53+01:00"
+      }
+    },
     {
       "id": "780a39a4c8e1",
       "schema_version": 1,
@@ -5216,29 +5239,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-18T21:15:54+01:00"
-      }
-    },
-    {
-      "id": "89b92831e5e4",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80071",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80071&utm_medium=rss",
-      "published_at": "2026-11-18T20:24:45+01:00",
-      "fetched_at": "2026-11-18T20:31:01+01:00",
-      "category": "sweden",
-      "sv": {
-        "title": "Tak har rasat in på Södersjukhuset"
-      },
-      "en": {
-        "title": "Ceiling collapses at Södersjukhuset"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T20:31:09+01:00"
       }
     }
   ]

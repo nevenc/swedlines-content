@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T16:01:25+01:00",
+  "generated_at": "2026-11-21T16:15:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "0ab3aa544f9f",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/kultur/susanne-ljung-vilket-modehus-blir-forst-med-att-sno-anne-carsons-stil",
+      "guid": "https://www.dn.se/kultur/susanne-ljung-vilket-modehus-blir-forst-med-att-sno-anne-carsons-stil/",
+      "published_at": "2026-11-21T16:12:50+01:00",
+      "fetched_at": "2026-11-21T16:15:45+01:00",
+      "category": "culture",
+      "image_url": "https://static.bonniernews.se/ba/d1e0575f-5009-46bc-bdea-f3b9c692ff7d.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Susanne Ljung: Vilket modehus blir först med att sno Anne Carsons stil?",
+        "summary": "Äldre välklädda kulturkvinnor ger modevärlden kulturell kredd. Inte undra på att det florerar rykten kända märken försöker sätta klorna i Nobelpristagaren Anne Carson, skriver DN:s Susanne Ljung.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Susanne Ljung: Which fashion house will be first to steal Anne Carson's style?",
+        "summary": "Older, well-dressed women of culture lend the fashion world cultural credibility. No wonder rumours are circulating that famous brands are trying to sink their claws into Nobel laureate Anne Carson, writes Susanne Ljung of DN."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T16:15:53+01:00"
+      }
+    },
     {
       "id": "bb7a1b5e0fe5",
       "schema_version": 1,
@@ -5362,33 +5389,6 @@
       "en": {
         "title": "Editorial: The only thing missing is for Kim Jong-Un to show up too",
         "summary": "Donald Trump, Vladimir Putin and Xi Jinping would like to divide the world between themselves. But power does not match their ambitions."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T19:31:10+01:00"
-      }
-    },
-    {
-      "id": "3d9632d9f563",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/hirokazu-kore-eda-ai-kan-aldrig-fylla-tomrummet-efter-vara-doda",
-      "guid": "https://www.dn.se/kultur/hirokazu-kore-eda-ai-kan-aldrig-fylla-tomrummet-efter-vara-doda/",
-      "published_at": "2026-11-18T19:27:48+01:00",
-      "fetched_at": "2026-11-18T19:31:01+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/02a994e6-1cd5-4ee6-90ba-e2bbd181e92e.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Hirokazu Kore-eda: ”AI kan aldrig fylla tomrummet efter våra döda”",
-        "summary": "Kan en robotpojke fylla tomrummet efter ett dött barn? Frågan ställs på sin spets i Hirokazu Kore-edas science fiction-drama ”Sheep in the box”. Nicholas Wennö möter den japanske mästerregissören i ett samtal om förlust, fantasi och varför tekniken varken kan ersätta de döda eller mäta sig med…",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Hirokazu Kore-eda: \"AI can never fill the void left by our dead\"",
-        "summary": "Can a robot boy fill the void left by a dead child? The question is pushed to its limit in Hirokazu Kore-eda's science fiction drama \"Sheep in the box\". Nicholas Wennö meets the Japanese master director in a conversation about loss, imagination and why technology can neither replace the dead nor measure up to them…"
       },
       "translation": {
         "status": "done",
