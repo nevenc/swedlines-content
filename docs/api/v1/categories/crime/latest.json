@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T14:31:14+01:00",
+  "generated_at": "2026-11-21T14:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1d5324008395",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/krim/babyface-tillbaka-15-ar-efter-skracken",
+      "guid": "https://www.expressen.se/nyheter/krim/babyface-tillbaka-15-ar-efter-skracken/",
+      "published_at": "2026-11-21T14:37:28+01:00",
+      "fetched_at": "2026-11-21T14:45:47+01:00",
+      "category": "crime",
+      "sv": {
+        "title": "”Babyface” tillbaka – 15 år efter skräcken",
+        "summary": "Serievåldtäktsmannen ”Babyface”, 33, har häktats för en ny våldtäkt. För drygt 15 år sedan satte han skräck i Göteborg efter en våg av överfall mot kvinnor i deras hem. Hans barnsliga utseende stack ut och gav honom öknamnet.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "\"Babyface\" back – 15 years after the terror",
+        "summary": "The serial rapist \"Babyface\", 33, has been remanded in custody for a new rape. Just over 15 years ago he spread terror in Göteborg after a wave of attacks on women in their homes. His childlike appearance stood out and gave him his nickname."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T14:45:52+01:00"
+      }
+    },
     {
       "id": "910e23f13dfe",
       "schema_version": 1,
@@ -5356,35 +5382,6 @@
       "en": {
         "title": "Relative convicted of sexual abuse of children",
         "summary": "A man in his 20s in Värmland County is sentenced to nine years in prison for multiple counts of aggravated sexual…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T18:15:56+01:00"
-      }
-    },
-    {
-      "id": "a3e89dcbaed7",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/46ZhOLjnlXrgZmYjgVhXL6/foernedrades-och-misshandlades-av-pojkgaeng-stampade-pa-mitt-huvud",
-      "guid": "46ZhOLjnlXrgZmYjgVhXL6",
-      "published_at": "2026-11-17T18:09:24+01:00",
-      "fetched_at": "2026-11-17T18:15:48+01:00",
-      "category": "crime",
-      "feed_categories": [
-        "Brott och straff"
-      ],
-      "sv": {
-        "title": "Förnedrades och misshandlades av pojkgäng: ”Stampade på mitt huvud”",
-        "summary": "Domen mot pojkgänget föll i dag i Västmanlands tingsrätt. Sex tonåringar var inblandade i förnedringsmisshandeln, men tre av dem var under 15 år och kunde därför inte åtalas eller dömas.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Humiliated and assaulted by boy gang: \"Stomped on my head\"",
-        "summary": "The verdict against the boy gang was handed down today at Västmanland District Court. Six teenagers were involved in the humiliation assault, but three of them were under 15 and could therefore not be charged or convicted."
       },
       "translation": {
         "status": "done",

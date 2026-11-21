@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-21T14:31:14+01:00",
+  "generated_at": "2026-11-21T14:45:53+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "963d51301969",
+      "schema_version": 1,
+      "source": "dn",
+      "url": "https://www.dn.se/ekonomi/borsfallet-den-som-vill-ta-risk-bor-kopa-stora-techbolag",
+      "guid": "https://www.dn.se/ekonomi/borsfallet-den-som-vill-ta-risk-bor-kopa-stora-techbolag/",
+      "published_at": "2026-11-21T14:35:52+01:00",
+      "fetched_at": "2026-11-21T14:45:46+01:00",
+      "category": "economy",
+      "image_url": "https://static.bonniernews.se/ba/4efdd3c3-4d83-47f6-af99-f85759eee249.jpeg?io=1&width=1000",
+      "sv": {
+        "title": "Börsfallet: ”Den som vill ta risk bör köpa stora techbolag”",
+        "summary": "Det är svårt att veta om botten är nådd efter den senaste tidens ras i värde för AI-bolagen i USA. Det är också svårt att förutsäga vad som händer när marknaderna öppnar igen. En stor del av nedgången inträffade efter att Stockholmsbörsen stängt.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Stock market crash: \"Those who want to take risks should buy big tech companies\"",
+        "summary": "It is hard to know whether the bottom has been reached after the recent plunge in value of AI companies in the US. It is also hard to predict what happens when the markets open again. A large part of the decline occurred after the Stockholm Stock Exchange closed."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T14:45:52+01:00"
+      }
+    },
     {
       "id": "1e093b4f180f",
       "schema_version": 1,
@@ -5362,33 +5389,6 @@
       "en": {
         "title": "Sandra Stiskalo: Russell Brand is still loved",
         "summary": "LONDON. In the 2000s the audience could not stop laughing at Russell Brand. Now he is serving a ten-and-a-half-year prison sentence – but far from everyone has abandoned him."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-18T18:45:55+01:00"
-      }
-    },
-    {
-      "id": "5afaa809f009",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/sverige/maklare-kan-behova-upplysa-om-hotbild-mot-adresser",
-      "guid": "https://www.dn.se/sverige/maklare-kan-behova-upplysa-om-hotbild-mot-adresser/",
-      "published_at": "2026-11-18T18:42:11+01:00",
-      "fetched_at": "2026-11-18T18:45:41+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/7950f79f-7980-4766-868b-9c4d990cf0e9.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Mäklare kan behöva upplysa om hotbild mot adresser",
-        "summary": "DN har rapporterat om mannen som ovetande köpte en gängledares lägenhet och tvingades fly. Nu öppnar tillsynsmyndigheten för att hotbild kan ingå i mäklares upplysningsplikt. – Den är långtgående, säger Niclas Ernebratt, jurist på Fastighetsmäklarinspektionen.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Brokers may need to disclose threats against addresses",
-        "summary": "DN has reported on the man who unknowingly bought a gang leader's apartment and was forced to flee. Now the supervisory authority is opening up for threat assessments possibly to be included in brokers' duty to disclose. – It is far-reaching, says Niclas Ernebratt, lawyer at Fastighetsmäklarinspektionen."
       },
       "translation": {
         "status": "done",
