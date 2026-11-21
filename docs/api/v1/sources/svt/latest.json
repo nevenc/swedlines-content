@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T18:01:17+01:00",
+  "generated_at": "2026-11-21T18:15:56+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "2d4a87d35f33",
+      "schema_version": 1,
+      "source": "svt",
+      "url": "https://www.svt.se/nyheter/lokalt/dalarna/tagstopp-i-falun-pa-grund-av-polisinsats",
+      "guid": "https://www.svt.se/nyheter/lokalt/dalarna/tagstopp-i-falun-pa-grund-av-polisinsats",
+      "published_at": "2026-11-21T18:03:09+01:00",
+      "fetched_at": "2026-11-21T18:15:48+01:00",
+      "category": "sweden",
+      "sv": {
+        "title": "Tågstopp i Falun på grund av polisinsats",
+        "summary": "Tåget mellan Falun och Borlänge har ställts in till följd av en polisinsats, enligt SJ.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Train stoppage in Falun due to police operation",
+        "summary": "The train between Falun and Borlänge has been cancelled due to a police operation, according to SJ."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T18:15:56+01:00"
+      }
+    },
     {
       "id": "cc61d0b1c478",
       "schema_version": 1,
@@ -5174,32 +5200,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-15T22:31:01+01:00"
-      }
-    },
-    {
-      "id": "24fcd4febc49",
-      "schema_version": 1,
-      "source": "svt",
-      "url": "https://www.svt.se/nyheter/inrikes/s-totalpaket-vinststopp-i-skolan-och-nej-till-fackligt-veto",
-      "guid": "https://www.svt.se/nyheter/inrikes/s-totalpaket-vinststopp-i-skolan-och-nej-till-fackligt-veto",
-      "published_at": "2026-11-15T22:04:29+01:00",
-      "fetched_at": "2026-11-15T22:15:42+01:00",
-      "category": "politics",
-      "sv": {
-        "title": "S totalpaket: Vinststopp i skolan och nej till fackligt veto",
-        "summary": "SVT har nu tagit del av Magdalena Andersson (S) totalpaket i sin helhet. S vill bland annat se slopat lönegolv för arbetskraftsinvandring, vinststopp i skolan samt lättnader för jordbruket.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Social Democrats' full package: profit cap in schools and no to union veto",
-        "summary": "SVT has now obtained Magdalena Andersson (S)'s full package in its entirety. Among other things, the Social Democrats want to scrap the wage floor for labour immigration, introduce a profit cap in schools and ease rules for agriculture."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-15T22:15:59+01:00"
       }
     }
   ]
