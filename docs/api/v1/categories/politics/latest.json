@@ -1,7 +1,60 @@
 {
-  "generated_at": "2026-11-21T17:31:10+01:00",
+  "generated_at": "2026-11-21T17:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "6ffdeb70afd1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=07375efb-5e39-4f07-b79d-99e18c77d1e5",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=07375efb-5e39-4f07-b79d-99e18c77d1e5",
+      "published_at": "2026-11-21T17:36:20+01:00",
+      "fetched_at": "2026-11-21T17:45:44+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Tredje största C–distriktet vill ha Kristersson: ”Mest framkomliga”",
+        "summary": "Tredje största C-distriktet ger besked",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Third-largest Centre Party district wants Kristersson: \"Most viable\"",
+        "summary": "The Centre Party's third-largest district gives its verdict"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "578e2d85ba89",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Jn1Kx8/har-blir-det-stopp-for-bilarna-vansinnigt",
+      "guid": "https://www.svd.se/a/Jn1Kx8/har-blir-det-stopp-for-bilarna-vansinnigt?utm_medium=rss",
+      "published_at": "2026-11-21T17:32:55+01:00",
+      "fetched_at": "2026-11-21T17:45:43+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/f50993ae-b16d-3425-898f-6f0b05ca509a?format=auto&s=f9aadffa75f82a7584ad39dbbdd99a0b13aa84af&w=1000",
+      "sv": {
+        "title": "Här blir det stopp för bilarna – ”vansinnigt”",
+        "summary": "I sin första budget för mandatperioden vill Stockholms stad minska biltrafiken alltmer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here's the stop for cars – \"insane\"",
+        "summary": "In its first budget for the mandate period, the City of Stockholm wants to reduce car traffic more and more."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
     {
       "id": "04f480cdf44a",
       "schema_version": 1,
@@ -5375,62 +5428,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-17T16:31:15+01:00"
-      }
-    },
-    {
-      "id": "ec2ab9946ab0",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/qqQc5UedrZViUsvfGp2WX/talmannens-besked-da-ska-en-ny-regering-vara-pa-plats",
-      "guid": "qqQc5UedrZViUsvfGp2WX",
-      "published_at": "2026-11-17T16:06:45+01:00",
-      "fetched_at": "2026-11-17T16:15:51+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Talmannens besked: Då ska en ny regering vara på plats",
-        "summary": "Talmannen godkänner Kristerssons önskan • ”En veckas anstånd i processen”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Speaker's decision: a new government to be in place within",
-        "summary": "The Speaker approves Kristersson's request • \"One week's extension in the process\""
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:15:57+01:00"
-      }
-    },
-    {
-      "id": "d3c0257bfb23",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/9Bvo6M/talmannen-haller-presstraff",
-      "guid": "https://www.aftonbladet.se/nyheter/a/9Bvo6M/talmannen-haller-presstraff?utm_medium=rss",
-      "published_at": "2026-11-17T16:00:15+01:00",
-      "fetched_at": "2026-11-17T16:01:22+01:00",
-      "category": "politics",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/bbca2821bd1ecea89c49a97e68205669.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "Talmannen håller pressträff",
-        "summary": "Kristersson har bett om mer tid. Och det får han. – Min uppfattning är att den här…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Speaker holds press conference",
-        "summary": "Kristersson has asked for more time. And he gets it. – My understanding is that the here…"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-17T16:01:28+01:00"
       }
     }
   ]

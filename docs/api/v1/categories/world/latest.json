@@ -1,7 +1,82 @@
 {
-  "generated_at": "2026-11-21T17:31:10+01:00",
+  "generated_at": "2026-11-21T17:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c4887de24dbc",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80166",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80166&utm_medium=rss",
+      "published_at": "2026-11-21T17:42:57+01:00",
+      "fetched_at": "2026-11-21T17:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Uppgift: Nytt ryskt fartyg i finländska vatten"
+      },
+      "en": {
+        "title": "Reports: New Russian vessel in Finnish waters"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "1febf7284b76",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3YmnfRgE77etv8OFSLgsdb/zelenskyj-varnar-putin-krimbron-kommer-inte-att-sta-kvar",
+      "guid": "3YmnfRgE77etv8OFSLgsdb",
+      "published_at": "2026-11-21T17:41:55+01:00",
+      "fetched_at": "2026-11-21T17:45:45+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Utrikesnyheter"
+      ],
+      "sv": {
+        "title": "Zelenskyj varnar Putin: Krimbron kommer inte att stå kvar",
+        "summary": "Uttalandet kommer efter två ukrainska attacker mot Krimbron tidigare i veckan. Den 17 november förstördes enligt ukrainska uppgifter en större del av vägbrosektionen i en operation som genomfördes av Ukrainas säkerhetstjänst SBU.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Zelensky warns Putin: The Crimea bridge will not stay standing",
+        "summary": "The statement comes after two Ukrainian attacks on the Crimea bridge earlier this week. On 17 November, according to Ukrainian reports, a larger part of the road bridge section was destroyed in an operation carried out by Ukraine's security service SBU."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "00f786ff0e64",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80165",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80165&utm_medium=rss",
+      "published_at": "2026-11-21T17:31:05+01:00",
+      "fetched_at": "2026-11-21T17:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "”Kaotiskt” – trögt för fossilförbud på klimatmötet"
+      },
+      "en": {
+        "title": "\"Chaotic\" – slow progress on fossil fuel ban at climate summit"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
     {
       "id": "ef1485db1278",
       "schema_version": 1,
@@ -5298,84 +5373,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-20T04:31:05+01:00"
-      }
-    },
-    {
-      "id": "1885c3256d41",
-      "schema_version": 1,
-      "source": "sr",
-      "url": "https://www.sverigesradio.se/artikel/9346668",
-      "guid": "rss:sr.se/article/9346668",
-      "published_at": "2026-11-20T04:00:00+01:00",
-      "fetched_at": "2026-11-20T04:15:38+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Toppmöte kan bli nystart mellan EU och Storbritannien",
-        "summary": "EU och Storbritannien håller ett toppmöte i Bryssel och målet är att komma överens om ett närmare samarbete. Enklare regler för matexport och större frihet för unga att jobba och plugga utomlands är viktiga delar av avtalet, som vissa hoppas ska öppna för tätare relationer framåt.",
-        "summary_origin": "truncated"
-      },
-      "en": {
-        "title": "Summit could mark a fresh start between the EU and the United Kingdom",
-        "summary": "The EU and the United Kingdom are holding a summit in Brussels, with the aim of agreeing on closer cooperation. Simpler rules for food exports and greater freedom for young people to work and study abroad are important parts of the agreement, which some hope will open the way for closer relations going forward."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T04:15:43+01:00"
-      }
-    },
-    {
-      "id": "50aeb206af7b",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/QroKb8/huthierna-saudisk-dodlig-attack",
-      "guid": "https://www.svd.se/a/QroKb8/huthierna-saudisk-dodlig-attack?utm_medium=rss",
-      "published_at": "2026-11-20T03:16:37+01:00",
-      "fetched_at": "2026-11-20T03:30:59+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Huthierna: Saudisk dödlig attack",
-        "summary": "Huthikontrollerade myndigheter anklagar saudiska styrkor för att från flygplan ha attackerat en…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Houthis: Saudi deadly attack",
-        "summary": "Houthi-controlled authorities accuse Saudi forces of attacking a… from aircraft"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T03:31:05+01:00"
-      }
-    },
-    {
-      "id": "5960942f3ca8",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://www.aftonbladet.se/nyheter/a/KL3kmG/huthierna-saudisk-dodlig-attack",
-      "guid": "https://www.aftonbladet.se/nyheter/a/KL3kmG/huthierna-saudisk-dodlig-attack?utm_medium=rss",
-      "published_at": "2026-11-20T03:16:36+01:00",
-      "fetched_at": "2026-11-20T03:31:00+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Huthierna: Saudisk dödlig attack",
-        "summary": "Huthikontrollerade myndigheter anklagar saudiska styrkor för att från flygplan ha attackerat en…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Houthis: Saudi deadly attack",
-        "summary": "Houthi-controlled authorities accuse Saudi forces of attacking a… from aircraft"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-20T03:31:05+01:00"
       }
     }
   ]

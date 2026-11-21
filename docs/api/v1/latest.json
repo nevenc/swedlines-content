@@ -1,7 +1,187 @@
 {
-  "generated_at": "2026-11-21T17:31:10+01:00",
+  "generated_at": "2026-11-21T17:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "c4887de24dbc",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80166",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80166&utm_medium=rss",
+      "published_at": "2026-11-21T17:42:57+01:00",
+      "fetched_at": "2026-11-21T17:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Uppgift: Nytt ryskt fartyg i finländska vatten"
+      },
+      "en": {
+        "title": "Reports: New Russian vessel in Finnish waters"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "1febf7284b76",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3YmnfRgE77etv8OFSLgsdb/zelenskyj-varnar-putin-krimbron-kommer-inte-att-sta-kvar",
+      "guid": "3YmnfRgE77etv8OFSLgsdb",
+      "published_at": "2026-11-21T17:41:55+01:00",
+      "fetched_at": "2026-11-21T17:45:45+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Utrikesnyheter"
+      ],
+      "sv": {
+        "title": "Zelenskyj varnar Putin: Krimbron kommer inte att stå kvar",
+        "summary": "Uttalandet kommer efter två ukrainska attacker mot Krimbron tidigare i veckan. Den 17 november förstördes enligt ukrainska uppgifter en större del av vägbrosektionen i en operation som genomfördes av Ukrainas säkerhetstjänst SBU.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Zelensky warns Putin: The Crimea bridge will not stay standing",
+        "summary": "The statement comes after two Ukrainian attacks on the Crimea bridge earlier this week. On 17 November, according to Ukrainian reports, a larger part of the road bridge section was destroyed in an operation carried out by Ukraine's security service SBU."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "abffc7c6144c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/se-hojdpunkterna-fran-mjallby-mff",
+      "guid": "791d929c-92b8-4d69-bc95-1ec47171c852",
+      "published_at": "2026-11-21T17:41:44+01:00",
+      "fetched_at": "2026-11-21T17:45:47+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Se höjdpunkterna från Mjällby–MFF",
+        "summary": "Malmö FF knep en poäng på Listerlandet på lördagen. Här kan du se höjdpunkterna från matchen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Watch the highlights from Mjällby–MFF",
+        "summary": "Malmö FF snatched a point on Listerlandet on Saturday. Here you can watch the highlights from the match."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "9c3504b7f361",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=238175ed-61d6-451b-900c-f773816148c8",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=238175ed-61d6-451b-900c-f773816148c8",
+      "published_at": "2026-11-21T17:38:39+01:00",
+      "fetched_at": "2026-11-21T17:45:44+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "SMHI förlänger varning – igen",
+        "summary": "Ändrar igen – då börjar snön falla",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI extends warning – again",
+        "summary": "Changed again – now the snow begins to fall"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "6ffdeb70afd1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=07375efb-5e39-4f07-b79d-99e18c77d1e5",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=07375efb-5e39-4f07-b79d-99e18c77d1e5",
+      "published_at": "2026-11-21T17:36:20+01:00",
+      "fetched_at": "2026-11-21T17:45:44+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Tredje största C–distriktet vill ha Kristersson: ”Mest framkomliga”",
+        "summary": "Tredje största C-distriktet ger besked",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Third-largest Centre Party district wants Kristersson: \"Most viable\"",
+        "summary": "The Centre Party's third-largest district gives its verdict"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "578e2d85ba89",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Jn1Kx8/har-blir-det-stopp-for-bilarna-vansinnigt",
+      "guid": "https://www.svd.se/a/Jn1Kx8/har-blir-det-stopp-for-bilarna-vansinnigt?utm_medium=rss",
+      "published_at": "2026-11-21T17:32:55+01:00",
+      "fetched_at": "2026-11-21T17:45:43+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/f50993ae-b16d-3425-898f-6f0b05ca509a?format=auto&s=f9aadffa75f82a7584ad39dbbdd99a0b13aa84af&w=1000",
+      "sv": {
+        "title": "Här blir det stopp för bilarna – ”vansinnigt”",
+        "summary": "I sin första budget för mandatperioden vill Stockholms stad minska biltrafiken alltmer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here's the stop for cars – \"insane\"",
+        "summary": "In its first budget for the mandate period, the City of Stockholm wants to reduce car traffic more and more."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "00f786ff0e64",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80165",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80165&utm_medium=rss",
+      "published_at": "2026-11-21T17:31:05+01:00",
+      "fetched_at": "2026-11-21T17:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "”Kaotiskt” – trögt för fossilförbud på klimatmötet"
+      },
+      "en": {
+        "title": "\"Chaotic\" – slow progress on fossil fuel ban at climate summit"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
     {
       "id": "90ddb28e3985",
       "schema_version": 1,
@@ -5256,191 +5436,6 @@
         "model": "claude-haiku-5-5",
         "prompt_version": "2026-11-14b",
         "translated_at": "2026-11-21T09:45:49+01:00"
-      }
-    },
-    {
-      "id": "2b23d306407b",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/ekonomi/sa-agerar-kunderna-pa-elprischocken",
-      "guid": "65060c1e-c6c9-4f10-a00a-21f7d2da4936",
-      "published_at": "2026-11-21T09:30:20+01:00",
-      "fetched_at": "2026-11-21T09:31:11+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/76f88db1-5a5a-4500-ae6b-a9931e1f4b3a.jpg?width=600",
-      "sv": {
-        "title": "Så agerar kunderna på elprischocken",
-        "summary": "En stigande oro för höga elpriser i vinter får hushållen att agera. Många väljer i större utsträckning än tidigare att binda sina elavtal, uppger energibolaget Eon. Andra aktörer ser ingen tydlig tendens.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "How customers are reacting to the electricity price shock",
-        "summary": "Growing concern over high electricity prices this winter is prompting households to act. Many are choosing to lock in their electricity contracts to a greater extent than before, says energy company Eon. Other players see no clear trend."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:31:15+01:00"
-      }
-    },
-    {
-      "id": "76bc16b6f364",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/qOLw6w/sa-agerar-kunderna-pa-elprischocken",
-      "guid": "https://www.svd.se/a/qOLw6w/sa-agerar-kunderna-pa-elprischocken?utm_medium=rss",
-      "published_at": "2026-11-21T09:30:11+01:00",
-      "fetched_at": "2026-11-21T09:45:44+01:00",
-      "category": "economy",
-      "image_url": "https://akamai.vgc.no/v2/images/f255525f-5361-3f2b-803e-c561da55485d?format=auto&s=58092c27e864c7822dce6caf31292a36abfb369e&w=1000",
-      "sv": {
-        "title": "Så agerar kunderna på elprischocken",
-        "summary": "En stigande oro för höga elpriser i vinter får hushållen att agera. Många väljer i större…",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "How customers are reacting to the electricity price shock",
-        "summary": "Growing concern over high electricity prices this winter is prompting households to act. Many are choosing to..."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:45:49+01:00"
-      }
-    },
-    {
-      "id": "fc7f71e128a2",
-      "schema_version": 1,
-      "source": "sydsvenskan",
-      "url": "https://www.sydsvenskan.se/sverige/svenska-poliser-ska-placeras-i-irak",
-      "guid": "78520da4-c4e4-4ed6-a191-9ed51afaf4f6",
-      "published_at": "2026-11-21T09:29:36+01:00",
-      "fetched_at": "2026-11-21T09:31:11+01:00",
-      "category": "crime",
-      "image_url": "https://static.bonniernews.se/ba/ad91288e-6e1c-46bd-98b6-6865b7bddae0.jpg?width=600",
-      "sv": {
-        "title": "Svenska poliser ska placeras i Irak",
-        "summary": "Svenska poliser ska placeras på stationer utomlands för att komma åt gängkriminella som flytt Sverige. Det säger rikspolischef Petra Lundh i Ekots Lördagsintervju.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Swedish police to be posted in Iraq",
-        "summary": "Swedish police are to be placed at stations abroad to reach gang criminals who have fled Sweden. This is according to National Police Commissioner Petra Lundh in Ekot's Lördagsintervju."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:31:15+01:00"
-      }
-    },
-    {
-      "id": "a491986c1b56",
-      "schema_version": 1,
-      "source": "svd",
-      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80146",
-      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80146&utm_medium=rss",
-      "published_at": "2026-11-21T09:27:45+01:00",
-      "fetched_at": "2026-11-21T09:31:06+01:00",
-      "category": "world",
-      "sv": {
-        "title": "Larm om drönare i Finland och Estland i natt"
-      },
-      "en": {
-        "title": "Alarm over drones in Finland and Estonia overnight"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:31:15+01:00"
-      }
-    },
-    {
-      "id": "d07aa90e8dff",
-      "schema_version": 1,
-      "source": "aftonbladet",
-      "url": "https://tv.aftonbladet.se/video/411002",
-      "guid": "https://tv.aftonbladet.se/video/411002?utm_medium=rss",
-      "published_at": "2026-11-21T09:27:04+01:00",
-      "fetched_at": "2026-11-21T11:45:45+01:00",
-      "category": "world",
-      "image_url": "https://images.stream.schibsted.media/users/ab_/images/3e13ec279617231f9d6e2de0fddcf253.jpg?t%5B%5D=1000x563q80",
-      "sv": {
-        "title": "Flyr undan rysk dubbelattack",
-        "summary": "Attackerar räddningspersonalen",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Flees Russian double attack",
-        "summary": "Attacks rescue personnel"
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T11:45:53+01:00"
-      }
-    },
-    {
-      "id": "de5b9e27734d",
-      "schema_version": 1,
-      "source": "di",
-      "url": "https://www.di.se/nyheter/dronarlarm-i-finland-och-estland-natoflyg-i-luften",
-      "guid": "d6eca980-790f-4086-ab1c-fddb5314f94e",
-      "published_at": "2026-11-21T09:26:42+01:00",
-      "fetched_at": "2026-11-21T09:31:09+01:00",
-      "category": "economy",
-      "image_url": "https://static.bonniernews.se/ba/29fa80d0-958b-4bbc-88c1-709ee223b11b.jpg?width=600",
-      "sv": {
-        "title": "Drönarlarm i Finland och Estland – Natoflyg i luften",
-        "summary": "Invånare i Estland har varnats för drönare under natten. I Finland har flyg- och sjötrafik begränsats.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Drone alarm in Finland and Estonia – NATO aircraft in the air",
-        "summary": "Residents of Estonia have been warned about drones during the night. In Finland, air and sea traffic has been restricted."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:31:15+01:00"
-      }
-    },
-    {
-      "id": "a619edcec2e1",
-      "schema_version": 1,
-      "source": "dn",
-      "url": "https://www.dn.se/kultur/tove-styrkes-efterfest-nar-himmelska-hojder-pa-varmeverket",
-      "guid": "https://www.dn.se/kultur/tove-styrkes-efterfest-nar-himmelska-hojder-pa-varmeverket/",
-      "published_at": "2026-11-21T09:25:26+01:00",
-      "fetched_at": "2026-11-21T09:31:06+01:00",
-      "category": "culture",
-      "image_url": "https://static.bonniernews.se/ba/2f8b12ab-dbae-407b-bfe5-21a45a96ab0b.jpeg?io=1&width=1000",
-      "sv": {
-        "title": "Tove Styrkes efterfest når himmelska höjder på Värmeverket",
-        "summary": "Tove Styrke blir dansgolvsterapeut och leder publiken på Värmeverket genom en efterfest. Den konceptuella spelningen gifter sig väl med hennes senaste skiva, ”I thought this story wasn't about me”, skriver DN:s Frida Söderqvist.",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "Tove Styrke's afterparty reaches heavenly heights at Värmeverket",
-        "summary": "Tove Styrke becomes a dance-floor therapist and leads the audience through an afterparty at Värmeverket. The conceptual gig pairs well with her latest album, \"I thought this story wasn't about me\", writes DN's Frida Söderqvist."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "anthropic",
-        "model": "claude-haiku-5-5",
-        "prompt_version": "2026-11-14b",
-        "translated_at": "2026-11-21T09:31:15+01:00"
       }
     }
   ]

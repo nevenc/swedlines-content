@@ -1,7 +1,187 @@
 {
-  "generated_at": "2026-11-21T17:31:10+01:00",
-  "count": 327,
+  "generated_at": "2026-11-21T17:45:55+01:00",
+  "count": 334,
   "items": [
+    {
+      "id": "c4887de24dbc",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80166",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80166&utm_medium=rss",
+      "published_at": "2026-11-21T17:42:57+01:00",
+      "fetched_at": "2026-11-21T17:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "Uppgift: Nytt ryskt fartyg i finländska vatten"
+      },
+      "en": {
+        "title": "Reports: New Russian vessel in Finnish waters"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "1febf7284b76",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3YmnfRgE77etv8OFSLgsdb/zelenskyj-varnar-putin-krimbron-kommer-inte-att-sta-kvar",
+      "guid": "3YmnfRgE77etv8OFSLgsdb",
+      "published_at": "2026-11-21T17:41:55+01:00",
+      "fetched_at": "2026-11-21T17:45:45+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Utrikesnyheter"
+      ],
+      "sv": {
+        "title": "Zelenskyj varnar Putin: Krimbron kommer inte att stå kvar",
+        "summary": "Uttalandet kommer efter två ukrainska attacker mot Krimbron tidigare i veckan. Den 17 november förstördes enligt ukrainska uppgifter en större del av vägbrosektionen i en operation som genomfördes av Ukrainas säkerhetstjänst SBU.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Zelensky warns Putin: The Crimea bridge will not stay standing",
+        "summary": "The statement comes after two Ukrainian attacks on the Crimea bridge earlier this week. On 17 November, according to Ukrainian reports, a larger part of the road bridge section was destroyed in an operation carried out by Ukraine's security service SBU."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "abffc7c6144c",
+      "schema_version": 1,
+      "source": "sydsvenskan",
+      "url": "https://www.sydsvenskan.se/sport/se-hojdpunkterna-fran-mjallby-mff",
+      "guid": "791d929c-92b8-4d69-bc95-1ec47171c852",
+      "published_at": "2026-11-21T17:41:44+01:00",
+      "fetched_at": "2026-11-21T17:45:47+01:00",
+      "category": "sports",
+      "sv": {
+        "title": "Se höjdpunkterna från Mjällby–MFF",
+        "summary": "Malmö FF knep en poäng på Listerlandet på lördagen. Här kan du se höjdpunkterna från matchen.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Watch the highlights from Mjällby–MFF",
+        "summary": "Malmö FF snatched a point on Listerlandet on Saturday. Here you can watch the highlights from the match."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "9c3504b7f361",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=238175ed-61d6-451b-900c-f773816148c8",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=238175ed-61d6-451b-900c-f773816148c8",
+      "published_at": "2026-11-21T17:38:39+01:00",
+      "fetched_at": "2026-11-21T17:45:44+01:00",
+      "category": "weather",
+      "sv": {
+        "title": "SMHI förlänger varning – igen",
+        "summary": "Ändrar igen – då börjar snön falla",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "SMHI extends warning – again",
+        "summary": "Changed again – now the snow begins to fall"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "6ffdeb70afd1",
+      "schema_version": 1,
+      "source": "expressen",
+      "url": "https://www.expressen.se/nyheter/expressen-direkt?post=07375efb-5e39-4f07-b79d-99e18c77d1e5",
+      "guid": "https://www.expressen.se/nyheter/expressen-direkt/?post=07375efb-5e39-4f07-b79d-99e18c77d1e5",
+      "published_at": "2026-11-21T17:36:20+01:00",
+      "fetched_at": "2026-11-21T17:45:44+01:00",
+      "category": "politics",
+      "sv": {
+        "title": "Tredje största C–distriktet vill ha Kristersson: ”Mest framkomliga”",
+        "summary": "Tredje största C-distriktet ger besked",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Third-largest Centre Party district wants Kristersson: \"Most viable\"",
+        "summary": "The Centre Party's third-largest district gives its verdict"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "578e2d85ba89",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/Jn1Kx8/har-blir-det-stopp-for-bilarna-vansinnigt",
+      "guid": "https://www.svd.se/a/Jn1Kx8/har-blir-det-stopp-for-bilarna-vansinnigt?utm_medium=rss",
+      "published_at": "2026-11-21T17:32:55+01:00",
+      "fetched_at": "2026-11-21T17:45:43+01:00",
+      "category": "politics",
+      "image_url": "https://akamai.vgc.no/v2/images/f50993ae-b16d-3425-898f-6f0b05ca509a?format=auto&s=f9aadffa75f82a7584ad39dbbdd99a0b13aa84af&w=1000",
+      "sv": {
+        "title": "Här blir det stopp för bilarna – ”vansinnigt”",
+        "summary": "I sin första budget för mandatperioden vill Stockholms stad minska biltrafiken alltmer.",
+        "summary_origin": "feed"
+      },
+      "en": {
+        "title": "Here's the stop for cars – \"insane\"",
+        "summary": "In its first budget for the mandate period, the City of Stockholm wants to reduce car traffic more and more."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
+    {
+      "id": "00f786ff0e64",
+      "schema_version": 1,
+      "source": "svd",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80165",
+      "guid": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80165&utm_medium=rss",
+      "published_at": "2026-11-21T17:31:05+01:00",
+      "fetched_at": "2026-11-21T17:45:43+01:00",
+      "category": "world",
+      "sv": {
+        "title": "”Kaotiskt” – trögt för fossilförbud på klimatmötet"
+      },
+      "en": {
+        "title": "\"Chaotic\" – slow progress on fossil fuel ban at climate summit"
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
     {
       "id": "90ddb28e3985",
       "schema_version": 1,

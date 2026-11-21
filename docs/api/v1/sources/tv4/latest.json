@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-11-21T17:31:10+01:00",
+  "generated_at": "2026-11-21T17:45:55+01:00",
   "count": 200,
   "items": [
+    {
+      "id": "1febf7284b76",
+      "schema_version": 1,
+      "source": "tv4",
+      "url": "https://www.tv4.se/artikel/3YmnfRgE77etv8OFSLgsdb/zelenskyj-varnar-putin-krimbron-kommer-inte-att-sta-kvar",
+      "guid": "3YmnfRgE77etv8OFSLgsdb",
+      "published_at": "2026-11-21T17:41:55+01:00",
+      "fetched_at": "2026-11-21T17:45:45+01:00",
+      "category": "world",
+      "feed_categories": [
+        "Utrikesnyheter"
+      ],
+      "sv": {
+        "title": "Zelenskyj varnar Putin: Krimbron kommer inte att stå kvar",
+        "summary": "Uttalandet kommer efter två ukrainska attacker mot Krimbron tidigare i veckan. Den 17 november förstördes enligt ukrainska uppgifter en större del av vägbrosektionen i en operation som genomfördes av Ukrainas säkerhetstjänst SBU.",
+        "summary_origin": "truncated"
+      },
+      "en": {
+        "title": "Zelensky warns Putin: The Crimea bridge will not stay standing",
+        "summary": "The statement comes after two Ukrainian attacks on the Crimea bridge earlier this week. On 17 November, according to Ukrainian reports, a larger part of the road bridge section was destroyed in an operation carried out by Ukraine's security service SBU."
+      },
+      "translation": {
+        "status": "done",
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "prompt_version": "2026-11-14b",
+        "translated_at": "2026-11-21T17:45:54+01:00"
+      }
+    },
     {
       "id": "08935732a1ef",
       "schema_version": 1,
@@ -5740,35 +5769,6 @@
       "en": {
         "title": "Smart glasses selling more and more – now the criticism grows",
         "summary": "Smart glasses have existed since 2013, but the technology has taken big strides forward. Today's models can film, record audio and, with the help of AI, answer questions about the surroundings. At the same time, criticism is growing that the cameras are so discreet that people can be filmed without their knowledge."
-      },
-      "translation": {
-        "status": "done",
-        "provider": "claude-code",
-        "model": "claude-fable-5-1",
-        "prompt_version": "2026-11-14",
-        "translated_at": "2026-11-14T14:58:58+01:00"
-      }
-    },
-    {
-      "id": "34beea3ec020",
-      "schema_version": 1,
-      "source": "tv4",
-      "url": "https://www.tv4.se/artikel/22xsNbYnBQ5hp1gsRfqpGm/huvudpersonernas-haelsningar-efter-totalpaketens-deadline",
-      "guid": "22xsNbYnBQ5hp1gsRfqpGm",
-      "published_at": "2026-11-13T18:23:36+01:00",
-      "fetched_at": "2026-11-14T14:36:04+01:00",
-      "category": "politics",
-      "feed_categories": [
-        "/"
-      ],
-      "sv": {
-        "title": "Huvudpersonernas hälsningar – efter ”totalpaketens” deadline",
-        "summary": "”Kommer gå igenom förslagen noggrant”",
-        "summary_origin": "feed"
-      },
-      "en": {
-        "title": "The main players' greetings – after the 'total packages' deadline",
-        "summary": "'Will go through the proposals carefully'"
       },
       "translation": {
         "status": "done",
